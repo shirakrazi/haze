@@ -1,0 +1,37 @@
+name: Update haze data
+
+on:
+  schedule:
+    # Every 15 minutes. GitHub may start scheduled runs a few minutes late.
+    - cron: "4,19,34,49 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-haze-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Pull readings and headlines
+        run: python update.py
+      - name: Save changes
+        run: |
+          if git diff --quiet -- data.json; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name "haze-updater"
+          git config user.email "haze-updater@users.noreply.github.com"
+          git add data.json
+          git commit -m "Update readings and news"
+          git push
