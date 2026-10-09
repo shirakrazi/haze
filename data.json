@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-10T04:00:00+08:00",
+ "updated": "2026-10-10T05:00:00+08:00",
  "psi": {
-  "west": 168,
-  "east": 157,
-  "central": 178,
-  "south": 147,
-  "north": 128
+  "west": 166,
+  "east": 156,
+  "central": 177,
+  "south": 145,
+  "north": 127
  },
  "pm25": {
-  "west": 115,
-  "east": 106,
-  "central": 118,
-  "south": 87,
-  "north": 66
+  "west": 108,
+  "east": 110,
+  "central": 123,
+  "south": 91,
+  "north": 69
  },
  "hist": [
   {
@@ -144,9 +144,19 @@
     "south": 147,
     "north": 128
    }
+  },
+  {
+   "t": "2026-10-10T05:00:00+08:00",
+   "psi": {
+    "west": 166,
+    "east": 156,
+    "central": 177,
+    "south": 145,
+    "north": 127
+   }
   }
  ],
- "newsUpdated": "2026-10-10T04:08:25+08:00",
+ "newsUpdated": "2026-10-10T05:18:08+08:00",
  "news": [
   {
    "source": "CNA",
@@ -155,6 +165,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The New York Times",
+   "title": "Unhealthy haze from wildfires poses no risk to Singapore GP, says F1",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3AzQmhwelgyM2x5V2lkS01YVjl5U3ZWV2p2eFRPUURSbnNkZHNaMGlTNGZlelY2cXVFdVhJSUNuU1NBUHZGbXQ4RXRxSWhTQXZycGtuelhXUmFUb0I3REI5ejVlb1Y4cnozbEpZRUtXZjlMOHZuYmxjcjJrX3FUbTlRWHltUnc3VHpJ?oc=5",
+   "time": "2026-10-10T04:18:40+08:00",
+   "summary": ""
   },
   {
    "source": "The Edge Singapore",
@@ -238,13 +255,6 @@
    "title": "N95 masks to be distributed to more vulnerable individuals once 24-hour PSI exceeds 200: Haze Task Force",
    "url": "https://www.channelnewsasia.com/singapore/haze-psi-nea-task-force-air-quality-n95-mask-distribution-6445376",
    "time": "2026-10-09T21:22:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "2026 Singapore Grand Prix: No changes planned for race weekend entertainment despite worsening air quality, says Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2VRaGxlZk53WlY3UHY3MXhXODJFa1gtSi1sMGQ0RGRYN3B2QTFWenFtN01JZXVRaWZsWEg4UnJTSkNDdXRRSy0zVWhyZjEtUV9qVG9JUnVyeU5PdWdnai1oY2hVYmhPbUNSNEpsQ0U1VnBSdlJvMDQwVHNGdDlVUWd3djV2RGxnRVRlQ0RqazUxNWZt?oc=5",
-   "time": "2026-10-09T21:00:27+08:00",
    "summary": ""
   }
  ]
