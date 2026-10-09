@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-10T00:00:00+08:00",
+ "updated": "2026-10-10T01:00:00+08:00",
  "psi": {
-  "west": 178,
-  "east": 162,
-  "central": 183,
-  "south": 155,
-  "north": 133
+  "west": 174,
+  "east": 161,
+  "central": 181,
+  "south": 152,
+  "north": 132
  },
  "pm25": {
-  "west": 88,
-  "east": 89,
-  "central": 100,
-  "south": 77,
-  "north": 61
+  "west": 87,
+  "east": 104,
+  "central": 109,
+  "south": 67,
+  "north": 70
  },
  "hist": [
   {
@@ -104,9 +104,19 @@
     "south": 155,
     "north": 133
    }
+  },
+  {
+   "t": "2026-10-10T01:00:00+08:00",
+   "psi": {
+    "west": 174,
+    "east": 161,
+    "central": 181,
+    "south": 152,
+    "north": 132
+   }
   }
  ],
- "newsUpdated": "2026-10-10T00:37:03+08:00",
+ "newsUpdated": "2026-10-10T01:51:54+08:00",
  "news": [
   {
    "source": "CNA",
@@ -121,6 +131,13 @@
    "title": "Haze prompts school closures in Malaysia",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOczFkNGpHMElIcGs3cFBaQU5UcVp0NVd3Z2dlU29Cd2dUSDJTMTRFbHBuZWFISk00NzdRTWt2RnVWLVdKMGlDTzlrT2pSRHRmQkhWYnRCSEZGR2NyMUh4M1Fmb09zeFVWQkswMGtVclpEckZNcElfNjZTTjBwSU9LaExIalM0OHdLZlJzMTYtYWtXSmhHcGl5d1pzbzNVRTRsWVFjMnRiODZod9IBrwFBVV95cUxPVHZWeEMyT0pTMUxUdmFldkJ2c1F5V1ZxVm91VGV3MzhZT2F5a0RKQ0JQTFRhNGxrLWUza0pKR1JzbWZfR0ZTd0dka0E5Z1ExaUw4QmItMWRpQWhuMFVHUDg0ZWh0cmtrVEVORWdxR3VpcDlHSHJCUVVDd0cxTEtsenU0cjNIMWNfQjRaVUlkTmpzdUlXekxSZ3ZDRVc0djVMUFhRMmxiRlhCOS1nUzJZ?oc=5",
    "time": "2026-10-10T00:08:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Free Malaysia Today",
+   "title": "Mercy Malaysia prepares haze emergency kits for distribution",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYXpBTjg0R0tXa2RIcFFjVXEwel80UGw5TTBZQnNrSUFSTWdLcTNZbDZYZWtKUmVHbTYxN0tDZ3BxdnlPaTRBNWNTTy16NUxQT1VYdkhTY21xTXNzUXQ3aEpzUi1LNlBjUnNnUk9OZjhIY0VzMDhkeTlyX1JOSWU1cFNDeE01aW1IR1QyOFRyQTVybGtMb2Y3WXV3SHRyXy1iLUpWX195dVpyVHBrakRielRVb3ZYbThGNXUwMg?oc=5",
+   "time": "2026-10-10T00:00:00+08:00",
    "summary": ""
   },
   {
@@ -198,13 +215,6 @@
    "title": "Why Southeast Asia’s Haze Crisis Is So Bad This Year",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeno1UmdxbWxvbDRxSUQyXzRNRmplMUZkTEFZaGZGSDROdGx4X2ZydU9oWnlRRUxoSFJVcmRQeFdDSXptWEhKV1YtNFZIV0RfVlRXd3pUNXFTamVYMlVIWG40cUpPTFBHTWZQSlZIcDcyVXNCbXMwSGh2MU5nRWh6UU5iVklPcTBFV0REZ3g5Qk5WYmt3eERJdEZtNFJiSWJ0ZnYxcGNqdUVLWXFta0lPNWM3V0s0b284QkZWangxdXJpQzBFMVRJcnMtaWk1QzVZY3NOOGYwTGhSSTFtcW0w?oc=5",
    "time": "2026-10-09T20:14:35+08:00",
-   "summary": ""
-  },
-  {
-   "source": "www.mindef.gov.sg",
-   "title": "The SAF Adjusts Activities According to Haze Situation",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DLTV2bWNLbzZvRS1GM0xGeXRiN0FFY2NMZmNZRHE3YmR4YXVQcE9qZURQUFRDdXdxTkQ4cmpTQzdZUjBRdFNpem5VMnZINE4ydlZOSWxvYVFlakFOYTYxTVBZeGpNVHlFTHNBVnl6X0Z1bnNxSXc?oc=5",
-   "time": "2026-10-09T20:14:32+08:00",
    "summary": ""
   }
  ]
