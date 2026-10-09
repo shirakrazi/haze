@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-10T02:00:00+08:00",
+ "updated": "2026-10-10T03:00:00+08:00",
  "psi": {
-  "west": 172,
-  "east": 159,
-  "central": 180,
-  "south": 150,
-  "north": 130
+  "west": 169,
+  "east": 158,
+  "central": 179,
+  "south": 148,
+  "north": 129
  },
  "pm25": {
-  "west": 104,
-  "east": 96,
-  "central": 125,
-  "south": 96,
-  "north": 71
+  "west": 112,
+  "east": 101,
+  "central": 121,
+  "south": 91,
+  "north": 65
  },
  "hist": [
   {
@@ -124,9 +124,19 @@
     "south": 150,
     "north": 130
    }
+  },
+  {
+   "t": "2026-10-10T03:00:00+08:00",
+   "psi": {
+    "west": 169,
+    "east": 158,
+    "central": 179,
+    "south": 148,
+    "north": 129
+   }
   }
  ],
- "newsUpdated": "2026-10-10T02:02:13+08:00",
+ "newsUpdated": "2026-10-10T03:08:06+08:00",
  "news": [
   {
    "source": "CNA",
@@ -141,6 +151,13 @@
    "title": "F1 says Singapore race will go ahead despite Indonesia haze",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTFBRkFaT2FZZ0FwMmV2dW9IZklaVVZPNFBiNE1jOS03ZlFkU3JqU0JfbDVOVnZCc1A0al9UczNtUFlfNFhGNzBETURSbEItQXZTLXFvLUJ1OW40ek1hU0xicUZkUUlnczI1UEM1T0VvYlJNX2MyQkQwZDhhWXRjNzYzUWVMdkVoQm9tT1J5OHV1WWhrOF82YTl6azBhQWVoWlAwc05VbHFkdjB4?oc=5",
    "time": "2026-10-10T01:01:54+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Bernama",
+   "title": "MERCY Malaysia Expands Haze Emergency Response Nationwide",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40bUQxSW13Y3RZU0R6cklXOTh1dDczaUpUZWhESnlpLVdfcnVOWUZPRUhpMmM3T25KTVY1M2otZ0hGSkZqRkhVb3BqMmtIMEhhM1VXelJNWU05VjBCVks4?oc=5",
+   "time": "2026-10-10T00:31:55+08:00",
    "summary": ""
   },
   {
@@ -218,13 +235,6 @@
    "title": "2026 Singapore Grand Prix: No changes planned for race weekend entertainment despite worsening air quality, says Grace Fu",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2VRaGxlZk53WlY3UHY3MXhXODJFa1gtSi1sMGQ0RGRYN3B2QTFWenFtN01JZXVRaWZsWEg4UnJTSkNDdXRRSy0zVWhyZjEtUV9qVG9JUnVyeU5PdWdnai1oY2hVYmhPbUNSNEpsQ0U1VnBSdlJvMDQwVHNGdDlVUWd3djV2RGxnRVRlQ0RqazUxNWZt?oc=5",
    "time": "2026-10-09T21:00:27+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NDTV Profit",
-   "title": "One Of Asia's Richest Cities Is Choking On Haze Ahead Of Its Biggest F1 Weekend. Here's What's Happening",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSFlRQ0NaOUk3eE1tUDd1VG9yVzVsZ3ZBWnpPYldhQTkteVRFVWoxMFEya3VtbEEwc3lWMzJ4X3RmY1A3ZlExYUUxNUhvQnZsU0k3MGJtVndWMG5Bb29leGZHbGRpbFpSQzBCd194cXQ4SHIyZWZaU3VTRHdCT2QwOXNlMDY0clRmNGVrT01RdkdrLU1pbVotZ1NpYkZCamdPWEU0YTJodW1zbVdmSUZaajhvS294YzhfUWlGcGVJaDVCM3JmdU5oaVYxMjFHR2V2ZVMtYU1rYzI0Z9IB4gFBVV95cUxQUkVqYnRMWjlvaWFfNjR6U0o5Tm9ialZVelItd0t1Z0MyaGk1UVVnQjBPaUVEeENRR3NUQ0NnR2gtOHZFVnRXQzVQZnE1RFJQOWZqVTJUYkM1LWZKSk1uSWUtLW9CckhEVHBrSnFLLXdUczFpSXhiMTVqaEpQZHR0SkNpbm5zYkt2QnNkZkJXSDQ1WnpRSjFJQjVVcHV0aHpFcHR2dndHMVNzN3d0NnFlSW1LWlJtRWxZSlQzb2lyQ2V1enc3akVHNmFkbTE0WXJIMEdsSi1VeGxvZjNmMFhiR1Zn?oc=5",
-   "time": "2026-10-09T20:34:23+08:00",
    "summary": ""
   }
  ]
