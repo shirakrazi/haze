@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-09T19:00:00+08:00",
+ "updated": "2026-10-10T00:00:00+08:00",
  "psi": {
-  "west": 187,
-  "east": 168,
-  "central": 192,
-  "south": 166,
-  "north": 136
+  "west": 178,
+  "east": 162,
+  "central": 183,
+  "south": 155,
+  "north": 133
  },
  "pm25": {
-  "west": 91,
-  "east": 113,
-  "central": 123,
-  "south": 83,
-  "north": 69
+  "west": 88,
+  "east": 89,
+  "central": 100,
+  "south": 77,
+  "north": 61
  },
  "hist": [
   {
@@ -94,66 +94,118 @@
     "south": 166,
     "north": 136
    }
+  },
+  {
+   "t": "2026-10-10T00:00:00+08:00",
+   "psi": {
+    "west": 178,
+    "east": 162,
+    "central": 183,
+    "south": 155,
+    "north": 133
+   }
   }
  ],
- "newsUpdated": "2026-10-09T19:53:00+08:00",
+ "newsUpdated": "2026-10-10T00:37:03+08:00",
  "news": [
   {
-   "pinned": true,
    "source": "CNA",
    "title": "CNA: Singapore haze and unhealthy air quality report",
    "url": "https://www.channelnewsasia.com/singapore/singapore-haze-air-quality-unhealthy-psi-6445146",
    "time": "",
-   "summary": "Added by the page owner. Open the article for CNA's full report."
+   "summary": "Added by the page owner. Open the article for CNA's full report.",
+   "pinned": true
   },
   {
-   "source": "Asia News Network",
-   "title": "Haze in Singapore: Air quality remains unhealthy for much of the island",
-   "url": "https://asianews.network/?p=305888",
-   "time": "2026-10-09",
+   "source": "The Manila Times",
+   "title": "Haze prompts school closures in Malaysia",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOczFkNGpHMElIcGs3cFBaQU5UcVp0NVd3Z2dlU29Cd2dUSDJTMTRFbHBuZWFISk00NzdRTWt2RnVWLVdKMGlDTzlrT2pSRHRmQkhWYnRCSEZGR2NyMUh4M1Fmb09zeFVWQkswMGtVclpEckZNcElfNjZTTjBwSU9LaExIalM0OHdLZlJzMTYtYWtXSmhHcGl5d1pzbzNVRTRsWVFjMnRiODZod9IBrwFBVV95cUxPVHZWeEMyT0pTMUxUdmFldkJ2c1F5V1ZxVm91VGV3MzhZT2F5a0RKQ0JQTFRhNGxrLWUza0pKR1JzbWZfR0ZTd0dka0E5Z1ExaUw4QmItMWRpQWhuMFVHUDg0ZWh0cmtrVEVORWdxR3VpcDlHSHJCUVVDd0cxTEtsenU0cjNIMWNfQjRaVUlkTmpzdUlXekxSZ3ZDRVc0djVMUFhRMmxiRlhCOS1nUzJZ?oc=5",
+   "time": "2026-10-10T00:08:00+08:00",
    "summary": ""
   },
   {
-   "source": "Malay Mail",
-   "title": "Haze worsens in Malaysia: Nine areas breach 180 API, Seremban still the worst at 189",
-   "url": "https://www.malaymail.com/news/malaysia/2026/10/09/haze-worsens-in-malaysia-nine-areas-breach-180-api-seremban-still-the-worst-at-189/238393",
-   "time": "2026-10-09T14:30:00+08:00",
-   "summary": "More than half of Malaysia's monitoring stations are in the unhealthy band, with the worst readings in Negeri Sembilan, Johor and Melaka."
+   "source": "Macau Business",
+   "title": "Singapore says ‘ready to roll out’ haze pollution action plan",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcXRZNEgwcmM4Tkh2Zmc1ZFNJR3htWFJDQ3czYlRkaDdZUlpjbWF3ckdXazMxOG9YMmZob2c5YnRwcXVwRmV5RmtsV3BPQndVOFY5WmhHLV9uWlYtem5aNUlSUnU1bUVhU3VPVEJKcnNYWk5WaC1QcEVIMlR6bkVlMkdBUUgxZFNFMXRJSVdLUQ?oc=5",
+   "time": "2026-10-09T23:45:11+08:00",
+   "summary": ""
   },
   {
-   "source": "Malay Mail",
-   "title": "Singapore central region hits 2026 record of 181 PSI amid transboundary haze",
-   "url": "https://www.malaymail.com/news/singapore/2026/10/09/singapore-central-region-hits-2026-record-of-181-psi-amid-transboundary-haze/238371",
-   "time": "2026-10-09T12:30:00+08:00",
-   "summary": "The central region passed the previous 2026 high of 167. NEA says south-easterly or southerly winds may keep carrying smoke to Singapore."
+   "source": "Free Malaysia Today",
+   "title": "Ministry looks into working with Indonesia to fight fires causing haze",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTTFCWDE3YktfdFRNSW5HVFhyVXlhOUVpT012NWVqR21Wb2ZjVUN1SG42UTI5dXp3V0tDMkhXVDc4RXZUcVd2SFA3bFctT1B0V3lxU3BjN3Qwa3I2d3FKOHJBYTdNNGl0YUtjVFhLckp5eS1kd1lDN3BHOXdMSklhWDNXZV9hdWxiZFBlR3RBbnh5cXJvTWxpQklid29tX2llLWc5MVpjTkU4RkIzLXhDZHd1ZC1DcHIzTG9zWkFFZU1fWndPN3kyNTFiZw?oc=5",
+   "time": "2026-10-09T23:38:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Unfazed by haze: JJ Lin says F1 show is a ‘dream come true’, Cortis gush about ‘beautiful city’",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNakxZOGVjRmRIUVk1Mmc0ajFIMkFMemNHRVJVdk94TnF2ZTY5Y0pVUXlvcHFtSEpxWnloMHlBazcyVHRBWS10RFBWeVpheHBXUHNCX0oyZFpIa3BfbTFXYzFvNkdOYmtlT3BwMjA3aThFTnlPZDNtQjd5STVDN2ZtQnZpUlN4OU5BcTd6ZjA2NHdOc0Rwd0dWUjNRWFZnU1p4YU0tellMS3BJbUFtWFEwZG1kSl9Rbm9mZjZVWkRmN1p5NzdDXzUzM2dHdm0xUUxkcUxJ?oc=5",
+   "time": "2026-10-09T23:30:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Mercy Malaysia rolls out nationwide haze emergency response",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVzl6MGdfNDk2MkcweXJEQUFLUFZtajVsUzBrdFpGcjVXUVBKd2Q4RVI0UWxlNzVVRE9RbDh5ZnVad1pCRnJGbjZqRTg1Zkc3Qlh5dUIzNkEwNTFqb21tS0VUUUs2dFFheF9nQVNvT09FZFNQWG4xamZVZy1YN09QdDg1RTNqLUZ2MzczeVduMmZSOHBEV2VqZDBDd1JraUlmWjV2RnJJZTU5QWl6SExyNzlR0gG3AUFVX3lxTE0wNDNXdTY4UjRJNjZfbm0yYVIxekgzUVNoU2VqVTA4WmJld3lBUWdzaWRHSk9SVV9fRjc1clN6T1BzWHFyWldCdkp3Nml4Yzh4U0hrX1JqcUtNV1k5cGNRQVd3QVhHOWJXWVF1cmN6R1QzR2d1akJmcENCYUh0RW45dXc5NnpNcWpOMzBCMGg1SXdiYkZPR0llblFxTExoWU9mRVFhVmpYemsxVzRhNi0yN0FJTHdkQQ?oc=5",
+   "time": "2026-10-09T23:15:11+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "NST Leader: The haze crisis needs more than promises",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMDZmWnhZVmE4dEZMR29VZUlMazduRGZWckNWblp5ZlhyNFd6ODRQemtCMm5iTzhvT1dTNkRmVjVCNXVtczZ5cFF1NVNBS1hoRHdIUUlaVDlsdXRPbmZaUk03My04dTRzQzBDZnFzZWt3bmNTUUduOFpuQk1TRDZqbVUyWlNGWmV0QnVrdVNvVjdVSlJ6UHFZX1VoRVJDU0dsWTViTmoyN3hYZG5DaHcxTNIBowFBVV95cUxPV3h6NFJtUGxFNlQ5TzZqbldqNkpXQ0Rka2Zmc2FhWXBwc1lRVk1jQU5hRjBhQ2VZUUt2SHNnUVlNbTg1dDVEcTdXblZvaWhEeVRXd0xTdWtiZ3dOSDF5OENISHVsd3BtSzhTYVJqazJPYnljcnhiNzRoVHFPSGVaOUxqVUNMbGIySFFvMXdpYmFvNW9fLXRiRjNtc0pHcWtHMWUw?oc=5",
+   "time": "2026-10-09T23:00:23+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Singapore prepares to distribute N95 masks as haze threatens very unhealthy levels",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObEd0ME5oaHNwMG9jYWZpU0VBTjJ3LUl4ZWVFM0FRZnVhdVgzVTY5UF9uWk9yc0NSU0NpbVpoVjhxeF80dm1KYXVIcnB5MzREZm9JRGpMSmFiU1pkNWh0amdiUUNyT3BLYWtwN2lkaGd0UHRBNXVMWWdnX2FrOVRCV05ZZ0gwT1R6em1QNUwtWVc0NGlmQXd3NW1mSjV0MEdFRlN5dXJrOWlIUzlZbXlOaHhISTJEZjNGdDZYXzFxbUxFeGPSAcMBQVVfeXFMTmxHdDBOaGhzcDBvY2FmaVNFQU4ydy1JeGVlRTNBUWZ1YXVYM1U2OVBfblpPcnNDUlNDaW1aaFY4cXhfNHZtSmF1SHJweTM0RGZvSURqTEphYlNaZDVodGpnYlFDck9wS2FrcDdpZGhndFB0QTV1TFlnZ19hazlUQldOWWdIME9UenptUDVMLVlXNDRpZkF3dzVtZko1dDBHRUZTeXVyazlpSFM5WW15Tmh4SEkyRGYzRnQ2WF8xcW1MRXhj?oc=5",
+   "time": "2026-10-09T21:51:06+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Malaysia shuts schools as haze from Indonesian fires chokes Southeast Asia",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3JCeU5Hb3NWcnlBelRhY1JFdVpwM0hURFBfUVhhS3dNT3ljT21JdDRuNnpaaDdCSE9hR3hYYTdDS2Q4eWVyT2FHTENCYUlvUXpsV0lnU0E0VV9pamtEZXpiRWpzelRudzdEOHR1Z2YyU1dWSHdwNEVzNk5aa2NmRXE4M3ZLdFVOdFFqTGg1aHdJSUFYZnNZR3BTUjNkSmxBbHpzTnhtN2hYR2w5dnBFRGE2bVpZZ9IBuwFBVV95cUxOZnVfdmVUTnhzV3FRUXh1Smo3bnY5NU5TeXFIZThVVjFDMS1yZTlKdHhySGVCVkFKWnRVT0lNT0w4RDJfV3U2OWFqOHJEbVM0eklkZjduTGJKQlNuS0J4RmN3TEpLVG9nUkMtOS1tN2NmWFIyY2ZvS1FRWG1DWE1pRjhUenZQUVpsZEdFVjdFQWFQYTZlZWMzWnZ2eGdjVVBrdThudU9MR3JCd2gzaHBpUTQ3VmV1VjN0cF9j?oc=5",
+   "time": "2026-10-09T21:28:17+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "N95 masks to be distributed to more vulnerable individuals once 24-hour PSI exceeds 200: Haze Task Force",
+   "url": "https://www.channelnewsasia.com/singapore/haze-psi-nea-task-force-air-quality-n95-mask-distribution-6445376",
+   "time": "2026-10-09T21:22:00+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne",
-   "title": "Haze watch: PSI enters high-unhealthy range in southern, western and central Singapore",
-   "url": "https://www.asiaone.com/singapore/haze-singapore-psi-high-unhealthy-9-october",
-   "time": "2026-10-09T10:12:00+08:00",
-   "summary": "Schools are moving activities indoors and using air purifiers. The education ministry would consider closures only if the next day's forecast is hazardous, above PSI 300."
+   "title": "2026 Singapore Grand Prix: No changes planned for race weekend entertainment despite worsening air quality, says Grace Fu",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2VRaGxlZk53WlY3UHY3MXhXODJFa1gtSi1sMGQ0RGRYN3B2QTFWenFtN01JZXVRaWZsWEg4UnJTSkNDdXRRSy0zVWhyZjEtUV9qVG9JUnVyeU5PdWdnai1oY2hVYmhPbUNSNEpsQ0U1VnBSdlJvMDQwVHNGdDlVUWd3djV2RGxnRVRlQ0RqazUxNWZt?oc=5",
+   "time": "2026-10-09T21:00:27+08:00",
+   "summary": ""
   },
   {
-   "source": "Malay Mail",
-   "title": "Singapore haze worsens as central region’s air quality nears 2026 high, smoke from Indonesia continues to drift in",
-   "url": "https://www.malaymail.com/news/singapore/2026/10/09/singapore-haze-worsens-as-central-regions-air-quality-nears-2026-high-smoke-from-indonesia-continues-to-drift-in/238308",
-   "time": "2026-10-09T08:49:00+08:00",
-   "summary": "All five regions were unhealthy by 8 am, and dry weather over Sumatra and West Kalimantan may keep the fires going."
+   "source": "AsiaOne",
+   "title": "N95 masks for eligible Singaporeans, changes to outdoor activities at schools, preschools if PSI turns 'very unhealthy'",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNUZ2U3FUb1RfU2UzQU9zNHM3Mno0R0RXRHpVS05hTThzeUNCU1o4eHExaTdCS0h0UkRMbkZPbF8zdG9PSzJocU5YSjJVeEgyYW82Tnc0cUNsS0tNNi1XTGh0NHJJdlR2cFJacEdwR21PQU1pLVI0RFZ4ZnYyZGFVZUVCRmpCM0lKM3RCSlBsZXpiMDQ?oc=5",
+   "time": "2026-10-09T20:15:37+08:00",
+   "summary": ""
   },
   {
-   "source": "WhichSchoolAdvisor",
-   "title": "Haze in Singapore: What It Means for Schools, PE and Outdoor Play",
-   "url": "https://whichschooladvisor.com/singapore/school-news/haze-in-singapore-what-it-means-for-schools-pe-and-outdoor-play",
-   "time": "2026-10-09",
-   "summary": "Explains how schools scale back PE and outdoor play as the hourly PM2.5 reading rises, and when closures are considered."
+   "source": "Bloomberg.com",
+   "title": "Why Southeast Asia’s Haze Crisis Is So Bad This Year",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeno1UmdxbWxvbDRxSUQyXzRNRmplMUZkTEFZaGZGSDROdGx4X2ZydU9oWnlRRUxoSFJVcmRQeFdDSXptWEhKV1YtNFZIV0RfVlRXd3pUNXFTamVYMlVIWG40cUpPTFBHTWZQSlZIcDcyVXNCbXMwSGh2MU5nRWh6UU5iVklPcTBFV0REZ3g5Qk5WYmt3eERJdEZtNFJiSWJ0ZnYxcGNqdUVLWXFta0lPNWM3V0s0b284QkZWangxdXJpQzBFMVRJcnMtaWk1QzVZY3NOOGYwTGhSSTFtcW0w?oc=5",
+   "time": "2026-10-09T20:14:35+08:00",
+   "summary": ""
   },
   {
-   "source": "Bernama",
-   "title": "Red Skies, Thick Haze Shroud Kalimantan As Indonesia Records 1,176 Hotspots",
-   "url": "https://bernama.com/en/world/news.php?id=2617055",
-   "time": "2026-10-08",
-   "summary": "Visibility in Palangka Raya fell to 150 metres, and Indonesia has 61 aircraft on firefighting and patrol duty."
+   "source": "www.mindef.gov.sg",
+   "title": "The SAF Adjusts Activities According to Haze Situation",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DLTV2bWNLbzZvRS1GM0xGeXRiN0FFY2NMZmNZRHE3YmR4YXVQcE9qZURQUFRDdXdxTkQ4cmpTQzdZUjBRdFNpem5VMnZINE4ydlZOSWxvYVFlakFOYTYxTVBZeGpNVHlFTHNBVnl6X0Z1bnNxSXc?oc=5",
+   "time": "2026-10-09T20:14:32+08:00",
+   "summary": ""
   }
  ]
 }
