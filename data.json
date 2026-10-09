@@ -1,0 +1,159 @@
+{
+ "updated": "2026-10-09T19:00:00+08:00",
+ "psi": {
+  "west": 187,
+  "east": 168,
+  "central": 192,
+  "south": 166,
+  "north": 136
+ },
+ "pm25": {
+  "west": 91,
+  "east": 113,
+  "central": 123,
+  "south": 83,
+  "north": 69
+ },
+ "hist": [
+  {
+   "t": "2026-10-08T19:00:00+08:00",
+   "psi": {
+    "west": 139,
+    "east": 108,
+    "central": 137,
+    "south": 105,
+    "north": 98
+   }
+  },
+  {
+   "t": "2026-10-09T00:00:00+08:00",
+   "psi": {
+    "west": 142,
+    "east": 115,
+    "central": 142,
+    "south": 112,
+    "north": 99
+   }
+  },
+  {
+   "t": "2026-10-09T12:00:00+08:00",
+   "psi": {
+    "west": 170,
+    "east": 155,
+    "central": 181,
+    "south": 160,
+    "north": 123
+   }
+  },
+  {
+   "t": "2026-10-09T15:00:00+08:00",
+   "psi": {
+    "west": 180,
+    "east": 161,
+    "central": 189,
+    "south": 166,
+    "north": 131
+   }
+  },
+  {
+   "t": "2026-10-09T16:00:00+08:00",
+   "psi": {
+    "west": 183,
+    "east": 163,
+    "central": 191,
+    "south": 167,
+    "north": 132
+   }
+  },
+  {
+   "t": "2026-10-09T17:00:00+08:00",
+   "psi": {
+    "west": 186,
+    "east": 164,
+    "central": 192,
+    "south": 168,
+    "north": 134
+   }
+  },
+  {
+   "t": "2026-10-09T18:00:00+08:00",
+   "psi": {
+    "west": 187,
+    "east": 166,
+    "central": 192,
+    "south": 167,
+    "north": 135
+   }
+  },
+  {
+   "t": "2026-10-09T19:00:00+08:00",
+   "psi": {
+    "west": 187,
+    "east": 168,
+    "central": 192,
+    "south": 166,
+    "north": 136
+   }
+  }
+ ],
+ "newsUpdated": "2026-10-09T19:53:00+08:00",
+ "news": [
+  {
+   "pinned": true,
+   "source": "CNA",
+   "title": "CNA: Singapore haze and unhealthy air quality report",
+   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-air-quality-unhealthy-psi-6445146",
+   "time": "",
+   "summary": "Added by the page owner. Open the article for CNA's full report."
+  },
+  {
+   "source": "Asia News Network",
+   "title": "Haze in Singapore: Air quality remains unhealthy for much of the island",
+   "url": "https://asianews.network/?p=305888",
+   "time": "2026-10-09",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Haze worsens in Malaysia: Nine areas breach 180 API, Seremban still the worst at 189",
+   "url": "https://www.malaymail.com/news/malaysia/2026/10/09/haze-worsens-in-malaysia-nine-areas-breach-180-api-seremban-still-the-worst-at-189/238393",
+   "time": "2026-10-09T14:30:00+08:00",
+   "summary": "More than half of Malaysia's monitoring stations are in the unhealthy band, with the worst readings in Negeri Sembilan, Johor and Melaka."
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Singapore central region hits 2026 record of 181 PSI amid transboundary haze",
+   "url": "https://www.malaymail.com/news/singapore/2026/10/09/singapore-central-region-hits-2026-record-of-181-psi-amid-transboundary-haze/238371",
+   "time": "2026-10-09T12:30:00+08:00",
+   "summary": "The central region passed the previous 2026 high of 167. NEA says south-easterly or southerly winds may keep carrying smoke to Singapore."
+  },
+  {
+   "source": "AsiaOne",
+   "title": "Haze watch: PSI enters high-unhealthy range in southern, western and central Singapore",
+   "url": "https://www.asiaone.com/singapore/haze-singapore-psi-high-unhealthy-9-october",
+   "time": "2026-10-09T10:12:00+08:00",
+   "summary": "Schools are moving activities indoors and using air purifiers. The education ministry would consider closures only if the next day's forecast is hazardous, above PSI 300."
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Singapore haze worsens as central region’s air quality nears 2026 high, smoke from Indonesia continues to drift in",
+   "url": "https://www.malaymail.com/news/singapore/2026/10/09/singapore-haze-worsens-as-central-regions-air-quality-nears-2026-high-smoke-from-indonesia-continues-to-drift-in/238308",
+   "time": "2026-10-09T08:49:00+08:00",
+   "summary": "All five regions were unhealthy by 8 am, and dry weather over Sumatra and West Kalimantan may keep the fires going."
+  },
+  {
+   "source": "WhichSchoolAdvisor",
+   "title": "Haze in Singapore: What It Means for Schools, PE and Outdoor Play",
+   "url": "https://whichschooladvisor.com/singapore/school-news/haze-in-singapore-what-it-means-for-schools-pe-and-outdoor-play",
+   "time": "2026-10-09",
+   "summary": "Explains how schools scale back PE and outdoor play as the hourly PM2.5 reading rises, and when closures are considered."
+  },
+  {
+   "source": "Bernama",
+   "title": "Red Skies, Thick Haze Shroud Kalimantan As Indonesia Records 1,176 Hotspots",
+   "url": "https://bernama.com/en/world/news.php?id=2617055",
+   "time": "2026-10-08",
+   "summary": "Visibility in Palangka Raya fell to 150 metres, and Indonesia has 61 aircraft on firefighting and patrol duty."
+  }
+ ]
+}
