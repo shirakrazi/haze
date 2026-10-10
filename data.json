@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-11T01:00:00+08:00",
+ "updated": "2026-10-11T03:00:00+08:00",
  "psi": {
   "west": 154,
-  "east": 143,
-  "central": 160,
-  "south": 122,
-  "north": 119
+  "east": 142,
+  "central": 158,
+  "south": 121,
+  "north": 120
  },
  "pm25": {
-  "west": 102,
-  "east": 73,
-  "central": 75,
-  "south": 46,
-  "north": 64
+  "west": 109,
+  "east": 96,
+  "central": 96,
+  "south": 85,
+  "north": 73
  },
  "hist": [
   {
@@ -304,9 +304,19 @@
     "south": 122,
     "north": 119
    }
+  },
+  {
+   "t": "2026-10-11T03:00:00+08:00",
+   "psi": {
+    "west": 154,
+    "east": 142,
+    "central": 158,
+    "south": 121,
+    "north": 120
+   }
   }
  ],
- "newsUpdated": "2026-10-11T01:07:35+08:00",
+ "newsUpdated": "2026-10-11T03:07:15+08:00",
  "news": [
   {
    "source": "CNA",
@@ -359,6 +369,13 @@
    "summary": ""
   },
   {
+   "source": "The New York Times",
+   "title": "Unhealthy haze from wildfires poses no risk to Singapore GP, says F1",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3AzQmhwelgyM2x5V2lkS01YVjl5U3ZWV2p2eFRPUURSbnNkZHNaMGlTNGZlelY2cXVFdVhJSUNuU1NBUHZGbXQ4RXRxSWhTQXZycGtuelhXUmFUb0I3REI5ejVlb1Y4cnozbEpZRUtXZjlMOHZuYmxjcjJrX3FUbTlRWHltUnc3VHpJ?oc=5",
+   "time": "2026-10-10T20:35:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "Jakarta Globe",
    "title": "Indonesia Seeks Malaysia, Singapore Cooperation to Fight Transboundary Haze",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmlCd1VUelR6aUhCcmlZNjhmbWlnaXdtZ3pYdlFySWtTZjZ5YzNKWnYtMmRXS29OVjJfT3JLeUdUZlRfeVZDblRJUG1mWGloYVlhNlotNHRBZHhUN0dzVFlIazY0eTdoZWhmNkZ5ODQzaEFPVTVIVGpoVEE3bjdmZzlWbDhYREFfcVZXRWxTLURXcmo1N3czX25pb0RvZkZHaHcyRVpR?oc=5",
@@ -398,13 +415,6 @@
    "title": "Unhealthy air and haze fail to deter visitors at Melaka tourist spots",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZDI0ODFmMXE1aVYwUTRWTHlHa0g1NDBUU2lWd1NCWGtHZUJPUGdKMTdRZ2dwUjVFWGlvNTk0RWg1UWlsaXA5VEh1dWwzWG1KN2RaWVl1T05YRWNkYXhkMzRCN20xaWxvMm1FcHRZclZQRzc5LWlRM21xQS10N2JZSmEwbDNwNTdtY21VWkdlaUFmUmhrOXJLVU1IQjVrbDdqSFJaalotNXB5YjlFQmRDVzdTOGhPZGJoSXRTdFcyU05VMGJWUE9GQWVB?oc=5",
    "time": "2026-10-10T19:31:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "MOE to consider closing schools & postponing exams if next-day PSI forecast exceeds 300: Desmond Lee",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sNTdyXzA1S2VBR0NFc2ZBWmh0NEVOVzl6SXJhVGhuT2FHSGJ6T1o4RzQzOGFGelIxYXU2YVNydjlSclRiczEwb2RiaXVsMFBYS0VzVGJQRUk4TkpPY2xYcWY2RnVfR3FNTFJJTUwzdTdZVWx4dEZpMXBBY0o3NEE?oc=5",
-   "time": "2026-10-10T19:12:35+08:00",
    "summary": ""
   }
  ]
