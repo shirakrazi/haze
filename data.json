@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-10T21:00:00+08:00",
+ "updated": "2026-10-10T23:00:00+08:00",
  "psi": {
   "west": 152,
-  "east": 147,
-  "central": 165,
-  "south": 127,
+  "east": 145,
+  "central": 163,
+  "south": 125,
   "north": 119
  },
  "pm25": {
-  "west": 98,
-  "east": 51,
-  "central": 82,
-  "south": 52,
-  "north": 79
+  "west": 99,
+  "east": 57,
+  "central": 80,
+  "south": 43,
+  "north": 68
  },
  "hist": [
   {
@@ -274,9 +274,19 @@
     "south": 127,
     "north": 119
    }
+  },
+  {
+   "t": "2026-10-10T23:00:00+08:00",
+   "psi": {
+    "west": 152,
+    "east": 145,
+    "central": 163,
+    "south": 125,
+    "north": 119
+   }
   }
  ],
- "newsUpdated": "2026-10-10T21:08:18+08:00",
+ "newsUpdated": "2026-10-10T23:07:42+08:00",
  "news": [
   {
    "source": "CNA",
@@ -285,6 +295,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Star",
+   "title": "Indonesia welcomes Singapore, and Malaysia offers to help tackle haze",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd2pseHZ6dHl0THRLWXY0bV9uWnpoUmdWZUR2ZlVfNThoeDVSNXRBMi1abzQwS2JyX2lQLXRPbFFMTnladm1qcmNuemdIVmtFVGFvRWVlbzNIekhNVmZqa0VSb3J5Sll5WU9KVEZOemIwSHJ5am51Y1VObWpFRG9rYUhacWFmRzdReFdKeUJPWnpNczF0ZjRiOXM0djJFTFZNcG8tZV9TRkZ0cmFUd2JabUdoZ3ZLNWRoTmV6SElMZmpPWWxwZ2JPTWtHOA?oc=5",
+   "time": "2026-10-10T22:02:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Manila Standard",
+   "title": "Malaysia closes schools in KL due to haze",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDlPWTNzY3FscXA1dlplNWo1SnZROG9UNmkwN0Z5UUxjbUpra0MxaHczbVJLM29qSVRCU050LWhkTWZ3RV9HYlZSWEJZT1hELXhYMkJ0QkVWcm1wV3VPOGhBX3lYYXYxdktrdEM2WUFDckVXdWV0RTVxbkRfYnJnamwwc2hwNl8wME4zYUpWWVVNX2k2bC0tMUJR?oc=5",
+   "time": "2026-10-10T21:11:05+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -301,6 +325,20 @@
    "summary": ""
   },
   {
+   "source": "Kompas.id",
+   "title": "Haze Causes Singapore's Air Quality to Worsen",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdXRhVTRSLTFOdGJfSWFyMmg3NVo1NkY0QlNrcFhtTVR5SUJ2TmRZamVmcDQxVkk2eWVvR2l2YTFVRUo4el9iQjAzdVViQVNqSWZFeVNyNVJOV2RZcjM0dUxka3M5YVIzbHBOdUtMQjRVTEx3S1o4dVBqMWJFQjdVRnh5YmJEV0RXMkQ3b2xjVHR6RzdvbllrTWsxUFdFTjFRaGpz?oc=5",
+   "time": "2026-10-10T20:04:09+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Afternoon showers bring brief haze relief to Singapore, but air quality remains unhealthy",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeFBOSzZNbHliaTNkTkxWd1RvMzVFeVREMXZkZXh0TnhBU2wybXZwUENRN2gxWlVvSGNjQTQ5aDVOSjBHeWhxakIwZktydXptV0hoTkR2MUtINEZDVU5UWXZiZFlCdllNNVRhWjhhdnFIbVhxTURBZVRSMTVnY0cxUzhxcVhBbVNTZ1lNMFVPRlZGcUY3WC1Wc296bzZuV1l6OXYxUTBJUjNuTVFFMk9yd0g5Q0ZEWFpETHNweEZfRzBvbjU1UWFDUHNIbFhXVmExMFIwYk1qakJLZzRWbG0xc3R2VmZyd9IB5gFBVV95cUxQeFBOSzZNbHliaTNkTkxWd1RvMzVFeVREMXZkZXh0TnhBU2wybXZwUENRN2gxWlVvSGNjQTQ5aDVOSjBHeWhxakIwZktydXptV0hoTkR2MUtINEZDVU5UWXZiZFlCdllNNVRhWjhhdnFIbVhxTURBZVRSMTVnY0cxUzhxcVhBbVNTZ1lNMFVPRlZGcUY3WC1Wc296bzZuV1l6OXYxUTBJUjNuTVFFMk9yd0g5Q0ZEWFpETHNweEZfRzBvbjU1UWFDUHNIbFhXVmExMFIwYk1qakJLZzRWbG0xc3R2VmZydw?oc=5",
+   "time": "2026-10-10T20:02:17+08:00",
+   "summary": ""
+  },
+  {
    "source": "AsiaOne",
    "title": "Haze update Oct 10: Showers slightly improve air quality; 24-hour PSI forecast in healthy to high-unhealthy range",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzYjc3UzhxUUszb244UklydHN4RkNBWVR4cEVtTVJibGFRZlBXMWJXNkhXVkJhTjVwekdWY2ZublJJM3g2Q2NsT1R5NTVMNHUtQlZWYU9fZjNRV2d2WlJBaFl6TjQ1WlhMeTQ0V2ZfMWpFdllEZTA2YmNjVGVodw?oc=5",
@@ -312,6 +350,13 @@
    "title": "Haze in Singapore: PSI forecast to remain in unhealthy to high unhealthy range",
    "url": "https://www.straitstimes.com/singapore/haze-in-singapore-psi-forecast-to-remain-in-unhealthy-to-high-unhealthy-range",
    "time": "2026-10-10T19:40:30+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Free Malaysia Today",
+   "title": "Unhealthy air and haze fail to deter visitors at Melaka tourist spots",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZDI0ODFmMXE1aVYwUTRWTHlHa0g1NDBUU2lWd1NCWGtHZUJPUGdKMTdRZ2dwUjVFWGlvNTk0RWg1UWlsaXA5VEh1dWwzWG1KN2RaWVl1T05YRWNkYXhkMzRCN20xaWxvMm1FcHRZclZQRzc5LWlRM21xQS10N2JZSmEwbDNwNTdtY21VWkdlaUFmUmhrOXJLVU1IQjVrbDdqSFJaalotNXB5YjlFQmRDVzdTOGhPZGJoSXRTdFcyU05VMGJWUE9GQWVB?oc=5",
+   "time": "2026-10-10T19:31:00+08:00",
    "summary": ""
   },
   {
@@ -340,41 +385,6 @@
    "title": "Singapore haze: Education Ministry may close schools if PSI rises above 300",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdTNDcGEzdEZtaUlFZXNqQ2RodUNTbkdJQ3pmYktzMlYwYndFX25iSDk1cXM3elJLUEFjTUNQSWdlUE04Yy1kQ1NyY2NvMDdsazIwRmJPTDdmdy10YV9yeUpfa0xGSGtLY3hHRmVPZWJ0Rzd6cEV1NmhvMENxX01NWndYQkJ5bUhPRV9keGZhOHdsOVlSRWFWa2FQZXliN1VhUDhsSy1DX0JJYmFJQVRHQlk0bUYteTZYQlVjTmxFNGRsWmFwRGtzdl9lbWkxazRWaVBRbNIB2gFBVV95cUxOQmltcklwdi0weGZscjZENTM2Vm1iVjE5S2RPOTI2VU1VbjFwUWFsZjJvSWpNTmtqVzc4ZVBRYVE3RmtHX1ZyZlQ5RW9hal9IWHU5RDNUcHlRbzdFamUtdTV4YWZFWjdSNnQxYWxyTVZFdjFiRk5GVVhPZlpra3Y4REliLU9HdWdVYjVMeVZhY3JCVzJ0T2tkdzBjclFBckh3LV90OEdEQWxVZXJIRW9nZ0NWVXR3eENocjlCd1lKcFExN2tUanpoSVNNV1h1RUg0OURoUHRqMlVhdw?oc=5",
    "time": "2026-10-10T18:38:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Kedah schools to operate as usual tomorrow despite haze",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaF80VEdCdUVZa0k4SXYwQmRiQjRPbGlkVUhMQmJSV19LR202Y2I1RmhzeHpVb2FVck5CTFVnM3o4TGtJUjg5bjJDcGRjaHo1VFR5NW9Sd2RRazEwMHVLR2pMZE9GVTJSY1JQcV9ybGlnbVowbEVPMU1IVVpYU3pMdEwwSHZ2YTlvZnNFYWlfOVBKaHRoLWtoM25HVHREX2Rmb1ZUR2FUa282Z9IBqgFBVV95cUxOaF80VEdCdUVZa0k4SXYwQmRiQjRPbGlkVUhMQmJSV19LR202Y2I1RmhzeHpVb2FVck5CTFVnM3o4TGtJUjg5bjJDcGRjaHo1VFR5NW9Sd2RRazEwMHVLR2pMZE9GVTJSY1JQcV9ybGlnbVowbEVPMU1IVVpYU3pMdEwwSHZ2YTlvZnNFYWlfOVBKaHRoLWtoM25HVHREX2Rmb1ZUR2FUa282Zw?oc=5",
-   "time": "2026-10-10T18:16:55+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "Health and well-being of students, staff remain top priority amid haze, says Desmond Lee, Singapore News",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUVGaG1UVElLbHZEZE9jbVlRZlFaNXJjRnVKTGhZUGhGMnREYlVOSjc3ZS11SnlheUlKX0hzY3B4TE1Gd3U5M0wtay1TZ01NVlRYbWxJNExtS1VfcEctTXlrZm5sZXNkeWRuenJKRXNhT0h5YW56bDZfMENXeXVJTHowSkdCbzZRaGtOeGN3V0VYcWM?oc=5",
-   "time": "2026-10-10T18:11:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Lights on: Works Department to extend streetlight operating hours during haze",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZjVhbjRjeUduSEpYdDBLUEpnSENDTG5fRm1SeFpqZjdIUWUyRHhuM1RQMXBlanBtaXRuZmYxazJXMXBmR1lUZkM5aUxFNlYtTmNFRXpqSkJBQldYVUtzb0syeTMwZGVCeF9VbkxuVkF4S3B3MFF4Si1JTTZDdlFxa0FqTVNwWDloM0pUdUc0c1MwUV9Sd04tMnNuN3RyS0xaM1NpbEdtQk1KOHFhQkd3V1Q1bUxsdXJwM2pTM1lkUWR1NG01Tng3M0d6UG42LWhyTmFreNIB1AFBVV95cUxPZjVhbjRjeUduSEpYdDBLUEpnSENDTG5fRm1SeFpqZjdIUWUyRHhuM1RQMXBlanBtaXRuZmYxazJXMXBmR1lUZkM5aUxFNlYtTmNFRXpqSkJBQldYVUtzb0syeTMwZGVCeF9VbkxuVkF4S3B3MFF4Si1JTTZDdlFxa0FqTVNwWDloM0pUdUc0c1MwUV9Sd04tMnNuN3RyS0xaM1NpbEdtQk1KOHFhQkd3V1Q1bUxsdXJwM2pTM1lkUWR1NG01Tng3M0d6UG42LWhyTmFreA?oc=5",
-   "time": "2026-10-10T18:04:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Business as usual despite haze as F1 crowds dine and drink outdoors",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaWp6aDk4TVdWczZ1MlBvMFdQTDN1RURISFdxRElrN1JFdjZ0bGRDcGRrMjk4RW03cEhJRDZwWEhoTTNyZGNMTlJBS3ladzFsa1N1X2RNWUNFOGZkWnNTczVFS3NINWxINkNfTXRReTl3d2hxazVmX1djbFg1YXJjVU1pdw?oc=5",
-   "time": "2026-10-10T17:25:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "'Full house every day': F1 crowds shrug off haze as businesses see little impact on demand",
-   "url": "https://www.channelnewsasia.com/singapore/f1-haze-food-business-usual-6448571",
-   "time": "2026-10-10T17:25:00+08:00",
    "summary": ""
   }
  ]
