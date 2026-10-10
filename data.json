@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-10T11:00:00+08:00",
+ "updated": "2026-10-10T13:00:00+08:00",
  "psi": {
-  "west": 161,
-  "east": 156,
-  "central": 173,
-  "south": 135,
-  "north": 123
+  "west": 159,
+  "east": 153,
+  "central": 170,
+  "south": 132,
+  "north": 121
  },
  "pm25": {
-  "west": 128,
-  "east": 126,
-  "central": 130,
-  "south": 104,
-  "north": 84
+  "west": 106,
+  "east": 101,
+  "central": 114,
+  "south": 60,
+  "north": 78
  },
  "hist": [
   {
@@ -194,9 +194,19 @@
     "south": 135,
     "north": 123
    }
+  },
+  {
+   "t": "2026-10-10T13:00:00+08:00",
+   "psi": {
+    "west": 159,
+    "east": 153,
+    "central": 170,
+    "south": 132,
+    "north": 121
+   }
   }
  ],
- "newsUpdated": "2026-10-10T11:07:24+08:00",
+ "newsUpdated": "2026-10-10T13:07:39+08:00",
  "news": [
   {
    "source": "CNA",
@@ -205,6 +215,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore's air quality remains in unhealthy range",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTTBOZ05MM2hJMGF4WGdVdjRXaDNKRERBVUJNWGc2TEcxR2ppdlNzRlUtb2dIOGZZS1JSVDkwbHBGRzVXajF2My1lX283M082dmFCaGE0amZIM3RuZ29JVHotQ0lVenk0Z3hhOTE2dktpRG9fRWtsaHVsUWFfbk1FMFdUcFJSNkV6Ylo4WW1B?oc=5",
+   "time": "2026-10-10T12:45:23+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "Malaysia Must Make Haze Polluters Pay",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVTNhRVlnUWFrbkZRQ2p5MjhwZUxpbGRUeG1XOVh6RjQ5eGZiT0Qzdmt4amluSVpvaHdUZkd4NnktSTFvQUcyRFdJdVNSajdTTE5ZREVSWjQ1WkdnY2poWktGanMxMnBFMGFBaU1GZWV3amJ5RjBxOHZ3aFo0VGNCYUI4WWV5dXVTQlE?oc=5",
+   "time": "2026-10-10T12:11:04+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Singapore says ‘ready to roll out’ haze pollution action plan as air quality nears very unhealthy levels",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeHNJTXhCd1hfR1N2b3AyQ0xScktUMDVpY18zaVkwb2hJU0w4VE12SzFxRlN3emx6eDJuSmRxbWNGOEhpR1h1cUFJNTl3bVRhaGFsU01jMngyTTEyU3l5QkpLa0dBZDRBZGpoSkhkQ1dxaV9RVlZ4b0p3eHlsYnlJOW1YeHBTbGtMcHZtU1NFS0Y3eG0yeHF4U3BmbTFJRjNTTHFqVS1PakFJODZSLWNZX2otM2lmNHl3UzlMaTVIdDBjM2pfTHBpaEhwcFE3SFhWWFdIYmVzSzBHYUxVY3hady1kN0EwcjBTb3VoT09LOXJPTnJNVDllTtIB-AFBVV95cUxOeHNJTXhCd1hfR1N2b3AyQ0xScktUMDVpY18zaVkwb2hJU0w4VE12SzFxRlN3emx6eDJuSmRxbWNGOEhpR1h1cUFJNTl3bVRhaGFsU01jMngyTTEyU3l5QkpLa0dBZDRBZGpoSkhkQ1dxaV9RVlZ4b0p3eHlsYnlJOW1YeHBTbGtMcHZtU1NFS0Y3eG0yeHF4U3BmbTFJRjNTTHFqVS1PakFJODZSLWNZX2otM2lmNHl3UzlMaTVIdDBjM2pfTHBpaEhwcFE3SFhWWFdIYmVzSzBHYUxVY3hady1kN0EwcjBTb3VoT09LOXJPTnJNVDllTg?oc=5",
+   "time": "2026-10-10T11:22:24+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Singapore gears up for Grand Prix under a cloud of haze",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbzBFZUZ0TVo2aXJYT0N5cXRfZFlvZVdHSnpRXzl0S2d3Q25tS2dtdDVxdzBtZml1YWM2U3BNM3B2OG9ic0FId3FEYTh4cUJOTVZtYlFuUkh5cjA0VDVKQnhuVlNUdDQtQnZjbUZaeEVJQTdmeG5lekpLc2FUb05RQ0NKUHRrQVVXQ240cTl3VEZUMG5mWHd5V2d2SjYtb2tPMlV5cmJPY2d1UDFISTMyMHhRUEjSAboBQVVfeXFMTkhTQUxTbmhvaVJJcWZfbEpFNXZ1a0lPNXJtZFB3SEtrQjdtOTFKWExYazdydjlYblVrSUNMNFNnNUtETEpFVHdxQkFRaWZMQlBTRkFSRVJfb1ZOMWY2MVMzbEs5NURGdFVqUWRoNkVVNFJiMHdURjNMNUdIcVBURGpQX28tSVRlSGFCRmRfMk4tRGN6WmtzUmhSdUtYak1qSzRTQW52eVJ1THBzRm9pOEJOQ1dLR3dZZVJB?oc=5",
+   "time": "2026-10-10T11:14:00+08:00",
+   "summary": ""
   },
   {
    "source": "NST Online",
@@ -218,6 +256,13 @@
    "title": "Indonesia details crackdown, firefighting efforts as haze chokes Malaysia",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzBjOFFNLXpWcTh6Ylg2bXUtemtXbWk5d2lTWE1ZUWlrNXAtSEcyOUxwS2s4OWJEVnQ1b2lEZHJ4dG5ha2N4dlJPVExib1dyUEp1bm0wWEV6dWY0dVRvbS15UEJOVDd3U2g2eTVoY2hzYXRGY1dNTlNtdHc0N0pwV2YxZnV2Szh2b00wSU4zSkhUUlhGWF9IV3ZvOXJTUDg3OGdEQjkxejhkdDJrNURUVFJHMA?oc=5",
    "time": "2026-10-10T11:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne",
+   "title": "Singapore ready to help Indonesia in fight against forest fires amid worsening haze: Grace Fu",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZEE1djh4V2kzRFBoNG5rbTh0UWNlTmNjM3lMV3RhTGkwaDd1RkcyalBGeGxRaHRBY2VDWlJBMV9QbngzaW5ZOHNQTkJFX2dyWTBrLUlVYkJKTldjNlFFTnFIa29pcTRfRXU5RDB2eXg4RENtVDFRbDQweVJwWG5Kc3BaVFQ?oc=5",
+   "time": "2026-10-10T10:55:00+08:00",
    "summary": ""
   },
   {
@@ -249,13 +294,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore ‘stands ready’ to assist Indonesia on forest fires amid haze: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSzZfeGhpNENMekJ5dFR0cVo4MV82Q1RrVDlwUUFwMUNJMVp0MVhkS28wdkhOT0FVc05pc1hiR3V0Q2p0RjU1cU1EeVhaTGNUVklOVE9qcm1MczVnN2o4Tjl2U0NMRjViRWdXeTFwdmdJN19uOWhtQk91Nmw0eHlRVDExSWNqQXRYWFZlQzRyX01tUUd6eHc?oc=5",
-   "time": "2026-10-10T09:52:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Star",
    "title": "Haze in Singapore: Air quality unhealthy across the island",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaEZZczNpYUl1V2NrTDdBYVVybEVEMGMxdTBnaWNiOHVzSFhKTVlSU3dIVy0tdTlXUTFuVTZaSUdJaHNmWXhod2JoSzdqMmJxbmZJMVlOVm0xSWNRWFRiQTM5UFBTaGp0elhNSUdOazQydTlZZWs4RVB3RUl1a2Nkdmg0d2NTT2xXcXBBa0k1RWtuakJ1bGEtOS1YdlhmXzU2Snhyakp5Mi1UOGc5MEtfT1RHYkxnOUVUdU8yTw?oc=5",
@@ -267,34 +305,6 @@
    "title": "Singapore stands ready to assist Indonesia amid worsening haze, Grace Fu in touch with counterpart",
    "url": "https://www.straitstimes.com/singapore/singapore-stands-ready-to-assist-indonesia-amid-worsening-haze-grace-fu-in-touch-with-counterpart",
    "time": "2026-10-10T09:43:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "'Clean air not a luxury': Manufacturers in Malaysia demand ASEAN accelerate haze-free roadmap",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU0VGcG5Wb1NiTnVGR3VmaGlVa2EyZ1hJNERKWGp6VXRFdXowTS0tMk9qV0o0YThiQU9rUkxvTlFwWlBURXRLeFE1Z3ZRLXJLSXJNSVNBQmdMWldEcmVMTFFXeVlQNFNZU3lfTS02UUE2YVh4X3JGQTdlLTJOZ0RLVk5B?oc=5",
-   "time": "2026-10-10T07:30:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "m.aliran.com",
-   "title": "We are not angry enough! (Part 1): The haze is back, and so is the harm",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX01VbVE2RWhkMWtuLUZXYkZXYmpwUHN6Q2hMRzFUdUpmd0taa21KbzJ0dVN4cWlET1VDV3JyT3pJa2ZvVW9VcnVDQ1VSNldsWWJrOXpFTnlfZk1raTd2RGhGMDhWbGVXNkJEV1p3RW1sTGJ2U2tlY1J4ZElxQUxiQnhlRmpkTUtsYVV5M0kzeHRNLVRLVFl4bEhMaVc?oc=5",
-   "time": "2026-10-10T06:53:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The New York Times",
-   "title": "Unhealthy haze from wildfires poses no risk to Singapore GP, says F1",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3AzQmhwelgyM2x5V2lkS01YVjl5U3ZWV2p2eFRPUURSbnNkZHNaMGlTNGZlelY2cXVFdVhJSUNuU1NBUHZGbXQ4RXRxSWhTQXZycGtuelhXUmFUb0I3REI5ejVlb1Y4cnozbEpZRUtXZjlMOHZuYmxjcjJrX3FUbTlRWHltUnc3VHpJ?oc=5",
-   "time": "2026-10-10T04:18:40+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Singapore",
-   "title": "F1 says Singapore race will go ahead despite Indonesia haze",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTFBRkFaT2FZZ0FwMmV2dW9IZklaVVZPNFBiNE1jOS03ZlFkU3JqU0JfbDVOVnZCc1A0al9UczNtUFlfNFhGNzBETURSbEItQXZTLXFvLUJ1OW40ek1hU0xicUZkUUlnczI1UEM1T0VvYlJNX2MyQkQwZDhhWXRjNzYzUWVMdkVoQm9tT1J5OHV1WWhrOF82YTl6azBhQWVoWlAwc05VbHFkdjB4?oc=5",
-   "time": "2026-10-10T01:01:54+08:00",
    "summary": ""
   }
  ]
