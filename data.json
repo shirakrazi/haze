@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-10T06:00:00+08:00",
+ "updated": "2026-10-10T08:00:00+08:00",
  "psi": {
-  "west": 164,
+  "west": 161,
   "east": 156,
-  "central": 176,
-  "south": 143,
-  "north": 126
+  "central": 175,
+  "south": 138,
+  "north": 125
  },
  "pm25": {
-  "west": 103,
-  "east": 116,
-  "central": 124,
-  "south": 86,
-  "north": 62
+  "west": 111,
+  "east": 108,
+  "central": 115,
+  "south": 83,
+  "north": 78
  },
  "hist": [
   {
@@ -164,9 +164,19 @@
     "south": 143,
     "north": 126
    }
+  },
+  {
+   "t": "2026-10-10T08:00:00+08:00",
+   "psi": {
+    "west": 161,
+    "east": 156,
+    "central": 175,
+    "south": 138,
+    "north": 125
+   }
   }
  ],
- "newsUpdated": "2026-10-10T06:07:59+08:00",
+ "newsUpdated": "2026-10-10T08:07:50+08:00",
  "news": [
   {
    "source": "CNA",
@@ -175,6 +185,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "AsiaOne",
+   "title": "'Clean air not a luxury': Manufacturers in Malaysia demand ASEAN accelerate haze-free roadmap",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU0VGcG5Wb1NiTnVGR3VmaGlVa2EyZ1hJNERKWGp6VXRFdXowTS0tMk9qV0o0YThiQU9rUkxvTlFwWlBURXRLeFE1Z3ZRLXJLSXJNSVNBQmdMWldEcmVMTFFXeVlQNFNZU3lfTS02UUE2YVh4X3JGQTdlLTJOZ0RLVk5B?oc=5",
+   "time": "2026-10-10T07:30:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze in Singapore: Air quality unhealthy across the island",
+   "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-unhealthy-across-the-island",
+   "time": "2026-10-10T07:10:59+08:00",
+   "summary": ""
+  },
+  {
+   "source": "m.aliran.com",
+   "title": "We are not angry enough! (Part 1): The haze is back, and so is the harm",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX01VbVE2RWhkMWtuLUZXYkZXYmpwUHN6Q2hMRzFUdUpmd0taa21KbzJ0dVN4cWlET1VDV3JyT3pJa2ZvVW9VcnVDQ1VSNldsWWJrOXpFTnlfZk1raTd2RGhGMDhWbGVXNkJEV1p3RW1sTGJ2U2tlY1J4ZElxQUxiQnhlRmpkTUtsYVV5M0kzeHRNLVRLVFl4bEhMaVc?oc=5",
+   "time": "2026-10-10T06:53:37+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore's air quality remains in unhealthy range",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTTBOZ05MM2hJMGF4WGdVdjRXaDNKRERBVUJNWGc2TEcxR2ppdlNzRlUtb2dIOGZZS1JSVDkwbHBGRzVXajF2My1lX283M082dmFCaGE0amZIM3RuZ29JVHotQ0lVenk0Z3hhOTE2dktpRG9fRWtsaHVsUWFfbk1FMFdUcFJSNkV6Ylo4WW1B?oc=5",
+   "time": "2026-10-10T06:51:47+08:00",
+   "summary": ""
   },
   {
    "source": "The New York Times",
@@ -237,34 +275,6 @@
    "title": "Mercy Malaysia rolls out nationwide haze emergency response",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVzl6MGdfNDk2MkcweXJEQUFLUFZtajVsUzBrdFpGcjVXUVBKd2Q4RVI0UWxlNzVVRE9RbDh5ZnVad1pCRnJGbjZqRTg1Zkc3Qlh5dUIzNkEwNTFqb21tS0VUUUs2dFFheF9nQVNvT09FZFNQWG4xamZVZy1YN09QdDg1RTNqLUZ2MzczeVduMmZSOHBEV2VqZDBDd1JraUlmWjV2RnJJZTU5QWl6SExyNzlR0gG3AUFVX3lxTE0wNDNXdTY4UjRJNjZfbm0yYVIxekgzUVNoU2VqVTA4WmJld3lBUWdzaWRHSk9SVV9fRjc1clN6T1BzWHFyWldCdkp3Nml4Yzh4U0hrX1JqcUtNV1k5cGNRQVd3QVhHOWJXWVF1cmN6R1QzR2d1akJmcENCYUh0RW45dXc5NnpNcWpOMzBCMGg1SXdiYkZPR0llblFxTExoWU9mRVFhVmpYemsxVzRhNi0yN0FJTHdkQQ?oc=5",
    "time": "2026-10-09T23:15:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "NST Leader: The haze crisis needs more than promises",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMDZmWnhZVmE4dEZMR29VZUlMazduRGZWckNWblp5ZlhyNFd6ODRQemtCMm5iTzhvT1dTNkRmVjVCNXVtczZ5cFF1NVNBS1hoRHdIUUlaVDlsdXRPbmZaUk03My04dTRzQzBDZnFzZWt3bmNTUUduOFpuQk1TRDZqbVUyWlNGWmV0QnVrdVNvVjdVSlJ6UHFZX1VoRVJDU0dsWTViTmoyN3hYZG5DaHcxTNIBowFBVV95cUxPV3h6NFJtUGxFNlQ5TzZqbldqNkpXQ0Rka2Zmc2FhWXBwc1lRVk1jQU5hRjBhQ2VZUUt2SHNnUVlNbTg1dDVEcTdXblZvaWhEeVRXd0xTdWtiZ3dOSDF5OENISHVsd3BtSzhTYVJqazJPYnljcnhiNzRoVHFPSGVaOUxqVUNMbGIySFFvMXdpYmFvNW9fLXRiRjNtc0pHcWtHMWUw?oc=5",
-   "time": "2026-10-09T23:00:23+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Singapore prepares to distribute N95 masks as haze threatens very unhealthy levels",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObEd0ME5oaHNwMG9jYWZpU0VBTjJ3LUl4ZWVFM0FRZnVhdVgzVTY5UF9uWk9yc0NSU0NpbVpoVjhxeF80dm1KYXVIcnB5MzREZm9JRGpMSmFiU1pkNWh0amdiUUNyT3BLYWtwN2lkaGd0UHRBNXVMWWdnX2FrOVRCV05ZZ0gwT1R6em1QNUwtWVc0NGlmQXd3NW1mSjV0MEdFRlN5dXJrOWlIUzlZbXlOaHhISTJEZjNGdDZYXzFxbUxFeGPSAcMBQVVfeXFMTmxHdDBOaGhzcDBvY2FmaVNFQU4ydy1JeGVlRTNBUWZ1YXVYM1U2OVBfblpPcnNDUlNDaW1aaFY4cXhfNHZtSmF1SHJweTM0RGZvSURqTEphYlNaZDVodGpnYlFDck9wS2FrcDdpZGhndFB0QTV1TFlnZ19hazlUQldOWWdIME9UenptUDVMLVlXNDRpZkF3dzVtZko1dDBHRUZTeXVyazlpSFM5WW15Tmh4SEkyRGYzRnQ2WF8xcW1MRXhj?oc=5",
-   "time": "2026-10-09T21:51:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Malaysia shuts schools as haze from Indonesian fires chokes Southeast Asia",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3JCeU5Hb3NWcnlBelRhY1JFdVpwM0hURFBfUVhhS3dNT3ljT21JdDRuNnpaaDdCSE9hR3hYYTdDS2Q4eWVyT2FHTENCYUlvUXpsV0lnU0E0VV9pamtEZXpiRWpzelRudzdEOHR1Z2YyU1dWSHdwNEVzNk5aa2NmRXE4M3ZLdFVOdFFqTGg1aHdJSUFYZnNZR3BTUjNkSmxBbHpzTnhtN2hYR2w5dnBFRGE2bVpZZ9IBuwFBVV95cUxOZnVfdmVUTnhzV3FRUXh1Smo3bnY5NU5TeXFIZThVVjFDMS1yZTlKdHhySGVCVkFKWnRVT0lNT0w4RDJfV3U2OWFqOHJEbVM0eklkZjduTGJKQlNuS0J4RmN3TEpLVG9nUkMtOS1tN2NmWFIyY2ZvS1FRWG1DWE1pRjhUenZQUVpsZEdFVjdFQWFQYTZlZWMzWnZ2eGdjVVBrdThudU9MR3JCd2gzaHBpUTQ3VmV1VjN0cF9j?oc=5",
-   "time": "2026-10-09T21:28:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "N95 masks to be distributed to more vulnerable individuals once 24-hour PSI exceeds 200: Haze Task Force",
-   "url": "https://www.channelnewsasia.com/singapore/haze-psi-nea-task-force-air-quality-n95-mask-distribution-6445376",
-   "time": "2026-10-09T21:22:00+08:00",
    "summary": ""
   }
  ]
