@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-10T19:00:00+08:00",
+ "updated": "2026-10-10T20:00:00+08:00",
  "psi": {
   "west": 152,
-  "east": 150,
-  "central": 168,
-  "south": 128,
-  "north": 118
+  "east": 148,
+  "central": 166,
+  "south": 127,
+  "north": 119
  },
  "pm25": {
-  "west": 98,
-  "east": 73,
-  "central": 107,
-  "south": 72,
-  "north": 63
+  "west": 85,
+  "east": 60,
+  "central": 100,
+  "south": 55,
+  "north": 76
  },
  "hist": [
   {
@@ -254,9 +254,19 @@
     "south": 128,
     "north": 118
    }
+  },
+  {
+   "t": "2026-10-10T20:00:00+08:00",
+   "psi": {
+    "west": 152,
+    "east": 148,
+    "central": 166,
+    "south": 127,
+    "north": 119
+   }
   }
  ],
- "newsUpdated": "2026-10-10T19:07:33+08:00",
+ "newsUpdated": "2026-10-10T20:07:49+08:00",
  "news": [
   {
    "source": "CNA",
@@ -265,6 +275,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "AsiaOne",
+   "title": "Haze update Oct 10: Showers slightly improve air quality; 24-hour PSI forecast in healthy to high-unhealthy range",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzYjc3UzhxUUszb244UklydHN4RkNBWVR4cEVtTVJibGFRZlBXMWJXNkhXVkJhTjVwekdWY2ZublJJM3g2Q2NsT1R5NTVMNHUtQlZWYU9fZjNRV2d2WlJBaFl6TjQ1WlhMeTQ0V2ZfMWpFdllEZTA2YmNjVGVodw?oc=5",
+   "time": "2026-10-10T19:43:30+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze in Singapore: PSI forecast to remain in unhealthy to high unhealthy range",
+   "url": "https://www.straitstimes.com/singapore/haze-in-singapore-psi-forecast-to-remain-in-unhealthy-to-high-unhealthy-range",
+   "time": "2026-10-10T19:40:30+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Mothership",
+   "title": "MOE to consider closing schools & postponing exams if next-day PSI forecast exceeds 300: Desmond Lee",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sNTdyXzA1S2VBR0NFc2ZBWmh0NEVOVzl6SXJhVGhuT2FHSGJ6T1o4RzQzOGFGelIxYXU2YVNydjlSclRiczEwb2RiaXVsMFBYS0VzVGJQRUk4TkpPY2xYcWY2RnVfR3FNTFJJTUwzdTdZVWx4dEZpMXBBY0o3NEE?oc=5",
+   "time": "2026-10-10T19:12:35+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NEA.gov.sg",
+   "title": "Haze Situation Update (10 October 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVBoT09qUV90WGVfVUVUa3QzSEdqelVLaHRhWmZNNkY0ZGxEdExmQWQ4YmYwX013WFQ1UTVjeFhCUnMydUJDLXJCc0FfNEtkX2c1SnBmdk5UQU9Zb3lTdTBJNnFGZnJQOWRlYmhfZGFHZFhUVk9mazdiRlREQlRiNUwzOVRIcXRXQ3ZkYUpURGxUUQ?oc=5",
+   "time": "2026-10-10T19:10:59+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -285,6 +323,13 @@
    "title": "Kedah schools to operate as usual tomorrow despite haze",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaF80VEdCdUVZa0k4SXYwQmRiQjRPbGlkVUhMQmJSV19LR202Y2I1RmhzeHpVb2FVck5CTFVnM3o4TGtJUjg5bjJDcGRjaHo1VFR5NW9Sd2RRazEwMHVLR2pMZE9GVTJSY1JQcV9ybGlnbVowbEVPMU1IVVpYU3pMdEwwSHZ2YTlvZnNFYWlfOVBKaHRoLWtoM25HVHREX2Rmb1ZUR2FUa282Z9IBqgFBVV95cUxOaF80VEdCdUVZa0k4SXYwQmRiQjRPbGlkVUhMQmJSV19LR202Y2I1RmhzeHpVb2FVck5CTFVnM3o4TGtJUjg5bjJDcGRjaHo1VFR5NW9Sd2RRazEwMHVLR2pMZE9GVTJSY1JQcV9ybGlnbVowbEVPMU1IVVpYU3pMdEwwSHZ2YTlvZnNFYWlfOVBKaHRoLWtoM25HVHREX2Rmb1ZUR2FUa282Zw?oc=5",
    "time": "2026-10-10T18:16:55+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Lights on: Works Department to extend streetlight operating hours during haze",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZjVhbjRjeUduSEpYdDBLUEpnSENDTG5fRm1SeFpqZjdIUWUyRHhuM1RQMXBlanBtaXRuZmYxazJXMXBmR1lUZkM5aUxFNlYtTmNFRXpqSkJBQldYVUtzb0syeTMwZGVCeF9VbkxuVkF4S3B3MFF4Si1JTTZDdlFxa0FqTVNwWDloM0pUdUc0c1MwUV9Sd04tMnNuN3RyS0xaM1NpbEdtQk1KOHFhQkd3V1Q1bUxsdXJwM2pTM1lkUWR1NG01Tng3M0d6UG42LWhyTmFreNIB1AFBVV95cUxPZjVhbjRjeUduSEpYdDBLUEpnSENDTG5fRm1SeFpqZjdIUWUyRHhuM1RQMXBlanBtaXRuZmYxazJXMXBmR1lUZkM5aUxFNlYtTmNFRXpqSkJBQldYVUtzb0syeTMwZGVCeF9VbkxuVkF4S3B3MFF4Si1JTTZDdlFxa0FqTVNwWDloM0pUdUc0c1MwUV9Sd04tMnNuN3RyS0xaM1NpbEdtQk1KOHFhQkd3V1Q1bUxsdXJwM2pTM1lkUWR1NG01Tng3M0d6UG42LWhyTmFreA?oc=5",
+   "time": "2026-10-10T18:04:45+08:00",
    "summary": ""
   },
   {
@@ -320,41 +365,6 @@
    "title": "Haze watch: Central Singapore PM2.5 in high-band; air quality remains in unhealthy range",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDY5bEptV0tKR1JwNWVFUjZxVDVEZkRTU1EzdXZuUmItc3NwdXJlclZ6UGJ2Zm9JRlJCUWZBWFZYLXF4MENaWWx3VldOTDU5bWNOdXVUWkNXTWN3YVdJVTJEcVZlcmNnTDVjeWxCTTBXMVVZRF9TM1JZclhwczlTODdDVUUzejhib2RtdF92bHVQNnN2?oc=5",
    "time": "2026-10-10T15:56:43+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Borneo Post",
-   "title": "Singapore ready to assist Indonesia in fighting forest fires amid worsening haze",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2RPa1MtUGJVWVJpZjhQeGZnbGpjOUVjMzR1N283ZEFXcWFGdkd0MGlMVFUwSmZLOUZfcllqa1YwaHpwRUlZRFRCdUlCempoMzF4TWNNcG81UXhtNC0wcF80bzduVFd3Tk9xcXgzTjkyQ2VEZmNSWjgxcm5IMGdsZkE5OHI1T1dUMlZGdVh4VVM4NXpDQXZDUWNHdWhWS05RZXJCNy1NOVV6bDQ5cmliV0pId2JVZzJiNG1fTlFHMA?oc=5",
-   "time": "2026-10-10T15:50:58+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Malaysia must make haze polluters pay — Shahrul Mizan Ismail",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWjgtVG44T2QtMDE3LWxJck5PUmVwcHdwRElNQW9VUHFLN2QzRkZxRklMbzd2ZjU1VnVyS0JZazZaRHVxaTlGSUFCc3JPLXhjYlFmaUUtTXpYYUVRN2NTeTF1RVlJQTZ5Z2ZEZUZoeVRXYW8ydXBrUEN5dl9CSldDSlhmUjRScVJLWXk3VHYwRzZYSmd0dGxOQ2JFWE1uZ01HX3Q0U2JrdVpVenlUclhzOE9WMUVwN2tVZ0FoQ3cwa9IBxAFBVV95cUxQVHV4QkpOQzRDZzZXTWd1cklncDktN28zbHpMUDhOX0l6bHNXZFhaZUlnTk4zTGFubDFDMHZtSklMSnZBdy1GVmFJRDhJbnA5MU9aUXpBYmdrMVg3VUd0U3ZxM2JZWDBaUmtIOGlralU1eHVqM09zS1k5Qm4tMVVmamFlYkpTeWUzTm15UG5IOFN3WWxmRTVBcl9IX0J2WFBlRVcyYjNIZ1VOd2kyMm5MVkkwRXU2cGl3bFZnbE5ZdXJjTXli?oc=5",
-   "time": "2026-10-10T15:33:07+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Singapore",
-   "title": "Singapore haze persists at unhealthy levels as F1 weekend begins",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONFgwVkRfRERMbTV1dWFydHlLVXVaY1l5WkN5Y2ZrSWtkVVBRYjJaWEc1RFRLTklEMW9oRlFoMzdnNnNXQnVDWi0zNERseU95bV9tcjhrMW92N2lVYXNuNnp5VlAxN2ttak5PX3IzSG1FVVkwZTd5dFBxcU9rZXM1ekJqaEZfV2lDWlEyR0N3SjQ2ckZQUG9aRkdzVEhIbk9FRWQ4?oc=5",
-   "time": "2026-10-10T15:15:42+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Grace Fu: Singapore ready to assist with Indonesia over haze-causing forest fires",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PZXpGaE81emI5TGRLa1dFQjhMSUEyYjEyZy02S3lSWTVSakRObE9IOUhtdnp0V0JpUUVPOTByUGZJSDc0ZGdWOXloTVZMRGV0ZHdYel9BQi1uc1Q4eVE?oc=5",
-   "time": "2026-10-10T14:45:51+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Online Citizen",
-   "title": "Singapore stands ready to assist Indonesia on forest fires as haze worsens, says Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVE5XTTJJWm1DejNSWWNVVzR5NUFuUXlTUk5PcTFPTWhUbFIyXzgtc2o4ak9UOUtuZTExYjVXYXFvVnp0c0NrR3ZLVUN6Uk41d3NncXpWSnJIbjFxZlJieU8yaE9XaEkwdXB3OTRBbVpJVFdZaTk4SVhFZm04Qi1MUlZoZ0FMSkRQMWgtSmZ6ck9DQXNOVnVkM2hFcnl0MnVza1FYTEVHWmN1X19fSC05M19pMUxBSFhfY3VkYmNqbHZqNjdpSzBIOUYtOUhMQQ?oc=5",
-   "time": "2026-10-10T14:36:23+08:00",
    "summary": ""
   }
  ]
