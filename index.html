@@ -193,6 +193,19 @@ aside{display:flex;flex-direction:column;gap:16px;min-width:0}
 .calc .out p{margin:4px 0 0;font-size:14px;color:var(--muted);max-width:60ch}
 .tag.gov{border-color:var(--accent);color:var(--accent)}
 .tag.no{border-color:var(--lv3);color:var(--lv3)}
+.satbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;background:var(--panel);border:1px solid var(--line);border-radius:4px;padding:8px 12px;font-size:14px}
+.satbar b{font-family:var(--display);font-weight:600;font-size:18px;min-width:9.5ch;font-variant-numeric:tabular-nums}
+.satbar input[type=range]{flex:1 1 180px;min-width:120px;accent-color:var(--accent)}
+.satbar button{width:32px;height:32px;padding:0;font-size:16px}
+.satbar .st{color:var(--muted);font-size:13px;flex:1 1 100%}
+.satbar .st:empty{display:none}
+.layers .sep{width:1px;align-self:stretch;background:var(--line)}
+@media (max-width:700px){.layers .sep{flex-basis:100%;height:0;width:auto;background:none}}
+#g-sat image,#im-photo{pointer-events:none}
+#map.photo .land{fill:none;stroke:#fff;stroke-opacity:.75}
+#map.photo .isl{fill:#fff}
+.sw.f{background:#e0261f;width:7px;height:7px}
+.sw.a{border-radius:2px;width:30px;height:8px;background:linear-gradient(90deg,#f4f08a,#f2b23c,#e0462f)}
 footer{font-size:13px;color:var(--muted);display:flex;flex-direction:column;gap:6px;max-width:80ch}
 footer a{color:var(--accent)}
 footer p{margin:0}
@@ -236,7 +249,20 @@ footer p{margin:0}
     <h2>Show</h2>
     <label><input type="checkbox" id="ly-fire" checked> Fire sources</label>
     <label><input type="checkbox" id="ly-aq" checked> Air quality readings</label>
-    <label><input type="checkbox" id="ly-smoke" checked> Smoke drift</label>
+    <label><input type="checkbox" id="ly-smoke" checked> Smoke drift, our reading</label>
+    <span class="sep" aria-hidden="true"></span>
+    <h2>Satellite</h2>
+    <label><input type="checkbox" id="ly-sfire" checked> Fires detected</label>
+    <label><input type="checkbox" id="ly-saer"> Smoke seen from space</label>
+    <label><input type="checkbox" id="ly-sphoto"> Photo</label>
+  </div>
+
+  <div class="satbar" id="satbar" role="group" aria-label="Satellite date">
+    <span>Satellite view for</span><b id="sat-lbl"></b>
+    <button id="sat-prev" aria-label="Previous day">&lsaquo;</button>
+    <input type="range" id="sat-day" min="0" max="13" step="1" value="12" aria-label="Day, from 13 days ago to today">
+    <button id="sat-next" aria-label="Next day">&rsaquo;</button>
+    <span class="st" id="sat-st" aria-live="polite"></span>
   </div>
 
   <div class="grid">
@@ -248,7 +274,12 @@ footer p{margin:0}
             <marker id="ah" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path class="arrow" d="M0 0 10 5 0 10z"/></marker>
           </defs>
           <g id="world">
+            <image id="im-photo" x="0" y="0" width="280" height="185" preserveAspectRatio="none" style="display:none"/>
             <g id="g-land"></g>
+            <g id="g-sat">
+              <image id="im-aer" x="0" y="0" width="280" height="185" preserveAspectRatio="none" opacity=".62" style="display:none"/>
+              <image id="im-fire" x="0" y="0" width="280" height="185" preserveAspectRatio="none" style="display:none"/>
+            </g>
             <g id="g-smoke"></g>
             <g id="g-isl"></g>
             <g id="g-fire"></g>
@@ -271,6 +302,8 @@ footer p{margin:0}
         <span><i class="sw" style="background:var(--lv4)"></i>Hazardous</span>
         <span><i class="sw d"></i>Fire source, sized by hotspot count</span>
         <span><i class="sw s"></i>Smoke drift (schematic)</span>
+        <span id="lg-fire"><i class="sw f"></i>Fire seen by satellite</span>
+        <span id="lg-aer"><i class="sw a"></i>Smoke seen from space, light to heavy</span>
       </div>
     </div>
 
@@ -288,8 +321,10 @@ footer p{margin:0}
   <footer>
     <p>This is an independent community page, not an official government site. For official readings and advisories, use haze.gov.sg or the myENV app.</p>
     <p><strong>How to read the map.</strong> Each country reports a different index (Singapore PSI, Malaysia API, Indonesia ISPU, and US AQI from AQI.in), so the numbers are not comparable across borders. Colours use each index's own category bands. Indonesian ISPU values above the usual 500 ceiling are shown as the environment ministry reported them.</p>
+    <p><strong>Satellite layers.</strong> These come straight from NASA and are not edited by this site. Red dots are fires detected by the VIIRS sensor on the NOAA-20 satellite. "Smoke seen from space" is the OMPS aerosol index, which picks up smoke high in the air in squares about 50 km wide; it is not a ground-level air quality reading. The photo is the same day's true-colour image, so cloud will hide some areas. Each day's data fills in during the afternoon and evening, so today may be incomplete.</p>
     <p>Smoke drift bands are drawn from the wind directions and source regions named by NEA, not from satellite plume outlines. Hotspot diamonds use the Forestry Ministry's high-confidence count for 7 October, 9 pm WIB; provincial agency counts that include lower-confidence detections are much higher.</p>
     <p>Sources: <a href="https://data.gov.sg/datasets?query=psi">NEA readings via data.gov.sg</a> ·
+      <a href="https://www.earthdata.nasa.gov/engage/open-data-services-software/earthdata-developer-portal/gibs-api">NASA GIBS (satellite layers)</a> ·
       <a href="https://www.malaymail.com/news/singapore/2026/10/09/singapore-central-region-hits-2026-record-of-181-psi-amid-transboundary-haze/238371">Malay Mail (Singapore PSI)</a> ·
       <a href="https://www.malaymail.com/news/malaysia/2026/10/09/haze-worsens-in-malaysia-nine-areas-breach-180-api-seremban-still-the-worst-at-189/238393">Malay Mail (Malaysia API)</a> ·
       <a href="https://katadata.co.id/ekonomi-hijau/ekonomi-sirkular/6ac8460004450/kalimantan-dan-sumatra-dikepung-polusi-berbahaya-klh-minta-pemda-lindungi-warga">Katadata (KLH ISPU)</a> ·
@@ -492,6 +527,33 @@ document.querySelectorAll('[data-v]').forEach(b=>b.onclick=()=>go(fitTarget(VIEW
 // layers
 const lay=(id,g)=>{const c=$(id);const f=()=>{$(g).style.display=c.checked?'':'none'};c.addEventListener('change',f);f()};
 lay('ly-fire','g-fire');lay('ly-aq','g-aq');lay('ly-smoke','g-smoke');
+
+// satellite layers (NASA GIBS, one image per layer covering the whole map)
+const SAT={fire:{cb:'ly-sfire',im:'im-fire',lg:'lg-fire',layer:'VIIRS_NOAA20_Thermal_Anomalies_375m_All',fmt:'image/png',w:2240,h:1480,name:'fire detections'},
+  aer:{cb:'ly-saer',im:'im-aer',lg:'lg-aer',layer:'OMPS_Aerosol_Index',fmt:'image/png',w:1120,h:740,name:'smoke layer'},
+  photo:{cb:'ly-sphoto',im:'im-photo',layer:'VIIRS_NOAA20_CorrectedReflectance_TrueColor',fmt:'image/jpeg',w:2240,h:1480,name:'photo'}};
+const satDay=v=>new Date(Date.now()-(13-v)*864e5).toISOString().slice(0,10);
+const satUrl=(s,d)=>'https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&REQUEST=GetMap&VERSION=1.3.0&LAYERS='+s.layer+'&STYLES=&CRS=EPSG:4326&BBOX=-9.5,93,9,121&WIDTH='+s.w+'&HEIGHT='+s.h+'&FORMAT='+s.fmt+'&TRANSPARENT=true&TIME='+d;
+const satBusy=new Set(),satBad=new Set();
+function satStatus(){const t=$('sat-st');
+  if(satBusy.size)t.textContent='Loading '+[...satBusy].map(k=>SAT[k].name).join(', ')+' from NASA…';
+  else if(satBad.size)t.textContent='Could not load the '+[...satBad].map(k=>SAT[k].name).join(' or ')+' for this day. NASA may not have it yet; try the day before.';
+  else t.textContent=+$('sat-day').value===13?'Today\'s satellite data is still coming in and may have gaps.':''}
+function satRender(){const v=+$('sat-day').value,d=satDay(v);let any=false;const st={};
+  $('sat-lbl').textContent=v===13?'Today':v===12?'Yesterday':new Intl.DateTimeFormat('en-SG',{weekday:'short',day:'numeric',month:'short',timeZone:'UTC'}).format(new Date(d+'T00:00:00Z'));
+  for(const k in SAT){const s=SAT[k],on=$(s.cb).checked,im=$(s.im);st[k]=on;im.style.display=on?'':'none';if(s.lg)$(s.lg).hidden=!on;
+    if(!on){satBusy.delete(k);satBad.delete(k);continue}
+    any=true;const u=satUrl(s,d);if(im.getAttribute('href')!==u){satBusy.add(k);satBad.delete(k);im.setAttribute('href',u)}}
+  svg.classList.toggle('photo',$('ly-sphoto').checked);$('satbar').hidden=!any;
+  $('sat-prev').disabled=v<=0;$('sat-next').disabled=v>=13;satStatus();
+  try{localStorage.setItem('haze-sat',JSON.stringify(st))}catch(_){}}
+(function(){try{const o=JSON.parse(localStorage.getItem('haze-sat')||'null');if(o)for(const k in SAT)if(typeof o[k]==='boolean')$(SAT[k].cb).checked=o[k]}catch(_){}
+  for(const k in SAT){const s=SAT[k],im=$(s.im);$(s.cb).addEventListener('change',satRender);
+    im.addEventListener('load',()=>{satBusy.delete(k);satStatus()});im.addEventListener('error',()=>{satBusy.delete(k);satBad.add(k);satStatus()})}
+  let tm=0;$('sat-day').addEventListener('input',()=>{clearTimeout(tm);$('sat-lbl').textContent='…';tm=setTimeout(satRender,300)});
+  $('sat-prev').onclick=()=>{$('sat-day').value=Math.max(0,+$('sat-day').value-1);satRender()};
+  $('sat-next').onclick=()=>{$('sat-day').value=Math.min(13,+$('sat-day').value+1);satRender()};
+  satRender()})();
 
 // panel
 const esc=s=>String(s).replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
