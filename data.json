@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-10T20:00:00+08:00",
+ "updated": "2026-10-10T21:00:00+08:00",
  "psi": {
   "west": 152,
-  "east": 148,
-  "central": 166,
+  "east": 147,
+  "central": 165,
   "south": 127,
   "north": 119
  },
  "pm25": {
-  "west": 85,
-  "east": 60,
-  "central": 100,
-  "south": 55,
-  "north": 76
+  "west": 98,
+  "east": 51,
+  "central": 82,
+  "south": 52,
+  "north": 79
  },
  "hist": [
   {
@@ -264,9 +264,19 @@
     "south": 127,
     "north": 119
    }
+  },
+  {
+   "t": "2026-10-10T21:00:00+08:00",
+   "psi": {
+    "west": 152,
+    "east": 147,
+    "central": 165,
+    "south": 127,
+    "north": 119
+   }
   }
  ],
- "newsUpdated": "2026-10-10T20:07:49+08:00",
+ "newsUpdated": "2026-10-10T21:03:59+08:00",
  "news": [
   {
    "source": "CNA",
@@ -275,6 +285,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Animation shows air quality across Southeast Asia amid haze caused by Indonesia fires",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUw4czQ3em4wN0x0NmFLSUliQ09NdllMWjVFVkRCSWg1QmVKRkhDQThVb0plUXVpd0pfMnlQTmlfeEdfUFZnWm1LcUthcGFRa0JHbVhaSnVMeW5FSnRER0VpeE13M2VncFNwU1VPaVpqWGlhZ1BpelB1Q0RXNkxzT0NhNU1CMHdROTNsakZCNGo5WWEwRVNadVBia1NjQXpKczRyZDF6QS04X2pCV1QzQTF5aG1Bbzk2eG9XOS02b3g1LWd2ODhpeg?oc=5",
+   "time": "2026-10-10T20:41:28+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Jakarta Globe",
+   "title": "Indonesia Seeks Malaysia, Singapore Cooperation to Fight Transboundary Haze",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmlCd1VUelR6aUhCcmlZNjhmbWlnaXdtZ3pYdlFySWtTZjZ5YzNKWnYtMmRXS29OVjJfT3JLeUdUZlRfeVZDblRJUG1mWGloYVlhNlotNHRBZHhUN0dzVFlIazY0eTdoZWhmNkZ5ODQzaEFPVTVIVGpoVEE3bjdmZzlWbDhYREFfcVZXRWxTLURXcmo1N3czX25pb0RvZkZHaHcyRVpR?oc=5",
+   "time": "2026-10-10T20:10:00+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne",
@@ -308,7 +332,7 @@
    "source": "The Straits Times",
    "title": "Indonesia welcomes Singapore, Malaysia offers to help tackle haze",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3R6dHphZGR2RDBUR0ZvT3lndEkxakpHbk5iN0JHUjY4NEhweUJ0QTlMV2l2SkdHQVR1dWZGaWc2WUpQMS1iclBlSGNRaDBOUkhocEJQWEZQd1RXZ2xtaS1qaWpQblJibmJoZnJEUzI5OFZycDJGRnlXY1lrV25VWThsVXJBanFTTTEtT1JVQ1ZrVmFmWE9VTUtpVFFHbXRRRWRIZ3VTXzA0dw?oc=5",
-   "time": "2026-10-10T18:50:00+08:00",
+   "time": "2026-10-10T19:06:00+08:00",
    "summary": ""
   },
   {
@@ -334,13 +358,6 @@
   },
   {
    "source": "CNA",
-   "title": "Animation shows air quality across Southeast Asia amid haze caused by Indonesia fires",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUw4czQ3em4wN0x0NmFLSUliQ09NdllMWjVFVkRCSWg1QmVKRkhDQThVb0plUXVpd0pfMnlQTmlfeEdfUFZnWm1LcUthcGFRa0JHbVhaSnVMeW5FSnRER0VpeE13M2VncFNwU1VPaVpqWGlhZ1BpelB1Q0RXNkxzT0NhNU1CMHdROTNsakZCNGo5WWEwRVNadVBia1NjQXpKczRyZDF6QS04X2pCV1QzQTF5aG1Bbzk2eG9XOS02b3g1LWd2ODhpeg?oc=5",
-   "time": "2026-10-10T17:41:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
    "title": "Business as usual despite haze as F1 crowds dine and drink outdoors",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaWp6aDk4TVdWczZ1MlBvMFdQTDN1RURISFdxRElrN1JFdjZ0bGRDcGRrMjk4RW03cEhJRDZwWEhoTTNyZGNMTlJBS3ladzFsa1N1X2RNWUNFOGZkWnNTczVFS3NINWxINkNfTXRReTl3d2hxazVmX1djbFg1YXJjVU1pdw?oc=5",
    "time": "2026-10-10T17:25:38+08:00",
@@ -358,13 +375,6 @@
    "title": "Malaysia awaits Indonesia's response on haze operation as talks continue, says government spokesperson",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWVFvT3M3cGhZR3VRWUZHUjBqUk55WVdWRmp4Q1RyTnpOTE5xQVJMdjd5WFpOejdfQ2RoNTl4dTlhbEdkT2tTOFNVOUNTeGs3YUJOLUo0NFBVZHdQdERCNzdTYTRaaklfRVVLbGxkeXdWaXBISklrNklKRzF5YUtxbU81bW9mN2laSnRyRkRnMENvZktLbjVWZlotQXpXcW1uNnVWRm1NaGZEX2JEWjVoM1VRR0c?oc=5",
    "time": "2026-10-10T16:23:58+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "Haze watch: Central Singapore PM2.5 in high-band; air quality remains in unhealthy range",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDY5bEptV0tKR1JwNWVFUjZxVDVEZkRTU1EzdXZuUmItc3NwdXJlclZ6UGJ2Zm9JRlJCUWZBWFZYLXF4MENaWWx3VldOTDU5bWNOdXVUWkNXTWN3YVdJVTJEcVZlcmNnTDVjeWxCTTBXMVVZRF9TM1JZclhwczlTODdDVUUzejhib2RtdF92bHVQNnN2?oc=5",
-   "time": "2026-10-10T15:56:43+08:00",
    "summary": ""
   }
  ]
