@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-10T18:00:00+08:00",
+ "updated": "2026-10-10T19:00:00+08:00",
  "psi": {
   "west": 152,
-  "east": 152,
+  "east": 150,
   "central": 168,
-  "south": 129,
+  "south": 128,
   "north": 118
  },
  "pm25": {
-  "west": 100,
-  "east": 92,
-  "central": 92,
-  "south": 64,
-  "north": 58
+  "west": 98,
+  "east": 73,
+  "central": 107,
+  "south": 72,
+  "north": 63
  },
  "hist": [
   {
@@ -244,9 +244,19 @@
     "south": 129,
     "north": 118
    }
+  },
+  {
+   "t": "2026-10-10T19:00:00+08:00",
+   "psi": {
+    "west": 152,
+    "east": 150,
+    "central": 168,
+    "south": 128,
+    "north": 118
+   }
   }
  ],
- "newsUpdated": "2026-10-10T18:07:22+08:00",
+ "newsUpdated": "2026-10-10T19:07:33+08:00",
  "news": [
   {
    "source": "CNA",
@@ -257,10 +267,38 @@
    "pinned": true
   },
   {
+   "source": "The Straits Times",
+   "title": "Indonesia welcomes Singapore, Malaysia offers to help tackle haze",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3R6dHphZGR2RDBUR0ZvT3lndEkxakpHbk5iN0JHUjY4NEhweUJ0QTlMV2l2SkdHQVR1dWZGaWc2WUpQMS1iclBlSGNRaDBOUkhocEJQWEZQd1RXZ2xtaS1qaWpQblJibmJoZnJEUzI5OFZycDJGRnlXY1lrV25VWThsVXJBanFTTTEtT1JVQ1ZrVmFmWE9VTUtpVFFHbXRRRWRIZ3VTXzA0dw?oc=5",
+   "time": "2026-10-10T18:50:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Singapore haze: Education Ministry may close schools if PSI rises above 300",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdTNDcGEzdEZtaUlFZXNqQ2RodUNTbkdJQ3pmYktzMlYwYndFX25iSDk1cXM3elJLUEFjTUNQSWdlUE04Yy1kQ1NyY2NvMDdsazIwRmJPTDdmdy10YV9yeUpfa0xGSGtLY3hHRmVPZWJ0Rzd6cEV1NmhvMENxX01NWndYQkJ5bUhPRV9keGZhOHdsOVlSRWFWa2FQZXliN1VhUDhsSy1DX0JJYmFJQVRHQlk0bUYteTZYQlVjTmxFNGRsWmFwRGtzdl9lbWkxazRWaVBRbNIB2gFBVV95cUxOQmltcklwdi0weGZscjZENTM2Vm1iVjE5S2RPOTI2VU1VbjFwUWFsZjJvSWpNTmtqVzc4ZVBRYVE3RmtHX1ZyZlQ5RW9hal9IWHU5RDNUcHlRbzdFamUtdTV4YWZFWjdSNnQxYWxyTVZFdjFiRk5GVVhPZlpra3Y4REliLU9HdWdVYjVMeVZhY3JCVzJ0T2tkdzBjclFBckh3LV90OEdEQWxVZXJIRW9nZ0NWVXR3eENocjlCd1lKcFExN2tUanpoSVNNV1h1RUg0OURoUHRqMlVhdw?oc=5",
+   "time": "2026-10-10T18:38:48+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Kedah schools to operate as usual tomorrow despite haze",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaF80VEdCdUVZa0k4SXYwQmRiQjRPbGlkVUhMQmJSV19LR202Y2I1RmhzeHpVb2FVck5CTFVnM3o4TGtJUjg5bjJDcGRjaHo1VFR5NW9Sd2RRazEwMHVLR2pMZE9GVTJSY1JQcV9ybGlnbVowbEVPMU1IVVpYU3pMdEwwSHZ2YTlvZnNFYWlfOVBKaHRoLWtoM25HVHREX2Rmb1ZUR2FUa282Z9IBqgFBVV95cUxOaF80VEdCdUVZa0k4SXYwQmRiQjRPbGlkVUhMQmJSV19LR202Y2I1RmhzeHpVb2FVck5CTFVnM3o4TGtJUjg5bjJDcGRjaHo1VFR5NW9Sd2RRazEwMHVLR2pMZE9GVTJSY1JQcV9ybGlnbVowbEVPMU1IVVpYU3pMdEwwSHZ2YTlvZnNFYWlfOVBKaHRoLWtoM25HVHREX2Rmb1ZUR2FUa282Zw?oc=5",
+   "time": "2026-10-10T18:16:55+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Animation shows air quality across Southeast Asia amid haze caused by Indonesia fires",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUw4czQ3em4wN0x0NmFLSUliQ09NdllMWjVFVkRCSWg1QmVKRkhDQThVb0plUXVpd0pfMnlQTmlfeEdfUFZnWm1LcUthcGFRa0JHbVhaSnVMeW5FSnRER0VpeE13M2VncFNwU1VPaVpqWGlhZ1BpelB1Q0RXNkxzT0NhNU1CMHdROTNsakZCNGo5WWEwRVNadVBia1NjQXpKczRyZDF6QS04X2pCV1QzQTF5aG1Bbzk2eG9XOS02b3g1LWd2ODhpeg?oc=5",
    "time": "2026-10-10T17:41:06+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Business as usual despite haze as F1 crowds dine and drink outdoors",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaWp6aDk4TVdWczZ1MlBvMFdQTDN1RURISFdxRElrN1JFdjZ0bGRDcGRrMjk4RW03cEhJRDZwWEhoTTNyZGNMTlJBS3ladzFsa1N1X2RNWUNFOGZkWnNTczVFS3NINWxINkNfTXRReTl3d2hxazVmX1djbFg1YXJjVU1pdw?oc=5",
+   "time": "2026-10-10T17:25:38+08:00",
    "summary": ""
   },
   {
@@ -292,13 +330,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore readys haze mask vending machines for deployment if needed",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSmFvZk1iczJ5UzJWOVJ0YlkwYTg2NWpfREN5ZnlCdHNzd2U3WG9mRTY2YlZibGpOZERtbGZsSEluRFB2NDRjTzl1c2xyb1FPVjNXVlBEYXRMQVBpWEJ6VW5rUXlfR0RUSlVPdVhPRnBmMHhsVGNWcXMyS2RzT2NOYUhEMlB2R29ISXRiUE9EMnJSUk1WS0hIX0JmaDN1SzZnVDlHb19UX081NkpKZTJJZTdfUm8xTTFsdXNBTGl6Q0xlNmVtTVQ2UGlvTE5iWHlFU1FwNzZYZG42T0t0c21EV2Nn?oc=5",
-   "time": "2026-10-10T15:43:08+08:00",
-   "summary": ""
-  },
-  {
    "source": "Malay Mail",
    "title": "Malaysia must make haze polluters pay — Shahrul Mizan Ismail",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWjgtVG44T2QtMDE3LWxJck5PUmVwcHdwRElNQW9VUHFLN2QzRkZxRklMbzd2ZjU1VnVyS0JZazZaRHVxaTlGSUFCc3JPLXhjYlFmaUUtTXpYYUVRN2NTeTF1RVlJQTZ5Z2ZEZUZoeVRXYW8ydXBrUEN5dl9CSldDSlhmUjRScVJLWXk3VHYwRzZYSmd0dGxOQ2JFWE1uZ01HX3Q0U2JrdVpVenlUclhzOE9WMUVwN2tVZ0FoQ3cwa9IBxAFBVV95cUxQVHV4QkpOQzRDZzZXTWd1cklncDktN28zbHpMUDhOX0l6bHNXZFhaZUlnTk4zTGFubDFDMHZtSklMSnZBdy1GVmFJRDhJbnA5MU9aUXpBYmdrMVg3VUd0U3ZxM2JZWDBaUmtIOGlralU1eHVqM09zS1k5Qm4tMVVmamFlYkpTeWUzTm15UG5IOFN3WWxmRTVBcl9IX0J2WFBlRVcyYjNIZ1VOd2kyMm5MVkkwRXU2cGl3bFZnbE5ZdXJjTXli?oc=5",
@@ -324,27 +355,6 @@
    "title": "Singapore stands ready to assist Indonesia on forest fires as haze worsens, says Grace Fu",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVE5XTTJJWm1DejNSWWNVVzR5NUFuUXlTUk5PcTFPTWhUbFIyXzgtc2o4ak9UOUtuZTExYjVXYXFvVnp0c0NrR3ZLVUN6Uk41d3NncXpWSnJIbjFxZlJieU8yaE9XaEkwdXB3OTRBbVpJVFdZaTk4SVhFZm04Qi1MUlZoZ0FMSkRQMWgtSmZ6ck9DQXNOVnVkM2hFcnl0MnVza1FYTEVHWmN1X19fSC05M19pMUxBSFhfY3VkYmNqbHZqNjdpSzBIOUYtOUhMQQ?oc=5",
    "time": "2026-10-10T14:36:23+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Vibes",
-   "title": "MOH records increase in haze-related illnesses",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLXBRSXhQekhTbVR4ZHpZNmFDRmVBeEhsYUlPeWxZVzJQUG01eVhHazFUUzlrZDE1OFN3ZjhBemp6UkpNMi0xNS0tcjF2ZXpUV1dpZ2IwMjh4ZmtQeEtBcEhNVEE3U1d4ZlR6OHlPYmtJU2gwcHMyX0lwVWRmVzhnaXJBYVhKQlhFZXBqYjZLbFJUNzJqd0FN?oc=5",
-   "time": "2026-10-10T13:44:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze in Malaysia: URTI, conjunctivitis cases on the rise in parts of country, says Health Ministry",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDUxelJxSGhlbWtycGVDZzRXQzl4QTNzLVhCUXFidEJQNmlUcUFvWWJIeTdSSDVzODBQMEE1MDhIV1V6c2JVem51RXpOaXctMlo2a0MyTGNDUURkTUxGNnRpeHJKclNORzhyMzBPMVZjZVZ2RVlpbWkwSVBEVjdYZ045VjI5dW84VGJPQnlJOENRRU9JVExOeHlPay0wNGxmMmh6NFVaNTFWWUhrREw3UVhaWUxfZ3ZjSktsZ1FaY0dLNmdTNWVTbUhla3JrY2hraHVr?oc=5",
-   "time": "2026-10-10T13:42:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Haze sees Malaysian respiratory infections rise 10.43pc, conjunctivitis 26.47pc",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT3VmQXJKSTBFQkxYalZ2OTl0b25YREt1a0FZa3NJYmpKREdrdGR4Njc4UDVTeFMxZ1V1aGU0MU0wQW5rd21VcjFUWXI0RHlkd2lSd1hSamhXN1duYlFnNkZjZmNLM1hucVE3Qy1pYjdlc3M1N3VqVV8xbW45Qk5RSWxrYlkzSjluZi0xSlFHeVJwZGhVWmpPcWlGdkNuNWpWQW5mWUVoSzRQZUlKSWpuYVBoR2dhQVZZcGNpYkVmYThPa3Z6cmZJ0gHHAUFVX3lxTE5PdWZBckpJMEVCTFhqVnY5OXRvblhES3VrQVlrc0liakpER2t0ZHg2NzhQNVN4UzFnVXVoZTQxTTBBbmt3bVVyMVRZcjREeWR3aVJ3WFJqaFc3V25iUWc2RmNmY0szWG5xUTdDLWliN2VzczU3dWpVXzFtbjlCTlFJbGtiWTNKOW5mLTFKUUd5UnBkaFVaak9xaUZ2Q241alZBbmZZRWhLNFBlSUpJam5hUGhHZ2FBVllwY2liRWZhOE9rdnpyZkk?oc=5",
-   "time": "2026-10-10T12:45:19+08:00",
    "summary": ""
   }
  ]
