@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-11T04:00:00+08:00",
+ "updated": "2026-10-11T05:00:00+08:00",
  "psi": {
-  "west": 154,
-  "east": 142,
-  "central": 157,
-  "south": 121,
-  "north": 120
+  "west": 153,
+  "east": 141,
+  "central": 155,
+  "south": 119,
+  "north": 119
  },
  "pm25": {
-  "west": 98,
-  "east": 105,
-  "central": 101,
-  "south": 78,
-  "north": 67
+  "west": 92,
+  "east": 86,
+  "central": 93,
+  "south": 52,
+  "north": 58
  },
  "hist": [
   {
@@ -324,9 +324,19 @@
     "south": 121,
     "north": 120
    }
+  },
+  {
+   "t": "2026-10-11T05:00:00+08:00",
+   "psi": {
+    "west": 153,
+    "east": 141,
+    "central": 155,
+    "south": 119,
+    "north": 119
+   }
   }
  ],
- "newsUpdated": "2026-10-11T04:07:45+08:00",
+ "newsUpdated": "2026-10-11T05:07:23+08:00",
  "news": [
   {
    "source": "CNA",
@@ -335,6 +345,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Haze: Five flights affected by poor visibility at Senai International Airport",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ydVR6TE82V0pPUUFramc0eDU2UWwyamkxSHBtbTNoVXNtblVMTGpVVnlDcXkzbHVXV0RqUnhTUTc4TkRjYlhlUFJ1cFhycExM?oc=5",
+   "time": "2026-10-11T00:28:23+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -418,13 +435,6 @@
    "title": "Haze in Singapore: PSI forecast to remain in unhealthy to high unhealthy range",
    "url": "https://www.straitstimes.com/singapore/haze-in-singapore-psi-forecast-to-remain-in-unhealthy-to-high-unhealthy-range",
    "time": "2026-10-10T19:40:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Free Malaysia Today",
-   "title": "Unhealthy air and haze fail to deter visitors at Melaka tourist spots",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZDI0ODFmMXE1aVYwUTRWTHlHa0g1NDBUU2lWd1NCWGtHZUJPUGdKMTdRZ2dwUjVFWGlvNTk0RWg1UWlsaXA5VEh1dWwzWG1KN2RaWVl1T05YRWNkYXhkMzRCN20xaWxvMm1FcHRZclZQRzc5LWlRM21xQS10N2JZSmEwbDNwNTdtY21VWkdlaUFmUmhrOXJLVU1IQjVrbDdqSFJaalotNXB5YjlFQmRDVzdTOGhPZGJoSXRTdFcyU05VMGJWUE9GQWVB?oc=5",
-   "time": "2026-10-10T19:31:00+08:00",
    "summary": ""
   }
  ]
