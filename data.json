@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-11T03:00:00+08:00",
+ "updated": "2026-10-11T04:00:00+08:00",
  "psi": {
   "west": 154,
   "east": 142,
-  "central": 158,
+  "central": 157,
   "south": 121,
   "north": 120
  },
  "pm25": {
-  "west": 109,
-  "east": 96,
-  "central": 96,
-  "south": 85,
-  "north": 73
+  "west": 98,
+  "east": 105,
+  "central": 101,
+  "south": 78,
+  "north": 67
  },
  "hist": [
   {
@@ -314,9 +314,19 @@
     "south": 121,
     "north": 120
    }
+  },
+  {
+   "t": "2026-10-11T04:00:00+08:00",
+   "psi": {
+    "west": 154,
+    "east": 142,
+    "central": 157,
+    "south": 121,
+    "north": 120
+   }
   }
  ],
- "newsUpdated": "2026-10-11T03:07:15+08:00",
+ "newsUpdated": "2026-10-11T04:07:45+08:00",
  "news": [
   {
    "source": "CNA",
@@ -331,6 +341,13 @@
    "title": "Animation shows air quality across Southeast Asia amid haze caused by Indonesia fires",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUw4czQ3em4wN0x0NmFLSUliQ09NdllMWjVFVkRCSWg1QmVKRkhDQThVb0plUXVpd0pfMnlQTmlfeEdfUFZnWm1LcUthcGFRa0JHbVhaSnVMeW5FSnRER0VpeE13M2VncFNwU1VPaVpqWGlhZ1BpelB1Q0RXNkxzT0NhNU1CMHdROTNsakZCNGo5WWEwRVNadVBia1NjQXpKczRyZDF6QS04X2pCV1QzQTF5aG1Bbzk2eG9XOS02b3g1LWd2ODhpeg?oc=5",
    "time": "2026-10-10T23:53:40+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The New York Times",
+   "title": "Unhealthy haze from wildfires poses no risk to Singapore GP, says F1",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3AzQmhwelgyM2x5V2lkS01YVjl5U3ZWV2p2eFRPUURSbnNkZHNaMGlTNGZlelY2cXVFdVhJSUNuU1NBUHZGbXQ4RXRxSWhTQXZycGtuelhXUmFUb0I3REI5ejVlb1Y4cnozbEpZRUtXZjlMOHZuYmxjcjJrX3FUbTlRWHltUnc3VHpJ?oc=5",
+   "time": "2026-10-10T23:11:00+08:00",
    "summary": ""
   },
   {
@@ -366,13 +383,6 @@
    "title": "Malaysia closes schools in KL due to haze",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDlPWTNzY3FscXA1dlplNWo1SnZROG9UNmkwN0Z5UUxjbUpra0MxaHczbVJLM29qSVRCU050LWhkTWZ3RV9HYlZSWEJZT1hELXhYMkJ0QkVWcm1wV3VPOGhBX3lYYXYxdktrdEM2WUFDckVXdWV0RTVxbkRfYnJnamwwc2hwNl8wME4zYUpWWVVNX2k2bC0tMUJR?oc=5",
    "time": "2026-10-10T21:11:05+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The New York Times",
-   "title": "Unhealthy haze from wildfires poses no risk to Singapore GP, says F1",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3AzQmhwelgyM2x5V2lkS01YVjl5U3ZWV2p2eFRPUURSbnNkZHNaMGlTNGZlelY2cXVFdVhJSUNuU1NBUHZGbXQ4RXRxSWhTQXZycGtuelhXUmFUb0I3REI5ejVlb1Y4cnozbEpZRUtXZjlMOHZuYmxjcjJrX3FUbTlRWHltUnc3VHpJ?oc=5",
-   "time": "2026-10-10T20:35:00+08:00",
    "summary": ""
   },
   {
