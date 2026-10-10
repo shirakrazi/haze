@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-10T23:00:00+08:00",
+ "updated": "2026-10-11T00:00:00+08:00",
  "psi": {
-  "west": 152,
-  "east": 145,
-  "central": 163,
-  "south": 125,
+  "west": 153,
+  "east": 144,
+  "central": 162,
+  "south": 123,
   "north": 119
  },
  "pm25": {
-  "west": 99,
-  "east": 57,
-  "central": 80,
-  "south": 43,
-  "north": 68
+  "west": 109,
+  "east": 62,
+  "central": 75,
+  "south": 42,
+  "north": 60
  },
  "hist": [
   {
@@ -284,9 +284,19 @@
     "south": 125,
     "north": 119
    }
+  },
+  {
+   "t": "2026-10-11T00:00:00+08:00",
+   "psi": {
+    "west": 153,
+    "east": 144,
+    "central": 162,
+    "south": 123,
+    "north": 119
+   }
   }
  ],
- "newsUpdated": "2026-10-10T23:07:42+08:00",
+ "newsUpdated": "2026-10-11T00:07:51+08:00",
  "news": [
   {
    "source": "CNA",
@@ -297,6 +307,13 @@
    "pinned": true
   },
   {
+   "source": "CNA",
+   "title": "Animation shows air quality across Southeast Asia amid haze caused by Indonesia fires",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUw4czQ3em4wN0x0NmFLSUliQ09NdllMWjVFVkRCSWg1QmVKRkhDQThVb0plUXVpd0pfMnlQTmlfeEdfUFZnWm1LcUthcGFRa0JHbVhaSnVMeW5FSnRER0VpeE13M2VncFNwU1VPaVpqWGlhZ1BpelB1Q0RXNkxzT0NhNU1CMHdROTNsakZCNGo5WWEwRVNadVBia1NjQXpKczRyZDF6QS04X2pCV1QzQTF5aG1Bbzk2eG9XOS02b3g1LWd2ODhpeg?oc=5",
+   "time": "2026-10-10T23:53:40+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Star",
    "title": "Indonesia welcomes Singapore, and Malaysia offers to help tackle haze",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd2pseHZ6dHl0THRLWXY0bV9uWnpoUmdWZUR2ZlVfNThoeDVSNXRBMi1abzQwS2JyX2lQLXRPbFFMTnladm1qcmNuemdIVmtFVGFvRWVlbzNIekhNVmZqa0VSb3J5Sll5WU9KVEZOemIwSHJ5am51Y1VObWpFRG9rYUhacWFmRzdReFdKeUJPWnpNczF0ZjRiOXM0djJFTFZNcG8tZV9TRkZ0cmFUd2JabUdoZ3ZLNWRoTmV6SElMZmpPWWxwZ2JPTWtHOA?oc=5",
@@ -304,17 +321,17 @@
    "summary": ""
   },
   {
+   "source": "The Star",
+   "title": "Haze: All schools in Johor to remain closed for another five days from Oct 12-16",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd2NHNG16RmdpUmxvY21PN0dtY0JDNXZ6T3hhMlJEalR2YkVvRjhqOXNhMHBYTEZoY1VXUDEyYzdUVHhMTVJlTWd6ak1lSFYzczVGVzhKSWVFQXdFWFl1bzNueGxiU3hwSEZYNV90cm10eG01b2gtQkl0SGwwV3FqOER4MFVETmZCSktQTGswWm03bVVSQ2tCME1iQmQtejVyUGJDV0VjS2ppTFdBZ050MlNrc3VYXy1uZ0ptTUZueUZtWkdYaWpqZg?oc=5",
+   "time": "2026-10-10T21:29:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "Manila Standard",
    "title": "Malaysia closes schools in KL due to haze",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDlPWTNzY3FscXA1dlplNWo1SnZROG9UNmkwN0Z5UUxjbUpra0MxaHczbVJLM29qSVRCU050LWhkTWZ3RV9HYlZSWEJZT1hELXhYMkJ0QkVWcm1wV3VPOGhBX3lYYXYxdktrdEM2WUFDckVXdWV0RTVxbkRfYnJnamwwc2hwNl8wME4zYUpWWVVNX2k2bC0tMUJR?oc=5",
    "time": "2026-10-10T21:11:05+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Animation shows air quality across Southeast Asia amid haze caused by Indonesia fires",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUw4czQ3em4wN0x0NmFLSUliQ09NdllMWjVFVkRCSWg1QmVKRkhDQThVb0plUXVpd0pfMnlQTmlfeEdfUFZnWm1LcUthcGFRa0JHbVhaSnVMeW5FSnRER0VpeE13M2VncFNwU1VPaVpqWGlhZ1BpelB1Q0RXNkxzT0NhNU1CMHdROTNsakZCNGo5WWEwRVNadVBia1NjQXpKczRyZDF6QS04X2pCV1QzQTF5aG1Bbzk2eG9XOS02b3g1LWd2ODhpeg?oc=5",
-   "time": "2026-10-10T20:41:28+08:00",
    "summary": ""
   },
   {
@@ -378,13 +395,6 @@
    "title": "Indonesia welcomes Singapore, Malaysia offers to help tackle haze",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3R6dHphZGR2RDBUR0ZvT3lndEkxakpHbk5iN0JHUjY4NEhweUJ0QTlMV2l2SkdHQVR1dWZGaWc2WUpQMS1iclBlSGNRaDBOUkhocEJQWEZQd1RXZ2xtaS1qaWpQblJibmJoZnJEUzI5OFZycDJGRnlXY1lrV25VWThsVXJBanFTTTEtT1JVQ1ZrVmFmWE9VTUtpVFFHbXRRRWRIZ3VTXzA0dw?oc=5",
    "time": "2026-10-10T19:06:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Singapore haze: Education Ministry may close schools if PSI rises above 300",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdTNDcGEzdEZtaUlFZXNqQ2RodUNTbkdJQ3pmYktzMlYwYndFX25iSDk1cXM3elJLUEFjTUNQSWdlUE04Yy1kQ1NyY2NvMDdsazIwRmJPTDdmdy10YV9yeUpfa0xGSGtLY3hHRmVPZWJ0Rzd6cEV1NmhvMENxX01NWndYQkJ5bUhPRV9keGZhOHdsOVlSRWFWa2FQZXliN1VhUDhsSy1DX0JJYmFJQVRHQlk0bUYteTZYQlVjTmxFNGRsWmFwRGtzdl9lbWkxazRWaVBRbNIB2gFBVV95cUxOQmltcklwdi0weGZscjZENTM2Vm1iVjE5S2RPOTI2VU1VbjFwUWFsZjJvSWpNTmtqVzc4ZVBRYVE3RmtHX1ZyZlQ5RW9hal9IWHU5RDNUcHlRbzdFamUtdTV4YWZFWjdSNnQxYWxyTVZFdjFiRk5GVVhPZlpra3Y4REliLU9HdWdVYjVMeVZhY3JCVzJ0T2tkdzBjclFBckh3LV90OEdEQWxVZXJIRW9nZ0NWVXR3eENocjlCd1lKcFExN2tUanpoSVNNV1h1RUg0OURoUHRqMlVhdw?oc=5",
-   "time": "2026-10-10T18:38:48+08:00",
    "summary": ""
   }
  ]
