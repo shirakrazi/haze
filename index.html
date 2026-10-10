@@ -320,6 +320,7 @@ footer p{margin:0}
 
   <footer>
     <p>This is an independent community page, not an official government site. For official readings and advisories, use haze.gov.sg or the myENV app.</p>
+    <p>This site counts visits anonymously using GoatCounter. It sets no cookies and collects no personal data.</p>
     <p><strong>How to read the map.</strong> Each country reports a different index (Singapore PSI, Malaysia API, Indonesia ISPU, and US AQI from AQI.in), so the numbers are not comparable across borders. Colours use each index's own category bands. Indonesian ISPU values above the usual 500 ceiling are shown as the environment ministry reported them.</p>
     <p><strong>Satellite layers.</strong> These come straight from NASA and are not edited by this site. Red dots are fires detected by the VIIRS sensor on the NOAA-20 satellite. "Smoke seen from space" is the OMPS aerosol index, which picks up smoke high in the air in squares about 50 km wide; it is not a ground-level air quality reading. The photo is the same day's true-colour image, so cloud will hide some areas. Each day's data fills in during the afternoon and evening, so today may be incomplete.</p>
     <p>Smoke drift bands are drawn from the wind directions and source regions named by NEA, not from satellite plume outlines. Hotspot diamonds use the Forestry Ministry's high-confidence count for 7 October, 9 pm WIB; provincial agency counts that include lower-confidence detections are much higher.</p>
@@ -716,9 +717,11 @@ document.querySelectorAll('[data-a]').forEach(b=>b.onclick=()=>{$('rm-area').val
 $('rm-area').oninput=$('rm-h').oninput=calc;
 renderAct();calc();
 const PAGES=['situation','care','act','news'];
+const GCPATH={'#care':'/what-to-do','#act':'/what-to-buy','#news':'/news'};
 function show(pg,push){if(!PAGES.includes(pg))pg='situation';
   for(const p of PAGES){$('pg-'+p).hidden=p!==pg;$('tab-'+p).setAttribute('aria-selected',p===pg)}
-  if(push){try{history.replaceState(null,'','#'+pg)}catch(_){}scrollTo(0,0)}
+  if(push){try{history.replaceState(null,'','#'+pg)}catch(_){}scrollTo(0,0);
+    if(pg!=='situation'&&window.goatcounter&&goatcounter.count)try{goatcounter.count({path:GCPATH['#'+pg],title:$('tab-'+pg).textContent.replace(/^\d/,'')})}catch(_){}}
   if(pg==='situation'){size(false);trend(DATA)}}
 for(const p of PAGES)$('tab-'+p).onclick=()=>show(p,true);
 $('go-care').onclick=()=>show('care',true);$('go-act').onclick=()=>show('act',true);$('go-news').onclick=()=>show('news',true);$('go-sit').onclick=()=>show('situation',true);
@@ -729,5 +732,7 @@ let start='sg';try{const s=localStorage.getItem('haze-sel');if(s&&byId[s])start=
 select(start);
 </script>
 
+<script>window.goatcounter={path:function(p){var m={'#care':'/what-to-do','#act':'/what-to-buy','#news':'/news'};return m[location.hash]||p}}</script>
+<script data-goatcounter="https://hazewatch.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
