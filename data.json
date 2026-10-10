@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-10T10:00:00+08:00",
+ "updated": "2026-10-10T11:00:00+08:00",
  "psi": {
-  "west": 160,
+  "west": 161,
   "east": 156,
-  "central": 174,
+  "central": 173,
   "south": 135,
-  "north": 124
+  "north": 123
  },
  "pm25": {
-  "west": 118,
-  "east": 121,
-  "central": 135,
-  "south": 100,
-  "north": 78
+  "west": 128,
+  "east": 126,
+  "central": 130,
+  "south": 104,
+  "north": 84
  },
  "hist": [
   {
@@ -184,9 +184,19 @@
     "south": 135,
     "north": 124
    }
+  },
+  {
+   "t": "2026-10-10T11:00:00+08:00",
+   "psi": {
+    "west": 161,
+    "east": 156,
+    "central": 173,
+    "south": 135,
+    "north": 123
+   }
   }
  ],
- "newsUpdated": "2026-10-10T10:07:33+08:00",
+ "newsUpdated": "2026-10-10T11:07:24+08:00",
  "news": [
   {
    "source": "CNA",
@@ -195,6 +205,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "NST Online",
+   "title": "Malaysia must table transboundary haze law without delay, says lawyer",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLTBsQ1VBdTlZaHpDbHlfYkRQTk85NExkaFUxaVVoM3c4MThxTTczRUVRS2VXdVEzbk9WdEhQWGo2X2QxTWhEc0JrUzhpSVVoWkM3NThGaWc0cjRMSlNkN2ltRkdiRDRJUWM1Z2lxMjZkYjVEcmVpWEpsMGkxZWNBTWtEV2g4eUhfV1pEajhfbGp2OHNHc2pHVkZyYk1sdGpYLS03dlB6ZmtGamR6TElkMHhYaklOYzcxMmlv0gHAAUFVX3lxTFB6cEtQc0dtTTdLQ0VzUEdfZ0JUdGs2WmVIR002c0VHc2prVHRlYnVTQ0gzTkM5XzNPMWtmbzIyTVhYaG9zdzU1cGdoTGJXWXN1WER1ZEhjQUhyOEs2M3FLOVRkbkNyZ2REOC1hZmhJRUpPVlo1M2FESHpiZk51cFJXY3U1QVNPUW1sTm9uU1VoV2E5LTN1cmRYQ0pBWFZqMDhvYVBSMHRBQk85eUppcEZMUTdLbmwtbTBidzBGZG83bQ?oc=5",
+   "time": "2026-10-10T11:02:38+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malaysiakini",
+   "title": "Indonesia details crackdown, firefighting efforts as haze chokes Malaysia",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzBjOFFNLXpWcTh6Ylg2bXUtemtXbWk5d2lTWE1ZUWlrNXAtSEcyOUxwS2s4OWJEVnQ1b2lEZHJ4dG5ha2N4dlJPVExib1dyUEp1bm0wWEV6dWY0dVRvbS15UEJOVDd3U2g2eTVoY2hzYXRGY1dNTlNtdHc0N0pwV2YxZnV2Szh2b00wSU4zSkhUUlhGWF9IV3ZvOXJTUDg3OGdEQjkxejhkdDJrNURUVFJHMA?oc=5",
+   "time": "2026-10-10T11:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Haze: Announcement on Perak school closures expected Oct 11 afternoon, says exco rep",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR0dHVGhaWjc5Q3RjUEdOdUJ6SGNnTk9RUkI2dEhQNWV0SE9VQnFkc2kzbVBwNS12ejhvUUNWdXRpbmlSa05yR2NpOWlXYzcwU0swMnYzbjlUY2J5NHdZam9oSlQ0UGNRa0ZBWGd5TVFkZHNycHFIcVg3VFJ6Zk5XMFd3REYxWFVicVc2dUJTR0Nxb19MVXhoRXU5UzRQSzJsWGxVYUxkcmczN01sS2FuZFdVc1ZYV3RlOTVwcmJzQkx0X0lGbkpXQmMzV3M?oc=5",
+   "time": "2026-10-10T10:48:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore stands ready to assist Indonesia on forest fires causing haze: Minister Grace Fu",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaXQ2X1dldHFqV01WMF9XM3piZ1JPRzU5b1YtanJmNEpyZ0d1dTJCcUlhQ0t0N29nWmF4cUpXUVF6YVhiNWZvWTVNQWFMSFRuejV4WkxrVU5CRGZnME1UQmtVLTRsM1VqcFhRZUJldWdZb21kVFA0S21xZDZKbXY0eXdJV3ZFM3BRU3R5alZXaHh4aXdqb1Q3aWNmRjJadmUwZHFmeFRxRGIyb3U4NjZDcTZpYUZQV3JWV1hGV0RnTnc3azJyd1ZpdFlB?oc=5",
+   "time": "2026-10-10T10:24:57+08:00",
+   "summary": ""
   },
   {
    "source": "South China Morning Post",
@@ -246,13 +284,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore's air quality remains in unhealthy range",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTTBOZ05MM2hJMGF4WGdVdjRXaDNKRERBVUJNWGc2TEcxR2ppdlNzRlUtb2dIOGZZS1JSVDkwbHBGRzVXajF2My1lX283M082dmFCaGE0amZIM3RuZ29JVHotQ0lVenk0Z3hhOTE2dktpRG9fRWtsaHVsUWFfbk1FMFdUcFJSNkV6Ylo4WW1B?oc=5",
-   "time": "2026-10-10T06:51:47+08:00",
-   "summary": ""
-  },
-  {
    "source": "The New York Times",
    "title": "Unhealthy haze from wildfires poses no risk to Singapore GP, says F1",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3AzQmhwelgyM2x5V2lkS01YVjl5U3ZWV2p2eFRPUURSbnNkZHNaMGlTNGZlelY2cXVFdVhJSUNuU1NBUHZGbXQ4RXRxSWhTQXZycGtuelhXUmFUb0I3REI5ejVlb1Y4cnozbEpZRUtXZjlMOHZuYmxjcjJrX3FUbTlRWHltUnc3VHpJ?oc=5",
@@ -264,27 +295,6 @@
    "title": "F1 says Singapore race will go ahead despite Indonesia haze",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTFBRkFaT2FZZ0FwMmV2dW9IZklaVVZPNFBiNE1jOS03ZlFkU3JqU0JfbDVOVnZCc1A0al9UczNtUFlfNFhGNzBETURSbEItQXZTLXFvLUJ1OW40ek1hU0xicUZkUUlnczI1UEM1T0VvYlJNX2MyQkQwZDhhWXRjNzYzUWVMdkVoQm9tT1J5OHV1WWhrOF82YTl6azBhQWVoWlAwc05VbHFkdjB4?oc=5",
    "time": "2026-10-10T01:01:54+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bernama",
-   "title": "MERCY Malaysia Expands Haze Emergency Response Nationwide",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40bUQxSW13Y3RZU0R6cklXOTh1dDczaUpUZWhESnlpLVdfcnVOWUZPRUhpMmM3T25KTVY1M2otZ0hGSkZqRkhVb3BqMmtIMEhhM1VXelJNWU05VjBCVks4?oc=5",
-   "time": "2026-10-10T00:31:55+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Free Malaysia Today",
-   "title": "Mercy Malaysia prepares haze emergency kits for distribution",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYXpBTjg0R0tXa2RIcFFjVXEwel80UGw5TTBZQnNrSUFSTWdLcTNZbDZYZWtKUmVHbTYxN0tDZ3BxdnlPaTRBNWNTTy16NUxQT1VYdkhTY21xTXNzUXQ3aEpzUi1LNlBjUnNnUk9OZjhIY0VzMDhkeTlyX1JOSWU1cFNDeE01aW1IR1QyOFRyQTVybGtMb2Y3WXV3SHRyXy1iLUpWX195dVpyVHBrakRielRVb3ZYbThGNXUwMg?oc=5",
-   "time": "2026-10-10T00:09:04+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Manila Times",
-   "title": "Haze prompts school closures in Malaysia",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOczFkNGpHMElIcGs3cFBaQU5UcVp0NVd3Z2dlU29Cd2dUSDJTMTRFbHBuZWFISk00NzdRTWt2RnVWLVdKMGlDTzlrT2pSRHRmQkhWYnRCSEZGR2NyMUh4M1Fmb09zeFVWQkswMGtVclpEckZNcElfNjZTTjBwSU9LaExIalM0OHdLZlJzMTYtYWtXSmhHcGl5d1pzbzNVRTRsWVFjMnRiODZod9IBrwFBVV95cUxPVHZWeEMyT0pTMUxUdmFldkJ2c1F5V1ZxVm91VGV3MzhZT2F5a0RKQ0JQTFRhNGxrLWUza0pKR1JzbWZfR0ZTd0dka0E5Z1ExaUw4QmItMWRpQWhuMFVHUDg0ZWh0cmtrVEVORWdxR3VpcDlHSHJCUVVDd0cxTEtsenU0cjNIMWNfQjRaVUlkTmpzdUlXekxSZ3ZDRVc0djVMUFhRMmxiRlhCOS1nUzJZ?oc=5",
-   "time": "2026-10-10T00:08:00+08:00",
    "summary": ""
   }
  ]
