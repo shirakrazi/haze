@@ -212,7 +212,7 @@ DEBUG = {}
 def fetch_malaysia(now):
     raw = get(APIMS_URL)
     feats = json.loads(raw).get("features") or []
-    DEBUG["my"] = {"bytes": len(raw), "feats": len(feats), "head": raw[:600].decode("utf-8", "replace"), "now": str(now)}
+    DEBUG["my"] = {"bytes": len(raw), "feats": len(feats), "f": feats[:3], "now": str(now)}
     rows = []
     for f in feats:
         a = f.get("attributes") or {}
