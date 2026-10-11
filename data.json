@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-12T03:00:00+08:00",
+ "updated": "2026-10-12T04:00:00+08:00",
  "psi": {
   "west": 148,
-  "east": 139,
+  "east": 138,
   "central": 148,
-  "south": 117,
+  "south": 116,
   "north": 106
  },
  "pm25": {
-  "west": 91,
-  "east": 88,
-  "central": 98,
-  "south": 63,
-  "north": 60
+  "west": 94,
+  "east": 84,
+  "central": 107,
+  "south": 68,
+  "north": 57
  },
  "hist": [
-  {
-   "t": "2026-10-08T19:00:00+08:00",
-   "psi": {
-    "west": 139,
-    "east": 108,
-    "central": 137,
-    "south": 105,
-    "north": 98
-   }
-  },
   {
    "t": "2026-10-09T00:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 117,
     "north": 106
    }
+  },
+  {
+   "t": "2026-10-12T04:00:00+08:00",
+   "psi": {
+    "west": 148,
+    "east": 138,
+    "central": 148,
+    "south": 116,
+    "north": 106
+   }
   }
  ],
- "newsUpdated": "2026-10-12T03:07:04+08:00",
+ "newsUpdated": "2026-10-12T04:07:09+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Retail News Asia",
+   "title": "Singapore Activates Haze Subsidies as PSI Hits 151",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWdXT3IyQU4yXzcxVlhjZUtSSm1GMUtLeXpHUW90Yno2aEdxZTQwNFhRX2xUbVp0LVZYekZuT01zTnJWa0xJRl82UnJYc2hrb21RRTQ5Y0EtNHNBX2tNWlFMa0JpUDJWU1lOcTUwMVVJWmp3VmFrVEN2NHZFcHhVdElqcS0?oc=5",
+   "time": "2026-10-12T03:20:42+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -588,13 +595,6 @@
    "title": "Indonesian govt official says forest fires 'beyond human error' & their forests 'send oxygen' if there's no haze",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYmlJdWRhdG1mQ3FUeVljM2pSSF92TTA4dEdoRHVqekpubjBCZG41cUhJVUFnNVlxR1VkekFIOFBfT1IwcTVlMEx5VnZqeXlXazB3eEdtZ054OFhvRFN5aHRWaHZrVHE2UUdvY0N2TWNGRW5sZXFSalNCbG5lN2R2Mm9HVW03V3VQRVNpMzMtSQ?oc=5",
    "time": "2026-10-11T17:46:39+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NDTV",
-   "title": "Singapore F1 Weekend Hit By Severe Haze From Indonesian Wildfires",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa0w1cHgtQlRyVjVpQUtUWThaWjZDcUhsZVRia19NMHNHZW13ZmI0d0JwT0xTb1ZWcmxIbUQ3dU9lS0dTS2l3OEFHZU81TVFIejJiNEJfOVNMUVdGN1VuVDZFeGV4YUxPNldqZ1lqUnc0dmhCeUh0N0VMZXRCNWlxT210NkdFeW1tNFZQTFlzSl8xRVBSY1dJbkRJekdnTnc0TmdV?oc=5",
-   "time": "2026-10-11T17:45:52+08:00",
    "summary": ""
   }
  ]
