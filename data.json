@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-11T11:00:00+08:00",
+ "updated": "2026-10-11T12:00:00+08:00",
  "psi": {
   "west": 150,
   "east": 135,
   "central": 149,
   "south": 114,
-  "north": 117
+  "north": 116
  },
  "pm25": {
-  "west": 100,
-  "east": 97,
-  "central": 115,
-  "south": 78,
-  "north": 64
+  "west": 119,
+  "east": 101,
+  "central": 117,
+  "south": 96,
+  "north": 66
  },
  "hist": [
   {
@@ -384,9 +384,19 @@
     "south": 114,
     "north": 117
    }
+  },
+  {
+   "t": "2026-10-11T12:00:00+08:00",
+   "psi": {
+    "west": 150,
+    "east": 135,
+    "central": 149,
+    "south": 114,
+    "north": 116
+   }
   }
  ],
- "newsUpdated": "2026-10-11T11:06:50+08:00",
+ "newsUpdated": "2026-10-11T12:07:21+08:00",
  "news": [
   {
    "source": "CNA",
@@ -397,10 +407,59 @@
    "pinned": true
   },
   {
+   "source": "AzerNews",
+   "title": "Singapore tops global air pollution rankings as Indonesian wildfires spread toxic haze",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56Z2dvNEF3ck4yN2VKaHhrNnZhMlNMSEVDcVVOV1FQeXl1NGR4ZGYtZklHVGFHVTBRdEFtTUJleFlCV3hRWTE1VHZ0X2V6c1FHM19iMw?oc=5",
+   "time": "2026-10-11T12:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne",
+   "title": "Haze in Malaysia: 15 areas record unhealthy air quality, Pasir Gudang records highest API reading at 180",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNclNSOHByZzEzNm5mZU84ck1NdlEwRnFYaklhRXNXb0lGTUUyRVFuaDBCZ0N2NDMzOFZycFZsWHJJWk43Y0U5Z200R3RNZVlSU25nZUlPbHBwdXhPblR2LVlvRTdtRml1RWhCVmpNWEFoZ01NZ1V0bXE3SkstMjI3T3ZjRk5HOU4wMkdWLUFlRlFpNXQ2TW94S3lqX05qWWEtWDAzTV9USmpnZVZGRmxlbDRqdkRvQ1F1?oc=5",
+   "time": "2026-10-11T11:52:51+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore to roll out haze subsidies at GP clinics, polyclinics from Oct 12",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGlxMXpybFBoWFRIcE5tTlBoUE03TklIOF9wRTJKczRYd0NWMkw0WDVSblV2S0o4M1EyZmtuQ3hpSXYwYzZCTnk5MGw4TVppUld4QnpyTC1RV2l0aEZMNjQ4ODNqaVBaVGIxQlJPR1lUR3YzbFg2SFZENkpSMEkwTXc0T2NuQmFYRGx1ZTVzRW5Ed3NJcDI4aWdCUkw?oc=5",
+   "time": "2026-10-11T11:28:15+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Air quality remains unhealthy across Singapore amid haze",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3M0RTJ2S2tVTXE0TmQ0TUJudjMxY09Pa3pFSHExbmVVbUR2cmgzdFc3OEFXWloxQ3cxSi1WNktaRGVUNnBrbTYyalFJaWRTVU45SHJNQkF3dHRpVGJKVlhrR1J5WWdsSWd6Q3V6T0p3RHB3czN2Yk9VeFZzX0NGZWdPb2dNTVIyMkswVGJR?oc=5",
+   "time": "2026-10-11T11:26:19+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "Singapore To Roll Out Haze Subsidies As Air Quality Deteriorates",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkg1TnVwNDBza2dlLWNYamdiYlRUM1VOOXV6TW5KTzhsckNxdW50eml1RW9WN3dpWHNRdU9sQ3diZ1kwNGNXRFR3UWM0ZkpETmRBUHdwUWQ5MlN4cndHQnpLcVhfVnFfM3RnOWpiWFdFNHpBdWxLRENLelNBSGdDQTlnRDBCNkZ1a2I3R0VaTUNpaHh2cTMwUnNhTzhlZjQ3Z096Y25CWjlqRHljWWc?oc=5",
+   "time": "2026-10-11T11:11:03+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "Johor extends school closure to Oct 16 as haze worsens",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmlpWlJTQUtiVmxoZWxuMWwzNm1PSnV6SjEzRTlXeTZqVVVMQjBqTlZJQ0doRFpUejNyX3JHZEgtTXk2QlVjM2ZwcXhxQVNjYWNTVWpaSlFWNVJIQmNIUDE1VHdfcWJ6WlU5ZVRSRjRFdERJVFMyX0xGNGJPZWhPQ1I2NDdRajF2eDBMWWdzVFBTWDNGRjJPdDVDTkQ?oc=5",
    "time": "2026-10-11T10:58:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "ANTARA News",
+   "title": "Indonesia explains firefighting efforts to Malaysia as haze spreads",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYnBhdnJlN1dUZDJrRHVPUUJZZXlBZjJ3QnRxWFdYeXIyMmNhRHRtSElucWFMX3Z3ZzIxTVNGUm5zQnoxSlJuQTFIcURvQXQ3UzlCRXRQMTd6VGlRcTZfWHN3TVVUcW4yLTQ0d0w4X2dzbG1SR01Gb0ZPNzIwNlJqR3BVVVNwVlhYeUE3YlNvNzZ4WkwwZ3dWS1RySkJQcHdEMFNoNzVadzJoZW5BY1HSAa4BQVVfeXFMTmJwYXZyZTdXVGQya0R1T1FCWWV5QWYyd0J0cVhXWHlyMjJjYUR0bUhJbnFhTF92d2cyMU1TRlJuc0J6MUpSbkExSHFEb0F0N1M5QkV0UDE3elRpUXE2X1hzd01VVHFuMi00NHdMOF9nc2xtUkdNRm9GTzcyMDZSakdwVVVTcFZYWHlBN2JTbzc2eFpMMGd3VktUckpCUHB3RDBTaDc1WncyaGVuQWNR?oc=5",
+   "time": "2026-10-11T10:49:39+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Mothership",
+   "title": "Eligible S'poreans to get subsidies for haze-related conditions at polyclinics & some GP clinics from Oct. 12, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tLTlraTJ4QVhsbzhnWDVUVnB6TC0tWi16Qkt3YVpxYVJLbXBYT0V0clhQUWlwYXdzMmlVUlV0LWpPWDVZUUp5SUp4elJSMWhfa2o3QU9JczIxdmhHbmNIV3hVVVBFb0NmT1E?oc=5",
+   "time": "2026-10-11T10:48:08+08:00",
    "summary": ""
   },
   {
@@ -432,59 +491,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Air quality remains unhealthy across Singapore amid haze",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3M0RTJ2S2tVTXE0TmQ0TUJudjMxY09Pa3pFSHExbmVVbUR2cmgzdFc3OEFXWloxQ3cxSi1WNktaRGVUNnBrbTYyalFJaWRTVU45SHJNQkF3dHRpVGJKVlhrR1J5WWdsSWd6Q3V6T0p3RHB3czN2Yk9VeFZzX0NGZWdPb2dNTVIyMkswVGJR?oc=5",
-   "time": "2026-10-11T10:07:12+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Straits Times",
    "title": "Scheme providing subsidies for haze-related conditions to start Oct 12: Ong Ye Kung",
    "url": "https://www.straitstimes.com/singapore/scheme-providing-subsidies-for-haze-related-conditions-to-start-oct-12-ong-ye-kung",
    "time": "2026-10-11T10:04:31+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore to roll out haze subsidies at GP clinics, polyclinics from Oct 12",
-   "url": "https://www.channelnewsasia.com/singapore/haze-subsidy-scheme-gp-clinics-polyclinics-moh-6449066",
-   "time": "2026-10-11T10:01:21+08:00",
-   "summary": ""
-  },
-  {
-   "source": "UA.NEWS",
-   "title": "Johor extends school closures until October 16 due to haze — Channel NewsAsia",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTzNyNkJqcVdBbUZuTnpHbFdSeml6eURidzVtakxka3hmTlpMUU1fbjd5SDRjRzNlZmZQSmhKeXZadUZ4RGVWN1JVLTFITTdnRnZBRHlfWjlublJYUmhnMy1XUFpRRk93WndfUEtwSDU3dXNyR25hNDFzSnktd3c3RmxfWkl5elExVTVrOTI4N0VQQnA5SnMzMmcwUGhyaXVDek5MSGdDSnc0YkRi?oc=5",
-   "time": "2026-10-11T09:47:43+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Johor extends school closures to Oct 16 as haze worsens",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObHp5R0FHOWxSa1EwSVBEa2pWdkdvTDRObWVsYXYxNTAzYkFpb2RrNGNFTzh1SEFaUS1NZnBrcUVvTmhKeVNKSEx6dTE2bnNOSUs4b1BUc1Z0RmhaVUJPRkpqaFpFWVBDY0tWSDg0Wk1EYXljd2d2SFJjUElZTHBvdmo2Wm8teHhaVWhvM0pBaFJZaEFa?oc=5",
-   "time": "2026-10-11T09:35:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "School closures in Malaysia due to haze leave parents scrambling for childcare",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTkpIV3VET3JxWl9lSlZmd1NNYjF2cE83TEJvZGpKbXVHOXd1UG5BQ1F6bjF6dV9TTldoWGd0OWJqaERYSGNJdXVIX28wdUZ2MGc2YzNQLVA0WmxrS3JMQkR0M1Y5Z0FFaDN0YU5lbV9tbjVrZTdHaGEzUDZ4dWt0S3RxYXYxMlVPc2thVVlsOWtxdFFWR1pZV1NnZXNFdThfU0w1elQxWV9yU2lIQ3c2NUh2ako3ZDZOanp4UA?oc=5",
-   "time": "2026-10-11T09:23:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Malaysia, Indonesia discuss joint action to tackle transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ20xclZ1TEVyTU5QcERWY1RZbGpad0hfdVlJMFFPMFgwWVVmVFQ1QWd0TVZ1cDRRVktUTEVxazB1eHIwdnE3YXExTWNTUmphOGlBN2Y2SFFBMGJ2NTVuTUtkeVczQTdocVZrMk4yMFdmelV6cnBwVWpIVlZJcWluT29JSUplajZkTmFobnF2VUx5VWFqRTR2WkdfazJVR3RDbF9ua1hjUHY4cksyQmZYV0gxVzJNeWNOTTFRRjN0OFFtR3hQMEROSUxB0gHKAUFVX3lxTFBDbTFyVnVMRXJNTlBwRFZjVFlsalp3SF91WUkwUU8wWDBZVWZUVDVBZ3RNVnVwNFFWS1RMRXFrMHV4cjB2cTdhcTFNY1NSamE4aUE3ZjZIUUEwYnY1NW5NS2R5VzNBN2hxVmsyTjIwV2Z6VXpycHBVakhWVklxaW5Pb0lJSmVqNmROYWhucXZVTHlVYWpFNHZaR19rMlVHdENsX25rWGNQdjhySzJCZlhXSDFXMk15Y05NMVFGM3Q4UW1HeFAwRE5JTEE?oc=5",
-   "time": "2026-10-11T09:20:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Malaysia",
-   "title": "Haze: Malaysia, Indonesia discussing joint solutions",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05d2ZGWjE1MGRUX25xRnZQU3l4S1VzV2hhSm44eGQtZkFQTF9uREpiS2FRNzRvZzFfVkw4M2J6bUVGaFpCaGtDNHhzeTFMaHhI?oc=5",
-   "time": "2026-10-11T09:06:46+08:00",
    "summary": ""
   }
  ]
