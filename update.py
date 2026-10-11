@@ -2,13 +2,16 @@
 """Refresh data.json for the haze page.
 
 Pulls Singapore PSI and PM2.5 from NEA's open feed (data.gov.sg) and haze
-headlines from news RSS feeds. Standard library only. On GitHub it is run
+headlines from news RSS feeds into data.json. Also writes regional.json:
+Malaysia API readings (Department of Environment), Indonesia ISPU readings
+(Ministry of Environment) and NASA FIRMS fire detections counted by
+province, with an hourly record under history/. Standard library only. On GitHub it is run
 by the workflow in .github/workflows/update.yml.
 
   python3 update.py            normal run
   HAZE_DATA=/path/data.json    override where the data file lives
 """
-import json, os, re, sys, tempfile, urllib.parse, urllib.request
+import csv, io, json, os, re, sys, tempfile, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -16,11 +19,26 @@ from email.utils import parsedate_to_datetime
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.environ.get("HAZE_DATA", os.path.join(HERE, "data.json"))
 PINNED = os.path.join(HERE, "pinned.json")
+REGIONAL = os.path.join(os.path.dirname(DATA), "regional.json")
+HISTORY = os.path.join(os.path.dirname(DATA), "history")
+PROVINCES = os.path.join(HERE, "provinces.json")
 SGT = timezone(timedelta(hours=8))
 REGIONS = ["west", "east", "central", "south", "north"]
 PSI_URL = "https://api-open.data.gov.sg/v2/real-time/api/psi"
 PM25_URL = "https://api-open.data.gov.sg/v2/real-time/api/pm25"
 UA = "Mozilla/5.0 (compatible; haze-page-updater/1.0)"
+
+# Regional sources. All are public and need no key.
+APIMS_URL = ("https://eqms.doe.gov.my/api3/publicmapproxy/PUBLIC_DISPLAY/CAQM_MCAQM_Current_Reading/MapServer/0/query?"
+             "f=json&where=1%3D1&outFields=STATION_ID,STATION_LOCATION,STATE_NAME,API,CLASS,DATETIME,LONGITUDE,LATITUDE,"
+             "PARAM_SELECTED,PM25_CONC&returnGeometry=false")
+ISPU_URL = "https://ispu.kemenlh.go.id/apimobile/v1/getStations"
+FIRMS_24H = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/noaa-20-viirs-c2/csv/J1_VIIRS_C2_SouthEast_Asia_24h.csv"
+FIRMS_7D = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/noaa-20-viirs-c2/csv/J1_VIIRS_C2_SouthEast_Asia_7d.csv"
+BBOX = (93.0, -9.5, 121.0, 9.0)  # lon0, lat0, lon1, lat1: the area the map shows
+ID_TZ = {"WIB": 7, "WITA": 8, "WIT": 9}
+ID_PARAMS = [("a_pm25", "PM2.5"), ("a_pm10", "PM10"), ("a_so2", "SO2"), ("a_co", "CO"), ("a_o3", "O3"), ("a_no2", "NO2"), ("a_hc", "HC")]
+MAX_STATION_AGE_H = 12
 
 # News: direct outlet feeds first, then a Google News search that covers other outlets.
 FEEDS = [
@@ -165,6 +183,228 @@ def refresh_news(existing, now):
     return pinned + kept[: max(0, MAX_NEWS - len(pinned))], ok
 
 
+# ---------- regional readings and fire detections ----------
+
+def num(v):
+    try:
+        f = float(str(v).strip())
+        return f if f == f else None
+    except (TypeError, ValueError):
+        return None
+
+
+def in_bbox(lon, lat):
+    return lon is not None and lat is not None and BBOX[0] <= lon <= BBOX[2] and BBOX[1] <= lat <= BBOX[3]
+
+
+def tidy(name):
+    name = re.sub(r"\s+", " ", str(name or "")).strip(" ,")
+    return name.title() if name.isupper() or name.islower() else name
+
+
+def iso_utc(dt):
+    return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+
+
+def fetch_malaysia(now):
+    feats = json.loads(get(APIMS_URL)).get("features") or []
+    rows = []
+    for f in feats:
+        a = f.get("attributes") or {}
+        v, lon, lat, ms = num(a.get("API")), num(a.get("LONGITUDE")), num(a.get("LATITUDE")), num(a.get("DATETIME"))
+        if v is None or not 0 <= v <= 2000 or not in_bbox(lon, lat) or not ms:
+            continue
+        rows.append((a, int(round(v)), lon, lat, datetime.fromtimestamp(ms / 1000, timezone.utc)))
+    if not rows:
+        return []
+    # The feed stores Malaysian clock time as if it were UTC. Detect that and correct it.
+    shift = timedelta(hours=8) if max(r[4] for r in rows) > now + timedelta(minutes=20) else timedelta(0)
+    out = {}
+    for a, v, lon, lat, dt in rows:
+        dt -= shift
+        if now - dt > timedelta(hours=MAX_STATION_AGE_H):
+            continue
+        sid = str(a.get("STATION_ID") or "").strip()
+        if not sid:
+            continue
+        out[sid] = {"id": sid, "n": tidy(a.get("STATION_LOCATION")), "s": tidy(a.get("STATE_NAME")),
+                    "lon": round(lon, 3), "lat": round(lat, 3), "v": v, "t": iso_utc(dt)}
+    return sorted(out.values(), key=lambda r: r["id"])
+
+
+def fetch_indonesia(now):
+    payload = json.loads(get(ISPU_URL))
+    rows = payload.get("rows") if isinstance(payload, dict) else payload
+    out = {}
+    for r in rows or []:
+        if not isinstance(r, dict) or str(r.get("stasiun_show", "1")) not in ("1", "True", "true"):
+            continue
+        lon, lat = num(r.get("lon")), num(r.get("lat"))
+        if not in_bbox(lon, lat):
+            continue
+        best, param = None, ""
+        for key, label in ID_PARAMS:
+            x = num(r.get(key))
+            if x is not None and 0 <= x <= 5000 and (best is None or x > best):
+                best, param = x, label
+        if best is None:
+            continue
+        try:
+            local = datetime.strptime(str(r.get("waktu"))[:19], "%Y-%m-%d %H:%M:%S")
+        except ValueError:
+            continue
+        dt = local.replace(tzinfo=timezone(timedelta(hours=ID_TZ.get(str(r.get("time_z") or "WIB").strip().upper(), 7))))
+        if not timedelta(minutes=-20) <= now - dt <= timedelta(hours=MAX_STATION_AGE_H):
+            continue
+        sid = str(r.get("id_stasiun") or "").strip()
+        if not sid:
+            continue
+        row = {"id": sid, "n": tidy(r.get("nama")), "k": tidy(r.get("kota")), "s": tidy(r.get("provinsi")),
+               "lon": round(lon, 3), "lat": round(lat, 3), "v": int(round(best)), "p": param, "t": iso_utc(dt)}
+        if sid not in out or row["t"] > out[sid]["t"]:
+            out[sid] = row
+    return sorted(out.values(), key=lambda r: r["id"])
+
+
+def load_provinces():
+    with open(PROVINCES, encoding="utf-8") as f:
+        provs = json.load(f)
+    for p in provs:
+        xs = [c[0] for r in p["rings"] for c in r]
+        ys = [c[1] for r in p["rings"] for c in r]
+        p["box"] = (min(xs) - .05, min(ys) - .05, max(xs) + .05, max(ys) + .05)
+    return provs
+
+
+def in_ring(x, y, ring):
+    inside, j = False, len(ring) - 1
+    for i in range(len(ring)):
+        xi, yi = ring[i]
+        xj, yj = ring[j]
+        if (yi > y) != (yj > y) and x < (xj - xi) * (y - yi) / (yj - yi) + xi:
+            inside = not inside
+        j = i
+    return inside
+
+
+def province_of(lon, lat, provs):
+    for p in provs:
+        b = p["box"]
+        if b[0] <= lon <= b[2] and b[1] <= lat <= b[3] and any(in_ring(lon, lat, r) for r in p["rings"]):
+            return p
+    return None
+
+
+def firms_points(url):
+    """Detections inside the map area, low-confidence ones dropped. Yields (lon, lat, utc datetime)."""
+    text = get(url).decode("utf-8", "replace")
+    for row in csv.DictReader(io.StringIO(text)):
+        lon, lat = num(row.get("longitude")), num(row.get("latitude"))
+        if not in_bbox(lon, lat) or str(row.get("confidence", "")).strip().lower() in ("l", "low"):
+            continue
+        try:
+            dt = datetime.strptime(f"{row['acq_date']} {str(row['acq_time']).zfill(4)}", "%Y-%m-%d %H%M").replace(tzinfo=timezone.utc)
+        except (KeyError, ValueError):
+            continue
+        yield lon, lat, dt
+
+
+def fetch_fires(now):
+    provs = load_provinces()
+    stat = {p["id"]: {"id": p["id"], "n": p["name"], "n24": 0, "sx": 0.0, "sy": 0.0, "days": {}} for p in provs}
+    total24 = 0
+    for lon, lat, dt in firms_points(FIRMS_24H):
+        total24 += 1
+        p = province_of(lon, lat, provs)
+        if p:
+            s = stat[p["id"]]
+            s["n24"] += 1
+            s["sx"] += lon
+            s["sy"] += lat
+    # Daily totals use Western Indonesia days (UTC+7), which keeps each afternoon pass in one day.
+    wib = timezone(timedelta(hours=7))
+    days = [(now.astimezone(wib) - timedelta(days=i)).strftime("%Y-%m-%d") for i in range(6, -1, -1)]
+    for lon, lat, dt in firms_points(FIRMS_7D):
+        d = dt.astimezone(wib).strftime("%Y-%m-%d")
+        if d not in days:
+            continue
+        p = province_of(lon, lat, provs)
+        if p:
+            stat[p["id"]]["days"][d] = stat[p["id"]]["days"].get(d, 0) + 1
+    out = []
+    for p in provs:
+        s = stat[p["id"]]
+        if s["n24"] >= 5:
+            lon, lat = s["sx"] / s["n24"], s["sy"] / s["n24"]
+        else:  # too few detections to place the marker by them; use the middle of the largest land mass
+            ring = p["rings"][0]
+            lon, lat = sum(c[0] for c in ring) / len(ring), sum(c[1] for c in ring) / len(ring)
+        out.append({"id": s["id"], "n": s["n"], "lon": round(lon, 2), "lat": round(lat, 2), "n24": s["n24"],
+                    "d": [s["days"].get(d, 0) for d in days]})
+    return {"days": days, "all24": total24, "prov": sorted(out, key=lambda r: -r["n24"])}
+
+
+def write_json(path, obj, indent=None):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    fd, tmp = tempfile.mkstemp(dir=os.path.dirname(path), suffix=".tmp")
+    with os.fdopen(fd, "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=indent, separators=None if indent else (",", ":"))
+    os.chmod(tmp, 0o644)
+    os.replace(tmp, path)
+
+
+def refresh_regional(now, sg_psi):
+    """Malaysia and Indonesia station readings plus fire detections by province.
+    A source that fails keeps its previous values; its own timestamp shows how old they are."""
+    try:
+        with open(REGIONAL, encoding="utf-8") as f:
+            reg = json.load(f)
+    except (FileNotFoundError, ValueError):
+        reg = {}
+    before = json.dumps(reg, sort_keys=True)
+    stamp = iso_utc(now)
+    for key, label, fn, ok in (
+        ("my", "Malaysia APIMS", fetch_malaysia, lambda r: len(r) >= 10),
+        ("id", "Indonesia ISPU", fetch_indonesia, lambda r: len(r) >= 5),
+        ("fires", "NASA FIRMS", fetch_fires, lambda r: bool(r.get("prov"))),
+    ):
+        try:
+            res = fn(now)
+            if ok(res):
+                reg[key], reg[key + "Updated"] = res, stamp
+                log(f"{label}: {len(res['prov']) if key == 'fires' else len(res)} "
+                    + (f"provinces, {sum(p['n24'] for p in res['prov'])} detections in 24 h" if key == "fires" else "stations"))
+            else:
+                log(f"{label}: result too small, kept previous values")
+        except Exception as e:
+            log(f"{label} failed: {e}")
+    if json.dumps(reg, sort_keys=True) == before:
+        log("regional: no change")
+        return
+    reg["updated"] = stamp
+    write_json(REGIONAL, reg)
+    log(f"wrote {REGIONAL}")
+
+    # One compact snapshot per hour, kept as the open record behind the map.
+    try:
+        day = now.astimezone(timezone.utc).strftime("%Y-%m-%d")
+        path = os.path.join(HISTORY, day + ".json")
+        try:
+            with open(path, encoding="utf-8") as f:
+                hist = json.load(f)
+        except (FileNotFoundError, ValueError):
+            hist = []
+        hour = now.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:00Z")
+        hist = [h for h in hist if h.get("t") != hour]
+        hist.append({"t": hour, "sg": sg_psi or {},
+                     "my": {r["id"]: r["v"] for r in reg.get("my", [])},
+                     "id": {r["id"]: r["v"] for r in reg.get("id", [])},
+                     "fires": {p["id"]: p["n24"] for p in (reg.get("fires") or {}).get("prov", [])}})
+        write_json(path, sorted(hist, key=lambda h: h["t"]))
+    except Exception as e:
+        log(f"history write failed: {e}")
+
+
 def main():
     now = datetime.now(SGT)
     try:
@@ -203,6 +443,11 @@ def main():
     data["news"] = news
     if ok:
         data["newsUpdated"] = iso_sgt(now)
+
+    try:
+        refresh_regional(now, data.get("psi"))
+    except Exception as e:
+        log(f"regional step failed: {e}")
 
     if snap(data) == before:
         log("no change")

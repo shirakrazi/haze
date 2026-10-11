@@ -16,7 +16,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -26,12 +26,12 @@ jobs:
         run: python update.py
       - name: Save changes
         run: |
-          if git diff --quiet -- data.json; then
+          git add -A data.json regional.json history
+          if git diff --cached --quiet; then
             echo "No change."
             exit 0
           fi
           git config user.name "haze-updater"
           git config user.email "haze-updater@users.noreply.github.com"
-          git add data.json
           git commit -m "Update readings and news"
           git push
