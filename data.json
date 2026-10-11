@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-11T20:00:00+08:00",
+ "updated": "2026-10-11T23:00:00+08:00",
  "psi": {
-  "west": 155,
-  "east": 133,
-  "central": 147,
-  "south": 113,
-  "north": 110
+  "west": 152,
+  "east": 136,
+  "central": 146,
+  "south": 115,
+  "north": 108
  },
  "pm25": {
-  "west": 79,
-  "east": 70,
-  "central": 106,
-  "south": 69,
-  "north": 42
+  "west": 74,
+  "east": 85,
+  "central": 78,
+  "south": 55,
+  "north": 57
  },
  "hist": [
   {
@@ -444,9 +444,29 @@
     "south": 113,
     "north": 110
    }
+  },
+  {
+   "t": "2026-10-11T22:00:00+08:00",
+   "psi": {
+    "west": 153,
+    "east": 135,
+    "central": 146,
+    "south": 115,
+    "north": 108
+   }
+  },
+  {
+   "t": "2026-10-11T23:00:00+08:00",
+   "psi": {
+    "west": 152,
+    "east": 136,
+    "central": 146,
+    "south": 115,
+    "north": 108
+   }
   }
  ],
- "newsUpdated": "2026-10-11T20:07:44+08:00",
+ "newsUpdated": "2026-10-11T23:01:24+08:00",
  "news": [
   {
    "source": "CNA",
@@ -455,6 +475,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore readys haze mask vending machines for deployment if needed",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnpUZHF6VURaaXZxanQzM2xqMGQxSHpVbGltWnRHbVp3QW0zR21nY3dKbG1SMGRGdkpzS3pTeWVsd2ZvM3VmYkM5Mnl6bm9KSzBfQUUwZzlGenJDZ1JvUndIaG1zWlVTTnBxdXVNb0NndDVHSmYtZXMzTDdHU3hreTZrRkgydEpwcE9Jc3JwTXEtVWc1VWRwTmFWSVVERV9Rd3dwX1JRcHpoUkdWMl9JSw?oc=5",
+   "time": "2026-10-11T21:48:59+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Kompas.id",
+   "title": "Singaporeans Hope Haze Will Be Under Control Soon",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkRrNUtyQklGaVpqcEgyWDlNclJNc0NuV2djb3g3V3hiaEZOME0zbkNXTU5oZWQ4b193TUVXOV9nWmVsRUM3dHliMkN2bWRwQk1qS09XOTVfdmxiRnY1VDZSSzh3c0Y4Y2FJRl9ITGJnVFdnYUtUcTR1WTUtR2VqRmt4Vnk5LXFsWHQyQ04yeXZjLVp2a2I2QTktaVU5TE5qeC1z?oc=5",
+   "time": "2026-10-11T21:41:34+08:00",
+   "summary": ""
   },
   {
    "source": "巴士的報",
@@ -475,13 +509,6 @@
    "title": "Haze update Oct 11: Singapore GP night race to take place under unhealthy PSI forecast",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0ppc3JmMnh2bXd1aVVMWmdNMFc3VktEV0VaRFNkSFVUMDU0c2NEVDZkVUpRaEZ3S00wMVRjSS00X19pd0VpTzNOUkRqQWdha3d0MG9JM1BpcTY3NGJ2Qk5nZ0RSVGlkMzZ1MGRMQ2ViZVhlNFRLTEEwQU56OWMyaVowZmFZalRmOVRZaUJrSFpyTG1uR0FSdGxuaUt6UQ?oc=5",
    "time": "2026-10-11T19:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore readys haze mask vending machines for deployment if needed",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnpUZHF6VURaaXZxanQzM2xqMGQxSHpVbGltWnRHbVp3QW0zR21nY3dKbG1SMGRGdkpzS3pTeWVsd2ZvM3VmYkM5Mnl6bm9KSzBfQUUwZzlGenJDZ1JvUndIaG1zWlVTTnBxdXVNb0NndDVHSmYtZXMzTDdHU3hreTZrRkgydEpwcE9Jc3JwTXEtVWc1VWRwTmFWSVVERV9Rd3dwX1JRcHpoUkdWMl9JSw?oc=5",
-   "time": "2026-10-11T18:48:58+08:00",
    "summary": ""
   },
   {
@@ -538,13 +565,6 @@
    "title": "Air quality remains unhealthy across Singapore amid haze",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3M0RTJ2S2tVTXE0TmQ0TUJudjMxY09Pa3pFSHExbmVVbUR2cmgzdFc3OEFXWloxQ3cxSi1WNktaRGVUNnBrbTYyalFJaWRTVU45SHJNQkF3dHRpVGJKVlhrR1J5WWdsSWd6Q3V6T0p3RHB3czN2Yk9VeFZzX0NGZWdPb2dNTVIyMkswVGJR?oc=5",
    "time": "2026-10-11T17:16:47+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze: Schools in four districts in KL and Selangor closed tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0o5MXk0WGR4a3ZCNUpGLVVfUElRWk9zMmU1anhnZC00TmdSV3ZTMEhmOXNLM0JpcHZ6QkZvM2J6QVBJZ3Bwbkh3bTNhQ2NXb1FnSGNDcnlueElwM3R4a2wxSnJDWHM3Q1RUYlNZTXgyUnByY3FvMmNWOWRKaXVzR1dsTE41R0U2SW44QTJtTUNWVmhfV1Iyd1FqY0doMGFEMHVxTzU2cHBUazZkNGUzOGZhVjJjZw?oc=5",
-   "time": "2026-10-11T17:08:00+08:00",
    "summary": ""
   }
  ]

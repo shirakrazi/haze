@@ -24,4 +24,4 @@ Your address will be `https://YOUR-USERNAME.github.io/haze/`. The username is th
 
 - **Pin an article:** edit `pinned.json` on GitHub (pencil icon) and add the source, title, url and summary. Leave `time` empty.
 - **Change the page:** replace `index.html` with a new version.
-- **Regional map:** the Malaysia, Indonesia and hotspot points are a fixed snapshot from 9 October 2026. Only the Singapore readings and the news update on their own.
+- **Regional map:** the update script also writes `regional.json` every hour: Malaysia API readings (Department of Environment), Indonesia ISPU readings (Ministry of Environment) and NASA FIRMS fire detections counted by province using `provinces.json` (outlines from geoBoundaries, CC BY 4.0). An hourly record is kept under `history/`. If those feeds fail, the page falls back to a built-in snapshot from 9 October 2026.
