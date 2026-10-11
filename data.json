@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-11T23:00:00+08:00",
+ "updated": "2026-10-12T00:00:00+08:00",
  "psi": {
-  "west": 152,
-  "east": 136,
+  "west": 151,
+  "east": 137,
   "central": 146,
-  "south": 115,
-  "north": 108
+  "south": 116,
+  "north": 107
  },
  "pm25": {
-  "west": 74,
-  "east": 85,
-  "central": 78,
-  "south": 55,
+  "west": 87,
+  "east": 101,
+  "central": 74,
+  "south": 65,
   "north": 57
  },
  "hist": [
@@ -464,9 +464,19 @@
     "south": 115,
     "north": 108
    }
+  },
+  {
+   "t": "2026-10-12T00:00:00+08:00",
+   "psi": {
+    "west": 151,
+    "east": 137,
+    "central": 146,
+    "south": 116,
+    "north": 107
+   }
   }
  ],
- "newsUpdated": "2026-10-11T23:01:24+08:00",
+ "newsUpdated": "2026-10-12T00:08:03+08:00",
  "news": [
   {
    "source": "CNA",
@@ -477,10 +487,17 @@
    "pinned": true
   },
   {
+   "source": "Human Resources Online",
+   "title": "DOSH urges employers in Malaysia to control workers' exposure to haze",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2I1c05qbURCZC1vMkFyUDdwNHZ5Q2Q3cnl2TnFKc05NZVpDbEF0ZWpnd1FOdUJjMWZLR3NNaDNhVHdlbS02Yy1LZnIyRjBVd1lwSTdOb0FQX2lOWjRZX2xlY0VBSWZyQ2loRzQ2VVRHT3BSYWhoVVFZWHJZTWJ1bUI4b0VMV3pVbFRZa25EMHp6QTQxdHdCQjk5czlQczBSMmY2cllpcXY?oc=5",
+   "time": "2026-10-11T23:22:46+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Singapore readys haze mask vending machines for deployment if needed",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnpUZHF6VURaaXZxanQzM2xqMGQxSHpVbGltWnRHbVp3QW0zR21nY3dKbG1SMGRGdkpzS3pTeWVsd2ZvM3VmYkM5Mnl6bm9KSzBfQUUwZzlGenJDZ1JvUndIaG1zWlVTTnBxdXVNb0NndDVHSmYtZXMzTDdHU3hreTZrRkgydEpwcE9Jc3JwTXEtVWc1VWRwTmFWSVVERV9Rd3dwX1JRcHpoUkdWMl9JSw?oc=5",
-   "time": "2026-10-11T21:48:59+08:00",
+   "time": "2026-10-11T23:18:59+08:00",
    "summary": ""
   },
   {
@@ -558,13 +575,6 @@
    "title": "'Maybe they don't need our help': Malaysia awaits Indonesia on haze aid",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc3ZaSVF0eG0wM2Itbzg3Nk5ZUUZmazluc29wSzBSMC1ZbkZ0QU5vcWFvMm5zb1hRbXQtbnF5cHc4aUtJcU16Ri1rbVpPVG84eDBsNkhGNmZiVkpWQTJleVFBSDJOaTk5OEE5OGt6SjVaSjNiaTdka2YwdFFiZURjS0gzRnJCMS0wcDJ5YzBDY1pxOHVzbHVqZmZLVGdaN05mRkpFbnZKRmpPUlgxN08tMGJ3Z0pLQQ?oc=5",
    "time": "2026-10-11T17:31:31+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Air quality remains unhealthy across Singapore amid haze",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3M0RTJ2S2tVTXE0TmQ0TUJudjMxY09Pa3pFSHExbmVVbUR2cmgzdFc3OEFXWloxQ3cxSi1WNktaRGVUNnBrbTYyalFJaWRTVU45SHJNQkF3dHRpVGJKVlhrR1J5WWdsSWd6Q3V6T0p3RHB3czN2Yk9VeFZzX0NGZWdPb2dNTVIyMkswVGJR?oc=5",
-   "time": "2026-10-11T17:16:47+08:00",
    "summary": ""
   }
  ]
