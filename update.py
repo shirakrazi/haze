@@ -377,6 +377,7 @@ def refresh_regional(now, sg_psi):
     except (FileNotFoundError, ValueError):
         reg = {}
     before = json.dumps(reg, sort_keys=True)
+    reg = {k: v for k, v in reg.items() if k in ("my", "myUpdated", "id", "idUpdated", "fires", "firesUpdated", "updated")}
     stamp = iso_utc(now)
     for key, label, fn, ok in (
         ("my", "Malaysia APIMS", fetch_malaysia, lambda r: len(r) >= 10),
