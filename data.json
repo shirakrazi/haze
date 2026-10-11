@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-12T06:00:00+08:00",
+ "updated": "2026-10-12T07:00:00+08:00",
  "psi": {
   "west": 147,
-  "east": 137,
-  "central": 148,
+  "east": 135,
+  "central": 147,
   "south": 118,
   "north": 105
  },
  "pm25": {
-  "west": 94,
-  "east": 75,
+  "west": 105,
+  "east": 67,
   "central": 84,
-  "south": 77,
-  "north": 57
+  "south": 55,
+  "north": 55
  },
  "hist": [
-  {
-   "t": "2026-10-09T12:00:00+08:00",
-   "psi": {
-    "west": 170,
-    "east": 155,
-    "central": 181,
-    "south": 160,
-    "north": 123
-   }
-  },
   {
    "t": "2026-10-09T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 118,
     "north": 105
    }
+  },
+  {
+   "t": "2026-10-12T07:00:00+08:00",
+   "psi": {
+    "west": 147,
+    "east": 135,
+    "central": 147,
+    "south": 118,
+    "north": 105
+   }
   }
  ],
- "newsUpdated": "2026-10-12T06:08:22+08:00",
+ "newsUpdated": "2026-10-12T07:51:39+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Air quality in Singapore still unhealthy as haze persists",
+   "url": "https://www.straitstimes.com/singapore/air-quality-in-singapore-still-unhealthy-as-haze-persists",
+   "time": "2026-10-12T06:15:34+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -580,7 +587,7 @@
    "source": "Malay Mail",
    "title": "Haze: Air quality in Kuching, Miri improves to moderate levels, says DOE",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTy1LOEdsOGRSVjA5UG51RC1NVENndXJiWFBYbzFXSkVjTGFnSEZfeUZad2ZjNTBhT01LTHBIRE5rdlRXTmthNlVMRFJlZVV0YW1qQk1BbWZpX0pYUkFjSk43Vlh1bVdtNm9DSEw0Wmk3OHlZRGlsdzBXMVZDTjE2d3VoZEJpb2NONXJqY3g4Mi1MTnM1SkRXdWFUWUREVWRwa2RxcDg3QlpnRWVZZmJKRkMzaXVQclBrUm40OUg2a3hBbmU2emfSAcsBQVVfeXFMTWNHb0lfOUNneEpOR3lsWGhuaVVrOU9saFlfNTcxRWpTSldpTUhXR3NNUkkxb3EyMEFMbW4ta202TG1uQUx2VmZTUjM0YVFaQV9Kc3RObEpwY2dPUm1sYkxycDViMW02SjI3eVlJSDVHbC1JMEFyRlRIWlBtWDVjaWNsMHBzQ0IxM28xUUJLQTFZSURxa0g4cDVVelpReC1kNEVYUGtLdjFoRHR6UE5DRDl1OUxqVm82ZVVHX2dSV0pEZVFnUC1nUzhpR2s?oc=5",
-   "time": "2026-10-11T18:39:31+08:00",
+   "time": "2026-10-11T18:40:35+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Singapore F1 Race Draws Near-Record Turnout Despite Choking Haze",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUpPRDNtQXZSR3Y5NGtkQTgtUVhWQVllUlhUZGZtSXY4TG5DblJJeFdoUWlmZURJX1MyajR0dWprX3NUMWxjNGtEcURqZzlDT1R0U29VWkJtTDdPeUVqeDd2SjUtMXhCeG5pY05wd2pKdWxBRUduUnRYVWVfcjUteklfc04xMnlIQ1NPc3RMVG1UX0RzYlBqWTJFLWQ1SEtRVF94S2ZfaTd0V0c1RjJqM084dmFOUQ?oc=5",
    "time": "2026-10-11T18:28:12+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Business and Human Rights Centre",
-   "title": "Malaysia: Govt. urged to introduce transboundary haze law to address public health crisis",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPblh3VEl2djlrWlBVT2N5ZExrU0dYR0x0QnJXUlB3T093SU9ndEUtZUF1bG9PZENNVDN0YTZyaHFFaU9tV1ZiSnZqbkEydGx3bW9iaU00YWU4YS1HV1ZfeUdnMFpXVWx6MXFSVzVHajE4R0RObnpsMG9zQXpTcTFPTW1JMDlwYkM3TmptaEh0bWtya2ZSOVl0eF9Xci1kRlVpd0dQbUQtWmJkSnhDUkk1Yzl0dm95QUhRdnZZcF9PeVFSTUJBMGE5VUc4bE9DOE0zRDBMT1pIRQ?oc=5",
-   "time": "2026-10-11T17:53:38+08:00",
    "summary": ""
   }
  ]
