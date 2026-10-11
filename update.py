@@ -37,7 +37,7 @@ FIRMS_24H = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/noaa-20-viirs
 FIRMS_7D = "https://firms.modaps.eosdis.nasa.gov/data/active_fire/noaa-20-viirs-c2/csv/J1_VIIRS_C2_SouthEast_Asia_7d.csv"
 BBOX = (93.0, -9.5, 121.0, 9.0)  # lon0, lat0, lon1, lat1: the area the map shows
 ID_TZ = {"WIB": 7, "WITA": 8, "WIT": 9}
-ID_PARAMS = [("a_pm25", "PM2.5"), ("a_pm10", "PM10"), ("a_so2", "SO2"), ("a_co", "CO"), ("a_o3", "O3"), ("a_no2", "NO2"), ("a_hc", "HC")]
+ID_PARAMS = [("a_pm25", "PM2.5"), ("a_pm10", "PM10")]
 MAX_STATION_AGE_H = 12
 
 # News: direct outlet feeds first, then a Google News search that covers other outlets.
@@ -60,6 +60,18 @@ def get(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
     with urllib.request.urlopen(req, timeout=25) as r:
         return r.read()
+
+
+def get2(url, timeout=40):
+    """Like get, with a longer wait and one retry, for the slower regional sources."""
+    for attempt in (1, 2):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read()
+        except Exception:
+            if attempt == 2:
+                raise
 
 
 def find(obj, key):
@@ -206,13 +218,8 @@ def iso_utc(dt):
     return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
 
 
-DEBUG = {}
-
-
 def fetch_malaysia(now):
-    raw = get(APIMS_URL)
-    feats = json.loads(raw).get("features") or []
-    DEBUG["my"] = {"bytes": len(raw), "feats": len(feats), "f": feats[:3], "now": str(now)}
+    feats = json.loads(get2(APIMS_URL)).get("features") or []
     rows = []
     for f in feats:
         a = f.get("attributes") or {}
@@ -232,13 +239,13 @@ def fetch_malaysia(now):
         sid = str(a.get("STATION_ID") or "").strip()
         if not sid:
             continue
-        out[sid] = {"id": sid, "n": tidy(a.get("STATION_LOCATION")), "s": tidy(a.get("STATE_NAME")),
+        out[sid] = {"id": sid, "n": tidy(str(a.get("STATION_LOCATION") or "").split(",")[0]), "s": tidy(a.get("STATE_NAME")),
                     "lon": round(lon, 3), "lat": round(lat, 3), "v": v, "t": iso_utc(dt)}
     return sorted(out.values(), key=lambda r: r["id"])
 
 
 def fetch_indonesia(now):
-    payload = json.loads(get(ISPU_URL))
+    payload = json.loads(get2(ISPU_URL))
     rows = payload.get("rows") if isinstance(payload, dict) else payload
     out = {}
     for r in rows or []:
@@ -247,11 +254,14 @@ def fetch_indonesia(now):
         lon, lat = num(r.get("lon")), num(r.get("lat"))
         if not in_bbox(lon, lat):
             continue
+        # Haze is a particle problem, so the reading shown is the PM2.5 index (PM10 where a station
+        # has no PM2.5). The feed's gas indices, carbon monoxide above all, are erratic and are left out.
         best, param = None, ""
         for key, label in ID_PARAMS:
             x = num(r.get(key))
-            if x is not None and 0 <= x <= 5000 and (best is None or x > best):
+            if x is not None and 0 < x <= 5000:
                 best, param = x, label
+                break
         if best is None:
             continue
         try:
@@ -265,8 +275,7 @@ def fetch_indonesia(now):
         if not sid:
             continue
         row = {"id": sid, "n": tidy(r.get("nama")), "k": tidy(r.get("kota")), "s": tidy(r.get("provinsi")),
-               "lon": round(lon, 3), "lat": round(lat, 3), "v": int(round(best)), "p": param, "t": iso_utc(dt),
-               "dbg": {k: r.get(k) for k in list(r) if k[:2] in ("a_", "c_") or k == "param"}}
+               "lon": round(lon, 3), "lat": round(lat, 3), "v": int(round(best)), "p": param, "t": iso_utc(dt)}
         if sid not in out or row["t"] > out[sid]["t"]:
             out[sid] = row
     return sorted(out.values(), key=lambda r: r["id"])
@@ -303,7 +312,7 @@ def province_of(lon, lat, provs):
 
 def firms_points(url):
     """Detections inside the map area, low-confidence ones dropped. Yields (lon, lat, utc datetime)."""
-    text = get(url).decode("utf-8", "replace")
+    text = get2(url, 90).decode("utf-8", "replace")
     for row in csv.DictReader(io.StringIO(text)):
         lon, lat = num(row.get("longitude")), num(row.get("latitude"))
         if not in_bbox(lon, lat) or str(row.get("confidence", "")).strip().lower() in ("l", "low"):
@@ -384,12 +393,10 @@ def refresh_regional(now, sg_psi):
                 log(f"{label}: result too small, kept previous values")
         except Exception as e:
             log(f"{label} failed: {e}")
-            reg.setdefault("errors", {})[key] = repr(e)[:300]
     if json.dumps(reg, sort_keys=True) == before:
         log("regional: no change")
         return
     reg["updated"] = stamp
-    reg["debug"] = DEBUG
     write_json(REGIONAL, reg)
     log(f"wrote {REGIONAL}")
 
