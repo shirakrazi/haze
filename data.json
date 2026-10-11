@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-11T15:00:00+08:00",
+ "updated": "2026-10-11T16:00:00+08:00",
  "psi": {
-  "west": 153,
-  "east": 134,
-  "central": 148,
+  "west": 154,
+  "east": 133,
+  "central": 147,
   "south": 114,
-  "north": 114
+  "north": 113
  },
  "pm25": {
-  "west": 134,
-  "east": 92,
-  "central": 128,
-  "south": 93,
-  "north": 67
+  "west": 137,
+  "east": 88,
+  "central": 116,
+  "south": 90,
+  "north": 65
  },
  "hist": [
   {
@@ -404,9 +404,19 @@
     "south": 114,
     "north": 114
    }
+  },
+  {
+   "t": "2026-10-11T16:00:00+08:00",
+   "psi": {
+    "west": 154,
+    "east": 133,
+    "central": 147,
+    "south": 114,
+    "north": 113
+   }
   }
  ],
- "newsUpdated": "2026-10-11T15:08:14+08:00",
+ "newsUpdated": "2026-10-11T16:07:47+08:00",
  "news": [
   {
    "source": "CNA",
@@ -417,10 +427,45 @@
    "pinned": true
   },
   {
+   "source": "CNA",
+   "title": "Singapore readys haze mask vending machines for deployment if needed",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnpUZHF6VURaaXZxanQzM2xqMGQxSHpVbGltWnRHbVp3QW0zR21nY3dKbG1SMGRGdkpzS3pTeWVsd2ZvM3VmYkM5Mnl6bm9KSzBfQUUwZzlGenJDZ1JvUndIaG1zWlVTTnBxdXVNb0NndDVHSmYtZXMzTDdHU3hreTZrRkgydEpwcE9Jc3JwTXEtVWc1VWRwTmFWSVVERV9Rd3dwX1JRcHpoUkdWMl9JSw?oc=5",
+   "time": "2026-10-11T15:48:58+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore to roll out haze subsidies at GP clinics, polyclinics from Oct 12",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGlxMXpybFBoWFRIcE5tTlBoUE03TklIOF9wRTJKczRYd0NWMkw0WDVSblV2S0o4M1EyZmtuQ3hpSXYwYzZCTnk5MGw4TVppUld4QnpyTC1RV2l0aEZMNjQ4ODNqaVBaVGIxQlJPR1lUR3YzbFg2SFZENkpSMEkwTXc0T2NuQmFYRGx1ZTVzRW5Ed3NJcDI4aWdCUkw?oc=5",
+   "time": "2026-10-11T15:34:20+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Malaysia, Indonesia in high-level contact over haze as Jakarta deploys 60,000 to fight fires, says Indonesian minister",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNnA2cENmdTRQcW5fV1dPQTZia0VwWnZVZFViMkc4clYwR0w2a0E5RXY3cEN3S2lMRGVZY3didTlQSkJjeVRncnpSNE1IQUdTekFDZVhVZm1ldmloNzRBY2xmUFMzUl9JYkZnVFRXaVFMbVFnQnozaDh2SkpVUmxLZndOdkpUUDBpZTkzTmpCNi16YWRUVkhRd016Z2lqRnRpWlpMNjF6UE9TdjZqUXVHaUZaNXZlMENzdzRRT296VDdaWkZuY0JkQ3lpR2FvTWdhdldBX3IxLTFCVllyYmsyU0FJLXh1SVhBaTV2RzkwN1Z2SC0wZVZRZE5MLU5XTTNPa3dV0gGIAkFVX3lxTFBRWDNwRW55VEl2NkdacHlkUUV5MG1tSDNWSEYydE95ZUpBcWdWV3RFREpvQk1uandjd3BJdVRvbWZES1FZUnhvcU5idWw2Z0tvdEFZSFdHaTZXR3RDVm1wakwyai1vZjNTUzZqYThXVWlaaE9Eei10OHVSOC1hTzkwdkE2ZnRrV2FHNDZHV3VQYjhHZjBpOXBWUGgxNENSdEtacDN3RE56X0RzQVNIUmw4ZzFwVTA4WnVvQ05fVl9lQ2R2a1M2N2hHM2FidGlzeG5HMXctYmNnbnE1TktHeW8yS2ZmNGhkQi05VTVkSnVxcUw4UUYwQlpDTFFiRGQxMF9PWllhTUxEaw?oc=5",
+   "time": "2026-10-11T15:34:12+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "Firefly Cancels All Scheduled Flights From Subang To Singapore Due To Haze",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN0dkcmJsMnRES2tfekZxN0FQb3ZBbWRCRUdIWFYwWktQQVZ1Y2p4UUdfcXRRcjRzQU1Rd0NiVUFIZWl0UW9sSG4yMnNDZE5haTBLeFlYRTNwSGZrYmVoN0lBQlQ0Qng0U1FRRnB1QnhDNGgzMU9YNHdvc3BPVmRiNkFLd3hwT1RKNGdyLUpaVW9hQWVPa2dMV1hZVC1uaTFMTzQzWmQzX1pBSUF5bXpTbGlSbWMwdGJkLTkw?oc=5",
+   "time": "2026-10-11T14:50:58+08:00",
+   "summary": ""
+  },
+  {
    "source": "Malay Mail",
    "title": "Singapore activates healthcare support measures as haze worsens",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUc2VGZwRXlwUkRTalozdDBSSm91OWNqU2EtMDBsSDkxTkNiWnBhZmh6Q2Nidll6eXRTaUY3T2s0RnE4N2N6S3c4dmFFWEVrdHNOUmQ3eWkwSkFUZEdCTmFoWDFKTnVUbFVFclhkTHF5cjY3VllLNldsSDZDb1pZTWs2NDRLUWN1SkVLZ0JPQmFMWHJld0dXV1BDcGVneXdkdm1ybnlZZHNMNHV1SEV0SXJzOHhNcF9oRGQ2VVRUNNIBxAFBVV95cUxQamExLTAtVU1IdEd2LXJ0aVZnaUQwT3VUVkJjdVRNcTFJRXRBeUR3R1BnOF9McTVROFkySWRlMEE5NVhjUFhoRDhqOUFYNFpCOC1KV01adWViTHFnQl9YcmM0WTNSYXdoRFVrZXlmMW5qMkNTd201QWZCSE9KclM1ci1sMWY3ZTB0akd5bmZPMkttYl8xeWpIQ0wxTVdLYVN2NUk1RlZmd2MtU3l0WGNjWE8tTWIxSDVfcXh2ekdPMHVNQnVu?oc=5",
    "time": "2026-10-11T14:48:42+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Singapore activates haze medical air schemes",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0RHbTNlRmt1YmxhbXgyd0l4Tl91Zm1yT0lPckFSTzZ5ZlpmNXIxNkpsaXV4QXR1MzM5bG92clBVUm1GaGRyaXVLTjA1MWlaemNGcVVFOHhBTC13b3BBbU96SG13OGlVdVVzQ0FMUnFzZEF5amREcVpHQWVzaHFJd2dHZno4NlFEUnB3SUxRRkJvUlBKemZvLVVMSjFQd1d6ZmfSAaIBQVVfeXFMTk9ER20zZUZrdWJsYW14MndJeE5fdWZtck9JT3JBUk82eWZaZjVyMTZKbGl1eEF0dTMzOWxvdnJQVVJtRmhkcml1S04wNTFpWnpjRnFVRTh4QUwtd29wQW1PekhtdzhpVXVVc0NBTFJxc2RBeWpkRHFaR0Flc2hxSXdnR2Z6ODZRRFJwd0lMUUZCb1JQSnpmby1VTEoxUHdXemZn?oc=5",
+   "time": "2026-10-11T14:38:55+08:00",
    "summary": ""
   },
   {
@@ -452,6 +497,13 @@
    "summary": ""
   },
   {
+   "source": "The Star",
+   "title": "Southeast Asians should not have to live with recurring haze, says G25",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkRiQjJGSTh2OTZtc21BTW5DYUw1NzdLTnZ6NTBQOW1TQVZUSGtNNlBFd0h3X2RxSWhSV3hzeEFkWmNtOWNtNXFwLVM3ejkzNUVqa1JEZk1KNm9HV01tclFxS3VTanR2Vjl4ODJqQmhwRDBZTXo0eExOUHRIVVJBNzJzQ016aHNmc3JkSE92dXZzTVN4eERNQ1BmVi12ZFkzbXlqelFCM3NvQ25Oc2VoNFlpQnhtYWdpbkkw?oc=5",
+   "time": "2026-10-11T12:42:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "Malaysian low-cost carrier Firefly cancels all flights between Seletar and Subang airports amid haze",
    "url": "https://www.straitstimes.com/singapore/firefly-cancels-all-flights-between-seletar-and-subang-aiports-amid-haze",
@@ -463,48 +515,6 @@
    "title": "Firefly cancels all flights between Seletar and Subang airports amid haze",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMll1N0E3ZzJ2aXEwVUJ2ckxaV2ZxcTdtQzJOU3Q0ejg2OEdnd3F3ZlJiMzRtUEFjdk1yd0lDYWx6alJ1bkxEQTl6ZXFseWY3NWgtWW5tTkxYQWNVTnpOLWdSWEFoaTZzRWx0ekN6a1FJaTNIOWhKYWU5LWxIQ1pTb2JocXhJZExaTzBuZmFaTlhDRVpFQkVvSlN6Rl9CRWFhdDdOTHp0WFZFaDdaWTl0cQ?oc=5",
    "time": "2026-10-11T12:21:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Firefly cancels all flights between Seletar and Subang aiports amid haze",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR2tBdUlYX25CLVBLa0xVMllNYS1ZMllrZ3owOW5oelJ6ekdzVTRjS29pMWRyNUJOdHoxU0ZqdVNNQlkyMDJ1eEdqVy1EckRWV3hyWmpGenpKaFBUckQyTThpRHZFMU9jZHhjNktJdVhFY0RmUW9sQlY2QTZQZVBIUmVjWFFDN2RzN2wzSVJlUVl4NG00U093NE9XRDdiOTlpYXRDVDdpdjVMWlc1UHA3em1aMGFFTGNKcHBCaU1xZw?oc=5",
-   "time": "2026-10-11T12:21:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Animation shows air quality across Southeast Asia amid haze caused by Indonesia fires",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUw4czQ3em4wN0x0NmFLSUliQ09NdllMWjVFVkRCSWg1QmVKRkhDQThVb0plUXVpd0pfMnlQTmlfeEdfUFZnWm1LcUthcGFRa0JHbVhaSnVMeW5FSnRER0VpeE13M2VncFNwU1VPaVpqWGlhZ1BpelB1Q0RXNkxzT0NhNU1CMHdROTNsakZCNGo5WWEwRVNadVBia1NjQXpKczRyZDF6QS04X2pCV1QzQTF5aG1Bbzk2eG9XOS02b3g1LWd2ODhpeg?oc=5",
-   "time": "2026-10-11T12:18:28+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "24-hour N95 haze mask vending machines to be rolled out for eligible S'poreans if PSI reading crosses 200",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92OE9FSThmMVdNdFR6R0JnY0kzcVpwYzdiRzVTbkZ0dDVkY3lRaXNGUWJ3X3lVdGR5dDJJSGtyYnFwaHBlM2h2NUc5OFcyMFJkQnhuV2NpeVpXZF9TWHo1czdwcGh1SFJNT2pGR2NjXzVsRUVaN2xSeA?oc=5",
-   "time": "2026-10-11T12:17:14+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Vibes",
-   "title": "Indonesia deploys 60,000 personnel to contain fires as haze threatens Malaysia",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa2tWNUZpVnY2Wm0tZDlYcTRJeGNfMWlOS2xhSEJpWHlDSGlobjZCYmlSbWc0enh6M096d3ctdnhfNkw2TnlteEdZMzBDZ0tYZ3JVU2tha2FyV1ExdE9vSlJDOGpncnFfU29EYlozTXllbFZPMVEwRDJQanhBMFBET3ZuWUZkR0FKanFUaWNqTVdQS21GZUE2TFY1TG5BTnYzbEZOMjZnLWpoVmVVMVFmOURUdVZyX3dLYWhkQVNYcVc?oc=5",
-   "time": "2026-10-11T12:03:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AzerNews",
-   "title": "Singapore tops global air pollution rankings as Indonesian wildfires spread toxic haze",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56Z2dvNEF3ck4yN2VKaHhrNnZhMlNMSEVDcVVOV1FQeXl1NGR4ZGYtZklHVGFHVTBRdEFtTUJleFlCV3hRWTE1VHZ0X2V6c1FHM19iMw?oc=5",
-   "time": "2026-10-11T12:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "Haze in Malaysia: 15 areas record unhealthy air quality, Pasir Gudang records highest API reading at 180",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNclNSOHByZzEzNm5mZU84ck1NdlEwRnFYaklhRXNXb0lGTUUyRVFuaDBCZ0N2NDMzOFZycFZsWHJJWk43Y0U5Z200R3RNZVlSU25nZUlPbHBwdXhPblR2LVlvRTdtRml1RWhCVmpNWEFoZ01NZ1V0bXE3SkstMjI3T3ZjRk5HOU4wMkdWLUFlRlFpNXQ2TW94S3lqX05qWWEtWDAzTV9USmpnZVZGRmxlbDRqdkRvQ1F1?oc=5",
-   "time": "2026-10-11T11:52:51+08:00",
    "summary": ""
   }
  ]
