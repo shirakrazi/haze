@@ -206,8 +206,13 @@ def iso_utc(dt):
     return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
 
 
+DEBUG = {}
+
+
 def fetch_malaysia(now):
-    feats = json.loads(get(APIMS_URL)).get("features") or []
+    raw = get(APIMS_URL)
+    feats = json.loads(raw).get("features") or []
+    DEBUG["my"] = {"bytes": len(raw), "feats": len(feats), "head": raw[:600].decode("utf-8", "replace"), "now": str(now)}
     rows = []
     for f in feats:
         a = f.get("attributes") or {}
@@ -260,7 +265,8 @@ def fetch_indonesia(now):
         if not sid:
             continue
         row = {"id": sid, "n": tidy(r.get("nama")), "k": tidy(r.get("kota")), "s": tidy(r.get("provinsi")),
-               "lon": round(lon, 3), "lat": round(lat, 3), "v": int(round(best)), "p": param, "t": iso_utc(dt)}
+               "lon": round(lon, 3), "lat": round(lat, 3), "v": int(round(best)), "p": param, "t": iso_utc(dt),
+               "dbg": {k: r.get(k) for k in list(r) if k[:2] in ("a_", "c_") or k == "param"}}
         if sid not in out or row["t"] > out[sid]["t"]:
             out[sid] = row
     return sorted(out.values(), key=lambda r: r["id"])
@@ -378,10 +384,12 @@ def refresh_regional(now, sg_psi):
                 log(f"{label}: result too small, kept previous values")
         except Exception as e:
             log(f"{label} failed: {e}")
+            reg.setdefault("errors", {})[key] = repr(e)[:300]
     if json.dumps(reg, sort_keys=True) == before:
         log("regional: no change")
         return
     reg["updated"] = stamp
+    reg["debug"] = DEBUG
     write_json(REGIONAL, reg)
     log(f"wrote {REGIONAL}")
 

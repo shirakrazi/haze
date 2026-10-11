@@ -26,7 +26,7 @@ jobs:
         run: python update.py
       - name: Save changes
         run: |
-          git add -A data.json regional.json history
+          git add -A
           if git diff --cached --quiet; then
             echo "No change."
             exit 0
