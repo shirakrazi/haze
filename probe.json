@@ -1,0 +1,137 @@
+{
+ "apims": {
+  "ok": true,
+  "status": 200,
+  "bytes": 17665,
+  "head": "{\"displayFieldName\":\"STATE_NAME\",\"fieldAliases\":{\"STATION_ID\":\"STATION_ID\",\"STATION_LOCATION\":\"STATION_LOCATION\",\"STATE_NAME\":\"STATE_NAME\",\"API\":\"API\",\"CLASS\":\"CLASS\",\"DATETIME\":\"DATETIME\",\"LONGITUDE\":\"LONGITUDE\",\"LATITUDE\":\"LATITUDE\",\"PARAM_SELECTED\":\"PARAM_SELECTED\",\"PM25_CONC\":\"PM25_CONC\"},\"fields\":[{\"name\":\"STATION_ID\",\"type\":\"esriFieldTypeString\",\"alias\":\"STATION_ID\",\"length\":20},{\"name\":\"STATION_LOCATION\",\"type\":\"esriFieldTypeString\",\"alias\":\"STATION_LOCATION\",\"length\":60},{\"name\":\"STATE_NAME\",\"type\":\"esriFieldTypeString\",\"alias\":\"STATE_NAME\",\"length\":100},{\"name\":\"API\",\"type\":\"esriFieldTypeDouble\",\"alias\":\"API\"},{\"name\":\"CLASS\",\"type\":\"esriFieldTypeString\",\"alias\":\"CLASS\",\"length\":50}",
+  "secs": 1.2,
+  "n": 68,
+  "sample": [
+   {
+    "STATION_ID": "CA01R",
+    "STATION_LOCATION": "Kangar, PERLIS",
+    "STATE_NAME": "Perlis",
+    "API": 47.0,
+    "CLASS": "Good",
+    "DATETIME": 1791756000000,
+    "LONGITUDE": 100.210937,
+    "LATITUDE": 6.429928,
+    "PARAM_SELECTED": "PM2.5",
+    "PM25_CONC": 14.192
+   },
+   {
+    "STATION_ID": "CA02K",
+    "STATION_LOCATION": "Langkawi, KEDAH",
+    "STATE_NAME": "Kedah",
+    "API": 31.0,
+    "CLASS": "Good",
+    "DATETIME": 1791756000000,
+    "LONGITUDE": 99.858461,
+    "LATITUDE": 6.331608,
+    "PARAM_SELECTED": "PM2.5",
+    "PM25_CONC": 6.63
+   },
+   {
+    "STATION_ID": "CA03K",
+    "STATION_LOCATION": "Alor Setar, KEDAH",
+    "STATE_NAME": "Kedah",
+    "API": 57.0,
+    "CLASS": "Moderate",
+    "DATETIME": 1791756000000,
+    "LONGITUDE": 100.346857,
+    "LATITUDE": 6.13713,
+    "PARAM_SELECTED": "PM2.5",
+    "PM25_CONC": 31.752
+   }
+  ],
+  "exceeded": null
+ },
+ "openmeteo_aq": {
+  "ok": true,
+  "status": 200,
+  "bytes": 1186,
+  "head": "[{\"latitude\":-2.199997,\"longitude\":113.899994,\"generationtime_ms\":0.4916191101074219,\"utc_offset_seconds\":28800,\"timezone\":\"Asia/Singapore\",\"timezone_abbreviation\":\"GMT+8\",\"elevation\":15.0,\"current_units\":{\"time\":\"iso8601\",\"interval\":\"seconds\",\"pm2_5\":\"μg/m³\",\"pm10\":\"μg/m³\",\"us_aqi\":\"USAQI\"},\"current\":{\"time\":\"2026-10-11T22:00\",\"interval\":3600,\"pm2_5\":465.7,\"pm10\":468.5,\"us_aqi\":588}},{\"latitude\":-3.0,\"longitude\":104.80002,\"generationtime_ms\":0.32806396484375,\"utc_offset_seconds\":28800,\"timezone\":\"Asia/Singapore\",\"timezone_abbreviation\":\"GMT+8\",\"elevation\":7.0,\"location_id\":1,\"current_units\":{\"time\":\"iso8601\",\"interval\":\"seconds\",\"pm2_5\":\"μg/m³\",\"pm10\":\"μg/m³\",\"us_aqi\":\"USAQI\"},\"current\":{\"t",
+  "secs": 0.6
+ },
+ "openmeteo_wind": {
+  "ok": true,
+  "status": 200,
+  "bytes": 808,
+  "head": "[{\"latitude\":1.3708259,\"longitude\":103.80237,\"generationtime_ms\":0.025987625122070312,\"utc_offset_seconds\":28800,\"timezone\":\"Asia/Singapore\",\"timezone_abbreviation\":\"GMT+8\",\"elevation\":39.0,\"current_units\":{\"time\":\"iso8601\",\"interval\":\"seconds\",\"wind_speed_10m\":\"km/h\",\"wind_direction_10m\":\"°\"},\"current\":{\"time\":\"2026-10-11T22:45\",\"interval\":900,\"wind_speed_10m\":3.1,\"wind_direction_10m\":336}},{\"latitude\":-3.479789,\"longitude\":105.30364,\"generationtime_ms\":0.024437904357910156,\"utc_offset_seconds\":28800,\"timezone\":\"Asia/Singapore\",\"timezone_abbreviation\":\"GMT+8\",\"elevation\":11.0,\"location_id\":1,\"current_units\":{\"time\":\"iso8601\",\"interval\":\"seconds\",\"wind_speed_10m\":\"km/h\",\"wind_direction_10m\":",
+  "secs": 0.6
+ },
+ "firms_n20_24h": {
+  "ok": true,
+  "status": 200,
+  "bytes": 1721134,
+  "head": "latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,confidence,version,bright_ti5,frp,daynight\n-4.29336,152.77635,367,0.73,0.76,2026-10-10,0230,N20,high,2.0NRT,290.05,20.08,D\n-4.29452,152.77545,367,0.73,0.76,2026-10-10,0230,N20,high,2.0NRT,290.5,19.67,D\n-3.37993,152.10721,326.37,0.79,0.78,2026-10-10,0230,N20,nominal,2.0NRT,290.15,5.69,D\n-2.05371,137.12561,367,0.46,0.39,2026-10-10,0412,N20,high,2.0NRT,294.42,14.97,D\n27.06499,120.23871,367,0.55,0.68,2026-10-10,0419,N20,high,2.0NRT,296.8,12.92,D\n-2.05752,137.10089,355.81,0.46,0.39,2026-10-10,0412,N20,low,2.0NRT,294.32,4.37,D\n26.90877,119.16224,326.8,0.64,0.72,2026-10-10,0419,N20,nominal,2.0NRT,290.64,7.34,D\n29.37147,118.10945,3",
+  "secs": 1.0,
+  "rows": 20621,
+  "dates": [
+   "2026-10-10",
+   "2026-10-11"
+  ],
+  "rows_in_map": 4280,
+  "tail": "27.97976,95.48476,331.9,0.57,0.52,2026-10-11,0724,N20,nominal,2.0NRT,298.1,3.94,D"
+ },
+ "firms_n20_7d": {
+  "ok": true,
+  "status": 200,
+  "bytes": 8783966,
+  "head": "latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,confidence,version,bright_ti5,frp,daynight\n-5.66526,149.58507,331.62,0.77,0.77,2026-10-04,0241,N20,nominal,2.0NRT,290.9,9.67,D\n-5.66614,149.57828,328.21,0.77,0.77,2026-10-04,0241,N20,nominal,2.0NRT,291.17,6.13,D\n-5.52945,150.46341,325.61,0.67,0.73,2026-10-04,0241,N20,nominal,2.0NRT,289.85,9.96,D\n-5.68015,149.60408,328.22,0.77,0.77,2026-10-04,0241,N20,nominal,2.0NRT,291.62,7.41,D\n-5.67402,149.59621,328.05,0.77,0.77,2026-10-04,0241,N20,nominal,2.0NRT,291.83,11.13,D\n-5.66173,149.58067,336.87,0.77,0.77,2026-10-04,0241,N20,nominal,2.0NRT,290.51,5.6,D\n-5.52727,150.45842,343.02,0.67,0.73,2026-10-04,0241,N20,nominal,2.0NRT,291.26,1",
+  "secs": 1.2,
+  "rows": 104976,
+  "dates": [
+   "2026-10-04",
+   "2026-10-05",
+   "2026-10-06",
+   "2026-10-07",
+   "2026-10-08",
+   "2026-10-09",
+   "2026-10-10",
+   "2026-10-11"
+  ],
+  "rows_in_map": 42519,
+  "tail": "27.97976,95.48476,331.9,0.57,0.52,2026-10-11,0724,N20,nominal,2.0NRT,298.1,3.94,D"
+ },
+ "firms_n21_24h": {
+  "ok": true,
+  "status": 200,
+  "bytes": 1888984,
+  "head": "latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,confidence,version,bright_ti5,frp,daynight\n-8.75324,146.76183,340.42,0.58,0.52,2026-10-10,0313,N21,nominal,2.0NRT,302.76,15.64,D\n-6.65688,146.43945,328.69,0.57,0.52,2026-10-10,0313,N21,nominal,2.0NRT,298.53,4.27,D\n-11.85944,142.5667,331.1,0.62,0.72,2026-10-10,0310,N21,nominal,2.0NRT,295.78,9.56,D\n-11.81971,142.62589,344.29,0.62,0.71,2026-10-10,0310,N21,nominal,2.0NRT,294.15,13.28,D\n-11.82342,142.5919,330.44,0.62,0.71,2026-10-10,0310,N21,nominal,2.0NRT,293.68,4.89,D\n-11.81624,142.59686,367,0.62,0.71,2026-10-10,0310,N21,high,2.0NRT,296.61,35.98,D\n-11.81686,142.59114,367,0.62,0.71,2026-10-10,0310,N21,high,2.0NRT,295.04,41.78,D",
+  "secs": 1.0,
+  "rows": 22635,
+  "dates": [
+   "2026-10-10",
+   "2026-10-11"
+  ],
+  "rows_in_map": 6843,
+  "tail": "14.82473,104.90808,332.29,0.41,0.37,2026-10-11,0625,N21,nominal,2.0NRT,291.97,5.33,D"
+ },
+ "ispu_menlhk": {
+  "ok": false,
+  "error": "URLError(gaierror(-2, 'Name or service not known'))",
+  "secs": 0.4
+ },
+ "ispu_kemenlh": {
+  "ok": true,
+  "status": 200,
+  "bytes": 134703,
+  "head": "{\"rows\":[{\"id_stasiun\":\"PALANGKARAYA\",\"waktu\":\"2026-10-11 21:00:00\",\"lat\":\"-2.2215399742126465\",\"lon\":\"113.86000061035156\",\"a_pm10\":\"1995.68\",\"a_pm25\":\"1493.66\",\"a_so2\":\"41.03\",\"a_co\":null,\"a_o3\":\"57.33\",\"a_no2\":\"64.21\",\"a_hc\":null,\"c_pm10\":\"5\",\"c_pm25\":\"5\",\"c_so2\":\"1\",\"c_co\":null,\"c_o3\":\"1\",\"c_no2\":\"1\",\"c_hc\":null,\"t_pm10\":\"9228\",\"t_pm25\":\"1308\",\"t_so2\":\"48\",\"t_co\":null,\"t_o3\":\"38\",\"t_no2\":\"99\",\"t_hc\":null,\"nama\":\"Palangkaraya Jekan Raya\",\"alamat\":\"Kantor Kecamatan Jekan Raya, Kota Palangka Raya\",\"kota\":\"Palangkaraya\",\"provinsi\":\"Kalimantan Tengah\",\"param\":\"PM<sub>10<\\/sub>\",\"stasiun_uji\":\"0\",\"stasiun_show\":\"1\",\"stasiun_show_detail\":\"1\",\"p3e\":\"Kalimanatan\",\"time_offset\":\"0\",\"time_z\":\"WIB\",\"",
+  "secs": 1.4
+ },
+ "bmkg_pm25": {
+  "ok": true,
+  "status": 200,
+  "bytes": 204966,
+  "head": "<!DOCTYPE html><html  lang=\"id\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><script nonce=\"gQfcEOwbd9h2v6rWOJP5vpE7\" type=\"importmap\">{\"imports\":{\"#entry\":\"/_nuxt/BeO3yLU8.js\"}}</script><title>Konsentrasi Partikulat (PM2.5) - Kualitas Udara - BMKG</title><link nonce=\"gQfcEOwbd9h2v6rWOJP5vpE7\" rel=\"preconnect\" href=\"https://www.googletagmanager.com\"><style nonce=\"gQfcEOwbd9h2v6rWOJP5vpE7\">.blur-bg[data-v-0e676a64]{will-change:filter;filter:blur(64px)}</style><style nonce=\"gQfcEOwbd9h2v6rWOJP5vpE7\">.blur-bg[data-v-6b964c8e]{will-change:filter;filter:blur(64px)}</style><style nonce=\"gQfcEOwbd9h2v6rWOJP5vpE7\">.nuxt-icon{height:1em;margin-bottom",
+  "secs": 1.4
+ },
+ "nea_psi": {
+  "ok": true,
+  "status": 200,
+  "bytes": 1472,
+  "head": "{\"code\":0,\"data\":{\"regionMetadata\":[{\"name\":\"north\",\"labelLocation\":{\"latitude\":1.41803,\"longitude\":103.82}},{\"name\":\"south\",\"labelLocation\":{\"latitude\":1.29587,\"longitude\":103.82}},{\"name\":\"east\",\"labelLocation\":{\"latitude\":1.35735,\"longitude\":103.94}},{\"name\":\"west\",\"labelLocation\":{\"latitude\":1.35735,\"longitude\":103.7}},{\"name\":\"central\",\"labelLocation\":{\"latitude\":1.35735,\"longitude\":103.82}}],\"items\":[{\"date\":\"2026-10-11\",\"updatedTimestamp\":\"2026-10-11T22:45:54+08:00\",\"timestamp\":\"2026-10-11T22:00:00+08:00\",\"readings\":{\"psi_twenty_four_hourly\":{\"north\":108,\"south\":115,\"west\":153,\"east\":135,\"central\":146},\"no2_one_hour_max\":{\"north\":15,\"south\":37,\"west\":26,\"east\":42,\"central\":44},\"pm10_t",
+  "secs": 0.3
+ }
+}
