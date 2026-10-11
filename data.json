@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-11T19:00:00+08:00",
+ "updated": "2026-10-11T20:00:00+08:00",
  "psi": {
   "west": 155,
-  "east": 132,
-  "central": 146,
+  "east": 133,
+  "central": 147,
   "south": 113,
-  "north": 112
+  "north": 110
  },
  "pm25": {
-  "west": 98,
-  "east": 100,
-  "central": 101,
-  "south": 68,
-  "north": 52
+  "west": 79,
+  "east": 70,
+  "central": 106,
+  "south": 69,
+  "north": 42
  },
  "hist": [
   {
@@ -434,9 +434,19 @@
     "south": 113,
     "north": 112
    }
+  },
+  {
+   "t": "2026-10-11T20:00:00+08:00",
+   "psi": {
+    "west": 155,
+    "east": 133,
+    "central": 147,
+    "south": 113,
+    "north": 110
+   }
   }
  ],
- "newsUpdated": "2026-10-11T19:08:27+08:00",
+ "newsUpdated": "2026-10-11T20:07:44+08:00",
  "news": [
   {
    "source": "CNA",
@@ -445,6 +455,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "巴士的報",
+   "title": "Singapore's air quality nears \"very unhealthy\" level amid haze from Indonesia wildfires",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXlZQU9TaUpfSXptMUZkenZYeU4wcUlHWWZYZm9wWnRqN3VJY1BkbnVLZUoxUGthaTlpaE1rZjJtbDYxbVh4Q3RTQkdCaDVOYU5iSmVVa2lralpKZUdXNjJEa0doWUVuZUdpemgxVW1ua1BxUndsRGpxUkxvT1FzUEM2MVVyaHYyV1k3S2h0OHFDcGxoeXhJQ3I2QXJ1X2h2RFJHUFRqdjBtMXlBcks2NWF2TGZVOU9tQXh6X0lrVHFMQXBrUDRMRnBnSzFVODBpbWc?oc=5",
+   "time": "2026-10-11T19:18:05+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Air quality stays unhealthy across Singapore as haze persists",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQejFtQ2FleG0zU0N3NFhpVzRFbGRnTEhpUmJhNnR4cWlReVZuaHRFcnBMVHNXYms3bTl1REhQSkhMeDBSTmNjV0ppUVF4SF9TR1F1cEVYdDBFTUQ0LUxIN0RJUzMzUUx3RWJJWDQxUGxuNjFUREJnUUluUDBhMTdVTjJTVDlwekU?oc=5",
+   "time": "2026-10-11T19:12:41+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne",
@@ -521,20 +545,6 @@
    "title": "Haze: Schools in four districts in KL and Selangor closed tomorrow",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0o5MXk0WGR4a3ZCNUpGLVVfUElRWk9zMmU1anhnZC00TmdSV3ZTMEhmOXNLM0JpcHZ6QkZvM2J6QVBJZ3Bwbkh3bTNhQ2NXb1FnSGNDcnlueElwM3R4a2wxSnJDWHM3Q1RUYlNZTXgyUnByY3FvMmNWOWRKaXVzR1dsTE41R0U2SW44QTJtTUNWVmhfV1Iyd1FqY0doMGFEMHVxTzU2cHBUazZkNGUzOGZhVjJjZw?oc=5",
    "time": "2026-10-11T17:08:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Firefly scraps Subang-Seletar flights amid haze, weather concerns",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLTRZNFZyU0g3Vm50MXJ2dFlBbmVBZDhpcTRKaGlHSWRuQWhTMjNWbnJCOUdjS0c5bXJZQzRwcE94RG5QOVFvaHhaamxodkpob3pBV0lnZ1R2aU8ybXVxMGV2STNZalhQUnlIdldzR1RscVF1YmpQQ1drQTg3bW5PVk1OZ1ZCRDQ5Q190WlI3Vm5raGJibk95T0RDY1RzOWtOYXZsZDlqQk5ueGNGVFE3OVlhd3ZqNVdsSVFhWVh0ak3SAcABQVVfeXFMTy00WTRWclNIN1ZudDFydnRZQW5lQWQ4aXE0SmhpR0lkbkFoUzIzVm5yQjlHY0tHOW1yWUM0cHBPeERuUDlRb2h4WmpsaHZKaG96QVdJZ2dUdmlPMm11cTBldkkzWWpYUFJ5SHZXc0dUbHFRdWJqUENXa0E4N21uT1ZNTmdWQkQ0OUNfdFpSN1Zua2hiYm5PeU9EQ2NUczlrTmF2bGQ5akJObnhjRlRRNzlZYXd2ajVXbElRYVlYdGpN?oc=5",
-   "time": "2026-10-11T16:44:54+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Sun Malaysia",
-   "title": "Haze: Malaysia still awaiting Indonesia’s response to firefighting aid offer – DPM Zahid",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWNOSTM3LURuQ0p1Q3dKWS0zRWNNai1yMWxXYkhIdUdSaTR4ZlgtR1FMU1djdHZUZ3owbU1DS3E5dmxvX2JqVDl2dzNiM1Z5Ty1QM3VtMW5pdHhGejBuak9KWWlHZVpwcXo5ZHJORlA0T3JMMFNjMFRGbG9GNGNmVXhXQUczaUV0T0hYQV9meUFwbUhwemduVEI2ZEZOeXlUNDNfelBCRmx2MGZqWnVic0I3dl9KeWJaUHcwTU42dzRCSjJseGpsV1NkYVM2cVpnQUE?oc=5",
-   "time": "2026-10-11T16:35:29+08:00",
    "summary": ""
   }
  ]
