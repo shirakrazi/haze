@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-11T12:00:00+08:00",
+ "updated": "2026-10-11T15:00:00+08:00",
  "psi": {
-  "west": 150,
-  "east": 135,
-  "central": 149,
+  "west": 153,
+  "east": 134,
+  "central": 148,
   "south": 114,
-  "north": 116
+  "north": 114
  },
  "pm25": {
-  "west": 119,
-  "east": 101,
-  "central": 117,
-  "south": 96,
-  "north": 66
+  "west": 134,
+  "east": 92,
+  "central": 128,
+  "south": 93,
+  "north": 67
  },
  "hist": [
   {
@@ -394,9 +394,19 @@
     "south": 114,
     "north": 116
    }
+  },
+  {
+   "t": "2026-10-11T15:00:00+08:00",
+   "psi": {
+    "west": 153,
+    "east": 134,
+    "central": 148,
+    "south": 114,
+    "north": 114
+   }
   }
  ],
- "newsUpdated": "2026-10-11T12:10:38+08:00",
+ "newsUpdated": "2026-10-11T15:08:14+08:00",
  "news": [
   {
    "source": "CNA",
@@ -405,6 +415,76 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Singapore activates healthcare support measures as haze worsens",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUc2VGZwRXlwUkRTalozdDBSSm91OWNqU2EtMDBsSDkxTkNiWnBhZmh6Q2Nidll6eXRTaUY3T2s0RnE4N2N6S3c4dmFFWEVrdHNOUmQ3eWkwSkFUZEdCTmFoWDFKTnVUbFVFclhkTHF5cjY3VllLNldsSDZDb1pZTWs2NDRLUWN1SkVLZ0JPQmFMWHJld0dXV1BDcGVneXdkdm1ybnlZZHNMNHV1SEV0SXJzOHhNcF9oRGQ2VVRUNNIBxAFBVV95cUxQamExLTAtVU1IdEd2LXJ0aVZnaUQwT3VUVkJjdVRNcTFJRXRBeUR3R1BnOF9McTVROFkySWRlMEE5NVhjUFhoRDhqOUFYNFpCOC1KV01adWViTHFnQl9YcmM0WTNSYXdoRFVrZXlmMW5qMkNTd201QWZCSE9KclM1ci1sMWY3ZTB0akd5bmZPMkttYl8xeWpIQ0wxTVdLYVN2NUk1RlZmd2MtU3l0WGNjWE8tTWIxSDVfcXh2ekdPMHVNQnVu?oc=5",
+   "time": "2026-10-11T14:48:42+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Jakarta Globe",
+   "title": "Indonesia Briefs Malaysia on Wildfire Response as Haze Spreads Across Borders",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFNUVURxU2VRSFluTjVybXhSeUg0YTF6RG9reDZLU05jaTV1Mk9OanFnVnNsZlVtekRTUUxuaHptTzhSOTlhdm1wdGVYN1lTeW1mclF5WGJNYWxZejdwMGgteUs3aGlHVzIwWVFJalp6OU9iX19kUGF2bHVHZWx1VUhCSGVYZm01b1d1Ty1ZZjc5UEpFVTU5dF9ZNmp6REpyQmR3cXdhVUtTUQ?oc=5",
+   "time": "2026-10-11T14:15:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Malaysia want to help Indonesia resolve transboundary haze issue, says Zahid",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRGdDTzhaX2xlNEJtaEhBNXA0RFI0SHVGUjB2d3lnRmtCQk9XS240Yy1hbGU5WThHOTF3ajVzSi10Y3h2a1c1OVJFeXNsak9RbTI1N0FkTTd1X0x4bUEtS3dMV3NsVElwNzZOdFV6MFZLRk95cDdrNkxrdGZWNlh4Sl9STW9icURaY2JWNXdCSzB5R09ja2NXVE9xUjVERGlZd2JjbWI0eDdWVFFSTjJqSUVGQWR0RTFuYW5UM09ncFlkYjQ?oc=5",
+   "time": "2026-10-11T14:07:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Malaysian low-cost carrier Firefly cancels all flights between Subang, Seletar airports due to haze",
+   "url": "https://www.channelnewsasia.com/asia/malaysia-firefly-flights-cancelled-seletar-airport-subang-6449996",
+   "time": "2026-10-11T14:01:25+08:00",
+   "summary": ""
+  },
+  {
+   "source": "VnExpress International",
+   "title": "Asia's richest country offers haze treatment subsidies as air quality deteriorates",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOamZTUXphRXY0Z3oyQWlOYmYxWFZrZHhxV0Fyck9sR2tXcmJBcmNNck44dlg1OGQ4U0wxWkZ5TTBfbnB4WVN4MkJvazUySm5HbVA3Z3ktOXdrS1QxZWhmaHZWQlFHTk5DcERiMWVuOVpnaV9KMlFINXBOU3dwZXNxTmhaNXJlVm5BYUQwaTM0SFhFaXo0OHQ2UHBVckNVUnRDQ19xZTJHNmxRY3V6UV9pbHZxM3N5bUxaRGd5T055R1hVcWl2WlBJRDZlTGNTc3JvZkV1OVF6Ylk?oc=5",
+   "time": "2026-10-11T13:12:13+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Malaysian low-cost carrier Firefly cancels all flights between Seletar and Subang airports amid haze",
+   "url": "https://www.straitstimes.com/singapore/firefly-cancels-all-flights-between-seletar-and-subang-aiports-amid-haze",
+   "time": "2026-10-11T12:21:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Firefly cancels all flights between Seletar and Subang airports amid haze",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMll1N0E3ZzJ2aXEwVUJ2ckxaV2ZxcTdtQzJOU3Q0ejg2OEdnd3F3ZlJiMzRtUEFjdk1yd0lDYWx6alJ1bkxEQTl6ZXFseWY3NWgtWW5tTkxYQWNVTnpOLWdSWEFoaTZzRWx0ekN6a1FJaTNIOWhKYWU5LWxIQ1pTb2JocXhJZExaTzBuZmFaTlhDRVpFQkVvSlN6Rl9CRWFhdDdOTHp0WFZFaDdaWTl0cQ?oc=5",
+   "time": "2026-10-11T12:21:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Firefly cancels all flights between Seletar and Subang aiports amid haze",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR2tBdUlYX25CLVBLa0xVMllNYS1ZMllrZ3owOW5oelJ6ekdzVTRjS29pMWRyNUJOdHoxU0ZqdVNNQlkyMDJ1eEdqVy1EckRWV3hyWmpGenpKaFBUckQyTThpRHZFMU9jZHhjNktJdVhFY0RmUW9sQlY2QTZQZVBIUmVjWFFDN2RzN2wzSVJlUVl4NG00U093NE9XRDdiOTlpYXRDVDdpdjVMWlc1UHA3em1aMGFFTGNKcHBCaU1xZw?oc=5",
+   "time": "2026-10-11T12:21:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Animation shows air quality across Southeast Asia amid haze caused by Indonesia fires",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUw4czQ3em4wN0x0NmFLSUliQ09NdllMWjVFVkRCSWg1QmVKRkhDQThVb0plUXVpd0pfMnlQTmlfeEdfUFZnWm1LcUthcGFRa0JHbVhaSnVMeW5FSnRER0VpeE13M2VncFNwU1VPaVpqWGlhZ1BpelB1Q0RXNkxzT0NhNU1CMHdROTNsakZCNGo5WWEwRVNadVBia1NjQXpKczRyZDF6QS04X2pCV1QzQTF5aG1Bbzk2eG9XOS02b3g1LWd2ODhpeg?oc=5",
+   "time": "2026-10-11T12:18:28+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Mothership",
+   "title": "24-hour N95 haze mask vending machines to be rolled out for eligible S'poreans if PSI reading crosses 200",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92OE9FSThmMVdNdFR6R0JnY0kzcVpwYzdiRzVTbkZ0dDVkY3lRaXNGUWJ3X3lVdGR5dDJJSGtyYnFwaHBlM2h2NUc5OFcyMFJkQnhuV2NpeVpXZF9TWHo1czdwcGh1SFJNT2pGR2NjXzVsRUVaN2xSeA?oc=5",
+   "time": "2026-10-11T12:17:14+08:00",
+   "summary": ""
   },
   {
    "source": "The Vibes",
@@ -425,76 +505,6 @@
    "title": "Haze in Malaysia: 15 areas record unhealthy air quality, Pasir Gudang records highest API reading at 180",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNclNSOHByZzEzNm5mZU84ck1NdlEwRnFYaklhRXNXb0lGTUUyRVFuaDBCZ0N2NDMzOFZycFZsWHJJWk43Y0U5Z200R3RNZVlSU25nZUlPbHBwdXhPblR2LVlvRTdtRml1RWhCVmpNWEFoZ01NZ1V0bXE3SkstMjI3T3ZjRk5HOU4wMkdWLUFlRlFpNXQ2TW94S3lqX05qWWEtWDAzTV9USmpnZVZGRmxlbDRqdkRvQ1F1?oc=5",
    "time": "2026-10-11T11:52:51+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore to roll out haze subsidies at GP clinics, polyclinics from Oct 12",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGlxMXpybFBoWFRIcE5tTlBoUE03TklIOF9wRTJKczRYd0NWMkw0WDVSblV2S0o4M1EyZmtuQ3hpSXYwYzZCTnk5MGw4TVppUld4QnpyTC1RV2l0aEZMNjQ4ODNqaVBaVGIxQlJPR1lUR3YzbFg2SFZENkpSMEkwTXc0T2NuQmFYRGx1ZTVzRW5Ed3NJcDI4aWdCUkw?oc=5",
-   "time": "2026-10-11T11:28:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Air quality remains unhealthy across Singapore amid haze",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3M0RTJ2S2tVTXE0TmQ0TUJudjMxY09Pa3pFSHExbmVVbUR2cmgzdFc3OEFXWloxQ3cxSi1WNktaRGVUNnBrbTYyalFJaWRTVU45SHJNQkF3dHRpVGJKVlhrR1J5WWdsSWd6Q3V6T0p3RHB3czN2Yk9VeFZzX0NGZWdPb2dNTVIyMkswVGJR?oc=5",
-   "time": "2026-10-11T11:26:19+08:00",
-   "summary": ""
-  },
-  {
-   "source": "BusinessToday Malaysia",
-   "title": "Singapore To Roll Out Haze Subsidies As Air Quality Deteriorates",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkg1TnVwNDBza2dlLWNYamdiYlRUM1VOOXV6TW5KTzhsckNxdW50eml1RW9WN3dpWHNRdU9sQ3diZ1kwNGNXRFR3UWM0ZkpETmRBUHdwUWQ5MlN4cndHQnpLcVhfVnFfM3RnOWpiWFdFNHpBdWxLRENLelNBSGdDQTlnRDBCNkZ1a2I3R0VaTUNpaHh2cTMwUnNhTzhlZjQ3Z096Y25CWjlqRHljWWc?oc=5",
-   "time": "2026-10-11T11:11:03+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Johor extends school closure to Oct 16 as haze worsens",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmlpWlJTQUtiVmxoZWxuMWwzNm1PSnV6SjEzRTlXeTZqVVVMQjBqTlZJQ0doRFpUejNyX3JHZEgtTXk2QlVjM2ZwcXhxQVNjYWNTVWpaSlFWNVJIQmNIUDE1VHdfcWJ6WlU5ZVRSRjRFdERJVFMyX0xGNGJPZWhPQ1I2NDdRajF2eDBMWWdzVFBTWDNGRjJPdDVDTkQ?oc=5",
-   "time": "2026-10-11T10:58:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ANTARA News",
-   "title": "Indonesia explains firefighting efforts to Malaysia as haze spreads",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYnBhdnJlN1dUZDJrRHVPUUJZZXlBZjJ3QnRxWFdYeXIyMmNhRHRtSElucWFMX3Z3ZzIxTVNGUm5zQnoxSlJuQTFIcURvQXQ3UzlCRXRQMTd6VGlRcTZfWHN3TVVUcW4yLTQ0d0w4X2dzbG1SR01Gb0ZPNzIwNlJqR3BVVVNwVlhYeUE3YlNvNzZ4WkwwZ3dWS1RySkJQcHdEMFNoNzVadzJoZW5BY1HSAa4BQVVfeXFMTmJwYXZyZTdXVGQya0R1T1FCWWV5QWYyd0J0cVhXWHlyMjJjYUR0bUhJbnFhTF92d2cyMU1TRlJuc0J6MUpSbkExSHFEb0F0N1M5QkV0UDE3elRpUXE2X1hzd01VVHFuMi00NHdMOF9nc2xtUkdNRm9GTzcyMDZSakdwVVVTcFZYWHlBN2JTbzc2eFpMMGd3VktUckpCUHB3RDBTaDc1WncyaGVuQWNR?oc=5",
-   "time": "2026-10-11T10:49:39+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "Eligible S'poreans to get subsidies for haze-related conditions at polyclinics & some GP clinics from Oct. 12, 2026",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tLTlraTJ4QVhsbzhnWDVUVnB6TC0tWi16Qkt3YVpxYVJLbXBYT0V0clhQUWlwYXdzMmlVUlV0LWpPWDVZUUp5SUp4elJSMWhfa2o3QU9JczIxdmhHbmNIV3hVVVBFb0NmT1E?oc=5",
-   "time": "2026-10-11T10:48:08+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "Respiratory cases rising amid haze; MOH activates subsidy scheme for first time since 2015: Ong Ye Kung",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYU9GV1R2WEVzWWJnYjBDVWt3YWpsM3pwODBJWEVQM0ZVazJ4UFdCbHdrb2thS0JNTmlQZHhGMEgyOTNJTS0xcnVaSDJoNU42aDFWYkhtNVMwczQyeGZ4cV9JY3RVVGRXbVdQdDBTVlp4OEdIZDhaVThIdXJUWmhualZpTDVpdWpRcU1Dc01DcDh1ZXdJOXIxOQ?oc=5",
-   "time": "2026-10-11T10:30:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Nation Thailand",
-   "title": "Singapore air quality deteriorates due to Indonesian forest fires",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HQVpfYzRaTjBFaktRR2VRZWRMT0MtbmZOVXJPVnVPWDIyU0NVOGhPSUl1eGZNbm1BeE56WVFyczEzelg4OElTYjlId3JrbWVCUnVMejVrVjl5bXNhV25J?oc=5",
-   "time": "2026-10-11T10:21:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Haze: Malaysian, Singaporean firms under investigation",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdldfZnhhbExKX043T3NlZXlYZ0JSWUY1SE05c2Z2al8xOHJCT2NuaGdWV3BoQ240THNsa2xEOG04ZHdvVEQ4M05sMGhUM1VkRC1KMG42aklmT1M2LU5HdjFGYlFNOE1DVjNiTmZOdTc2NkEwV2JPVmJiMHZpc0JZcTNId21JVDFEX0w0ZFBpbkVWQlZpeVpfQXZXN19aZndTZzlPQm1n0gGrAUFVX3lxTE5EUk1fSkhTbWRWMVJBSjhpZFlZblFpUE9QUE9lVnhZVWhBWDlENDJWaDlGQy10QnpZcHVVVXZpMzFVaFRFdUZ4cVpyRGJzYXplbW5sUEh2aVZZWUI4bzNVTHhUV2NvSVB4dDBqcDFvXzk3WVMtSFowSFBIT1l5X1hsdm9lQ1Y1dDFfTzFfUzFMS2o4Qkxfc2Q2ODFtaEtsVndmQXcweHRERUxaQQ?oc=5",
-   "time": "2026-10-11T10:18:40+08:00",
-   "summary": ""
-  },
-  {
-   "source": "UA.NEWS",
-   "title": "Singapore activates subsidies for haze-related illnesses — Channel NewsAsia",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHdQQUxFSUg0ekdlQ09oSmFPSERXclBtbmdTX1ZNcXNRT0J5RGZJMWZFakhfTnJNdzMzenBKd3owQ2VTN1oyS1RXbVBmNG5SOXFNQlhmQS00bWhVQi0yak9GRUdZbFQzMEppNm1IYUowNHh5QzdiZndTME5LdGlneWQyV2IzYVl4TDVXRFhPek5zOGdHWk4tRVZxVG5mSi16SEROS09sQWVXT2pl?oc=5",
-   "time": "2026-10-11T10:15:45+08:00",
    "summary": ""
   }
  ]
