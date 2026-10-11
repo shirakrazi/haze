@@ -134,7 +134,7 @@ try{
   viewer=new C.Viewer('globe',{baseLayer:false,baseLayerPicker:false,geocoder:false,timeline:false,animation:false,homeButton:false,sceneModePicker:false,
     navigationHelpButton:false,fullscreenButton:false,infoBox:false,selectionIndicator:true,requestRenderMode:true,maximumRenderTimeChange:Infinity});
 }catch(e){fail('This device or browser cannot show the 3D view. The map has the same readings.');return}
-const scene=viewer.scene;
+const scene=viewer.scene;window.hazeViewer=viewer;
 scene.globe.baseColor=C.Color.fromCssColorString('#1b2a33');
 scene.screenSpaceCameraController.minimumZoomDistance=25000;
 scene.screenSpaceCameraController.maximumZoomDistance=14e6;
