@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-12T04:00:00+08:00",
+ "updated": "2026-10-12T06:00:00+08:00",
  "psi": {
-  "west": 148,
-  "east": 138,
+  "west": 147,
+  "east": 137,
   "central": 148,
-  "south": 116,
-  "north": 106
+  "south": 118,
+  "north": 105
  },
  "pm25": {
   "west": 94,
-  "east": 84,
-  "central": 107,
-  "south": 68,
+  "east": 75,
+  "central": 84,
+  "south": 77,
   "north": 57
  },
  "hist": [
-  {
-   "t": "2026-10-09T00:00:00+08:00",
-   "psi": {
-    "west": 142,
-    "east": 115,
-    "central": 142,
-    "south": 112,
-    "north": 99
-   }
-  },
   {
    "t": "2026-10-09T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 116,
     "north": 106
    }
+  },
+  {
+   "t": "2026-10-12T06:00:00+08:00",
+   "psi": {
+    "west": 147,
+    "east": 137,
+    "central": 148,
+    "south": 118,
+    "north": 105
+   }
   }
  ],
- "newsUpdated": "2026-10-12T04:07:09+08:00",
+ "newsUpdated": "2026-10-12T06:08:22+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Football games, night markets carry on in Johor amid haze and school closures",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDQzV01qajFSOXBsbEVNUjBJQ0dSb1QyUjRWNEVRUmpyeFRxTXc0TUFvZmFKQ0hlalV3TDJraWZJeWN1ZGQ1UzQ5YVpkS1d1NjRVTW56bk1rMzZXWW1KdnJYQ0pyMXo5VG9Yak5MU3R2V0NKSUpIdElTNEhLQjFzSlNQNmtpS2hsaUUyT3VQNnFISi1KcWdyRzV2Qk14QVoyN0JRaDNsaGx2dnh1V1B3M1FGYm93V2U2Nnc?oc=5",
+   "time": "2026-10-12T05:00:00+08:00",
+   "summary": ""
   },
   {
    "source": "Retail News Asia",
@@ -549,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "Mothership",
+   "title": "Indonesian govt official says forest fires 'beyond human error' & their forests 'send oxygen' if there's no haze",
+   "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOY2QxTF80WUZUSEZoRG1Wa0hsZV95Rm5CZVpwbFVXWERnaEVNS1lmT2lTU2tQbTZ4QW0zX1NrRjQwZGZGeVVIQ2xRZ2tkR2s2MlBhR05GTklMYUlQU0RWcUNBOGRRSkZvSWZuWnhrejBmSzRGWThqSUZPNERfRVdKM1l2NmxGN0NGUDFQRlBBVGxncVBTY2Y3bDZ0N1BZZHRRd0tYaVBIN2tjN2NBYjhzU3hBRkYzVVhiWHJfWFFXdjZNUkttNDU3MWx6Y0o1RnFIdGRIcHdTZlkteHIwR1lLcG9VR3NVeFF0RDRCREVEb2IzOXRwWXk2VXh1RS1tSklqZXN3MmNGdmJKbU1iUTllR0pQamVxUzM1N2dFNzBRb2szaFhVTUNLcDgxeFBLc2tNWFp1LVVhWFRsNzZBQ1RnTDJOa1lyVG9VNC1HLW5jMDFlM2ZmOU9XY3JXLWI0MTVEZmdpc3Etc3pNb0QxM0JnSUg4T3d5T0prd2pQVkpMc1FIdG83N0pYWnpXUDdWLURxVl95aHhwTFo?oc=5",
+   "time": "2026-10-11T20:25:49+08:00",
+   "summary": ""
+  },
+  {
    "source": "巴士的報",
    "title": "Singapore's air quality nears \"very unhealthy\" level amid haze from Indonesia wildfires",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXlZQU9TaUpfSXptMUZkenZYeU4wcUlHWWZYZm9wWnRqN3VJY1BkbnVLZUoxUGthaTlpaE1rZjJtbDYxbVh4Q3RTQkdCaDVOYU5iSmVVa2lralpKZUdXNjJEa0doWUVuZUdpemgxVW1ua1BxUndsRGpxUkxvT1FzUEM2MVVyaHYyV1k3S2h0OHFDcGxoeXhJQ3I2QXJ1X2h2RFJHUFRqdjBtMXlBcks2NWF2TGZVOU9tQXh6X0lrVHFMQXBrUDRMRnBnSzFVODBpbWc?oc=5",
@@ -581,20 +595,6 @@
    "title": "Malaysia: Govt. urged to introduce transboundary haze law to address public health crisis",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPblh3VEl2djlrWlBVT2N5ZExrU0dYR0x0QnJXUlB3T093SU9ndEUtZUF1bG9PZENNVDN0YTZyaHFFaU9tV1ZiSnZqbkEydGx3bW9iaU00YWU4YS1HV1ZfeUdnMFpXVWx6MXFSVzVHajE4R0RObnpsMG9zQXpTcTFPTW1JMDlwYkM3TmptaEh0bWtya2ZSOVl0eF9Xci1kRlVpd0dQbUQtWmJkSnhDUkk1Yzl0dm95QUhRdnZZcF9PeVFSTUJBMGE5VUc4bE9DOE0zRDBMT1pIRQ?oc=5",
    "time": "2026-10-11T17:53:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Firefly cancels Subang-Seletar flights over haze, weather concerns",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMUEtNmZFZnBpMzdlc3RYMXhOYWVWT21lNk50RUNHcEJmMU5jWFVrNmg5VV83Yzg5aTlYMjhUSVl5WGNfcEU4SFZWZjlNM1p5ZGtHaHdKYTFVLTFubTBqYl9nbERWUGwyVEJhYjg1RE83clVkME9oZFNQZ0h0bHNkZkFaSmlucTJvc2MwR2hqOTQxOHVROFo1M1RlRnB6QUJCdlBkUEtiZk9uOEFYbmgtamZtQXZpVVnSAbwBQVVfeXFMUHgyZGNEbG9tbW1mLWlTbDROLS1BU0lLenNvZmZWSG1VMldWeFlFTWRtUFpuSnRwRDRaalJ3TGpOUC01Qk1rSm1UcmtEekhqLXQ2VnR6dG82R1BSVUJFd0UyTnd0bjNlbGNvOFppZTRHcEVod2xMWmNIQkJsM29sdHozb0tpeEZNZ2Rzdy1oQ3FhTllOQ2pYZ1VjekFMVXhOc1Yta2tyRWQ1cW1OeTM1YXlzWnhFUFBNOUttS24?oc=5",
-   "time": "2026-10-11T17:53:32+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "Indonesian govt official says forest fires 'beyond human error' & their forests 'send oxygen' if there's no haze",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYmlJdWRhdG1mQ3FUeVljM2pSSF92TTA4dEdoRHVqekpubjBCZG41cUhJVUFnNVlxR1VkekFIOFBfT1IwcTVlMEx5VnZqeXlXazB3eEdtZ054OFhvRFN5aHRWaHZrVHE2UUdvY0N2TWNGRW5sZXFSalNCbG5lN2R2Mm9HVW03V3VQRVNpMzMtSQ?oc=5",
-   "time": "2026-10-11T17:46:39+08:00",
    "summary": ""
   }
  ]
