@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-11T18:00:00+08:00",
+ "updated": "2026-10-11T19:00:00+08:00",
  "psi": {
   "west": 155,
-  "east": 131,
-  "central": 147,
+  "east": 132,
+  "central": 146,
   "south": 113,
   "north": 112
  },
  "pm25": {
-  "west": 111,
-  "east": 81,
-  "central": 95,
-  "south": 39,
-  "north": 53
+  "west": 98,
+  "east": 100,
+  "central": 101,
+  "south": 68,
+  "north": 52
  },
  "hist": [
   {
@@ -424,9 +424,19 @@
     "south": 113,
     "north": 112
    }
+  },
+  {
+   "t": "2026-10-11T19:00:00+08:00",
+   "psi": {
+    "west": 155,
+    "east": 132,
+    "central": 146,
+    "south": 113,
+    "north": 112
+   }
   }
  ],
- "newsUpdated": "2026-10-11T18:49:20+08:00",
+ "newsUpdated": "2026-10-11T19:08:27+08:00",
  "news": [
   {
    "source": "CNA",
@@ -437,10 +447,31 @@
    "pinned": true
   },
   {
+   "source": "AsiaOne",
+   "title": "Haze update Oct 11: Singapore GP night race to take place under unhealthy PSI forecast",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0ppc3JmMnh2bXd1aVVMWmdNMFc3VktEV0VaRFNkSFVUMDU0c2NEVDZkVUpRaEZ3S00wMVRjSS00X19pd0VpTzNOUkRqQWdha3d0MG9JM1BpcTY3NGJ2Qk5nZ0RSVGlkMzZ1MGRMQ2ViZVhlNFRLTEEwQU56OWMyaVowZmFZalRmOVRZaUJrSFpyTG1uR0FSdGxuaUt6UQ?oc=5",
+   "time": "2026-10-11T19:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore readys haze mask vending machines for deployment if needed",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnpUZHF6VURaaXZxanQzM2xqMGQxSHpVbGltWnRHbVp3QW0zR21nY3dKbG1SMGRGdkpzS3pTeWVsd2ZvM3VmYkM5Mnl6bm9KSzBfQUUwZzlGenJDZ1JvUndIaG1zWlVTTnBxdXVNb0NndDVHSmYtZXMzTDdHU3hreTZrRkgydEpwcE9Jc3JwTXEtVWc1VWRwTmFWSVVERV9Rd3dwX1JRcHpoUkdWMl9JSw?oc=5",
+   "time": "2026-10-11T18:48:58+08:00",
+   "summary": ""
+  },
+  {
    "source": "Malay Mail",
    "title": "Haze: Air quality in Kuching, Miri improves to moderate levels, says DOE",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTy1LOEdsOGRSVjA5UG51RC1NVENndXJiWFBYbzFXSkVjTGFnSEZfeUZad2ZjNTBhT01LTHBIRE5rdlRXTmthNlVMRFJlZVV0YW1qQk1BbWZpX0pYUkFjSk43Vlh1bVdtNm9DSEw0Wmk3OHlZRGlsdzBXMVZDTjE2d3VoZEJpb2NONXJqY3g4Mi1MTnM1SkRXdWFUWUREVWRwa2RxcDg3QlpnRWVZZmJKRkMzaXVQclBrUm40OUg2a3hBbmU2emfSAcsBQVVfeXFMTWNHb0lfOUNneEpOR3lsWGhuaVVrOU9saFlfNTcxRWpTSldpTUhXR3NNUkkxb3EyMEFMbW4ta202TG1uQUx2VmZTUjM0YVFaQV9Kc3RObEpwY2dPUm1sYkxycDViMW02SjI3eVlJSDVHbC1JMEFyRlRIWlBtWDVjaWNsMHBzQ0IxM28xUUJLQTFZSURxa0g4cDVVelpReC1kNEVYUGtLdjFoRHR6UE5DRDl1OUxqVm82ZVVHX2dSV0pEZVFnUC1nUzhpR2s?oc=5",
    "time": "2026-10-11T18:39:31+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Bloomberg.com",
+   "title": "Singapore F1 Race Draws Near-Record Turnout Despite Choking Haze",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUpPRDNtQXZSR3Y5NGtkQTgtUVhWQVllUlhUZGZtSXY4TG5DblJJeFdoUWlmZURJX1MyajR0dWprX3NUMWxjNGtEcURqZzlDT1R0U29VWkJtTDdPeUVqeDd2SjUtMXhCeG5pY05wd2pKdWxBRUduUnRYVWVfcjUteklfc04xMnlIQ1NPc3RMVG1UX0RzYlBqWTJFLWQ1SEtRVF94S2ZfaTd0V0c1RjJqM084dmFOUQ?oc=5",
+   "time": "2026-10-11T18:28:12+08:00",
    "summary": ""
   },
   {
@@ -480,13 +511,6 @@
   },
   {
    "source": "CNA",
-   "title": "Singapore readys haze mask vending machines for deployment if needed",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnpUZHF6VURaaXZxanQzM2xqMGQxSHpVbGltWnRHbVp3QW0zR21nY3dKbG1SMGRGdkpzS3pTeWVsd2ZvM3VmYkM5Mnl6bm9KSzBfQUUwZzlGenJDZ1JvUndIaG1zWlVTTnBxdXVNb0NndDVHSmYtZXMzTDdHU3hreTZrRkgydEpwcE9Jc3JwTXEtVWc1VWRwTmFWSVVERV9Rd3dwX1JRcHpoUkdWMl9JSw?oc=5",
-   "time": "2026-10-11T17:18:58+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
    "title": "Air quality remains unhealthy across Singapore amid haze",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3M0RTJ2S2tVTXE0TmQ0TUJudjMxY09Pa3pFSHExbmVVbUR2cmgzdFc3OEFXWloxQ3cxSi1WNktaRGVUNnBrbTYyalFJaWRTVU45SHJNQkF3dHRpVGJKVlhrR1J5WWdsSWd6Q3V6T0p3RHB3czN2Yk9VeFZzX0NGZWdPb2dNTVIyMkswVGJR?oc=5",
    "time": "2026-10-11T17:16:47+08:00",
@@ -500,31 +524,17 @@
    "summary": ""
   },
   {
-   "source": "Mothership",
-   "title": "Borneo residents take Indonesian govt to court, claim negligence in handling of forest fires causing haze",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15MFktQzBIdzB3MVJaYUYxdEZ5cXdsSVY0TmFDMm9jNGk3eTNCRkZFWkpnYXlFb01KT3ZtWllydlVZSVotWmp3Q1JiMnZOZXFzWC1qbzQyTk56a05jWnNselpnT1BSUW04YjV6c0xLTkxhOTh2aVE?oc=5",
-   "time": "2026-10-11T16:31:26+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "Student care centres & kindergarten care centres to remain open even if schools close due to haze: MOE",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WOGNFVDBtQ29fU2daVFg4ZzFMT0NWZ21vVVFHRmlZNTNmeVRrQkt1ODFJeXpmdUtES1VUSlg4MFV3M1lHSDV2UWY3M0ZYM2J0NFhBMnR4OGJJcG9qWmRiV0Z4MEE3UlloRlNPVA?oc=5",
-   "time": "2026-10-11T16:16:23+08:00",
-   "summary": ""
-  },
-  {
    "source": "Malay Mail",
-   "title": "Haze: Malaysia still awaiting Indonesia’s response to firefighting aid offer, says DPM Zahid",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRzJsUmVmc1lhbWZKb041YU94MFFjbzhieGJIZFdSSGU2RnJ0U0Q1ZENQcDZ1RGZNQ2NwNjlNRVdFSUJBcjlGU1FHS2U3eW1zajh1M2t4SWgzSEc2SGJsZmpjUURPVGNtSF9lVVdSRERLOTE0VVl4N29iSWV1emlYY01INjJJbWgxclh1Z2RiS3JYYXJOd1g0REI5MV94ZDVkS1ktbDVlQ0ItaW94VTZ1SlN6UWFWSGpJMlczVF94NEhqbjlZdFp6M2pkRFVKSzUwYUtDNGd2aWlyMldlemJYbdIB5gFBVV95cUxQUGt6Y09ZcEJQaGN2X2FiX0RjUlhScWtwcVRxTjFkb09uaG1mWjMtQkI3THpQM0JsM2VpZHFIU0I5dHF6TWN6cUxveUpNSkxkU09xbDlEMmp4M0lGMkRoZ3hZVlhaTnBlTVRDRWotSV9NMmJBLTNudmd3Sm05SnJrejRsTzZQTTg0NG5XUHluMVVfa2JLRFhmRnNkSy0ydEtocEktbGdQNWJHbG84VGFxLVlMNDNwbFhldTJhZ2U2Uk5aQm9VMlJxNGxoR3J1SDk2bkp2VDI2VmpiQXR6UkFRSm5ybi1zQQ?oc=5",
-   "time": "2026-10-11T16:15:39+08:00",
+   "title": "Firefly scraps Subang-Seletar flights amid haze, weather concerns",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLTRZNFZyU0g3Vm50MXJ2dFlBbmVBZDhpcTRKaGlHSWRuQWhTMjNWbnJCOUdjS0c5bXJZQzRwcE94RG5QOVFvaHhaamxodkpob3pBV0lnZ1R2aU8ybXVxMGV2STNZalhQUnlIdldzR1RscVF1YmpQQ1drQTg3bW5PVk1OZ1ZCRDQ5Q190WlI3Vm5raGJibk95T0RDY1RzOWtOYXZsZDlqQk5ueGNGVFE3OVlhd3ZqNVdsSVFhWVh0ak3SAcABQVVfeXFMTy00WTRWclNIN1ZudDFydnRZQW5lQWQ4aXE0SmhpR0lkbkFoUzIzVm5yQjlHY0tHOW1yWUM0cHBPeERuUDlRb2h4WmpsaHZKaG96QVdJZ2dUdmlPMm11cTBldkkzWWpYUFJ5SHZXc0dUbHFRdWJqUENXa0E4N21uT1ZNTmdWQkQ0OUNfdFpSN1Zua2hiYm5PeU9EQ2NUczlrTmF2bGQ5akJObnhjRlRRNzlZYXd2ajVXbElRYVlYdGpN?oc=5",
+   "time": "2026-10-11T16:44:54+08:00",
    "summary": ""
   },
   {
-   "source": "Free Malaysia Today",
-   "title": "Firefly cancels Subang-Seletar flights over haze concerns",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3hFc0lWWGM1dnc2aDR3LURoNGcyb3hQZE9sU0ZVRHROZEFLdi1HUHZSQTFuV0xkd0Zjc1NzbmRGczNoTnVFOVd6c1NSRDZRdTV3YTJMaXF3VWJ5RUJDSS1iWjhrc1BrVUZ6bnRqUXdqSW9nVWJEMkd3dUk3MnBLa1VKcFg2al9FZlZQdXBUWDNfMXJhSGowQ2RQR1RYbHFsT2JSU3lVSFhtM1ZMTjRZazkzeGJTZ1h4Nmc?oc=5",
-   "time": "2026-10-11T16:14:00+08:00",
+   "source": "The Sun Malaysia",
+   "title": "Haze: Malaysia still awaiting Indonesia’s response to firefighting aid offer – DPM Zahid",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWNOSTM3LURuQ0p1Q3dKWS0zRWNNai1yMWxXYkhIdUdSaTR4ZlgtR1FMU1djdHZUZ3owbU1DS3E5dmxvX2JqVDl2dzNiM1Z5Ty1QM3VtMW5pdHhGejBuak9KWWlHZVpwcXo5ZHJORlA0T3JMMFNjMFRGbG9GNGNmVXhXQUczaUV0T0hYQV9meUFwbUhwemduVEI2ZEZOeXlUNDNfelBCRmx2MGZqWnVic0I3dl9KeWJaUHcwTU42dzRCSjJseGpsV1NkYVM2cVpnQUE?oc=5",
+   "time": "2026-10-11T16:35:29+08:00",
    "summary": ""
   }
  ]
