@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-11T09:00:00+08:00",
+ "updated": "2026-10-11T10:00:00+08:00",
  "psi": {
-  "west": 152,
-  "east": 138,
-  "central": 151,
+  "west": 151,
+  "east": 136,
+  "central": 149,
   "south": 115,
   "north": 118
  },
  "pm25": {
-  "west": 88,
-  "east": 93,
-  "central": 87,
-  "south": 71,
-  "north": 69
+  "west": 98,
+  "east": 84,
+  "central": 100,
+  "south": 98,
+  "north": 68
  },
  "hist": [
   {
@@ -364,9 +364,19 @@
     "south": 115,
     "north": 118
    }
+  },
+  {
+   "t": "2026-10-11T10:00:00+08:00",
+   "psi": {
+    "west": 151,
+    "east": 136,
+    "central": 149,
+    "south": 115,
+    "north": 118
+   }
   }
  ],
- "newsUpdated": "2026-10-11T09:07:28+08:00",
+ "newsUpdated": "2026-10-11T10:06:57+08:00",
  "news": [
   {
    "source": "CNA",
@@ -375,6 +385,48 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Scheme providing subsidies for haze-related conditions to start Oct 12: Ong Ye Kung",
+   "url": "https://www.straitstimes.com/singapore/scheme-providing-subsidies-for-haze-related-conditions-to-start-oct-12-ong-ye-kung",
+   "time": "2026-10-11T10:04:31+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore to roll out haze subsidies at GP clinics, polyclinics from Oct 12",
+   "url": "https://www.channelnewsasia.com/singapore/haze-subsidy-scheme-gp-clinics-polyclinics-moh-6449066",
+   "time": "2026-10-11T10:01:21+08:00",
+   "summary": ""
+  },
+  {
+   "source": "UA.NEWS",
+   "title": "Johor extends school closures until October 16 due to haze — Channel NewsAsia",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTzNyNkJqcVdBbUZuTnpHbFdSeml6eURidzVtakxka3hmTlpMUU1fbjd5SDRjRzNlZmZQSmhKeXZadUZ4RGVWN1JVLTFITTdnRnZBRHlfWjlublJYUmhnMy1XUFpRRk93WndfUEtwSDU3dXNyR25hNDFzSnktd3c3RmxfWkl5elExVTVrOTI4N0VQQnA5SnMzMmcwUGhyaXVDek5MSGdDSnc0YkRi?oc=5",
+   "time": "2026-10-11T09:47:43+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "School closures in Malaysia due to haze leave parents scrambling for childcare",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTkpIV3VET3JxWl9lSlZmd1NNYjF2cE83TEJvZGpKbXVHOXd1UG5BQ1F6bjF6dV9TTldoWGd0OWJqaERYSGNJdXVIX28wdUZ2MGc2YzNQLVA0WmxrS3JMQkR0M1Y5Z0FFaDN0YU5lbV9tbjVrZTdHaGEzUDZ4dWt0S3RxYXYxMlVPc2thVVlsOWtxdFFWR1pZV1NnZXNFdThfU0w1elQxWV9yU2lIQ3c2NUh2ako3ZDZOanp4UA?oc=5",
+   "time": "2026-10-11T09:23:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Animation shows air quality across Southeast Asia amid haze caused by Indonesia fires",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUw4czQ3em4wN0x0NmFLSUliQ09NdllMWjVFVkRCSWg1QmVKRkhDQThVb0plUXVpd0pfMnlQTmlfeEdfUFZnWm1LcUthcGFRa0JHbVhaSnVMeW5FSnRER0VpeE13M2VncFNwU1VPaVpqWGlhZ1BpelB1Q0RXNkxzT0NhNU1CMHdROTNsakZCNGo5WWEwRVNadVBia1NjQXpKczRyZDF6QS04X2pCV1QzQTF5aG1Bbzk2eG9XOS02b3g1LWd2ODhpeg?oc=5",
+   "time": "2026-10-11T09:19:41+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Haze: Malaysia, Indonesia discussing joint solutions",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05d2ZGWjE1MGRUX25xRnZQU3l4S1VzV2hhSm44eGQtZkFQTF9uREpiS2FRNzRvZzFfVkw4M2J6bUVGaFpCaGtDNHhzeTFMaHhI?oc=5",
+   "time": "2026-10-11T09:06:46+08:00",
+   "summary": ""
   },
   {
    "source": "Malay Mail",
@@ -405,13 +457,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Air quality remains unhealthy across Singapore amid haze",
-   "url": "https://www.channelnewsasia.com/singapore/haze-persists-singapore-air-quality-6449771",
-   "time": "2026-10-11T07:12:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Straits Times",
    "title": "Haze in Singapore: Air quality across the island improves slightly but remains in unhealthy range",
    "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-across-the-island-improves-slightly-but-remains-in-unhealthy-range",
@@ -426,45 +471,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Animation shows air quality across Southeast Asia amid haze caused by Indonesia fires",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUw4czQ3em4wN0x0NmFLSUliQ09NdllMWjVFVkRCSWg1QmVKRkhDQThVb0plUXVpd0pfMnlQTmlfeEdfUFZnWm1LcUthcGFRa0JHbVhaSnVMeW5FSnRER0VpeE13M2VncFNwU1VPaVpqWGlhZ1BpelB1Q0RXNkxzT0NhNU1CMHdROTNsakZCNGo5WWEwRVNadVBia1NjQXpKczRyZDF6QS04X2pCV1QzQTF5aG1Bbzk2eG9XOS02b3g1LWd2ODhpeg?oc=5",
-   "time": "2026-10-10T23:53:40+08:00",
-   "summary": ""
-  },
-  {
    "source": "The New York Times",
    "title": "Unhealthy haze from wildfires poses no risk to Singapore GP, says F1",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3AzQmhwelgyM2x5V2lkS01YVjl5U3ZWV2p2eFRPUURSbnNkZHNaMGlTNGZlelY2cXVFdVhJSUNuU1NBUHZGbXQ4RXRxSWhTQXZycGtuelhXUmFUb0I3REI5ejVlb1Y4cnozbEpZRUtXZjlMOHZuYmxjcjJrX3FUbTlRWHltUnc3VHpJ?oc=5",
    "time": "2026-10-10T23:11:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Malaysia",
-   "title": "Johor extends closure of schools, educational institutions due to haze until Oct 16",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KZk5mVE5aSzJNYVBJN3JqV1VRaDk0WDlDYWZxT2RxOS1HYTF5R2RjNm9wWDQyZnB4RHZXS0FlUllSN29VZ1BzV1Vadk5peEhw?oc=5",
-   "time": "2026-10-10T22:33:46+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Free Malaysia Today",
-   "title": "State education chiefs told to decide on school haze closures",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc1pMQzBrQnFUQ3NrbV9YVDhCQlltTDNJcTFVY1BSRTdNOGZxNWdKMUQ2bER0LU1wWEkzWEtrQ3B6WjJQRnF0VTBwN0gzdWJjQ3B4MEJFaVhEblNzcXdFUXBsZjRKVElVbmFWTW82UmRGcnhFOF90Qm1rMWJIYVUxak9qY3hleUJlQkwyU1RiVlVIWXIxeFJ1QkMwdFR6WnlzX1F4TzZJUUJnQVJaZl90Z19UajRLdkNQQnMzbDdrVQ?oc=5",
-   "time": "2026-10-10T22:28:20+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Indonesia welcomes Singapore, and Malaysia offers to help tackle haze",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd2pseHZ6dHl0THRLWXY0bV9uWnpoUmdWZUR2ZlVfNThoeDVSNXRBMi1abzQwS2JyX2lQLXRPbFFMTnladm1qcmNuemdIVmtFVGFvRWVlbzNIekhNVmZqa0VSb3J5Sll5WU9KVEZOemIwSHJ5am51Y1VObWpFRG9rYUhacWFmRzdReFdKeUJPWnpNczF0ZjRiOXM0djJFTFZNcG8tZV9TRkZ0cmFUd2JabUdoZ3ZLNWRoTmV6SElMZmpPWWxwZ2JPTWtHOA?oc=5",
-   "time": "2026-10-10T22:02:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze: All schools in Johor to remain closed for another five days from Oct 12-16",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd2NHNG16RmdpUmxvY21PN0dtY0JDNXZ6T3hhMlJEalR2YkVvRjhqOXNhMHBYTEZoY1VXUDEyYzdUVHhMTVJlTWd6ak1lSFYzczVGVzhKSWVFQXdFWFl1bzNueGxiU3hwSEZYNV90cm10eG01b2gtQkl0SGwwV3FqOER4MFVETmZCSktQTGswWm03bVVSQ2tCME1iQmQtejVyUGJDV0VjS2ppTFdBZ050MlNrc3VYXy1uZ0ptTUZueUZtWkdYaWpqZg?oc=5",
-   "time": "2026-10-10T21:29:00+08:00",
    "summary": ""
   }
  ]
