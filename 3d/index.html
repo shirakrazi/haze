@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Haze Watch 3D</title>
+<meta name="description" content="3D view of the Southeast Asia haze: live air quality readings and fire counts as columns on a globe, over NASA satellite imagery.">
+<meta property="og:title" content="Haze Watch - 3D VIEW">
+<meta property="og:description" content="Live haze readings and fires across Southeast Asia, on a 3D globe.">
+<meta property="og:image" content="https://haze.watch/preview-2.jpg">
+<meta property="og:url" content="https://haze.watch/3d/">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/cesium@1.120.0/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
+<style>
+:root{--bg:#0d1114;--card:rgba(17,22,26,.86);--line:rgba(255,255,255,.14);--fg:#eef1f2;--muted:#a3adb3;--accent:#5cc4c9;--fire:#ff6a2b;
+ --lv0:#62b37e;--lv1:#e0b520;--lv2:#f08a35;--lv3:#e85050;--lv4:#c06ab4;--display:'Barlow Condensed',system-ui,sans-serif;--body:'IBM Plex Sans',system-ui,sans-serif}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);font-size:14px;overflow:hidden}
+#globe{position:fixed;inset:0}
+.cesium-viewer-bottom{bottom:4px!important}
+.bar{position:fixed;top:0;left:0;right:0;z-index:3;display:flex;align-items:center;gap:12px;padding:calc(8px + env(safe-area-inset-top,0px)) 12px 8px;background:linear-gradient(rgba(13,17,20,.92),rgba(13,17,20,0));pointer-events:none}
+.bar>*{pointer-events:auto}
+.bar h1{font-family:var(--display);font-weight:700;font-size:22px;letter-spacing:.06em;text-transform:uppercase;margin:0;white-space:nowrap}
+.bar h1 span{color:var(--fire)}
+.bar a{color:var(--fg);text-decoration:none;border:1px solid var(--line);background:var(--card);padding:6px 10px;border-radius:3px;font-size:13px;white-space:nowrap}
+.bar p{margin:0 0 0 auto;color:var(--muted);font-size:12px;text-align:right}
+button{font:inherit;color:var(--fg);background:var(--card);border:1px solid var(--line);border-radius:3px;padding:6px 10px;cursor:pointer}
+button:hover{border-color:var(--accent)}
+button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.panel{position:fixed;z-index:3;background:var(--card);border:1px solid var(--line);border-radius:4px;padding:12px;backdrop-filter:blur(6px)}
+.panel h2{font-family:var(--display);font-weight:600;font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:0 0 6px}
+#ctl{left:12px;top:56px;width:236px;display:flex;flex-direction:column;gap:10px;max-height:calc(100% - 120px);overflow:auto}
+#ctl label{display:flex;align-items:center;gap:8px;padding:3px 0}
+#ctl input[type=checkbox]{accent-color:var(--accent);width:16px;height:16px;margin:0}
+.day{display:grid;grid-template-columns:auto 1fr auto;gap:6px;align-items:center}
+.day input{width:100%;accent-color:var(--accent)}
+.day button{padding:2px 9px}
+#day-lbl{font-weight:600}
+.fly{display:flex;flex-wrap:wrap;gap:6px}
+.fly button{font-size:13px;padding:5px 8px}
+.lg{display:grid;grid-template-columns:auto 1fr;gap:4px 8px;font-size:12.5px;color:var(--muted);align-items:center}
+.sw{width:11px;height:11px;border-radius:50%;display:inline-block}
+.sw.f{border-radius:0;background:var(--fire);transform:rotate(45deg) scale(.85)}
+#info{right:12px;top:56px;width:270px}
+#info[hidden]{display:none}
+#info .k{font-family:var(--display);font-weight:600;font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+#info h3{font-family:var(--display);font-weight:700;font-size:24px;line-height:1.05;margin:2px 0 4px}
+#info .big{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+#info .big b{font-family:var(--display);font-weight:700;font-size:46px;line-height:1;font-variant-numeric:tabular-nums}
+#info .big i{font-style:normal;color:var(--muted);font-size:13px}
+#info .pill{display:inline-flex;align-items:center;gap:6px;font-weight:600;margin:4px 0}
+#info p{margin:4px 0 0;color:var(--muted);font-size:12.5px}
+#info .x{position:absolute;top:6px;right:6px;border:0;background:none;font-size:18px;padding:2px 8px;color:var(--muted)}
+#msg{position:fixed;inset:0;z-index:5;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;text-align:center;padding:24px;background:var(--bg)}
+#msg[hidden]{display:none}
+#msg a{color:var(--accent)}
+#tog{display:none}
+@media (max-width:700px){
+ .bar p{display:none}
+ #tog{display:inline-block;margin-left:auto}
+ #ctl{top:auto;bottom:calc(30px + env(safe-area-inset-bottom,0px));left:8px;right:8px;width:auto;max-height:46%}
+ #ctl.shut{display:none}
+ #info{left:8px;right:8px;width:auto;top:52px}
+}
+</style>
+</head>
+<body>
+<div id="globe" role="application" aria-label="3D globe of haze readings and fires. Drag to rotate, pinch or scroll to zoom, two-finger drag or right-drag to tilt."></div>
+
+<div class="bar">
+  <a href="../" aria-label="Back to the haze map">&larr; Map</a>
+  <h1>Haze Watch <span>3D</span></h1>
+  <p id="asof">Loading readings…</p>
+  <button id="tog" aria-expanded="true" aria-controls="ctl">Layers</button>
+</div>
+
+<div class="panel" id="ctl">
+  <div>
+    <h2>Columns</h2>
+    <label><input type="checkbox" id="l-aq" checked> Air quality readings</label>
+    <label><input type="checkbox" id="l-fire" checked> Fires by province</label>
+  </div>
+  <div>
+    <h2>Satellite</h2>
+    <label><input type="checkbox" id="l-sfire" checked> Fires detected</label>
+    <label><input type="checkbox" id="l-saer" checked> Smoke seen from space</label>
+    <label><input type="checkbox" id="l-sphoto"> Photo of the day</label>
+    <div class="day" role="group" aria-label="Satellite date">
+      <button id="d-prev" aria-label="Previous day">&lsaquo;</button>
+      <input type="range" id="day" min="0" max="13" step="1" value="12" aria-label="Day, from 13 days ago to today">
+      <button id="d-next" aria-label="Next day">&rsaquo;</button>
+    </div>
+    <div>Satellite view for <span id="day-lbl"></span></div>
+  </div>
+  <div>
+    <h2>Fly to</h2>
+    <div class="fly">
+      <button data-v="region">Whole region</button><button data-v="sg">Singapore</button><button data-v="sumsel">South Sumatra</button><button data-v="kal">Kalimantan</button><button data-v="pen">Malay Peninsula</button>
+    </div>
+  </div>
+  <div>
+    <h2>Reading the view</h2>
+    <div class="lg">
+      <i class="sw" style="background:var(--lv0)"></i><span>Good, up to 50</span>
+      <i class="sw" style="background:var(--lv1)"></i><span>Moderate, 51&ndash;100</span>
+      <i class="sw" style="background:var(--lv2)"></i><span>Unhealthy, 101&ndash;200</span>
+      <i class="sw" style="background:var(--lv3)"></i><span>Very unhealthy, 201&ndash;300</span>
+      <i class="sw" style="background:var(--lv4)"></i><span>Hazardous, above 300</span>
+      <i class="sw f"></i><span>Fires detected in a province in 24 hours</span>
+    </div>
+    <p style="margin:8px 0 0;color:var(--muted);font-size:12px">Taller columns mean a higher reading or more fires. Heights are exaggerated so they can be seen from space, and stop growing above 1,000. Singapore PSI, Malaysia API and Indonesia ISPU are different indices, so compare colours, not numbers. Imagery: NASA GIBS and FIRMS.</p>
+  </div>
+</div>
+
+<div class="panel" id="info" aria-live="polite" hidden></div>
+
+<div id="msg"><div id="msg-t">Loading the 3D view…</div><a href="../">Back to the haze map</a></div>
+
+<script>window.CESIUM_BASE_URL='https://cdn.jsdelivr.net/npm/cesium@1.120.0/Build/Cesium/';</script>
+<script src="https://cdn.jsdelivr.net/npm/cesium@1.120.0/Build/Cesium/Cesium.js"></script>
+<script>
+(function(){
+const $=id=>document.getElementById(id);
+const fail=t=>{$('msg').hidden=false;$('msg-t').textContent=t};
+if(!window.Cesium){fail('The 3D view could not load on this device or connection.');return}
+const C=Cesium, LV=['Good','Moderate','Unhealthy','Very unhealthy','Hazardous'], COL=['#62b37e','#e0b520','#f08a35','#e85050','#c06ab4'];
+const band=v=>v<=50?0:v<=100?1:v<=200?2:v<=300?3:4;
+const esc=s=>String(s).replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
+const tfmt=(iso,tz,lab)=>new Intl.DateTimeFormat('en-SG',{timeZone:tz,day:'numeric',month:'short',hour:'numeric',minute:'2-digit'}).format(new Date(iso))+' '+lab;
+const WMS='https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi';
+let viewer;
+try{
+  viewer=new C.Viewer('globe',{baseLayer:false,baseLayerPicker:false,geocoder:false,timeline:false,animation:false,homeButton:false,sceneModePicker:false,
+    navigationHelpButton:false,fullscreenButton:false,infoBox:false,selectionIndicator:true,requestRenderMode:true,maximumRenderTimeChange:Infinity});
+}catch(e){fail('This device or browser cannot show the 3D view. The map has the same readings.');return}
+const scene=viewer.scene;
+scene.globe.baseColor=C.Color.fromCssColorString('#1b2a33');
+scene.screenSpaceCameraController.minimumZoomDistance=25000;
+scene.screenSpaceCameraController.maximumZoomDistance=14e6;
+scene.globe.depthTestAgainstTerrain=false;
+if(scene.skyAtmosphere)scene.skyAtmosphere.show=true;
+viewer.cesiumWidget.creditContainer.style.fontSize='10px';
+
+// imagery: NASA GIBS through plain WMS, which matches Cesium's geographic tiling
+const wms=(layer,fmt,time,max)=>new C.WebMapServiceImageryProvider({url:WMS,layers:layer,tilingScheme:new C.GeographicTilingScheme(),tileWidth:512,tileHeight:512,maximumLevel:max,
+  parameters:Object.assign({format:fmt,transparent:fmt==='image/png',styles:''},time?{time}:{}),credit:'NASA GIBS'});
+const L=viewer.imageryLayers;
+L.addImageryProvider(wms('BlueMarble_ShadedRelief_Bathymetry','image/jpeg',null,7));
+const SAT={photo:{cb:'l-sphoto',layer:'VIIRS_NOAA20_CorrectedReflectance_TrueColor',fmt:'image/jpeg',max:8,alpha:1},
+  aer:{cb:'l-saer',layer:'OMPS_Aerosol_Index',fmt:'image/png',max:5,alpha:.6},
+  fire:{cb:'l-sfire',layer:'VIIRS_NOAA20_Thermal_Anomalies_375m_All',fmt:'image/png',max:8,alpha:1}};
+const dayOf=v=>new Date(Date.now()-(13-v)*864e5).toISOString().slice(0,10);
+function sat(){const v=+$('day').value,d=dayOf(v);
+  $('day-lbl').textContent=v===13?'today':v===12?'yesterday':new Intl.DateTimeFormat('en-SG',{weekday:'short',day:'numeric',month:'short',timeZone:'UTC'}).format(new Date(d+'T00:00:00Z'));
+  for(const k of ['photo','aer','fire']){const s=SAT[k];if(s.l){L.remove(s.l,true);s.l=null}
+    if($(s.cb).checked){s.l=L.addImageryProvider(wms(s.layer,s.fmt,d,s.max));s.l.alpha=s.alpha}}
+  $('d-prev').disabled=v<=0;$('d-next').disabled=v>=13;scene.requestRender()}
+let tm=0;$('day').addEventListener('input',()=>{clearTimeout(tm);tm=setTimeout(sat,350)});
+$('d-prev').onclick=()=>{$('day').value=Math.max(0,+$('day').value-1);sat()};
+$('d-next').onclick=()=>{$('day').value=Math.min(13,+$('day').value+1);sat()};
+for(const k in SAT)$(SAT[k].cb).addEventListener('change',sat);
+sat();
+
+// columns
+const aqDS=new C.CustomDataSource('aq'),fireDS=new C.CustomDataSource('fire');
+viewer.dataSources.add(aqDS);viewer.dataSources.add(fireDS);
+const SCALE=400,CAP=1000;
+function column(ds,o){const h=Math.max(4000,Math.min(o.h,CAP)*SCALE),col=C.Color.fromCssColorString(o.col);
+  const e=ds.entities.add({id:o.id,position:C.Cartesian3.fromDegrees(o.lon,o.lat,h/2),
+    cylinder:{length:h,topRadius:o.r,bottomRadius:o.r,slices:o.slices||16,material:col.withAlpha(o.alpha||.92),outline:!!o.outline,outlineColor:C.Color.BLACK.withAlpha(.5)},
+    label:o.label?{text:o.label,font:'600 13px sans-serif',fillColor:C.Color.WHITE,outlineColor:C.Color.BLACK,outlineWidth:3,style:C.LabelStyle.FILL_AND_OUTLINE,
+      verticalOrigin:C.VerticalOrigin.BOTTOM,pixelOffset:new C.Cartesian2(0,-6),eyeOffset:new C.Cartesian3(0,h/2+2000,0),
+      distanceDisplayCondition:new C.DistanceDisplayCondition(0,o.far||2.5e6),disableDepthTestDistance:Number.POSITIVE_INFINITY}:undefined});
+  e.haze=o;return e}
+const SGPOS={west:[103.70,1.35],east:[103.95,1.35],central:[103.82,1.36],south:[103.82,1.275],north:[103.82,1.44]};
+let DATA=null,REG=null;
+function build(){aqDS.entities.removeAll();fireDS.entities.removeAll();
+  if(DATA&&DATA.psi)for(const r in SGPOS){const v=DATA.psi[r];if(v==null)continue;
+    column(aqDS,{id:'sg-'+r,kind:'aq',n:'Singapore, '+r[0].toUpperCase()+r.slice(1),where:'Singapore',lon:SGPOS[r][0],lat:SGPOS[r][1],v,h:v,idx:'24-hour PSI',lv:band(v),col:COL[band(v)],r:2600,
+      when:tfmt(DATA.updated,'Asia/Singapore','SGT'),src:'NEA via data.gov.sg',extra:DATA.pm25?'1-hour PM2.5 is '+DATA.pm25[r]+' µg/m³.':'',label:r==='central'?'Singapore '+Math.max(...Object.values(DATA.psi)):null,far:6e6})}
+  if(REG){
+    const top=new Set();for(const key of ['my','id'])[...(REG[key]||[])].sort((a,b)=>b.v-a.v).slice(0,key==='my'?3:6).forEach(r=>top.add(key+r.id));
+    for(const r of REG.my||[])column(aqDS,{id:'my-'+r.id,kind:'aq',n:r.n.split(',')[0],where:r.s+', Malaysia',lon:r.lon,lat:r.lat,v:r.v,h:r.v,idx:'API',lv:band(r.v),col:COL[band(r.v)],r:6500,
+      when:tfmt(r.t,'Asia/Kuala_Lumpur','MYT'),src:'Department of Environment Malaysia',label:top.has('my'+r.id)?r.n.split(',')[0]+' '+r.v:null});
+    for(const r of REG.id||[])column(aqDS,{id:'id-'+r.id,kind:'aq',n:r.n.replace(/^Kabupaten /,''),where:r.s+', Indonesia',lon:r.lon,lat:r.lat,v:r.v,h:r.v,idx:'ISPU · '+r.p,lv:band(r.v),col:COL[band(r.v)],r:6500,
+      when:tfmt(r.t,'Asia/Jakarta','WIB'),src:'Ministry of Environment Indonesia',label:top.has('id'+r.id)?r.n.replace(/^Kabupaten /,'')+' '+r.v.toLocaleString('en-SG'):null});
+    const f=REG.fires;if(f&&f.prov)f.prov.filter(p=>p.n24>0).forEach((p,i)=>column(fireDS,{id:'f-'+p.id,kind:'fire',n:p.n,lon:p.lon,lat:p.lat,v:p.n24,h:p.n24/4,col:'#ff6a2b',alpha:.8,r:15000,slices:4,outline:true,
+      days:p.d,dates:f.days,when:tfmt(REG.firesUpdated||REG.updated,'Asia/Singapore','SGT'),label:i<4?p.n+' · '+p.n24.toLocaleString('en-SG')+' fires':null,far:5e6}));
+    $('asof').textContent='Readings and fire counts checked '+tfmt(REG.updated,'Asia/Singapore','SGT')+'. Refreshes every hour.';
+  }else $('asof').textContent='Regional readings could not be loaded.';
+  aqDS.show=$('l-aq').checked;fireDS.show=$('l-fire').checked;scene.requestRender()}
+$('l-aq').onchange=$('l-fire').onchange=()=>{aqDS.show=$('l-aq').checked;fireDS.show=$('l-fire').checked;scene.requestRender()};
+async function pull(){const get=async u=>{try{const r=await fetch(u,{cache:'no-store'});return r.ok?await r.json():null}catch(_){return null}};
+  const [d,r]=await Promise.all([get('../data.json'),get('../regional.json')]);
+  if((d&&(!DATA||d.updated!==DATA.updated))||(r&&(!REG||r.updated!==REG.updated))){DATA=d||DATA;REG=r||REG;const keep=viewer.selectedEntity&&viewer.selectedEntity.id;build();
+    if(keep){const e=aqDS.entities.getById(keep)||fireDS.entities.getById(keep);viewer.selectedEntity=e||undefined}}
+  else if(!DATA&&!REG)build()}
+
+// details
+function info(e){const o=e&&e.haze,p=$('info');if(!o){p.hidden=true;return}
+  let h='<button class="x" id="info-x" aria-label="Close">&times;</button>';
+  if(o.kind==='fire')h+=`<span class="k">Fire source</span><h3>${esc(o.n)}</h3><div class="big"><b>${o.v.toLocaleString('en-SG')}</b><i>fires detected in the last 24 hours</i></div>
+    <p>Past week: ${o.days.map((n,i)=>(+o.dates[i].slice(8))+'/'+(+o.dates[i].slice(5,7))+' <b style="color:var(--fg)">'+n.toLocaleString('en-SG')+'</b>').join(' · ')}</p>
+    <p>NASA FIRMS, VIIRS on NOAA-20 · checked ${esc(o.when)}. One large fire gives many detections, and cloud or thick smoke can hide fires.</p>`;
+  else h+=`<span class="k">Air quality · ${esc(o.where)}</span><h3>${esc(o.n)}</h3><div class="big"><b>${o.v.toLocaleString('en-SG')}</b><i>${esc(o.idx)}</i></div>
+    <span class="pill"><i class="sw" style="background:${COL[o.lv]}"></i>${LV[o.lv]}</span><p>${esc(o.when)} · ${esc(o.src)}</p>${o.extra?'<p>'+esc(o.extra)+'</p>':''}`;
+  p.innerHTML=h;p.hidden=false;$('info-x').onclick=()=>{viewer.selectedEntity=undefined}}
+viewer.selectedEntityChanged.addEventListener(info);
+viewer.screenSpaceEventHandler.removeInputAction(C.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
+
+// camera: look north from the south so the columns stand up against the horizon
+// each view: target lon, lat, distance from target in metres, downward pitch in degrees
+const VIEWS={region:[107,-.5,3.4e6,48],sg:[103.82,1.35,38e4,42],sumsel:[104.8,-3,85e4,42],kal:[113.6,-1.5,125e4,44],pen:[102.2,3.5,125e4,44]};
+const dest=v=>{const tall=innerHeight>innerWidth*1.15,rng=v[2]*(tall?1.9:1),p=C.Math.toRadians(tall?Math.max(v[3],62):v[3]);
+  return {destination:C.Cartesian3.fromDegrees(v[0],v[1]-rng*Math.cos(p)/111320,rng*Math.sin(p)),orientation:{heading:0,pitch:-p,roll:0}}};
+viewer.camera.setView({destination:C.Cartesian3.fromDegrees(106,-4,9e6)});
+document.querySelectorAll('[data-v]').forEach(b=>b.onclick=()=>{viewer.camera.flyTo(Object.assign(dest(VIEWS[b.dataset.v]),{duration:1.6}));if(innerWidth<=700)shut(true)});
+function shut(s){$('ctl').classList.toggle('shut',s);$('tog').setAttribute('aria-expanded',!s)}
+$('tog').onclick=()=>shut(!$('ctl').classList.contains('shut'));
+if(innerWidth<=700)shut(true);
+
+pull().then(()=>{$('msg').hidden=true;
+  const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if(reduce)viewer.camera.setView(dest(VIEWS.region));else viewer.camera.flyTo(Object.assign(dest(VIEWS.region),{duration:2.4}));
+  scene.requestRender()});
+setInterval(pull,6e5);
+})();
+</script>
+<script data-goatcounter="https://hazewatch.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

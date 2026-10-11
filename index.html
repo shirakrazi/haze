@@ -140,6 +140,9 @@ aside{display:flex;flex-direction:column;gap:16px;min-width:0}
 #trend .last{fill:var(--fg);font-weight:600;font-size:13px}
 .nav{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);display:flex;gap:0;border-bottom:1px solid var(--line);margin-block:-4px 0}
 .nav button{border:0;border-bottom:3px solid transparent;border-radius:0;background:none;padding:10px 14px 9px;font-family:var(--display);font-weight:600;font-size:17px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.nav a{padding:10px 14px 9px;border-bottom:3px solid transparent;font-family:var(--display);font-weight:600;font-size:17px;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);text-decoration:none;white-space:nowrap;flex:none}
+.nav a i{font-style:normal;margin-right:7px;opacity:.6}
+@media (max-width:560px){.nav a{font-size:15px;padding:10px 9px 9px;letter-spacing:.03em}.nav a i{display:none}}
 .nav button[aria-selected="true"]{color:var(--fg);border-bottom-color:var(--fg)}
 .nav button i{font-style:normal;margin-right:7px;opacity:.6}
 .nav{overflow-x:auto;scrollbar-width:none}.nav button{white-space:nowrap;flex:none}
@@ -233,6 +236,7 @@ footer p{margin:0}
     <button role="tab" id="tab-care" aria-controls="pg-care" aria-selected="false"><i>2</i>What to do</button>
     <button role="tab" id="tab-act" aria-controls="pg-act" aria-selected="false"><i>3</i>What to buy</button>
     <button role="tab" id="tab-news" aria-controls="pg-news" aria-selected="false"><i>4</i>News</button>
+    <a id="tab-3d" href="3d/"><i>5</i>3D view</a>
   </nav>
 
   <div class="page" id="pg-situation" role="tabpanel" aria-labelledby="tab-situation">
