@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-11T07:00:00+08:00",
+ "updated": "2026-10-11T09:00:00+08:00",
  "psi": {
-  "west": 153,
-  "east": 140,
-  "central": 153,
-  "south": 116,
-  "north": 119
+  "west": 152,
+  "east": 138,
+  "central": 151,
+  "south": 115,
+  "north": 118
  },
  "pm25": {
-  "west": 108,
-  "east": 103,
-  "central": 101,
-  "south": 64,
-  "north": 56
+  "west": 88,
+  "east": 93,
+  "central": 87,
+  "south": 71,
+  "north": 69
  },
  "hist": [
   {
@@ -354,9 +354,19 @@
     "south": 116,
     "north": 119
    }
+  },
+  {
+   "t": "2026-10-11T09:00:00+08:00",
+   "psi": {
+    "west": 152,
+    "east": 138,
+    "central": 151,
+    "south": 115,
+    "north": 118
+   }
   }
  ],
- "newsUpdated": "2026-10-11T07:51:22+08:00",
+ "newsUpdated": "2026-10-11T09:07:28+08:00",
  "news": [
   {
    "source": "CNA",
@@ -365,6 +375,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Johor extends school closures until Oct 16 as haze worsens",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMExhaDQzM1JoVjIxUFhrcUZVemVWdXdxQlFSYzBRdGN6bl85WTNtNlhtSGpkOVBmZnVMWFR6dDRkZnBLZFhnZ2VONVpfRHRpdEtjMUU0aWI5aXRvajdNOHpVMHBHekhBLUg1Z1REbnppcmJiQlVRR1JBUGh2Tld5MXVYbV9nbXdybEZiSTR1cU41YmpvdEpiS19iNDFiZXk2N2xycnVBSFBUODA1QUtMZE5DaWJIWlHSAbwBQVVfeXFMUGVTYzM0aThpYTNSSDFOSGxRaWZobklrZ01SREF1REE4bVlPTWlZalFFa1VZam0zNjRQMV9nN3c4UnhvQXBKeWVTWC1WcWVRaW1Mb1F5ZU1wd2RVSTZMU0NDeWx1THNfZENFMlltV2hrUzRFN0FzczBsbGRNaW9nYmJzMThVRWpfUDhBVzNLYzZFSEZIV040eU52dndrR2NOYmtyQ1d2WVN1NVRzbmNiXy1LLUwzUERMTjJva2I?oc=5",
+   "time": "2026-10-11T08:49:31+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Vibes",
+   "title": "Selangor records moderate air quality as Johor extends school closures as haze persists",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbVpRLXRDWUhHYjRhOGNmSWRtcE9HQ2p6TGltNS1henNaLUhwbHRCOFpBOVYtdmZuSWVXQWJBaGt1M1RXMm1LeW1peEJaOW0zT2NIeEphWmF0QmRjS0VQcjg0ZzlZS1lPU3lwYlhYdFRSXzBUa3pyeEdCS09lYTVULVdmd3RPQVU1cTAtWUVOZjNUakpNSXRxV3F0Y0pob3lVM0JXNnZYRzZ5VnpTWWg3YXp1djk1ak1wdzFGTUNVczBuN2dwUTFHLW5CSnh0Zw?oc=5",
+   "time": "2026-10-11T08:26:00+08:00",
+   "summary": ""
   },
   {
    "source": "NST Online",
@@ -441,20 +465,6 @@
    "title": "Haze: All schools in Johor to remain closed for another five days from Oct 12-16",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd2NHNG16RmdpUmxvY21PN0dtY0JDNXZ6T3hhMlJEalR2YkVvRjhqOXNhMHBYTEZoY1VXUDEyYzdUVHhMTVJlTWd6ak1lSFYzczVGVzhKSWVFQXdFWFl1bzNueGxiU3hwSEZYNV90cm10eG01b2gtQkl0SGwwV3FqOER4MFVETmZCSktQTGswWm03bVVSQ2tCME1iQmQtejVyUGJDV0VjS2ppTFdBZ050MlNrc3VYXy1uZ0ptTUZueUZtWkdYaWpqZg?oc=5",
    "time": "2026-10-10T21:29:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Manila Standard",
-   "title": "Malaysia closes schools in KL due to haze",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDlPWTNzY3FscXA1dlplNWo1SnZROG9UNmkwN0Z5UUxjbUpra0MxaHczbVJLM29qSVRCU050LWhkTWZ3RV9HYlZSWEJZT1hELXhYMkJ0QkVWcm1wV3VPOGhBX3lYYXYxdktrdEM2WUFDckVXdWV0RTVxbkRfYnJnamwwc2hwNl8wME4zYUpWWVVNX2k2bC0tMUJR?oc=5",
-   "time": "2026-10-10T21:11:05+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Jakarta Globe",
-   "title": "Indonesia Seeks Malaysia, Singapore Cooperation to Fight Transboundary Haze",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmlCd1VUelR6aUhCcmlZNjhmbWlnaXdtZ3pYdlFySWtTZjZ5YzNKWnYtMmRXS29OVjJfT3JLeUdUZlRfeVZDblRJUG1mWGloYVlhNlotNHRBZHhUN0dzVFlIazY0eTdoZWhmNkZ5ODQzaEFPVTVIVGpoVEE3bjdmZzlWbDhYREFfcVZXRWxTLURXcmo1N3czX25pb0RvZkZHaHcyRVpR?oc=5",
-   "time": "2026-10-10T20:10:00+08:00",
    "summary": ""
   }
  ]
