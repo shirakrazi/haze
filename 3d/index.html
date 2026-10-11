@@ -148,7 +148,7 @@ const wms=(layer,fmt,time,max)=>new C.WebMapServiceImageryProvider({url:WMS,laye
 const L=viewer.imageryLayers;
 L.addImageryProvider(wms('BlueMarble_ShadedRelief_Bathymetry','image/jpeg',null,7));
 const SAT={photo:{cb:'l-sphoto',layer:'VIIRS_NOAA20_CorrectedReflectance_TrueColor',fmt:'image/jpeg',max:8,alpha:1},
-  aer:{cb:'l-saer',layer:'OMPS_Aerosol_Index',fmt:'image/png',max:5,alpha:.6},
+  aer:{cb:'l-saer',layer:'OMPS_Aerosol_Index',fmt:'image/png',max:5,alpha:.45},
   fire:{cb:'l-sfire',layer:'VIIRS_NOAA20_Thermal_Anomalies_375m_All',fmt:'image/png',max:8,alpha:1}};
 const dayOf=v=>new Date(Date.now()-(13-v)*864e5).toISOString().slice(0,10);
 function sat(){const v=+$('day').value,d=dayOf(v);
