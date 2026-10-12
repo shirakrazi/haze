@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-12T19:00:00+08:00",
+ "updated": "2026-10-12T20:00:00+08:00",
  "psi": {
-  "west": 155,
-  "east": 139,
+  "west": 157,
+  "east": 140,
   "central": 155,
   "south": 122,
-  "north": 118
+  "north": 120
  },
  "pm25": {
-  "west": 135,
-  "east": 93,
-  "central": 115,
-  "south": 94,
-  "north": 95
+  "west": 125,
+  "east": 100,
+  "central": 112,
+  "south": 78,
+  "north": 90
  },
  "hist": [
-  {
-   "t": "2026-10-10T03:00:00+08:00",
-   "psi": {
-    "west": 169,
-    "east": 158,
-    "central": 179,
-    "south": 148,
-    "north": 129
-   }
-  },
   {
    "t": "2026-10-10T04:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 122,
     "north": 118
    }
+  },
+  {
+   "t": "2026-10-12T20:00:00+08:00",
+   "psi": {
+    "west": 157,
+    "east": 140,
+    "central": 155,
+    "south": 122,
+    "north": 120
+   }
   }
  ],
- "newsUpdated": "2026-10-12T19:08:55+08:00",
+ "newsUpdated": "2026-10-12T20:16:47+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "AsiaOne",
+   "title": "Haze update Oct 12: Singapore's 24-hour PSI forecast to stay in unhealthy range",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM2FST2tmYkNIV2FURFZ1T3VBb1B2Ty1UeDhBZXNxSkNpRXVtQ1pOVkFxaGFydG5sSTVWNjNzb3VmUkhHaHh5OWc4bzh4WG9RRUdvZ2o1SUJTVFZGNHRMZHZIei1XYkt6VGwtQUlZcGxIaTNLa0tvend2eGdpS1FlMHVMRFFJNTlCRHc?oc=5",
+   "time": "2026-10-12T20:08:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "CNA Explains: Why PSI and AQI readings differ - and which one should you follow during haze season?",
+   "url": "https://www.channelnewsasia.com/singapore/haze-psi-aqi-air-quality-pm25-6452896",
+   "time": "2026-10-12T19:55:42+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NEA.gov.sg",
+   "title": "Haze Situation Update (12 October 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaDNsR24xTmZqLTlmODRJd0kzaXRzWVg5RzNHemppeHhSckhQWXJLaVlWN2RWUDJ0SUtnLUtoM09aUzd6QzRxWnVvVEY3a0w4bDBmNXNiVWcxWWwycFRJbm56R1ZGZVQydVFtUFgxREFKMFJMcFRZc3RPSHVybkFZT2U4dGdMUmQ1bWVtSmFGVkZiZw?oc=5",
+   "time": "2026-10-12T19:30:33+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Kuwait Times",
+   "title": "Singapore rolls out haze subsidies as Malaysia extends school closures",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbnVHOWttNDdzbEJLMnJtS3RJbl84ZkN4cE1zclBCYnA5ZXhMaE1RM1ZPV0RpRTZGQ0p5d1RRZThaaUFrLVQ1cmV3ZDB0Wmg3QUZrSklwQmVzdFY2RzA1cWs1eEZZbTZqb2FVNU5PSkZESmpxVnBEamliNVdKZjh2b1NvaGNnbzgzNXRFb0xLNFFWYWtKajhtUkFaTXVmOTk1clFfZ3o0QU40TGdoZTlmNWpWYUxEQdIBugFBVV95cUxPYVNLemFmbmFaeHVNX3M3WlZCWHlLVXVSZXg4LU5hRk9pcUVQUVlZa3Y0VktmWlFSWkl1Qk10SEh5Nm1xOXNHTWRoTktFWXl5eUlwX2htcHo1UXM3OVFxNmhVdE1SRzZpUUhkMlA4MVFEeVc2TlFib1BidUV5czZUa0dZNjlxWDdUVEN1R18xclpKQjduOVlZNjhPbXVJVERpX1BiQk1BNXNIczhocHJhY1JTRWFna2Y4V3c?oc=5",
+   "time": "2026-10-12T19:06:50+08:00",
+   "summary": ""
   },
   {
    "source": "NST Online",
@@ -549,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "TheSmartLocal",
+   "title": "All You Need To Know About The Haze Subsidy Scheme, From Eligibility Criteria To Participating Clinics",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8td21kRE5DVGFiSlRhVTZKMndyRGFidF96enJBN2dzYXlmOGt5bElFQXpXT0VQM1lVNDA1Vjd4TGh4X0UtcXA4c21nWmVuY1BjMkJmTkJPZTdxSUxMWVZPc1BYc0pzd9IBZkFVX3lxTE8td21kRE5DVGFiSlRhVTZKMndyRGFidF96enJBN2dzYXlmOGt5bElFQXpXT0VQM1lVNDA1Vjd4TGh4X0UtcXA4c21nWmVuY1BjMkJmTkJPZTdxSUxMWVZPc1BYc0pzdw?oc=5",
+   "time": "2026-10-12T18:12:20+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Vibes",
    "title": "Govt to push ASEAN for stronger action on transboundary haze as schools shut across four states",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNXpMTEhOTXRHa2tuUDFMV213TXdwLTJvZ3hRU2k1WUlUc2kxcFVzRnVsWlVFV2lsTVJOVlpvdXF5X21vWmZJMXJJM0ZtU3JBY1FITjQ1ZEhvbnNhMHFtMnB6NzNxdjdPSGZDTmVSYWNwN0lfbFBsb25XY0IyYkFtbVlVSzVMQ0hCUnY1cHJubVhJNXZGQ2hnOTFyQzVCZkg3aUVneWtxZF9FZ1ZrX1RyWkdrLVdUQldPRzNMTnY5c0xnTGw2X19rN2pOa0pEVktxek9Sci1XTXM?oc=5",
@@ -556,45 +591,10 @@
    "summary": ""
   },
   {
-   "source": "Tempo.co English",
-   "title": "BMKG Dispels Haze Concerns as Fog Limits Visibility in Jayapura",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTVV5X05naTE3ckRmWUFRNDJZeE4xM2JVZm1NU2pOR0lVVEVVZm1hbVJoSE1jWEhydEt1VkwxSEZhZkI4SHFlOGtKZXdoTUtMcWVRMEhiNV9EOFByRExtc19lUEhHWklqVzV0U05YeXhBM1JNa0U3bFo4YmdrN2JaUVctQ1R4Tmp6SWVnbVhmTnJSYzVCaThkZnVyN3Y?oc=5",
-   "time": "2026-10-12T17:54:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Weekly flu activity highest since 2024; doctors say haze can worsen respiratory conditions",
-   "url": "https://www.channelnewsasia.com/singapore/weekly-flu-activity-highest-2024-doctors-say-haze-can-worsen-respiratory-conditions-6452511",
-   "time": "2026-10-12T17:51:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "NEA tracking haze hotspots and sources as earlier investigations under Transboundary Haze Pollution Act continue",
-   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-transboundary-haze-pollution-act-nea-6452196",
-   "time": "2026-10-12T17:37:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Aliran",
-   "title": "We are not angry enough! (Part 2): Is El Niño the real culprit behind Asean haze?",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDNWN1BtaGU5Nml0d1lSVUhoamdab183SDZubElEbmstbXJHLXZTVW9EUW9tMXYzRmZDZ0pRMUFoRnd3SVB5MzdLc2NIUEtTTEw5Rnl0N3NiczVEZHpUYUVvbUUwOHU4V1VKZmNvWHBvenBaLWxmZVE5Vy1Tam1RTG9SUFdUQnp1LW5vR3pheG5IcGNYcnB6YWdZZ3BLSlcwVE45UnVHcDRodw?oc=5",
-   "time": "2026-10-12T17:28:46+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "The Week in Pictures: Verstappen’s first F1 Singapore victory, skyline shrouded in haze",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzdDaGM0Zk5nTVhpcldNNEllbWk4Ty1UUk5qR0FUQjVGVWxPemtUUjJKSjdOUTZnRlQwXzdGcTZZblp1Q21lNm40QjRRM0J6eFVHRndMUC02QTRMNHFxRThuaC16anBxWDlWMGtKUy02RDRjbU5HWklWQ09JUEpvUjZrOFZRNkxab1ptdmxKekRCV2lYMW1uaWVsZlI2aDVGQXNmRjhWcW9RR3ZfV29WTVFjVUU0NzlPcVpISTMySnV0UQ?oc=5",
-   "time": "2026-10-12T17:16:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Haze persists across Singapore, PM2.5 reading 'high' in west region",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNThGaXhVMEVNS0xQbWphSnAteWVhVER3cENjeW02S2ZUclJYZ2QxYTRBUk9NUFNZdnE1WjZRQ2c3MFB3M3B0aUtxNDZFM3F1aEFNb0x5OW9GMW5WRnNvbW9oNkpuYWtvYVBUSld2NEIyU2xCVHFVMUxFSklsSXY1WTdjSjhkRlBCZDlCS1Z3?oc=5",
-   "time": "2026-10-12T17:14:21+08:00",
+   "source": "Stomp",
+   "title": "‘Enough is enough’: Stomper sick of haze affecting her health and life, writes open letter to Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVF80alY0aXlxU3lCa2lwRUtqS2hlYzJWREVDekVzN1FBM1pjOU0yOGFtTWQ0RkxaVWFibHBqOXdxNE1yUEtSSmc1X1R3ZlZNNm9VSG1LWk9mTi1Ga3JBcDZldk4wemNGRjc0ZXJRb3BKTHJKTXh3cGVxR19nSDZmTW9YbHc2dFFGMW05YVRzU3VvdlZkLXpmcU9sQjEtRExsQXd6UnNHcWRwTExrYlRISDZpY2JEZjVMdXFSRW9WZktuZGtBZXRNWlY5Q0JMc1hURHlLWkR4TzRzUUVVeUs3bkR4Q3pNXzRZNXBCU0wzR2hmQmxt?oc=5",
+   "time": "2026-10-12T18:04:22+08:00",
    "summary": ""
   }
  ]
