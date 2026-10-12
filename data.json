@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-12T09:00:00+08:00",
+ "updated": "2026-10-12T10:00:00+08:00",
  "psi": {
   "west": 148,
-  "east": 133,
-  "central": 146,
-  "south": 117,
-  "north": 104
+  "east": 132,
+  "central": 145,
+  "south": 115,
+  "north": 103
  },
  "pm25": {
-  "west": 106,
+  "west": 91,
   "east": 66,
-  "central": 80,
-  "south": 44,
-  "north": 53
+  "central": 82,
+  "south": 54,
+  "north": 52
  },
  "hist": [
-  {
-   "t": "2026-10-09T16:00:00+08:00",
-   "psi": {
-    "west": 183,
-    "east": 163,
-    "central": 191,
-    "south": 167,
-    "north": 132
-   }
-  },
   {
    "t": "2026-10-09T17:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 117,
     "north": 104
    }
+  },
+  {
+   "t": "2026-10-12T10:00:00+08:00",
+   "psi": {
+    "west": 148,
+    "east": 132,
+    "central": 145,
+    "south": 115,
+    "north": 103
+   }
   }
  ],
- "newsUpdated": "2026-10-12T09:07:18+08:00",
+ "newsUpdated": "2026-10-12T10:06:55+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,31 @@
    "pinned": true
   },
   {
+   "source": "CNA",
+   "title": "Air quality unhealthy across Singapore amid sustained haze",
+   "url": "https://www.channelnewsasia.com/singapore/haze-air-quality-unhealthy-psi-pm25-6451716",
+   "time": "2026-10-12T09:59:35+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne",
+   "title": "Haze watch: PSI across Singapore remains unhealthy, PM2.5 improves in northern and southern regions",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaW1tQi1RV0toWnZJYXp6c2RUeVdUbFJFaFd2MkdWNU5oLWFPeTlDSGh2QVVlYnJLXzFoeVUxdl9xazBDLV9pZVBCdjRIUXRRbGExd2lSeTlRMkl0dXNoQmFkUDJwaDVXSFVWeXhQbzdFdjZYYVFZTWxrdkhNX3BScldaX1g1TzBF?oc=5",
+   "time": "2026-10-12T09:48:18+08:00",
+   "summary": ""
+  },
+  {
    "source": "Malay Mail",
    "title": "Haze rebounds across 22 areas in Malaysia even as schools set to reopen",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajJrM1VTTk91UXE1SXhZNGhhU1hnZHBlczVTbVFJNHV3Y3VjZm84SnVCNG1RV3MwUGRMNE1rVWxrQW5scFJTdlN1YWZFVjVmSUFHLU80aV9zNVlueVZtemowbC1qLUt0LUhXT2R6RnlhektHM0FQc0lOVFZSVFc0Ukk4c0NVRXh2TVA0eFhBYlg2VmN2eU5ZakE5bnlldDJzLXF3ajBidzgwWEVFMk9DQXNzUkxUM0ZyWEE4bEZWdWQzWnlvdEF5ctIBzgFBVV95cUxQTmI1T3RrR2owMkM1YnFCTFFwbXN3cHEyUC15cnpYdC1yMUJ4amg3T1JzY2ExcUZ2QW1XWTRGT1ZhTXFVNkloYUZERHJOc1N1OE96MnhiQ09fMVJfV0g5SS15Qldsd2hxcTZMYUt6QUtWQkl2YjBrV3REczkxMWoyMkY5UmdzeGE0dlNQVkJJcTNjSktrbmFYd084NktVbzVWaXZOMHN6dXM2c21sOVl5anN6YUIyaVVlelNHWVlQZC1DaEw1RlQtZDRHUm5qUQ?oc=5",
    "time": "2026-10-12T09:00:28+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "QuickCheck: Can your car's air-conditioning protect you from the haze?",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ1JOYVNyRkJ3TzBXU0lwSlVFSUNEV29nRC0tRWxFbVRiNjdhMXNENlBvai02eVBXdURlZzhKbEt4cW53RUVwbFNZaXNzT1V0NjBkMVFaUFlhdG1RRER4bUYzV3d2eHlFUUVyUFlRa2FKdkkybVU4cjhfd3Joc1EzdEM3QXBiN2JjZ1A2aTdUYXQ5TkdFT1BVdjM1MWFKbURJN01mZ3hpdGhyTy1sUHFfMFJKV0xPMEh1WjJoNm5lZVJyeFk?oc=5",
+   "time": "2026-10-12T08:00:00+08:00",
    "summary": ""
   },
   {
@@ -563,13 +584,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore readys haze mask vending machines for deployment if needed",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnpUZHF6VURaaXZxanQzM2xqMGQxSHpVbGltWnRHbVp3QW0zR21nY3dKbG1SMGRGdkpzS3pTeWVsd2ZvM3VmYkM5Mnl6bm9KSzBfQUUwZzlGenJDZ1JvUndIaG1zWlVTTnBxdXVNb0NndDVHSmYtZXMzTDdHU3hreTZrRkgydEpwcE9Jc3JwTXEtVWc1VWRwTmFWSVVERV9Rd3dwX1JRcHpoUkdWMl9JSw?oc=5",
-   "time": "2026-10-11T23:18:59+08:00",
-   "summary": ""
-  },
-  {
    "source": "Kompas.id",
    "title": "Singaporeans Hope Haze Will Be Under Control Soon",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkRrNUtyQklGaVpqcEgyWDlNclJNc0NuV2djb3g3V3hiaEZOME0zbkNXTU5oZWQ4b193TUVXOV9nWmVsRUM3dHliMkN2bWRwQk1qS09XOTVfdmxiRnY1VDZSSzh3c0Y4Y2FJRl9ITGJnVFdnYUtUcTR1WTUtR2VqRmt4Vnk5LXFsWHQyQ04yeXZjLVp2a2I2QTktaVU5TE5qeC1z?oc=5",
@@ -581,20 +595,6 @@
    "title": "Pressure intensifies on Indonesia as regional haze worsens",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHRlX28yWHdXYlRqUWFkUEpwSGJYMWx1ZVd0ZFpIdGdIamNWNncweUNiNEMxZFJwbThqTHhVSU1HM3hkdEMzTlN2MF9YSGxFaDlILUVIQ1FRT2N4RXpSYkU0eWZKajU2SXh4LVdZVUFDOW90WUpWd3hRR0tyc0d2UWdGYW1Fc2ZyS1hha3JIRGd3TkxqVXpNQ3VFdlB1NnRMeFROZ3I0eTZ1c3ZUM3RR?oc=5",
    "time": "2026-10-11T21:07:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "Indonesian govt official says forest fires 'beyond human error' & their forests 'send oxygen' if there's no haze",
-   "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOY2QxTF80WUZUSEZoRG1Wa0hsZV95Rm5CZVpwbFVXWERnaEVNS1lmT2lTU2tQbTZ4QW0zX1NrRjQwZGZGeVVIQ2xRZ2tkR2s2MlBhR05GTklMYUlQU0RWcUNBOGRRSkZvSWZuWnhrejBmSzRGWThqSUZPNERfRVdKM1l2NmxGN0NGUDFQRlBBVGxncVBTY2Y3bDZ0N1BZZHRRd0tYaVBIN2tjN2NBYjhzU3hBRkYzVVhiWHJfWFFXdjZNUkttNDU3MWx6Y0o1RnFIdGRIcHdTZlkteHIwR1lLcG9VR3NVeFF0RDRCREVEb2IzOXRwWXk2VXh1RS1tSklqZXN3MmNGdmJKbU1iUTllR0pQamVxUzM1N2dFNzBRb2szaFhVTUNLcDgxeFBLc2tNWFp1LVVhWFRsNzZBQ1RnTDJOa1lyVG9VNC1HLW5jMDFlM2ZmOU9XY3JXLWI0MTVEZmdpc3Etc3pNb0QxM0JnSUg4T3d5T0prd2pQVkpMc1FIdG83N0pYWnpXUDdWLURxVl95aHhwTFo?oc=5",
-   "time": "2026-10-11T20:25:49+08:00",
-   "summary": ""
-  },
-  {
-   "source": "巴士的報",
-   "title": "Singapore's air quality nears \"very unhealthy\" level amid haze from Indonesia wildfires",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXlZQU9TaUpfSXptMUZkenZYeU4wcUlHWWZYZm9wWnRqN3VJY1BkbnVLZUoxUGthaTlpaE1rZjJtbDYxbVh4Q3RTQkdCaDVOYU5iSmVVa2lralpKZUdXNjJEa0doWUVuZUdpemgxVW1ua1BxUndsRGpxUkxvT1FzUEM2MVVyaHYyV1k3S2h0OHFDcGxoeXhJQ3I2QXJ1X2h2RFJHUFRqdjBtMXlBcks2NWF2TGZVOU9tQXh6X0lrVHFMQXBrUDRMRnBnSzFVODBpbWc?oc=5",
-   "time": "2026-10-11T19:18:05+08:00",
    "summary": ""
   }
  ]
