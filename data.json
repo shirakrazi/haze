@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-12T22:00:00+08:00",
+ "updated": "2026-10-12T23:00:00+08:00",
  "psi": {
-  "west": 164,
-  "east": 142,
-  "central": 157,
-  "south": 122,
-  "north": 124
+  "west": 166,
+  "east": 144,
+  "central": 159,
+  "south": 123,
+  "north": 125
  },
  "pm25": {
-  "west": 138,
-  "east": 106,
-  "central": 95,
-  "south": 70,
-  "north": 90
+  "west": 127,
+  "east": 116,
+  "central": 120,
+  "south": 78,
+  "north": 75
  },
  "hist": [
-  {
-   "t": "2026-10-10T06:00:00+08:00",
-   "psi": {
-    "west": 164,
-    "east": 156,
-    "central": 176,
-    "south": 143,
-    "north": 126
-   }
-  },
   {
    "t": "2026-10-10T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 122,
     "north": 124
    }
+  },
+  {
+   "t": "2026-10-12T23:00:00+08:00",
+   "psi": {
+    "west": 166,
+    "east": 144,
+    "central": 159,
+    "south": 123,
+    "north": 125
+   }
   }
  ],
- "newsUpdated": "2026-10-12T22:08:20+08:00",
+ "newsUpdated": "2026-10-12T23:07:39+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Haze in Singapore: Outdoor tourism businesses see up to 30% dip in bookings",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT1UxVmx6X2NfOWNjMS12bkptV2dvX1NiR19Dbjdrc2tTVnpTQ1JJQlJvNmFPRU9JSmxPTFNzZDRjYkxIMGZoeVltUkJseFBhWFQtTlozT2RhWXFvMFJ5VzYySlZlQVZDRW85NElSUjJqYWNWZHdsYXFUdllwd1BrYVdxODRRVF9kMlZINXo5M2FUR0IzYUtsNTlaMmNPTmUybUlObTVmaUNtUFlhVlNDdWU2dEl6T1U?oc=5",
+   "time": "2026-10-12T22:50:43+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Prabowo orders tougher action on Indonesia fires; foreign offers to help tackle haze not discussed",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd0diUjB5MnRrTEVMLW5ha21uMnFDTmc0UUZjeXYydFB2TXhqaHV2dEVKdnFDVzZfVkgxNnVuMjZIRk9GNzhhNlQtc2l3SUgzNHZLT0hSZUtpcjJHRU93TDFYVHRreHFMTW9SS1ctOUkyU3ZieThnUzV6TGZMMXJ1SHB3WlpYb1ZhcDNLaW1uWGZ5cXVPQjBYRnZtTzk2NjdTT0ZydGwwcFZqbkRaWjBLWllxaDZGbzRaMENiWTlJdmhJVGZHRXpNbmlIS0VaNk9PSmx6dUNR?oc=5",
+   "time": "2026-10-12T22:40:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Haze thickens in Kalimantan as wildfires rage on",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjlOcEdJSnVzV1J5WnNFQmtEYzA1TUdrdnlEMHVBNzdmeDU2Z0tKRW5JWVIybnZQSEVZTmFTOHJ3eW9aLUNRUWxFaEFxZjRZVUxNWDFKczZQRjdmNjlhRkthWWV4cXR4c3dMVFh1OFUyQ0JnRWVhWmRFeDB6YnRwX180am1Ic1hmRWJaRks0NzRzeFk?oc=5",
+   "time": "2026-10-12T22:27:40+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Haze persists across Singapore, PM2.5 reading elevated in all regions",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNThGaXhVMEVNS0xQbWphSnAteWVhVER3cENjeW02S2ZUclJYZ2QxYTRBUk9NUFNZdnE1WjZRQ2c3MFB3M3B0aUtxNDZFM3F1aEFNb0x5OW9GMW5WRnNvbW9oNkpuYWtvYVBUSld2NEIyU2xCVHFVMUxFSklsSXY1WTdjSjhkRlBCZDlCS1Z3?oc=5",
+   "time": "2026-10-12T22:11:21+08:00",
+   "summary": ""
   },
   {
    "source": "Latest news from Azerbaijan",
@@ -516,15 +544,15 @@
   {
    "source": "Anadolu Ajansı",
    "title": "Malaysia to raise transboundary haze crisis at ASEAN foreign ministers' meeting",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmdFeVk3dDMzZ1dzYXo4SER5M1Vnbmw5N2liUmVxdWdfUHpqTFc4UnE0THhGUlNxLWFrNWF5RWFKaV9LNkR4MVpBOUN4b2ZKUUlySVZ5ai1IUWtpTENldDg4ZnZGUjBsc21pQ3VFZEllRWJMZGZ3MmtyaXJpWVFjcWJ6bmQxMWE0ZkI0aWZNMWZoRjl4QTJqbUtOQ3FUOUdKS2xjNnhnRG04VVhlNll3RDVyVnd2a1NSXzhXWFdTaGh6UQ?oc=5",
-   "time": "2026-10-12T21:18:08+08:00",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbHhFZUkzcUZHYzBlQXRocEtVMDhDZDRVRS04YW9jRE92bVQyVU5UMkNGWmgxaFJrWEI0VTJYOFFxT2cyUkhjdDh0eURZR2UxUi1KeWhmVENMTWdSY182U0M1a1d2emhGMlptUGdiSUFQVHlFZVFQbWdPbUF1WEM2OVFRM3VRUjUtSzZKVTJmMHJ0MGZCbHhxVWdmYzJsN0dkSHRRMkU2SWRIWnBYMHdudlkxNlV2ZjdydWU0SkxBd1Q?oc=5",
+   "time": "2026-10-12T21:18:17+08:00",
    "summary": ""
   },
   {
-   "source": "تسنیم",
-   "title": "Forest Fires Continue to Plague Indonesia As Regional Haze Concerns Persist",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMC15REV0aFI3VHVXS1VHRXd4TENENThsOUpGYXB1NUVDRTF2bTFOQWZNYUdqY1lCc0NfY29GRHEwcE94U2NGWWNjdFFZVGlOSHNJbGpmYXJ1bnY0aUoxelQ5TXNpZnJGSUViaW12SWlRTElXUlhiVTNQRDVucE1LRXRJaWNWR0N6WGdCLU52c0Z2RmQxQmhXWnVQMVoyZ2hXeFdmT1gxUGRqNlZtbzU5NmFfY19hZkwtMjhaYlRoeGJmUjNfdHdn0gHMAUFVX3lxTE5Dd2diakNaeGI0X3hhRG9EUVI4LWZiWG43UU1fVk9zZFVrOEF3MVBmYXNtNFhyQmd1TnRndXBiOWVBTldIc3ExVWEtLVF6M253bFB5bDc2M3RadlZsNldIRzZNNnZMVVdhNGtBbVdBQ3lvTkYxQThiRUdnRjgyMVZ1NFlwOWk2Qm9nVVNDUk4zY0k1NEgxbG8xc0wzNWpqNG4wU0MyejVSVktUd0lhMlZwc2NGUWpFYzd2dmIzMTd2Tmc4M0ppYTBzcC1oOA?oc=5",
-   "time": "2026-10-12T20:59:52+08:00",
+   "source": "bernama",
+   "title": "Forest Fires Continue To Plague Indonesia As Regional Haze Concerns Persist",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ORXBDRmNkTmp4T08zT2ZzRHdZamtSNFpPWk5qMnlIQngzR19QVDNmTEdfRmcxQm9KZWx2UEtVUG54NFlZbmlOVW9PWW5OWnNXQW9KUFkzTEJLLVlo?oc=5",
+   "time": "2026-10-12T21:01:31+08:00",
    "summary": ""
   },
   {
@@ -549,13 +577,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "CNA Explains: Why PSI and AQI readings differ - and which one should you follow during haze season?",
-   "url": "https://www.channelnewsasia.com/singapore/haze-psi-aqi-air-quality-pm25-6452896",
-   "time": "2026-10-12T19:55:42+08:00",
-   "summary": ""
-  },
-  {
    "source": "NEA.gov.sg",
    "title": "Haze Situation Update (12 October 2026)",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaDNsR24xTmZqLTlmODRJd0kzaXRzWVg5RzNHemppeHhSckhQWXJLaVlWN2RWUDJ0SUtnLUtoM09aUzd6QzRxWnVvVEY3a0w4bDBmNXNiVWcxWWwycFRJbm56R1ZGZVQydVFtUFgxREFKMFJMcFRZc3RPSHVybkFZT2U4dGdMUmQ1bWVtSmFGVkZiZw?oc=5",
@@ -574,27 +595,6 @@
    "title": "Iswami calls for stronger regional action on haze",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1dIOElITmM3ZVdhRkFwSVkyUmpxNy1LS0lFUTAwVWloYjNXVHFEbk4ySGtJU1hkYVlpV0ZjdUdkLTVJV3BNVzgteHdzazgtRHNOQ2s4Uk1lTHBFcEJZMEstdHU0RXZFQTltbzVCRWxnSGhXQ3FFLVpBbzlEbURuaTNwYXJ4TDFtUFFVdXhpVWFCaHVGRG5kcNIBngFBVV95cUxNc2ZHQV9HLTZlR19SYlpsUmNQVEduR3BVU09fT2xxSXFXN1JGemZtazVocnlVMVdZQzhKcE4yeDMzdzE4c0g0MVFBMk5IaFZwX0lXTjFfV0R2Vk9NdjR1cWlvUHZWUmFWSU9XUS0wdl9nNE96R05yUjBtWjJVd2daX0RqNDNaTXA5ekxoeWlDLWhVVm1ubXA5NTVETXJ0dw?oc=5",
    "time": "2026-10-12T18:53:19+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Iswami Malaysia Urges Fact-Based Reporting on Haze Crisis",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc21pMTNhbWFNZ2kzcUxFb05QVmR4YlUtZG1PTHZZTERGMkhlbkU0RllfMW5taE1xdjZIVVVOS2Y5VWFCVE45akUxeFJiZFQwTVI4VzhUbEJyWXNOcG1wYlkwVThETFhDdElMdjd0R2h1RUtyOG9Fdlk4TFhDMjluNzlkbVJMMzNlVGNNVmpHUnpfM28t?oc=5",
-   "time": "2026-10-12T18:53:13+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Awani International",
-   "title": "ASEAN to discuss tackling transboundary haze ahead of summit, Malaysia says",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGVXWDExT1pQUjM3MDV6TWpDcVNLU04xWVJLUzJjckhtMlRnZ25Vd1JLbWFsTDljYTNBUW5Sd002NzdGTGljbHFtR0RQZDlEQV9kUU9vOTI0ZWJqTmRyWUdkQkk2aHZndUJ1TjN1SHhNRmM2eUVPZzhEbWFWamh6NXFQXzl1cmtLRFVlUHNoZ0E0akFvcmRRNU5pX2lSQUFrdlVFVm1mamZiY3dWWGJIcTdwSFRDMm1f?oc=5",
-   "time": "2026-10-12T18:48:43+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "M'sia to close more schools due to haze, Melaka, Negri Sembilan & Putrajaya join Johor",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84azJyNXU2bXdMaEt1R3Exc0JrclQ1dXdNQnIzNmtPbXR1OGR3ZkRpdnRlM1FBTHNfcTlhd09WNjFESGJOa3JvN0RNM1hJVVgtbEZMLUpkSFc3WDJsaDY5SXFkV2xIUDl6bXc?oc=5",
-   "time": "2026-10-12T18:46:36+08:00",
    "summary": ""
   }
  ]
