@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-12T20:00:00+08:00",
+ "updated": "2026-10-12T21:00:00+08:00",
  "psi": {
-  "west": 157,
-  "east": 140,
-  "central": 155,
-  "south": 122,
-  "north": 120
+  "west": 161,
+  "east": 141,
+  "central": 156,
+  "south": 123,
+  "north": 123
  },
  "pm25": {
-  "west": 125,
-  "east": 100,
-  "central": 112,
-  "south": 78,
-  "north": 90
+  "west": 171,
+  "east": 99,
+  "central": 105,
+  "south": 70,
+  "north": 107
  },
  "hist": [
-  {
-   "t": "2026-10-10T04:00:00+08:00",
-   "psi": {
-    "west": 168,
-    "east": 157,
-    "central": 178,
-    "south": 147,
-    "north": 128
-   }
-  },
   {
    "t": "2026-10-10T05:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 122,
     "north": 120
    }
+  },
+  {
+   "t": "2026-10-12T21:00:00+08:00",
+   "psi": {
+    "west": 161,
+    "east": 141,
+    "central": 156,
+    "south": 123,
+    "north": 123
+   }
   }
  ],
- "newsUpdated": "2026-10-12T20:16:47+08:00",
+ "newsUpdated": "2026-10-12T21:19:43+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "title": "Malaysia to raise transboundary haze crisis at ASEAN foreign ministers' meeting",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmdFeVk3dDMzZ1dzYXo4SER5M1Vnbmw5N2liUmVxdWdfUHpqTFc4UnE0THhGUlNxLWFrNWF5RWFKaV9LNkR4MVpBOUN4b2ZKUUlySVZ5ai1IUWtpTENldDg4ZnZGUjBsc21pQ3VFZEllRWJMZGZ3MmtyaXJpWVFjcWJ6bmQxMWE0ZkI0aWZNMWZoRjl4QTJqbUtOQ3FUOUdKS2xjNnhnRG04VVhlNll3RDVyVnd2a1NSXzhXWFdTaGh6UQ?oc=5",
+   "time": "2026-10-12T21:18:08+08:00",
+   "summary": ""
+  },
+  {
+   "source": "تسنیم",
+   "title": "Forest Fires Continue to Plague Indonesia As Regional Haze Concerns Persist",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMC15REV0aFI3VHVXS1VHRXd4TENENThsOUpGYXB1NUVDRTF2bTFOQWZNYUdqY1lCc0NfY29GRHEwcE94U2NGWWNjdFFZVGlOSHNJbGpmYXJ1bnY0aUoxelQ5TXNpZnJGSUViaW12SWlRTElXUlhiVTNQRDVucE1LRXRJaWNWR0N6WGdCLU52c0Z2RmQxQmhXWnVQMVoyZ2hXeFdmT1gxUGRqNlZtbzU5NmFfY19hZkwtMjhaYlRoeGJmUjNfdHdn0gHMAUFVX3lxTE5Dd2diakNaeGI0X3hhRG9EUVI4LWZiWG43UU1fVk9zZFVrOEF3MVBmYXNtNFhyQmd1TnRndXBiOWVBTldIc3ExVWEtLVF6M253bFB5bDc2M3RadlZsNldIRzZNNnZMVVdhNGtBbVdBQ3lvTkYxQThiRUdnRjgyMVZ1NFlwOWk2Qm9nVVNDUk4zY0k1NEgxbG8xc0wzNWpqNG4wU0MyejVSVktUd0lhMlZwc2NGUWpFYzd2dmIzMTd2Tmc4M0ppYTBzcC1oOA?oc=5",
+   "time": "2026-10-12T20:59:52+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne",
@@ -581,20 +595,6 @@
    "title": "All You Need To Know About The Haze Subsidy Scheme, From Eligibility Criteria To Participating Clinics",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8td21kRE5DVGFiSlRhVTZKMndyRGFidF96enJBN2dzYXlmOGt5bElFQXpXT0VQM1lVNDA1Vjd4TGh4X0UtcXA4c21nWmVuY1BjMkJmTkJPZTdxSUxMWVZPc1BYc0pzd9IBZkFVX3lxTE8td21kRE5DVGFiSlRhVTZKMndyRGFidF96enJBN2dzYXlmOGt5bElFQXpXT0VQM1lVNDA1Vjd4TGh4X0UtcXA4c21nWmVuY1BjMkJmTkJPZTdxSUxMWVZPc1BYc0pzdw?oc=5",
    "time": "2026-10-12T18:12:20+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Vibes",
-   "title": "Govt to push ASEAN for stronger action on transboundary haze as schools shut across four states",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNXpMTEhOTXRHa2tuUDFMV213TXdwLTJvZ3hRU2k1WUlUc2kxcFVzRnVsWlVFV2lsTVJOVlpvdXF5X21vWmZJMXJJM0ZtU3JBY1FITjQ1ZEhvbnNhMHFtMnB6NzNxdjdPSGZDTmVSYWNwN0lfbFBsb25XY0IyYkFtbVlVSzVMQ0hCUnY1cHJubVhJNXZGQ2hnOTFyQzVCZkg3aUVneWtxZF9FZ1ZrX1RyWkdrLVdUQldPRzNMTnY5c0xnTGw2X19rN2pOa0pEVktxek9Sci1XTXM?oc=5",
-   "time": "2026-10-12T18:05:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Stomp",
-   "title": "‘Enough is enough’: Stomper sick of haze affecting her health and life, writes open letter to Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVF80alY0aXlxU3lCa2lwRUtqS2hlYzJWREVDekVzN1FBM1pjOU0yOGFtTWQ0RkxaVWFibHBqOXdxNE1yUEtSSmc1X1R3ZlZNNm9VSG1LWk9mTi1Ga3JBcDZldk4wemNGRjc0ZXJRb3BKTHJKTXh3cGVxR19nSDZmTW9YbHc2dFFGMW05YVRzU3VvdlZkLXpmcU9sQjEtRExsQXd6UnNHcWRwTExrYlRISDZpY2JEZjVMdXFSRW9WZktuZGtBZXRNWlY5Q0JMc1hURHlLWkR4TzRzUUVVeUs3bkR4Q3pNXzRZNXBCU0wzR2hmQmxt?oc=5",
-   "time": "2026-10-12T18:04:22+08:00",
    "summary": ""
   }
  ]
