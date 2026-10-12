@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-12T10:00:00+08:00",
+ "updated": "2026-10-12T11:00:00+08:00",
  "psi": {
-  "west": 148,
+  "west": 147,
   "east": 132,
   "central": 145,
-  "south": 115,
+  "south": 116,
   "north": 103
  },
  "pm25": {
-  "west": 91,
-  "east": 66,
-  "central": 82,
-  "south": 54,
-  "north": 52
+  "west": 93,
+  "east": 93,
+  "central": 110,
+  "south": 82,
+  "north": 53
  },
  "hist": [
-  {
-   "t": "2026-10-09T17:00:00+08:00",
-   "psi": {
-    "west": 186,
-    "east": 164,
-    "central": 192,
-    "south": 168,
-    "north": 134
-   }
-  },
   {
    "t": "2026-10-09T18:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 115,
     "north": 103
    }
+  },
+  {
+   "t": "2026-10-12T11:00:00+08:00",
+   "psi": {
+    "west": 147,
+    "east": 132,
+    "central": 145,
+    "south": 116,
+    "north": 103
+   }
   }
  ],
- "newsUpdated": "2026-10-12T10:06:55+08:00",
+ "newsUpdated": "2026-10-12T11:07:28+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Mosques to remain open for prayers, arrangements may be adjusted if haze worsens",
+   "url": "https://www.channelnewsasia.com/singapore/haze-mosques-open-prayers-muis-6451861",
+   "time": "2026-10-12T11:06:41+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "‘We send oxygen when there’s no smoke’: Indonesian official brushes off haze criticism in Malaysia, Singapore",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQM2ZlZHZ1bEhyR3B4N2hqb1VNcGVjdVJWNU9aaHZGb0VKNDNSZWNCYjMwQnVvX05ObGpRQWlWLVAxQzVUN2FTenJGakREVXJGY0o0dVV5NTBrU3B3b3I5bW9wQWdRNkNvcDdMTGhONlV3UzhzWGcxdHhndV9Na1c2QUxMRzlTQTR5aG8yeUNocGFVY21ueGEzVVgtNlh5X1FiRnhqMHN3VnVnQWRQejdXYU5BRFd3VzhpQV9fUlhmckNHbzZOVEtzVDR4V0JySnUtQmJsR0RDV0JBbkY0bWdaUFE2ZFZka3A4eUZNVnk3N3FIaXp30gH6AUFVX3lxTE5malNZNU9jOUk5NW10WFNRWnNiME5yNTgxYWgtaWJOeFdnaDlZaFdOa1ZJMWhzMUp5V2FDRGhrM2I1eFZzbFMxbGpSaEZKY2psamVELTBDbDYtRnRxcXhxMzlaZG9IdzBmWkgxTE9ycGt4ZVdUcHlsd0tGbzdZZTF1NllMREJKMWVMbFBVaTFYaDJNYTFWeE1OY01jLU9RTTZHOFBBOFFpTVE5QTFXN0dGUlNLdlZDS01vU1JTU0lDMHNfdkNXNmFvTU1PVHZuTVI5WE85QzJmVU5KNWl4dXFtcFZZV2YtbE5BY3F0bnZfUU1MWWNUa1hzeGc?oc=5",
+   "time": "2026-10-12T10:46:22+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze in Malaysia: Johor worst hit as air quality in 22 areas nationwide record unhealthy levels",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZm92TjJmc283Q0Noa3ktSDZNQmQ2RmRsWTRHcEMzTEtzUTA4dm9KWFN4dmVVc2lWV1lkWGhGQ1hMTm5uRzhvVUppNVN6V2w0c1FKYk1QTXFFSUZVaFRLZzNnUFVQaTZWV3I0SzBkTDVpOW5JcGdTUE5CLW9kb2thMjdXYkl6dFNvbVZSejZLUk1CTnNIczZ1WUU2ZnZpSWFzRVN2NTJPWE1EbHMzU2dLNThVSTlXMzlxaHBzRnY0aVRaVWhzcmpRMXVhcUhSTkV4c2c?oc=5",
+   "time": "2026-10-12T10:43:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Asia News Network",
+   "title": "Indonesian police investigate deadly highway crashes linked to wildfire haze in Lampung",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRmxETXlSdXpEWDFfUTQzeWRMQzZYWDFnVUNwRGRWQ3FZa1FkbVJJZWhSQk5iTXpPY1V2Si1FQm0tTEstdGtiWkdkSkxLYjhySDQwYk1KSC1EWThZUGM3V05mc3BwZ0xtTDBPaUxiZUR2TktrSFQweXptdVlVRzI2Y0s4RHhJVzZDOFJWcW5aaWc1QnFtQk5relJVbHlPUzUtcHhNekloVEJMdjB3dGJvMGlNZw?oc=5",
+   "time": "2026-10-12T10:13:25+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -549,13 +577,6 @@
    "summary": ""
   },
   {
-   "source": "The Straits Times",
-   "title": "Football games, night markets carry on in Johor amid haze and school closures",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDQzV01qajFSOXBsbEVNUjBJQ0dSb1QyUjRWNEVRUmpyeFRxTXc0TUFvZmFKQ0hlalV3TDJraWZJeWN1ZGQ1UzQ5YVpkS1d1NjRVTW56bk1rMzZXWW1KdnJYQ0pyMXo5VG9Yak5MU3R2V0NKSUpIdElTNEhLQjFzSlNQNmtpS2hsaUUyT3VQNnFISi1KcWdyRzV2Qk14QVoyN0JRaDNsaGx2dnh1V1B3M1FGYm93V2U2Nnc?oc=5",
-   "time": "2026-10-12T05:00:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "Retail News Asia",
    "title": "Singapore Activates Haze Subsidies as PSI Hits 151",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWdXT3IyQU4yXzcxVlhjZUtSSm1GMUtLeXpHUW90Yno2aEdxZTQwNFhRX2xUbVp0LVZYekZuT01zTnJWa0xJRl82UnJYc2hrb21RRTQ5Y0EtNHNBX2tNWlFMa0JpUDJWU1lOcTUwMVVJWmp3VmFrVEN2NHZFcHhVdElqcS0?oc=5",
@@ -570,31 +591,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore to roll out subsidies for haze-related conditions at GP clinics, polyclinics from Oct 12",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV0ZXbEtFa0dnUFhySHo5VWg5ZTdoa2JXUDNOZThZZ0c4SGp4R2JXUzM1S0owcDJ3Q2hMN3IxaVFkVGFzcTBiN2Zxa0RyVnJDTjVmdWM3a1JNdnBpLUlVdzh3dUZvNTAzT3BoU19wTU51b2UzdVRlZThjSGh1YW1PNWFkbzdicGNjb0cxREtkVk1ndndHOEtDdFNwZk9VYlJRQXdWSF93SXBmMzJWVlVqNVlUVVgxS3ZtZGZyZHdycmN5eHRGUFZn?oc=5",
-   "time": "2026-10-12T00:09:57+08:00",
-   "summary": ""
-  },
-  {
    "source": "Human Resources Online",
    "title": "DOSH urges employers in Malaysia to control workers' exposure to haze",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2I1c05qbURCZC1vMkFyUDdwNHZ5Q2Q3cnl2TnFKc05NZVpDbEF0ZWpnd1FOdUJjMWZLR3NNaDNhVHdlbS02Yy1LZnIyRjBVd1lwSTdOb0FQX2lOWjRZX2xlY0VBSWZyQ2loRzQ2VVRHT3BSYWhoVVFZWHJZTWJ1bUI4b0VMV3pVbFRZa25EMHp6QTQxdHdCQjk5czlQczBSMmY2cllpcXY?oc=5",
    "time": "2026-10-11T23:22:46+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kompas.id",
-   "title": "Singaporeans Hope Haze Will Be Under Control Soon",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkRrNUtyQklGaVpqcEgyWDlNclJNc0NuV2djb3g3V3hiaEZOME0zbkNXTU5oZWQ4b193TUVXOV9nWmVsRUM3dHliMkN2bWRwQk1qS09XOTVfdmxiRnY1VDZSSzh3c0Y4Y2FJRl9ITGJnVFdnYUtUcTR1WTUtR2VqRmt4Vnk5LXFsWHQyQ04yeXZjLVp2a2I2QTktaVU5TE5qeC1z?oc=5",
-   "time": "2026-10-11T21:41:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Jakarta Post",
-   "title": "Pressure intensifies on Indonesia as regional haze worsens",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHRlX28yWHdXYlRqUWFkUEpwSGJYMWx1ZVd0ZFpIdGdIamNWNncweUNiNEMxZFJwbThqTHhVSU1HM3hkdEMzTlN2MF9YSGxFaDlILUVIQ1FRT2N4RXpSYkU0eWZKajU2SXh4LVdZVUFDOW90WUpWd3hRR0tyc0d2UWdGYW1Fc2ZyS1hha3JIRGd3TkxqVXpNQ3VFdlB1NnRMeFROZ3I0eTZ1c3ZUM3RR?oc=5",
-   "time": "2026-10-11T21:07:29+08:00",
    "summary": ""
   }
  ]
