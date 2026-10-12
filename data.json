@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-12T17:00:00+08:00",
+ "updated": "2026-10-12T18:00:00+08:00",
  "psi": {
-  "west": 151,
-  "east": 138,
-  "central": 152,
-  "south": 118,
-  "north": 114
- },
- "pm25": {
-  "west": 156,
-  "east": 115,
-  "central": 143,
-  "south": 87,
+  "west": 153,
+  "east": 139,
+  "central": 154,
+  "south": 121,
   "north": 116
  },
+ "pm25": {
+  "west": 157,
+  "east": 108,
+  "central": 146,
+  "south": 97,
+  "north": 92
+ },
  "hist": [
-  {
-   "t": "2026-10-10T01:00:00+08:00",
-   "psi": {
-    "west": 174,
-    "east": 161,
-    "central": 181,
-    "south": 152,
-    "north": 132
-   }
-  },
   {
    "t": "2026-10-10T02:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 118,
     "north": 114
    }
+  },
+  {
+   "t": "2026-10-12T18:00:00+08:00",
+   "psi": {
+    "west": 153,
+    "east": 139,
+    "central": 154,
+    "south": 121,
+    "north": 116
+   }
   }
  ],
- "newsUpdated": "2026-10-12T17:08:17+08:00",
+ "newsUpdated": "2026-10-12T18:08:14+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,6 +507,76 @@
    "pinned": true
   },
   {
+   "source": "Tempo.co English",
+   "title": "BMKG Dispels Haze Concerns as Fog Limits Visibility in Jayapura",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTVV5X05naTE3ckRmWUFRNDJZeE4xM2JVZm1NU2pOR0lVVEVVZm1hbVJoSE1jWEhydEt1VkwxSEZhZkI4SHFlOGtKZXdoTUtMcWVRMEhiNV9EOFByRExtc19lUEhHWklqVzV0U05YeXhBM1JNa0U3bFo4YmdrN2JaUVctQ1R4Tmp6SWVnbVhmTnJSYzVCaThkZnVyN3Y?oc=5",
+   "time": "2026-10-12T17:54:25+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Interaksyon",
+   "title": "ASEAN to discuss tackling transboundary haze ahead of summit, Malaysia says",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSFFwZXZVVldqUkstSFg3aW4xV1dSaU5Ca0tWLXlwdklJb29CWWM2OERIeWpEMGlXUVBsSTNWQWFKSmgwempEVVlBQ1cyV01LSEFMN29CMGVvR3BkMG9JOFZnTjBqQlpneHhIc3JvMGFZMkZpWVF1OWlaamFwWWp0SWFOZDBzZmlnUXBOb3dWNl84TTBtUmpiU2VFU2NfOHpXZVBubVdnaWxHSkY0N1UtdUtBeE9vSWtpMmstM2FfVDE?oc=5",
+   "time": "2026-10-12T17:53:49+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Weekly flu activity highest since 2024; doctors say haze can worsen respiratory conditions",
+   "url": "https://www.channelnewsasia.com/singapore/weekly-flu-activity-highest-2024-doctors-say-haze-can-worsen-respiratory-conditions-6452511",
+   "time": "2026-10-12T17:51:06+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "NEA tracking haze hotspots and sources as earlier investigations under Transboundary Haze Pollution Act continue",
+   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-transboundary-haze-pollution-act-nea-6452196",
+   "time": "2026-10-12T17:37:11+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Aliran",
+   "title": "We are not angry enough! (Part 2): Is El Niño the real culprit behind Asean haze?",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDNWN1BtaGU5Nml0d1lSVUhoamdab183SDZubElEbmstbXJHLXZTVW9EUW9tMXYzRmZDZ0pRMUFoRnd3SVB5MzdLc2NIUEtTTEw5Rnl0N3NiczVEZHpUYUVvbUUwOHU4V1VKZmNvWHBvenBaLWxmZVE5Vy1Tam1RTG9SUFdUQnp1LW5vR3pheG5IcGNYcnB6YWdZZ3BLSlcwVE45UnVHcDRodw?oc=5",
+   "time": "2026-10-12T17:28:46+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "The Week in Pictures: Verstappen’s first F1 Singapore victory, skyline shrouded in haze",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzdDaGM0Zk5nTVhpcldNNEllbWk4Ty1UUk5qR0FUQjVGVWxPemtUUjJKSjdOUTZnRlQwXzdGcTZZblp1Q21lNm40QjRRM0J6eFVHRndMUC02QTRMNHFxRThuaC16anBxWDlWMGtKUy02RDRjbU5HWklWQ09JUEpvUjZrOFZRNkxab1ptdmxKekRCV2lYMW1uaWVsZlI2aDVGQXNmRjhWcW9RR3ZfV29WTVFjVUU0NzlPcVpISTMySnV0UQ?oc=5",
+   "time": "2026-10-12T17:16:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Haze persists across Singapore, PM2.5 reading 'high' in west region",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNThGaXhVMEVNS0xQbWphSnAteWVhVER3cENjeW02S2ZUclJYZ2QxYTRBUk9NUFNZdnE1WjZRQ2c3MFB3M3B0aUtxNDZFM3F1aEFNb0x5OW9GMW5WRnNvbW9oNkpuYWtvYVBUSld2NEIyU2xCVHFVMUxFSklsSXY1WTdjSjhkRlBCZDlCS1Z3?oc=5",
+   "time": "2026-10-12T17:14:21+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Help Indonesia fight haze but don’t let plantation owners escape accountability",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMzlidDl4SEdyUUJjMlFHMTc1WWhBd2syOXpnS21xMEZPVW1aVU1tVVVpZXQzbGRDakFXUHRibnBRMFcwcXV6b0xsM2Y2OTFGcl9FUWNub1pQdDhVN2kzNUtpbXJyU3NlTFM4N1NhZ2pYaG1uMmJKUWJjNVlGMjNrcFo2MGw4Q19ISGY1Mk5GYUpybFVGNURLdG1LY0VMdUhONEFrM1Bvbk5zTEV4TkJSYVRrWVRNcXRueDNQc3c4R1BQLUoyVFhLZG5mNTE3TEh2WHBnaA?oc=5",
+   "time": "2026-10-12T17:07:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze in Malaysia: Johor, Melaka, Negri Sembilan and Putrajaya schools to close on Oct 13",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRktaZW5WaEUtLUs3bjAtWEVuR2xzaUdGYV9ORzFZZkdLSDZjV2JxeUx6alBwMVV3dVA1bHE5SVYxMEdIT1Y0bXpIZlZRN2pJM3M3a3FTMDN4SUhjU2FsUFFpMFJMZGw0bWdSWlFVa3hscHBGRFBicVc0MU5yY2pRcUNIVGZ3ek1xSEJtcnFuR1FCYWgwcjNTN0thOFJNaUxEZktFbUFyYi0yQ3lSaWpRaHZpcC1PSUoxaUZQOW5neHR3SEsxLXc?oc=5",
+   "time": "2026-10-12T17:04:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Suffocating spin: Malaysians mock Indonesian official’s haze defence",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcTdtVzJVczR0dEwzQ0tRZFN0SXd2Qk9lWmJ6ckEzQm5UcWZRUXRPVzBVRFZnTk9ZTnR2M3hYM0x1R0lxY1lOOW5SUkEyU3dwWmxjcVZHYTN6cXVzbjktV01KNTJ1N3JkVDlVOU5MdGluSkxHbi1NNTJwR2JVOEVUOW5GeGJrU1YyaUFXNnRxeXY0NU5DZjh2VzdCWXVQUzVpbHpPNnVPZ3hPQ1hxaDZIZWRDcXNfTVBlVTJpRFdpQkhUM2dDc0xWMGllRkJ2QXA5cGV3S0RRdHZxSDlyRm5pUjB2Rlptd9IB5gFBVV95cUxNaGhzVXlsNWthYzJGSnFja0x6MFRjSFlsblF4RU1FY1hzblVDWWtheG1CMVZDay1jTW9hYmFOaXhmeEU3cGRxWlFtTDZNMmdsZWdmVTc1dms0U2p6bnR4dmdGUGJjT0JkYnRQZmFuVFN2NzZJVmpDbExrYmZQRXRKSVJ5YjZrUXI1MnZOajZIYllLTUNvMnhsejdhSl9pbm9mZGR0NGFleERkeTNubzFoSFpLODd4WnV5aWRYWUdOdzFncHZGTUZqVXlzbFc2a2lqUmxYY01uS0JIdWZTMjYtcXlvMGVSQQ?oc=5",
+   "time": "2026-10-12T16:57:55+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "N95 masks for public bus and rail workers, delivery riders amid haze",
    "url": "https://www.straitstimes.com/singapore/n95-masks-for-public-bus-and-rail-workers-delivery-riders-amid-haze",
@@ -514,87 +584,17 @@
    "summary": ""
   },
   {
-   "source": "The Straits Times",
-   "title": "Malaysia’s Firefly extends Seletar-Subang flight cancellations till Oct 13 amid haze",
-   "url": "https://www.straitstimes.com/singapore/malaysias-firefly-extends-seletar-subang-flight-cancellations-till-oct-13-amid-haze",
-   "time": "2026-10-12T15:05:00+08:00",
+   "source": "The Online Citizen",
+   "title": "Greenpeace links Singapore and Malaysian plantation groups to Indonesia's 2026 haze sources",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNExXdXV2cnNMT1NPc09OMzVBODl0SE5aNnZIN3Q5YnhyUUlmeVN2WkdqdVhCVDVSRnN3QmNWTmI4UzdMLUw1VEJBZF84Z09idm9uUFNwUnljS3pQTzlQeXd2RFZHeEVkelY1RE0xVmZGczU5cElWQzByR3JUamRDTDFlY2R1UlpZSm44Y2N3c3R6SjhHUy1WT3VMNUZuWnVhZmhjWUh1VzVRbGdFSlR4Z1NOaFpyXzh2bUgxcURXT3dkSTliT2RDdDg1UVEwb0VpWXc?oc=5",
+   "time": "2026-10-12T16:21:11+08:00",
    "summary": ""
   },
   {
-   "source": "TTG Asia",
-   "title": "Malaysia haze forces tour operators to adjust itineraries",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSFppYXlLcDE0NndGdlRjTTh1b0dHNGJtVHNpeWJhMEZvUjVCUzZpNTk0QVJQNmVrdXZic0lxMzZ3cjFkTzBUcnZZMzl2QU0zN3VDTEJhOEpqSktYZk5tN2o4NHBMZVRheGtPRHFVT2tFbThRdU5Ba3RlMXpXUU1WcFBSZ25INVNzUm5fWnhiVE1IT1d3TEF0eQ?oc=5",
-   "time": "2026-10-12T12:32:33+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Unhealthy air quality in S'pore sufficient to trigger haze pollution law; NEA is monitoring situation",
-   "url": "https://www.straitstimes.com/singapore/environment/unhealthy-air-quality-in-spore-sufficient-to-trigger-haze-pollution-law-nea-is-monitoring-situation",
-   "time": "2026-10-12T12:10:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Haze: Johor assemblyman slams Indonesia over 'we send oxygen' remarks",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbU9zMmV0dkJoZEVSUHpYZzN5cWtwREMyMldtaU5HSmtaMEVxNGdvSUIwVS14Tm5UMmpzbUJxWHd3ZFEwNV9vTUV1czVOZFY1djlydWJnaUFtU2p5UENvcmo0akl2dHlTLUlqem1JWWRSOVVsQVhLMm9fNEVOck14NnVuRktjR0xUV0ozcG92R3MwSjQ0RU1tWW9fNTlmY3BLN05ranNFR2RXYXFkbGZodHhIenZta0hQd0dB0gHAAUFVX3lxTE1NTmx1ZWJFcG9wNFZlejctYTVZS05ldjBxbzJ1U2JxYkZMYU9iTTNuQmVfWnVfTVYzV1h0ejVaMk1zUk1yNkRHVHRKdkNtUzRIT19GVWNRcjVhN01STHN3alZnZ0JLLVVsTThmYy1Sa0hnQzV5d01IRkNnRERvMExBazQ5NC1UNnl2X3NxemloYUVVOU9Yc2RNVm1tMEwtUDBYa2d5SlNnV1c2ajBVZ1c3Umt1OEVUdmZncUMtbXlYSg?oc=5",
-   "time": "2026-10-12T12:02:08+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Magzter",
-   "title": "Football games, night markets carry on in Johor amid haze, school closures",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYW9Vd1BqaXdpcnlGRDRELTQwMFU4eEk3TUljUFhILW5xdFVjeTdyTkZVS0pNM3ZpRGE0bUIxZ0NQQzdpMHZvd2lpb1FtZTNGVGdoUW5DUTZPUTQzSkRPdGtvUnI5Q0l6NUloTC0xOFY4VEJxdmtESGY2aUFBaVJqbndCS0ZkYkFOdUlmTWR0c1JUZmdaT0tjZTQwRGlDYU1CUlhjZVdsdjdnSzRXclptWnhOVGZxREE4aXZWUmt5MjVSX3hwLXhxOXBlOFY?oc=5",
-   "time": "2026-10-12T11:51:39+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "CNA938 Rewind - Singapore haze: Why are people still going outdoors despite poor air quality?",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdDViS2k2OUJ3Tm16TXlyT28xMGZKakpjWE9QTm1fQTFUdVA5YUpybnZZZVoyZUc1WHd1Vk04MGN4TVV4NmFza0V4ZjhxYl9IZ3pPUkJObHVNLW8wZUpLTEJsb1ZsUXVsTXFQdDQ5dWdfN2NqcHpvU1dFbC1HRWtpdXVRY3UzS3BXX2t1dFhYcGJUX0FvcHMyN0ZfTlM2Z29GS3lrMXFUNjU4c0twb1diNHY3TkFKX0ZBeDRTZDR0RmlBS04xOHdlZ0IyUE82R25lWGc?oc=5",
-   "time": "2026-10-12T11:47:05+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Education minister says boarding students should stay in hostels during haze closures if conditions remain safe",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPY1E3dHJ4TTB3VWs1RS1XRW1mZEFMU2xPaS1MZFhoYkN2bW1WTllSXzJla01FbjI5dFhBNTZfX3otQVVMTHNyTXBhUld1SWxHR2pYQVpjc0kyTWhpQTh1U3FaVEs3LVVtTWdEQnNQTEYtSmRmRlhieEJ5UFlqUHE0QnNhSE9aVElhTHRGc01YdE9fdzdJNkYzZVozLWVDM0dleFFNaEdWU0Jla2JoY2MtYndNMEVQNzdodE1QZllKaXBpMmRSUkF4bVJyRjJPVVNoOVNEOEVmWWFTcnZVbXlNZjZNYmhSeGhrSEVtajRQSzc0RzU2ckQ5TVY3RjVnQdIBgwJBVV95cUxNVFV6STlkSEtQQWtnU2lBY194NVFmb01vZktqR0FRV0FXem1kMTYwSTJQRnJtYkZVNzQxQTJTMVh3VlA3Qi1Vb1F1LXdHZ0tFVEhiNXQtWHl0bzhyLUxxeU94ZTNRLVg2SFBNcW4tNVZLanNrVnZDNE5LUzZrWmFPUExUYUMwenFQcGFxOGFqRXZCemFOZ19uSFhKdWVjbGtha3RFUWpYTU9EbHFDVnlmSS16ZmpoX1Rmd1VjZnAyQ3dwYXVmM3phQTgxcUJZYkphc0xFeWdtNTFDZ0VRZV9wMmExT3N5M0NfWEVCdVpjcjJyUkI0MUVnbnU4UFpLeE1lOEVV?oc=5",
-   "time": "2026-10-12T11:41:46+08:00",
-   "summary": ""
-  },
-  {
-   "source": "SAYS",
-   "title": "Indonesia Downplays Haze Crisis, Claiming Its Forests Also “Send Oxygen” To Malaysia & Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3o3R0NhaHBQZUg0Q3hUbGJlQWRXQXF4b0NXa3pjZjM3WUZDNTNxRHRMQy13Y0R2alNUOFdkT2cxZldwWEtsT3FtQ21OU1B2c3YyYkRjQTNUczMtTnM0VzNfS1plUnEtNDdUcVR4bXhSNjRaTVdZTHBPQk1adkNqZ2toWHlOeUJmNlFj?oc=5",
-   "time": "2026-10-12T11:39:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "Mosques to suspend non-essential outdoor programmes, adjust prayer arrangements if PSI turns very unhealthy: MUIS",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tZ1NyZUFCdWlfMVlhWHpKcEdYS1ZaSU9FU0x4bDl0Q0VSUWl1bnlMdWZMNm9yQ29HWGY2czRKcTVKQVp3eG51TDJvUElsTk1GUjg1SkRGZ3lhcjhON3FBTlBHUEl0MXJIcWVJcmNDYU5pU3VUSnkxMw?oc=5",
-   "time": "2026-10-12T11:35:20+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Air quality unhealthy across Singapore amid sustained haze",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNThGaXhVMEVNS0xQbWphSnAteWVhVER3cENjeW02S2ZUclJYZ2QxYTRBUk9NUFNZdnE1WjZRQ2c3MFB3M3B0aUtxNDZFM3F1aEFNb0x5OW9GMW5WRnNvbW9oNkpuYWtvYVBUSld2NEIyU2xCVHFVMUxFSklsSXY1WTdjSjhkRlBCZDlCS1Z3?oc=5",
-   "time": "2026-10-12T11:26:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Mosques to remain open for prayers, arrangements may be adjusted if haze worsens",
-   "url": "https://www.channelnewsasia.com/singapore/haze-mosques-open-prayers-muis-6451861",
-   "time": "2026-10-12T11:06:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Free Malaysia Today",
-   "title": "School closures due to haze depend on local conditions, says Fadhlina",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdkdjcDlhbjBxYk1md2txb1lWSVkzbUo2R1dvbHVxc0JZQS0xVTVhWnhWcXcwLWc2RGFvWXhlUWI0NzNWdlRzOFU1d3dIN25nUHk2djZQczZFMjNtZzUwQnZFdklHY2s4RmtzTW5NQldXVFRhZUU4WTFJVVZJMWF3ZFlQS0hxTG04UVlkQk5oU2dEbGtVMFFzNW5nOUxHUTNqZFBkT243OVZneEdkR3VJclF0Q0JRaUh6U0ZqazVvRFdkWlEzNGlPeg?oc=5",
-   "time": "2026-10-12T11:04:52+08:00",
+   "source": "The Star",
+   "title": "Opinion - Fires and cross-border haze: What can still be done",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMmNhbFBKZmw1eHg1UnNYdV9wbGEyN25QOHh3WHZsTUhBakE4b05NaE03WlotT0NQUU9tTElNb19ILTN0TkZzRWMwLUxQMmpFS0JHa1BnSFVBQjdabkJHZkxsSEZxV1Q5aE0wZ2ZodjdYc1VGMHFmSkNnN0NKekY5aUhJOS15ZUhYbFdtNFRUODF0WElUN1pmb1N4cWNyZ3RncTM1VnZHQVJ3RlN3LUVKRkhLcVpwUmxLVXZ2bHRDM1E?oc=5",
+   "time": "2026-10-12T16:17:00+08:00",
    "summary": ""
   }
  ]
