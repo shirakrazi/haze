@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-12T23:00:00+08:00",
+ "updated": "2026-10-13T00:00:00+08:00",
  "psi": {
-  "west": 166,
+  "west": 167,
   "east": 144,
-  "central": 159,
-  "south": 123,
-  "north": 125
+  "central": 161,
+  "south": 125,
+  "north": 126
  },
  "pm25": {
-  "west": 127,
-  "east": 116,
-  "central": 120,
-  "south": 78,
-  "north": 75
+  "west": 121,
+  "east": 110,
+  "central": 123,
+  "south": 103,
+  "north": 73
  },
  "hist": [
-  {
-   "t": "2026-10-10T08:00:00+08:00",
-   "psi": {
-    "west": 161,
-    "east": 156,
-    "central": 175,
-    "south": 138,
-    "north": 125
-   }
-  },
   {
    "t": "2026-10-10T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 123,
     "north": 125
    }
+  },
+  {
+   "t": "2026-10-13T00:00:00+08:00",
+   "psi": {
+    "west": 167,
+    "east": 144,
+    "central": 161,
+    "south": 125,
+    "north": 126
+   }
   }
  ],
- "newsUpdated": "2026-10-12T23:07:39+08:00",
+ "newsUpdated": "2026-10-13T00:07:59+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Free Malaysia Today",
+   "title": "Transboundary haze law must take into consideration several factors, says minister",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRk9XblNQWVg2LWp6Y2hNYVVySVJyczVmQ2ZrUUJrQWxNa2hjUXdGakZoQkJNSjRXQ0Y4bTlNZVdwbkhPUUpCbmdRaXQ3RUJGbkxZRGlnNUptVVlqQVlmenMwV0tpUVFUX2N3WExzNXpranhhVmxVTFFnN0FWb2pOeVc0b2J3NWtQc0g3WkZSNllPTzRFM3BUbVpwb3dCaUJNYTM1TUxORnZfMzF0Z3BlZThrMXJWei1faVBEQU5wUkdfZTJFeEZrZHpjeEt3TDJZd2tfUVlmcXRGZw?oc=5",
+   "time": "2026-10-13T00:04:01+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Malaysia to raise haze issue at Asean foreign ministers’ meeting — Tok Mat",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51LWxXc1JnMkNFODF5aDd1QWtEcFNta0VXX2czaE52Z3hobG8wNkprbzRJSUg1NGhCZTBUXzU3WmJydWtiQmZoaGtGVk9odTM5ZHlz?oc=5",
+   "time": "2026-10-12T23:56:39+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -581,20 +595,6 @@
    "title": "Haze Situation Update (12 October 2026)",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaDNsR24xTmZqLTlmODRJd0kzaXRzWVg5RzNHemppeHhSckhQWXJLaVlWN2RWUDJ0SUtnLUtoM09aUzd6QzRxWnVvVEY3a0w4bDBmNXNiVWcxWWwycFRJbm56R1ZGZVQydVFtUFgxREFKMFJMcFRZc3RPSHVybkFZT2U4dGdMUmQ1bWVtSmFGVkZiZw?oc=5",
    "time": "2026-10-12T19:30:33+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kuwait Times",
-   "title": "Singapore rolls out haze subsidies as Malaysia extends school closures",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbnVHOWttNDdzbEJLMnJtS3RJbl84ZkN4cE1zclBCYnA5ZXhMaE1RM1ZPV0RpRTZGQ0p5d1RRZThaaUFrLVQ1cmV3ZDB0Wmg3QUZrSklwQmVzdFY2RzA1cWs1eEZZbTZqb2FVNU5PSkZESmpxVnBEamliNVdKZjh2b1NvaGNnbzgzNXRFb0xLNFFWYWtKajhtUkFaTXVmOTk1clFfZ3o0QU40TGdoZTlmNWpWYUxEQdIBugFBVV95cUxPYVNLemFmbmFaeHVNX3M3WlZCWHlLVXVSZXg4LU5hRk9pcUVQUVlZa3Y0VktmWlFSWkl1Qk10SEh5Nm1xOXNHTWRoTktFWXl5eUlwX2htcHo1UXM3OVFxNmhVdE1SRzZpUUhkMlA4MVFEeVc2TlFib1BidUV5czZUa0dZNjlxWDdUVEN1R18xclpKQjduOVlZNjhPbXVJVERpX1BiQk1BNXNIczhocHJhY1JTRWFna2Y4V3c?oc=5",
-   "time": "2026-10-12T19:06:50+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Iswami calls for stronger regional action on haze",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1dIOElITmM3ZVdhRkFwSVkyUmpxNy1LS0lFUTAwVWloYjNXVHFEbk4ySGtJU1hkYVlpV0ZjdUdkLTVJV3BNVzgteHdzazgtRHNOQ2s4Uk1lTHBFcEJZMEstdHU0RXZFQTltbzVCRWxnSGhXQ3FFLVpBbzlEbURuaTNwYXJ4TDFtUFFVdXhpVWFCaHVGRG5kcNIBngFBVV95cUxNc2ZHQV9HLTZlR19SYlpsUmNQVEduR3BVU09fT2xxSXFXN1JGemZtazVocnlVMVdZQzhKcE4yeDMzdzE4c0g0MVFBMk5IaFZwX0lXTjFfV0R2Vk9NdjR1cWlvUHZWUmFWSU9XUS0wdl9nNE96R05yUjBtWjJVd2daX0RqNDNaTXA5ekxoeWlDLWhVVm1ubXA5NTVETXJ0dw?oc=5",
-   "time": "2026-10-12T18:53:19+08:00",
    "summary": ""
   }
  ]
