@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-13T04:00:00+08:00",
+ "updated": "2026-10-13T05:00:00+08:00",
  "psi": {
   "west": 173,
   "east": 147,
-  "central": 164,
+  "central": 165,
   "south": 131,
   "north": 126
  },
  "pm25": {
-  "west": 117,
-  "east": 114,
-  "central": 118,
-  "south": 110,
-  "north": 50
+  "west": 102,
+  "east": 92,
+  "central": 114,
+  "south": 84,
+  "north": 53
  },
  "hist": [
-  {
-   "t": "2026-10-10T14:00:00+08:00",
-   "psi": {
-    "west": 157,
-    "east": 152,
-    "central": 170,
-    "south": 131,
-    "north": 120
-   }
-  },
   {
    "t": "2026-10-10T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 131,
     "north": 126
    }
+  },
+  {
+   "t": "2026-10-13T05:00:00+08:00",
+   "psi": {
+    "west": 173,
+    "east": 147,
+    "central": 165,
+    "south": 131,
+    "north": 126
+   }
   }
  ],
- "newsUpdated": "2026-10-13T04:08:07+08:00",
+ "newsUpdated": "2026-10-13T05:07:53+08:00",
  "news": [
   {
    "source": "CNA",
@@ -556,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "Free Malaysia Today",
+   "title": "Johor sets up task force on school operations amid haze",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWjNkdVVBVXJNQ2c2dUg4bmRicEdXUGlpcldwdzdnTDAyWU0wRjUwa2J4eWVmQkd2ZG1iUk5VN2RRd2VRbjBLWFBoVFp2YUd5Q0h1VG02ak4tbW96eFRna3BZU2dRQVJxWFFITWRIYjRQbXZPek1teFFtNl9fNFJrU3NwU1dCRmRTMXZkNjdiLWNibW8ySUN2WVd5V3VuUjVuMHBXdzdiN19NRW1FOEhjeE1ISXNSdkU?oc=5",
+   "time": "2026-10-12T22:40:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Haze thickens in Kalimantan as wildfires rage on",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTjlOcEdJSnVzV1J5WnNFQmtEYzA1TUdrdnlEMHVBNzdmeDU2Z0tKRW5JWVIybnZQSEVZTmFTOHJ3eW9aLUNRUWxFaEFxZjRZVUxNWDFKczZQRjdmNjlhRkthWWV4cXR4c3dMVFh1OFUyQ0JnRWVhWmRFeDB6YnRwX180am1Ic1hmRWJaRks0NzRzeFk?oc=5",
@@ -588,13 +595,6 @@
    "title": "Forest Fires Continue To Plague Indonesia As Regional Haze Concerns Persist",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ORXBDRmNkTmp4T08zT2ZzRHdZamtSNFpPWk5qMnlIQngzR19QVDNmTEdfRmcxQm9KZWx2UEtVUG54NFlZbmlOVW9PWW5OWnNXQW9KUFkzTEJLLVlo?oc=5",
    "time": "2026-10-12T21:01:31+08:00",
-   "summary": ""
-  },
-  {
-   "source": "bernama",
-   "title": "Singapore Mosques To Stay Open For Prayers, Curb Outdoor Activities If Haze Worsens",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oYTFpNFQ3cllaeUhxMzVZbThxMHgxYXFMZm43UUlQbndQamxBWE51ang3ckhnZ2hueWFONV9JWm5tZklPX0xpVW1NdjFYVDM5SUNBTnRCUmVPZVhK?oc=5",
-   "time": "2026-10-12T20:56:15+08:00",
    "summary": ""
   }
  ]
