@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-12T21:00:00+08:00",
+ "updated": "2026-10-12T22:00:00+08:00",
  "psi": {
-  "west": 161,
-  "east": 141,
-  "central": 156,
-  "south": 123,
-  "north": 123
+  "west": 164,
+  "east": 142,
+  "central": 157,
+  "south": 122,
+  "north": 124
  },
  "pm25": {
-  "west": 171,
-  "east": 99,
-  "central": 105,
+  "west": 138,
+  "east": 106,
+  "central": 95,
   "south": 70,
-  "north": 107
+  "north": 90
  },
  "hist": [
-  {
-   "t": "2026-10-10T05:00:00+08:00",
-   "psi": {
-    "west": 166,
-    "east": 156,
-    "central": 177,
-    "south": 145,
-    "north": 127
-   }
-  },
   {
    "t": "2026-10-10T06:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 123,
     "north": 123
    }
+  },
+  {
+   "t": "2026-10-12T22:00:00+08:00",
+   "psi": {
+    "west": 164,
+    "east": 142,
+    "central": 157,
+    "south": 122,
+    "north": 124
+   }
   }
  ],
- "newsUpdated": "2026-10-12T21:19:43+08:00",
+ "newsUpdated": "2026-10-12T22:08:20+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Latest news from Azerbaijan",
+   "title": "Malaysia to flag haze crisis at ASEAN talks",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qT195TFFXY1NVMm12SG9hMEJpRTRremtJNjNZREVleWczbXlldXV3VjJWWVZPaEktN1lUQXFIODQxQ0Z1azRXOVNIYkNWSlVPeUVxQ3JUOG15TjN5RjVKeHBDeU53Tjg0eENkSlJ0bERDUQ?oc=5",
+   "time": "2026-10-12T22:01:01+08:00",
+   "summary": ""
   },
   {
    "source": "Anadolu Ajansı",
@@ -518,6 +525,20 @@
    "title": "Forest Fires Continue to Plague Indonesia As Regional Haze Concerns Persist",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMC15REV0aFI3VHVXS1VHRXd4TENENThsOUpGYXB1NUVDRTF2bTFOQWZNYUdqY1lCc0NfY29GRHEwcE94U2NGWWNjdFFZVGlOSHNJbGpmYXJ1bnY0aUoxelQ5TXNpZnJGSUViaW12SWlRTElXUlhiVTNQRDVucE1LRXRJaWNWR0N6WGdCLU52c0Z2RmQxQmhXWnVQMVoyZ2hXeFdmT1gxUGRqNlZtbzU5NmFfY19hZkwtMjhaYlRoeGJmUjNfdHdn0gHMAUFVX3lxTE5Dd2diakNaeGI0X3hhRG9EUVI4LWZiWG43UU1fVk9zZFVrOEF3MVBmYXNtNFhyQmd1TnRndXBiOWVBTldIc3ExVWEtLVF6M253bFB5bDc2M3RadlZsNldIRzZNNnZMVVdhNGtBbVdBQ3lvTkYxQThiRUdnRjgyMVZ1NFlwOWk2Qm9nVVNDUk4zY0k1NEgxbG8xc0wzNWpqNG4wU0MyejVSVktUd0lhMlZwc2NGUWpFYzd2dmIzMTd2Tmc4M0ppYTBzcC1oOA?oc=5",
    "time": "2026-10-12T20:59:52+08:00",
+   "summary": ""
+  },
+  {
+   "source": "bernama",
+   "title": "Singapore Mosques To Stay Open For Prayers, Curb Outdoor Activities If Haze Worsens",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oYTFpNFQ3cllaeUhxMzVZbThxMHgxYXFMZm43UUlQbndQamxBWE51ang3ckhnZ2hueWFONV9JWm5tZklPX0xpVW1NdjFYVDM5SUNBTnRCUmVPZVhK?oc=5",
+   "time": "2026-10-12T20:56:15+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Firefly cancels Subang-Singapore flights until October 14 as haze persists",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTlJLNTd1dVd0eHFNRlVfMS1oQnU1bDZwV1RtOHhfQThVS0k5Z0paV0tNc3ZHRmRldFlfVzh3NWxVdGVqZ3ZqQzNjYXN6b083VjctbW1ZSlpuQ2NnWmdsaVZ6UWZoVmdxbWlLa21QWWFZMWg0Z0d4cFRMQmw5Y1FxNWoxZzhSWUZWcTN1ZUJ3a2lCWGZsbHFzSVBlTDdpQmFucmVsYnhuSEhiOGwwNHZOZXpOa2JRSXh2TWtaNk5zTVpCWDRFV2xOa2JwSkJtYlRzaGfSAdIBQVVfeXFMTk5SSzU3dXVXdHhxTUZVXzEtaEJ1NWw2cFdUbTh4X0E4VUtJOWdKWldLTXN2R0ZkZXRZX1c4dzVsVXRlamd2akMzY2Fzem9PN1Y3LW1tWUpabkNjZ1pnbGlWelFmaFZncW1pS2ttUFlhWTFoNGdHeHBUTEJsOWNRcTVqMWc4UllGVnEzdWVCd2tpQlhmbGxxc0lQZUw3aUJhbnJlbGJ4bkhIYjhsMDR2TmV6TmtiUUl4dk1rWjZOc01aQlg0RVdsTmticEpCbWJUc2hn?oc=5",
+   "time": "2026-10-12T20:36:14+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "M'sia to close more schools due to haze, Melaka, Negri Sembilan & Putrajaya join Johor",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84azJyNXU2bXdMaEt1R3Exc0JrclQ1dXdNQnIzNmtPbXR1OGR3ZkRpdnRlM1FBTHNfcTlhd09WNjFESGJOa3JvN0RNM1hJVVgtbEZMLUpkSFc3WDJsaDY5SXFkV2xIUDl6bXc?oc=5",
    "time": "2026-10-12T18:46:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Johor monitors haze daily to decide school operations",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXV6NUpZSGlpM2pkUVlZbHVRdVhBY0F1ZDZ3YjBfNklfaV9RM1RqV0FZNmJuSnRkbV9BSUg0UDJ0ZDBmWjVhd2ZmS2FfRFBZRlhwWU95Ylk4ektyNlJjWUtUTnJCRzY0VUV0VFZhU3pTNnhhQkxJT3J5cVZZS1NIbzBya0V4Qkl4dXU4OXphUjcyWW5jdDIyTEItZnRjb1M5WjluOUNB?oc=5",
-   "time": "2026-10-12T18:44:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "At least five races and running club events cancelled due to haze in Singapore",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVlHZWZaN0tWR2I1WWl6bzdxVFFVVEY1djI5T3lrdzdwZzhXNC12TVdFX2pUTjFVcWNFT09CQTIteTZpemNmMHZsN0tQV0NEMGlGaVQwRHVOa3V1WGdwdFBpMFg3U296dkhKdjNaYXNPNUFUVUhzNm5POFZpWUFrX3FWVk1XUkVSTjlaYWJSLUE3T01uMTdHZF9ucXgwNXM0MlM3cGN0OUtfWVNqejFXUkZn?oc=5",
-   "time": "2026-10-12T18:24:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "TheSmartLocal",
-   "title": "All You Need To Know About The Haze Subsidy Scheme, From Eligibility Criteria To Participating Clinics",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8td21kRE5DVGFiSlRhVTZKMndyRGFidF96enJBN2dzYXlmOGt5bElFQXpXT0VQM1lVNDA1Vjd4TGh4X0UtcXA4c21nWmVuY1BjMkJmTkJPZTdxSUxMWVZPc1BYc0pzd9IBZkFVX3lxTE8td21kRE5DVGFiSlRhVTZKMndyRGFidF96enJBN2dzYXlmOGt5bElFQXpXT0VQM1lVNDA1Vjd4TGh4X0UtcXA4c21nWmVuY1BjMkJmTkJPZTdxSUxMWVZPc1BYc0pzdw?oc=5",
-   "time": "2026-10-12T18:12:20+08:00",
    "summary": ""
   }
  ]
