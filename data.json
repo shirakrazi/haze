@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-13T05:00:00+08:00",
+ "updated": "2026-10-13T06:00:00+08:00",
  "psi": {
   "west": 173,
-  "east": 147,
-  "central": 165,
+  "east": 148,
+  "central": 166,
   "south": 131,
   "north": 126
  },
  "pm25": {
-  "west": 102,
-  "east": 92,
-  "central": 114,
-  "south": 84,
-  "north": 53
+  "west": 97,
+  "east": 99,
+  "central": 110,
+  "south": 76,
+  "north": 55
  },
  "hist": [
-  {
-   "t": "2026-10-10T15:00:00+08:00",
-   "psi": {
-    "west": 156,
-    "east": 152,
-    "central": 171,
-    "south": 130,
-    "north": 121
-   }
-  },
   {
    "t": "2026-10-10T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 131,
     "north": 126
    }
+  },
+  {
+   "t": "2026-10-13T06:00:00+08:00",
+   "psi": {
+    "west": 173,
+    "east": 148,
+    "central": 166,
+    "south": 131,
+    "north": 126
+   }
   }
  ],
- "newsUpdated": "2026-10-13T05:07:53+08:00",
+ "newsUpdated": "2026-10-13T06:07:46+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Kompas.com",
+   "title": "Malaysia and Singapore Surrounded by Haze from Forest Fires, Bakom: Beyond Human Error, This is Truly Nature",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUTUtc0N5WXBtLXhPNE9JRG4tNW1YQVlWcDJtLUtrdVhNX25iVWJwalFFam13SUNWVzFWdEZsYkNvTU96ZmJuaTAwMFk1dkxkcFU3WWg5UlFJZ2ZwcklzRDlONXh0amppVHdVY3Bha283TV93NEhPTXlHNWpFbjU0TUh1X2pZRldjSFpBV2ZKOGUwNjZya0JsVVZKeEYwVmNsNU13TmJORVZSdWJ1eEQ5T3p5QXZBYWVrYnE3dkZkMGZZMGQ4?oc=5",
+   "time": "2026-10-13T05:10:20+08:00",
+   "summary": ""
   },
   {
    "source": "Bloomberg.com",
@@ -584,17 +591,10 @@
    "summary": ""
   },
   {
-   "source": "Anadolu Ajansı",
-   "title": "Malaysia to raise transboundary haze crisis at ASEAN foreign ministers' meeting",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbHhFZUkzcUZHYzBlQXRocEtVMDhDZDRVRS04YW9jRE92bVQyVU5UMkNGWmgxaFJrWEI0VTJYOFFxT2cyUkhjdDh0eURZR2UxUi1KeWhmVENMTWdSY182U0M1a1d2emhGMlptUGdiSUFQVHlFZVFQbWdPbUF1WEM2OVFRM3VRUjUtSzZKVTJmMHJ0MGZCbHhxVWdmYzJsN0dkSHRRMkU2SWRIWnBYMHdudlkxNlV2ZjdydWU0SkxBd1Q?oc=5",
-   "time": "2026-10-12T21:18:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "bernama",
-   "title": "Forest Fires Continue To Plague Indonesia As Regional Haze Concerns Persist",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ORXBDRmNkTmp4T08zT2ZzRHdZamtSNFpPWk5qMnlIQngzR19QVDNmTEdfRmcxQm9KZWx2UEtVUG54NFlZbmlOVW9PWW5OWnNXQW9KUFkzTEJLLVlo?oc=5",
-   "time": "2026-10-12T21:01:31+08:00",
+   "source": "Awani International",
+   "title": "Singapore rolls out medical subsidies as haze persists",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ3VqS25xTllpR2prdS1ueUhwVDdPQllSQjU4WjgyeENZRmpTLTR6czRlNFg2c19pVDdld3BwdkJfM1hVd0M4MTZ2eTFyZEd5SUZiS0hueFRkMDkyMElvNjg5QmNTMm1JaXZ2M2hTS29sUFAxZGtFSXcxQkxNVTBya3FIbXZiMHFKUXZrcWFJaVlsQ3hrSXZzdE1n?oc=5",
+   "time": "2026-10-12T21:45:45+08:00",
    "summary": ""
   }
  ]
