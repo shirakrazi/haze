@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-13T02:00:00+08:00",
+ "updated": "2026-10-13T03:00:00+08:00",
  "psi": {
-  "west": 170,
+  "west": 172,
   "east": 145,
-  "central": 163,
-  "south": 128,
-  "north": 126
+  "central": 164,
+  "south": 129,
+  "north": 127
  },
  "pm25": {
-  "west": 115,
-  "east": 106,
-  "central": 125,
-  "south": 100,
-  "north": 70
+  "west": 130,
+  "east": 102,
+  "central": 113,
+  "south": 95,
+  "north": 67
  },
  "hist": [
-  {
-   "t": "2026-10-10T11:00:00+08:00",
-   "psi": {
-    "west": 161,
-    "east": 156,
-    "central": 173,
-    "south": 135,
-    "north": 123
-   }
-  },
   {
    "t": "2026-10-10T13:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 128,
     "north": 126
    }
+  },
+  {
+   "t": "2026-10-13T03:00:00+08:00",
+   "psi": {
+    "west": 172,
+    "east": 145,
+    "central": 164,
+    "south": 129,
+    "north": 127
+   }
   }
  ],
- "newsUpdated": "2026-10-13T02:07:53+08:00",
+ "newsUpdated": "2026-10-13T03:08:10+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Bloomberg.com",
+   "title": "Singapore Can Fix Southeast Asia’s Haze, If It Wants To",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWnBtLTlqQW5saUkyWlJKWjRCUXY3b3MzN0hFTUEwZGxvNTUwejk3TDNvaUxnb0Y1Y2NBbmhIbHRvZ05xRWUwQ1hOVjdFMnNoTWZBaE5KaGt6SW52NHVFYmxFOUZ5bGs5ejM5X3dNcmp6eVFPYUY3R01uRmxhaVItQmZsZFU5UXBaT19PYkgwSUg3bURJMl8yZW16emJJazJ5ZHc5VkdMb2k5aTZY?oc=5",
+   "time": "2026-10-13T03:00:04+08:00",
+   "summary": ""
   },
   {
    "source": "Free Malaysia Today",
@@ -588,13 +595,6 @@
    "title": "Singapore Mosques To Stay Open For Prayers, Curb Outdoor Activities If Haze Worsens",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oYTFpNFQ3cllaeUhxMzVZbThxMHgxYXFMZm43UUlQbndQamxBWE51ang3ckhnZ2hueWFONV9JWm5tZklPX0xpVW1NdjFYVDM5SUNBTnRCUmVPZVhK?oc=5",
    "time": "2026-10-12T20:56:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Firefly cancels Subang-Singapore flights until October 14 as haze persists",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTlJLNTd1dVd0eHFNRlVfMS1oQnU1bDZwV1RtOHhfQThVS0k5Z0paV0tNc3ZHRmRldFlfVzh3NWxVdGVqZ3ZqQzNjYXN6b083VjctbW1ZSlpuQ2NnWmdsaVZ6UWZoVmdxbWlLa21QWWFZMWg0Z0d4cFRMQmw5Y1FxNWoxZzhSWUZWcTN1ZUJ3a2lCWGZsbHFzSVBlTDdpQmFucmVsYnhuSEhiOGwwNHZOZXpOa2JRSXh2TWtaNk5zTVpCWDRFV2xOa2JwSkJtYlRzaGfSAdIBQVVfeXFMTk5SSzU3dXVXdHhxTUZVXzEtaEJ1NWw2cFdUbTh4X0E4VUtJOWdKWldLTXN2R0ZkZXRZX1c4dzVsVXRlamd2akMzY2Fzem9PN1Y3LW1tWUpabkNjZ1pnbGlWelFmaFZncW1pS2ttUFlhWTFoNGdHeHBUTEJsOWNRcTVqMWc4UllGVnEzdWVCd2tpQlhmbGxxc0lQZUw3aUJhbnJlbGJ4bkhIYjhsMDR2TmV6TmtiUUl4dk1rWjZOc01aQlg0RVdsTmticEpCbWJUc2hn?oc=5",
-   "time": "2026-10-12T20:36:14+08:00",
    "summary": ""
   }
  ]
