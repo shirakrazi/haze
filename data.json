@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-12T11:00:00+08:00",
+ "updated": "2026-10-12T12:00:00+08:00",
  "psi": {
   "west": 147,
-  "east": 132,
-  "central": 145,
-  "south": 116,
+  "east": 133,
+  "central": 146,
+  "south": 115,
   "north": 103
  },
  "pm25": {
-  "west": 93,
-  "east": 93,
-  "central": 110,
-  "south": 82,
-  "north": 53
+  "west": 111,
+  "east": 110,
+  "central": 134,
+  "south": 89,
+  "north": 88
  },
  "hist": [
-  {
-   "t": "2026-10-09T18:00:00+08:00",
-   "psi": {
-    "west": 187,
-    "east": 166,
-    "central": 192,
-    "south": 167,
-    "north": 135
-   }
-  },
   {
    "t": "2026-10-09T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 116,
     "north": 103
    }
+  },
+  {
+   "t": "2026-10-12T12:00:00+08:00",
+   "psi": {
+    "west": 147,
+    "east": 133,
+    "central": 146,
+    "south": 115,
+    "north": 103
+   }
   }
  ],
- "newsUpdated": "2026-10-12T11:07:28+08:00",
+ "newsUpdated": "2026-10-12T12:08:09+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,66 @@
    "pinned": true
   },
   {
+   "source": "NST Online",
+   "title": "Haze: Johor assemblyman slams Indonesia over 'we send oxygen' remarks",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbU9zMmV0dkJoZEVSUHpYZzN5cWtwREMyMldtaU5HSmtaMEVxNGdvSUIwVS14Tm5UMmpzbUJxWHd3ZFEwNV9vTUV1czVOZFY1djlydWJnaUFtU2p5UENvcmo0akl2dHlTLUlqem1JWWRSOVVsQVhLMm9fNEVOck14NnVuRktjR0xUV0ozcG92R3MwSjQ0RU1tWW9fNTlmY3BLN05ranNFR2RXYXFkbGZodHhIenZta0hQd0dB0gHAAUFVX3lxTE1NTmx1ZWJFcG9wNFZlejctYTVZS05ldjBxbzJ1U2JxYkZMYU9iTTNuQmVfWnVfTVYzV1h0ejVaMk1zUk1yNkRHVHRKdkNtUzRIT19GVWNRcjVhN01STHN3alZnZ0JLLVVsTThmYy1Sa0hnQzV5d01IRkNnRERvMExBazQ5NC1UNnl2X3NxemloYUVVOU9Yc2RNVm1tMEwtUDBYa2d5SlNnV1c2ajBVZ1c3Umt1OEVUdmZncUMtbXlYSg?oc=5",
+   "time": "2026-10-12T12:02:08+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "CNA938 Rewind - Singapore haze: Why are people still going outdoors despite poor air quality?",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdDViS2k2OUJ3Tm16TXlyT28xMGZKakpjWE9QTm1fQTFUdVA5YUpybnZZZVoyZUc1WHd1Vk04MGN4TVV4NmFza0V4ZjhxYl9IZ3pPUkJObHVNLW8wZUpLTEJsb1ZsUXVsTXFQdDQ5dWdfN2NqcHpvU1dFbC1HRWtpdXVRY3UzS3BXX2t1dFhYcGJUX0FvcHMyN0ZfTlM2Z29GS3lrMXFUNjU4c0twb1diNHY3TkFKX0ZBeDRTZDR0RmlBS04xOHdlZ0IyUE82R25lWGc?oc=5",
+   "time": "2026-10-12T11:47:05+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Education minister says boarding students should stay in hostels during haze closures if conditions remain safe",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPY1E3dHJ4TTB3VWs1RS1XRW1mZEFMU2xPaS1MZFhoYkN2bW1WTllSXzJla01FbjI5dFhBNTZfX3otQVVMTHNyTXBhUld1SWxHR2pYQVpjc0kyTWhpQTh1U3FaVEs3LVVtTWdEQnNQTEYtSmRmRlhieEJ5UFlqUHE0QnNhSE9aVElhTHRGc01YdE9fdzdJNkYzZVozLWVDM0dleFFNaEdWU0Jla2JoY2MtYndNMEVQNzdodE1QZllKaXBpMmRSUkF4bVJyRjJPVVNoOVNEOEVmWWFTcnZVbXlNZjZNYmhSeGhrSEVtajRQSzc0RzU2ckQ5TVY3RjVnQdIBgwJBVV95cUxNVFV6STlkSEtQQWtnU2lBY194NVFmb01vZktqR0FRV0FXem1kMTYwSTJQRnJtYkZVNzQxQTJTMVh3VlA3Qi1Vb1F1LXdHZ0tFVEhiNXQtWHl0bzhyLUxxeU94ZTNRLVg2SFBNcW4tNVZLanNrVnZDNE5LUzZrWmFPUExUYUMwenFQcGFxOGFqRXZCemFOZ19uSFhKdWVjbGtha3RFUWpYTU9EbHFDVnlmSS16ZmpoX1Rmd1VjZnAyQ3dwYXVmM3phQTgxcUJZYkphc0xFeWdtNTFDZ0VRZV9wMmExT3N5M0NfWEVCdVpjcjJyUkI0MUVnbnU4UFpLeE1lOEVV?oc=5",
+   "time": "2026-10-12T11:41:46+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Mosques to remain open for daily, Friday prayers, with haze-related precautions in place: MUIS",
+   "url": "https://www.straitstimes.com/singapore/mosques-to-remain-open-for-daily-friday-prayers-with-haze-related-precautions-in-place-muis",
+   "time": "2026-10-12T11:40:30+08:00",
+   "summary": ""
+  },
+  {
+   "source": "SAYS",
+   "title": "Indonesia Downplays Haze Crisis, Claiming Its Forests Also “Send Oxygen” To Malaysia & Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3o3R0NhaHBQZUg0Q3hUbGJlQWRXQXF4b0NXa3pjZjM3WUZDNTNxRHRMQy13Y0R2alNUOFdkT2cxZldwWEtsT3FtQ21OU1B2c3YyYkRjQTNUczMtTnM0VzNfS1plUnEtNDdUcVR4bXhSNjRaTVdZTHBPQk1adkNqZ2toWHlOeUJmNlFj?oc=5",
+   "time": "2026-10-12T11:39:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne",
+   "title": "Mosques to suspend non-essential outdoor programmes, adjust prayer arrangements if PSI turns very unhealthy: MUIS",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tZ1NyZUFCdWlfMVlhWHpKcEdYS1ZaSU9FU0x4bDl0Q0VSUWl1bnlMdWZMNm9yQ29HWGY2czRKcTVKQVp3eG51TDJvUElsTk1GUjg1SkRGZ3lhcjhON3FBTlBHUEl0MXJIcWVJcmNDYU5pU3VUSnkxMw?oc=5",
+   "time": "2026-10-12T11:35:20+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Air quality unhealthy across Singapore amid sustained haze",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNThGaXhVMEVNS0xQbWphSnAteWVhVER3cENjeW02S2ZUclJYZ2QxYTRBUk9NUFNZdnE1WjZRQ2c3MFB3M3B0aUtxNDZFM3F1aEFNb0x5OW9GMW5WRnNvbW9oNkpuYWtvYVBUSld2NEIyU2xCVHFVMUxFSklsSXY1WTdjSjhkRlBCZDlCS1Z3?oc=5",
+   "time": "2026-10-12T11:26:45+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Mosques to remain open for prayers, arrangements may be adjusted if haze worsens",
    "url": "https://www.channelnewsasia.com/singapore/haze-mosques-open-prayers-muis-6451861",
    "time": "2026-10-12T11:06:41+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Free Malaysia Today",
+   "title": "School closures due to haze depend on local conditions, says Fadhlina",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdkdjcDlhbjBxYk1md2txb1lWSVkzbUo2R1dvbHVxc0JZQS0xVTVhWnhWcXcwLWc2RGFvWXhlUWI0NzNWdlRzOFU1d3dIN25nUHk2djZQczZFMjNtZzUwQnZFdklHY2s4RmtzTW5NQldXVFRhZUU4WTFJVVZJMWF3ZFlQS0hxTG04UVlkQk5oU2dEbGtVMFFzNW5nOUxHUTNqZFBkT243OVZneEdkR3VJclF0Q0JRaUh6U0ZqazVvRFdkWlEzNGlPeg?oc=5",
+   "time": "2026-10-12T11:04:52+08:00",
    "summary": ""
   },
   {
@@ -528,73 +584,17 @@
    "summary": ""
   },
   {
+   "source": "The Jakarta Post",
+   "title": "Fires and cross-border haze: What can still be done",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQmpQYkJ6S2FlSHA1YzFsTjFEMEpwSEd2SmNlMUk1YllQcm14VEs5OXI4YWNvTmNBc1hsOGNxZnJZcDNERGtqTzBmdi1uOHJ1a0tla3VBOGNwb2JSQkkxNEJ1cVppSlFWY0g2SWhUcUczdExqSFFvUTlGeS1ONkh0dlFXOEtNaXBkTlZOQzRfY3lZSmwwTEdUVExzbm4yN1BnbDBLZFEteE1vcVMxWkp4ME1PZ1R0RUd3NUg3RE5MNkhVNFFzcEFmOHUxa0NBQXJScTQyRjk2dDZXS2M?oc=5",
+   "time": "2026-10-12T10:30:42+08:00",
+   "summary": ""
+  },
+  {
    "source": "Asia News Network",
    "title": "Indonesian police investigate deadly highway crashes linked to wildfire haze in Lampung",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRmxETXlSdXpEWDFfUTQzeWRMQzZYWDFnVUNwRGRWQ3FZa1FkbVJJZWhSQk5iTXpPY1V2Si1FQm0tTEstdGtiWkdkSkxLYjhySDQwYk1KSC1EWThZUGM3V05mc3BwZ0xtTDBPaUxiZUR2TktrSFQweXptdVlVRzI2Y0s4RHhJVzZDOFJWcW5aaWc1QnFtQk5relJVbHlPUzUtcHhNekloVEJMdjB3dGJvMGlNZw?oc=5",
    "time": "2026-10-12T10:13:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Air quality unhealthy across Singapore amid sustained haze",
-   "url": "https://www.channelnewsasia.com/singapore/haze-air-quality-unhealthy-psi-pm25-6451716",
-   "time": "2026-10-12T09:59:35+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "Haze watch: PSI across Singapore remains unhealthy, PM2.5 improves in northern and southern regions",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaW1tQi1RV0toWnZJYXp6c2RUeVdUbFJFaFd2MkdWNU5oLWFPeTlDSGh2QVVlYnJLXzFoeVUxdl9xazBDLV9pZVBCdjRIUXRRbGExd2lSeTlRMkl0dXNoQmFkUDJwaDVXSFVWeXhQbzdFdjZYYVFZTWxrdkhNX3BScldaX1g1TzBF?oc=5",
-   "time": "2026-10-12T09:48:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Haze rebounds across 22 areas in Malaysia even as schools set to reopen",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajJrM1VTTk91UXE1SXhZNGhhU1hnZHBlczVTbVFJNHV3Y3VjZm84SnVCNG1RV3MwUGRMNE1rVWxrQW5scFJTdlN1YWZFVjVmSUFHLU80aV9zNVlueVZtemowbC1qLUt0LUhXT2R6RnlhektHM0FQc0lOVFZSVFc0Ukk4c0NVRXh2TVA0eFhBYlg2VmN2eU5ZakE5bnlldDJzLXF3ajBidzgwWEVFMk9DQXNzUkxUM0ZyWEE4bEZWdWQzWnlvdEF5ctIBzgFBVV95cUxQTmI1T3RrR2owMkM1YnFCTFFwbXN3cHEyUC15cnpYdC1yMUJ4amg3T1JzY2ExcUZ2QW1XWTRGT1ZhTXFVNkloYUZERHJOc1N1OE96MnhiQ09fMVJfV0g5SS15Qldsd2hxcTZMYUt6QUtWQkl2YjBrV3REczkxMWoyMkY5UmdzeGE0dlNQVkJJcTNjSktrbmFYd084NktVbzVWaXZOMHN6dXM2c21sOVl5anN6YUIyaVVlelNHWVlQZC1DaEw1RlQtZDRHUm5qUQ?oc=5",
-   "time": "2026-10-12T09:00:28+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "QuickCheck: Can your car's air-conditioning protect you from the haze?",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ1JOYVNyRkJ3TzBXU0lwSlVFSUNEV29nRC0tRWxFbVRiNjdhMXNENlBvai02eVBXdURlZzhKbEt4cW53RUVwbFNZaXNzT1V0NjBkMVFaUFlhdG1RRER4bUYzV3d2eHlFUUVyUFlRa2FKdkkybVU4cjhfd3Joc1EzdEM3QXBiN2JjZ1A2aTdUYXQ5TkdFT1BVdjM1MWFKbURJN01mZ3hpdGhyTy1sUHFfMFJKV0xPMEh1WjJoNm5lZVJyeFk?oc=5",
-   "time": "2026-10-12T08:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "ST Live: Anita Mui’s ashes missing, Jamus Lim in hospital, Singapore haze",
-   "url": "https://www.straitstimes.com/singapore/st-live-news-as-it-happens4",
-   "time": "2026-10-12T07:40:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Air quality in Singapore still unhealthy as haze persists",
-   "url": "https://www.straitstimes.com/singapore/air-quality-in-singapore-still-unhealthy-as-haze-persists",
-   "time": "2026-10-12T06:15:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Retail News Asia",
-   "title": "Singapore Activates Haze Subsidies as PSI Hits 151",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWdXT3IyQU4yXzcxVlhjZUtSSm1GMUtLeXpHUW90Yno2aEdxZTQwNFhRX2xUbVp0LVZYekZuT01zTnJWa0xJRl82UnJYc2hrb21RRTQ5Y0EtNHNBX2tNWlFMa0JpUDJWU1lOcTUwMVVJWmp3VmFrVEN2NHZFcHhVdElqcS0?oc=5",
-   "time": "2026-10-12T03:20:42+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Flu activity in Singapore at highest level since 2024; haze may worsen symptoms",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTkRIV1U4QzktMHN5Vmd3OS1SUVRGMGJad1FRTVJzaHpPYjAtMUZ1NXZkQ0Zkb21VZmFGWEJla0VsV3lIQklnZHNrLTJEMzFEbklqWXNTcElPcXpjZlRmS2ZRWW9zYnl0OHFrVTdFMU8wdzJLNE1BeDdSUUFyRUVWOXNTQ1JsbzBzeXIyaWFwWWNDUjQ2UjY0b2daZUFHUnVnNm9VQXNmT09taG9YV3NFd1plVFVQZw?oc=5",
-   "time": "2026-10-12T00:17:28+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Human Resources Online",
-   "title": "DOSH urges employers in Malaysia to control workers' exposure to haze",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2I1c05qbURCZC1vMkFyUDdwNHZ5Q2Q3cnl2TnFKc05NZVpDbEF0ZWpnd1FOdUJjMWZLR3NNaDNhVHdlbS02Yy1LZnIyRjBVd1lwSTdOb0FQX2lOWjRZX2xlY0VBSWZyQ2loRzQ2VVRHT3BSYWhoVVFZWHJZTWJ1bUI4b0VMV3pVbFRZa25EMHp6QTQxdHdCQjk5czlQczBSMmY2cllpcXY?oc=5",
-   "time": "2026-10-11T23:22:46+08:00",
    "summary": ""
   }
  ]
