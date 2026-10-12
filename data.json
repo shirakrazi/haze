@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-12T13:00:00+08:00",
+ "updated": "2026-10-12T17:00:00+08:00",
  "psi": {
-  "west": 147,
-  "east": 133,
-  "central": 147,
-  "south": 115,
-  "north": 104
+  "west": 151,
+  "east": 138,
+  "central": 152,
+  "south": 118,
+  "north": 114
  },
  "pm25": {
-  "west": 124,
-  "east": 116,
-  "central": 156,
-  "south": 91,
-  "north": 93
+  "west": 156,
+  "east": 115,
+  "central": 143,
+  "south": 87,
+  "north": 116
  },
  "hist": [
-  {
-   "t": "2026-10-10T00:00:00+08:00",
-   "psi": {
-    "west": 178,
-    "east": 162,
-    "central": 183,
-    "south": 155,
-    "north": 133
-   }
-  },
   {
    "t": "2026-10-10T01:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 115,
     "north": 104
    }
+  },
+  {
+   "t": "2026-10-12T17:00:00+08:00",
+   "psi": {
+    "west": 151,
+    "east": 138,
+    "central": 152,
+    "south": 118,
+    "north": 114
+   }
   }
  ],
- "newsUpdated": "2026-10-12T13:07:52+08:00",
+ "newsUpdated": "2026-10-12T17:08:17+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "N95 masks for public bus and rail workers, delivery riders amid haze",
+   "url": "https://www.straitstimes.com/singapore/n95-masks-for-public-bus-and-rail-workers-delivery-riders-amid-haze",
+   "time": "2026-10-12T16:31:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Malaysia’s Firefly extends Seletar-Subang flight cancellations till Oct 13 amid haze",
+   "url": "https://www.straitstimes.com/singapore/malaysias-firefly-extends-seletar-subang-flight-cancellations-till-oct-13-amid-haze",
+   "time": "2026-10-12T15:05:00+08:00",
+   "summary": ""
   },
   {
    "source": "TTG Asia",
@@ -549,13 +563,6 @@
    "summary": ""
   },
   {
-   "source": "The Straits Times",
-   "title": "Mosques to remain open for daily, Friday prayers, with haze-related precautions in place: MUIS",
-   "url": "https://www.straitstimes.com/singapore/mosques-to-remain-open-for-daily-friday-prayers-with-haze-related-precautions-in-place-muis",
-   "time": "2026-10-12T11:40:30+08:00",
-   "summary": ""
-  },
-  {
    "source": "SAYS",
    "title": "Indonesia Downplays Haze Crisis, Claiming Its Forests Also “Send Oxygen” To Malaysia & Singapore",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3o3R0NhaHBQZUg0Q3hUbGJlQWRXQXF4b0NXa3pjZjM3WUZDNTNxRHRMQy13Y0R2alNUOFdkT2cxZldwWEtsT3FtQ21OU1B2c3YyYkRjQTNUczMtTnM0VzNfS1plUnEtNDdUcVR4bXhSNjRaTVdZTHBPQk1adkNqZ2toWHlOeUJmNlFj?oc=5",
@@ -588,13 +595,6 @@
    "title": "School closures due to haze depend on local conditions, says Fadhlina",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdkdjcDlhbjBxYk1md2txb1lWSVkzbUo2R1dvbHVxc0JZQS0xVTVhWnhWcXcwLWc2RGFvWXhlUWI0NzNWdlRzOFU1d3dIN25nUHk2djZQczZFMjNtZzUwQnZFdklHY2s4RmtzTW5NQldXVFRhZUU4WTFJVVZJMWF3ZFlQS0hxTG04UVlkQk5oU2dEbGtVMFFzNW5nOUxHUTNqZFBkT243OVZneEdkR3VJclF0Q0JRaUh6U0ZqazVvRFdkWlEzNGlPeg?oc=5",
    "time": "2026-10-12T11:04:52+08:00",
-   "summary": ""
-  },
-  {
-   "source": "www.tabla.com.sg",
-   "title": "Haze Keeps Air Quality Unhealthy, Firefly Cancels Flights",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOelRMbkkyVWJsRWRtTGpCMzk5eU1vSnkxR0t2cWdDclVLSlE4NVJVWFpBOFMtalNUUXlQcWR3Y3FVT0pKeDVmSXZCbG94SjhKV1F5V3JYd2Q5dXRhWVBfekc2cUNCQ3J1WFlGSWRUWW1hcHE3dGVhUVVMUFlXeFZFaDUwRTF3MVNONXI0eHc5YVBXNUpYVzlGT2NVOWxZTzZ0SWgxZGFoekdoYTJuTXdFSjIyQlUzZUNi?oc=5",
-   "time": "2026-10-12T10:59:44+08:00",
    "summary": ""
   }
  ]
