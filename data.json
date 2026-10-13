@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-14T05:00:00+08:00",
+ "updated": "2026-10-14T06:00:00+08:00",
  "psi": {
-  "west": 146,
-  "east": 143,
+  "west": 145,
+  "east": 142,
   "central": 143,
   "south": 123,
-  "north": 106
+  "north": 107
  },
  "pm25": {
-  "west": 84,
-  "east": 90,
-  "central": 95,
-  "south": 67,
-  "north": 54
+  "west": 82,
+  "east": 91,
+  "central": 96,
+  "south": 74,
+  "north": 60
  },
  "hist": [
-  {
-   "t": "2026-10-11T10:00:00+08:00",
-   "psi": {
-    "west": 151,
-    "east": 136,
-    "central": 149,
-    "south": 115,
-    "north": 118
-   }
-  },
   {
    "t": "2026-10-11T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 123,
     "north": 106
    }
+  },
+  {
+   "t": "2026-10-14T06:00:00+08:00",
+   "psi": {
+    "west": 145,
+    "east": 142,
+    "central": 143,
+    "south": 123,
+    "north": 107
+   }
   }
  ],
- "newsUpdated": "2026-10-14T05:51:05+08:00",
+ "newsUpdated": "2026-10-14T06:08:06+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,31 @@
    "pinned": true
   },
   {
+   "source": "The Straits Times",
+   "title": "Hazy conditions persist overnight as PSI remains unhealthy across Singapore",
+   "url": "https://www.straitstimes.com/singapore/hazy-conditions-persist-overnight-as-psi-remains-unhealthy-across-singapore",
+   "time": "2026-10-14T06:05:44+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BBC",
+   "title": "Haze: Who's to blame for the toxic smog choking South East Asia?",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mTks5N2RRS2JqbXUzX015Z1k0MXpSSk5NbE9aQjRtTEdBWGtVT2U0SnM0N1Z1M1hVUlJEU0JWcm83b281U1BSNXI1VXZpd1RkMG5RbGVaRURnUWc?oc=5",
+   "time": "2026-10-14T06:01:43+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Malaysia’s haze-related school closures leave parents scrambling to keep children on track for exams",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlFtSDhoQ3pDeVNrM3h1RUw4TDVPbFM5WmhPYnVLTEJ0Q1o0cDBTQWFzNW9xZ3hWSlotai0wQUNZV1FjZDBKaHlBQ2dLcmNVd0laUEJkcDhxRlh1RHNiU3ZCWXJBd3djcnMxQWpvcV9XamNaVWZBQmxLRFlxclpydVBHdzZ1N09NaE9ERHM3SmFoZw?oc=5",
+   "time": "2026-10-14T06:00:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Star",
    "title": "Haze hinders efforts to battle the blaze",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTk2RVpER0ItVTllUUZ4MmN1ZHJSejBUeFNNQnVYazV6Qy1iU252N29Pd21hdE9QUFRZSVZjV2lobGNPWGFnYVNOYnRReFdKaEx5M0E0NGVaOXVnUkxCQXIycXlSbW1JY0wyNGNmY3RmZEVULUZTVUtsOTY2QUQ0LVFQOWwxUmktbzl0RDl1ejhHZkZuX1VpbDUyRHpodDEzVHM0?oc=5",
-   "time": "2026-10-14T05:49:39+08:00",
+   "time": "2026-10-14T05:56:15+08:00",
    "summary": ""
   },
   {
@@ -525,6 +546,13 @@
    "title": "Singapore reinstates medical subsidies as Indonesian haze worsens",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWoxYkdiSUxrYjZtVFIyNDZFM0owMF8xb19yOG9PekZNNFBEakduOWhwakMxcXVKVWZPVTBpSjBoWmV1ZGNPR2FDVU9makZQMWl6SnVrUDFqNWd0ZE56cXhnb2t1NEYwSHg2MGg5VTJXU2lMMkV5VjE5OERBS21xLXM5Y3lQWVhuR0l2ZnRQNktkcW9tc1ZqdTRRb1RDQWxtYW9OZW9reTh5Nm1JeUJRc0hDWnB3d3lsa2NLeDNNN183UQ?oc=5",
    "time": "2026-10-14T00:38:48+08:00",
+   "summary": ""
+  },
+  {
+   "source": "IDNFinancials",
+   "title": "ASEAN to discuss transboundary haze ahead of November summit",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa05jSjFwUTQ3SXZGTmxpVkFoajlWNjRIbUNxZnZOenY0UnpzTi1adURfeTdDZnRTak5zb2Q5UExkWWlPNmlwMWVTVXJaVGtqSC1vSVNJNzdITnJkSkhHNEhDcUZZNjNZLVcwZHhucVpRaTZQZGlmQzBCb2NOYk5USzFyOTBiY05FaUN1SDdUTXRqMWFVemFCTXNleWxDTkFhTTJz?oc=5",
+   "time": "2026-10-13T23:40:00+08:00",
    "summary": ""
   },
   {
@@ -567,34 +595,6 @@
    "title": "Cross-border haze expected to ease in 2 weeks, says deputy minister",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmZOcUFZall3S0dnQWlxOFVNd2lyWmlEbVNyNzBkLW1xNG4xQlVVZU85eXlLc2pYNV8yYTh1RHA5MXpDczNmYm9NRnhJNUY3QXJCOWtRcmV3VzAzNWpPeXBLN0VEUjNZVEpwUGtFVHluQnBvRlJkeERHVTNoV205MjQ5SkVYM25HT3gtcEJRWnpJTF9waTQ2U3I1SDhNRTFCTXZnb1JRbUtqZkVfNncwRUxyYnlraFdfQXNSU21fM3FiUDJGZUE?oc=5",
    "time": "2026-10-13T19:52:32+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Air quality forecast to remain in unhealthy range on Oct 14: NEA",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNDFNUGhMczBkZFVqUWNpR0U0QlJYS1N4N252aTdjOGxPUFZPcWdvcS1IRmVjMFVzZXBsRHBBQUN2X3FSUEwxMzRKYldLc3gydnR5MHhDOGZIbGFHaFlSV0VDekdCa2lpODk0X3F6cXgtNER5Vk9lRTY5eDhoTVJGS0Jkb1JNaFJxQ3I2aXVB?oc=5",
-   "time": "2026-10-13T19:48:12+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NEA.gov.sg",
-   "title": "Haze Situation Update (13 October 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSWZvNzNrN2NQZnFzLWJQMG81QkZCWGc0YjdPajBGMG1kd2Zvb1JFZmktMlp5dENKdlRxbDM2eWQyZC1meERrb2dzVGRQdVJDZmdBVXB6UTAwU2VyMU9JLTVJNU1rUWJmcVBTOTdzVnZ6TDk3dUwwYnJtVGUybUNaWEZYbzZxLUJrUExqSlo2Q2k2Zw?oc=5",
-   "time": "2026-10-13T19:46:55+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze update: 26 areas record unhealthy air quality as at 7pm, Pasir Gudang worst hit",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPXzFoc1I3WmtYbWpnQkxjZXpFUTZkM2xFUGt3NE5GOG1zR0VoLUdmSnl2ZnZkbzNWbVpXOGFhM3F0SGRhRnpOQ29rTXFhYWNTNk1QOXBJbGxhZHlieEw3LXJrTGR3WklhazN4ZjNlX3RTSjdidWcwNTlmdGRBSDR5VC1LZk1RLXBUd1FnbzdiRXJXbFplMkxkMmNMY0pHTmJlYVlVLVZpaW5uek9sSU9GV2JzbDFHaVhNbi1Jb1ZkeXgzSllDS18tMXh4bWI?oc=5",
-   "time": "2026-10-13T19:26:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "U.S. News & World Report",
-   "title": "Indonesia's Prabowo Orders More Resources to Fight Wildfires as Haze Anger Grows",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWM4LW9TQ3N1NUhsTHRsQ3VSZUFFQkpMSmFBOE82MGRrVC1SeWJyMUNMdHU4N0ZfZDhGUmx2RTNaRXBicFpXQnRQQXIxSzIzd3BIVUl4V2M3cUpGdDhaYWVvaGlsQzV6bkZVYldvUFE1bTdycnF6eEtNdzVUQjFUY2dxanpVd2FOTFlrX1pPcjFZZ1N0Q1J1Ymw1TG1LV2tIajlJRUhQUWVpQVVIczc5R3FCdS1mWklRT0xPaVhwMGxrTjhsMl9nbV9WSjNtQQ?oc=5",
-   "time": "2026-10-13T19:09:24+08:00",
    "summary": ""
   }
  ]
