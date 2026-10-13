@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-13T11:00:00+08:00",
+ "updated": "2026-10-13T12:00:00+08:00",
  "psi": {
   "west": 174,
-  "east": 156,
+  "east": 155,
   "central": 170,
   "south": 134,
-  "north": 129
+  "north": 128
  },
  "pm25": {
-  "west": 125,
-  "east": 101,
-  "central": 115,
-  "south": 82,
-  "north": 72
+  "west": 127,
+  "east": 100,
+  "central": 118,
+  "south": 89,
+  "north": 64
  },
  "hist": [
-  {
-   "t": "2026-10-10T23:00:00+08:00",
-   "psi": {
-    "west": 152,
-    "east": 145,
-    "central": 163,
-    "south": 125,
-    "north": 119
-   }
-  },
   {
    "t": "2026-10-11T00:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 134,
     "north": 129
    }
+  },
+  {
+   "t": "2026-10-13T12:00:00+08:00",
+   "psi": {
+    "west": 174,
+    "east": 155,
+    "central": 170,
+    "south": 134,
+    "north": 128
+   }
   }
  ],
- "newsUpdated": "2026-10-13T11:06:50+08:00",
+ "newsUpdated": "2026-10-13T12:08:00+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Mothership",
+   "title": "NEA monitoring haze situation closely; probes into 4 firms over 2015 haze situation still ongoing",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPa2xvZm9ITVY2UjJ5UHJKa0xjNHdIaUtId0ZXSXZNRTBxLTdobDdYNjc4V201alhvb3NoVUJhTGNkdjgtOFFXaFZQS2ZtWWJZUTR3N1FLWlpFdm9XcHNrbGdfQQ?oc=5",
+   "time": "2026-10-13T11:16:58+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Free Malaysia Today",
+   "title": "Low-cost carrier Firefly extends flight cancellations due to haze",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRlcza2hyaU9aZlZoZlY0NG9Vd1pIcnMyb2FQdFdoSHNSdHBOcXREa0kzX2swTmF6Nll2NDZLNlp4QnZtUlkzaHA0NEd3YW0zbktFb0xkTWJvZGxjclVmRHoyTmJhNlZZQl9ZX0FOaGRUbU1majUzNGlZd2hxQkZGclk0TTBONjNmT2pUWmVJb2QtOVVnZzhCQUhiWGtMcy1iR0wxNDRwNkMwREZ4Q3VHYS00Ui1FMHVnWmpoVG4xZXVZYkQtZjJn?oc=5",
+   "time": "2026-10-13T11:13:29+08:00",
+   "summary": ""
+  },
+  {
+   "source": "KLSE Screener",
+   "title": "Firefly extends Subang-Seletar flight cancellations due to haze",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVVpYM0xSaG9wRW1wcC1YRFBiQ3hIZ204WkZSRDdVUHFRelk5NE9DSHlCQ0hoX19sSVNLUHVGeHlkdGRtR0FqMTlKa3lsMjEtNnlzM0I2NzhMTkV6cHQ0cWhPU0RJTHowUXVyLTJLcFBhWnhKWGpFeGo3VldXbkpaUW40Rk8yamlQMEc5VUY3R3k0OWpKNVZkN0lUTG1LeFdBUzBOZDBsVU1HQlJOdS1ZZEZPWQ?oc=5",
+   "time": "2026-10-13T10:56:10+08:00",
+   "summary": ""
   },
   {
    "source": "Cebu Daily News",
@@ -549,6 +570,13 @@
    "summary": ""
   },
   {
+   "source": "AsiaOne",
+   "title": "Stop making excuses and apologise for haze, Johor politician tells Indonesia, Malaysia News",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGZ3Z0VjXzM4ZUxWQXFCak56YUhOSkdEOVlfbU1fb2xObG1iSHEwd0lGQUEzT1h5Y1JfOHRSamdfYlR6Zm1rVlVqNGJnNU52M2llb3N5aUhQY29EVTl5NTRRYmhqX1RtQ2FfY2t0UmtvdHpGemtEVTdlOXN1NXpvc2ptQkRUUmlGOFpmV190emdlX0wzVHJNbVpTNUxISndmYjVnS2RMcw?oc=5",
+   "time": "2026-10-13T10:16:44+08:00",
+   "summary": ""
+  },
+  {
    "source": "Kompas.com",
    "title": "Indonesia Responds After Malaysia \"Cries Out\" Over Smoke Haze",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2c0a3liYXNTSllNWG83WERCelFUVGk1QjZHV0w5U0h6VzQ4S01EZjZQLU1TY2JLX0hCd2NPNkZndm54UTFHUXNMdnpkZVRtOWpxMWlmNnRvUlp6Vkc4RGtUdU9TSmtPS0tkMHNpbjFVUDFOdGhRZzlpdXZxMnlTOWlTSWJ0anppZHRmWDlmUjdrQWJac0pnQWs0S0stb05jeXZKRWV3bXZSZ2s?oc=5",
@@ -567,34 +595,6 @@
    "title": "Haze from Forest Fires: A Shared ASEAN Challenge",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUNsRkVuZE43R2pTZWVCYkJlNGNLS1FjM2dUNXRxOF9XWGFTR0NmbUpqTHNnaFRDWkRFdVZZbXBVdXdzeVBDc21LQU1fa2x3UkpIcTF4LVN6UVBUM25oLVRIX3JhdkJPblFnd0h4aVJQNkxtXzJaYlE2c2FsZmtxMmJWZWJoeEFBVzh5M0V6SUF2SjBNVm9YUk9Jcw?oc=5",
    "time": "2026-10-13T09:47:01+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Malaysia",
-   "title": "Opinion: Singapore can fix Southeast Asia’s haze, if it wants to",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LeDBSRVhLdWMtSHFVZkJ6R045WS1TVUVGVy0tTVVkV1lLTXNpVUd2aEFrYUdVdFNaQi1hb3FvbHhNMzZLck81MDNOWVpHYklJ?oc=5",
-   "time": "2026-10-13T09:44:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Malaysia aims to slap ‘disaster’ status on transboundary haze at Asean meet",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXczT0dzZ3RWanVsbXRHSURMRmtwQkFrMHA0YWlvc1RUTUE4c3RTUEcyWmFpeEZjajRZaV9FR0hoTGhwa0IxUFZxY1c0N3RBR1VSbDhidWVzeEQ3ZHRXTnJMTm8wajF1clBBUDFrd2pDTTkxbVNrTTloT3JRamlDTWJ6a1kxMVRyN05uSWdYN2lOZjQzQ3RSQ1ItZ21mQ0ZRamtabXZQMWlseElwSmVCMUhGZnNnRWJidGhjQ0NNcUV3WU5TVmVFUkhXY9IB0AFBVV95cUxQalhvVUREUGhQVC1SRXJ0TWhvcjJWbm5CSWw0WGIxa1VlZzJzMmlrV1RKTWpoVmpHYzhFU09uY3F2cmRFSFRicHV1c0dPOElXNlVMTkR6S1EzS0dPUXZ2QXNPdE5SNlRsTEQ3MW5nZFloRkE3MWNzWGhJZ2VlZkU1VnRGWGFXYlBmMFF0ZGtGUTFfdS02NGhBQTR4STVsaWlrRDEtdW5pd3RkNm1SaHdfX0JKeC1BaDlNcGsyZFZLdDFoOFRhTFFHZDdzdWlWN25V?oc=5",
-   "time": "2026-10-13T09:37:39+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Human Resources Online",
-   "title": "Singapore activates haze subsidy scheme from 12 October, with treatment capped at S$10",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOejZFNXlnRkp5MV9KdmM2M1Y4NmNkcWtwUUVIUHZLdWNrSXhEcTBzUUpFWDVFUUpTZmNCRHlnaFdDTU1pMEJQTEpjYVFEOWZDZHNhc01MeDd1WjFBTE95MWpDdEJ5OC1ZV2tNSmJQalJxcmFTY0JLc0xkYkJGZEtMUjQyTTlYREdJUUlWd2swdU1mSXlBVkFvOXNWSEdOVTB1MjlnN013aEtzUV9jdEpjWUJESHR4b0hfLXo1UnhwRQ?oc=5",
-   "time": "2026-10-13T09:36:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "Haze watch Oct 13: PSI rising across Singapore amid higher PM2.5 readings overnight, remains in unhealthy range",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORXhJYWViekNNSXhhelk3SlVqeHVzaHQtSXg5bXIzTXFUYzg2V1lkVk1MU3lfM0VaNXBZVnc3WlFabThpZzd0N194MmFLMmZpanNOWk9VOFlBcmVRZlhNQTBONi0xQi1iQTBscnZxcnB4aWhSR3pJdFR0d285U2tlMFc5Nm1WeHR6U2I1NHJzOWlNOGdy?oc=5",
-   "time": "2026-10-13T09:25:41+08:00",
    "summary": ""
   }
  ]
