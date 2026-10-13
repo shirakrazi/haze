@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-13T21:00:00+08:00",
+ "updated": "2026-10-13T22:00:00+08:00",
  "psi": {
-  "west": 156,
-  "east": 146,
+  "west": 154,
+  "east": 145,
   "central": 152,
   "south": 126,
-  "north": 108
+  "north": 107
  },
  "pm25": {
-  "west": 99,
-  "east": 79,
-  "central": 97,
-  "south": 54,
-  "north": 62
+  "west": 106,
+  "east": 83,
+  "central": 98,
+  "south": 77,
+  "north": 63
  },
  "hist": [
-  {
-   "t": "2026-10-11T07:00:00+08:00",
-   "psi": {
-    "west": 153,
-    "east": 140,
-    "central": 153,
-    "south": 116,
-    "north": 119
-   }
-  },
   {
    "t": "2026-10-11T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 126,
     "north": 108
    }
+  },
+  {
+   "t": "2026-10-13T22:00:00+08:00",
+   "psi": {
+    "west": 154,
+    "east": 145,
+    "central": 152,
+    "south": 126,
+    "north": 107
+   }
   }
  ],
- "newsUpdated": "2026-10-13T21:08:11+08:00",
+ "newsUpdated": "2026-10-13T22:07:59+08:00",
  "news": [
   {
    "source": "CNA",
@@ -518,6 +518,13 @@
    "title": "Evidence hurdles in holding firms accountable for overseas haze - deputy minister",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOUNneHU1dzE3cGpGUEdiMjVUNlR1N0ZYbDRhQUpsby1wQnJneXJpR3VJNXptOVFtV011T1Ixck9WdHEzdVpOZ1ZtYkhrRWZjTDhvVGlfeXI2YXc3Tk9LREtZZGlJYS1IWlhTRFY1TUtnVnZ2X1hYNld2eHd2ZnRLVk4taHJkLUlrY19oY0hsMnB1SkpBYmNlZ1ZaWnUwRDRYeno4UkJaazByR1ZUQWg2WU1qLUkxeXpqLWQxVg?oc=5",
    "time": "2026-10-13T20:32:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Haze expected to ease over next two weeks",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNWpsQUw0Vm5ETTBUcFdRNGI0blUtWml5V2kzZk1ka0NFdzViTFpDcmNJTHYwSTlzU2FKb01HbzR4Mjk1UVRaQzRCY0ZQeU04MUhVS2tXV0R1QnNBYWt5WWt6Sl9ZSFdpUWw5NDhMMUlIb21KSldJLWxWakxhYnFBMzNCazBGSzVfN2FMclZVRC15RTDSAZgBQVVfeXFMUEw0azBPOU9LWVFXcXpnT1dicFF6T1psRVAyTUl4NGV0ZnVwNkZ0MThaaDR3MTZxd0hOa1pvTC1IVUVvZnZrcUFmNnEwOHgya25UNUNlRnJpdGNLYUZNUDJBeHNlcU8xM25NYlluYWtaR3A4c29nWFV3djNzT2l3Si1Sa1RRcVlndTl5cnJMTWhYRmw1NzdFNVU?oc=5",
+   "time": "2026-10-13T20:28:29+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "STAM and MUET examinations in Pahang to continue as planned despite haze",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnNLVzdYRVpTdDhlS3RGR29VcmV2MDNxOW14cmRDcTdYTUlpUEI3YzNBVG1ESDBVLWxvQlBYWHVscGgwaVNvYno5QVdhaWVRQUU3Ni1xSjVfWlNtSlpoNHljb05jTTlNTVB0andQWWFVVTZkQVhZb01idTlCSzBIOVJUYWZuZmF5bDJUV0E1S2JsTFhlN3ludkI2M3VWYVhBem0xamJIZTVuWjVVWmhNcWdqUFJkMDVxd2JKbkEtVC14aTd1N1lYOFp30gHPAUFVX3lxTFBXczd3SzZkYUFiM0JZV1pDTDNtN3ZfWXhXWGQxZG5CckVTa0tfWnNvcDhIM2VDaExiTkVNQUZnZUFlZ0dZUzVSc29Xb3Y3SENOR3VscFVxNGxPZFhXTG1Cck9SSmhzUVpOUDRsOUpOOWhrTFZsRHE5NUticVJrOHNoTE0tWnpJbVFuRVh2T1RBbGNQTkU4T29qd0Fic3A5bGE5d3RERmdzQ2VLS29HVVVMU0lERDlxNE9PaEdmYXRLSFNzRGdGbXdWMklDU3JGYw?oc=5",
    "time": "2026-10-13T18:33:10+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Nation Thailand",
-   "title": "Singapore AQI hits 194 amid Indonesian haze on October 13",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2Q2N2ZEZEZnJhU3FXSzY5V0RXZ1hrUmJ4ZDdCeExUOTNSWGUzYnotckU3MXJvbG5jV290a2FPYTliY184TURTMWs2TmpxZ09TOGNzLVZQS3dsSmt3WXZJ?oc=5",
-   "time": "2026-10-13T18:29:00+08:00",
    "summary": ""
   }
  ]
