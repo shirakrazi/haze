@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-13T10:00:00+08:00",
+ "updated": "2026-10-13T11:00:00+08:00",
  "psi": {
-  "west": 172,
-  "east": 155,
+  "west": 174,
+  "east": 156,
   "central": 170,
   "south": 134,
-  "north": 128
+  "north": 129
  },
  "pm25": {
-  "west": 94,
-  "east": 110,
-  "central": 106,
-  "south": 55,
-  "north": 64
+  "west": 125,
+  "east": 101,
+  "central": 115,
+  "south": 82,
+  "north": 72
  },
  "hist": [
-  {
-   "t": "2026-10-10T21:00:00+08:00",
-   "psi": {
-    "west": 152,
-    "east": 147,
-    "central": 165,
-    "south": 127,
-    "north": 119
-   }
-  },
   {
    "t": "2026-10-10T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 134,
     "north": 128
    }
+  },
+  {
+   "t": "2026-10-13T11:00:00+08:00",
+   "psi": {
+    "west": 174,
+    "east": 156,
+    "central": 170,
+    "south": 134,
+    "north": 129
+   }
   }
  ],
- "newsUpdated": "2026-10-13T10:40:10+08:00",
+ "newsUpdated": "2026-10-13T11:06:50+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Cebu Daily News",
+   "title": "What’s burning in Indonesia that’s responsible for haze reaching the Philippines?",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObHFzbjhpb09WR2dIdUNwVTkwTWFpbzM5OXZDZkNDR2FndG5OaU83TF9ZNHBxLWhmRlRwVUpCMHdjLUYxaHJsWnEtWmRxQVFTLXBsZjRIbkZqMnVxeDlCblBoTkMtOWIzUGU5WTFOWENzY3hKemJsNldtai1xQ2g0ZmxoVkhhOFNpa0dfU1pLVXBXellQbTBpVVVOTUNCVHlwODZCRmhPLU81aEtHOVg5ZlE4Ti12bkJhdjBabtIBwgFBVV95cUxQNUtXLXd3V3laQXNJV0lIZEhmTXN6bGl0Sk5ZX3NaTjZCdDlONzJfazJLdXBwMzBMZjc4dFVyZ1BlY0RESTFJcnV0Mk9sX0I3Z0tFMEVmMm91YU1UYUtwYTQxWTEzUzBlZzV0cmFGbWJ5ZXpJUWhXWnptN21pbnlQMjRjSGVWN1kwZXNkUXdubmtEYXJqMU1OZWZsX2VRMjkxdFh5TWdmdEpTcFAtQlNtUmJ1eUFvZ25NZXVVZ2Y1OWU4Zw?oc=5",
+   "time": "2026-10-13T10:54:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Asia News Network",
+   "title": "‘We send oxygen too’: Indonesian official’s haze remarks spark online ridicule amongst Malaysians",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU0JtNmVxUk5ISFkyelJaRzdabk1oVzYzLWFVOGRTZlVVcHliSFN3Qmh1VnV4MzVMQldCNmx3VkUzSVNuZ0M3bDhualhQSWJJWmdqSEltR19aZlJJZ3RDTmZQNzBHQ2tib2tGTlRzUXdpamFmUmtWaXo3UWsyMzFoUy1CN3JsZm1hRWg2RVNYMzg3OFhoaUlMZjBLMy1xRjc0aTdXbFlaRTRqSUk2UENJd2hLTHJySFRyNkJB?oc=5",
+   "time": "2026-10-13T10:53:33+08:00",
+   "summary": ""
+  },
+  {
+   "source": "France 24",
+   "title": "Malaysia's Firefly extends flight cancellations due to haze",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWm8tT0lDNHpadERmUzV2TThBc2gzQThnejVSVWNlWnRhUExzbmQ3aTdHZ09WZFFWZkktV2VEMS0zX2xmSmVkQzRlczNBWkdxbmhFWUdQV1JyOEhtM1o2M1dzQ0s3Mnp3M0VURWFuMW5GV1JwdnlBN0hhY0o4WldCNjJqZ3pNTzBobVExUFAwT0JtbFd0Q2g1dVE0S1RTMEtydFc2R3pPSWExdw?oc=5",
+   "time": "2026-10-13T10:51:40+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Air quality remains unhealthy across Singapore amid haze",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNDFNUGhMczBkZFVqUWNpR0U0QlJYS1N4N252aTdjOGxPUFZPcWdvcS1IRmVjMFVzZXBsRHBBQUN2X3FSUEwxMzRKYldLc3gydnR5MHhDOGZIbGFHaFlSV0VDekdCa2lpODk0X3F6cXgtNER5Vk9lRTY5eDhoTVJGS0Jkb1JNaFJxQ3I2aXVB?oc=5",
+   "time": "2026-10-13T10:40:53+08:00",
+   "summary": ""
   },
   {
    "source": "Yahoo",
@@ -567,34 +595,6 @@
    "title": "Haze watch Oct 13: PSI rising across Singapore amid higher PM2.5 readings overnight, remains in unhealthy range",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORXhJYWViekNNSXhhelk3SlVqeHVzaHQtSXg5bXIzTXFUYzg2V1lkVk1MU3lfM0VaNXBZVnc3WlFabThpZzd0N194MmFLMmZpanNOWk9VOFlBcmVRZlhNQTBONi0xQi1iQTBscnZxcnB4aWhSR3pJdFR0d285U2tlMFc5Nm1WeHR6U2I1NHJzOWlNOGdy?oc=5",
    "time": "2026-10-13T09:25:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "CNA Explains: Why PSI and AQI readings differ - and which one should you follow during haze season?",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ2RTWlk2U01Ma0lXa0ZSZG8wNm4wd0g0ZW95aEwyRGxGM0wtSEFMM2Y1SEo4M1JsN2tIdTdDSmhkZkpTRGJTQkE3cTR6Q2UzdXpld0E4c1ZpVXJlbU8tYzJoeVp5YVRPakNRejNySHEzNGhoQ0VYMFpPVWt0dlMwWE13cmtSZw?oc=5",
-   "time": "2026-10-13T09:23:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Air quality remains unhealthy across Singapore amid haze",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNDFNUGhMczBkZFVqUWNpR0U0QlJYS1N4N252aTdjOGxPUFZPcWdvcS1IRmVjMFVzZXBsRHBBQUN2X3FSUEwxMzRKYldLc3gydnR5MHhDOGZIbGFHaFlSV0VDekdCa2lpODk0X3F6cXgtNER5Vk9lRTY5eDhoTVJGS0Jkb1JNaFJxQ3I2aXVB?oc=5",
-   "time": "2026-10-13T09:14:44+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "The haze knows no borders",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSE85eGZzQTBRSWhlQTBDemhGLTNzZVBYWlh0Yk1wN0d3d2FucDkxd1drRlNkSUlPazFDOE9uaDFyYzI2dEJrWGpzM1FSNm9qZnNiVDhEekhROEgtRTVDeVN6ajdFaENiOTY3dzlFN1JuTFV1ckQ0eFlFZ1ZGellLYw?oc=5",
-   "time": "2026-10-13T08:57:14+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Air quality unhealthy across Singapore amid haze, PM2.5 readings elevated in most regions",
-   "url": "https://www.channelnewsasia.com/singapore/haze-air-quality-psi-pm25-unhealthy-6454476",
-   "time": "2026-10-13T07:55:30+08:00",
    "summary": ""
   }
  ]
