@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-13T19:00:00+08:00",
+ "updated": "2026-10-13T20:00:00+08:00",
  "psi": {
-  "west": 160,
-  "east": 148,
-  "central": 153,
+  "west": 159,
+  "east": 147,
+  "central": 152,
   "south": 126,
-  "north": 111
+  "north": 110
  },
  "pm25": {
-  "west": 86,
-  "east": 95,
+  "west": 99,
+  "east": 86,
   "central": 88,
-  "south": 62,
-  "north": 57
+  "south": 72,
+  "north": 60
  },
  "hist": [
-  {
-   "t": "2026-10-11T05:00:00+08:00",
-   "psi": {
-    "west": 153,
-    "east": 141,
-    "central": 155,
-    "south": 119,
-    "north": 119
-   }
-  },
   {
    "t": "2026-10-11T06:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 126,
     "north": 111
    }
+  },
+  {
+   "t": "2026-10-13T20:00:00+08:00",
+   "psi": {
+    "west": 159,
+    "east": 147,
+    "central": 152,
+    "south": 126,
+    "north": 110
+   }
   }
  ],
- "newsUpdated": "2026-10-13T19:07:52+08:00",
+ "newsUpdated": "2026-10-13T20:09:01+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,17 +507,52 @@
    "pinned": true
   },
   {
+   "source": "Malay Mail",
+   "title": "Cross-border haze to ease in two weeks as monsoon transition begins, says deputy minister",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZkY1a2Y1VTFYbC0taWx2ekYwRlFnbnJVeFVVZ1dRVmxGUFpXSWFpWE02Q3g2d3VJRzBuQUlNaTU5b01wOEpHbnRzQWw3MWJsZVlIX19xM1pwQ1FMRUZOTXlQOHBwQWxYOWc2aS1lTDYtX1B3cmlxcjh2c1dhMmJIRFhhX1EtVkNfVGFKM05xUFNqaUhHOTN3QUd4eGRueUJsZk5acWoweDNPTnJtTmdSc1FFZ3MxWTZZQXVGRVU2S0pHT3ZTd3RNcEZyOUJyRi0xYzZyNFVTMVpqRzZsdTMw0gHkAUFVX3lxTFB5UXl2N2tuQl9YYUdoOEJnSGpQc2tueHV1ZHdjMGllSkU5OXRqR2NsN2FSTXdKekFSQk1KOXpSOFJHRjlzYXB6ZUtVRnpMWnhYSkkzUmEyTS12ZjU0SkE0bWZtVnNwVUlVVy0tYTVtd1gwSGtrQTVTeWZsOEFISHVDUkFQSUxOVFVWM2lhMjdiTVlsUkhPN2lIenZheFNka1JXR2FsV0hYT1dXV1FnQzVEZS1lVmFybUtvVFgzUHRRVHhQTWZ5MXE1NmlrNXNYeGpkc09hbnNEVENEU0FUN3RrLWZXUA?oc=5",
+   "time": "2026-10-13T19:56:21+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Free Malaysia Today",
+   "title": "Cross-border haze expected to ease in 2 weeks, says deputy minister",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmZOcUFZall3S0dnQWlxOFVNd2lyWmlEbVNyNzBkLW1xNG4xQlVVZU85eXlLc2pYNV8yYTh1RHA5MXpDczNmYm9NRnhJNUY3QXJCOWtRcmV3VzAzNWpPeXBLN0VEUjNZVEpwUGtFVHluQnBvRlJkeERHVTNoV205MjQ5SkVYM25HT3gtcEJRWnpJTF9waTQ2U3I1SDhNRTFCTXZnb1JRbUtqZkVfNncwRUxyYnlraFdfQXNSU21fM3FiUDJGZUE?oc=5",
+   "time": "2026-10-13T19:52:32+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Air quality forecast to remain in unhealthy range on Oct 14: NEA",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNDFNUGhMczBkZFVqUWNpR0U0QlJYS1N4N252aTdjOGxPUFZPcWdvcS1IRmVjMFVzZXBsRHBBQUN2X3FSUEwxMzRKYldLc3gydnR5MHhDOGZIbGFHaFlSV0VDekdCa2lpODk0X3F6cXgtNER5Vk9lRTY5eDhoTVJGS0Jkb1JNaFJxQ3I2aXVB?oc=5",
+   "time": "2026-10-13T19:48:12+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NEA.gov.sg",
+   "title": "Haze Situation Update (13 October 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSWZvNzNrN2NQZnFzLWJQMG81QkZCWGc0YjdPajBGMG1kd2Zvb1JFZmktMlp5dENKdlRxbDM2eWQyZC1meERrb2dzVGRQdVJDZmdBVXB6UTAwU2VyMU9JLTVJNU1rUWJmcVBTOTdzVnZ6TDk3dUwwYnJtVGUybUNaWEZYbzZxLUJrUExqSlo2Q2k2Zw?oc=5",
+   "time": "2026-10-13T19:46:55+08:00",
+   "summary": ""
+  },
+  {
+   "source": "U.S. News & World Report",
+   "title": "Indonesia's Prabowo Orders More Resources to Fight Wildfires as Haze Anger Grows",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWM4LW9TQ3N1NUhsTHRsQ3VSZUFFQkpMSmFBOE82MGRrVC1SeWJyMUNMdHU4N0ZfZDhGUmx2RTNaRXBicFpXQnRQQXIxSzIzd3BIVUl4V2M3cUpGdDhaYWVvaGlsQzV6bkZVYldvUFE1bTdycnF6eEtNdzVUQjFUY2dxanpVd2FOTFlrX1pPcjFZZ1N0Q1J1Ymw1TG1LV2tIajlJRUhQUWVpQVVIczc5R3FCdS1mWklRT0xPaVhwMGxrTjhsMl9nbV9WSjNtQQ?oc=5",
+   "time": "2026-10-13T19:09:24+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Indonesia Business Post",
+   "title": "Singapore reinstates medical subsidies as Indonesian haze worsens",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWoxYkdiSUxrYjZtVFIyNDZFM0owMF8xb19yOG9PekZNNFBEakduOWhwakMxcXVKVWZPVTBpSjBoWmV1ZGNPR2FDVU9makZQMWl6SnVrUDFqNWd0ZE56cXhnb2t1NEYwSHg2MGg5VTJXU2lMMkV5VjE5OERBS21xLXM5Y3lQWVhuR0l2ZnRQNktkcW9tc1ZqdTRRb1RDQWxtYW9OZW9reTh5Nm1JeUJRc0hDWnB3d3lsa2NLeDNNN183UQ?oc=5",
+   "time": "2026-10-13T19:06:05+08:00",
+   "summary": ""
+  },
+  {
    "source": "Free Malaysia Today",
    "title": "Boycott firms linked to transboundary haze, says Syed Saddiq",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSWk1SC1oZUREWkNxX3hvRmV0V2t3enNReVJOS0ZOMjZsZ2RuYldpTGZTMVdFRnc0VGwtT0xmZ0QzQjRIeFdOeGxISVg0NFdROG4tcG9HUXVBTGNqdGRFWndpRGZscGI2X0QwMlVNM1BMX3hDTmlqRGJRZ1pEV2xkRHVVR2ZiY1YwTXBvV2t1dENyZTJ6VnZ0akVhb21mUy14dDZCVHFkY3UxSGZoQWVjQXpUdjVGM2M2S2d0Nw?oc=5",
    "time": "2026-10-13T18:51:42+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Reuters",
-   "title": "Indonesia's Prabowo orders more resources to fight wildfires as haze anger grows",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdnIxenF3dnRSTmtmQzRfNy13RDVZaHkyNVdpQ2hLZzFIcU1PYVdBdlFMN1ZtYzhvTmtKODBhNTVSamVEYjA0VXp0LTVUMWlxeFZtRy0tMDF2Q2pob3RYVnVZX1VsWU9QeDk2RnNSXzRoaExVZnBkM0VwRmx4bjNiQ01MNHFYaFY4YWtTSVdyeVNYMFdzMTd1Mk5JRlVXemdhVzgycXF5NmlyNy1OY0FYUThvbWJhaGVrVkM2SGpnS2QxLUYwZkJpUHdB?oc=5",
-   "time": "2026-10-13T18:48:47+08:00",
    "summary": ""
   },
   {
@@ -542,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "Nation Thailand",
+   "title": "Singapore AQI hits 194 amid Indonesian haze on October 13",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2Q2N2ZEZEZnJhU3FXSzY5V0RXZ1hrUmJ4ZDdCeExUOTNSWGUzYnotckU3MXJvbG5jV290a2FPYTliY184TURTMWs2TmpxZ09TOGNzLVZQS3dsSmt3WXZJ?oc=5",
+   "time": "2026-10-13T18:29:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "Vending Times",
    "title": "Singapore prepares N95 mask vending machines as haze threatens air quality",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjYxUUV0cE44UHEyelJHNGNMSUtReFd5UWVUbE1tVkUxYTQxdGtLUC14R0cxeUZIaERhaWxmS2dXV1Z6cXJJMDMtV0JKVVpKMExkSnAtdDdnU2owUlBMaDc2VkdtVG9JaldUUmNjbkNfbDRfNkNrRjhyMHVNT1pGMWxVcGIzY252dzRPbDVJYVVlbHFSaFZPMlRpOEczM01NTGNDeWxaWkFmd0JCUVE?oc=5",
@@ -553,48 +595,6 @@
    "title": "Is Indonesia’s haze rhetoric ‘unempathetic’? Words test regional cooperation",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU3FBOU1JN204YlJrVEp4RzFVSGVGeG9sZHJ6TEo4YUN1ZWktVER0dko4WFFHU3loSGMyN2pyaDhDWm1LXzRrY0V6ZjZnU1FLV19Bc01FcnlyZndDS0RTTWNaMk40RTE0MUlSTUlUZmpLeUNxOEFPZXFzdTk3WXNjaVlxd01oQjN1dlA3TUFEcG1BYnZmckk3OWVQdlU1WEtfWjI1WTk1RVplX3NSV3hBaGVkRVIyQjBEUWNtc2d2VW1EdWJUdXhjSWZ2VjRpRGhmb0pmdkRJNHh2Z9IB2gFBVV95cUxOU3FBOU1JN204YlJrVEp4RzFVSGVGeG9sZHJ6TEo4YUN1ZWktVER0dko4WFFHU3loSGMyN2pyaDhDWm1LXzRrY0V6ZjZnU1FLV19Bc01FcnlyZndDS0RTTWNaMk40RTE0MUlSTUlUZmpLeUNxOEFPZXFzdTk3WXNjaVlxd01oQjN1dlA3TUFEcG1BYnZmckk3OWVQdlU1WEtfWjI1WTk1RVplX3NSV3hBaGVkRVIyQjBEUWNtc2d2VW1EdWJUdXhjSWZ2VjRpRGhmb0pmdkRJNHh2Zw?oc=5",
    "time": "2026-10-13T18:00:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze and a Godzilla El Nino: How is Singapore preparing?",
-   "url": "https://www.straitstimes.com/singapore/environment/haze-and-a-godzilla-el-nino-how-is-singapore-preparing",
-   "time": "2026-10-13T18:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Syed Saddiq calls for Asean pressure on Indonesia over haze",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWmJJX0hxVmJzRjdGaU8tcEJxNlA1SzhPbjNRckVvSWZMS0pBRzVRMUt4MVZ6U3ZPcm5lS1hYS182b0FPdkpjMjhiQjFJdkF1RXNmcjNQZUhYeW9BbDhsS0FDUTZBRjFaRmVJNGJaQ19xSmRxdk0xcXpiY3pQVElmdEZvXzN2UFZmRHdyWkQtcDJKZDVOTHlxNVFkbTJjcmRNLThzeVNn0gGrAUFVX3lxTE9hOWJQdFpfeDd2bmh5X0tVZFF5b2l3YkV6WHp2ZTQwdnA2ZlFIODF5ZmxoVlNEekN3aFZLMnV4TkxHOVRaellDb1B0Q1BmVnp2NWhobUhWVFJwd3R4VnM1QkZzdjBKOFhuUjV4cnptdmJkcERsNXhWWHdzUi02d3g3VGRfRW1sc0VQaFlMN3QxbGRBY1BjaTFXUDNvRlV4dGxCNHY5TWxqWWNqaw?oc=5",
-   "time": "2026-10-13T17:45:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Malaysia to Raise Transboundary Haze Crisis at ASEAN Meeting",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFpTTXFBM2hTRVhjM0xRY3dtbmFxdkhlbXVncjFvOE1iaDdFMGVlRl9BdkkxZjA3TTVETVNEMTg3QW1NNGd4d0paYVFPQjhHNjMyT1VDZ1B3SWJqeWFET2NkaFNwT1FCT0R1YzNtRlRSYVd0MVRfcHR1aGJWMG5UOUFwY3FHUlVTeENacV9vbmc1QVAtdkZaRw?oc=5",
-   "time": "2026-10-13T17:42:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "planb.sg",
-   "title": "Prabowo's Grand Welcome for Egyptian President Sparks Anger Amid Haze",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS3VPNldsN1ppY3ZIVE8zeXRYMHdYMkdqczVqNVBZZmdhNGxGeGxWNDhQTDl3TklKMEFtOWFlMXJYODlOdU51ZDNEZS1hQTlkVEFNRVpVVVZpbjkwTk9naWQzWm1JbVg2dDBZTzdscnIxS1NpVjV1YkJ4V0U5Uloxd2FwZDY3VFBKSWRPVFY3cnF6S3Y1UWp4dkt0aw?oc=5",
-   "time": "2026-10-13T17:39:10+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze: Cloud seeding conducted in Johor",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGhtRmRuaDE4Y2JqWjNjTHRRSE5NblpKSk1abkNyUVlYR1RFMEh3MVJvQUNfRl9KSFVYR2c1QTltTWNHLUZuTU1tLU1FOU9rY04wVUswQW82MjE2dklKS203WnAzTjRpeVpuQ05zSzNhQW1BWjJGamx0b0toRVhHM2xaS0tzTDFBWmQtTWpXb3g?oc=5",
-   "time": "2026-10-13T17:26:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "VnExpress International",
-   "title": "Indonesia's official says its forests 'send oxygen' to Malaysia, Singapore when there's no haze",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTW5RUF9OS1JiR1hBdVh3YkthUENqMmZkY21WMEZQUTNzaEQ5YWtHZjBlQ3Naay1DQmsyUTl2TDYweV9DUTFiVmRXSjVGS0o0eGVfZmNpbUJtdHRWMlNNY2lWX0NnNmN2Z3JUcGtrbk4zRloyTVJuSENrd1FESm1ORFNEclBGVTZOTkItc01ac21Ia0VUUTBST1dfTEViVnJZT200YTNic2FZYzluNzduTFczV1Z3ZTJGNEp6WFNnbzAzWHo5dDBMM0JYbWVDd3d1MnN3elkyWXQ5QUdldWlWcy1LY2R3Zw?oc=5",
-   "time": "2026-10-13T17:17:37+08:00",
    "summary": ""
   }
  ]
