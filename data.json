@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-13T22:00:00+08:00",
+ "updated": "2026-10-14T05:00:00+08:00",
  "psi": {
-  "west": 154,
-  "east": 145,
-  "central": 152,
-  "south": 126,
-  "north": 107
+  "west": 146,
+  "east": 143,
+  "central": 143,
+  "south": 123,
+  "north": 106
  },
  "pm25": {
-  "west": 106,
-  "east": 83,
-  "central": 98,
-  "south": 77,
-  "north": 63
+  "west": 84,
+  "east": 90,
+  "central": 95,
+  "south": 67,
+  "north": 54
  },
  "hist": [
-  {
-   "t": "2026-10-11T09:00:00+08:00",
-   "psi": {
-    "west": 152,
-    "east": 138,
-    "central": 151,
-    "south": 115,
-    "north": 118
-   }
-  },
   {
    "t": "2026-10-11T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 126,
     "north": 107
    }
+  },
+  {
+   "t": "2026-10-14T05:00:00+08:00",
+   "psi": {
+    "west": 146,
+    "east": 143,
+    "central": 143,
+    "south": 123,
+    "north": 106
+   }
   }
  ],
- "newsUpdated": "2026-10-14T01:08:02+08:00",
+ "newsUpdated": "2026-10-14T05:51:05+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,17 +507,24 @@
    "pinned": true
   },
   {
-   "source": "Indonesia Business Post",
-   "title": "Singapore reinstates medical subsidies as Indonesian haze worsens",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWoxYkdiSUxrYjZtVFIyNDZFM0owMF8xb19yOG9PekZNNFBEakduOWhwakMxcXVKVWZPVTBpSjBoWmV1ZGNPR2FDVU9makZQMWl6SnVrUDFqNWd0ZE56cXhnb2t1NEYwSHg2MGg5VTJXU2lMMkV5VjE5OERBS21xLXM5Y3lQWVhuR0l2ZnRQNktkcW9tc1ZqdTRRb1RDQWxtYW9OZW9reTh5Nm1JeUJRc0hDWnB3d3lsa2NLeDNNN183UQ?oc=5",
-   "time": "2026-10-14T00:38:48+08:00",
+   "source": "The Star",
+   "title": "Haze hinders efforts to battle the blaze",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTk2RVpER0ItVTllUUZ4MmN1ZHJSejBUeFNNQnVYazV6Qy1iU252N29Pd21hdE9QUFRZSVZjV2lobGNPWGFnYVNOYnRReFdKaEx5M0E0NGVaOXVnUkxCQXIycXlSbW1JY0wyNGNmY3RmZEVULUZTVUtsOTY2QUQ0LVFQOWwxUmktbzl0RDl1ejhHZkZuX1VpbDUyRHpodDEzVHM0?oc=5",
+   "time": "2026-10-14T05:49:39+08:00",
    "summary": ""
   },
   {
    "source": "planb.sg",
    "title": "Prabowo's Grand Welcome for Egyptian President Sparks Anger Amid Haze",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS3VPNldsN1ppY3ZIVE8zeXRYMHdYMkdqczVqNVBZZmdhNGxGeGxWNDhQTDl3TklKMEFtOWFlMXJYODlOdU51ZDNEZS1hQTlkVEFNRVpVVVZpbjkwTk9naWQzWm1JbVg2dDBZTzdscnIxS1NpVjV1YkJ4V0U5Uloxd2FwZDY3VFBKSWRPVFY3cnF6S3Y1UWp4dkt0aw?oc=5",
-   "time": "2026-10-13T23:39:10+08:00",
+   "time": "2026-10-14T05:39:11+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Indonesia Business Post",
+   "title": "Singapore reinstates medical subsidies as Indonesian haze worsens",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWoxYkdiSUxrYjZtVFIyNDZFM0owMF8xb19yOG9PekZNNFBEakduOWhwakMxcXVKVWZPVTBpSjBoWmV1ZGNPR2FDVU9makZQMWl6SnVrUDFqNWd0ZE56cXhnb2t1NEYwSHg2MGg5VTJXU2lMMkV5VjE5OERBS21xLXM5Y3lQWVhuR0l2ZnRQNktkcW9tc1ZqdTRRb1RDQWxtYW9OZW9reTh5Nm1JeUJRc0hDWnB3d3lsa2NLeDNNN183UQ?oc=5",
+   "time": "2026-10-14T00:38:48+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Indonesia's Prabowo Orders More Resources to Fight Wildfires as Haze Anger Grows",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWM4LW9TQ3N1NUhsTHRsQ3VSZUFFQkpMSmFBOE82MGRrVC1SeWJyMUNMdHU4N0ZfZDhGUmx2RTNaRXBicFpXQnRQQXIxSzIzd3BIVUl4V2M3cUpGdDhaYWVvaGlsQzV6bkZVYldvUFE1bTdycnF6eEtNdzVUQjFUY2dxanpVd2FOTFlrX1pPcjFZZ1N0Q1J1Ymw1TG1LV2tIajlJRUhQUWVpQVVIczc5R3FCdS1mWklRT0xPaVhwMGxrTjhsMl9nbV9WSjNtQQ?oc=5",
    "time": "2026-10-13T19:09:24+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Free Malaysia Today",
-   "title": "Boycott firms linked to transboundary haze, says Syed Saddiq",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSWk1SC1oZUREWkNxX3hvRmV0V2t3enNReVJOS0ZOMjZsZ2RuYldpTGZTMVdFRnc0VGwtT0xmZ0QzQjRIeFdOeGxISVg0NFdROG4tcG9HUXVBTGNqdGRFWndpRGZscGI2X0QwMlVNM1BMX3hDTmlqRGJRZ1pEV2xkRHVVR2ZiY1YwTXBvV2t1dENyZTJ6VnZ0akVhb21mUy14dDZCVHFkY3UxSGZoQWVjQXpUdjVGM2M2S2d0Nw?oc=5",
-   "time": "2026-10-13T18:51:42+08:00",
    "summary": ""
   }
  ]
