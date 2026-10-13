@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-13T12:00:00+08:00",
+ "updated": "2026-10-13T15:00:00+08:00",
  "psi": {
-  "west": 174,
-  "east": 155,
-  "central": 170,
-  "south": 134,
-  "north": 128
+  "west": 172,
+  "east": 151,
+  "central": 163,
+  "south": 132,
+  "north": 121
  },
  "pm25": {
-  "west": 127,
-  "east": 100,
-  "central": 118,
-  "south": 89,
-  "north": 64
+  "west": 119,
+  "east": 90,
+  "central": 95,
+  "south": 88,
+  "north": 59
  },
  "hist": [
-  {
-   "t": "2026-10-11T00:00:00+08:00",
-   "psi": {
-    "west": 153,
-    "east": 144,
-    "central": 162,
-    "south": 123,
-    "north": 119
-   }
-  },
   {
    "t": "2026-10-11T01:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 134,
     "north": 128
    }
+  },
+  {
+   "t": "2026-10-13T15:00:00+08:00",
+   "psi": {
+    "west": 172,
+    "east": 151,
+    "central": 163,
+    "south": 132,
+    "north": 121
+   }
   }
  ],
- "newsUpdated": "2026-10-13T13:07:21+08:00",
+ "newsUpdated": "2026-10-13T15:07:46+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,94 +507,94 @@
    "pinned": true
   },
   {
-   "source": "The Edge Malaysia",
-   "title": "Haze adds margin pressure on insurers facing heat from public, regulator — analyst",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HclhCQXNON194alNLN3VITi1aRkN5czBxUEpsNnk5NENpdk4yRWtzQ2NEclBNSkZicEh2cFFYdXR2SWxPQ2lMc1VESDFGNWR5ZEdJ?oc=5",
-   "time": "2026-10-13T13:02:45+08:00",
+   "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "title": "Malaysia to Raise Transboundary Haze Crisis With ASEAN Foreign Ministers Ahead of Summit",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdnZDcnIyUnNmQURXbE16YkU2NExLQjFtWXU3eXhTckpRNDVsQWg5a2dwNElDNVNhY0VoRkZESjhyUGpTc1h2WVhTVHAySEY1ZFhmR3ZQZ0JZUUtPUzhQa0V2dGQ2UmJIV25uWHRnNVZCN1d0YlhkNWZQemNqUWo2X0JMZFlCXzhibUQ0bTJ0UXdLV2pORy1Gb0d3dWFiMGNVN1ZScGdCQW96dGJXOWN2cU9WZVVscW1HSTd0Z1h3?oc=5",
+   "time": "2026-10-13T15:00:28+08:00",
    "summary": ""
   },
   {
-   "source": "UA.NEWS",
-   "title": "Malaysia to raise transboundary haze issue at ASEAN — Channel NewsAsia",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmtHNHJwQ3Y0V0NCNFFqZUh5WVlZQ2R1MHI1eXFIekdzZ3pxbVU3clY2ODBZNTFsdDdvTWxRNlkzeWxoLWdxdHBuX21CM1hsUlc3N1pobVg2RHpWaGp1M2tQVW85cXpXLVlxdFVxVklBTXAwN2xkekQwRjJxMXg3WmxkN3RmSzEyd0dXWG43dk5fT2RTX0lFTURWcnJyYnpR?oc=5",
-   "time": "2026-10-13T13:00:59+08:00",
+   "source": "Al Jazeera",
+   "title": "Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWFzeHJucjNUSU44aU5RdnlnSFIzWG5IMUVkU2hMQXJZZ3Y5WkNOU0dBTThDT0pLYWxINGUyam9ZVndRZ2lreGZ4RGd6ME9Ja0JMQS1xbnFnUC16T3JLTG9rX3JHMW5OZGJNM21aR0lVM2d4Mk9WenF2WU5meDhnZnJDWGJ4UGRLVzJCNmRoUklTMFM2bGVhNzRpcE9DUXpGS2NCY0Mxb3hJWjZ3NlhDSlhn0gG3AUFVX3lxTFBMYkl5WVFOXzhKTEhqRkYtcWU4THF1MlUxdzg1R1RfR0hReG1OVmJ0bEVtcmdNS1I0bmh4SnQ3MWR4UVY4bkZUNjEyanc1N2tYaGNicDZBejVFYjY0Q0xZUjA3dUJucktzVDIyRVZYdFFsUEprRVY1djVoakJYVEFVQlk2em9mOUJ1MThabEVOekVfaVlmVEwydnI0dEhIRVZ4ZS1EQlktQ3I5WHFKYVNMSnZEZDlodw?oc=5",
+   "time": "2026-10-13T14:42:17+08:00",
    "summary": ""
   },
   {
-   "source": "The Straits Times",
-   "title": "Air purifier, air conditioner sales in S’pore spike amid haze; N95 masks stocks sufficient",
-   "url": "https://www.straitstimes.com/singapore/air-purifier-air-conditioner-sales-in-spore-spike-amid-haze-n95-masks-stocks-sufficient",
-   "time": "2026-10-13T12:55:34+08:00",
+   "source": "The Vibes",
+   "title": "Twenty-one stations record unhealthy air as Zahid expects wind shift to ease haze",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVXl6cVphTHBfcG1Nc0ZLX3FhLXlNbk1DNFR6UVo4MFFnQXEyV1JadWNEU1RaWDRDVGZscm94X1BNdUNGVU04UVk2RFVvWmFIZEpuOEFyaXF0OFJPVWdzNGJuSE9uTElXTGJ2V05TdHpDZEpuVXBrT0oxVjU1dkJCRkI2NlBQMTBYTHdwMlRsOEYtcEhLd0YtRHBzNTNoVml2ZmhhTDRmU2dKVDN3Z1VtWkcwa2ptc2hwdlAyamhKU3ZfaWFYQkE?oc=5",
+   "time": "2026-10-13T14:35:00+08:00",
    "summary": ""
   },
   {
-   "source": "AsiaOne",
-   "title": "10 air purifiers to help you breathe easier during Singapore’s haze season",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KQWJLaTVXS0o2dmw1cmtJNWtCdzU4T1RGeXdwTEhPcDhzekZtb1JFc3lodlRSQVlqb0MtbWVCa29PR1JCQlFWZmZ1dmZBZDk2R0JWT2U5Zm9KS25JemFGMmh5eHNWdnhsQWZCV1VUWkxPVnZH?oc=5",
-   "time": "2026-10-13T12:48:46+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Malaysia to raise transboundary haze issue at ASEAN meeting, says existing disaster mechanisms do not cover it",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU2JQWFhQVV9LSzQwWlQ5THRCNldtUHdFMWd6TmJSZWl6Y0lrN3hkWm1VenJBRXdaaGZqVDQ2ci16bXVGNDNVUXZsb0FIVlo5S095bXZ4dVlZOGJCb3k4VG5idlpmM1BlYVE3RDd3eWptbWRDZ3FYR3VvNG83ZXlMcGt1Z0hwTTFHQXo1blBwXzRxRjVGYk9JU1NCcUl4dw?oc=5",
-   "time": "2026-10-13T12:47:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Yahoo",
-   "title": "Johor police deploy 13 district control centres statewide to assist in haze monitoring",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2tOY2hDTjJpTXM4eC1nT0xUdGhYQzY0V1dDeFJGbElGRGd2VGROVGJHRHpHSUEwX1FzeTBOTHZLYmhTT3VmWUhyYmtKZU41TDB4RDZGcS1faU5tVmJHb3pBUnAzRFZLTDlITUx6UnNaQU93cGtMV3BxYkZVUFJhRnhqRTE?oc=5",
-   "time": "2026-10-13T12:47:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "16 flights diverted from Seletar Airport between Oct 5 and Oct 11 as haze lowered visibility",
-   "url": "https://www.channelnewsasia.com/singapore/seletar-airport-changi-airport-flights-haze-6454786",
-   "time": "2026-10-13T12:46:08+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Human Resources Online",
-   "title": "Malaysia haze: School closures and reopening updates",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSWg0QlZjSEpMOXk4dHd4dUx6Y2NkbGI0SWdiUVR3R0ZDa1JJWF9ELUx0Y0Q2eDNjUTNVMXpHR010eEh2UUZnM3JabVpQZTREMWRrbGNISTY1R3V3cFRXTFRhUHU4YW93dmxHWmdxaWpnRjd0TTVuSUZianlZVVBXUXZuUm0zcEdnd3FuVkpGSEg3QQ?oc=5",
-   "time": "2026-10-13T12:41:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Why turning on the air-conditioner alone will not keep haze particles out of indoor air",
-   "url": "https://www.straitstimes.com/singapore/environment/why-turning-on-the-air-conditioner-alone-will-not-keep-haze-particles-out-of-indoor-air",
-   "time": "2026-10-13T12:40:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bloomberg.com",
-   "title": "Haze From Indonesia Fires Hinders Efforts to Battle the Blazes",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVjE0RV84QUJ4WkprcnlYaDQwNTlOTk13Tml2eHhNdVFHYWlseU5iUGZjcFgtTUxUX2xUWmFpeS03YW9NU0d4MzAxb2FxcTBhQmQzcWNaTThTX1lyWnprenJXbWVMRE5vRUI2MnctcnNEenNYb0NVQkhscDF2eTFuLWRYazRMR3kxUkxaeDdxNDctZnc2VHlDSzhqYmE0M0ROUi1IQUVwNHJlMmlWd044VUV6VQ?oc=5",
-   "time": "2026-10-13T12:40:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Malaysia hopes shift in wind patterns to ease transboundary haze, says Zahid",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUmxFUFN6Rm5DRDJLX3BOVldCRllwQktSMGotWDRaeDNnX0J3R0w0NXN1bzBWLWozLWdPM1EyRkJrTVpoc2hMWVdkamg4SEdnX2tQUnMzUjk4WFJwUXRXdlZEcXVrZTk3UVFjMlI2TDdESXQyR3VNanV2dV9Wa2RzZTcwZUZOR3VwUG5TTHQ0Zkg5VVdZNEFqV2IyRlBVVU9lRFpucjBkVm1jcEI1OUVqeVI2dF8zOFRkdlRBWkJoWmlyeFYw?oc=5",
-   "time": "2026-10-13T12:16:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "NEA monitoring haze situation closely; probes into 4 firms over 2015 haze situation still ongoing",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPa2xvZm9ITVY2UjJ5UHJKa0xjNHdIaUtId0ZXSXZNRTBxLTdobDdYNjc4V201alhvb3NoVUJhTGNkdjgtOFFXaFZQS2ZtWWJZUTR3N1FLWlpFdm9XcHNrbGdfQQ?oc=5",
-   "time": "2026-10-13T11:16:58+08:00",
+   "source": "Malay Mail",
+   "title": "Change in wind patterns in next two weeks expected to ease haze in Peninsula and Sarawak, says Zahid",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZk5NZGxyTWNuNVVjNUxyWC0xdjc0cnkwTlZvVTZ0THhnVF9ueGU1X1YyRS1Wb2NNamFKVW16UGRIbG0yc3QzLUVpYkJTZzZCTkVDTkJTTHVnOGRfamJuWUJOQmd4ZXFZLVZfak5TZ0VWbGFDUVdwZ0RWSWpaMWxpMUtLOVVwZHRwOGR1QmxFbnlpZDVPcFNTeDhCQllDd0FTSmpVdF9oUHlmdEF5c2hkMzdkRUZ3TUYtZHVtM3l0cHdFaWxGbEFfUk1aU1ZZYTJOT3ozTU9udVl2bzFTMkk0Rk9BajRwQUFBeGZJRVBB0gHzAUFVX3lxTFBGblpLcE9Ib0hhTW5YdFFlTDJkamNOU0tERDE0RUs5T0p2Rkd1VFUteFdGNWJLdmZIczFJRW1SVFp0ei02Z3l2LURFN1pKY2RUUjBMODVaYU1HN1hRUHdoX1ZfQkQ3eWZ4MjEzRXEwUzBTYU5DTmxuQ1NmS1hZcEd4YVE1ZHRpczM0TDRfM0E5VDBWZU5QaDBZZV9sd2ZlY0h4TGlUTnNRNnp5T3pMTzhGX1N3MS1NTGVIYTlMa2lyLXVxazNIYV9CVGtaVlZVeF95V2VZNGkyS2dmVXlyUEdfcklRdVJsRi01R21YUzJLTW95Zw?oc=5",
+   "time": "2026-10-13T14:22:54+08:00",
    "summary": ""
   },
   {
    "source": "Free Malaysia Today",
-   "title": "Low-cost carrier Firefly extends flight cancellations due to haze",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRlcza2hyaU9aZlZoZlY0NG9Vd1pIcnMyb2FQdFdoSHNSdHBOcXREa0kzX2swTmF6Nll2NDZLNlp4QnZtUlkzaHA0NEd3YW0zbktFb0xkTWJvZGxjclVmRHoyTmJhNlZZQl9ZX0FOaGRUbU1majUzNGlZd2hxQkZGclk0TTBONjNmT2pUWmVJb2QtOVVnZzhCQUhiWGtMcy1iR0wxNDRwNkMwREZ4Q3VHYS00Ui1FMHVnWmpoVG4xZXVZYkQtZjJn?oc=5",
-   "time": "2026-10-13T11:13:29+08:00",
+   "title": "Wind shift could help ease haze in peninsula, Sarawak, says Zahid",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN2JSeWVOcHBzSWUtVk9fSlN6aUVuVUx6bnc4cUlrYzFVTnB0Uk5YQmFCWWl4alNzR2NUdVVac080SW1SOGlQOUx4bDgyUGM2b1hLQTRlaWhfOEVnVnN0MklqYTY5ZEVQS09LejBDX2lFSHM5LUdzcGs2UjBZb0FFcTZISGNEZmQweDNaRDBpUGJnQm4wTzdNNlNobFB3Ui16bWpiQkR5bVNaWXFGVGdJWmVVY0dxQUtha0VoVUhqOU9YZw?oc=5",
+   "time": "2026-10-13T14:11:32+08:00",
+   "summary": ""
+  },
+  {
+   "source": "fulcrum.sg",
+   "title": "Haze Chokes Plants Too: Air Quality as a Food Security Issue",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdC0xSWRlaFRQQmxYbnZMS2ZxZFliclphcGsyT2thb0VKWG4taUZfNmVUR1NCWVVKRGp6TmRVUm4tOVNab0JvZTdNOG5taFotT1dyTGt0aEkwX1I2TmxwUS1URUdCajlCeUcyenZ0cEdWUGU5eEc0SEhjejFnbWpFSHFZSmJpZmZETE5YcFpvSTlWNFlqWmdfNFFPbTZqa2R6TXc?oc=5",
+   "time": "2026-10-13T14:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "Sumatra Fire Hotspots Surge to 3,663 as Haze Triggers Flight Delays",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblFyTHJIVGw3ZXkxMmtRYUFGWGhuXzIzMUVrYmRaYW5jMmlROHpsNHlpbjJ4NWhTNFliQzNYb01yMlZ3dGN6akxac1hlYjZXWmEtR21BekdhTWJhS3VKSlFrSnlKWDVGM2hHaEw5bDVQNjRHT0pQVGFFS1dTRGc5R0NKb3VEeHdYTlNhTE9tNU9rYUdUTkMxV0M1TGQ5eUV4?oc=5",
+   "time": "2026-10-13T13:54:56+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Awani International",
+   "title": "ASEAN to discuss tackling transboundary haze ahead of November summit",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2ZGaXdkdkVMemhrV1RRSFZGT1A2OGVfTEYxTDBrY3FnajNiWEdfN1Ayd0xTMjEwSl9JSWc4aWhmRVR5NHMyMms2bDVZX1U1VzdUM0lHeE92bTU0dkVIaS11c1Zhb1ZRZTNITG5wVEgzaFVHOHVKU0tRX2kwZ1VkdjQ2bUJjOWVMUTFqV0hYTl9MbHZKWmFIRTlKSzBnekd5N0xaTkpPZFRlVGN2SHZzRUV3?oc=5",
+   "time": "2026-10-13T13:47:56+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AFP.com",
+   "title": "Malaysia's Firefly extends flight cancellations due to haze",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44ZDNHTloxWXR5MjYyUGwxdU9YbThnUjhGWUhzNlVFbHh1RUszR1JGb0RFM1hqUDVZNTRvby1RaFFKYXpYQXRhN3hyUQ?oc=5",
+   "time": "2026-10-13T13:29:39+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Jakarta Post",
+   "title": "Fires and cross-border haze: What can still be done",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMkpvOG94WlQtUW8tdHNNdTNLcmk4bmZFTFN4YUlQWVZJcnpNRnpWREFKSlJnM3ZhSkRWS2tmV3ZodVJUWnRCYTZibjJ6UDJ4bUgtdWJWREVDeW5wR3p1WW84LTJvWmJtZEk4YTRCNVJDY3JYU2JIUVV5SHZCemQ1U2N4ZDNVWTROdEozSS1leUZSVHFlaVVUTzROTVJpSWR5QWc?oc=5",
+   "time": "2026-10-13T13:26:15+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Free Malaysia Today",
+   "title": "Hold those responsible for haze accountable, Suhakam urges govt",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMml0TzNlV2VfeC1fNVJZSjJNUmFvclZfVGExQXRMVUtxMzJLVUpMNVZhSDhncHBGYkZZV2h0dlJHNkhiZmNFZGJSSXZySGw3a2FWMjNRV3REMHRCelFhb2pMN3hlUmljWkNqRkNYLUZEM1JpUWdDaUNrTU9HSGUxT0ZESXBxOE1uek4xQU95djNHVl83ME5PRFlYVm54S2k1amdaZzRDeHdqNlhESTIydlhxQ19fU3BBRXk2TzFzVko?oc=5",
+   "time": "2026-10-13T13:22:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Mothership",
+   "title": "'We assume the best of them': M'sia DPM says no reply from Indonesia so far on offers of assistance for haze",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZHlXQlRpcmhHT1JfeUJwMlN6WHpoVmhlbFU2bFNaU2NSVmJVRXp2V0sxbUJ6VU0tV1EtTUFsSk1vQVZ5OFJCdGhJWGpmM1dweEVlUkduSGN2cWdScHNCZHJET1doc215NnRwR1lTcWpDY0xZV2NEaHJuTjlmV05YUlVB?oc=5",
+   "time": "2026-10-13T13:16:53+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Parliament to hold Special Chambers debate on haze",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFplTDBNa0ZXUDFwcmpWVEFuQTZfTjdiNk0zcjAzdzRqV01oV1YyRUJiUmdsWTM4clViUjBNaHFkWENZYkZ4dDhNdjJsUksyQnB3S2NBbWZodUZWenVGM2pmZElUWVU3MHJDTTd1NTlWZlRuQ3lOZjR5djVqWG9NcFJlMGZoNGpOV25aUHlaT3JLZWZfT0xPWGRKTUNMZjBaS1E?oc=5",
+   "time": "2026-10-13T13:07:00+08:00",
    "summary": ""
   }
  ]
