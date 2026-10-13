@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-14T06:00:00+08:00",
+ "updated": "2026-10-14T07:00:00+08:00",
  "psi": {
   "west": 145,
   "east": 142,
-  "central": 143,
-  "south": 123,
+  "central": 142,
+  "south": 122,
   "north": 107
  },
  "pm25": {
-  "west": 82,
-  "east": 91,
-  "central": 96,
-  "south": 74,
-  "north": 60
+  "west": 86,
+  "east": 93,
+  "central": 95,
+  "south": 77,
+  "north": 59
  },
  "hist": [
-  {
-   "t": "2026-10-11T11:00:00+08:00",
-   "psi": {
-    "west": 150,
-    "east": 135,
-    "central": 149,
-    "south": 114,
-    "north": 117
-   }
-  },
   {
    "t": "2026-10-11T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 123,
     "north": 107
    }
+  },
+  {
+   "t": "2026-10-14T07:00:00+08:00",
+   "psi": {
+    "west": 145,
+    "east": 142,
+    "central": 142,
+    "south": 122,
+    "north": 107
+   }
   }
  ],
- "newsUpdated": "2026-10-14T06:08:06+08:00",
+ "newsUpdated": "2026-10-14T07:08:05+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "KLSE Screener",
+   "title": "Fires, cross-border haze: What can still be done",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVkNvMzZucTIxTm5ibzVoS1pxUEhZTUZJU1V2R3JOVTZEekxzVkdjZEgwOWZDRUdTZVNwRGZ2VVpiekxUNC0yR1RTNnJuZWdRanpQczlMZUVxMEZoSlF2YU5OaXBnd2Z6ZmNPY1ZzUjh1RTVlV1luRWJSX0Zja3prTnhDUzQ3dXplNHgxV1VCbV9JMUY0b2NyZWk2R0g?oc=5",
+   "time": "2026-10-14T07:05:38+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Bernama",
+   "title": "Cross-border Haze Expected To Ease Within Two Weeks - NRES",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LQzd3NHVHbjdtNXlBb3FEUlg4Y01SWG5kTEtNbFZNaUh2OENtZUFnVFV6YmgzcFN0S0RadWV0blY5WE95OXhJbUdSZWhJTU9TTDNWRjR6MzNYZw?oc=5",
+   "time": "2026-10-14T07:03:18+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Transboundary haze: Jakarta mulls Malaysia's offer to help",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWFVYRFdPTkswdHdWMGdaNHBEQV9CYW9MbjIxVFduTzF2SlBjQ3o2dEpMOGRHM1Q0Q1V6anNfY2xCY2p4bUwwR3lxY1FyN0N1VkVvekExTUFvaUxQSHlCeHE0WE41Z1JZR09HVEM0djd2azdLZHlTVkExOE1rcnI3MWsyeDR1eXRIbGtXXzB5Mm0wVFg1Tk8wLXJqR0FMV2tYSkRtcXJqY9IBrAFBVV95cUxObExJMWxZWXZoQTFUZ3JjLWRaM1hJQ3lHWFBIZExiU01QVi1tZjBhM29CdnYwRTlNZGRhdWpnY2VDNzNtMXZHbnhreXoyWGNuQURJYlJJdjlnaWVraEswZW9FNlhGdmZ1Rm15Q29QaXRfWUlodEF4RWh2bmJvRGk0X3Y3WWR5T0NKNC12eS0xbDVEUVFKUnN1dDlkTGhQd2thNEF6LXhzakZYUTNR?oc=5",
+   "time": "2026-10-14T07:01:40+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -574,27 +595,6 @@
    "title": "Haze expected to ease over next two weeks",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNWpsQUw0Vm5ETTBUcFdRNGI0blUtWml5V2kzZk1ka0NFdzViTFpDcmNJTHYwSTlzU2FKb01HbzR4Mjk1UVRaQzRCY0ZQeU04MUhVS2tXV0R1QnNBYWt5WWt6Sl9ZSFdpUWw5NDhMMUlIb21KSldJLWxWakxhYnFBMzNCazBGSzVfN2FMclZVRC15RTDSAZgBQVVfeXFMUEw0azBPOU9LWVFXcXpnT1dicFF6T1psRVAyTUl4NGV0ZnVwNkZ0MThaaDR3MTZxd0hOa1pvTC1IVUVvZnZrcUFmNnEwOHgya25UNUNlRnJpdGNLYUZNUDJBeHNlcU8xM25NYlluYWtaR3A4c29nWFV3djNzT2l3Si1Sa1RRcVlndTl5cnJMTWhYRmw1NzdFNVU?oc=5",
    "time": "2026-10-13T20:28:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Sinar Daily",
-   "title": "Cross-border haze expected to ease over next two weeks",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONE5WbVFEV3ZpUTJHWVpWdGFmNlJMTm9SakFYN0VMSHJvSFBDQWcxelotTkw3c0FaY0t4cmVmMkloSTRZdjVEVGpRejkxTkxFWTBuNGxKU0ozQnA5YVJIcjFzUFZwTHpEbDRVcjJCWkNscVIzV0x3d082X19xWVJKdF9taFgyTm44RTliMVVHbl9YVUtjaE9qQ2tIT2dfOXRpeUxkTER1dWFRV0dyTHhN?oc=5",
-   "time": "2026-10-13T20:04:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Cross-border haze to ease in two weeks as monsoon transition begins, says deputy minister",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZkY1a2Y1VTFYbC0taWx2ekYwRlFnbnJVeFVVZ1dRVmxGUFpXSWFpWE02Q3g2d3VJRzBuQUlNaTU5b01wOEpHbnRzQWw3MWJsZVlIX19xM1pwQ1FMRUZOTXlQOHBwQWxYOWc2aS1lTDYtX1B3cmlxcjh2c1dhMmJIRFhhX1EtVkNfVGFKM05xUFNqaUhHOTN3QUd4eGRueUJsZk5acWoweDNPTnJtTmdSc1FFZ3MxWTZZQXVGRVU2S0pHT3ZTd3RNcEZyOUJyRi0xYzZyNFVTMVpqRzZsdTMw0gHkAUFVX3lxTFB5UXl2N2tuQl9YYUdoOEJnSGpQc2tueHV1ZHdjMGllSkU5OXRqR2NsN2FSTXdKekFSQk1KOXpSOFJHRjlzYXB6ZUtVRnpMWnhYSkkzUmEyTS12ZjU0SkE0bWZtVnNwVUlVVy0tYTVtd1gwSGtrQTVTeWZsOEFISHVDUkFQSUxOVFVWM2lhMjdiTVlsUkhPN2lIenZheFNka1JXR2FsV0hYT1dXV1FnQzVEZS1lVmFybUtvVFgzUHRRVHhQTWZ5MXE1NmlrNXNYeGpkc09hbnNEVENEU0FUN3RrLWZXUA?oc=5",
-   "time": "2026-10-13T19:58:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Free Malaysia Today",
-   "title": "Cross-border haze expected to ease in 2 weeks, says deputy minister",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmZOcUFZall3S0dnQWlxOFVNd2lyWmlEbVNyNzBkLW1xNG4xQlVVZU85eXlLc2pYNV8yYTh1RHA5MXpDczNmYm9NRnhJNUY3QXJCOWtRcmV3VzAzNWpPeXBLN0VEUjNZVEpwUGtFVHluQnBvRlJkeERHVTNoV205MjQ5SkVYM25HT3gtcEJRWnpJTF9waTQ2U3I1SDhNRTFCTXZnb1JRbUtqZkVfNncwRUxyYnlraFdfQXNSU21fM3FiUDJGZUE?oc=5",
-   "time": "2026-10-13T19:52:32+08:00",
    "summary": ""
   }
  ]
