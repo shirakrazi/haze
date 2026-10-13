@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-13T15:00:00+08:00",
+ "updated": "2026-10-13T16:00:00+08:00",
  "psi": {
-  "west": 172,
-  "east": 151,
-  "central": 163,
-  "south": 132,
-  "north": 121
+  "west": 169,
+  "east": 150,
+  "central": 160,
+  "south": 131,
+  "north": 117
  },
  "pm25": {
-  "west": 119,
+  "west": 76,
   "east": 90,
-  "central": 95,
-  "south": 88,
-  "north": 59
+  "central": 73,
+  "south": 72,
+  "north": 47
  },
  "hist": [
-  {
-   "t": "2026-10-11T01:00:00+08:00",
-   "psi": {
-    "west": 154,
-    "east": 143,
-    "central": 160,
-    "south": 122,
-    "north": 119
-   }
-  },
   {
    "t": "2026-10-11T03:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 132,
     "north": 121
    }
+  },
+  {
+   "t": "2026-10-13T16:00:00+08:00",
+   "psi": {
+    "west": 169,
+    "east": 150,
+    "central": 160,
+    "south": 131,
+    "north": 117
+   }
   }
  ],
- "newsUpdated": "2026-10-13T15:07:46+08:00",
+ "newsUpdated": "2026-10-13T16:08:01+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "LinkedIn",
+   "title": "What can Singapore do about the haze?",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXZTM2gzUkpkRmlVWVVYb21OQzFrUjlMVEFsSi1GUzMtRUZnLUNxMkhvbTBLdjBJNVBGaUlGMkVFYllkbW9HYkRwOElQYi1hVUVqQWVJMG5TYml6UHlLV3dOVXdQeF82UVAzTWFFbmwydGdlWHk3ZnRuSU0zbHBZVVRnZHYxRXNw?oc=5",
+   "time": "2026-10-13T16:02:13+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Air quality remains unhealthy across Singapore amid haze",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNDFNUGhMczBkZFVqUWNpR0U0QlJYS1N4N252aTdjOGxPUFZPcWdvcS1IRmVjMFVzZXBsRHBBQUN2X3FSUEwxMzRKYldLc3gydnR5MHhDOGZIbGFHaFlSV0VDekdCa2lpODk0X3F6cXgtNER5Vk9lRTY5eDhoTVJGS0Jkb1JNaFJxQ3I2aXVB?oc=5",
+   "time": "2026-10-13T15:27:43+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malaysiakini",
+   "title": "COMMENT | Haze: Malaysia needs accountable leadership, real actions",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcTNWNTg0Mmd5MUNWbE1JTU9RVVRuTmU3WmpYY0EteHhHeGY1ejQ5bXhrVVk3SnpPY3dhQ29mVW90Q0VtTGp3WGJ1UUowYUhIUU1PN1ppbEl0cGJXWE42UEUtTkpjYng0eFFJbUlPM3ZZaEZKNkJRTy1mRXB6S2FITTItcWNyVXZYTU9LUlVGdjJROFkxV2FnaFhEbGJBeXpNODRjMUtrUjVoYlU?oc=5",
+   "time": "2026-10-13T15:17:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
@@ -574,27 +595,6 @@
    "title": "Fires and cross-border haze: What can still be done",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMkpvOG94WlQtUW8tdHNNdTNLcmk4bmZFTFN4YUlQWVZJcnpNRnpWREFKSlJnM3ZhSkRWS2tmV3ZodVJUWnRCYTZibjJ6UDJ4bUgtdWJWREVDeW5wR3p1WW84LTJvWmJtZEk4YTRCNVJDY3JYU2JIUVV5SHZCemQ1U2N4ZDNVWTROdEozSS1leUZSVHFlaVVUTzROTVJpSWR5QWc?oc=5",
    "time": "2026-10-13T13:26:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Free Malaysia Today",
-   "title": "Hold those responsible for haze accountable, Suhakam urges govt",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMml0TzNlV2VfeC1fNVJZSjJNUmFvclZfVGExQXRMVUtxMzJLVUpMNVZhSDhncHBGYkZZV2h0dlJHNkhiZmNFZGJSSXZySGw3a2FWMjNRV3REMHRCelFhb2pMN3hlUmljWkNqRkNYLUZEM1JpUWdDaUNrTU9HSGUxT0ZESXBxOE1uek4xQU95djNHVl83ME5PRFlYVm54S2k1amdaZzRDeHdqNlhESTIydlhxQ19fU3BBRXk2TzFzVko?oc=5",
-   "time": "2026-10-13T13:22:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "'We assume the best of them': M'sia DPM says no reply from Indonesia so far on offers of assistance for haze",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZHlXQlRpcmhHT1JfeUJwMlN6WHpoVmhlbFU2bFNaU2NSVmJVRXp2V0sxbUJ6VU0tV1EtTUFsSk1vQVZ5OFJCdGhJWGpmM1dweEVlUkduSGN2cWdScHNCZHJET1doc215NnRwR1lTcWpDY0xZV2NEaHJuTjlmV05YUlVB?oc=5",
-   "time": "2026-10-13T13:16:53+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Parliament to hold Special Chambers debate on haze",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFplTDBNa0ZXUDFwcmpWVEFuQTZfTjdiNk0zcjAzdzRqV01oV1YyRUJiUmdsWTM4clViUjBNaHFkWENZYkZ4dDhNdjJsUksyQnB3S2NBbWZodUZWenVGM2pmZElUWVU3MHJDTTd1NTlWZlRuQ3lOZjR5djVqWG9NcFJlMGZoNGpOV25aUHlaT3JLZWZfT0xPWGRKTUNMZjBaS1E?oc=5",
-   "time": "2026-10-13T13:07:00+08:00",
    "summary": ""
   }
  ]
