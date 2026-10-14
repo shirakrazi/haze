@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-14T09:00:00+08:00",
+ "updated": "2026-10-14T10:00:00+08:00",
  "psi": {
   "west": 144,
   "east": 139,
   "central": 142,
-  "south": 124,
+  "south": 125,
   "north": 106
  },
  "pm25": {
-  "west": 74,
-  "east": 78,
-  "central": 98,
-  "south": 83,
-  "north": 59
+  "west": 100,
+  "east": 104,
+  "central": 101,
+  "south": 77,
+  "north": 60
  },
  "hist": [
-  {
-   "t": "2026-10-11T16:00:00+08:00",
-   "psi": {
-    "west": 154,
-    "east": 133,
-    "central": 147,
-    "south": 114,
-    "north": 113
-   }
-  },
   {
    "t": "2026-10-11T18:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 124,
     "north": 106
    }
+  },
+  {
+   "t": "2026-10-14T10:00:00+08:00",
+   "psi": {
+    "west": 144,
+    "east": 139,
+    "central": 142,
+    "south": 125,
+    "north": 106
+   }
   }
  ],
- "newsUpdated": "2026-10-14T09:06:57+08:00",
+ "newsUpdated": "2026-10-14T10:07:38+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Global Times",
+   "title": "Palangka Raya in Indonesia shrouded in thick haze",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FVXp6YUl5ckdud1k2Nm9hRFY4OGNqMXFLWEdNeWRhUTNRcTZXaFgxbkxEVVd4RXhWNENNTldlNWlhNk5Dbi1QTnJpTmtxVGt6RlV4MlhNMDZuTHNXQl9rTDln?oc=5",
+   "time": "2026-10-14T09:59:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Asia News Network",
+   "title": "Air purifier, air-conditioner sales in Singapore spike amid haze; N95 mask stocks sufficient",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSzVLcnpVdnRMMThGQnRiZG9zMHpjcExZbkdlY0hLWEdybDNGTXllcFdZUU5ObjJYZ3lraDZ0dkpWLXBBdXI4X3B5V1NjakpkaWNpbWZKMVFNSG5LbnZLQ1dqWmk2RUxVN0x0cHF6ckJNUTNMTkIyVTA4R3poUmM1cVhGdnhsVUlmZ210bms3a0ZrZW55dXZrejJxNVJobkJnbHJXZmYySXRFRmxQQlF0M1BTYkh4TTg?oc=5",
+   "time": "2026-10-14T09:57:44+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne",
+   "title": "Haze watch Oct 14: PSI unhealthy across Singapore, thundery showers forecast this afternoon",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVRwSVVfWDZYVXgxaEdOSGZxdU1WYXphQlBXaW5RdWVRUkF4dFdKRUdCdzJZN2k0V1BsZ0ZsbzNJX2JCY3RHRy1jeFcyVjg1UjlncnM2YWtDeDJLUHVRQzV6dDZuQ2R2RzlPN2dHZXZLMmxCV0xRUUJYMGN5Q2Z4ZWtfWHhIbF9lNUQzWW1VamxNQQ?oc=5",
+   "time": "2026-10-14T09:23:14+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yahoo",
+   "title": "Haze continues hitting Johor, Selangor, KL hard: API 177 in Pasir Gudang",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUoySEM3cHZ5UGhGUW15OTJnWVg0cVZuU0hWUmhnNzFlS2RrTjh5R1VpOTQ5SzMzeklHSGgwT1hPNHBRc0NzbWtOc3VuUVV2Q24tNGg4bEVBWDFieHJfLUFraXFSVzMyZDVqV3NrUXZqV2IybmFDdWg4WTZQbVNpN1loX0dVYkNkR0JWbw?oc=5",
+   "time": "2026-10-14T09:12:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AFP.com",
+   "title": "Singapore rolls out haze subsidies as Malaysia extends school closures",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zUEdNMERlcW5qSVhJdGJMU0YwczZKeHc3U2xOUFFpVHdVeDNncUhUUGdIZnFxN0p1M01MS0U5WXBvR29qVVdUYzRMcw?oc=5",
+   "time": "2026-10-14T08:56:37+08:00",
+   "summary": ""
   },
   {
    "source": "Asia News Network",
@@ -518,13 +553,6 @@
    "title": "Malaysia’s haze-related school closures leave parents scrambling to keep children on track for exams",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlFtSDhoQ3pDeVNrM3h1RUw4TDVPbFM5WmhPYnVLTEJ0Q1o0cDBTQWFzNW9xZ3hWSlotai0wQUNZV1FjZDBKaHlBQ2dLcmNVd0laUEJkcDhxRlh1RHNiU3ZCWXJBd3djcnMxQWpvcV9XamNaVWZBQmxLRFlxclpydVBHdzZ1N09NaE9ERHM3SmFoZw?oc=5",
    "time": "2026-10-14T07:33:32+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Xinhua",
-   "title": "Palangka Raya in Indonesia shrouded in thick haze",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2xEOWZBZXpZVG1UWHVNenJBMF9na0JZWTA1dml6ZVdOUHhGVkd4eWkteDR6LW56VlQxMndZWXk3RXZBaXB1QUhsaU82ekFRaXhOWVlLcUdHN3lHcmlTckNpVG0xdVV1Zk1VMHMyb2lzR1ZyYlZPTDVVM0xNbzlEVUt2eXNuMEpsaVBXdQ?oc=5",
-   "time": "2026-10-14T07:29:57+08:00",
    "summary": ""
   },
   {
@@ -559,7 +587,7 @@
    "source": "Malay Mail",
    "title": "Indonesia’s haze problem starts underground: How peatland fires keep burning",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRm5nVk0tczh5STdOZUtNZmduQVVqUGlhdm1Sbm9GM0o3NUI4LUZyd0F3NmdFOTRvZ2k0X0JjRkpocDV0Z0JNZkVMY0hURzlBdnJHdjQ4dEllSDlYelhnbnFpZm4xVC1OV3liNFhteWtvR3dNS00tOWI2UDdvSENkLTRFamVMSjRmZmM4VU5sRUJtT1JKWGdUZUpwV0JLbVdxdWZlTWJIWHpLclJpNEo2aDRjOE5XM2E3V2ZUSnctV0NVMkhCMS1jb9IBzgFBVV95cUxOSGFvaklva1c0dUk4aTRpbjh4d0lxZVh6VERoUXEwd0tBUVlmZndDTUZSb1I3R2RYcHoxVVVHWEVsRGlpUVIzVDd5MWFyZDBpRXNqMmJjX1JkWExQRXdza2lSYm1Ib2VCX2phZElRWlZQX3N1U1dHX28zU0JJekdGQk1mLVVVdDFGTnVqOFNZSGg3Y1hBWmQ5VEdiazRYVVJrcXB3R1d5REhyUDBZd3A0ZENUNlpNU0I1RWhpQi1vM3lzUWdsdUhHSGVUOHJPdw?oc=5",
-   "time": "2026-10-14T07:03:45+08:00",
+   "time": "2026-10-14T07:04:59+08:00",
    "summary": ""
   },
   {
@@ -567,34 +595,6 @@
    "title": "Cross-border Haze Expected To Ease Within Two Weeks - NRES",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LQzd3NHVHbjdtNXlBb3FEUlg4Y01SWG5kTEtNbFZNaUh2OENtZUFnVFV6YmgzcFN0S0RadWV0blY5WE95OXhJbUdSZWhJTU9TTDNWRjR6MzNYZw?oc=5",
    "time": "2026-10-14T07:03:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Transboundary haze: Jakarta mulls Malaysia's offer to help",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWFVYRFdPTkswdHdWMGdaNHBEQV9CYW9MbjIxVFduTzF2SlBjQ3o2dEpMOGRHM1Q0Q1V6anNfY2xCY2p4bUwwR3lxY1FyN0N1VkVvekExTUFvaUxQSHlCeHE0WE41Z1JZR09HVEM0djd2azdLZHlTVkExOE1rcnI3MWsyeDR1eXRIbGtXXzB5Mm0wVFg1Tk8wLXJqR0FMV2tYSkRtcXJqY9IBrAFBVV95cUxObExJMWxZWXZoQTFUZ3JjLWRaM1hJQ3lHWFBIZExiU01QVi1tZjBhM29CdnYwRTlNZGRhdWpnY2VDNzNtMXZHbnhreXoyWGNuQURJYlJJdjlnaWVraEswZW9FNlhGdmZ1Rm15Q29QaXRfWUlodEF4RWh2bmJvRGk0X3Y3WWR5T0NKNC12eS0xbDVEUVFKUnN1dDlkTGhQd2thNEF6LXhzakZYUTNR?oc=5",
-   "time": "2026-10-14T07:01:40+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Asia Media Centre",
-   "title": "Indonesia's Fire and Haze Crisis Spills Across ASEAN",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObjV5SGwxU0I2ajVHMXdBRXlqY0xvYzJEMmFjYkQ5WmR5UDRhblhjSGFpX2pLSzNJUjRRcGoyOXUxU0JLaU1jT0I3VFFQeHZtYkNZUFhjQzJPenQ5Y1JvZmM3RHM5aXZ2UV9tb0VYZFVweTkzTDN4OTV2U0YyQmtGSWFMcGEyVVdSM2xNQ1VJMUFwdUdPOVE?oc=5",
-   "time": "2026-10-14T06:56:55+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Hazy conditions persist overnight as PSI remains unhealthy across Singapore",
-   "url": "https://www.straitstimes.com/singapore/hazy-conditions-persist-overnight-as-psi-remains-unhealthy-across-singapore",
-   "time": "2026-10-14T06:05:44+08:00",
-   "summary": ""
-  },
-  {
-   "source": "BBC",
-   "title": "Haze: Who's to blame for the toxic smog choking South East Asia?",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mTks5N2RRS2JqbXUzX015Z1k0MXpSSk5NbE9aQjRtTEdBWGtVT2U0SnM0N1Z1M1hVUlJEU0JWcm83b281U1BSNXI1VXZpd1RkMG5RbGVaRURnUWc?oc=5",
-   "time": "2026-10-14T06:01:43+08:00",
    "summary": ""
   }
  ]
