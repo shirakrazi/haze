@@ -1,12 +1,14 @@
 name: probe2
-on: [push]
+on: [workflow_dispatch]
+permissions:
+  contents: write
 jobs:
   p:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - run: |
-          python3 - <<'PY'
+          python3 - > probe.txt 2>&1 <<'PY'
           import json,urllib.request,csv,io,collections,sys
           sys.path.insert(0,'.')
           import update
@@ -26,3 +28,6 @@ jobs:
             if p and p['id']=='ID-KT':kt[(r['acq_date'],r['acq_time'][:2])]+=1
           print('KT by date/hour',sorted(kt.items()),sum(kt.values()))
           PY
+      - run: |
+          git config user.name probe; git config user.email probe@users.noreply.github.com
+          git add probe.txt; git commit -m out; git push
