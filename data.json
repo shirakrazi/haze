@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-14T07:00:00+08:00",
+ "updated": "2026-10-14T08:00:00+08:00",
  "psi": {
   "west": 145,
-  "east": 142,
+  "east": 141,
   "central": 142,
   "south": 122,
   "north": 107
  },
  "pm25": {
-  "west": 86,
-  "east": 93,
-  "central": 95,
-  "south": 77,
-  "north": 59
+  "west": 94,
+  "east": 80,
+  "central": 96,
+  "south": 69,
+  "north": 57
  },
  "hist": [
-  {
-   "t": "2026-10-11T12:00:00+08:00",
-   "psi": {
-    "west": 150,
-    "east": 135,
-    "central": 149,
-    "south": 114,
-    "north": 116
-   }
-  },
   {
    "t": "2026-10-11T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 122,
     "north": 107
    }
+  },
+  {
+   "t": "2026-10-14T08:00:00+08:00",
+   "psi": {
+    "west": 145,
+    "east": 141,
+    "central": 142,
+    "south": 122,
+    "north": 107
+   }
   }
  ],
- "newsUpdated": "2026-10-14T07:08:05+08:00",
+ "newsUpdated": "2026-10-14T08:07:24+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,45 @@
    "pinned": true
   },
   {
+   "source": "CNA",
+   "title": "Malaysia’s haze-related school closures leave parents scrambling to keep children on track for exams",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlFtSDhoQ3pDeVNrM3h1RUw4TDVPbFM5WmhPYnVLTEJ0Q1o0cDBTQWFzNW9xZ3hWSlotai0wQUNZV1FjZDBKaHlBQ2dLcmNVd0laUEJkcDhxRlh1RHNiU3ZCWXJBd3djcnMxQWpvcV9XamNaVWZBQmxLRFlxclpydVBHdzZ1N09NaE9ERHM3SmFoZw?oc=5",
+   "time": "2026-10-14T07:33:32+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Xinhua",
+   "title": "Palangka Raya in Indonesia shrouded in thick haze",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2xEOWZBZXpZVG1UWHVNenJBMF9na0JZWTA1dml6ZVdOUHhGVkd4eWkteDR6LW56VlQxMndZWXk3RXZBaXB1QUhsaU82ekFRaXhOWVlLcUdHN3lHcmlTckNpVG0xdVV1Zk1VMHMyb2lzR1ZyYlZPTDVVM0xNbzlEVUt2eXNuMEpsaVBXdQ?oc=5",
+   "time": "2026-10-14T07:29:57+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Billion-ringgit cost of the haze",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDlUbHFzeDB4dzZYdW5kU19GZld6c0poSnAxdFdJdXAwdU0tRVVHWV8yLTVtcmJFekhrR19OTGtNd05CVUM3UVdsZTN1VWE0OEVEUmFKcXVuNFVteTB0dTRIQXN3aHpuR1JoUW9aNklOWDJWRS1UUFlPRDg3S2ZMVUtLVEQ2UEJGV2c?oc=5",
+   "time": "2026-10-14T07:19:22+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Shifting winds could disperse haze",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWZJZWQ1MWRvZ0FXVVQ1NWpmYjhsanBGNDdubnhyUUpXRC1VREFyb1VFNFU0MDRGNWNMYkFBUTFoUUV5QWhvbHhrdlptdXhZRWcyNllteEl5WFZkRS1MNk1rS1pSSlJneEpZX2FEakZlVE5sZEFUcVQ0eHM0UmJVNGdJeW5PVWJ2UHZpRA?oc=5",
+   "time": "2026-10-14T07:09:06+08:00",
+   "summary": ""
+  },
+  {
    "source": "KLSE Screener",
    "title": "Fires, cross-border haze: What can still be done",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVkNvMzZucTIxTm5ibzVoS1pxUEhZTUZJU1V2R3JOVTZEekxzVkdjZEgwOWZDRUdTZVNwRGZ2VVpiekxUNC0yR1RTNnJuZWdRanpQczlMZUVxMEZoSlF2YU5OaXBnd2Z6ZmNPY1ZzUjh1RTVlV1luRWJSX0Zja3prTnhDUzQ3dXplNHgxV1VCbV9JMUY0b2NyZWk2R0g?oc=5",
    "time": "2026-10-14T07:05:38+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Indonesia’s haze problem starts underground: How peatland fires keep burning",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRm5nVk0tczh5STdOZUtNZmduQVVqUGlhdm1Sbm9GM0o3NUI4LUZyd0F3NmdFOTRvZ2k0X0JjRkpocDV0Z0JNZkVMY0hURzlBdnJHdjQ4dEllSDlYelhnbnFpZm4xVC1OV3liNFhteWtvR3dNS00tOWI2UDdvSENkLTRFamVMSjRmZmM4VU5sRUJtT1JKWGdUZUpwV0JLbVdxdWZlTWJIWHpLclJpNEo2aDRjOE5XM2E3V2ZUSnctV0NVMkhCMS1jb9IBzgFBVV95cUxOSGFvaklva1c0dUk4aTRpbjh4d0lxZVh6VERoUXEwd0tBUVlmZndDTUZSb1I3R2RYcHoxVVVHWEVsRGlpUVIzVDd5MWFyZDBpRXNqMmJjX1JkWExQRXdza2lSYm1Ib2VCX2phZElRWlZQX3N1U1dHX28zU0JJekdGQk1mLVVVdDFGTnVqOFNZSGg3Y1hBWmQ5VEdiazRYVVJrcXB3R1d5REhyUDBZd3A0ZENUNlpNU0I1RWhpQi1vM3lzUWdsdUhHSGVUOHJPdw?oc=5",
+   "time": "2026-10-14T07:03:45+08:00",
    "summary": ""
   },
   {
@@ -528,10 +563,24 @@
    "summary": ""
   },
   {
+   "source": "Asia Media Centre",
+   "title": "Indonesia's Fire and Haze Crisis Spills Across ASEAN",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObjV5SGwxU0I2ajVHMXdBRXlqY0xvYzJEMmFjYkQ5WmR5UDRhblhjSGFpX2pLSzNJUjRRcGoyOXUxU0JLaU1jT0I3VFFQeHZtYkNZUFhjQzJPenQ5Y1JvZmM3RHM5aXZ2UV9tb0VYZFVweTkzTDN4OTV2U0YyQmtGSWFMcGEyVVdSM2xNQ1VJMUFwdUdPOVE?oc=5",
+   "time": "2026-10-14T06:56:55+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "Hazy conditions persist overnight as PSI remains unhealthy across Singapore",
    "url": "https://www.straitstimes.com/singapore/hazy-conditions-persist-overnight-as-psi-remains-unhealthy-across-singapore",
    "time": "2026-10-14T06:05:44+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Haze hinders efforts to battle the blaze",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTk2RVpER0ItVTllUUZ4MmN1ZHJSejBUeFNNQnVYazV6Qy1iU252N29Pd21hdE9QUFRZSVZjV2lobGNPWGFnYVNOYnRReFdKaEx5M0E0NGVaOXVnUkxCQXIycXlSbW1JY0wyNGNmY3RmZEVULUZTVUtsOTY2QUQ0LVFQOWwxUmktbzl0RDl1ejhHZkZuX1VpbDUyRHpodDEzVHM0?oc=5",
+   "time": "2026-10-14T06:04:06+08:00",
    "summary": ""
   },
   {
@@ -542,59 +591,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Malaysia’s haze-related school closures leave parents scrambling to keep children on track for exams",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlFtSDhoQ3pDeVNrM3h1RUw4TDVPbFM5WmhPYnVLTEJ0Q1o0cDBTQWFzNW9xZ3hWSlotai0wQUNZV1FjZDBKaHlBQ2dLcmNVd0laUEJkcDhxRlh1RHNiU3ZCWXJBd3djcnMxQWpvcV9XamNaVWZBQmxLRFlxclpydVBHdzZ1N09NaE9ERHM3SmFoZw?oc=5",
-   "time": "2026-10-14T06:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze hinders efforts to battle the blaze",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTk2RVpER0ItVTllUUZ4MmN1ZHJSejBUeFNNQnVYazV6Qy1iU252N29Pd21hdE9QUFRZSVZjV2lobGNPWGFnYVNOYnRReFdKaEx5M0E0NGVaOXVnUkxCQXIycXlSbW1JY0wyNGNmY3RmZEVULUZTVUtsOTY2QUQ0LVFQOWwxUmktbzl0RDl1ejhHZkZuX1VpbDUyRHpodDEzVHM0?oc=5",
-   "time": "2026-10-14T05:56:15+08:00",
-   "summary": ""
-  },
-  {
    "source": "planb.sg",
    "title": "Prabowo's Grand Welcome for Egyptian President Sparks Anger Amid Haze",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS3VPNldsN1ppY3ZIVE8zeXRYMHdYMkdqczVqNVBZZmdhNGxGeGxWNDhQTDl3TklKMEFtOWFlMXJYODlOdU51ZDNEZS1hQTlkVEFNRVpVVVZpbjkwTk9naWQzWm1JbVg2dDBZTzdscnIxS1NpVjV1YkJ4V0U5Uloxd2FwZDY3VFBKSWRPVFY3cnF6S3Y1UWp4dkt0aw?oc=5",
    "time": "2026-10-14T05:39:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Indonesia Business Post",
-   "title": "Singapore reinstates medical subsidies as Indonesian haze worsens",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWoxYkdiSUxrYjZtVFIyNDZFM0owMF8xb19yOG9PekZNNFBEakduOWhwakMxcXVKVWZPVTBpSjBoWmV1ZGNPR2FDVU9makZQMWl6SnVrUDFqNWd0ZE56cXhnb2t1NEYwSHg2MGg5VTJXU2lMMkV5VjE5OERBS21xLXM5Y3lQWVhuR0l2ZnRQNktkcW9tc1ZqdTRRb1RDQWxtYW9OZW9reTh5Nm1JeUJRc0hDWnB3d3lsa2NLeDNNN183UQ?oc=5",
-   "time": "2026-10-14T00:38:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "IDNFinancials",
-   "title": "ASEAN to discuss transboundary haze ahead of November summit",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa05jSjFwUTQ3SXZGTmxpVkFoajlWNjRIbUNxZnZOenY0UnpzTi1adURfeTdDZnRTak5zb2Q5UExkWWlPNmlwMWVTVXJaVGtqSC1vSVNJNzdITnJkSkhHNEhDcUZZNjNZLVcwZHhucVpRaTZQZGlmQzBCb2NOYk5USzFyOTBiY05FaUN1SDdUTXRqMWFVemFCTXNleWxDTkFhTTJz?oc=5",
-   "time": "2026-10-13T23:40:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "Haze update Oct 13: PSI remains unhealthy; 24-hour air quality forecast to stay unhealthy, Singapore News",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXI5U01oM3NxUlREZEV1dk5qbUtHWW9pbmE5VU5lR3FzZUdNLVlqN1hMV3dzZzBpZElfQ09sLVo5X1BTTFhHLTk5dkFuUDVtR3dXMDIxdEo0ZmpOdHB0STF2Umg1bnU1Mzl2Y1EzLUdVdG5GSExoSnp2M3Nkd2p6OFVHZDU2bGVJRXNBY3lrcm0wcFl5UEo3SGd4S0pZSjN1MmFZOEIyaW43ZzhjZUxhaFQtd184bG5XRHc?oc=5",
-   "time": "2026-10-13T20:45:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malaysiakini",
-   "title": "Evidence hurdles in holding firms accountable for overseas haze - deputy minister",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOUNneHU1dzE3cGpGUEdiMjVUNlR1N0ZYbDRhQUpsby1wQnJneXJpR3VJNXptOVFtV011T1Ixck9WdHEzdVpOZ1ZtYkhrRWZjTDhvVGlfeXI2YXc3Tk9LREtZZGlJYS1IWlhTRFY1TUtnVnZ2X1hYNld2eHd2ZnRLVk4taHJkLUlrY19oY0hsMnB1SkpBYmNlZ1ZaWnUwRDRYeno4UkJaazByR1ZUQWg2WU1qLUkxeXpqLWQxVg?oc=5",
-   "time": "2026-10-13T20:32:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Haze expected to ease over next two weeks",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNWpsQUw0Vm5ETTBUcFdRNGI0blUtWml5V2kzZk1ka0NFdzViTFpDcmNJTHYwSTlzU2FKb01HbzR4Mjk1UVRaQzRCY0ZQeU04MUhVS2tXV0R1QnNBYWt5WWt6Sl9ZSFdpUWw5NDhMMUlIb21KSldJLWxWakxhYnFBMzNCazBGSzVfN2FMclZVRC15RTDSAZgBQVVfeXFMUEw0azBPOU9LWVFXcXpnT1dicFF6T1psRVAyTUl4NGV0ZnVwNkZ0MThaaDR3MTZxd0hOa1pvTC1IVUVvZnZrcUFmNnEwOHgya25UNUNlRnJpdGNLYUZNUDJBeHNlcU8xM25NYlluYWtaR3A4c29nWFV3djNzT2l3Si1Sa1RRcVlndTl5cnJMTWhYRmw1NzdFNVU?oc=5",
-   "time": "2026-10-13T20:28:29+08:00",
    "summary": ""
   }
  ]
