@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-14T10:00:00+08:00",
+ "updated": "2026-10-14T11:00:00+08:00",
  "psi": {
-  "west": 144,
-  "east": 139,
-  "central": 142,
+  "west": 143,
+  "east": 140,
+  "central": 141,
   "south": 125,
   "north": 106
  },
  "pm25": {
-  "west": 100,
-  "east": 104,
-  "central": 101,
-  "south": 77,
-  "north": 60
+  "west": 109,
+  "east": 126,
+  "central": 107,
+  "south": 92,
+  "north": 61
  },
  "hist": [
-  {
-   "t": "2026-10-11T18:00:00+08:00",
-   "psi": {
-    "west": 155,
-    "east": 131,
-    "central": 147,
-    "south": 113,
-    "north": 112
-   }
-  },
   {
    "t": "2026-10-11T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 125,
     "north": 106
    }
+  },
+  {
+   "t": "2026-10-14T11:00:00+08:00",
+   "psi": {
+    "west": 143,
+    "east": 140,
+    "central": 141,
+    "south": 125,
+    "north": 106
+   }
   }
  ],
- "newsUpdated": "2026-10-14T10:07:38+08:00",
+ "newsUpdated": "2026-10-14T11:06:53+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Human Resources Online",
+   "title": "Haze in Singapore: Free N95 masks and rest stops provided for delivery riders at 30 bus interchanges",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcmMxMVpta0VBcU8zRF9MUVUyWEJ6NFY5dzdreXl1WG5tOUxKTkt6N2t0LWM0UG1OeHQ2N01ZSUV2WmZpdmtxX0QxSEkyR3FqaDhRTmlueEQtaEo1emdNNnRkTTBUdmJCYktYa1Y4dzJPUk1tSG8yN2tpN3NEV0NMSWhTUkI5U3JtUW1oWXBsdUZvVzFiaHNpQ3pDRmlNOXA2dE9JX0RzQ3dINnpxdXNPdVdfN0xfdFBETHIycGZ3VzFrbTJoeWZlcldGZ1V3Wjh4N1E?oc=5",
+   "time": "2026-10-14T10:36:21+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Malaysia’s haze-related school closures leave parents scrambling to keep children on track for exams",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlFtSDhoQ3pDeVNrM3h1RUw4TDVPbFM5WmhPYnVLTEJ0Q1o0cDBTQWFzNW9xZ3hWSlotai0wQUNZV1FjZDBKaHlBQ2dLcmNVd0laUEJkcDhxRlh1RHNiU3ZCWXJBd3djcnMxQWpvcV9XamNaVWZBQmxLRFlxclpydVBHdzZ1N09NaE9ERHM3SmFoZw?oc=5",
+   "time": "2026-10-14T10:27:28+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Economic toll of haze in Malaysia could hit RM1.5b a month as business and health costs mount, experts say",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZHhLek8zT3dxV2JHMVhPUF9zaTdndENrV2sybU1UbFJMMGJfQ210R0pTRENRU2xua0ZQQW9hN3lmMVJjNERvbzRYdjlWUGVSdk42WDZqNUZOMTNlQnJFUEk1ckxEUjVXTEhCMFlrdi1mVVBCbG5fRFJ5Z2RpVWxwdWhVMTdGTmRPNGJoSF8wM0dRMi02SlAwRWloajNMbWRyVGFKbWl5dXBZYlQ0NEtJRThmSERZSTJ6dVNfamw3cENRQ1RleGxIR0x6My1rV3JsbE5zYi13LWdDbENYbU5Mc0xBbU1wczh2MTVvajJ3Tm9kUEVr0gH6AUFVX3lxTE9MTVFQZzUtcFJMU0lMNVhMQWRDeW0yOUs4ZXN4cXVtNUZkUThtMFhKd2NvNXFOaEdoaFlJclItaDNhTzdwVVJjbnpMQjhJamx2X0hlVVhab1BTMFJIRUNCam1qd2pxcmx0dnUwTmVyY21mOE5KTXNrX0NUUk5jbU1Qbzh5SVVjaF9ENGRxU1dGSFFRbUVqb1R1TV9BWkNpLWNLcHQ5eHVmLWdBcWZBbDdSdmFBWGZuSVNNV1BxMUlGSDdZQlVELTA2dEZqbGwxVmFlNTN0NGVnYTJma2FSREo4MkhLX28yN1d4ckRuY1RHMEE5czd2S0U3Rnc?oc=5",
+   "time": "2026-10-14T10:19:31+08:00",
+   "summary": ""
   },
   {
    "source": "Global Times",
@@ -518,6 +539,13 @@
    "title": "Air purifier, air-conditioner sales in Singapore spike amid haze; N95 mask stocks sufficient",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSzVLcnpVdnRMMThGQnRiZG9zMHpjcExZbkdlY0hLWEdybDNGTXllcFdZUU5ObjJYZ3lraDZ0dkpWLXBBdXI4X3B5V1NjakpkaWNpbWZKMVFNSG5LbnZLQ1dqWmk2RUxVN0x0cHF6ckJNUTNMTkIyVTA4R3poUmM1cVhGdnhsVUlmZ210bms3a0ZrZW55dXZrejJxNVJobkJnbHJXZmYySXRFRmxQQlF0M1BTYkh4TTg?oc=5",
    "time": "2026-10-14T09:57:44+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Vibes",
+   "title": "NUTP urges faster school closure notices as haze disrupts plans",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlA0dHF5RWR6YS1lbXluMDVkM3RpQzVGbkIxOHc3bHhzd3lLVURrSXdNLUs5V2h4X2NjWnB2ZHNpTEZ0b2hYT3lyakpQaG1yQmJiMTNBZk50NGdNcjR0ZF9FY3hXUHdKNl9lUEs5emZBUFA2a01NY3dvd0RsTnJpajhqNDBUVFNldWtKZXl6RzI2ZFFFbThXU1RvY3FXV2lDU2R6TVZUNEdvR25oelE?oc=5",
+   "time": "2026-10-14T09:31:00+08:00",
    "summary": ""
   },
   {
@@ -549,13 +577,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Malaysia’s haze-related school closures leave parents scrambling to keep children on track for exams",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlFtSDhoQ3pDeVNrM3h1RUw4TDVPbFM5WmhPYnVLTEJ0Q1o0cDBTQWFzNW9xZ3hWSlotai0wQUNZV1FjZDBKaHlBQ2dLcmNVd0laUEJkcDhxRlh1RHNiU3ZCWXJBd3djcnMxQWpvcV9XamNaVWZBQmxLRFlxclpydVBHdzZ1N09NaE9ERHM3SmFoZw?oc=5",
-   "time": "2026-10-14T07:33:32+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Star",
    "title": "‘Make companies pay for devastating effects of haze’",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDFVTHZhR21WUnZKT2RndUVObnZ0ZE5hV2FjaTlnOVYtaG1fM1pUUTNCQ3R4VlR4aHZWWlNLS29ibmFZVWo2azV6Y1hOVUhpTE1LSS1tUEw4RVdVcHllS1p1MzBUY1JsVFU5M1JoWVFuNVI5b2x5QlJiUVN3WDVKU3BkVjdsaFo2Rkt2OXVoRG0wZE1lY1dnUkZTd182dXlLVmc?oc=5",
@@ -574,27 +595,6 @@
    "title": "Shifting winds could disperse haze",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWZJZWQ1MWRvZ0FXVVQ1NWpmYjhsanBGNDdubnhyUUpXRC1VREFyb1VFNFU0MDRGNWNMYkFBUTFoUUV5QWhvbHhrdlptdXhZRWcyNllteEl5WFZkRS1MNk1rS1pSSlJneEpZX2FEakZlVE5sZEFUcVQ0eHM0UmJVNGdJeW5PVWJ2UHZpRA?oc=5",
    "time": "2026-10-14T07:09:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "KLSE Screener",
-   "title": "Fires, cross-border haze: What can still be done",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVkNvMzZucTIxTm5ibzVoS1pxUEhZTUZJU1V2R3JOVTZEekxzVkdjZEgwOWZDRUdTZVNwRGZ2VVpiekxUNC0yR1RTNnJuZWdRanpQczlMZUVxMEZoSlF2YU5OaXBnd2Z6ZmNPY1ZzUjh1RTVlV1luRWJSX0Zja3prTnhDUzQ3dXplNHgxV1VCbV9JMUY0b2NyZWk2R0g?oc=5",
-   "time": "2026-10-14T07:05:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Indonesia’s haze problem starts underground: How peatland fires keep burning",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRm5nVk0tczh5STdOZUtNZmduQVVqUGlhdm1Sbm9GM0o3NUI4LUZyd0F3NmdFOTRvZ2k0X0JjRkpocDV0Z0JNZkVMY0hURzlBdnJHdjQ4dEllSDlYelhnbnFpZm4xVC1OV3liNFhteWtvR3dNS00tOWI2UDdvSENkLTRFamVMSjRmZmM4VU5sRUJtT1JKWGdUZUpwV0JLbVdxdWZlTWJIWHpLclJpNEo2aDRjOE5XM2E3V2ZUSnctV0NVMkhCMS1jb9IBzgFBVV95cUxOSGFvaklva1c0dUk4aTRpbjh4d0lxZVh6VERoUXEwd0tBUVlmZndDTUZSb1I3R2RYcHoxVVVHWEVsRGlpUVIzVDd5MWFyZDBpRXNqMmJjX1JkWExQRXdza2lSYm1Ib2VCX2phZElRWlZQX3N1U1dHX28zU0JJekdGQk1mLVVVdDFGTnVqOFNZSGg3Y1hBWmQ5VEdiazRYVVJrcXB3R1d5REhyUDBZd3A0ZENUNlpNU0I1RWhpQi1vM3lzUWdsdUhHSGVUOHJPdw?oc=5",
-   "time": "2026-10-14T07:04:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bernama",
-   "title": "Cross-border Haze Expected To Ease Within Two Weeks - NRES",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LQzd3NHVHbjdtNXlBb3FEUlg4Y01SWG5kTEtNbFZNaUh2OENtZUFnVFV6YmgzcFN0S0RadWV0blY5WE95OXhJbUdSZWhJTU9TTDNWRjR6MzNYZw?oc=5",
-   "time": "2026-10-14T07:03:18+08:00",
    "summary": ""
   }
  ]
