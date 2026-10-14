@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-15T01:00:00+08:00",
+ "updated": "2026-10-15T02:00:00+08:00",
  "psi": {
   "west": 207,
   "east": 173,
   "central": 186,
-  "south": 160,
+  "south": 159,
   "north": 127
  },
  "pm25": {
-  "west": 104,
-  "east": 94,
-  "central": 93,
-  "south": 89,
-  "north": 63
+  "west": 97,
+  "east": 89,
+  "central": 85,
+  "south": 81,
+  "north": 62
  },
  "hist": [
-  {
-   "t": "2026-10-12T07:00:00+08:00",
-   "psi": {
-    "west": 147,
-    "east": 135,
-    "central": 147,
-    "south": 118,
-    "north": 105
-   }
-  },
   {
    "t": "2026-10-12T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 160,
     "north": 127
    }
+  },
+  {
+   "t": "2026-10-15T02:00:00+08:00",
+   "psi": {
+    "west": 207,
+    "east": 173,
+    "central": 186,
+    "south": 159,
+    "north": 127
+   }
   }
  ],
- "newsUpdated": "2026-10-15T01:08:30+08:00",
+ "newsUpdated": "2026-10-15T02:08:01+08:00",
  "news": [
   {
    "source": "CNA",
@@ -511,6 +511,13 @@
    "title": "Haze worsens air quality in Singapore, East Timor",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSm1XSm5wTldZUGJmSDB4UGk2bDdwc0lWc1RRRjBDSTRUS0dwX1dBTWlWaHl2UzJRbExVNnpDd1hSZXlmOG9MeGhXU3FueWhqOTdkTkJHa3ZFMXZzVGtSVkx4aW93N2VxOTZadlRQWWFIZzgyTVZwNkJHQlJVRXNiOFc1clc5ZF9nWENPOC1aYkw0QXpPN080Z3pWRTZHMHpWTTRwMzZhZ3NfZWhNMU85a29CYnDSAboBQVVfeXFMTVJxeXY0TXZrakdYUXh1Y3JYdjNkTDY1SEROX2luaEFPUjdYWGgxalBOSTNFc0taOU14bkVRekVNbUU2eFotWHZBckg4d3h1NFZZTlhkVEtRMXJxMWFEUEZxNDlYQlRSMzBuWG84TDBXQXgzTFhEZlFxWGpYWDVYUzhsTzFjeXdENHhpQ1pRRWg1UlZRVHMxOWRVRy16TktFSkhDYng1NzA3YmZ5b3BHcmdvTUFxdmxSTHlR?oc=5",
    "time": "2026-10-15T00:06:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "www.planb.sg",
+   "title": "Netizens Question Singapore's PSI 300 School Closure Threshold as Malaysia Shuts Schools Amid Haze",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT25qSHhkbTNjWkd4Y196SnM4aWNoRkV4OGl3S2gtUVdBd0tGNVU5NmVPWjdKTTZLMzNjYkZyN0lUWFQwb0YySE5tUlcwaTRSQ2lIZEJESWpHYXRtWVFoNWxIVlBWbUxzbDI5VEZpdFZiZzJrQ1FaU0JybU1pMm9XWG55ZUJHdTYyeEh2dzFiOUt1bmhtUFZhZm9VNmhpejgyWDFoaVpyNUZKYjJGU29NQzhnMDhfc0JfLWRGQlY3dVl6QQ?oc=5",
+   "time": "2026-10-14T23:30:37+08:00",
    "summary": ""
   },
   {
@@ -549,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "NST Online",
+   "title": "Indonesian official roasted over 'oxygen' response to haze",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ1hIQ0lHNGVXTTAwWTRxWngzMDJKazZSZklwOHRrbEtING9BcnYxeER2bW9xbkZESHNqTVZZZEFueFd2bXVYaXk5SE5JaHlyYmkxQkUwZjFTcFF1dVJQYlFuR0JZTUo2SjdJZmJNT3FySVRYVXpodDRkMXJIRHNtYVVQUWlEeUhmSnptanJaamtpM0x6VGF5ZEdnel8wVmdtR19HN250TdIBrAFBVV95cUxNRlBGQUc2dE83WXJUMmI0QzV4Q0t3cnJOMGppUzd0U1g3MUpranFyRTF5Mlp4TTcweFdqSnpzZXJlRDRlc2hRVlF1ZU9Sbl9MaXZEb2QyaXE5Y0t1dklVRDRpSXMwd1NZc0VBZjFZdThoSmI2LTA0TU1KZmNGclpLLUtYQ2w4ZXJsaktRVGhLRHR5c2ZNLWQwZlNHT2lFR3p0TTFmWkpMSlZZeVd1?oc=5",
+   "time": "2026-10-14T23:00:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Singapore keeping options open on haze prosecution against companies as it collects, reviews data: Grace Fu",
    "url": "https://www.channelnewsasia.com/singapore/options-open-haze-prosecution-collects-reviews-data-grace-fu-6458601",
@@ -581,20 +595,6 @@
    "title": "Firefly extends Subang-Singapore flight cancellations until Oct 16 amid worsening haze",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWDJHM2dmQ1pQUUd5RjZabFdDUC03SmNuOW96MndZQ0dWZlJnNldsRjR3RVppSXZNMW4zRHB6NHczX1REbnFvM0tCUVVrcnNXd1hYV2dfdVJTVWZaTV81ZFc4UE1NdkgwalFMZnhHYllndzd0QzZLUURIQzNuN1pGTG1iS3FqR0JUU0k1c0t1Z0FNdWs2YkhuSUJHN3B4VVdtY2dTY3FZTDE0VmQ2ZTNWYTl0bnJON1E5a01TZXk0SjliN241YjRnNG9n?oc=5",
    "time": "2026-10-14T22:13:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "More hazy weeks ahead for Singapore? Indonesia aims to extinguish forest fires within a month",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbGhtVFRGZ2VXR0FUdDdJSEtlbjJYOE1kdlM0djcwT1hnLVJzNzJlM2hXRVRQd1JYeXZpdnNsYWVmWFZDOHpiWDFQaG1fWmZtcGduU093QlM1bmRnU1FPUkRUT1A2cGc0YkZhVVdnNGpBd3RDV3ZQQVl5dXlTaHRlZWtEOUcyekwxT0E?oc=5",
-   "time": "2026-10-14T22:10:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "Singapore collecting data on haze, will 'keep its options open' on taking legal action: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb08yR2FsaFByZXNFS2FpTWxzY3lrM3R2R1h5Vk5VMU1IMHN4WnhJb21PYkhaNUVRdUtvZk9fdmlvZEpOY2NOa2draTZTX2VHNEJqMThTeWQyYlhqdHc2b2dRSU10NjhSVk9TTDRQN2I2Qm9aV1Z0elE5cXUyVWhBdkNPUUVjeXVjOTRhckJKMjFiMi1ob2NnVTVIdW13YTFCX2lXWk9FSUp5dWNYX3ZUR3VkdE1faTdMeUJiNVd6ZlpDYmEtcW1aQQ?oc=5",
-   "time": "2026-10-14T22:01:00+08:00",
    "summary": ""
   }
  ]
