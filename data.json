@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-14T22:00:00+08:00",
+ "updated": "2026-10-14T23:00:00+08:00",
  "psi": {
-  "west": 204,
+  "west": 205,
   "east": 174,
-  "central": 184,
-  "south": 161,
+  "central": 185,
+  "south": 160,
   "north": 127
  },
  "pm25": {
-  "west": 146,
-  "east": 89,
-  "central": 105,
-  "south": 88,
+  "west": 124,
+  "east": 92,
+  "central": 101,
+  "south": 74,
   "north": 65
  },
  "hist": [
-  {
-   "t": "2026-10-12T03:00:00+08:00",
-   "psi": {
-    "west": 148,
-    "east": 139,
-    "central": 148,
-    "south": 117,
-    "north": 106
-   }
-  },
   {
    "t": "2026-10-12T04:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 161,
     "north": 127
    }
+  },
+  {
+   "t": "2026-10-14T23:00:00+08:00",
+   "psi": {
+    "west": 205,
+    "east": 174,
+    "central": 185,
+    "south": 160,
+    "north": 127
+   }
   }
  ],
- "newsUpdated": "2026-10-14T22:15:04+08:00",
+ "newsUpdated": "2026-10-14T23:08:57+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore keeping options open on haze prosecution against companies as it collects, reviews data: Grace Fu",
+   "url": "https://www.channelnewsasia.com/singapore/options-open-haze-prosecution-collects-reviews-data-grace-fu-6458601",
+   "time": "2026-10-14T22:52:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Spike in PM2.5 in Singapore catches people off guard, haze hits businesses and outdoor workers",
+   "url": "https://www.channelnewsasia.com/singapore/haze-pm25-psi-businesses-outdoor-workers-poor-air-quality-6459106",
+   "time": "2026-10-14T22:38:00+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne",
@@ -581,20 +595,6 @@
    "title": "Indonesia Faces Regional Pressure as Forest Fire Haze Disrupts Singapore and Malaysia",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFZNYWF5TlU1SmtQM01ha0VGU3FLLWdXM0V1NWFRSGZIWW4ydXBQaWZUMnlsZnBkOWRESEE0ejRmWk1OLUVsWHZjZFNEWHFPckpWQ3pwaE1qZFJkSjluSUhUb00zaVEyUW55c0N5OF84Q0ZGRUk1LVJnUWtOM29GLVNJN1JfTFJRVmFWN0NPVlEySGNpaU1YWHBwWVJNYWo1cVhBR293UXVwaW4zTWZJSFoxUFQ?oc=5",
    "time": "2026-10-14T20:04:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "Community clubs to begin distributing N95 masks to eligible S'poreans amid worsening haze situation",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVzRrbHp4bHRVT29LX3A4Vi03T1o4VmlrS0VzczhobW1sU1hOY2Q0VmdqMEdWbzdBWUo3ckpSNHZnZkE3R0lfQUxXT2s2Z1JST2VtRkxFMWlpbzY2dks0YzJwcWRxMlBIRi1nMU1tSVJ1SGJnekhPQmItWTBoU0NBdENQZHZSOExsVWlB?oc=5",
-   "time": "2026-10-14T19:56:56+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "Haze update Oct 14: PM2.5 enters 'Very High' range in parts of Singapore; PSI forecast to worsen",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWS1PTENYQm5jMWg5Xy1XV1ZhMUJYT0hqa3AwOUNhTkEtRTY3aUcydEJ0OVZVUG8zT1puWkR5aWlfR0F5RWlSLWZsU0hraUhIajA2WTZtbldmOENWdXBWYUgzNFQyYjNKN2RtRHdCUkw2ODdheG9ZcC1saGNDTUJwMWxOdWdjOEZTS0R1SXdZTzl4dw?oc=5",
-   "time": "2026-10-14T19:46:00+08:00",
    "summary": ""
   }
  ]
