@@ -328,7 +328,10 @@ def fetch_fires(now):
     provs = load_provinces()
     stat = {p["id"]: {"id": p["id"], "n": p["name"], "n24": 0, "sx": 0.0, "sy": 0.0, "days": {}} for p in provs}
     total24 = 0
+    # NASA's "24h" file can hold three satellite passes (about 31 hours), so keep only the last 24 hours.
     for lon, lat, dt in firms_points(FIRMS_24H):
+        if now - dt > timedelta(hours=24):
+            continue
         total24 += 1
         p = province_of(lon, lat, provs)
         if p:
