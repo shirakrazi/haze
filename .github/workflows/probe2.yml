@@ -1,0 +1,28 @@
+name: probe2
+on: [push]
+jobs:
+  p:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          python3 - <<'PY'
+          import json,urllib.request,csv,io,collections,sys
+          sys.path.insert(0,'.')
+          import update
+          from datetime import datetime,timezone
+          a=json.loads(update.get2(update.APIMS_URL))['features']
+          a=sorted((f['attributes'] for f in a),key=lambda x:-(x['API'] or 0))
+          print('APIMS',len(a),[(x['STATION_LOCATION'],x['API'],datetime.fromtimestamp(x['DATETIME']/1000,timezone.utc).isoformat()) for x in a[:6]])
+          t=update.get2(update.FIRMS_24H,90).decode()
+          rows=list(csv.DictReader(io.StringIO(t)))
+          c=collections.Counter((r['acq_date'],r['daynight'],r['confidence']) for r in rows if 93<=float(r['longitude'])<=121 and -9.5<=float(r['latitude'])<=9)
+          print('FIRMS24 rows',len(rows));print(sorted(c.items()))
+          provs=update.load_provinces();kt=collections.Counter()
+          for r in rows:
+            lo,la=float(r['longitude']),float(r['latitude'])
+            if r['confidence']=='l':continue
+            p=update.province_of(lo,la,provs)
+            if p and p['id']=='ID-KT':kt[(r['acq_date'],r['acq_time'][:2])]+=1
+          print('KT by date/hour',sorted(kt.items()),sum(kt.values()))
+          PY
