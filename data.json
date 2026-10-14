@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-15T03:00:00+08:00",
+ "updated": "2026-10-15T05:00:00+08:00",
  "psi": {
-  "west": 207,
-  "east": 172,
+  "west": 206,
+  "east": 171,
   "central": 185,
-  "south": 158,
+  "south": 157,
   "north": 125
  },
  "pm25": {
-  "west": 86,
-  "east": 80,
-  "central": 88,
-  "south": 77,
-  "north": 42
+  "west": 82,
+  "east": 81,
+  "central": 91,
+  "south": 58,
+  "north": 60
  },
  "hist": [
-  {
-   "t": "2026-10-12T10:00:00+08:00",
-   "psi": {
-    "west": 148,
-    "east": 132,
-    "central": 145,
-    "south": 115,
-    "north": 103
-   }
-  },
   {
    "t": "2026-10-12T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 158,
     "north": 125
    }
+  },
+  {
+   "t": "2026-10-15T05:00:00+08:00",
+   "psi": {
+    "west": 206,
+    "east": 171,
+    "central": 185,
+    "south": 157,
+    "north": 125
+   }
   }
  ],
- "newsUpdated": "2026-10-15T03:08:23+08:00",
+ "newsUpdated": "2026-10-15T05:07:20+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Forum: Indonesia must take responsibility for policing its own backyard on haze",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY1M3bDJHR1MzVlZ3QlYtbE1LUFhnLTJEZTZiX1dfM3JKS1JKemlXMFZEckZRMEV1OGNJNkxzenZYWUd5eHZuSFpCRE1ZS2NtdDhpcmxVODdPR1EzR3hrdTNEcWpmNS00d3F2dkRkcEZZSjhBQlpxem9uRGJkWG1qdFlOR3ZBak1GTS0zVWxEWDkyV1ZxbWQ1YnVJRnRSeWs2NHItRk5uV3B0dlVhM0xudE9pZ2hSdTRSb0ZHRXI2SmpxY21sN3BidkswMHlHTWlpYnc?oc=5",
+   "time": "2026-10-15T05:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "To solve the haze crisis, governments must ‘follow the science’",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcXRWcHhUVDZoX3RuTzlPQ1JSSjFVUk9UVGxSRlU3amdsX042NDFGMXhrYU9Da3QtMElUZlBla2tEWGsyUF9LWjRMSnVxSzhHeFJ3QVlXS0cydUFJLVNUTENzczFIYll6RURfOVBuU3VoVlR2VEF5TjI4Z0ZzQ0Fmd3JaM1BaSk5oQ0pyR1pHVjVqMU1WcWZDZmdJVGZzUQ?oc=5",
+   "time": "2026-10-15T05:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze worsens as hourly PM2.5 hits 288 in west, highest since 2015",
+   "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOV1l6U2t1UVIyenJ3Qjc0b19jMDFLOF9qYlZjN08yTi1pVWhHS2IwWkx5U29EdUhRU241OE1LWGU0SEVtQzhFakcycjhHcGQyX25OemZiMXZjRzN6ZUZySmxCMU5vOHdvZGw0aUhoQl9RdUwwYVk2aEpkeVlKRGR1SEtzV1c0UkYzZW4ydHdPbElfSGdzQkFGdzg2bDNTakhtSzRPS0dYU3hVTEdSSkdYdlB5Q0xtaWFwWTNyVHE5Yk8wZFdUQWpmSHdwM0pxWlctazV3U1pxRElVeTltVVdfSl8tRnpjMlNkMGlxcURqYVBESnIxR2JYeEtYaDB4MFZfNkxkUmRhelY4cFlpUjZid2FXcW9SVUd1djY2Tzk2NkpEaUp1OEJLcDA1eTd3Q3J6SGJzLVI1NVBfTTVnQldkVVI3b3dwb0dxYkNmRUwyeFF6SUxnYXdGYmE0a1cwUlVsbVRkNTJhdlhWZ3ZfeVE?oc=5",
+   "time": "2026-10-15T02:15:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Manila Times",
@@ -518,6 +539,13 @@
    "title": "Netizens Question Singapore's PSI 300 School Closure Threshold as Malaysia Shuts Schools Amid Haze",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT25qSHhkbTNjWkd4Y196SnM4aWNoRkV4OGl3S2gtUVdBd0tGNVU5NmVPWjdKTTZLMzNjYkZyN0lUWFQwb0YySE5tUlcwaTRSQ2lIZEJESWpHYXRtWVFoNWxIVlBWbUxzbDI5VEZpdFZiZzJrQ1FaU0JybU1pMm9XWG55ZUJHdTYyeEh2dzFiOUt1bmhtUFZhZm9VNmhpejgyWDFoaVpyNUZKYjJGU29NQzhnMDhfc0JfLWRGQlY3dVl6QQ?oc=5",
    "time": "2026-10-14T23:30:37+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Facebook",
+   "title": "A thick orange haze blanketed Kalimantan, Indonesia on Wednesday, Oct. 14, as ongoing forest fires continued to burn in the province. Eyewitness video showed the sky glowing orange. Indonesia's ISPU air pollution index exceeded 1,200, Environment Minis",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcS02ZlBqRnktcnQ3eEtNZ3UwZHBFTmlELUJMYm9meFo3SV9vNm1ndXpLVXd2NlFaMXNMRDk0ZWJJX1dybF85Q0VoenR6dHgwX3U2TWctQ010VTdZOV9DcExMUEltNEYxN3lsaTRLRHM5dXRVS2FHYWxaaFZveDIzdWF1ZGNObnlqMWppelZzU3lhZ1dOYU5Ddk9pSWViLW5MamNkSGNGTXdXN2hSQmwwLU9tT1pHcy10ZGllNXRXNjAwV3BxMjEyT1l2UUZwemtqQ2l6Qg?oc=5",
+   "time": "2026-10-14T23:25:29+08:00",
    "summary": ""
   },
   {
@@ -567,34 +595,6 @@
    "title": "Singapore keeping options open on haze prosecution against companies as it collects, reviews data: Grace Fu",
    "url": "https://www.channelnewsasia.com/singapore/options-open-haze-prosecution-collects-reviews-data-grace-fu-6458601",
    "time": "2026-10-14T22:52:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "Economic toll of haze in Malaysia could hit RM1.5b a month as business and health costs mount, experts say",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFMkVnR2Q0NTVFb1ZwZmZXbS1jcjQ3T25uRnlhSWdxUGtoWG1mcnNGckFHZFhONi1VNWpoYmdfTHhnbXZLMzNMV0ZyZHNWZElWbUVVS1p5VUEwUmp2bjNVYUswcGdxS0NhVWRjQ0V0WEg3amN4RjJjaHEyMDRyUQ?oc=5",
-   "time": "2026-10-14T22:45:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Spike in PM2.5 in Singapore catches people off guard, haze hits businesses and outdoor workers",
-   "url": "https://www.channelnewsasia.com/singapore/haze-pm25-psi-businesses-outdoor-workers-poor-air-quality-6459106",
-   "time": "2026-10-14T22:38:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "www.planb.sg",
-   "title": "Indonesians Urge Singaporeans to Confront Governor Amid Haze Crisis",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVVFUjg1ZWQ2WlVaLTd1VmRzeTRLQWZHcnZvZkVreWUyWktkYmtlaEVlRFU3NmFEOUpRTTQ3NHExbzN2TGE1STRneG1KeXNOT25OZGJTT3hGSHRWTTZaNFhBelFPdlZhakRmXzdmUTdkVjM4TERlQXh2dmptdk5lTE5VS09Bc0Zuc1o0ajRBOWRDRlJldnJYaA?oc=5",
-   "time": "2026-10-14T22:31:23+08:00",
-   "summary": ""
-  },
-  {
-   "source": "RTHK",
-   "title": "Haze brings 'very high' pollution in Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDhYOXYxemJsYlVNQ0FBZnBURVhJUnhLcUNjQkd1bWNCQ3Q5OVJ5WW1EeG14WUdHY040dzYzLVhzZzU0Vl9nTFUxYks0TlgtVk5pdU5sc3ZITU8tSzRUV3ozTlltQm01d2VfaU03TjBvWEplLXJKUnJKZm43OTJpNUlLY0x5LWxQRVppTkNteGJ1cktvdi01RTR1NnE3ZzRHTDRr?oc=5",
-   "time": "2026-10-14T22:20:00+08:00",
    "summary": ""
   }
  ]
