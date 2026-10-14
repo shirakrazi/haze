@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-14T11:00:00+08:00",
+ "updated": "2026-10-14T13:00:00+08:00",
  "psi": {
-  "west": 143,
-  "east": 140,
-  "central": 141,
-  "south": 125,
-  "north": 106
+  "west": 146,
+  "east": 145,
+  "central": 144,
+  "south": 131,
+  "north": 107
  },
  "pm25": {
-  "west": 109,
-  "east": 126,
-  "central": 107,
-  "south": 92,
-  "north": 61
+  "west": 195,
+  "east": 160,
+  "central": 139,
+  "south": 173,
+  "north": 88
  },
  "hist": [
-  {
-   "t": "2026-10-11T19:00:00+08:00",
-   "psi": {
-    "west": 155,
-    "east": 132,
-    "central": 146,
-    "south": 113,
-    "north": 112
-   }
-  },
   {
    "t": "2026-10-11T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 125,
     "north": 106
    }
+  },
+  {
+   "t": "2026-10-14T13:00:00+08:00",
+   "psi": {
+    "west": 146,
+    "east": 145,
+    "central": 144,
+    "south": 131,
+    "north": 107
+   }
   }
  ],
- "newsUpdated": "2026-10-14T11:06:53+08:00",
+ "newsUpdated": "2026-10-14T13:50:30+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,17 +507,52 @@
    "pinned": true
   },
   {
-   "source": "Human Resources Online",
-   "title": "Haze in Singapore: Free N95 masks and rest stops provided for delivery riders at 30 bus interchanges",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcmMxMVpta0VBcU8zRF9MUVUyWEJ6NFY5dzdreXl1WG5tOUxKTkt6N2t0LWM0UG1OeHQ2N01ZSUV2WmZpdmtxX0QxSEkyR3FqaDhRTmlueEQtaEo1emdNNnRkTTBUdmJCYktYa1Y4dzJPUk1tSG8yN2tpN3NEV0NMSWhTUkI5U3JtUW1oWXBsdUZvVzFiaHNpQ3pDRmlNOXA2dE9JX0RzQ3dINnpxdXNPdVdfN0xfdFBETHIycGZ3VzFrbTJoeWZlcldGZ1V3Wjh4N1E?oc=5",
-   "time": "2026-10-14T10:36:21+08:00",
+   "source": "AsiaOne",
+   "title": "Haze watch Oct 14: Lowered visibility, burning smell as PM2.5 hits high band in eastern, western and southern Singapore",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGkxMnVtN1ZEVmFBRWpkMjJyLUhYVDl4bUdPWGZUYno0MkxrbWZYSWxiaVRrQ1VvcDNTeUxWU2tkaUI1ZzI1VlB1TUtWeUplOU9fWUllM1gydHhSVEhFdGROWmRpeUIwOHdaZXBpVUp0VmRnd284NWxNZDk4OGljelNzSlY?oc=5",
+   "time": "2026-10-14T13:27:26+08:00",
    "summary": ""
   },
   {
    "source": "CNA",
-   "title": "Malaysia’s haze-related school closures leave parents scrambling to keep children on track for exams",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlFtSDhoQ3pDeVNrM3h1RUw4TDVPbFM5WmhPYnVLTEJ0Q1o0cDBTQWFzNW9xZ3hWSlotai0wQUNZV1FjZDBKaHlBQ2dLcmNVd0laUEJkcDhxRlh1RHNiU3ZCWXJBd3djcnMxQWpvcV9XamNaVWZBQmxLRFlxclpydVBHdzZ1N09NaE9ERHM3SmFoZw?oc=5",
-   "time": "2026-10-14T10:27:28+08:00",
+   "title": "Air quality remains unhealthy across Singapore as haze persists; PM2.5 levels on the rise",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTlVnTlRwUHEyRGVYWHNlN3ZDTUVLSVhib05vNGVDb0JpX0FxRExMbG1fODR2N3UwLVJ0RUNIcC1TQ2RSQjRmU1pBZTk1QV9HdWZSOE94OXBsRjlhZm1yWkRobWFMLXExazRLM0t6TGpfaVd0YWJaaDhrSVN4ZXNrWkNUd3JYc0hKd1NkWVZmTTM1aC05LW5TOGlMRzdva0ZKaHpGa2JvTzlCY0ZvNWlDZXlfblVuNVZVRF85TGV3ZmJQUVRVNFE?oc=5",
+   "time": "2026-10-14T13:01:19+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "PM2.5 readings high in 3 regions of Singapore as haze persists; air quality remains unhealthy across country",
+   "url": "https://www.channelnewsasia.com/singapore/haze-oct-14-air-quality-remains-unhealthy-across-country-pm25-readings-high-in-3-regions-6457956",
+   "time": "2026-10-14T13:01:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Mad Max-like skies return as forest fires, haze grip Indonesia's Kalimantan",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LcEluWWJqb2tDMXlEa3hXOW9EVm5hSkRackgwLV8wcTFlT3AtZmYyc25WaUJqYTA3WHNoS0lrSEc2UXFzMVRIbm1xWWItcWlRaU5N?oc=5",
+   "time": "2026-10-14T12:26:35+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Attendance at pools and stadiums falls 12% as haze curbs outdoor exercise",
+   "url": "https://www.channelnewsasia.com/singapore/haze-air-quality-exercise-pools-stadium-activesg-golf-6457676",
+   "time": "2026-10-14T11:51:05+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Indonesia's Prabowo vows urgent action as toxic haze hits Singapore and Malaysia",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZXFSbllMd1JTUGFfTVlyQ210WlpwZXh0NUNVQVdFSGVuaXh1TU5FMW95RzRGam9oQUllYmNkTnlTTmhNVkM4SjNoQ1Ita3YySkxHd3FjWXJiT0NObFQ3UEZZeDljSjFZcGJERFZPNFVRcEp3N2oyNE5aUjZIa2Zpb1ZoNEdXNXdzRklQeHNldWdQQ2VkUXNILVE3dzB6VnBsN1I0MkVid2F1OS1nWUlLZTFDcmU4MFdBVUhURWx3V0bSAcABQVVfeXFMUGVxUm5ZTHdSU1BhX01ZckNtdFpacGV4dDVDVUFXRUhlbml4dU1ORTFveUc0RmpvaEFJZWJjZE55U05oTVZDOEozaENSLWt2MkpMR3dxY1lyYk9DTmxUN1BGWXg5Y0oxWXBiRERWTzRVUXBKdzdqMjROWlI2SGtmaW9WaDRHVzV3c0ZJUHhzZXVnUENlZFFzSC1RN3cwelZwbDdSNDJFYndhdTktZ1lJS2UxQ3JlODBXQVVIVEVsd1dG?oc=5",
+   "time": "2026-10-14T11:38:30+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Human Resources Online",
+   "title": "Haze in Singapore: Free N95 masks and rest stops provided for delivery riders at 30 bus interchanges",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcmMxMVpta0VBcU8zRF9MUVUyWEJ6NFY5dzdreXl1WG5tOUxKTkt6N2t0LWM0UG1OeHQ2N01ZSUV2WmZpdmtxX0QxSEkyR3FqaDhRTmlueEQtaEo1emdNNnRkTTBUdmJCYktYa1Y4dzJPUk1tSG8yN2tpN3NEV0NMSWhTUkI5U3JtUW1oWXBsdUZvVzFiaHNpQ3pDRmlNOXA2dE9JX0RzQ3dINnpxdXNPdVdfN0xfdFBETHIycGZ3VzFrbTJoeWZlcldGZ1V3Wjh4N1E?oc=5",
+   "time": "2026-10-14T10:36:21+08:00",
    "summary": ""
   },
   {
@@ -560,41 +595,6 @@
    "title": "Haze continues hitting Johor, Selangor, KL hard: API 177 in Pasir Gudang",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUoySEM3cHZ5UGhGUW15OTJnWVg0cVZuU0hWUmhnNzFlS2RrTjh5R1VpOTQ5SzMzeklHSGgwT1hPNHBRc0NzbWtOc3VuUVV2Q24tNGg4bEVBWDFieHJfLUFraXFSVzMyZDVqV3NrUXZqV2IybmFDdWg4WTZQbVNpN1loX0dVYkNkR0JWbw?oc=5",
    "time": "2026-10-14T09:12:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AFP.com",
-   "title": "Singapore rolls out haze subsidies as Malaysia extends school closures",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zUEdNMERlcW5qSVhJdGJMU0YwczZKeHc3U2xOUFFpVHdVeDNncUhUUGdIZnFxN0p1M01MS0U5WXBvR29qVVdUYzRMcw?oc=5",
-   "time": "2026-10-14T08:56:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Asia News Network",
-   "title": "Call for trilateral leaders' summit, coordinated ASEAN response as recurring transboundary haze chokes Southeast Asia",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVkZPWWhXMHU2VmxJUnBJUWcyZnpTaG5rWGRTSmlhR25PRVVHS01uemNVT0hqVDVYWkJ0M1hhRW1BeC1TUmE1eWxXQUxmLThoUTlJeHdZRG0yRDJOaE5aT3dRTW0zTDRLNS1qTi0tY19fSERDN00tZUQ4LTV4eVdMbTY5U1UwSWpjclZDYU54M0ZiRzdTaTBMSzIwLVBUamZLTkN2b3htZF9VV3pSeUU5UUtabUVQQkNIVkp2SWZnRHRwREpXemFGVW5Cc2Yyd0liUHFaYUd0ZzE?oc=5",
-   "time": "2026-10-14T08:33:42+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "‘Make companies pay for devastating effects of haze’",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDFVTHZhR21WUnZKT2RndUVObnZ0ZE5hV2FjaTlnOVYtaG1fM1pUUTNCQ3R4VlR4aHZWWlNLS29ibmFZVWo2azV6Y1hOVUhpTE1LSS1tUEw4RVdVcHllS1p1MzBUY1JsVFU5M1JoWVFuNVI5b2x5QlJiUVN3WDVKU3BkVjdsaFo2Rkt2OXVoRG0wZE1lY1dnUkZTd182dXlLVmc?oc=5",
-   "time": "2026-10-14T07:20:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Billion-ringgit cost of the haze",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDlUbHFzeDB4dzZYdW5kU19GZld6c0poSnAxdFdJdXAwdU0tRVVHWV8yLTVtcmJFekhrR19OTGtNd05CVUM3UVdsZTN1VWE0OEVEUmFKcXVuNFVteTB0dTRIQXN3aHpuR1JoUW9aNklOWDJWRS1UUFlPRDg3S2ZMVUtLVEQ2UEJGV2c?oc=5",
-   "time": "2026-10-14T07:19:22+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Shifting winds could disperse haze",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWZJZWQ1MWRvZ0FXVVQ1NWpmYjhsanBGNDdubnhyUUpXRC1VREFyb1VFNFU0MDRGNWNMYkFBUTFoUUV5QWhvbHhrdlptdXhZRWcyNllteEl5WFZkRS1MNk1rS1pSSlJneEpZX2FEakZlVE5sZEFUcVQ0eHM0UmJVNGdJeW5PVWJ2UHZpRA?oc=5",
-   "time": "2026-10-14T07:09:06+08:00",
    "summary": ""
   }
  ]
