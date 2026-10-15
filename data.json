@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-16T00:00:00+08:00",
+ "updated": "2026-10-16T01:00:00+08:00",
  "psi": {
-  "west": 178,
-  "east": 176,
-  "central": 203,
-  "south": 167,
-  "north": 132
+  "west": 180,
+  "east": 178,
+  "central": 206,
+  "south": 168,
+  "north": 134
  },
  "pm25": {
-  "west": 159,
-  "east": 150,
-  "central": 191,
-  "south": 128,
-  "north": 101
+  "west": 152,
+  "east": 139,
+  "central": 170,
+  "south": 112,
+  "north": 107
  },
  "hist": [
-  {
-   "t": "2026-10-13T08:00:00+08:00",
-   "psi": {
-    "west": 173,
-    "east": 151,
-    "central": 168,
-    "south": 134,
-    "north": 127
-   }
-  },
   {
    "t": "2026-10-13T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 167,
     "north": 132
    }
+  },
+  {
+   "t": "2026-10-16T01:00:00+08:00",
+   "psi": {
+    "west": 180,
+    "east": 178,
+    "central": 206,
+    "south": 168,
+    "north": 134
+   }
   }
  ],
- "newsUpdated": "2026-10-16T00:08:35+08:00",
+ "newsUpdated": "2026-10-16T01:08:04+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,31 @@
    "pinned": true
   },
   {
+   "source": "The Business Times",
+   "title": "Singapore looking into which companies responsible for haze-causing fires: PM Wong",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXRBVXRtN0hBOXZXeUZlV2NoZFdCLXp6SEhkOWdrRGRNSmNSQlEtSlMxNmZsWXU0NGlLTHg1cXlWdVhUQ210Z3pvNk1OWGRRT1VWTmtwSlhmZWNVSTJFQmpSdmJ2azB4X2RMRHRPMWVxWVo1dWZNbHh0R2hrSUh2VHpfbVEtRjZ4aXBKWmJuRGFJYXhvbHhGei1PLTNWbldQa1RTZWNaYW5nNzJYeTF5a093T1g1Zw?oc=5",
+   "time": "2026-10-16T00:40:46+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Bloomberg.com",
+   "title": "Live Q&A: What’s Next for Southeast Asia’s Haze Crisis?",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkhfOHJQUnQ1RVdQMm9fOTEzNWVkcDFTTUVyVGJUMmRJZmU3OTJnbHd3X1NXLVFrU3ctdlJzRGZFT3RUdUpCc1pMZjRjeVNHRHZtaFNkTGk4YWpnYUZWLVNZYXBQS3pnMlJsMklnQUxlVjE5a1ZuMndyLWZ4RkFSTm5xLXNEaUYzVWRaMWhsYkJTTXo5UXR3aFd3MWRQUkJWR3FuUDhn?oc=5",
+   "time": "2026-10-16T00:13:04+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "Malaysia has no plans to take legal action or issue diplomatic note over haze, says foreign minister",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUmwzbVlaT3VBbmI5R3V2dUdDUk5mb0lmcHdOZUxvNG1RVDhrVjJXcEh2Z1M4UzRiWlc5Tk82NGt2S0NoR2JITXFzSG04RkktSmVZU2tvRDYzM2J5TnRzZTI4Y05TS3lZQ3lIUzlxRnNIOVItWWJ2YjY4c3RwaExFSm5MdldyUGxqaUJQTVl4NlRiQkRuX241c2VCellCbzNFdlViOW52VVlBZEtHdnZPeGxCMTIzTWhSUTNFOFp0N3JkMVNFQ0NNVEt0OXB0Y3FKYmt2d18wcFE?oc=5",
    "time": "2026-10-16T00:03:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Guardian",
+   "title": "Indonesia fights fire with dry ice as toxic haze spreads across region",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNDA1R2tjMDM1bkgzdW5BWlA2UjFXaUMtSExEOW1ncVluYWFDMU4wTllKQl9aaWhTTU5wNHRWeFVGem00cE80b0l2cHQyYnR0b3YtSWNnSzB2XzBMSjhnNXU5MkNteEJ4SkctS21TU09DcTFBczBfNGZ3Z0pCaGVPUC1Ld29aRlpJeEdvVUJ1Z2tidTFmOU1zUDk5c1U?oc=5",
+   "time": "2026-10-15T23:58:00+08:00",
    "summary": ""
   },
   {
@@ -543,13 +564,6 @@
   },
   {
    "source": "CNA",
-   "title": "Singapore looking into which companies responsible for haze-causing fires, may take legal action: PM Wong",
-   "url": "https://www.channelnewsasia.com/singapore/haze-singapore-indonesia-companies-fires-legal-action-pm-wong-6463101",
-   "time": "2026-10-15T23:18:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
    "title": "Singapore haze: PM2.5 readings high in 3 regions; air quality unhealthy in all regions",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdW94U0dOVGVtZllXUXdabFNqM1BDdFF5bWZOcG9peTBNV0FMWjJHMmlhRkRMLUxQcjF2X213QjdvMVRrYWhPUS13ZTgtbDQ1ZUg5LWZwQVBQVDZqeWQ0NzdNMGxCdHVXNFFGblhpNDQ3dF9PYzlQU0tqaElocndCQlRmS0ZjRThVbGZhbGdkbVk?oc=5",
    "time": "2026-10-15T23:08:35+08:00",
@@ -570,10 +584,10 @@
    "summary": ""
   },
   {
-   "source": "Bloomberg.com",
-   "title": "Live Q&A: What’s Next for Southeast Asia’s Haze Crisis?",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkhfOHJQUnQ1RVdQMm9fOTEzNWVkcDFTTUVyVGJUMmRJZmU3OTJnbHd3X1NXLVFrU3ctdlJzRGZFT3RUdUpCc1pMZjRjeVNHRHZtaFNkTGk4YWpnYUZWLVNZYXBQS3pnMlJsMklnQUxlVjE5a1ZuMndyLWZ4RkFSTm5xLXNEaUYzVWRaMWhsYkJTTXo5UXR3aFd3MWRQUkJWR3FuUDhn?oc=5",
-   "time": "2026-10-15T22:43:02+08:00",
+   "source": "CNA",
+   "title": "Clinics in Singapore see uptick in patients with haze-related conditions",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVHdpY2ZPRkNLbnd1OXg5UVN2OTNnNU1OVXM4cUZZVXlScVVrMUdobndGRmJhalFRclZ5RE5sVGx3S3NrM0ZJWEhWb2xGRTVsTUV4RlpjN3o3MG02X0FqWlBWMUx5OXBDMnlnZUd6V2pGWlliRWdzTDVJODZRVkhNcFRvdVV4SlhGeC1PMTlHazdTTU5lQXE5RXVXQ1M0bGJadVBINTFWckl1MnJoemdxRFlMZw?oc=5",
+   "time": "2026-10-15T22:57:01+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Indonesia deploys dry ice to disperse haze in South Sumatra",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FZC1BRUEwTjBzNU9HWmZsekZMNTFKcXJTb1RVTTNHN0lSVVpwai05Ql8wSFN0eGViRlhSdVg5VzZmbmxTYTdsNUZ3OHdzdXVPamJZ?oc=5",
    "time": "2026-10-15T22:42:07+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bloomberg.com",
-   "title": "Opportunities for Deals Through the Singapore Haze: Raine Group",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVmh0QlN4OVcwYUxpRm0xQmMxMk9CMG9ZVm1ZRzRVYUNndEx3dm5VNmJ4Um1zTmduMlVqbmV3ZkZwR3RWbFdzWC03Q0ljYTNHWGFiTVd4ZXc3Q250dG5wb0tKUGxlTER5dXNid1NidFFnNEg3emg5aHhXenZpdzBzSjE3Q1ZBMDZRV3VNdHZwNnJ5ZkgtQ2poTWlBbnZjUk5zOTA2ZTI0RmJNelFiQUdZNlM5S2NldW8?oc=5",
-   "time": "2026-10-15T22:39:46+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Establish permanent Asean task force to tackle haze, MP tells Dewan Rakyat",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcmxCQW8yOW9QWjdIV3RyRlJSTGZteXBVMm5yUVo5d1l2eVgzOUxzZW1vbDNmZ0ZCYVh3eERKSDdWbC1oNVpjV2YzNmFmZ1V1MVA1ZzlQUzJMNE53Q0VqQkstbTZya1JLbEF4QTlheTdHMGhEUUJDbzJ6c2VLTXFjcTdxTkVLXzFIRG5pTW5mMzBNc2tERHh3am1uRDQxTUQ5Z216dVg3RUNoZTJCN015R1JfSjhWRVhYbjJXOWIyMVZsUnFRMk93bWNfbEdBUXg20gHDAUFVX3lxTFBmenE2R3YwcjB0OHBodjFBNmN1ZkJlZnRNaFB3cFlOSlJ2Qm5sWWVFSnZrZldMWmF5VnVZMi1hOFQ1Tm9FMldXR0FMMjdoZzRzcVJyc1dabl9IZ2lBTS1SdUJ5TWxmVEstUHNnUW5XU1FyN0oyR1k0czYyZmtidXE3VDhtQk92eXJqSzFuZEExcUdMLXN0M2RtZ2hPY2Yza2VvS3B0elZWanQ4clRfLTFfXzNVdHdtMTBmbEJvWmdPZEpDUQ?oc=5",
-   "time": "2026-10-15T21:56:27+08:00",
    "summary": ""
   }
  ]
