@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-15T15:00:00+08:00",
+ "updated": "2026-10-15T16:00:00+08:00",
  "psi": {
-  "west": 196,
-  "east": 165,
-  "central": 188,
-  "south": 158,
-  "north": 125
+  "west": 192,
+  "east": 163,
+  "central": 187,
+  "south": 156,
+  "north": 123
  },
  "pm25": {
-  "west": 142,
-  "east": 145,
-  "central": 148,
-  "south": 129,
-  "north": 99
+  "west": 151,
+  "east": 147,
+  "central": 181,
+  "south": 140,
+  "north": 95
  },
  "hist": [
-  {
-   "t": "2026-10-12T23:00:00+08:00",
-   "psi": {
-    "west": 166,
-    "east": 144,
-    "central": 159,
-    "south": 123,
-    "north": 125
-   }
-  },
   {
    "t": "2026-10-13T00:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 158,
     "north": 125
    }
+  },
+  {
+   "t": "2026-10-15T16:00:00+08:00",
+   "psi": {
+    "west": 192,
+    "east": 163,
+    "central": 187,
+    "south": 156,
+    "north": 123
+   }
   }
  ],
- "newsUpdated": "2026-10-15T15:07:23+08:00",
+ "newsUpdated": "2026-10-15T16:07:20+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,62 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Yahoo News Singapore",
+   "title": "Haze turns Indonesia skies orange, shuts schools in East Timor",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhd3h3QlhhZ01OcjVTUmJ2cTVhdHFYc1U1N00tRUdIWWU3eEJvS1BjRVdyQW9ZOEdyYXJVX0F6OExjcmV5d09IRndwOFU5VFZiX3VMeFhPUFRNZHBVdmhjbG12a2pKdHIyaG9Pc1Q3TGVmUm5LLVQ1ajhfVzhURlk?oc=5",
+   "time": "2026-10-15T15:47:16+08:00",
+   "summary": ""
+  },
+  {
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "title": "Indonesia to deploy dry ice to reduce thick haze from fires",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZEZKWkxYNTRmS3VlNGFscThlT0IzWkd5OWNScG40WjVHY3JPeERXRTVUVjFIVmViMmVYMXhyQnVqcE5QTzFHTTFndjBBWnNzbklXZ2c0bFZEUy1DUEg4LWNpcEdGVTRtYkZRS3J5M0JGLXZqQWZsSFg1M1doQnp2dnlFaGxWcEdxVmxMN2dKN25fOW5QcWk5YkpyVQ?oc=5",
+   "time": "2026-10-15T15:36:51+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "BigBang fans urged to take precautions ahead of weekend concerts amid worsening haze",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQkdBY3pDVDdTWVAyX0NWTlNyYy1HRWVGcjhYczhoT1BpQkxSNTFaMndnQzJOT1gtbUN6ejJjUlRFY0ttZm9QM0J6bEtxN3dqdzJiQ1FaSURweTJ5YlhRdWlnX3RKQ0l6NnRHdWIwQWxXcUxzbmxZUDJHejNNM21RMWNnNkl6ZGxKUTByZmdHOEdGY0FYR2JobFFZRGlSTHZnNkRDMDdXUndOYmgzeUk1cWx4ZzItbjRpb0E?oc=5",
+   "time": "2026-10-15T15:35:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Schools in KL to operate on Oct 16, but outdoor activities suspended due to haze",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcGN0bmQzRDY2ODRlc2U2T2FGU2hKWldnamtXUmtpR09tbVhKRlc0S3A5WFJFUUdFT0gtTzlmTGxuV3JhTDg1YUVrYXdMNTVqRHBmcjlZRXlGVUlwM2V2WVl2NVR6VmJ3ZlJwYVAwTGNJdDI0Zmk3ZXRQN1AyaEJkbFBrTWxXMk4ycGwySTd1aHV5TWFUTXY1dVQ3dl9QMVNzS2FXcEtwMGVBSlBLYmI2S1N0c256dWp5Rk9kSXdJcXNIZXVCdlVIRkliZVI3eWdRMjZZ?oc=5",
+   "time": "2026-10-15T15:33:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: PM2.5 readings elevated across Singapore; air quality in west out of very unhealthy band",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdW94U0dOVGVtZllXUXdabFNqM1BDdFF5bWZOcG9peTBNV0FMWjJHMmlhRkRMLUxQcjF2X213QjdvMVRrYWhPUS13ZTgtbDQ1ZUg5LWZwQVBQVDZqeWQ0NzdNMGxCdHVXNFFGblhpNDQ3dF9PYzlQU0tqaElocndCQlRmS0ZjRThVbGZhbGdkbVk?oc=5",
+   "time": "2026-10-15T15:32:57+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Indonesia to use dry ice to clear haze from forest fires",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVhYVjdCOFZQaWNqbVhFTkxDV203X05TeWxacmNRZDlxQzZrRTR0VExESHhsQTJVR013SUdRd21lYjJPMHYtVEZCZldkYzNhU2h2QlhxSmpiTXgzTHYyZEw1enNkYUdPMHlJbWpmR3I3eENsQk5maF9hLXhmcXZZSzFiQllYMlpST0kyeEdLcEg4bldMalREekI0b1QxcDJaZ2xub19GdnF1RkUyVHRV?oc=5",
+   "time": "2026-10-15T15:30:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "East Timor shuts schools for three days as haze from Indonesian forest fires blankets Dili",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNemc5Q0hiYksyamxUUURRcmtnYnpuY1FYcUlqSFlwRkZJYXE0Q2JtRU1SSEJfcklZLWc3YWlJR2pYS2I0QmRRRWpDMzFHVzk1YkNIRWc0M3RCTFVKZE5iblRWRXZURy1qYk9teDM3MmJ5Q0UtWXZ1RGpwY2htMDh1SFNyREQ2dTZBNTBwdWRBRXNHSDBQVTRRb3k5NEZkT3EzX1NZU0tnUjYxTXlnZkdyYWNSU3k0VUIxWlhpMnEyX3Z2c1JQeG9QQ2tjMGk5czAtdEdOVWlZRmtyR2RKTlHSAeMBQVVfeXFMTTlnMzVSeHFlaWxlUW1hM3pRaDBvWEQ3bm1MOWU2SV8zQVY5cFJPb3R6UjJ2ZV90ekFhSWJlVDhfeHY2QzIwVEdFUjNVQVQxbHREM2ZKVkpocjYyaEJiV1RZelhCT3JHRU9TMjhNWjhmMzZNNkZRZldIS09mR0lIV2hsVjBnTVYzeWhVTk1sZjdRMjFuUFpIME5HZGpxb0RrVFNFdGZPYzBjbHFhU3ZzNE9SUHhuSEY4OWZuRFZ6d25BWC11dWwwNndWd3VNZmpyWHhWUks0N2d3dXNZMkJKTDFBZlk?oc=5",
+   "time": "2026-10-15T15:23:50+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne",
+   "title": "Haze watch Oct 15: Air quality in western Singapore improves, PSI returns to unhealthy range nationwide",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX0JISWlrcWU2M1FpZzlHTHU1cVo5U0Y4X2l1M3N3QVFiWnJYdldsWC02Z0VaRFBCQjZwR0d6YjNIMlhzMUVEazgzWjFvaFBXcGRCTzdhVDR3TFhPcXg3dGVLbUVXRFZaQl81eWpLNHJpRnBubVZ4YWt2TFBiRVVWU1RWdGNoWWxo?oc=5",
+   "time": "2026-10-15T15:20:26+08:00",
+   "summary": ""
   },
   {
    "source": "Malay Mail",
@@ -518,20 +574,6 @@
    "title": "'Very dangerous': Timor-Leste shuts schools over Indonesia haze",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMHotWnhFZnpEc0ZUZ3RXSi1uZ3lrOTJNZi00QWQ0ZFNxY3QzNW5HSmtfYWloSFdZY21ycWNPSks4bFU2Z0VoSzlFT3BXM0VYWFNxSTZiMF9RTE5wY0FLVGFxRGItVTZZdnpYUFNORl9GT1lmV3E5UXJhYkp2WUlkVWlXZ1MySUJXMllpdXJn?oc=5",
    "time": "2026-10-15T14:46:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: PM2.5 reading high in east; air quality remains very unhealthy in west",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdW94U0dOVGVtZllXUXdabFNqM1BDdFF5bWZOcG9peTBNV0FMWjJHMmlhRkRMLUxQcjF2X213QjdvMVRrYWhPUS13ZTgtbDQ1ZUg5LWZwQVBQVDZqeWQ0NzdNMGxCdHVXNFFGblhpNDQ3dF9PYzlQU0tqaElocndCQlRmS0ZjRThVbGZhbGdkbVk?oc=5",
-   "time": "2026-10-15T14:23:33+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Haze in Singapore: How to collect free N95 masks and who is eligible",
-   "url": "https://www.channelnewsasia.com/singapore/n95-mask-collection-community-centre-vending-machines-6461351",
-   "time": "2026-10-15T14:11:00+08:00",
    "summary": ""
   },
   {
@@ -553,48 +595,6 @@
    "title": "ActiveSG closes outdoor facilities in central, southern and western Singapore as haze worsens",
    "url": "https://www.straitstimes.com/singapore/activesg-closes-outdoor-facilities-in-central-southern-and-western-singapore-as-haze-worsens",
    "time": "2026-10-15T14:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Stomp",
-   "title": "Kalimantan governor faces backlash for visiting S’pore amid haze: ‘Your city is burning’",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmlOU0pBRVhyLWFiT0VsZFZRVG9yMzhnVGNwMFI3eXB1UFl0NlFYeVBvMXpZbFljcVlNemI1SmFfU1N1dl9LcThNLVU3LVlSSmZDRGpoWXU0NnRRcDFTUW1LQVdpOXRLWWxTYUlxUFNTc19wUnd3WDljbk91cnhtejM4VFpPVU1ZR01GNVlsNnFqUVM4OFNqVkhReDhEZnJQbU5Sd3o1Mmx4RU5meEFpZQ?oc=5",
-   "time": "2026-10-15T14:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Timor Leste shuts schools over Indonesia haze",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVk5Oc1lNTWVoTlZLQ2U3U29kSzE1NzJPRHNHOEJySXNSX2hBUkNFRGZ4NVBFcGh1VXRkcVM2eDNjVXdCdm1OR0hYUWlxMEEzZDRSNTduT2F5V2ZDN28zdkRtNVVuT09zY2huc0lXdjBzUXJzVlpoLU5xbTJZUm9oMXFfUWJmT2F1aGZILVdTWDRxTTgySDBKdUE2YWdUSlB6aEo1N0x5b0pndkJ0?oc=5",
-   "time": "2026-10-15T13:38:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Kalimantan Haze: Air Quality Hits Hazardous Level in 3 Regions",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGtiVldDSE02bzFNOEVPMkZSUXdEYS12V3ZCTGFoUmVTRGJsaGF2VnA5dXI0QWhPeGU4QWluaUZacWg5NUIzRlZ1VWNTRVlTdnR4c2pkVFdtQmpNYWhqOElnYmdXeW5OZFRYU1Y4Zk5uNE0zbEplX3dDZnozb003TUVWa1dCaXQ1cG5Bd0hrQ2NpWkw0Z09wUWF3?oc=5",
-   "time": "2026-10-15T13:09:53+08:00",
-   "summary": ""
-  },
-  {
-   "source": "GuruFocus",
-   "title": "Singapore Airlines Prepares for Haze Impact on Flights",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNczd1V0N2SzVhZzVQTWFFUXFSZFlMcm1GRC00S2o1OHlrMjh1eW54a2RMbDJsUEF3Y3dnTnRpVGFkV1ZyYmVydFF3a0RxX3NSZWoxSWlaMjFaWmlVLW5pZ2t2bU5rck5mWC1EQ1lmVXdoYkpGaDVNaEJxTWI0QzdPalZWUGdybzRYUExOMmhIckpkaWVSOVpjQQ?oc=5",
-   "time": "2026-10-15T13:04:05+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Online Citizen",
-   "title": "Singapore haze worsens as western 24-hour PSI hits very unhealthy level of 212 at noon on 15 October",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPelVlMHpTNFVGM2tCeVpmUlM1MzFYWFNwaFctS21mSFgxRVlWbC0wTVM5dERHYy1OVEZwcHBhU3M0dk1nRDJmWDdGbWVwV1pQeGtqemRPbTJZMy1ZbTZLX1FRVmd6S0RCU0RlU1V2UUgtenJPeHdJYkxJSW41Y01PYVVUWld0VW1ZUm9fX292ZGJWUldyemdiTTdkYWR5R2hJT0w2UmpMaERfOXkzQVpVOGZQSUVZMkx0RElmQXBVN3o5TFdtNDFJdUdlTTA5Tk90TGFmb1lMdkJ5VG1xSWc?oc=5",
-   "time": "2026-10-15T12:45:50+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Free Malaysia Today",
-   "title": "Singapore haze sparks rush for air purifiers",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaE9JVE95aWdVNk1LYk5HNmdSdUkzUU5VdDE5RV9zVEhsQXVGY0tTcFJpUklmX3Njc0V0LVRNeDU4Mlpmc2ZaTHVWVUM0djd0ODRKSzZFQi1jMUNrUkcwRW9CWjUtTEduTmY0UExvcDc1cWtDVkFxWDhoYk5HQ2ZVelJDRU1teUw5RW5kQTRsVGtYeWY4TGdBU01Fay1fSEpuUVpPUzNheloyR244eE5pdUpKdWRoYWVYa3UtNzBqeWFCUQ?oc=5",
-   "time": "2026-10-15T12:42:00+08:00",
    "summary": ""
   }
  ]
