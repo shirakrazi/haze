@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-15T16:00:00+08:00",
+ "updated": "2026-10-15T17:00:00+08:00",
  "psi": {
-  "west": 192,
-  "east": 163,
-  "central": 187,
+  "west": 188,
+  "east": 161,
+  "central": 186,
   "south": 156,
-  "north": 123
+  "north": 122
  },
  "pm25": {
-  "west": 151,
-  "east": 147,
-  "central": 181,
-  "south": 140,
-  "north": 95
+  "west": 155,
+  "east": 161,
+  "central": 205,
+  "south": 157,
+  "north": 102
  },
  "hist": [
-  {
-   "t": "2026-10-13T00:00:00+08:00",
-   "psi": {
-    "west": 167,
-    "east": 144,
-    "central": 161,
-    "south": 125,
-    "north": 126
-   }
-  },
   {
    "t": "2026-10-13T02:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 156,
     "north": 123
    }
+  },
+  {
+   "t": "2026-10-15T17:00:00+08:00",
+   "psi": {
+    "west": 188,
+    "east": 161,
+    "central": 186,
+    "south": 156,
+    "north": 122
+   }
   }
  ],
- "newsUpdated": "2026-10-15T16:07:20+08:00",
+ "newsUpdated": "2026-10-15T17:08:16+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "‘Forgive us’: Indonesians urge Singapore, Malaysia to sue Jakarta over haze",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX3ptN3dpaGo5TUI1LUdfNVBHdlYxdHliT1FrQ0VrTFcwRXIzMVZFWHFScXR4ZU5jbFFfUTcxUWx0UWVyd1NHYktvaFljM0FjQUxqQUxZUkRQUGdxd3FpWVZNRTRIRWFXV2E2OGM1MTRwTjVKRTFKNXB0ejA2Q0tfMDgtQXBkbFNhck8xOWlzcFh5N1NnMWJMQm9JWklCY29zYmlTdjJUVTFLdEZabHVOWm5DN3N4elNhU0FQRU5NSDJKVE1oU0xmSkxxOGRQRXM?oc=5",
+   "time": "2026-10-15T16:42:40+08:00",
+   "summary": ""
+  },
+  {
+   "source": "https://www.tabla.com.sg/",
+   "title": "Air-con Servicing Demand Rises Amid Haze",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTm80WDZIY1A1d1JNNS1tc0szb0xPRVlIcmhpcnZ6TE1KeDNhVzNwb2JWSzM1Z1NJY3Jld2xjUU9pbktrTWtvcFVUV3FWWVJVOUVxaXM1NnRmTG9JSXRRdUdrMnRwcS1McVRKUlY5M1MyemNDbVJCRk5QYXJpSVlXODA0Z3F1d00?oc=5",
+   "time": "2026-10-15T16:37:03+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yahoo Lifestyle Singapore",
+   "title": "Haze day survival guide: Where to go in Singapore when the PSI is high",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YV1VaZGs0N2dfV1RCTXoxOHhqbzBndHNHb0dqOVRLZXFna0tScXU5Nnp2SlFsR3lLS1o3MTYyaEhJN1J3azFVX2ltdVQzT0ZQMUhRc2MzR2tkWVZkTFItaGt1cW11RkE0U1YyM0tuOVhvalBBYjR6R2I3QQ?oc=5",
+   "time": "2026-10-15T16:00:01+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Secret Singapore",
+   "title": "Haze update: Where to collect your free N95 mask in Singapore before stocks run out",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EMVRva2N6LUFwM3lYTWlfb3hDZnpLRlF1WUhLRWJBQmFkOW11ZklQSHBIMERVeXgybGg0RDlZOEtNano0YWtNNHpxbEJwdWVvQl9VUnNZWF9YY2ZIMEZwcXNOcnZiRDlhTkE?oc=5",
+   "time": "2026-10-15T15:56:10+08:00",
+   "summary": ""
   },
   {
    "source": "Yahoo News Singapore",
@@ -535,6 +563,13 @@
    "summary": ""
   },
   {
+   "source": "The Straits Times",
+   "title": "Schools in KL, Selangor to operate on Oct 16, but outdoor activities suspended due to haze",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa1p1a1dHZEVWUXhHNTZSc3NnNGFjSFBKZDk3M2tCZ3pERFhwNktONm1vN3lxbF9DMkltdEpTdEtiVVJvLTN5bHRTdXFfQ1VtZlFKbE9Uc2xDQ3FlRlp0VDdWbzBfc0tHWm9mZ202cnhqdFR3NGsyZjc1NlA4cUxsUG9lMklLVUxNWEdPU3FPTWQyX3hicExhVTlyalJqci1QN0IxSDM1ZzE2MHluV08tV3FJVk5NcHVWaE5xWGxhc2I1OGg3b1lkYUxnNXdVNVk4Yi1Kd19ucGQ4QQ?oc=5",
+   "time": "2026-10-15T15:33:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Singapore haze: PM2.5 readings elevated across Singapore; air quality in west out of very unhealthy band",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdW94U0dOVGVtZllXUXdabFNqM1BDdFF5bWZOcG9peTBNV0FMWjJHMmlhRkRMLUxQcjF2X213QjdvMVRrYWhPUS13ZTgtbDQ1ZUg5LWZwQVBQVDZqeWQ0NzdNMGxCdHVXNFFGblhpNDQ3dF9PYzlQU0tqaElocndCQlRmS0ZjRThVbGZhbGdkbVk?oc=5",
@@ -560,41 +595,6 @@
    "title": "Haze watch Oct 15: Air quality in western Singapore improves, PSI returns to unhealthy range nationwide",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX0JISWlrcWU2M1FpZzlHTHU1cVo5U0Y4X2l1M3N3QVFiWnJYdldsWC02Z0VaRFBCQjZwR0d6YjNIMlhzMUVEazgzWjFvaFBXcGRCTzdhVDR3TFhPcXg3dGVLbUVXRFZaQl81eWpLNHJpRnBubVZ4YWt2TFBiRVVWU1RWdGNoWWxo?oc=5",
    "time": "2026-10-15T15:20:26+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Lim Guan Eng urges Malaysia to sue Indonesia over haze if Jakarta rejects Asean firefighting task force",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObElWUWRuNHhHaDExR1RIT1lySmJLUGg4VHpDLWc0cVMwNm81Z2k3U1o4SDB2Vm9lYlhPakQtdDBDWWtPWV9HZlNxZTA3b3U4bkpieXcybkpQZi14YkJFWEd2VHBZME1IaUpEeVUtay10Z0w0eDgzNlIyRm12OU96allKNU9yMHZEdU1hcWlrRkJVcWhQNGs3Tk00M19rNjV3NmNkSGpHZGNZa0o3NU05OXVBUkN2U0VGRmQ2cHlVd3dRZGM4M09rQzY5RkhaaEdaVnAzMEduM0NrSGhwQ3BUeERJSEVvU3pmTGR3bGYwMUpJekXSAfgBQVVfeXFMT3Z5QTlId3lJdmJPaXFmdjI5TDBtODlNZGg3Z0Z4MEJlZ2Rjdjk0Ml9qaElKRFp6V0VRbnNCN0RfakMwdlpZb2d6S19vWHFGSzdrVGNGa1J2QndPaTNlNFk4WHBiVGJlTUw3QTBUb1BMd0g4MVp3VHN5cVBTUDYxblRnaVVBNjJYUGttaUtyR2hfd1RiZm80c3ZSbV9VMG45cFpScS1IaHFIM1F6Q1A3cDhPWDcxOUVnVWxxMjQzbk84eExNR2s2Z3ZPZ1pINTQ4Q1U3NFRBUjhkc1lHV3dsX2oxTUU1M01Rek94Q2UzVld2V1UwQU94Mm4?oc=5",
-   "time": "2026-10-15T14:57:31+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "'Very dangerous': Timor-Leste shuts schools over Indonesia haze",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMHotWnhFZnpEc0ZUZ3RXSi1uZ3lrOTJNZi00QWQ0ZFNxY3QzNW5HSmtfYWloSFdZY21ycWNPSks4bFU2Z0VoSzlFT3BXM0VYWFNxSTZiMF9RTE5wY0FLVGFxRGItVTZZdnpYUFNORl9GT1lmV3E5UXJhYkp2WUlkVWlXZ1MySUJXMllpdXJn?oc=5",
-   "time": "2026-10-15T14:46:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA Lifestyle",
-   "title": "BigBang concert organisers issue haze advisory ahead of weekend shows in Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc1JkelBFaVZWVlZtNGNZN2pVUE1tY2hKcWx1N05MZkVnRC1ETWFKY1FDZnlFOTlJVzV5NUh1YWZYNFNSTjg4WlVDMmxpWVJmUkw1U3hyTVpNcThCcHdGOHJ2bUh5Ml9BYzlYZlE2MHJiNENaWno0V080Q2tTcl9vMVJJandmLUVOTjg2OWZsRUpHMHVSaUY0dENYb0p3SzFNTWlZ?oc=5",
-   "time": "2026-10-15T14:05:01+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Manifold Times",
-   "title": "Singapore: MPA alerts maritime sector to potential reduced visibility amid haze",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDBMZUtiVTNQdGFZQ3FDOFZHOGJiU0E4bGgzcEZDM0YyUmdxMDVMeXNKT0I3Zkl0X19PUVdvWF9pRzlBZkNQaklxQmVLWm5VSnlRdXRPOUlrcEsyMS1MS0VTVHlsV1ZZdlJWLWJJSG16bVZxZUljOVZDeGtaRDFPWUlYSzdxTDBLWG1mSDJBd2tFZjgyX3hCTXRpZEhJUlc1Z0tXNWNOT0NZeHNoYkY2M2lHQ3U?oc=5",
-   "time": "2026-10-15T14:05:01+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "ActiveSG closes outdoor facilities in central, southern and western Singapore as haze worsens",
-   "url": "https://www.straitstimes.com/singapore/activesg-closes-outdoor-facilities-in-central-southern-and-western-singapore-as-haze-worsens",
-   "time": "2026-10-15T14:00:00+08:00",
    "summary": ""
   }
  ]
