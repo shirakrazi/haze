@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-16T01:00:00+08:00",
+ "updated": "2026-10-16T03:00:00+08:00",
  "psi": {
-  "west": 180,
-  "east": 178,
-  "central": 206,
-  "south": 168,
-  "north": 134
+  "west": 184,
+  "east": 183,
+  "central": 213,
+  "south": 171,
+  "north": 139
  },
  "pm25": {
-  "west": 152,
-  "east": 139,
-  "central": 170,
-  "south": 112,
-  "north": 107
+  "west": 141,
+  "east": 141,
+  "central": 166,
+  "south": 123,
+  "north": 105
  },
  "hist": [
-  {
-   "t": "2026-10-13T09:00:00+08:00",
-   "psi": {
-    "west": 172,
-    "east": 154,
-    "central": 169,
-    "south": 134,
-    "north": 127
-   }
-  },
   {
    "t": "2026-10-13T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 168,
     "north": 134
    }
+  },
+  {
+   "t": "2026-10-16T03:00:00+08:00",
+   "psi": {
+    "west": 184,
+    "east": 183,
+    "central": 213,
+    "south": 171,
+    "north": 139
+   }
   }
  ],
- "newsUpdated": "2026-10-16T01:08:04+08:00",
+ "newsUpdated": "2026-10-16T03:08:06+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Singapore weighs legal action against firms over worsening transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcEtZNTZKT2Fac3FKZ1htSzNVX0dmWnUyRHI1anFiNjRIQlNFWDFaNXhOaEtiaHJLY0RCVnIyOHo5WS1GM2pnRjVCWFBDWlVFdVhzTHhULTRCZ0ZjcHI1TFZkakxyN0tJQjRaX3R5NDZJUUlSRlAtYXhPX3BsQlMwd0NUVUVXNzhWQkhiLXJ1LXVEM3QtalJpWGVIZ0JoRmMweXIwMEU3XzhBUG1hZXl4WTdWSGlLY0pHZlRCN3lldm1fOHJ5SEZYRVpWdk5uM0xFZW4xODVwNDRGUjDSAdsBQVVfeXFMTndsLXhTN2RQaEVKdHY1aVZpbU9pNEEwWUMtSEs1OUZyTXJWa0hieVowR3FjVFctaGdQdDZja0laUTFxaFZtc1drUEd5WTQyM0tUVUtPZWdZWm03bzk5V3k4aEJGSWdBb3hyaEFmaVo1SF9EYnhKbG01clFiOXAxUDBWNzFqdHJwUkdlWWloMk5qNGtkaWxWYUpkdkVlZXEtbUdiWXNOQ25yd01CclBJUUdhUmhYUW1PMkRBOHBtY2hER1hZZ3pYS093cmY3a2l4WTRFbXZQSTBVX3pB?oc=5",
+   "time": "2026-10-16T01:45:25+08:00",
+   "summary": ""
   },
   {
    "source": "The Business Times",
@@ -542,10 +549,10 @@
    "summary": ""
   },
   {
-   "source": "South China Morning Post",
-   "title": "Singapore weighs legal action against firms over worsening transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcEtZNTZKT2Fac3FKZ1htSzNVX0dmWnUyRHI1anFiNjRIQlNFWDFaNXhOaEtiaHJLY0RCVnIyOHo5WS1GM2pnRjVCWFBDWlVFdVhzTHhULTRCZ0ZjcHI1TFZkakxyN0tJQjRaX3R5NDZJUUlSRlAtYXhPX3BsQlMwd0NUVUVXNzhWQkhiLXJ1LXVEM3QtalJpWGVIZ0JoRmMweXIwMEU3XzhBUG1hZXl4WTdWSGlLY0pHZlRCN3lldm1fOHJ5SEZYRVpWdk5uM0xFZW4xODVwNDRGUjDSAdsBQVVfeXFMTndsLXhTN2RQaEVKdHY1aVZpbU9pNEEwWUMtSEs1OUZyTXJWa0hieVowR3FjVFctaGdQdDZja0laUTFxaFZtc1drUEd5WTQyM0tUVUtPZWdZWm03bzk5V3k4aEJGSWdBb3hyaEFmaVo1SF9EYnhKbG01clFiOXAxUDBWNzFqdHJwUkdlWWloMk5qNGtkaWxWYUpkdkVlZXEtbUdiWXNOQ25yd01CclBJUUdhUmhYUW1PMkRBOHBtY2hER1hZZ3pYS093cmY3a2l4WTRFbXZQSTBVX3pB?oc=5",
-   "time": "2026-10-15T23:49:52+08:00",
+   "source": "Free Malaysia Today",
+   "title": "S’pore weighs action against firms linked to haze",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUjVzamJXY3lrbFpCS2RrZ19oUTRqbGltc0N3X3BrVWdIVklvOWNxZVhOZGRCRG1FOVhlOE4zS0wtZDBndmRhLWhHX3NsZnppMDEzRkN4Z3Q1SFNKR2RMOEViRVJQYjYzcnByQW9IbkRjSEdjYkxFMHZPTmhtS1p1NnFlblgwVGlrTE1aMjBKcDlCZEZZbjREUXd3U1ZjR2E2UzNiaVRXODVUWDJmNEVTMmctcw?oc=5",
+   "time": "2026-10-15T23:55:00+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Clinics in Singapore see uptick in patients with haze-related conditions",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVHdpY2ZPRkNLbnd1OXg5UVN2OTNnNU1OVXM4cUZZVXlScVVrMUdobndGRmJhalFRclZ5RE5sVGx3S3NrM0ZJWEhWb2xGRTVsTUV4RlpjN3o3MG02X0FqWlBWMUx5OXBDMnlnZUd6V2pGWlliRWdzTDVJODZRVkhNcFRvdVV4SlhGeC1PMTlHazdTTU5lQXE5RXVXQ1M0bGJadVBINTFWckl1MnJoemdxRFlMZw?oc=5",
    "time": "2026-10-15T22:57:01+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Malaysia",
-   "title": "Indonesia deploys dry ice to disperse haze in South Sumatra",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FZC1BRUEwTjBzNU9HWmZsekZMNTFKcXJTb1RVTTNHN0lSVVpwai05Ql8wSFN0eGViRlhSdVg5VzZmbmxTYTdsNUZ3OHdzdXVPamJZ?oc=5",
-   "time": "2026-10-15T22:42:07+08:00",
    "summary": ""
   }
  ]
