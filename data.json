@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-15T12:00:00+08:00",
+ "updated": "2026-10-15T13:00:00+08:00",
  "psi": {
-  "west": 212,
+  "west": 210,
   "east": 170,
   "central": 194,
-  "south": 163,
+  "south": 162,
   "north": 128
  },
  "pm25": {
-  "west": 143,
-  "east": 137,
-  "central": 161,
-  "south": 138,
-  "north": 99
+  "west": 139,
+  "east": 146,
+  "central": 152,
+  "south": 134,
+  "north": 98
  },
  "hist": [
-  {
-   "t": "2026-10-12T20:00:00+08:00",
-   "psi": {
-    "west": 157,
-    "east": 140,
-    "central": 155,
-    "south": 122,
-    "north": 120
-   }
-  },
   {
    "t": "2026-10-12T21:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 163,
     "north": 128
    }
+  },
+  {
+   "t": "2026-10-15T13:00:00+08:00",
+   "psi": {
+    "west": 210,
+    "east": 170,
+    "central": 194,
+    "south": 162,
+    "north": 128
+   }
   }
  ],
- "newsUpdated": "2026-10-15T12:07:10+08:00",
+ "newsUpdated": "2026-10-15T13:07:18+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,55 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "GuruFocus",
+   "title": "Singapore Airlines Prepares for Haze Impact on Flights",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNczd1V0N2SzVhZzVQTWFFUXFSZFlMcm1GRC00S2o1OHlrMjh1eW54a2RMbDJsUEF3Y3dnTnRpVGFkV1ZyYmVydFF3a0RxX3NSZWoxSWlaMjFaWmlVLW5pZ2t2bU5rck5mWC1EQ1lmVXdoYkpGaDVNaEJxTWI0QzdPalZWUGdybzRYUExOMmhIckpkaWVSOVpjQQ?oc=5",
+   "time": "2026-10-15T13:04:05+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Online Citizen",
+   "title": "Singapore haze worsens as western 24-hour PSI hits very unhealthy level of 212 at noon on 15 October",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPelVlMHpTNFVGM2tCeVpmUlM1MzFYWFNwaFctS21mSFgxRVlWbC0wTVM5dERHYy1OVEZwcHBhU3M0dk1nRDJmWDdGbWVwV1pQeGtqemRPbTJZMy1ZbTZLX1FRVmd6S0RCU0RlU1V2UUgtenJPeHdJYkxJSW41Y01PYVVUWld0VW1ZUm9fX292ZGJWUldyemdiTTdkYWR5R2hJT0w2UmpMaERfOXkzQVpVOGZQSUVZMkx0RElmQXBVN3o5TFdtNDFJdUdlTTA5Tk90TGFmb1lMdkJ5VG1xSWc?oc=5",
+   "time": "2026-10-15T12:45:50+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: PM2.5 reading high in central region; air quality remains very unhealthy in west",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdW94U0dOVGVtZllXUXdabFNqM1BDdFF5bWZOcG9peTBNV0FMWjJHMmlhRkRMLUxQcjF2X213QjdvMVRrYWhPUS13ZTgtbDQ1ZUg5LWZwQVBQVDZqeWQ0NzdNMGxCdHVXNFFGblhpNDQ3dF9PYzlQU0tqaElocndCQlRmS0ZjRThVbGZhbGdkbVk?oc=5",
+   "time": "2026-10-15T12:44:29+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Indonesia’s disaster chief’s brother among five arrested over alleged graft amid haze crisis",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaHphaEZ4d2RCMXBoa0lybURPbVBJMGpnOTJVLXZIaEZUM1ZCSzVwMEpfcnRiZmVic2dwTkNPb0EyQ2NHNy1QSFlBVzlaWVRseFJfam1QRE14bDZtalZWRERCMmNMRi1EcjVSN3F0dGVOa3lVR00yek1iVHR1RjhUblV2NVE3R3lYejBzbmdzc28xZE5SODlZbXY4UFYtZm5SaDVhdU92dHZtUU51TlRQVDBWSTdmTGUzdlV5UGRHbmNzU0VVX1VPU25jMXZqRHRydnYydGJxQVJJQTVOVlQtVnJORzdCYnIx?oc=5",
+   "time": "2026-10-15T12:30:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Guardian",
+   "title": "Indonesia fights fire with dry ice as toxic haze spreads across region",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNDA1R2tjMDM1bkgzdW5BWlA2UjFXaUMtSExEOW1ncVluYWFDMU4wTllKQl9aaWhTTU5wNHRWeFVGem00cE80b0l2cHQyYnR0b3YtSWNnSzB2XzBMSjhnNXU5MkNteEJ4SkctS21TU09DcTFBczBfNGZ3Z0pCaGVPUC1Ld29aRlpJeEdvVUJ1Z2tidTFmOU1zUDk5c1U?oc=5",
+   "time": "2026-10-15T12:25:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Singapore haze spurs air-purifier rush as Indonesia forests burn",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDNzBvenBpYzJyYjBqN3VsVm9PMTFYWjVoTDFjdTY2YnFKOWhMMXdyWHlTNHNBcmZfQkh2WmRlSmlKX3l1MlF0WUR6MTJTTDBl?oc=5",
+   "time": "2026-10-15T12:23:34+08:00",
+   "summary": ""
+  },
+  {
+   "source": "VnExpress International",
+   "title": "Singapore haze hits outdoor tourism businesses, bookings down 30%",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0JFeDBsVTZnNFlDaHduZGpmTFppQkxzSUNFemFzNkZIRHdRNnBUUGd2VDkyalR0RER5SDZVczlUMEtWRWc4UWNudVc5dm5tUDdZT0tOYmRvLWpUT0lhQzlCdHJUeUNlTUVKZEI0Mk5PeTVfNFRCbmNDcjFXMzliZ2NkbFVDRFFyOWxiUk9JeXVoNkhrN01TTkNfcktGQzhweTRJb2VXM01UNy1jSUdyckVn?oc=5",
+   "time": "2026-10-15T12:09:08+08:00",
+   "summary": ""
   },
   {
    "source": "The Online Citizen",
@@ -542,59 +591,10 @@
    "summary": ""
   },
   {
-   "source": "Bloomberg.com",
-   "title": "Singapore Haze Spurs Air-Purifier Rush as Indonesia Forests Burn",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3RGWG9mNURndWxWemd0Ynd3c1laSU1IbDZhbE9Ha013aUFfcnVYYmJxN2VvTTRDWlBQTzZfZ1RaLTZOVG1ocWpqTXJQT1RUcjVJN0VSd2otdFZieVpNTVBBcXlLdUFLMDRZenRFOVFyMldSOEs0ZFZmZGRUUEwxVFhfeGFlTFRWOWxweGd4VkRVM1NFVnVJVDJDc0RyNkJ3YW5lbzd6VHhHOXlBWVZKQURoTEc1UQ?oc=5",
-   "time": "2026-10-15T11:34:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: PM2.5 readings high in 3 regions; air quality remains very unhealthy in west",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdW94U0dOVGVtZllXUXdabFNqM1BDdFF5bWZOcG9peTBNV0FMWjJHMmlhRkRMLUxQcjF2X213QjdvMVRrYWhPUS13ZTgtbDQ1ZUg5LWZwQVBQVDZqeWQ0NzdNMGxCdHVXNFFGblhpNDQ3dF9PYzlQU0tqaElocndCQlRmS0ZjRThVbGZhbGdkbVk?oc=5",
-   "time": "2026-10-15T11:27:27+08:00",
-   "summary": ""
-  },
-  {
    "source": "BBC",
    "title": "Watch: Orange haze blankets Indonesia's Kalimantan region",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vZVptZExqOFJVOU9qX20ybkxoQTlKQm5vY0ZuekFERmtfZTJ5UjhhU0JQbFlQS0paQnQwaFJCRVVWLXRmVkU3aWVzVV9xczVQWFlVc1ZpN2k?oc=5",
    "time": "2026-10-15T11:26:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Indonesia tests dry ice to fight haze over Palembang",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcjk2QVdETGVUbFNOc3hXQ2JtMUVWOThJWVFHdmRCTlNlVkE4ZzBybTZPSWFCVURSclQzS3Q1OC1PN0ZnN0xIal95ODFNOVVVUWFBcHhXYmFTV3pieUIzYjJFcUkxODYtNFhjdU9UV1lpSkFTR0k3cDBOTDJSeE52dkNHYTUwREhkWU9CaF9sN1k2OXFXNXBYZGFVTVpZSjNTWHNv?oc=5",
-   "time": "2026-10-15T11:12:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Indonesia’s disaster chief’s brother among five arrested over alleged graft amid haze crisis",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlZ5VzF6OXlRNHhSQUVzMzdoR2FTVnNxZHpJVXJteUNrc1VNNlJLVFVZU2gxT0wwMkdZa2hGX3l2RVVYVHVqWi11anpScEY5aDU5alZsaWNuRjdlaXFsQlF3Z29URmFmUkRaWUhtbUQwQjBrTlNaMVBVeWFmSllxMF83Mk1fa3ZacmdlTEVBeWdEWHB0QzdGZkk2bVUwa0tHVW5CSFh5UUUtMVY1MkZkRXpfemMzSDhabHBmUHJrR1A3RWdxWWx5T1ZCVnQ?oc=5",
-   "time": "2026-10-15T11:10:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Consumer group urges Putrajaya to engage Indonesia on transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUTQ1TEY0bzdIQUZxYl8xSlNwTWJfajRWNTZ4MHh6VkFtdGI1eXZNSGw2RzVtZGRkeTZ0dmV6dk1EWERaVDVNbTl4SmxWc1lySW1fYlpxVU1ZdjBsWE44TWxLNkRDTHpLOGRqY2VRTk0yRGhPQW4wcS1fdVRvcFNzSkZ0TGVXTEVhUVJWTU5CZVVCWTAxaEdGLXRnbjlRT1RCVE1EVnJIVjVLMXl3dTNxUEVRRG5fNjQ1Z2xBNEo3QQ?oc=5",
-   "time": "2026-10-15T11:08:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Indonesia Names Over 200 People, Nine Firms as Suspects as Haze Worsens",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWZpSXhHN01ORG9aYUhRQ2FDOE5Oc0VaYUZ1R29MR1Vvb0ViUE5jMEJITzNkZ0U5N3Z3blIxdWd4T1pmanUyNDAtUkp3MmlxLUY3bWt0Uk9MTmduWlFJZkVUQXhLYVhDUV9lUWhndGF1dUlOU214QWNDT1NuN1Nfa29vMXhwSThGci1pRzFmUUlzd2t2a2FIamFxM2J4U3hBbzM0ZDBn?oc=5",
-   "time": "2026-10-15T10:53:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Motorist Singapore",
-   "title": "My F1 trial by fire - Sepang’s heat and Marina Bay’s haze. | Articles",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORlBsRUVub3NRUlFja0ZkUmdRUGJFemMxTTgyUWdDckFya3FQd1RBRnIwSXlObXRKanRUcGdMNHFQNFJtZlhMYjcwTXJsV05kYi12ZUJPOHhxY1N6enlUZkNIUi1oV20wcXZwMUVybF9TOFNsVjFkNDVlREVLSE42bi0zQ1lrc1lLVlA0Q0V2T0F2SjJuZ1RZ?oc=5",
-   "time": "2026-10-15T10:53:02+08:00",
    "summary": ""
   }
  ]
