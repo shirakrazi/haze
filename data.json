@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-15T23:00:00+08:00",
+ "updated": "2026-10-16T00:00:00+08:00",
  "psi": {
-  "west": 176,
-  "east": 174,
-  "central": 198,
-  "south": 165,
-  "north": 130
+  "west": 178,
+  "east": 176,
+  "central": 203,
+  "south": 167,
+  "north": 132
  },
  "pm25": {
-  "west": 169,
-  "east": 166,
-  "central": 194,
-  "south": 133,
-  "north": 118
+  "west": 159,
+  "east": 150,
+  "central": 191,
+  "south": 128,
+  "north": 101
  },
  "hist": [
-  {
-   "t": "2026-10-13T07:00:00+08:00",
-   "psi": {
-    "west": 173,
-    "east": 150,
-    "central": 167,
-    "south": 134,
-    "north": 126
-   }
-  },
   {
    "t": "2026-10-13T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 165,
     "north": 130
    }
+  },
+  {
+   "t": "2026-10-16T00:00:00+08:00",
+   "psi": {
+    "west": 178,
+    "east": 176,
+    "central": 203,
+    "south": 167,
+    "north": 132
+   }
   }
  ],
- "newsUpdated": "2026-10-15T23:30:13+08:00",
+ "newsUpdated": "2026-10-16T00:08:35+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Malaysia has no plans to take legal action or issue diplomatic note over haze, says foreign minister",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUmwzbVlaT3VBbmI5R3V2dUdDUk5mb0lmcHdOZUxvNG1RVDhrVjJXcEh2Z1M4UzRiWlc5Tk82NGt2S0NoR2JITXFzSG04RkktSmVZU2tvRDYzM2J5TnRzZTI4Y05TS3lZQ3lIUzlxRnNIOVItWWJ2YjY4c3RwaExFSm5MdldyUGxqaUJQTVl4NlRiQkRuX241c2VCellCbzNFdlViOW52VVlBZEtHdnZPeGxCMTIzTWhSUTNFOFp0N3JkMVNFQ0NNVEt0OXB0Y3FKYmt2d18wcFE?oc=5",
+   "time": "2026-10-16T00:03:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Indonesia Business Post",
+   "title": "Singapore considers legal action against companies over Indonesia-linked haze crisis",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdl9VcDJEWldJazhQaWRMUEYybm1mWnJfU2g5X2U3LS0yVUZNSVJxM21pdjY4cXk3WjJqTzFhYjd5cGQwcEN4bDVFUDUwMWI1ckFBc21NN29uOEotenphcHcwNC1YVVVYSjBCc25lMEdIOXpLcU9fMmN6ZjEwOFBIZ1VEbHhBdTNaOXY3QmlVTUNyR09nb2FKSlBUNWJGS2p6NUoxbzZ1R2JlODRBTVI1RFdVS05RZTFzVC02c0NmVDN0MzdjOV8zVXJCcnRIX1JYNmRtLXB4dC11ZWc?oc=5",
+   "time": "2026-10-15T23:57:07+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Singapore weighs legal action against firms over worsening transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcEtZNTZKT2Fac3FKZ1htSzNVX0dmWnUyRHI1anFiNjRIQlNFWDFaNXhOaEtiaHJLY0RCVnIyOHo5WS1GM2pnRjVCWFBDWlVFdVhzTHhULTRCZ0ZjcHI1TFZkakxyN0tJQjRaX3R5NDZJUUlSRlAtYXhPX3BsQlMwd0NUVUVXNzhWQkhiLXJ1LXVEM3QtalJpWGVIZ0JoRmMweXIwMEU3XzhBUG1hZXl4WTdWSGlLY0pHZlRCN3lldm1fOHJ5SEZYRVpWdk5uM0xFZW4xODVwNDRGUjDSAdsBQVVfeXFMTndsLXhTN2RQaEVKdHY1aVZpbU9pNEEwWUMtSEs1OUZyTXJWa0hieVowR3FjVFctaGdQdDZja0laUTFxaFZtc1drUEd5WTQyM0tUVUtPZWdZWm03bzk5V3k4aEJGSWdBb3hyaEFmaVo1SF9EYnhKbG01clFiOXAxUDBWNzFqdHJwUkdlWWloMk5qNGtkaWxWYUpkdkVlZXEtbUdiWXNOQ25yd01CclBJUUdhUmhYUW1PMkRBOHBtY2hER1hZZ3pYS093cmY3a2l4WTRFbXZQSTBVX3pB?oc=5",
+   "time": "2026-10-15T23:49:52+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Indonesia tests dry ice to disperse haze in South Sumatra",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMWdhNXJ2amx0WUFGaDVWTjBEbGFFUWlZWlptVFhqdEhMWDZueV9SR29ZWTktZS1jZkQxWlJJYTU1Mm9XU3dTN0VsRGFfLUQtQUo1NmVLZC03UVpadGh1bDc0eVJDeXpJUkRzdUN2UU1KTThyZU9fcmhXdnF6SVhhcXRTdGgyWEpiTS0yN0QxVHBCMldmUjZTWEMzbHNmVDlDeU05c2Vn0gGrAUFVX3lxTE1acDJnbXdfU2VjWjNNV0Jhc1hTajh4N3lGTFgxYXU0dUsxSGs5RTlyRXQwdWZlUW5fMUpCN0UzNEgzNTM5ZXA0SkVOb1Z5LXdxSHEtaGtnYkdVQjJIZ1IyM0t3blBCYmZHSDdUS1N1ak5sbGhZdm13ZlFKSEx3UkltZ0sxRTB3SVRSUm51ZkZTczl5MkNjS2JUTUd5T2RBX3hVQW9vT29odnFwdw?oc=5",
+   "time": "2026-10-15T23:42:44+08:00",
+   "summary": ""
+  },
+  {
+   "source": "UA.NEWS",
+   "title": "Singapore investigates companies over haze and considers legal action — Channel NewsAsia",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVy1SRmdNQkNieWc1NUJvc3ZVNjlFczZTYjB0VEN5X0F0QVVOTV93XzVZcjB6dGhqdXlwamd3SnZYZk4zNFUwcDhlZkNzX3hNSDFuM0VTU2VuRWpQN2Q3Q3F1ZWNnU2F2YnJkRkV2cU5fWjA2SGhMaktNZXhBdF8yd3NjNUdZcG4wZ0RpYUpSOXJ2YktxdEV6NkxiYjJsbHk3eEdTNF9vNm5Nd2RNbWJsbXJDQQ?oc=5",
+   "time": "2026-10-15T23:32:24+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -535,6 +570,13 @@
    "summary": ""
   },
   {
+   "source": "Bloomberg.com",
+   "title": "Live Q&A: What’s Next for Southeast Asia’s Haze Crisis?",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkhfOHJQUnQ1RVdQMm9fOTEzNWVkcDFTTUVyVGJUMmRJZmU3OTJnbHd3X1NXLVFrU3ctdlJzRGZFT3RUdUpCc1pMZjRjeVNHRHZtaFNkTGk4YWpnYUZWLVNZYXBQS3pnMlJsMklnQUxlVjE5a1ZuMndyLWZ4RkFSTm5xLXNEaUYzVWRaMWhsYkJTTXo5UXR3aFd3MWRQUkJWR3FuUDhn?oc=5",
+   "time": "2026-10-15T22:43:02+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Edge Malaysia",
    "title": "Indonesia deploys dry ice to disperse haze in South Sumatra",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FZC1BRUEwTjBzNU9HWmZsekZMNTFKcXJTb1RVTTNHN0lSVVpwai05Ql8wSFN0eGViRlhSdVg5VzZmbmxTYTdsNUZ3OHdzdXVPamJZ?oc=5",
@@ -553,48 +595,6 @@
    "title": "Establish permanent Asean task force to tackle haze, MP tells Dewan Rakyat",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcmxCQW8yOW9QWjdIV3RyRlJSTGZteXBVMm5yUVo5d1l2eVgzOUxzZW1vbDNmZ0ZCYVh3eERKSDdWbC1oNVpjV2YzNmFmZ1V1MVA1ZzlQUzJMNE53Q0VqQkstbTZya1JLbEF4QTlheTdHMGhEUUJDbzJ6c2VLTXFjcTdxTkVLXzFIRG5pTW5mMzBNc2tERHh3am1uRDQxTUQ5Z216dVg3RUNoZTJCN015R1JfSjhWRVhYbjJXOWIyMVZsUnFRMk93bWNfbEdBUXg20gHDAUFVX3lxTFBmenE2R3YwcjB0OHBodjFBNmN1ZkJlZnRNaFB3cFlOSlJ2Qm5sWWVFSnZrZldMWmF5VnVZMi1hOFQ1Tm9FMldXR0FMMjdoZzRzcVJyc1dabl9IZ2lBTS1SdUJ5TWxmVEstUHNnUW5XU1FyN0oyR1k0czYyZmtidXE3VDhtQk92eXJqSzFuZEExcUdMLXN0M2RtZ2hPY2Yza2VvS3B0elZWanQ4clRfLTFfXzNVdHdtMTBmbEJvWmdPZEpDUQ?oc=5",
    "time": "2026-10-15T21:56:27+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Malaysia has no plans to take legal action or issue diplomatic note over haze, says Tok Mat",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQejluTFNza2h1WUh4SEEzSENOZ2U4czNwQzdkLURZVGJpT0xjcGRqeEdfMFpid0hxTjRLb01oalRuSXFYdnpwMEE2ZmhUOXRaOWVLbnBObmRRTTBfOHdQU2kwa1pOMWN1Sy1wcDB5X1k5cEVZeHAzcGhCaFAxdUYwb3Q3RF9pQjFNdVlUYnRGU3k2M0hEbGczTzg3LUFubE55RXhrZVVraDNRR1FscTFyMENVeEJMcjYzUE5oWklqc0dfWEctQ2VLMlNlNnBLR0FvaFNDdUlBZw?oc=5",
-   "time": "2026-10-15T21:21:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Reuters",
-   "title": "Explainer: Why is the haze so bad in Southeast Asia this year?",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVRUYWpjQkVXTUgzT2pjYXplRHh1TGtHc0JPQVJCdFVjNU9oWXRCUHFNbEhwQzhmZ2VKSlNBQy1sRGszYU5objNEbDFiZ1BFNV9hVnZQWkE3MWtGV1VucndWRDMycG82OUI0YnpKLTBPbjloMGhSZjhxOGxVZ3paV0d3MFAySDBSV2R2b0dRWnNLQUtYTkVmdk1YRXIwcUJ4X2c?oc=5",
-   "time": "2026-10-15T21:18:46+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bloomberg.com",
-   "title": "Live Q&A: What’s Next for Southeast Asia’s Haze Crisis?",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkhfOHJQUnQ1RVdQMm9fOTEzNWVkcDFTTUVyVGJUMmRJZmU3OTJnbHd3X1NXLVFrU3ctdlJzRGZFT3RUdUpCc1pMZjRjeVNHRHZtaFNkTGk4YWpnYUZWLVNZYXBQS3pnMlJsMklnQUxlVjE5a1ZuMndyLWZ4RkFSTm5xLXNEaUYzVWRaMWhsYkJTTXo5UXR3aFd3MWRQUkJWR3FuUDhn?oc=5",
-   "time": "2026-10-15T21:12:40+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bernama",
-   "title": "Establish ASEAN Task Force To Combat Haze, MP Tells Dewan Rakyat",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsZlVYandyZ2U3NE5hOHpvbnN5LVkxOTZLZ2RDeU5HaDZLdklaeWpBdHFULVpJb2Q4OUc3QkEweUE0VDdDMTZMNjU5clk4VmphYVRKUmtFU3U?oc=5",
-   "time": "2026-10-15T20:50:51+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "24-hour PSI forecast unhealthy to low-very unhealthy range; weekend showers could reduce smoke haze in Singapore: NEA",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSXhvV1dGcnZmd1EwLUxwYmdCdlE5UkZ0RXYxOHYwVkNtYzBWdWNfbFdFMFFHclFnZlNSQXNaTEFEY1FsajFOQ3A0N3UwM2RNcUNPaV9lTmJod19hZ1ZPS2JwUGV5SkRXc3prakZkNzFMX3oxYVVNUkp0OEVpZUcyS1dtZUVmUTUza0E?oc=5",
-   "time": "2026-10-15T20:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Malaysia has no plans for legal action or diplomatic note to Indonesia over haze",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNi1zQUl0VEtmdFF5WE56U0hka0lPMzB2c0dDQU9rVEpORE1PZllrdWdrYTV1MUdkc2xtc29jQjE1aWxocktDQ3Q1SDI2bzRaTThDNE1fTm90OFdMYnAxR1ZKcmtULWVzVXh6ZVNwRi1pNzNXUWJPTWVETzVtU29vWVlJQUNQYS1TNVljOVA4QzdIbHBkU3pNQzhYU3BuVWJzTW1ubjVEc2VQWEhleDhYdTV3bndOeThzTlo3dmw4ckvSAcABQVVfeXFMUDYtc0FJdFRLZnRReVhOelNIZGtJTzMwdnNHQ0FPa1RKTkRNT2ZZa3Vna2E1dTFHZHNsbXNvY0IxNWlsaHJLQ0N0NUgyNm80Wk04QzRNX05vdDhXTGJwMUdWSnJrVC1lc1V4emVTcEYtaTczV1FiT01lRE81bVNvb1lZSUFDUGEtUzVZYzlQOEM3SGxwZFN6TUM4WFNwblVic01tbm41RHNlUFhIZXg4WHU1d253Tnk4c05aN3ZsOHJL?oc=5",
-   "time": "2026-10-15T19:54:51+08:00",
    "summary": ""
   }
  ]
