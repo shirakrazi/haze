@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-16T06:00:00+08:00",
+ "updated": "2026-10-16T07:00:00+08:00",
  "psi": {
-  "west": 193,
-  "east": 192,
-  "central": 221,
-  "south": 178,
-  "north": 145
+  "west": 195,
+  "east": 195,
+  "central": 224,
+  "south": 180,
+  "north": 146
  },
  "pm25": {
-  "west": 148,
-  "east": 160,
-  "central": 150,
-  "south": 113,
-  "north": 99
+  "west": 143,
+  "east": 146,
+  "central": 149,
+  "south": 125,
+  "north": 93
  },
  "hist": [
-  {
-   "t": "2026-10-13T15:00:00+08:00",
-   "psi": {
-    "west": 172,
-    "east": 151,
-    "central": 163,
-    "south": 132,
-    "north": 121
-   }
-  },
   {
    "t": "2026-10-13T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 178,
     "north": 145
    }
+  },
+  {
+   "t": "2026-10-16T07:00:00+08:00",
+   "psi": {
+    "west": 195,
+    "east": 195,
+    "central": 224,
+    "south": 180,
+    "north": 146
+   }
   }
  ],
- "newsUpdated": "2026-10-16T06:26:04+08:00",
+ "newsUpdated": "2026-10-16T07:06:59+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "NST Online",
+   "title": "Singapore weighs action against companies link to transboundary haze, says PM Wong",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWVVHU1JEd196emIxcm9iR2pBeXh2cmZ1ZUtmMjJMSS13Rk5TaTRMdG1URFFkY3I1TTVaeld6TE5sczVPak1RTHF6QlVIWXZKUjJBRnc0V2FGNzdJU1RwUzEtbjdJeEtCQWd4RW5zX1ZfRTJ1OElQS0VfQ1BGNWtrMXBYWE9OUURRdm5UelhkeFlPVlhiMEQyaWxyRnkyY3VuOFRUdnJZMFNvM09Yb3UwOHBFXy1ldnp2Yl9aV1FzTdIBxAFBVV95cUxNN0ZUdEFUTTZ5bjAwQ2dYTzlHQXVGNGZKdkxKcUluZ0FwaUIyUE4tdy1aZHBzbzZqQXpEZU55ZUctTVBDNllfcmNkeGM4MFdnS0QwSWJxdThabGY2NDE5bkJKZUFNMEMyV2tYS0tha0NqOFBucmFlMHhiUFNlQnVLOWU4WFI4RURKbE9IMWozc29GNW9pVllmUE9GYXg4cUJrZUw4WVVJaVNHc1lpRzZfLU5UQUM3YTlPZGVJYndwUmE0MXMw?oc=5",
+   "time": "2026-10-16T06:54:50+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality very unhealthy in central region; PM2.5 reading high in east",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02ckJ3WjJYc1VPUzU3Q250emhueUdKUnlIM00zMGp3ZG9jd3ZJSWVNajlSdDF5OXVFenhPeFVBM2luREp1VUdJSjIzMXBzQ2lqT3RJenREdWY2UWFKLVNwNC1mYWEzMy15WC1wb2tmSXpib2dxcGoyR0lxYw?oc=5",
+   "time": "2026-10-16T06:33:41+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -517,7 +531,7 @@
    "source": "Bloomberg.com",
    "title": "Live Q&A: What’s Next for Southeast Asia’s Haze Crisis?",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkhfOHJQUnQ1RVdQMm9fOTEzNWVkcDFTTUVyVGJUMmRJZmU3OTJnbHd3X1NXLVFrU3ctdlJzRGZFT3RUdUpCc1pMZjRjeVNHRHZtaFNkTGk4YWpnYUZWLVNZYXBQS3pnMlJsMklnQUxlVjE5a1ZuMndyLWZ4RkFSTm5xLXNEaUYzVWRaMWhsYkJTTXo5UXR3aFd3MWRQUkJWR3FuUDhn?oc=5",
-   "time": "2026-10-16T03:13:07+08:00",
+   "time": "2026-10-16T04:43:09+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Singapore haze: PM2.5 readings high in 3 regions; air quality unhealthy in all regions",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdW94U0dOVGVtZllXUXdabFNqM1BDdFF5bWZOcG9peTBNV0FMWjJHMmlhRkRMLUxQcjF2X213QjdvMVRrYWhPUS13ZTgtbDQ1ZUg5LWZwQVBQVDZqeWQ0NzdNMGxCdHVXNFFGblhpNDQ3dF9PYzlQU0tqaElocndCQlRmS0ZjRThVbGZhbGdkbVk?oc=5",
    "time": "2026-10-15T23:08:35+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "CNA Explains: Can cloud seeding help clear Singapore's haze?",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOanFnSWFTN2k4Rnc4dXJ4eHZ1c1BtdW9zQkhTOU8zXzZkVjQtQXlGeUZ4MlNVSVVfR0QxaTRtUXZfT2taUVdmNVFKaGwyTkljbUdFdy1QWm5lOUFxYzBSU0ZWMnczRUF6c0c2RGl1OHlPbTdRQl8waEFIQ3ZYSkplNVE5Vld4a1dEY2IyT0JrcVZkMDdvM1liSF9sSmNKWmctdmstR093?oc=5",
-   "time": "2026-10-15T23:04:55+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "Indonesia ready to accept foreign firefighting assistance on haze, says Foreign Minister",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWHJVekNuWDROeDhfZlFsUlA5SkpuWkQ1Q1BwWXk5VTJKeF9JeFFSUlF0MVY4Qml0T3NnN0tRUFpMQXVzN1hHblpjWU5KQTZEUmxFUGVQZExEaDJJVVZjMFdzbEMtY2pkZ2ttcTF1YVNjLXN5cW14MVFGc3YwYklWZzM5U0VPLWVHaHJheldGaExLdEk0ZVBHRHNxSnA3bXphQUxXUTZFalF0WHNjNmR0TEZmYkF3bmNIUkJjRnZ0dUNjZEF1aXhMWnBqdjRzM0E?oc=5",
-   "time": "2026-10-15T23:02:00+08:00",
    "summary": ""
   }
  ]
