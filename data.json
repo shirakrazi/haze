@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-15T08:00:00+08:00",
+ "updated": "2026-10-15T09:00:00+08:00",
  "psi": {
-  "west": 207,
-  "east": 170,
-  "central": 184,
-  "south": 157,
+  "west": 208,
+  "east": 171,
+  "central": 185,
+  "south": 158,
   "north": 125
  },
  "pm25": {
-  "west": 99,
-  "east": 77,
-  "central": 84,
-  "south": 80,
-  "north": 60
+  "west": 104,
+  "east": 92,
+  "central": 133,
+  "south": 107,
+  "north": 67
  },
  "hist": [
-  {
-   "t": "2026-10-12T13:00:00+08:00",
-   "psi": {
-    "west": 147,
-    "east": 133,
-    "central": 147,
-    "south": 115,
-    "north": 104
-   }
-  },
   {
    "t": "2026-10-12T17:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 157,
     "north": 125
    }
+  },
+  {
+   "t": "2026-10-15T09:00:00+08:00",
+   "psi": {
+    "west": 208,
+    "east": 171,
+    "central": 185,
+    "south": 158,
+    "north": 125
+   }
   }
  ],
- "newsUpdated": "2026-10-15T08:07:47+08:00",
+ "newsUpdated": "2026-10-15T09:07:15+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Asia News Network",
+   "title": "Regional fallout grows as Indonesia rejects national disaster status over transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWRVc0htSzhMODlxZFY3dWhnYm1aOWhjNFdjdHRCenZNOEFVWlk2NVZUemdrNllxVGNLRzFlLTNRR0MzcnZqQkZzWW92TDd1b2ZWUjJwWXJVblJVaExUUFl6R2ctZy1oVnZfYUZfa0MxZFZiODhBM0dyOTl3N0VxRzM2YXNuQXFmMnFEMHdQcEVTSkcxckpVdmVvQTJOU2l2Tzc1aVVQdU9keGQwTm14a1gtRG5zOGVfT2c?oc=5",
+   "time": "2026-10-15T08:51:12+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Vibes",
+   "title": "Haze worsens as 34 monitoring stations record unhealthy air quality",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjNEcWJsYVA1UjRJdTV2NWRzb3JoRHRCR1c4TWhCeUtKLXZ0VUdNQTV3QWphX0NUN1hSTTFJQVgwejdXd2Uxc3VTYkRVaHpDNWs4UWZsUmI3bWZzUG5RSWlic1l1eGpsN0lkNS14QmpfVkx3dTI0UjFtU05kbzMtVTNwWFJyOUpGTTNFOFpmRHBDcWlNeDhSY2UwMlBzVWxGTVNQY2JkVFZ5bkxnaEFid3llNA?oc=5",
+   "time": "2026-10-15T08:22:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne",
+   "title": "Thundery showers with gusty winds over 3 regions in Singapore amid worsened haze",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0I0WmMzc0xrRTZGekZuVlUyXzZaaGJlaXNhZWQtcGZqeHYtOW5ZaHNiSFF5bU1UUFN1dVVKaWU0NkFxa1R2RFJUeXU0RGRNWVltZnphWF9qVU5ONmx0MFVuMkl0TkZtLWRITkVEV2dRU1cwRVhaazh5WDlvQTU0TVJWUGotempGaElnYXNuY01CUW5IN01RY3Y4M2JKT1BMLW16VzRUNHBWUQ?oc=5",
+   "time": "2026-10-15T08:15:06+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: PM2.5 readings elevated in all regions; air quality remains very unhealthy in west",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdW94U0dOVGVtZllXUXdabFNqM1BDdFF5bWZOcG9peTBNV0FMWjJHMmlhRkRMLUxQcjF2X213QjdvMVRrYWhPUS13ZTgtbDQ1ZUg5LWZwQVBQVDZqeWQ0NzdNMGxCdHVXNFFGblhpNDQ3dF9PYzlQU0tqaElocndCQlRmS0ZjRThVbGZhbGdkbVk?oc=5",
+   "time": "2026-10-15T08:10:11+08:00",
+   "summary": ""
   },
   {
    "source": "The Star",
@@ -567,34 +595,6 @@
    "title": "Forum: Indonesia must take responsibility for policing its own backyard on haze",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY1M3bDJHR1MzVlZ3QlYtbE1LUFhnLTJEZTZiX1dfM3JKS1JKemlXMFZEckZRMEV1OGNJNkxzenZYWUd5eHZuSFpCRE1ZS2NtdDhpcmxVODdPR1EzR3hrdTNEcWpmNS00d3F2dkRkcEZZSjhBQlpxem9uRGJkWG1qdFlOR3ZBak1GTS0zVWxEWDkyV1ZxbWQ1YnVJRnRSeWs2NHItRk5uV3B0dlVhM0xudE9pZ2hSdTRSb0ZHRXI2SmpxY21sN3BidkswMHlHTWlpYnc?oc=5",
    "time": "2026-10-15T05:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze worsens as hourly PM2.5 hits 288 in west, highest since 2015",
-   "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOV1l6U2t1UVIyenJ3Qjc0b19jMDFLOF9qYlZjN08yTi1pVWhHS2IwWkx5U29EdUhRU241OE1LWGU0SEVtQzhFakcycjhHcGQyX25OemZiMXZjRzN6ZUZySmxCMU5vOHdvZGw0aUhoQl9RdUwwYVk2aEpkeVlKRGR1SEtzV1c0UkYzZW4ydHdPbElfSGdzQkFGdzg2bDNTakhtSzRPS0dYU3hVTEdSSkdYdlB5Q0xtaWFwWTNyVHE5Yk8wZFdUQWpmSHdwM0pxWlctazV3U1pxRElVeTltVVdfSl8tRnpjMlNkMGlxcURqYVBESnIxR2JYeEtYaDB4MFZfNkxkUmRhelY4cFlpUjZid2FXcW9SVUd1djY2Tzk2NkpEaUp1OEJLcDA1eTd3Q3J6SGJzLVI1NVBfTTVnQldkVVI3b3dwb0dxYkNmRUwyeFF6SUxnYXdGYmE0a1cwUlVsbVRkNTJhdlhWZ3ZfeVE?oc=5",
-   "time": "2026-10-15T02:15:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Manila Times",
-   "title": "Haze worsens air quality in Singapore, East Timor",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSm1XSm5wTldZUGJmSDB4UGk2bDdwc0lWc1RRRjBDSTRUS0dwX1dBTWlWaHl2UzJRbExVNnpDd1hSZXlmOG9MeGhXU3FueWhqOTdkTkJHa3ZFMXZzVGtSVkx4aW93N2VxOTZadlRQWWFIZzgyTVZwNkJHQlJVRXNiOFc1clc5ZF9nWENPOC1aYkw0QXpPN080Z3pWRTZHMHpWTTRwMzZhZ3NfZWhNMU85a29CYnDSAboBQVVfeXFMTVJxeXY0TXZrakdYUXh1Y3JYdjNkTDY1SEROX2luaEFPUjdYWGgxalBOSTNFc0taOU14bkVRekVNbUU2eFotWHZBckg4d3h1NFZZTlhkVEtRMXJxMWFEUEZxNDlYQlRSMzBuWG84TDBXQXgzTFhEZlFxWGpYWDVYUzhsTzFjeXdENHhpQ1pRRWg1UlZRVHMxOWRVRy16TktFSkhDYng1NzA3YmZ5b3BHcmdvTUFxdmxSTHlR?oc=5",
-   "time": "2026-10-15T00:06:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Facebook",
-   "title": "A thick orange haze blanketed Kalimantan, Indonesia on Wednesday, Oct. 14, as ongoing forest fires continued to burn in the province. Eyewitness video showed the sky glowing orange. Indonesia's ISPU air pollution index exceeded 1,200, Environment Minis",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcS02ZlBqRnktcnQ3eEtNZ3UwZHBFTmlELUJMYm9meFo3SV9vNm1ndXpLVXd2NlFaMXNMRDk0ZWJJX1dybF85Q0VoenR6dHgwX3U2TWctQ010VTdZOV9DcExMUEltNEYxN3lsaTRLRHM5dXRVS2FHYWxaaFZveDIzdWF1ZGNObnlqMWppelZzU3lhZ1dOYU5Ddk9pSWViLW5MamNkSGNGTXdXN2hSQmwwLU9tT1pHcy10ZGllNXRXNjAwV3BxMjEyT1l2UUZwemtqQ2l6Qg?oc=5",
-   "time": "2026-10-14T23:25:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Firefly cancels Subang-Singapore flights until Oct 16 amid haze",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeXc3ZXBpdm5LTEtoempyNnhpU1prQVZhUmhiWnhLTUJmdXJuanZ2NFA2TGdHa01HQWZmajlDaXc3eVZUT1B0akd5RTMxWk5NS2VOQUMxTVJuUTJSeXdmQm5wRnFSenh0SGFqSTJDVEQ5OGhsYzV4S3Rnamh1SEhzUW4yYngxQk5hekNOZUlmWnB1MkVmRm1GVlRRajNwNkNXaUlRYlJWanVydFRVNERkMGNUTDZIVHFsakVrVkJHczVsdE9BaEJB0gG6AUFVX3lxTE96M1JkbF9BT0Jpd0t3Q09RX09VQWllU0FkbnUtTTFBd3d0d3hiaVhDay1MRXZUV19iOUxqYTRhVEVoS2lNNWRvSGgyak9Ma3ZOOGZCMmozbkF1dzdUSFgyUzZUM2NFS2lKTXZBMW5iYVdNSEhhV1IxMlZ4NHY1RlRveG9DMmt3WDJmVjRmcFNnR1dMVU9tekY4TThNZ1ludi1tUGpNeHQ3RGJBLXRXMEpDeHJIU0V0M2w2Zw?oc=5",
-   "time": "2026-10-14T23:23:50+08:00",
    "summary": ""
   }
  ]
