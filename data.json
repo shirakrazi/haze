@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-15T10:00:00+08:00",
+ "updated": "2026-10-15T11:00:00+08:00",
  "psi": {
-  "west": 209,
-  "east": 171,
-  "central": 189,
-  "south": 161,
-  "north": 126
+  "west": 211,
+  "east": 170,
+  "central": 193,
+  "south": 163,
+  "north": 127
  },
  "pm25": {
-  "west": 130,
-  "east": 114,
-  "central": 197,
-  "south": 135,
-  "north": 76
+  "west": 161,
+  "east": 108,
+  "central": 182,
+  "south": 156,
+  "north": 89
  },
  "hist": [
-  {
-   "t": "2026-10-12T18:00:00+08:00",
-   "psi": {
-    "west": 153,
-    "east": 139,
-    "central": 154,
-    "south": 121,
-    "north": 116
-   }
-  },
   {
    "t": "2026-10-12T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 161,
     "north": 126
    }
+  },
+  {
+   "t": "2026-10-15T11:00:00+08:00",
+   "psi": {
+    "west": 211,
+    "east": 170,
+    "central": 193,
+    "south": 163,
+    "north": 127
+   }
   }
  ],
- "newsUpdated": "2026-10-15T10:07:13+08:00",
+ "newsUpdated": "2026-10-15T11:07:04+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "Indonesia Names Over 200 People, Nine Firms as Suspects as Haze Worsens",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWZpSXhHN01ORG9aYUhRQ2FDOE5Oc0VaYUZ1R29MR1Vvb0ViUE5jMEJITzNkZ0U5N3Z3blIxdWd4T1pmanUyNDAtUkp3MmlxLUY3bWt0Uk9MTmduWlFJZkVUQXhLYVhDUV9lUWhndGF1dUlOU214QWNDT1NuN1Nfa29vMXhwSThGci1pRzFmUUlzd2t2a2FIamFxM2J4U3hBbzM0ZDBn?oc=5",
+   "time": "2026-10-15T10:53:34+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Motorist Singapore",
+   "title": "My F1 trial by fire - Sepang’s heat and Marina Bay’s haze. | Articles",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORlBsRUVub3NRUlFja0ZkUmdRUGJFemMxTTgyUWdDckFya3FQd1RBRnIwSXlObXRKanRUcGdMNHFQNFJtZlhMYjcwTXJsV05kYi12ZUJPOHhxY1N6enlUZkNIUi1oV20wcXZwMUVybF9TOFNsVjFkNDVlREVLSE42bi0zQ1lrc1lLVlA0Q0V2T0F2SjJuZ1RZ?oc=5",
+   "time": "2026-10-15T10:53:02+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Malaysia raises the threshold for haze-related school closures",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVlSTTU2OWdBT2xaUS1CVE1WQ3RQdllLYUhiZFkxS2luSG1KckNoY1FlaERqUzNKSFJnN3ppWWRDMVJ5U1pIVGJEN2RNb0hLSWloNGFUR2IxdF94bXVhdS1mcFhyTW1UODFYdEJubHhiejdZUFluenZxdklET0VnUkNUd3JCVjNfOWhrOFFtQXozWmN4cEE?oc=5",
+   "time": "2026-10-15T10:26:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "www.tabla.com.sg",
+   "title": "Masks Being Distributed As Haze Worsens",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWm9haFFMTnZ0d0d5dFRQQVFmVnQ0ZXd6cV85UmFudEl0NlpVMnR4a3I1dkNYQVNSVWFldHpnaUdlY2hCTHpHblFubWQ2elNXWno1ZzYzNGVveVJTejVWakQyOE9MOEhnMzBzc2ppdkI5Zm1pU1pTSFlpSU5yMy1KcTZB?oc=5",
+   "time": "2026-10-15T10:24:16+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Stomp",
+   "title": "PSI in western part of Singapore hits 208, a new high this haze season",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVFwcHdpaU84Rkt3OEhNV0RqQkVjaE53VThIRWx5ZmduR1lqcnlLWFBGdXpnbkNsMXZQeUtWejFRWWJXVmZ3VlV6b2QyNTVleVBqQ0Y5ZE5CRmVnaGxLQ3FUaE1GVXlUbnhrVVVkNTR3ejVlRllkUlQ3S1VOb2owZ0s2TkI5cEdBN0MzT2xKdW9DM3Z6dmNDNktYWDlsQk43RnptUGpocGNqMmJxUGhNTEd3?oc=5",
+   "time": "2026-10-15T10:09:40+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne",
@@ -535,6 +570,13 @@
    "summary": ""
   },
   {
+   "source": "Malay Mail",
+   "title": "Choking haze sweeps Malaysia: 34 stations unhealthy, zero stations record good air",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYzg4cDMxcE9pTk52bnhBQm1WRFFNV29ob2JmVGdwV0F2X242WThTdDJEbFJoRVU2SjhZX0lxd0tjdm9xZUUtbGF3Q0hoZDk3cGRmbzJuN29DVTlSRTI0TlAwU0d0N0lUeEZrZGxsUGtGVTQ3aUVXSzNhU1R3RXhSUTlMaHFFQ09TVktIX3VWbW5FOW1OcVVoZUszcUtWLVRTRjltdXdycnhOTkxvcWVDVjVOX2FRMmhCMUZvN1dITlM5VWhaTmZFbXFrTnZyWDhaZTNhRNIB2gFBVV95cUxNTVg5TUg4emNMWFhPRGZtVWdJUHEwdS1PRWVkRk5zM2RyblJOeGpEQUxfLXc1X1NhRFdfaU9mZEY0OGlSWWFxbWVkV3VXS3ktblV0TUZJeEZlWHJsRnFMTTZkM3JZNzQ0a01ZTEdBOVdqZUp6eDFMOFQtMkpIVHNhLTNxUHJjUHlCZWJzSHhqV0NFcTBjT1VnY2ZNa2RrTFZYM0R1SkNiczY4Z0oycEdWWUoweGMxc3l3UEJ4NXpWMFh2TnRObmtfVFhOSlBLOEE3cmUxMWZmY0NEZw?oc=5",
+   "time": "2026-10-15T09:45:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "China Daily Global Edition",
    "title": "Haze hangs heavy",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmpXNG1OMFFSUFZWZVFFZEViTkZ6MEVGbHF0ZWJkMmZLZW5DZm10WEhFU1lxQ1NlSlBjWC1FOE5SVzNVS1lCaUJVd1otUG92NzJfeHpXREtWdEVON0ttZzdNWHlkSHFGYVlIeDBsNU1PV1Y4NDVyZDNHMGczYTZGYk93?oc=5",
@@ -553,48 +595,6 @@
    "title": "Singapore Haze Disrupts Businesses and Outdoor Workers as Demand for Masks Surges",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLU9HV2Y4Z1MxWjF4cFFCR254X1BDb0FrcWNfaGd5dFhNWEJtRGRReWl2SlpxREI0WXk0dlZTcWg1Xy1DcWJsNE0wUXBvR2RZdGRBOG4yV1BMdzF3ZVhhWlNmYTlyY3JHNWMtQUhBR1RGeUJxM011OEltNTVyUDJvT3pJMTAyeU42QXBDaGh5NlBkTGV2U1VYaTNYdGFkYXAtS0NpUm1mb1M2WldPZHQwcGNhelQ?oc=5",
    "time": "2026-10-15T09:08:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Asia News Network",
-   "title": "Regional fallout grows as Indonesia rejects national disaster status over transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWRVc0htSzhMODlxZFY3dWhnYm1aOWhjNFdjdHRCenZNOEFVWlk2NVZUemdrNllxVGNLRzFlLTNRR0MzcnZqQkZzWW92TDd1b2ZWUjJwWXJVblJVaExUUFl6R2ctZy1oVnZfYUZfa0MxZFZiODhBM0dyOTl3N0VxRzM2YXNuQXFmMnFEMHdQcEVTSkcxckpVdmVvQTJOU2l2Tzc1aVVQdU9keGQwTm14a1gtRG5zOGVfT2c?oc=5",
-   "time": "2026-10-15T08:51:12+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Vibes",
-   "title": "Haze worsens as 34 monitoring stations record unhealthy air quality",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjNEcWJsYVA1UjRJdTV2NWRzb3JoRHRCR1c4TWhCeUtKLXZ0VUdNQTV3QWphX0NUN1hSTTFJQVgwejdXd2Uxc3VTYkRVaHpDNWs4UWZsUmI3bWZzUG5RSWlic1l1eGpsN0lkNS14QmpfVkx3dTI0UjFtU05kbzMtVTNwWFJyOUpGTTNFOFpmRHBDcWlNeDhSY2UwMlBzVWxGTVNQY2JkVFZ5bkxnaEFid3llNA?oc=5",
-   "time": "2026-10-15T08:22:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "Thundery showers with gusty winds over 3 regions in Singapore amid worsened haze",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0I0WmMzc0xrRTZGekZuVlUyXzZaaGJlaXNhZWQtcGZqeHYtOW5ZaHNiSFF5bU1UUFN1dVVKaWU0NkFxa1R2RFJUeXU0RGRNWVltZnphWF9qVU5ONmx0MFVuMkl0TkZtLWRITkVEV2dRU1cwRVhaazh5WDlvQTU0TVJWUGotempGaElnYXNuY01CUW5IN01RY3Y4M2JKT1BMLW16VzRUNHBWUQ?oc=5",
-   "time": "2026-10-15T08:15:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: PM2.5 readings elevated in all regions; air quality remains very unhealthy in west",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdW94U0dOVGVtZllXUXdabFNqM1BDdFF5bWZOcG9peTBNV0FMWjJHMmlhRkRMLUxQcjF2X213QjdvMVRrYWhPUS13ZTgtbDQ1ZUg5LWZwQVBQVDZqeWQ0NzdNMGxCdHVXNFFGblhpNDQ3dF9PYzlQU0tqaElocndCQlRmS0ZjRThVbGZhbGdkbVk?oc=5",
-   "time": "2026-10-15T08:10:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "www.planb.sg",
-   "title": "Netizens Question Singapore's PSI 300 School Closure Threshold as Malaysia Shuts Schools Amid Haze",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT25qSHhkbTNjWkd4Y196SnM4aWNoRkV4OGl3S2gtUVdBd0tGNVU5NmVPWjdKTTZLMzNjYkZyN0lUWFQwb0YySE5tUlcwaTRSQ2lIZEJESWpHYXRtWVFoNWxIVlBWbUxzbDI5VEZpdFZiZzJrQ1FaU0JybU1pMm9XWG55ZUJHdTYyeEh2dzFiOUt1bmhtUFZhZm9VNmhpejgyWDFoaVpyNUZKYjJGU29NQzhnMDhfc0JfLWRGQlY3dVl6QQ?oc=5",
-   "time": "2026-10-15T08:04:03+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Joint action to tackle haze",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbXBQbGx1elc0Z1h1RzhXVlBPOHpHZzV4S0lieS1LVHVaSEVEeUtXalppZjF1Y3Z6NlJvQWRTYTNHYkYwOW9RLThLTUlKYnFtTkVPZTI1RWxrX1hmSk82OXprQkN2VWtXU2lsQ3laMno1YVhIeklHVlJqSmtEZGFmMHhLOA?oc=5",
-   "time": "2026-10-15T07:50:37+08:00",
    "summary": ""
   }
  ]
