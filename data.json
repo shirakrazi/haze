@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-16T16:00:00+08:00",
+ "updated": "2026-10-16T17:00:00+08:00",
  "psi": {
   "west": 205,
-  "east": 204,
-  "central": 229,
+  "east": 203,
+  "central": 227,
   "south": 183,
-  "north": 159
+  "north": 160
  },
  "pm25": {
-  "west": 157,
-  "east": 135,
-  "central": 174,
-  "south": 89,
-  "north": 127
+  "west": 147,
+  "east": 136,
+  "central": 166,
+  "south": 159,
+  "north": 125
  },
  "hist": [
-  {
-   "t": "2026-10-14T06:00:00+08:00",
-   "psi": {
-    "west": 145,
-    "east": 142,
-    "central": 143,
-    "south": 123,
-    "north": 107
-   }
-  },
   {
    "t": "2026-10-14T07:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 183,
     "north": 159
    }
+  },
+  {
+   "t": "2026-10-16T17:00:00+08:00",
+   "psi": {
+    "west": 205,
+    "east": 203,
+    "central": 227,
+    "south": 183,
+    "north": 160
+   }
   }
  ],
- "newsUpdated": "2026-10-16T16:07:34+08:00",
+ "newsUpdated": "2026-10-16T17:30:23+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,55 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze: Fires in Indonesia are outside Malaysian firms’ areas, says minister",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWhGMWsxdjVmOFB2eTFVeW1OVy1ZUXdaNzF5SGU1TWFwbk13Y3VOMnhoWHdxSUdlcW1BNEtTSE5iZzAzTVhwd2pGOEpHYVc1ckRraEtrdXN4YVJfTFlPV193aFdqRmh4NGhaSV9WYlZXV2xwQ1poWHFsRTFIWnY2enNjZ1pHNWdOVWtWX0xUb1RwMXVnREsxMzhYaU1WcGh6VFVmRDB4Y1R0Wnlxak9LQUo1Yw?oc=5",
+   "time": "2026-10-16T17:14:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Malaysia’s fury rises as Indonesian haze shuts schools, blankets region, and sparks calls for accountability",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTnVrNHRnUTNKV0dIYlJzRURwSm51RG53NnJEWUhtc3JRdjFoYXRqSUVGZlpNeEttX3VObHVwTGY2MVhDYVBrVzk4eDlLRktaUFhDS25wSlZibm5haXJiZ3AxYmRvbVBwUGZOMklRTW9uWkpvZTBnU2V6QVZ0Uml2YVRpU1FSOFRYU2tjMGxyNkNab2d4MjFpb0pIc1N5RWZVbHpmSWVaT2tsN3dJWW1SWVlXY3pjd2VEbW1ZSmU1a2hHdmloajg5d3VDc3ZqTFVGUnlNU2pZMFVLQ1VmQ2ZCY3Z6SktYdlFtTjltVjBLTldKaVh0ZUHSAfsBQVVfeXFMTTdvdHd4MVBCNEV6UUY5X0p6Z3EzS1Q5bFdXcTJkSzl4UDF3VmwxeURwemlaSFo3VVpEM2NIRzAtNURMQXRQZE9tdnRPSnZfdGtZMG9WbzhQaFVYUWxTWDhCeHZMeGFqa084QUVDcnVyY0M4TjVSZzZpWTk2SmVKMTZCeFRkNlZGVUM5SGkxeEpMdnZUMnBEcDJuY2Y3Z2thUXRuVnhDZ0JmTE5MNmNkd1hKR1NtTGZwZjdjN2txRGVMblEyWld2TEt0WWVza1JHR2hyMGJ4MHhvS0tmUHFNMWJqdi1fSFM5Qjc4LXkzS1B3VURIQVk3a0pWalU?oc=5",
+   "time": "2026-10-16T16:50:15+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yahoo News Singapore",
+   "title": "Four killed battling Indonesia fires as toxic haze cloaks region",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSEt3OWlKWDF0NV9TdjJlby15cmVfZXVqSTVOb01Jd09UU0lhaXhlaktqSm9Ybm5QOEVySjNFUHRGXzBtUFhwM3NrZGU5LUdPc25YckcyR0tmVjNwWGFMZmdpNWZfbm1ITHpJRzVpaUVrWEI0RlN6MkVnYW13RkpXdG5SOA?oc=5",
+   "time": "2026-10-16T16:49:45+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Guardian",
+   "title": "‘Clean air is not a favour’: Indonesia’s neighbours fed up with acrid haze as Singapore threatens to prosecute",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlZKeFZxV194UW5xaF9rZWQ1ZGVuaEJuTnEtbFV0OFhYY1lscjhBc3d1c2YtdkVpY29TcDY5dHhQb3pZN2tpVDNvb3dOYWJaWWkzeTJuVFBYUGZTV3dhZDIySG9mMXp2b2hxMS1ING4yT2lqNUF3ajJscFdhdElUTW8wOVJESklyMk5TQ1RrYWxTdVU5UXM1ZWRxam5NSDMwZXhjdzJ2Zm1VLTVk?oc=5",
+   "time": "2026-10-16T16:35:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "RFI",
+   "title": "In Malaysia, frustration grows over Indonesia haze",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSEdqUVRLZjJzZXd1WFBvYUpoSkQzb0pJSlhDOHFqVERrNVhaQ01QbG5mb0lEZ1dNb2l5Vm9fdERWcVEySnJIZDJrenBYMkJ1RFZ6QmJiTHBRM2JHWU1yczdnM3RZS1pLSXJkRklpUFN1eWdGVVhFd0V3Zk0xQWdPaDNMOFpaRW5VVG9BLURDTkU1S1lwUU9wRUtFU3hlcjZu?oc=5",
+   "time": "2026-10-16T16:24:02+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Haze: Fires in Indonesia are outside Malaysian firms' areas, says Fahmi",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXQtZ19XcGVNLThKTUkwOUJzRjNEaTEtbkVIbzgtRUFKVVhEdndXazBwTUZwMm5RTmRKNEpJQ0NzU0dzN0ViTXpvVU9LUE4ydHpBbHhuUm1uc0F5UzhVVFpoeDNONWxTYXZKZ1NGY1JzeFFtZDFnemQ5Snd2ekJieS1DOWRadFdUQ09KeEY2UzF5ODR6UU1FOUI2YnhOU2xadlBleWNlWlFoTFNNendRLUNrSVltVDlGTkY0WUh3?oc=5",
+   "time": "2026-10-16T16:17:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore-listed First Resources points to El Nino, says haze-linked fires were outside its operations",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTXNDSmFpMjJzSVhVTGpkMzNwNGFFeUhWV2VXV1RlRDBBTGk3a0VpS3luUGhxOG9GYUIzY2hNdXpZUnBKTHkwRHd0NFJqNDBWWWZtSzR5dHZNTFJQcWZaUk1iRDV3ZWRHRlVMUS1CV21iekpEQzVMVjB1TlJQSTJTV2VDTUV5a3F0RzhqcEt1TjduQQ?oc=5",
+   "time": "2026-10-16T16:11:07+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -518,6 +567,13 @@
    "title": "Indonesia’s fire crisis underscores need for stronger Asean action on haze — analysts",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVMklvZ21QczgwQ1Vkdmxma1NQa2xoQmJ0MWRsb2hIaUhuN001LXhVbXUweW1wZ1RzSmdqRm9tOGM4VUpaVWFKby16SkdtRi1U?oc=5",
    "time": "2026-10-16T15:46:54+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Anwar to chair special meeting on haze on Monday",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ00zbFZlWjI4UEp3RGEtcVZMU0EzeXN2WDd5ZjBzZ1pCakpxaEhhaVlyUjdwVUxtNzd5SnBGY2pFMGl2NmEyS0p5SmJEaUlDWlFEazl6M0FyUVZnMXpqbGttVk1GYW92UHo2c0RsMFBFVXN6ZmxRaVFBNUl5UHAxallsX21NNFZqTVpiVldDV3UtWTNGQm5sRkVR0gGaAUFVX3lxTFBDTTNsVmVaMjhQSndEYS1xVkxTQTN5c3ZYN3lmMHNnWkJqSnFoSGFpWXJSN3BVTG03N3lKcEZjakUwaXY2YTJLSnlKYkRpSUNaUURrOXozQXJRVmcxempsa21WTUZhb3ZQejZzRGwwUEVVc3pmbFFpUUE1SXlQcDFqWWxfbU00VmpNWmJWV0NXdS1ZM0ZCbmxGRVE?oc=5",
+   "time": "2026-10-16T15:45:48+08:00",
    "summary": ""
   },
   {
@@ -539,62 +595,6 @@
    "title": "‘Johor is gone’: Marsiling resident can’t see M’sia from 20th-floor flat amid thick haze",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOckxYc2hheElEdWxDNHY4cVJMa3M1VS1FQ2RUQVF3bFUwZTZsMXEwb2lQbzJDX2hjbkxhc0F0SmY2RDZld2swSlJ2SUdnNXFvUHlJTEd3NWoxZTVoc0JkekJDZXVYSHE4UmtxTlRjdVRTQ09rbGdhNEsxOFNodm5qVGFKazU2aFNseHpLZnd6cEZST09vRTRQWm80a0ctY3VSWEllM0pBeVFxUUstVFlTdA?oc=5",
    "time": "2026-10-16T15:17:47+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Human Resources Director",
-   "title": "Haze in Singapore puts employers’ duty of care to the test",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUzdNbktQY0UtVW5BU0laa0xFdDZlUzJoWFFRTjY0ZUd6NGZRbW5lbzFrN1lYcnkzLWdPTFVDUWRkR2FmUkxLUlI5RmJjYlRfNkdtdnBhcGgzZEtvNW8wc3dmd2lyejZPZmpseXU5SEdvWkxOZ2p5Rk5fUlJjTjRuWERucWJJTWo4Y3JGcC0wR2M3ZjJkRk9ZTGZmcjZteHF1YlI4aDFKUEpqZXNWX3c0ajBzMUY4ME1yRzRsMEJTMHd4VlQ4UXpUUk1zM013MDBB?oc=5",
-   "time": "2026-10-16T15:15:24+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "No lessons, no pay: Sports coaches hit by haze cancellations, facility closures",
-   "url": "https://www.channelnewsasia.com/singapore/haze-sports-coaches-activesg-facilities-closure-6464996",
-   "time": "2026-10-16T15:12:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Haze: Forecast of forest fires in Indonesia and PM2.5 levels on Oct 16",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3JSRGFRNU5nWHlkc25SRE9LQVIwREJ6Z0ViYzJMczVPZjVjMHZfaUJjbnBJVGtGbFFPMHhwVGdVWGpVd2pTWkJ5Yk80UHNoT2RaNTVDazZVejVvZFBYRWpWLVVvRmxXYmpmSWxLaFhwcGY1My01Y19qd3ZKbW1yak1HN0NOTW9uRnM0YTdxenJXQnVUQV9aRVVrQ25Wa1hrY2cxR0hpNWZWM3JZMmc?oc=5",
-   "time": "2026-10-16T15:08:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "#SHOWBIZ: Jaspers Lai mocks haze with parody song: 'You've turned my home into Genting'",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRXd5bnhFRTlmb3hhS0VPV0d1VnM1UDZHOTRiRjRTckZZU2ltbDNFcGNWdFJlZ1JrYUpwR0g1SkdscE93bk1XMXRXa0trVDBHRmpacWtIQVJZMWw3aGRfalV3ODZ0cUFRX3RSeDNOYno1RkU4Q3VmN0ppN3E0aGJGQUh2ZXVUMzEyaDRMY0hKYmJTcVJram5ncnVmNEVQZHo3ajhVdTFpZnJxRWZzY2xKbTJrbUJTNFhVT3BLZGh0anTSAcABQVVfeXFMUEV3eW54RUU5Zm94YUtFT1dHdVZzNVA2Rzk0YkY0U3JGWVNpbWwzRXBjVnRSZWdSa2FKcEdINUpHbHBPd25NVzF0V2tLa1QwR0ZqWnFrSEFSWTFsN2hkX2pVdzg2dHFBUV90UngzTmJ6NUZFOEN1ZjdKaTdxNGhiRkFIdmV1VDMxMmg0TGNISmJiU3FSa2puZ3J1ZjRFUGR6N2o4VXUxaWZycUVmc2NsSm0ya21CUzRYVU9wS2RodGp0?oc=5",
-   "time": "2026-10-16T15:00:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "In Johor Baru, theatre give voice to communities living under the haze",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMHpxWEdvWEFYWnBUSzFCQU9md09WeUsycHZteWFCVzBKak9faUJqTVpuMHhWMEhhdmNGY0tUMjdMdnI2NWYxX3JZVE9Xa1Bhc2FCRzVSUGIzNF8wX1Y3SEhqQzBObmN3T2RwQzlmWlZlZDJ4bnd5ZHlwWjBad3JVX3g5XzJqakZDbTdwOW1NWVFDLUZxSlVPYTFfeGROSmRHS01tMWJGWVZWMVNzUWgyTTNOS0gxbTAyV3RkaXp3RXZmODA?oc=5",
-   "time": "2026-10-16T15:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Singapore residents concerned as haze turns rainwater grey",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVXEyRVA2ZEc2Q2tMRDVRM1hYVDZjU1h5ZnFBSldEYU5ZcTR3bHpCeTNEWnBvVVpyLWpXeVVoNWthX1BQUW5GUmJwUjRsNVdnQ0UtV1gzT0lyZ0h1T2JWUkNjT2JXTnN4TWVFa29GQ2dWc0oxZ0cwTkc1TGtJTlpuaFZBRkk1YUZXNFFfQUxtMUlPNHhteERGdUtmSmMzckhFa2hzTm1mc2R5Z1pqZ1UwM0k1a3BTNGkx0gG-AUFVX3lxTE5fU2V0VGpsbVd1cVZKXzM2Q1VWYk1oMmUzMjV5blVUMnByMXB2NTgzakttN3RKNUo3dTl1Zkw0NFpzSGItQTg2cmpFLVVHOFFNaG83MV84bFdSU3QyYUYtWEhWTFkxS3Y5S1A5MHZnRWZtT2VXTGc1V2NWaWI1T1QxaTRoU29IVks5Zmw2TVBwRjBjcXlmLUxoLUtoWVF3QlI3b3pqa0dsSkxJSzdJdXM0eTNNejdwNXpTUkRjVVE?oc=5",
-   "time": "2026-10-16T14:44:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Keeping the haze out: Malls shut automated doors, suspend outdoor activities",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWlFSzB4aGZyRjlkdm9QMGZxczhNbmk5V3BLRGxqcFlkWTU2Y1k5V0d6VGhlVllBeU5FbUlJRzVqc2oxcGNRcmg2OU1fTzlJWThDNG10S1plazlSN1RnMW91WVpfX1hGZWowNWV3NGwyc1BRQVBCX3dNb1lnTVZhN0lEOS01dm8wdWN0Skhwb2lieklSMU5uLVNhSlQwUU51YnlhRFpXV1FveGFlRnIxczRB?oc=5",
-   "time": "2026-10-16T14:40:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Human Resources Online",
-   "title": "MOE Malaysia postpones next week's UASA examinations amid ongoing haze",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOXzBCcW04VG5BX1dmMThDM3Zxd3o5ZG1UUUs5TEJvUnBlZ1g0aWpWSjFVYVM2RHRoZ1hKblg5dWtpd2RuRlh0Sy1mUFh2YnFXNkdGOGE5VTY3SkU1N3NUaDJHNGJwaFpXaHhqbUZOM1d1eEVULV9vWHVEc24zVXZvR1lYUGkwN3EydHgxUkRpWEFzYy1jaFdnbENZQWJORjhDaFg1LUM1RzhYWk0?oc=5",
-   "time": "2026-10-16T14:38:58+08:00",
    "summary": ""
   }
  ]
