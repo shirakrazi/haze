@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-17T02:00:00+08:00",
+ "updated": "2026-10-17T03:00:00+08:00",
  "psi": {
-  "west": 190,
-  "east": 183,
-  "central": 203,
-  "south": 170,
-  "north": 148
+  "west": 189,
+  "east": 182,
+  "central": 199,
+  "south": 168,
+  "north": 147
  },
  "pm25": {
-  "west": 116,
-  "east": 114,
-  "central": 105,
-  "south": 80,
-  "north": 73
+  "west": 112,
+  "east": 119,
+  "central": 100,
+  "south": 82,
+  "north": 82
  },
  "hist": [
-  {
-   "t": "2026-10-14T20:00:00+08:00",
-   "psi": {
-    "west": 197,
-    "east": 173,
-    "central": 183,
-    "south": 159,
-    "north": 126
-   }
-  },
   {
    "t": "2026-10-14T21:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 170,
     "north": 148
    }
+  },
+  {
+   "t": "2026-10-17T03:00:00+08:00",
+   "psi": {
+    "west": 189,
+    "east": 182,
+    "central": 199,
+    "south": 168,
+    "north": 147
+   }
   }
  ],
- "newsUpdated": "2026-10-17T02:03:16+08:00",
+ "newsUpdated": "2026-10-17T03:08:39+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Indonesia Business Post",
+   "title": "Malaysian lawmaker urges ASEAN to unite against Indonesia over haze crisis",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1pUWUxwc3U2bzIySUdHUm5tRTZmVl9wVFU3RURBVm51TTRKV0xhazcybEtUS3MxbWMwVklhdFJzbUVCanZfbTBtYXZ0R1I5bGpLU011WVRJRzZtanJocV9IbTRIQ1pWU2lGdHJGcG1nTmUzay1mQ0c2LWZRRm11TVhKZXNUUFBjZjBkaEFfanpTX0o4YWE0SnRJLTNLUUFGbDJTcW5VaXNUWVZfVlZiQk1ZcHJzMFc5eUxB?oc=5",
+   "time": "2026-10-17T01:36:27+08:00",
+   "summary": ""
   },
   {
    "source": "Tempo.co English",
@@ -549,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "The Straits Times",
+   "title": "Singapore haze expected to persist ‘for some time’, could reach hazardous levels: Grace Fu",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xLXh3ZDhlM0l2cWlwbW45dm4tZmVVeG9LdDdFVHhtWktsdjBIRE9QV3hzZzZJN0ZJQkh4OVpjY1M0Q04zV2gwdnVRenlzZm54aVpaT29yUnRTblpvZ0E?oc=5",
+   "time": "2026-10-16T22:30:48+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Edge Singapore",
    "title": "RegCo queries SGX-listed Indonesian agri firms on cause and impact of haze",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZFVYR0RTZ1NFMG96MHE2cE5hVklCd1ZRZlYyUElJOTRTczRnVklEYmdNWlpia3BGY195QXNIVHJpRUpqXzZHXzFuNGRQY2FDZ3FnYnlhX0s3OG9vUTRUdkpsdWsxTWpUbnd3bzBWbzNaRldOemFHQnhpLXNGckF6YzdsNWJCb2plMktVSnVkMlItYnRsVGZUcGoxSjFXMWt0clZ2b3Y2N3JWTUVnSmVhdVZIVTZNY0otd1E4T1lYUGo2dHJM?oc=5",
@@ -581,20 +595,6 @@
    "title": "Singapore names seven companies over Indonesia haze fires",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTmZJdnBGZ2IwVmRDZjA2S2JMMmhac0xCUW51T2FiQUtlSkJyN3FpbTFuc0RES0ExeDBhTkNGUC05Vi1XV09JWVVGQ1hfd1RveWh1aHkyTS0yT1A5dDBCeTJYUFpxakd2SDM4T1hfQU5pY01PQUw2RG93bDhyLWkxY0o0Y3RjYU9LVVVUOURaSTAtOW55SUZQbjNWYWV3M0ZGNmQ4?oc=5",
    "time": "2026-10-16T21:30:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze in Malaysia: Schools to close, public gatherings halted if API exceeds 200",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdlZWV08yNXo1dGkwQTYtUlNYQmlLLXBaZUlvbnpJZHJwNkpVbEVFOF9mM0d2OHJ3Wkk4UklDNE12STZZRnlOUElGY3VJcWRPNnBaWFJEVlpab054dEtpbUZXVkkzTUdHVXE3UG93bUhXNFJYNW5nY0xOVzRsbTVyb0ZqSmhOSGJWaHp4eG91eTZCQzMwRDZ0Q3ZhMHJMY2diTFZmOVFHckdFOW9WVjJyT1hKYjFaMHNwT09n?oc=5",
-   "time": "2026-10-16T21:23:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Singapore-listed firm faces Indonesia's probe over suspected land clearing by burning amid haze",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnU0UWpoal8wQ3N1UzF4bGtZb0xHLWFWMUF5c2gzMFVJdkhMM0JnSkhreVVoU2g5SzN0NHZsYi1YRzJLWlB4LXVEekZ6YjEybG5nb1NNNzEtQU40WExwLWVoVHdQUTRuZDBnOURZU2Ezcjkzc3docDRWUWVpTVBZZ2U2a3RrRUdiOEZUd2w0dGxLQUFlTHNtT3FCMVVwTld4Vl93a2hrQjBrbktkTmRDR05OWjNOblM3U0FicnYyVUU3OENpeEFnREtTdHY?oc=5",
-   "time": "2026-10-16T21:15:00+08:00",
    "summary": ""
   }
  ]
