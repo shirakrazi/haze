@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-17T05:00:00+08:00",
+ "updated": "2026-10-17T06:00:00+08:00",
  "psi": {
-  "west": 185,
-  "east": 179,
-  "central": 194,
-  "south": 164,
-  "north": 145
+  "west": 183,
+  "east": 176,
+  "central": 193,
+  "south": 163,
+  "north": 144
  },
  "pm25": {
-  "west": 101,
-  "east": 114,
-  "central": 108,
-  "south": 87,
-  "north": 80
+  "west": 95,
+  "east": 104,
+  "central": 112,
+  "south": 95,
+  "north": 84
  },
  "hist": [
-  {
-   "t": "2026-10-14T23:00:00+08:00",
-   "psi": {
-    "west": 205,
-    "east": 174,
-    "central": 185,
-    "south": 160,
-    "north": 127
-   }
-  },
   {
    "t": "2026-10-15T00:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 164,
     "north": 145
    }
+  },
+  {
+   "t": "2026-10-17T06:00:00+08:00",
+   "psi": {
+    "west": 183,
+    "east": 176,
+    "central": 193,
+    "south": 163,
+    "north": 144
+   }
   }
  ],
- "newsUpdated": "2026-10-17T05:07:50+08:00",
+ "newsUpdated": "2026-10-17T06:07:36+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Legal action by Singapore against haze-causing firms in Indonesia may come with diplomatic implications: Lawyers",
+   "url": "https://www.channelnewsasia.com/singapore/haze-indonesia-diplomatic-implications-legal-action-lawyers-6465511",
+   "time": "2026-10-17T06:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Snap Insight: Protecting Singapore’s outdoor workers from haze is easier said than done",
+   "url": "https://www.channelnewsasia.com/commentary/haze-outdoor-worker-platform-mask-snap-insight-6466426",
+   "time": "2026-10-17T06:00:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -535,24 +549,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore has enough masks to cope with the haze: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRTRaMzJPQ2E4dHRTYmtBaGFLV1dNTHNkcWhKdkRSNlFaSFdjVDJQb2ZvU1hiSkZaX0Q3T0c4WGZQQzhUa0U4TzJ6ODRmSGJBcVN0Mmdkclh3aUdyQldTVTdXbTB6NTVZY3FmWlV4RmxKTUdLWG1reDJLZml3TjBoUlNkWDZiSV9YR3YzVTJ0cVI4LXQxcFE?oc=5",
-   "time": "2026-10-16T22:41:37+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Online Citizen",
    "title": "Twelve years on, Singapore’s haze law has yet to show it can deliver accountability",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNDBYXzdkdTVmSzdRTTk4VWZSRHltdjNNZGRZRkFCSTZvbC1lVENOVGVhbHBsVVZPcG1WUHBvQnJkc2l2a3hKdVNfXzZjZEJvcm1vemZ5UmcwNWsxN2JzWFpZSXFpVlBTY25LRmx0MURBLW5pLVZYa0d1dWVSMjZlQXFpN3hEeW0wdlltRHlTLVBlTG1HMWo5Z1BDeldIT1ZZRW9DN2ZYdkYwZF9VMnJ6eXNORjdBLVBaakdGVXU0Zw?oc=5",
    "time": "2026-10-16T22:38:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Haze in Singapore: Preventive measure notices sent to 7 companies responsible for fires",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzdKaVNvMEExcUxWczhmcWRuXzVUQzVzSWpMakZtQjNBNktoRHNhSDh2Wi1LaFJyVUtReDJNS2dJdm9lTjg4VThNU0JXWWp1dllzTldmY2NzYlJFajBzYmM1bFptNEk1SktSVmlfV0lUR2xoanpvZlNPTThIc3VONWVjczNlNkZIYXpZLVZfQkVfRUFFcGVtZWRNTTRWbUxfN3lnQ1U5dzRURnJGTE1aNklMN0xyTDFkSmJCSkxnNG1YZms?oc=5",
-   "time": "2026-10-16T22:34:41+08:00",
    "summary": ""
   },
   {
