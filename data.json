@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-16T18:00:00+08:00",
+ "updated": "2026-10-16T19:00:00+08:00",
  "psi": {
-  "west": 204,
-  "east": 203,
-  "central": 227,
-  "south": 182,
+  "west": 202,
+  "east": 201,
+  "central": 225,
+  "south": 183,
   "north": 162
  },
  "pm25": {
-  "west": 134,
-  "east": 147,
-  "central": 191,
-  "south": 163,
-  "north": 143
+  "west": 128,
+  "east": 132,
+  "central": 175,
+  "south": 165,
+  "north": 94
  },
  "hist": [
-  {
-   "t": "2026-10-14T08:00:00+08:00",
-   "psi": {
-    "west": 145,
-    "east": 141,
-    "central": 142,
-    "south": 122,
-    "north": 107
-   }
-  },
   {
    "t": "2026-10-14T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 182,
     "north": 162
    }
+  },
+  {
+   "t": "2026-10-16T19:00:00+08:00",
+   "psi": {
+    "west": 202,
+    "east": 201,
+    "central": 225,
+    "south": 183,
+    "north": 162
+   }
   }
  ],
- "newsUpdated": "2026-10-16T18:07:33+08:00",
+ "newsUpdated": "2026-10-16T19:08:28+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,94 +507,94 @@
    "pinned": true
   },
   {
-   "source": "AsiaOne",
-   "title": "Daily roundup: BigBang's Singapore concerts to provide masks, water points amid very unhealthy PSI — and other top stories today",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzBOSmRSeEdKNUJySkdZQnpIM0RBRXBEODVNbHQycG56TV9Cemd5cVNoWWVSUVhZVTVZZXpnZ2RvRGFueUVmSVFrSWd2czZZODh6WlNIdngyWmxORnAxd1Fzd0pwdlZBTkVtdkVhRFUxdTl6d2lnQlprRGh0czNCbEpUQXdCcUZTTFhNQ0UzNXlYX3Zsa1Q4SFZhWFlSZE1TSlo4N1lSenZMRzVGdU5NcWt4cTdmcFpRWEpCVDhWSQ?oc=5",
-   "time": "2026-10-16T18:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Online Citizen",
-   "title": "Haze could reach hazardous levels before inter-monsoon relief, says Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTC1VaERyaXM3dVlpTUw1MS1WaGRfWkloQmQzVklHb3pUUzVxZ0M0RVVxdUI4eVlDUDJiQVJIYXUwZEpDR0lGWUdOQ1RZdnJKTnYtUmFJb1pVbk1rSHFwOXJpV2M1RkNjMXZSV2ZRbll1OEo3WENKZWJ0NVJSdWFXVDJCb0JhU3BqQXIyQTNDdnNBbG1Icnd0MXBaZEQxZVNnbkdPdTk5Zl9UM2ZOZ1NHLWRReVpOOE5KZWRJVA?oc=5",
-   "time": "2026-10-16T17:55:53+08:00",
+   "source": "The Business Times",
+   "title": "Issue 216: Singapore’s multi-fuel bunkering bet; listed companies hazy on haze risk",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUEo4SWtOamZYWi1RX3hHd2hNeTNRRUpWTElFVlg4VHJoNElQTHhabjRRNEQ2NjhNUEJRck9mNFZNckxsakk4MGlPa3V0NGcwb1dlZ3RTQWU3OWtSZFpoTXVVa1FwNU1FSVFlRGd3U202a1Z2Q1VLQmRHSEJvVHRxQlMyTlVnN1ZSYmMwaXJ6Y1pkLUc5LVZKS0EzTFE3SVVORXBJRDJwRFpNalhwREZLQmI3dUYzdFQ1S1NiVkwxOXhnYkhLUFA3VVJoRkx1b3hF?oc=5",
+   "time": "2026-10-16T19:00:00+08:00",
    "summary": ""
   },
   {
    "source": "CNA",
-   "title": "Singapore to send haze prevention notices to 7 companies in Indonesia responsible for fires",
-   "url": "https://www.channelnewsasia.com/singapore/haze-indonesia-companies-fire-grace-fu-6465556",
-   "time": "2026-10-16T17:50:00+08:00",
+   "title": "Singapore outlines haze precautions to protect students and school children",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbVd6VktWeEV3V3NuR1hWamNDY2MyamowbnhQNlIySncza19KYW5XRGRXX0J6dUpDUHp4UjBLXzhFX2x0N1E4ZXZKNHdYZ1J2T01DejRYSFdaY2oxZmxMWmQxQkQ5TWIyeFJLZmp2UGJIcVZRMXhzRV9XQ0dOVUtSbFdVYmdjTlctMXp4eVQtMkZEWkx5YWVfNDJ6RW9LejVNcWJDOGpWb3dMLW1IN1pTajBVeWhSRXV4UElRZV9RcFFFeFQ1NTJqRnRablhDOEg3TzF3SjVxWU9rSzg3aENMbGZMbEV5RGluaGhOaA?oc=5",
+   "time": "2026-10-16T18:56:23+08:00",
    "summary": ""
   },
   {
-   "source": "The Straits Times",
-   "title": "Singapore haze expected to persist ‘for some time’, could reach hazardous levels: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xLXh3ZDhlM0l2cWlwbW45dm4tZmVVeG9LdDdFVHhtWktsdjBIRE9QV3hzZzZJN0ZJQkh4OVpjY1M0Q04zV2gwdnVRenlzZm54aVpaT29yUnRTblpvZ0E?oc=5",
-   "time": "2026-10-16T17:47:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "S'pore will reveal names of 7 companies involved in haze-causing fires: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeUQySEhBSFBwM1hZNzhKOEt0OXNCdTI1QjItRW9NQmFoci1tNFBId3dsVjJEaEJJUFluYkFMS29wVzFaWkhHb1loVk85OGlReDRWUFE2emZuQVJTcjRfc1JRSXpNNVRBQVVlbFEwZENEVVM4SlBtMnQ5SFpETkhYeDc3Q3VWcXdvN2xoYjhycUZNaGZqdHlKeHRn?oc=5",
-   "time": "2026-10-16T17:45:03+08:00",
+   "source": "Anadolu Ajansı",
+   "title": "Indonesia tests dry ice technology to disperse toxic haze from forest fires",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGFteW5LOEEteU5aVkhLOUNSdV9OMUFuOWpOMFF0Ti0yNmZKYTNieTQ2UWVLRlp5VXVpeVdjcmRuVkd5blkxM1JiV0VXNXZaOHkwR0YzMjZZeDk4LUVmZEd3T2dfdzRsdy1EWkNQR0VBeURvZWdWU1E5NVlwWU9zUFIwTVNjTjMyY2gtMXZtYW4tSHpFek5vMXdmeDVXdzB3WXdWWUNOaG12Y2Y1eVZaVzBqME5iTV9n?oc=5",
+   "time": "2026-10-16T18:47:01+08:00",
    "summary": ""
   },
   {
    "source": "CNA",
    "title": "Platform workers should not be penalised for delays during haze: Jasmin Lau",
-   "url": "https://www.channelnewsasia.com/singapore/haze-singapore-indonesia-press-conference-6465216",
-   "time": "2026-10-16T17:44:51+08:00",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNGJjaTNtMlltNVJIZERlQVdXQ2lxY3FMbmFqYjhkZ2dpTDdoaWRONy1ST2FCOVhNR1Fzd0dFQXJoMHVBemFiUHdZUlRMLTBnX1FtdE40aERGNU9vekpqeC1Yc0ZIZ3FXZ09uNWRzX3RYU1ZNOTNDRHoyQm13NkNwZVdabDYtb212eFo1VGN5b0FNRmtfbWNXYVlVQWVDeWtLaGZKV3ItdFV5Y2EwTlBrT2VB?oc=5",
+   "time": "2026-10-16T18:45:01+08:00",
    "summary": ""
   },
   {
-   "source": "The Online Citizen",
-   "title": "Singapore haze: Central region's 24-hour PSI hits 229 at 3pm on 16 October, highest in 2026",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUkZEWUFtR1JCeVllTnVNVU95RExJWlo2M0E1LTM2QVRxUjl6T1lwZ2UydGhqZzU2ZlE2bmFlOG52aVdfd2FMZzZjdTZUNGR4djE2SlRQS3Y2bzVMQ3RZR2E2N2RFZ0tDQ1RsTEtjd2tJak9xZTZUYTJCbGZwT2xETWtTOHZ5Y0d1eFhUb2tqajRpMl9aTGwwSk50THdrMUhzN0VLa1dXUGxFdEFMVExrOWY4UDRZMUFLMGo3UU5RNHItR3lUcmplNUhCblJyQkk?oc=5",
-   "time": "2026-10-16T17:33:46+08:00",
+   "source": "The Star",
+   "title": "Haze: Indonesia decision allowing foreign assistance to tackle forest fires welcome, says Ahmad Zahid",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZm4xTUJvcHhVQjk5UXhNYzlzdWM1QXpBQk9NWmxVTHNubnN2MHJEUXF3am03QlozYkpLc2lLNTl4cjF2RFNqQllYWUZ5MEZjczFUUTRwaVZVeHZKV2pocHB6OVRnNm5JWVNYVm52UkRUMnVXQzdlZ2RYRkpwWHFhTU5fQU82QTB3V01OTmtqY0IySldmeFZiN0FvejlBSk1Ccm5VXzBldmZQeFhlWWZabnFsUk1PUS1tODQ3M3pIZTJlUkhmaDdGSGU5YzVvdUZlYlYwYnAwLVA0anB1d25UR2Qtbw?oc=5",
+   "time": "2026-10-16T18:41:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Haze: Schools must close, public gatherings cancelled if API exceeds 200, says Health Ministry",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc1FMaEZtWDd0d0dpZ29iSHM0YXVDbURIN1ZGLW5hWXB6TEJJSHZjNDdQaGlobEc4bEZUanhSME5sMHFWWlNGYWtHdmM1T1dlU3ZoblpQeEFhNU5fVzRrX1c0SUVieVlKM2VLZlM5LWxTTUluclRBRnF4S3lWcFRiU2hXYnpmdVZmazhSaW5NUlZmOU5UT2Z6WFpKNk50WkYydURidEpCWFY0YmRkb1ppdE41emVfME8yZzZnTGFScEdIQjVNZFhzdGw3VGhZTE4tbmVPUzkwcjk?oc=5",
+   "time": "2026-10-16T18:35:00+08:00",
    "summary": ""
   },
   {
    "source": "CNA",
    "title": "Preschools to remain open even if schools close when haze hits hazardous level: Desmond Lee",
-   "url": "https://www.channelnewsasia.com/singapore/haze-o-level-exam-schools-close-preschools-open-6465126",
-   "time": "2026-10-16T17:33:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "PSI could go over 300 before haze improves once inter-monsoon period starts: Grace Fu",
-   "url": "https://www.straitstimes.com/singapore/psi-could-go-over-300-before-haze-improves-once-inter-monsoon-period-starts-grace-fu",
-   "time": "2026-10-16T17:32:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Schools to stay open despite haze; O-level, A-level exams to proceed next week: Desmond Lee",
-   "url": "https://www.straitstimes.com/singapore/schools-to-stay-open-despite-haze-o-level-a-level-exams-to-proceed-next-week-desmond-lee",
-   "time": "2026-10-16T17:32:08+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "NEA identifies 7 companies responsible for haze fires, will issue notices requiring preventive measures: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdEpRNHN1aV9pNXRFOVNtanVVVEhhN0FQSHUxajNTa0VjaTZNUjhCaFBDdjlIaWN4dDB3MncwMjFfb01rX1p5dFFuMmY1dlJTYWNMY0hrY0tTYXVZamdCRklwZDJvZDhfWnRIcVZRX2pHcHRoSGMxNUhYTmV6OERGYm0zbVFPTXNKUDBJZ1pGSl9BWm5lTGE3V3N3TzVhMHNfZjBJRElfSUdaeEVRRWNKMnRPUkwzZ2Jwd2lBS29FQk5kSXRtaVRyVi03WXpMOFFES0h3RHdYdDE?oc=5",
-   "time": "2026-10-16T17:31:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "NEA identifies 7 firms responsible for haze fires, notices issued urging action: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU2Uzc3dFMkszSUVJckZqZHRRSTdjanU2cG1rM3h6akRybjY5NEN2NVR2bkNvRjMzbG0yQnB4eGswZmJ5c1RveHptVk1aTVFlcG5GUGhENzNwZF9MNE9zVXRhUzF4c3lTaXMtb2ZpX3hkWEtpVFFlMGVFYXA1ZGxqYmhtbWwtYmo2dUJJdGh6LUNGZnJwNkVTcDdjQ1p2cGR0aS1ESWh6NE1KNFZqeU5ObmwwMi1jWUdSVXlOSzYxLVg5NVI1?oc=5",
-   "time": "2026-10-16T17:31:00+08:00",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb2pqSVZmc3c4WVhTS3NuUEhiUXNMWkVrMW5jMGdhb1BlNW0zM0NXOU9sbUJtLThTNXhkQWg4Qk5ZQWtFNXFPVE5Pb0JTSWQxVVhSaW0yMHJRbXpBUDAyZ1RMZEtoWmpoRXlacF9rVHA1R0ZTY1h4cFNncGthSDZaWWZfTi01b3dZakJxajYwVW9aRU1EdXVQWkZxWHJmZw?oc=5",
+   "time": "2026-10-16T18:34:47+08:00",
    "summary": ""
   },
   {
    "source": "AsiaOne",
-   "title": "Schools could close, O-Level papers rescheduled if PSI forecast turns hazardous: Desmond Lee",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0VOWWIxY3VmaU1qOWYzTzRId2VZbmtQdzhYWjlPaS00RDMxWWUzR214WHpVRzdaa2daM0dFdlZKOXpKVkJEd1EzZnBvem5BYmVyTFVDcmk2YnE3bU9qRUtpNlBRV05rTmFrM1RBbjFmZ3JDVXJCa2lJRmJYaWViRFdMU0NjdUt4cExNYUdjR0t6VXJmTjQxRU9RejdJTW9iUXBsT3NiRXd0WWJ4Vl85OHNsdEdtLTMtMDdrMQ?oc=5",
-   "time": "2026-10-16T17:30:00+08:00",
+   "title": "Singapore's haze contingency plans: What parents need to know about school closures, home-based learning and exams",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzZPeVRjNUJheXg4WlEzSm14X241WG1UZGstS3lUeE00dFNydVpRUVVSdF9lVnp3eXhoRkQ0dElLMDJQdWR5MHNNWGhvTkJkOGUtYTdRTi1QNGM1b3BfdUE1OUFwanV1c1JiOXUxazh4cV80eU9BSWZOOTBmNlRlNWl4RGd6QXp6dDlCaDZ0aEI2OVZXYXNQS0k3TlJvS28?oc=5",
+   "time": "2026-10-16T18:20:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Employers need to plan how to protect workers if haze situation worsens: MOM",
+   "url": "https://www.straitstimes.com/singapore/environment/employers-need-to-plan-how-to-protect-workers-if-haze-situation-worsens-mom",
+   "time": "2026-10-16T18:15:09+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Online Citizen",
+   "title": "Seven companies identified as sources of Singapore haze, NEA to issue preventive notices: Grace Fu",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcVhjNHJScWFGM3MzZWZZTWdWTXFTY0paYmEzU3VGWUFnMFUxa05SSnE4WmpzR3dWWnZkeW1fQzRULW93Z2tIV3BfbzRaU1JWVU5hUURLa1ZvRTRwNzd0d1U3ODl5Um1PNTZjSGlCc3J4UlBiMGoyaVYzb1JfMnRNZlRIR0VuRjAxZUI1YUh4X3NiYmxMa2ZPYjQyRkRzTlVmaXRKR1lrTW9TM0ljOXBiMVV2cEo5eW9hUDZEVld5Q0xnUmYyaS1IaXRhWVJ6R3RvMWFsNHFmc20?oc=5",
+   "time": "2026-10-16T18:15:02+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "Singapore To Take Action Against Seven Indonesian Companies Over Transboundary Haze",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMFFPeVJSOGJUOWdDM3VjaVFOZXNvRDlLdWdfSDRGT3FzZzZSRTdkR1FtbUJ3YmJmb3JiSHprR0V0WXkzNjFOaEh0ZTNZQS14a2doNmZjUzBKT1FJcXJsZlZHTnNFZE1hazJXYlVSdjl0T2RqNWkzTFRueURoYUJzOEdoRXlMTVhHRV9UNnlHaUhGRFc0UEVkZVJGQlVIQUVIYm1rNnJ2TV9LaW5DT3Y5R3FNZXN4WElHcXFSYmtEUndPM2xrWmVV?oc=5",
+   "time": "2026-10-16T18:12:49+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Bloomberg.com",
+   "title": "Singapore Identifies Seven Companies for Haze-Causing Fires",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGtEVnE5bE9tWi1ldVRKdG1taC14Zk4yZ3NpUWtQRTFQYXVDbnc5WEdETHRSZGVsdncyZDRCSHcwWFRMRXFoUWRfVkxiZG93bjB6dlJWQUlaM2JHNlM4ZGljRHlaU1UtbU9uSWpmdWFOSUM2YmxKQlMySC0wcTZrY25raWduUkRidW5jNF9RM0hXUEVrclhGSWFrTi1lTlVZR2YzRkR4R296ZnhlQlp6YlN2LWxDUGZ5ek1xLUhWUy0zdzNvY0ZaWUV3?oc=5",
+   "time": "2026-10-16T18:09:28+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Business Times",
+   "title": "'The situation is grim': Singapore should prepare for prolonged haze until November, says Grace Fu",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaFFieEVQUktFcV9DTmw2bVlYNHhhTlM4eG54Znh3N2k3X1RlN09ST3JWX2VkMGk2Y2ZhanpHVm43bzR3Q0hJNHhEVk85QUhWVnZHMjNOYnlRWWVUZzAzaFgzTEtremRCZFlOQUJzd2xPVkVva3FqcFF5SUJCcDhydEFCT2NtMjlXVjhKckRpUkExLXI4V1JqZHFTSmtxVV9rZ2N3d1o3YUhZRW5LZ0hQQmtVUzQ2bHpldHlVTzktYWRTOEVw?oc=5",
+   "time": "2026-10-16T18:06:00+08:00",
    "summary": ""
   }
  ]
