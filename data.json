@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-16T19:00:00+08:00",
+ "updated": "2026-10-16T20:00:00+08:00",
  "psi": {
-  "west": 202,
-  "east": 201,
-  "central": 225,
+  "west": 200,
+  "east": 198,
+  "central": 222,
   "south": 183,
-  "north": 162
+  "north": 159
  },
  "pm25": {
-  "west": 128,
-  "east": 132,
-  "central": 175,
-  "south": 165,
-  "north": 94
+  "west": 130,
+  "east": 119,
+  "central": 148,
+  "south": 141,
+  "north": 44
  },
  "hist": [
-  {
-   "t": "2026-10-14T09:00:00+08:00",
-   "psi": {
-    "west": 144,
-    "east": 139,
-    "central": 142,
-    "south": 124,
-    "north": 106
-   }
-  },
   {
    "t": "2026-10-14T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 183,
     "north": 162
    }
+  },
+  {
+   "t": "2026-10-16T20:00:00+08:00",
+   "psi": {
+    "west": 200,
+    "east": 198,
+    "central": 222,
+    "south": 183,
+    "north": 159
+   }
   }
  ],
- "newsUpdated": "2026-10-16T19:08:28+08:00",
+ "newsUpdated": "2026-10-16T20:09:55+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Latest news from Azerbaijan",
+   "title": "Singapore haze pushes air quality to very unhealthy levels in three regions",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT3FrT1BLQWt3TXNCNnBHRHpBZThueVBIakJBVjZjX2JlUFl5d29CUHVxLUpVb05yTVB4VW56M2dBenk0TzBYQ1dISnRHTHNUNUpIVE1XTjYtaTBEblVZbk9wcVQ1TlduT2YyYm5uWFByRERPUG1pLTdhbG84MTk4S1NyUFJVUWJ5QndqYkM4cGZ6dThfVHk4dnRVaU4?oc=5",
+   "time": "2026-10-16T19:41:43+08:00",
+   "summary": ""
+  },
+  {
+   "source": "SPL.sg",
+   "title": "FAS HAZE ADVISORY",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZMjFBR3oyTnZpSG9YM2hwRXM1Wi0xYkc4V2xjQTN2S0NCcF9Qemx5d1lZS19lRE0yZ0xEVDAzZHRHNmlfVjYycndVeTZseHM?oc=5",
+   "time": "2026-10-16T19:28:16+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Platform workers should not be penalised for delays during haze: Jasmin Lau",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ0RMajdCNktSTUlNMXJiSFU3ckM5ME1XRTZQQWFiVHUwRGJLU0Zvb1BUQ2JKUTZCN0tZZTR1YTNBNFpOSUtnVHpiZ012clFQdlh3RVVreG9ZQVllN2t5UE5yOVJBUllING1iVll4UHJqRXFfSzg5c3QzbGdnWkRyZFhhaFZlTG0ydEZlVHRB?oc=5",
+   "time": "2026-10-16T19:23:01+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Singapore targets 7 companies over wildfires in Indonesia as toxic haze worsens",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQclRJME91UjhhcmVNNHlmSncwck5EYVJKNEVaUnFPM2RVRFZlM0dOdWpVOTMzc1dSdmo1SlZqcml3UThGQVJjZlQ1WWVqeE13UDY3cnBWUUJsbjZPRkVNSUdtQ1RnbkIzUHhvUmc1UFdnaHhZVDN5SHlPa0t3RDFiaW92djE2Z0Q4ODRtYVVBb3BTNzdjVl9SekFja2oxV2NNdzRxUHpmLS1aS202M1cyaUZwa3NNVGZpTnB3Y1o3a2doQ0F3MU9mVlUyMFdoVU5n0gHQAUFVX3lxTFByVEkwT3VSOGFyZU00eWZKdzByTkRhUko0RVpScU8zZFVEVmUzR051alU5MzNzV1J2ajVKVmpyaXdROEZBUmNmVDVZZWp4TXdQNjdycFZRQmxuNk9GRU1JR21DVGduQjNQeG9SZzVQV2doeFlUM3lIeU9rS3dEMWJpb3Z2MTZnRDg4NG1hVUFvcFM3N2NWX1J6QWNrajFXY013NHFQemYtLVpLbTYzVzJpRnBrc01UZmlOcHdjWjdrZ2hDQXcxT2ZWVTIwV2hVTmc?oc=5",
+   "time": "2026-10-16T19:07:48+08:00",
+   "summary": ""
   },
   {
    "source": "The Business Times",
@@ -525,13 +553,6 @@
    "title": "Indonesia tests dry ice technology to disperse toxic haze from forest fires",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGFteW5LOEEteU5aVkhLOUNSdV9OMUFuOWpOMFF0Ti0yNmZKYTNieTQ2UWVLRlp5VXVpeVdjcmRuVkd5blkxM1JiV0VXNXZaOHkwR0YzMjZZeDk4LUVmZEd3T2dfdzRsdy1EWkNQR0VBeURvZWdWU1E5NVlwWU9zUFIwTVNjTjMyY2gtMXZtYW4tSHpFek5vMXdmeDVXdzB3WXdWWUNOaG12Y2Y1eVZaVzBqME5iTV9n?oc=5",
    "time": "2026-10-16T18:47:01+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Platform workers should not be penalised for delays during haze: Jasmin Lau",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNGJjaTNtMlltNVJIZERlQVdXQ2lxY3FMbmFqYjhkZ2dpTDdoaWRONy1ST2FCOVhNR1Fzd0dFQXJoMHVBemFiUHdZUlRMLTBnX1FtdE40aERGNU9vekpqeC1Yc0ZIZ3FXZ09uNWRzX3RYU1ZNOTNDRHoyQm13NkNwZVdabDYtb212eFo1VGN5b0FNRmtfbWNXYVlVQWVDeWtLaGZKV3ItdFV5Y2EwTlBrT2VB?oc=5",
-   "time": "2026-10-16T18:45:01+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "Seven companies identified as sources of Singapore haze, NEA to issue preventive notices: Grace Fu",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcVhjNHJScWFGM3MzZWZZTWdWTXFTY0paYmEzU3VGWUFnMFUxa05SSnE4WmpzR3dWWnZkeW1fQzRULW93Z2tIV3BfbzRaU1JWVU5hUURLa1ZvRTRwNzd0d1U3ODl5Um1PNTZjSGlCc3J4UlBiMGoyaVYzb1JfMnRNZlRIR0VuRjAxZUI1YUh4X3NiYmxMa2ZPYjQyRkRzTlVmaXRKR1lrTW9TM0ljOXBiMVV2cEo5eW9hUDZEVld5Q0xnUmYyaS1IaXRhWVJ6R3RvMWFsNHFmc20?oc=5",
    "time": "2026-10-16T18:15:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "BusinessToday Malaysia",
-   "title": "Singapore To Take Action Against Seven Indonesian Companies Over Transboundary Haze",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMFFPeVJSOGJUOWdDM3VjaVFOZXNvRDlLdWdfSDRGT3FzZzZSRTdkR1FtbUJ3YmJmb3JiSHprR0V0WXkzNjFOaEh0ZTNZQS14a2doNmZjUzBKT1FJcXJsZlZHTnNFZE1hazJXYlVSdjl0T2RqNWkzTFRueURoYUJzOEdoRXlMTVhHRV9UNnlHaUhGRFc0UEVkZVJGQlVIQUVIYm1rNnJ2TV9LaW5DT3Y5R3FNZXN4WElHcXFSYmtEUndPM2xrWmVV?oc=5",
-   "time": "2026-10-16T18:12:49+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bloomberg.com",
-   "title": "Singapore Identifies Seven Companies for Haze-Causing Fires",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGtEVnE5bE9tWi1ldVRKdG1taC14Zk4yZ3NpUWtQRTFQYXVDbnc5WEdETHRSZGVsdncyZDRCSHcwWFRMRXFoUWRfVkxiZG93bjB6dlJWQUlaM2JHNlM4ZGljRHlaU1UtbU9uSWpmdWFOSUM2YmxKQlMySC0wcTZrY25raWduUkRidW5jNF9RM0hXUEVrclhGSWFrTi1lTlVZR2YzRkR4R296ZnhlQlp6YlN2LWxDUGZ5ek1xLUhWUy0zdzNvY0ZaWUV3?oc=5",
-   "time": "2026-10-16T18:09:28+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "'The situation is grim': Singapore should prepare for prolonged haze until November, says Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaFFieEVQUktFcV9DTmw2bVlYNHhhTlM4eG54Znh3N2k3X1RlN09ST3JWX2VkMGk2Y2ZhanpHVm43bzR3Q0hJNHhEVk85QUhWVnZHMjNOYnlRWWVUZzAzaFgzTEtremRCZFlOQUJzd2xPVkVva3FqcFF5SUJCcDhydEFCT2NtMjlXVjhKckRpUkExLXI4V1JqZHFTSmtxVV9rZ2N3d1o3YUhZRW5LZ0hQQmtVUzQ2bHpldHlVTzktYWRTOEVw?oc=5",
-   "time": "2026-10-16T18:06:00+08:00",
    "summary": ""
   }
  ]
