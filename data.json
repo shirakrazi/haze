@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-17T00:00:00+08:00",
+ "updated": "2026-10-17T02:00:00+08:00",
  "psi": {
-  "west": 192,
-  "east": 186,
-  "central": 208,
-  "south": 174,
-  "north": 151
+  "west": 190,
+  "east": 183,
+  "central": 203,
+  "south": 170,
+  "north": 148
  },
  "pm25": {
-  "west": 125,
-  "east": 99,
-  "central": 101,
-  "south": 68,
-  "north": 81
+  "west": 116,
+  "east": 114,
+  "central": 105,
+  "south": 80,
+  "north": 73
  },
  "hist": [
-  {
-   "t": "2026-10-14T19:00:00+08:00",
-   "psi": {
-    "west": 190,
-    "east": 172,
-    "central": 178,
-    "south": 157,
-    "north": 125
-   }
-  },
   {
    "t": "2026-10-14T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 174,
     "north": 151
    }
+  },
+  {
+   "t": "2026-10-17T02:00:00+08:00",
+   "psi": {
+    "west": 190,
+    "east": 183,
+    "central": 203,
+    "south": 170,
+    "north": 148
+   }
   }
  ],
- "newsUpdated": "2026-10-17T00:07:47+08:00",
+ "newsUpdated": "2026-10-17T02:03:16+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "Singapore Issues Notices to 7 Indonesian Firms over Haze",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQTBKRExXNEpSS3lVNjZ2dl9FTTJpZjJzcVdpLVJaOVNPakxlZ0NyWkxnZEZ5d2tmVnFURzU5eGN0TTdpNmZBa2wyd3p3dTZjRDdJV243aHRSVXVSVGxDajd2UURHdTItdHh5T0xVZEFhMlpxWHNUSl93YzBIRVJDV0tSNTYzNzM5TTFoS0JYNWRNeVk?oc=5",
+   "time": "2026-10-17T00:24:59+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -588,13 +595,6 @@
    "title": "Singapore-listed firm faces Indonesia's probe over suspected land clearing by burning amid haze",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnU0UWpoal8wQ3N1UzF4bGtZb0xHLWFWMUF5c2gzMFVJdkhMM0JnSkhreVVoU2g5SzN0NHZsYi1YRzJLWlB4LXVEekZ6YjEybG5nb1NNNzEtQU40WExwLWVoVHdQUTRuZDBnOURZU2Ezcjkzc3docDRWUWVpTVBZZ2U2a3RrRUdiOEZUd2w0dGxLQUFlTHNtT3FCMVVwTld4Vl93a2hrQjBrbktkTmRDR05OWjNOblM3U0FicnYyVUU3OENpeEFnREtTdHY?oc=5",
    "time": "2026-10-16T21:15:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Free Malaysia Today",
-   "title": "Singapore takes legal action against 7 Indonesian firms over haze",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcHIzOUZLZl9YMk55ZUJpTUloODVYZjFpSlNCcGp6bVNQa0Fxbkxnd3Q0NTFtSTRGc1hmWlUxOTJwR0lGSFR6Q2hUZms0T1daRUNONjB6bHl3ZGF4eHVOeDFNODVOdFZSektqQ0tfd3FkQldPZFl3X1pMMks4NXM5N19RN0JOcXl2UlJMcFpSSXBCSzV5OG02cEUwZGllRDFrZmlkLXJYYzhrUzJBbmc4YTZuNnBvYUpfeHdTRHhtbDVBdVhz?oc=5",
-   "time": "2026-10-16T21:04:54+08:00",
    "summary": ""
   }
  ]
