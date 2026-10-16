@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-16T08:00:00+08:00",
+ "updated": "2026-10-16T11:00:00+08:00",
  "psi": {
-  "west": 197,
-  "east": 198,
-  "central": 226,
-  "south": 183,
-  "north": 148
+  "west": 201,
+  "east": 203,
+  "central": 225,
+  "south": 182,
+  "north": 151
  },
  "pm25": {
-  "west": 146,
-  "east": 143,
-  "central": 142,
-  "south": 135,
-  "north": 96
+  "west": 158,
+  "east": 147,
+  "central": 168,
+  "south": 133,
+  "north": 117
  },
  "hist": [
-  {
-   "t": "2026-10-13T17:00:00+08:00",
-   "psi": {
-    "west": 165,
-    "east": 149,
-    "central": 157,
-    "south": 130,
-    "north": 115
-   }
-  },
   {
    "t": "2026-10-13T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 183,
     "north": 148
    }
+  },
+  {
+   "t": "2026-10-16T11:00:00+08:00",
+   "psi": {
+    "west": 201,
+    "east": 203,
+    "central": 225,
+    "south": 182,
+    "north": 151
+   }
   }
  ],
- "newsUpdated": "2026-10-16T08:34:04+08:00",
+ "newsUpdated": "2026-10-16T11:07:00+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,94 +507,94 @@
    "pinned": true
   },
   {
-   "source": "The Star",
-   "title": "‘We’ve done all we can on haze’",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2VIVUlqMWpELW5GUEpfUThwOE80UHRTUUppa21BMVNhTjFLN1VZblhoRGVlOWU5NzRyNnVZVXY3VXQ5OUVKNEZUUHpvY0Mwblk0RHBKQXVPYzBTdVJGUElnLXFpbDN4S0hIZVBfRnB0TlNlQ2U0OVl0WkV3XzFsMmlPdVI?oc=5",
-   "time": "2026-10-16T08:14:24+08:00",
+   "source": "Yahoo",
+   "title": "Wong weighs haze prosecutions as Singapore air quality worsens",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWlg3b3NtNkFNX2xTYzUycHhiNlRuNmZtWEwwQnZSZjFlV1RoNnE0bVJQR2RHcTFZRWRUekZGam9TYU5XWFRYcncySzVkOGk3eGdPeThQME5iNW9VODdCTmdKLWpWS0ZCNEQ4eng2Qjh5cGZPYmRIV3ZRNndVRHgyWDlLbXFLYmRPUUdhem9SUVFtR3pfdGVyUjhRYWY?oc=5",
+   "time": "2026-10-16T10:54:00+08:00",
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality very unhealthy in central region; PM2.5 readings elevated across country",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02ckJ3WjJYc1VPUzU3Q250emhueUdKUnlIM00zMGp3ZG9jd3ZJSWVNajlSdDF5OXVFenhPeFVBM2luREp1VUdJSjIzMXBzQ2lqT3RJenREdWY2UWFKLVNwNC1mYWEzMy15WC1wb2tmSXpib2dxcGoyR0lxYw?oc=5",
-   "time": "2026-10-16T08:10:12+08:00",
+   "source": "Stomp",
+   "title": "Ng Eng Hen quips about breakfast toast tasting ‘smoky’ amid elevated haze levels, leaves netizens chuckling",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeWp3TVFsdnU2RTlzV0c5VVJLcTdXb05kR2ZGQk9BY2s4bW5PbWoxcENvT0U2N3hDT3E3dm5naEJuVUcxVmFDWjZUcHFnWmFuVFdkUEg3WUk5WTRHYVJCaUpLeVRyT0ZqNExoSlNlTm1kbm5JMzVJUmk0QkdmMHVHMXFrQnFxc24zNVZJRm5oNDltMmw3MS1rajBZOFhEZkRPeDRQOGpGalJFUnhLQ0dNVDBkQktEY1NTc21YRHlmWnlNMk9idjgw?oc=5",
+   "time": "2026-10-16T10:52:22+08:00",
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Smooth for some, frustrating for others as N95 mask distribution gets underway amid haze in Singapore",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMVRaZ1prLW43YW1taTRYMnh5UURGT0VlYkxyYUZOZERkMUhzT0E4TjRra3ZFMjVlMzVCc3NSQ1FRZjJxMGhwX0VRWVB5aXhCRGVrdGcwak9xdGhidVJBSTgxSF9NUHVRZ1k4VHY2d29WQnQxLXpHODRMQm1FNDgzaEN4V3o2eVJDWXh1bnlIeVRQOG5LRWYtR3NxSC1xVEdNeTJXRFZqZlBKNk45Z1h3?oc=5",
-   "time": "2026-10-16T08:07:27+08:00",
+   "source": "The Vibes",
+   "title": "Indonesia approves foreign help to battle fires fuelling regional haze",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb1lZMXpidkZ1WDA5YWswSklWdUM4NkMyeTJzcTR4a3dJLWZvVnRMUTlQTU5ENTFzNkNqS2F0aW1sRXh4dXhmakJLTVlpWjQ4ekYzMUVpeEo4b29KZkd1a1Q2SVM1aHljV1BoTENqZDc2WmRSZXBrc2RjdlF1R0l1WUdRYUpBa2VXV1ktQWxSa2lsazhtalZPNzVWSTU4MDdxc2hMVmV1eWFnWXpma19QTWttNGJOZ0Zw?oc=5",
+   "time": "2026-10-16T10:48:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Mothership",
+   "title": "S'pore looking into which companies responsible for haze-causing fires, will take action where warranted: PM Wong",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uVDRLbXpyYlN0c0hCaDVMTERLY0ZEbzY4cUNSc1dIdWlhMFc0MGxoSm1wT1F2YlhuWEdsem1hVDhVNlMtYmcxZk96S0txc1ROZFBiTmh4Z1RRX3hwUXdZU1dIVE12cEQ2MDFJR25ocDZhZEZxblJEaA?oc=5",
+   "time": "2026-10-16T10:28:27+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne",
+   "title": "Haze worsens as PSI reaches very unhealthy levels in 3 Singapore regions; afternoon thundery showers expected",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZWJrVFpCRVdVUVpIdXBmdHh0UkwwbWVOWTBjazd6cjdJTmRVUFZ3NjREdWhORmt6eGVwc01nN3B4UzZKRkUzdG5iSWdTWEktdWE2Wl9qa2NDTlVRdzBkSElKTld2R2EtSm9VcU5MbThLNXNjUmdEQzlUZm5iNjA2WGNEcXNmVktaRVgxS3VBQlVHd0x2T05jRDhTYVdSOGtFWDU2Zg?oc=5",
+   "time": "2026-10-16T10:02:12+08:00",
    "summary": ""
   },
   {
    "source": "The Business Times",
-   "title": "First Resources blames El Nino, outside fires for Kalimantan hotspots amid haze scrutiny",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSkpNYk1MNXl3ZnBxVzF2NWR1SXYtVng0RXlheXN2X2QwcFl5eFhFYk5wM1A2NEVxR3NFWDJKZjNCTHJfc2lBaW03SUNwWEVFM3RlcXREeDJOSkJmc2NGUXJ0OW5NbEJCMmtPNnFLNUxhZW1rVkJCbFloZWlPcnV5R09YYkpYNFZZc1YtSXBDcGNZYUhfUGVyM3RnQ0g0bGV3Vm45VU1qcjlCanlfZENxTHVWN2xDd0Y1ZWlUUS1yMjAxSXIyRTQtdFpuRVRJa3VlS0E?oc=5",
-   "time": "2026-10-16T08:02:00+08:00",
+   "title": "Palm oil stocks slide after Singapore begins looking into which firms responsible for haze",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMnRsbW9jVmhhWXRrM0VsNDlENExhM2VUMjkwUHF3RlNUdDAxby10ZEZsZXNBazJTTExjQkRjdTA2WDJFOFFHZ01CT19FMnZGaWRfNVBCN00xb2VSM1psa1FCX3lLY3h2Rk5aMy0xY0FFd0hOalNOa1lSbG9XckZhZUFIaThEeHZhdmIyek5XRmRtMTNNMVV0VEV1OFJHWkNidFo1Q0JxdGJnTG9hdURLMWN6Sk9UX2ExWGZjclFLYXp6QThwQW5KLTVfaE83OVUtVGxSb1RFc2hrYTBFUXF0THRqVEx3Zw?oc=5",
+   "time": "2026-10-16T10:02:00+08:00",
    "summary": ""
   },
   {
-   "source": "AsiaOne",
-   "title": "Haze watch Oct 16: Central Singapore's PSI hits very unhealthy reading of 224",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMXVjOG51cHZWTGR4cDhwenQyVVJHcDJBSzJZNUlORUFQb1pUR29odnRsTjlwQ1dQdDVrR1hkdzNiYk90aXZ0dkxOWUxrYU1SUHpWdkduV2NjaHl0VmxWY240ZlVRaHJKTU92NWRoWFVKeGlyMjlhd0ZEYnZTcGFZdXE3SkUyTkZpV280?oc=5",
-   "time": "2026-10-16T07:57:00+08:00",
+   "source": "The Straits Times",
+   "title": "Haze or not, it’s work as usual for some in Malaysia",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3k3VEswdHE0c3paUndRcUw2bWtjSjg1R2Q4S3N1TTlVUHhmaEM0d1JIQ1I4ZmxqTXVrZGMxTEp1Q3d1aTRlZERrR2JPVUlyXzVVQUFwY2lvWE9EZXRCcGU5SWRJY3c2Tkl6YnJYV2RXWEtscmlUZjM4NGNYajc2bUlmclNRQXZ2dnhQb1ZIdmhSdDRMZk1z?oc=5",
+   "time": "2026-10-16T09:44:00+08:00",
    "summary": ""
   },
   {
-   "source": "CNBC",
-   "title": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrNTUxejN4MHhvaTRhQlhQQmVqYzNsQWk3NE9jZ0g1bjFQc0wtSkhkOXhJRzVhNVRfT2tPQmNvTm51UXUzQVpHdXRkWFYta010N2FKVnpENVhxMnlFcXNadkdaM1FEZVI4ZmtFdl9uN3pReWdiLVJDX1QzRmRFRW_SAYQBQVVfeXFMTTlnb2lVa3JxaG5xTUpMMktKSmxlM2JVQWlZM0VGWVZRWGt5QW8xODlfdGg5a29vR2JqTU12a0dxOXk4R205UE85R25WTzJqTmptSlhObjRTbTgxc0x6UEZpendjbzR2Zm5XbDkzSUswVWlkN0ZwQ2g4Wjl2MEJOUzItc05U?oc=5",
-   "time": "2026-10-16T07:56:18+08:00",
+   "source": "The Online Citizen",
+   "title": "Singapore haze reaches 2026 high as central PSI hits 227, government accelerates N95 mask distribution",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRmQwdkpldmdEaEZQQl9EQXBMYjdWaThpcWtlNm5YUVNjX3k1ckNLaGxQbm5BZzY4dHREekdzRXZsM0E3Z05uSlhUTnFETEhTSGVkcjVGTngxRHp5WG1ZbF9aUFlaVHhQcXYtaEhTdG9ndHJPazVvOE9TcDh2dFkzZG55NmtVWTRKcW10Mk1FMEtUV3VXeGNIS1FjMU52bmtsX1NnM0kxcFQ2MG41eDJhY0VDZWRfRHloMFRrcnRQcUpZbWxBVzdfc0ppekl1YktxVmdJOVNzY045MXUwMnBN?oc=5",
+   "time": "2026-10-16T09:41:17+08:00",
    "summary": ""
   },
   {
-   "source": "Bernama",
-   "title": "Establish ASEAN Task Force To Combat Haze, MP Tells Dewan Rakyat",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1va25YUTc2S0tHME1jbUluSFNrMncwOURuQUZzMHFrdjVDVzRPMW1hczZKNHJfcmRJU19ieU9kSFVoajJ4cVEwVDdpM281MzhmNWJtQUIyTk13eEZxSFRmeHNoZDg?oc=5",
-   "time": "2026-10-16T07:48:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "'Why would I want to harm myself?' Some delivery riders look to cut hours as haze worsens, Singapore News",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93MlVQRTQwMlZvSkNRX0NTTkplc2h2Nkdtb2RMVG45WEViRmVTeHVwX1BlaUp2ZnkxVktNeF83SHMyZDZjTmxIX3cwU2pWZ3ZJaUdiS2s2R201UFJoQmZlNzhfd1RLVE10YnJCNA?oc=5",
-   "time": "2026-10-16T07:30:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "新华网",
-   "title": "Haze blankets Singapore-Xinhua",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNakhJRjlnQkN6Q3B6b3o4OVRSTE52d2E2emJCQmR6cEpfTEs1Tl92a2hDMVlkLUpIZEF1cDV0ZHhxenBCNWhOSVpsMlR5WDRrOFk0ZVlEWUhLTWMwTWRLMThQVmZZcjZ5QUpNU3NxVk5aaFp2dWQtZTNTdk1zWGNYaFNlOG9EdUJWek44WkZ5MWUxSDBDTndHQQ?oc=5",
-   "time": "2026-10-16T07:28:56+08:00",
+   "source": "Malay Mail",
+   "title": "Mohamad Hasan says diplomacy first in haze crisis, warns enforcement risks severing Indonesia ties",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRU1lajIzVkgwUENFZmVzZzc1ZVhzT0lCaVlnZmtybmpVaFI2S0lIWjE5cFVVTTJjdzc3RFBYdXVSQ25kYzMteFB3LURCWjVzckRyMUkzMjFLaWlPbG54Y2VMeE1laEFTMVdCWmZ5VkZsVFZvdzdLMFBiVERQMGg5cEdpX2VkbFAyMG5Ib0dyeWVUNGllX1ZZcUlMR3pNREZ6Ti03NXM5UTYxWVFoNEk5aG4yQ2JmMzZnSVpMZTNrbVpPWHRmaXFudDZreDNRTUhicGxoUFc2WHpyUWFzQ2RXYnFmYjF5b3dDbm5UcW5FNkhjMEnSAfgBQVVfeXFMTnJ6aDZCcm53MkIzYlRiS09GcTRLOTFyNFNFaEd5eC13MEdnUnZkSk5JMnVJQ3FQYXh1YWJFVGt3WlVtUWF4NTVEU1pmOV94WWp0SlJ2VzdZckQzRWtpeHpmNHJKVHJ2YTN6dFBUQXI0dk42cmZxNkNFT0IzWDdNUWlQa0wySnlLSzhkT2MzVGpscDkzYnZMLTVfU2JlSzVJOVh5Skw5MzBpbUczN0hXRTdnUUE2OWJJRGRfOF9tNE1CODZ2LVR6MWEwZVB4TTJ6ZmNpWS1CZFhfWm9GYVpqVDVuZmpYQ3FPT3ZMOS1Wc2hsUnlpaEJWODk?oc=5",
+   "time": "2026-10-16T09:19:59+08:00",
    "summary": ""
   },
   {
    "source": "CNA",
-   "title": "Singapore looking into which companies responsible for haze-causing fires, may take legal action: PM Wong",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjdSbVdUYXdVekhzeEdIR0FRcWo3cmJlRF9JeXdkMl9oRmtndUE0WmNrWUVWdmJ1OWZka09TZFJndzktMTVvbGpoX0p2aGpnQkhfR3ZXdEF0UjZlOEkzZjFQS05ncHNQdmVRNjQ2czMwS2lvTFB0ajRGNk9GRVRqSmRJOEJIVmtKU2RBMnBkNDk5ZzYzY1lkVU5JVjFGdjZzTklLRjhqQ05sLXlQWXZEOA?oc=5",
-   "time": "2026-10-16T07:16:16+08:00",
+   "title": "Singapore haze: Air quality very unhealthy in central region; PM2.5 reading high",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02ckJ3WjJYc1VPUzU3Q250emhueUdKUnlIM00zMGp3ZG9jd3ZJSWVNajlSdDF5OXVFenhPeFVBM2luREp1VUdJSjIzMXBzQ2lqT3RJenREdWY2UWFKLVNwNC1mYWEzMy15WC1wb2tmSXpib2dxcGoyR0lxYw?oc=5",
+   "time": "2026-10-16T09:12:27+08:00",
    "summary": ""
   },
   {
-   "source": "AsiaOne",
-   "title": "Downpour during haze: Some Singaporeans alarmed by grey rainwater, Singapore News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10VXlOUTlVdmk5V0JTZ0NwVmppSWlrejRaOHBIek9tbnl0YlMxRzY0bm51ZEwwbXZrMklFZjZ6dmEtaHRYZ2dWRC1hLW9YY2lrb0NBLWJub0l4Z3hNVEdYMGV3UQ?oc=5",
-   "time": "2026-10-16T07:00:00+08:00",
+   "source": "The Straits Times",
+   "title": "S’pore is experiencing its 12th consecutive day of unhealthy air, the longest since 2015 haze crisis",
+   "url": "https://www.straitstimes.com/singapore/environment/spore-is-experiencing-its-12th-consecutive-day-of-unhealthy-air-the-longest-since-2015-haze-crisis",
+   "time": "2026-10-16T09:10:00+08:00",
    "summary": ""
   },
   {
-   "source": "NST Online",
-   "title": "Singapore weighs action against companies link to transboundary haze, says PM Wong",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWVVHU1JEd196emIxcm9iR2pBeXh2cmZ1ZUtmMjJMSS13Rk5TaTRMdG1URFFkY3I1TTVaeld6TE5sczVPak1RTHF6QlVIWXZKUjJBRnc0V2FGNzdJU1RwUzEtbjdJeEtCQWd4RW5zX1ZfRTJ1OElQS0VfQ1BGNWtrMXBYWE9OUURRdm5UelhkeFlPVlhiMEQyaWxyRnkyY3VuOFRUdnJZMFNvM09Yb3UwOHBFXy1ldnp2Yl9aV1FzTdIBxAFBVV95cUxNN0ZUdEFUTTZ5bjAwQ2dYTzlHQXVGNGZKdkxKcUluZ0FwaUIyUE4tdy1aZHBzbzZqQXpEZU55ZUctTVBDNllfcmNkeGM4MFdnS0QwSWJxdThabGY2NDE5bkJKZUFNMEMyV2tYS0tha0NqOFBucmFlMHhiUFNlQnVLOWU4WFI4RURKbE9IMWozc29GNW9pVllmUE9GYXg4cUJrZUw4WVVJaVNHc1lpRzZfLU5UQUM3YTlPZGVJYndwUmE0MXMw?oc=5",
-   "time": "2026-10-16T06:54:50+08:00",
+   "source": "Malay Mail",
+   "title": "When haze crosses borders, can the law follow? — Mohd Zulfakar Mohd Nawi and Redza Zakaria",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZDBLVUp3c20wb0Q3ampudFJPb0ZzRTFRRWN1VGJpVkxzZ2hXak54S1F6V3BYSEVnSkprRUJrMThNaUJHT2pKa3ZwNERnMDQ2M3dRMkhZREI5MGNnY0xaQWJmZVRsb203a0JDMU0wMEM1TnVSUjg5czBFNHpMUDVsR2FiaWtnbERXM2dueUgzNzlibkFKUF8xekkxcHl5MjRkeTlXWTFRc3lqRXhoZ0VNVTJnTm9oSlhoZ29nTnZfNGNtNmg4dDFGSHRFck96SjRHN0xBOWNNWWhfZjZWVzBqbk9fT2RyaE1ORlHSAeoBQVVfeXFMTmQwS1VKd3NtMG9EN2pqbnRST29Gc0UxUUVjdVRiaVZMc2doV2pOeEtReldwWEhFZ0pKa0VCazE4TWlCR09qSmt2cDREZzA0NjN3UTJIWURCOTBjZ2NMWkFiZmVUbG9tN2tCQzFNMDBDNU51UlI4OXMwRTR6TFA1bEdhYmlrZ2xEVzNnbnlIMzc5Ym5BSlBfMXpJMXB5eTI0ZHk5V1kxUXN5akV4aGdFTVUyZ05vaEpYaGdvZ052XzRjbTZoOHQxRkh0RXJPeko0RzdMQTljTVloX2Y2Vlcwam5PX09kcmhNTkZR?oc=5",
+   "time": "2026-10-16T08:52:46+08:00",
    "summary": ""
   },
   {
-   "source": "Bloomberg.com",
-   "title": "Singapore’s Wong Says Probing Firms Behind Haze-Causing Fires",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUdlNUdyVEgxN2ppMnR0RTRnc2pYS2tIclZRQXRzQmJ3bGU1RER1SHlqZDY1a2hDX193QmpaQk5DeUpyY3NXQng0N2I0RUhTd09uOEllZnQ3UWFxNWNOQnhmREFkQlJUUWRlM1NjelZ6MGR2Sm1MZUlIblZITnZtakpNN3dYWWRxVTZwb25pVzlWSWV2cHpnMVBwdXgtTldZZUdJMndQOFVEeVIzU3duQW9n?oc=5",
-   "time": "2026-10-16T06:51:34+08:00",
+   "source": "Bernama",
+   "title": "Singapore Air Quality To Remain Unhealthy, May Reach Very Unhealthy On Friday",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qdHE1TGswLWxEUDRRdFdFVF91Si10NmwteWZWWjgxbnRrbl9QS3hwNWpHcThBN1Z3TWxIT1JMQ09GZ0lPcVpTVUt0NEhhTzNoLUNIcmtrdjBnN3dEWm5XSU5R?oc=5",
+   "time": "2026-10-16T08:45:00+08:00",
    "summary": ""
   }
  ]
