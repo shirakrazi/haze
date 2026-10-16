@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-16T12:00:00+08:00",
+ "updated": "2026-10-16T13:00:00+08:00",
  "psi": {
-  "west": 202,
+  "west": 203,
   "east": 205,
   "central": 226,
-  "south": 184,
-  "north": 153
+  "south": 185,
+  "north": 155
  },
  "pm25": {
-  "west": 157,
-  "east": 168,
-  "central": 177,
-  "south": 194,
-  "north": 152
+  "west": 162,
+  "east": 162,
+  "central": 169,
+  "south": 160,
+  "north": 135
  },
  "hist": [
-  {
-   "t": "2026-10-13T20:00:00+08:00",
-   "psi": {
-    "west": 159,
-    "east": 147,
-    "central": 152,
-    "south": 126,
-    "north": 110
-   }
-  },
   {
    "t": "2026-10-13T21:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 184,
     "north": 153
    }
+  },
+  {
+   "t": "2026-10-16T13:00:00+08:00",
+   "psi": {
+    "west": 203,
+    "east": 205,
+    "central": 226,
+    "south": 185,
+    "north": 155
+   }
   }
  ],
- "newsUpdated": "2026-10-16T12:54:04+08:00",
+ "newsUpdated": "2026-10-16T13:08:19+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Japan Times",
+   "title": "Singapore probing firms over haze-causing Indonesian fires",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZE9xQ283eDIxM1pxUEVKRFdNRmdlRVdjQjRtWFdVeDY4aTZ0dFdscEdOSU1NTTl0SUVnWnBOYXBfSEd4MzBib2JqNjMyX0hMak5Yemw5YzhDWjFoMWFtcXhIQi02amRsc1lJQnQ5SnAyNXJJbWhkMGlhU0ZxTGw5SGtFWkF0Ui14WXFOSml0RVhhZGJQaFN3Sm92VUhqVkNqNEE?oc=5",
+   "time": "2026-10-16T12:43:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Budget 2027 debate dominates Dewan Rakyat as MPs tackle haze, health and school safety",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbUl5OVV5cW1DeVpfVmlVZEQxT0RkZXNSVmVOM3dJa0J3UlQtcjZoT2REUDU0amN0WExqZzE1OW5YbENqZTFncFpDcFZWUUNIa2xTQ21PMGpGUTBKR1YwQkJvbUMtQWtDaVEwRVVvajdXWFBjVDNEZzh0Y2xOMWRQLUNqVWEyM0NaRGs4QURzLUYxQUFiSlZ5SUh4bGotd25CT1hXYzFhWVA4cVl3eVJLdTlMbVBLU1RfTEtRNGI1aEpydUNjNHhld2Y1S0RWdG9KV0FWeU0wUDdsOW_SAeABQVVfeXFMTXllRDhLdFhRemFvRjBVYlhxN2RULWpKMGE4eDZ4RWR1U05WTlZReEh6ekltd2NnYVVJbm1ZeS1nY05IQXd6VjktS09BTzBnRVE0OEEzWW82VFhDMWxzSHd2bEtmYW9SbW5Ybm1IYmNpaVhnQ2ROVkQ3Y3hCRGhZX2VQeUMwN0JDZDhRSzlCb3BUU0NNZEZWZGxZUGp4NlplYTRWOHBUQVQ1SnpDTzlXbWhOR2VnbE9sSjZDMGNBakpISlNfVVFfd2xKVWZQOEMyZjJBQjhQekowV1ZQYUtZVlQ?oc=5",
+   "time": "2026-10-16T12:29:53+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -556,6 +570,13 @@
    "summary": ""
   },
   {
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "title": "What Indonesia's fire smoke haze does to the body",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRDNHMnl4c2ZtU2hnREVKXzBETmd4bHR3Ql9OaGhIb205WjhjdjdmWGN1U2ZQXzEzOWRQQktyQzNzS0hTcGhMSEt1eS02YmdhR2ZLZFV6UzMzMFJBQnYxSjRiOTFCLXd2RE83c1JZeWU1d19DSFVxMEJ4amZaa3lmbi1WTXRCNHMxOXZnNTV4ZG8?oc=5",
+   "time": "2026-10-16T11:51:51+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Edge Malaysia",
    "title": "Singapore weighs action against companies linked to transboundary haze",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05YzVtdEszNl91bDh4cUxkMktZNUZfUUdnTmhlUFR4M01RLWFOSXBGMDBxVGNiTXBXTTlUWEZkUUo4ZGNWQ2pxT211cjVVSkxJ?oc=5",
@@ -574,27 +595,6 @@
    "title": "Wong weighs haze prosecutions as Singapore air quality worsens",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbFVNQnZDaUppaXc5bmVJSEdFellHWmU0UXZibW55SXI2RFIwME9MTzFwT2lyVjdPcU1WOTRTVjNvcGVBZ0JmckstWjNZa2prUEJ0NGFodVA3Slg2aElPZDdxajN5M054LUVyOENtTUxlSThyN0h1WnF2Wk43dFVnUW1HYUs1ZFpfU0o0WTRNRVNDWExxbUk1cE9XQ2QzYnRBdnhJZ2ppampFR2VEWnc?oc=5",
    "time": "2026-10-16T10:59:24+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Stomp",
-   "title": "Ng Eng Hen quips about breakfast toast tasting ‘smoky’ amid elevated haze levels, leaves netizens chuckling",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeWp3TVFsdnU2RTlzV0c5VVJLcTdXb05kR2ZGQk9BY2s4bW5PbWoxcENvT0U2N3hDT3E3dm5naEJuVUcxVmFDWjZUcHFnWmFuVFdkUEg3WUk5WTRHYVJCaUpLeVRyT0ZqNExoSlNlTm1kbm5JMzVJUmk0QkdmMHVHMXFrQnFxc24zNVZJRm5oNDltMmw3MS1rajBZOFhEZkRPeDRQOGpGalJFUnhLQ0dNVDBkQktEY1NTc21YRHlmWnlNMk9idjgw?oc=5",
-   "time": "2026-10-16T10:52:22+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Vibes",
-   "title": "Indonesia approves foreign help to battle fires fuelling regional haze",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb1lZMXpidkZ1WDA5YWswSklWdUM4NkMyeTJzcTR4a3dJLWZvVnRMUTlQTU5ENTFzNkNqS2F0aW1sRXh4dXhmakJLTVlpWjQ4ekYzMUVpeEo4b29KZkd1a1Q2SVM1aHljV1BoTENqZDc2WmRSZXBrc2RjdlF1R0l1WUdRYUpBa2VXV1ktQWxSa2lsazhtalZPNzVWSTU4MDdxc2hMVmV1eWFnWXpma19QTWttNGJOZ0Zw?oc=5",
-   "time": "2026-10-16T10:48:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "S'pore looking into which companies responsible for haze-causing fires, will take action where warranted: PM Wong",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uVDRLbXpyYlN0c0hCaDVMTERLY0ZEbzY4cUNSc1dIdWlhMFc0MGxoSm1wT1F2YlhuWEdsem1hVDhVNlMtYmcxZk96S0txc1ROZFBiTmh4Z1RRX3hwUXdZU1dIVE12cEQ2MDFJR25ocDZhZEZxblJEaA?oc=5",
-   "time": "2026-10-16T10:28:27+08:00",
    "summary": ""
   }
  ]
