@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-16T22:00:00+08:00",
+ "updated": "2026-10-16T23:00:00+08:00",
  "psi": {
-  "west": 196,
-  "east": 191,
-  "central": 215,
-  "south": 179,
-  "north": 154
+  "west": 194,
+  "east": 188,
+  "central": 212,
+  "south": 176,
+  "north": 152
  },
  "pm25": {
-  "west": 115,
-  "east": 88,
-  "central": 124,
-  "south": 100,
-  "north": 71
+  "west": 114,
+  "east": 89,
+  "central": 112,
+  "south": 73,
+  "north": 82
  },
  "hist": [
-  {
-   "t": "2026-10-14T13:00:00+08:00",
-   "psi": {
-    "west": 146,
-    "east": 145,
-    "central": 144,
-    "south": 131,
-    "north": 107
-   }
-  },
   {
    "t": "2026-10-14T17:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 179,
     "north": 154
    }
+  },
+  {
+   "t": "2026-10-16T23:00:00+08:00",
+   "psi": {
+    "west": 194,
+    "east": 188,
+    "central": 212,
+    "south": 176,
+    "north": 152
+   }
   }
  ],
- "newsUpdated": "2026-10-16T22:08:02+08:00",
+ "newsUpdated": "2026-10-16T23:07:43+08:00",
  "news": [
   {
    "source": "CNA",
@@ -508,9 +508,30 @@
   },
   {
    "source": "CNA",
-   "title": "Great Eastern Women’s Run cancelled due to worsening haze",
-   "url": "https://www.channelnewsasia.com/singapore/great-eastern-womens-run-cancelled-haze-air-quality-6466311",
-   "time": "2026-10-16T21:50:00+08:00",
+   "title": "Haze in Singapore: Malls block sliding doors; close outdoor spaces, windows",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM0RsWEc1My0zeUpvVEdPU2JELU90c2gxTllwWVZMTVZXWW1PaDFUTEZnQ2FpdW9icm40MUN5ZFhOaldtWDh0TVJYRUhVT1ZRMldEZ3prQnRCS3JSQ25VTjIzMm9aenNXNzJ0aWpuRHRLQ1JIQmhfQ3FuLUE1MzFUb0h4Z3ZGcGJ4QlhkUmpNdUVxR2o0R2k5MWtIY1F1MXJQamhHdmFMVGFoaU9hTHFHZ09LNHpKM1pWdXc?oc=5",
+   "time": "2026-10-16T22:48:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore has enough masks to cope with the haze: Grace Fu",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRTRaMzJPQ2E4dHRTYmtBaGFLV1dNTHNkcWhKdkRSNlFaSFdjVDJQb2ZvU1hiSkZaX0Q3T0c4WGZQQzhUa0U4TzJ6ODRmSGJBcVN0Mmdkclh3aUdyQldTVTdXbTB6NTVZY3FmWlV4RmxKTUdLWG1reDJLZml3TjBoUlNkWDZiSV9YR3YzVTJ0cVI4LXQxcFE?oc=5",
+   "time": "2026-10-16T22:41:37+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Haze in Singapore: Preventive measure notices sent to 7 companies responsible for fires",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzdKaVNvMEExcUxWczhmcWRuXzVUQzVzSWpMakZtQjNBNktoRHNhSDh2Wi1LaFJyVUtReDJNS2dJdm9lTjg4VThNU0JXWWp1dllzTldmY2NzYlJFajBzYmM1bFptNEk1SktSVmlfV0lUR2xoanpvZlNPTThIc3VONWVjczNlNkZIYXpZLVZfQkVfRUFFcGVtZWRNTTRWbUxfN3lnQ1U5dzRURnJGTE1aNklMN0xyTDFkSmJCSkxnNG1YZms?oc=5",
+   "time": "2026-10-16T22:34:41+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "2026 Great Eastern Women’s Run cancelled amid worsening air quality from haze",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcm1aZ18tdU52MXFKZUYyZF90NWwzSi1taHJwdERQcTgwWFRjemI3aVhtQUxPNWJOSzFTdzI3S0swdWZrdE90WkEyV0N6NDNrRmlkQmdqZ0VIMzZwTGFkQWRROXVRVWZjOHVSMVhKc3M2RUhiZEx5OWVDZVBIS0RxSVFaY3VfU3JueDlWdGh0SWxiZWV0a3kxVWpVaHVPUWlNUmtrZHh4Q0d0bXVwdFBldA?oc=5",
+   "time": "2026-10-16T22:32:00+08:00",
    "summary": ""
   },
   {
@@ -528,6 +549,13 @@
    "summary": ""
   },
   {
+   "source": "The Malaysian Reserve",
+   "title": "Singapore names seven companies over Indonesia haze fires",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTmZJdnBGZ2IwVmRDZjA2S2JMMmhac0xCUW51T2FiQUtlSkJyN3FpbTFuc0RES0ExeDBhTkNGUC05Vi1XV09JWVVGQ1hfd1RveWh1aHkyTS0yT1A5dDBCeTJYUFpxakd2SDM4T1hfQU5pY01PQUw2RG93bDhyLWkxY0o0Y3RjYU9LVVVUOURaSTAtOW55SUZQbjNWYWV3M0ZGNmQ4?oc=5",
+   "time": "2026-10-16T21:30:34+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "Haze in Malaysia: Schools to close, public gatherings halted if API exceeds 200",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdlZWV08yNXo1dGkwQTYtUlNYQmlLLXBaZUlvbnpJZHJwNkpVbEVFOF9mM0d2OHJ3Wkk4UklDNE12STZZRnlOUElGY3VJcWRPNnBaWFJEVlpab054dEtpbUZXVkkzTUdHVXE3UG93bUhXNFJYNW5nY0xOVzRsbTVyb0ZqSmhOSGJWaHp4eG91eTZCQzMwRDZ0Q3ZhMHJMY2diTFZmOVFHckdFOW9WVjJyT1hKYjFaMHNwT09n?oc=5",
@@ -539,13 +567,6 @@
    "title": "Singapore-listed firm faces Indonesia's probe over suspected land clearing by burning amid haze",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnU0UWpoal8wQ3N1UzF4bGtZb0xHLWFWMUF5c2gzMFVJdkhMM0JnSkhreVVoU2g5SzN0NHZsYi1YRzJLWlB4LXVEekZ6YjEybG5nb1NNNzEtQU40WExwLWVoVHdQUTRuZDBnOURZU2Ezcjkzc3docDRWUWVpTVBZZ2U2a3RrRUdiOEZUd2w0dGxLQUFlTHNtT3FCMVVwTld4Vl93a2hrQjBrbktkTmRDR05OWjNOblM3U0FicnYyVUU3OENpeEFnREtTdHY?oc=5",
    "time": "2026-10-16T21:15:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: 7 takeaways from press conference – from school contingency plans to mask supplies",
-   "url": "https://www.channelnewsasia.com/singapore/haze-key-takeaways-psi-air-quality-6465711",
-   "time": "2026-10-16T21:10:00+08:00",
    "summary": ""
   },
   {
@@ -563,13 +584,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Haze: Malaysia's palm oil industry steps up efforts to protect crops, reputation",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRTdPejV1RS1XXzZfa0ZETjhEaUFvbXRzUl9Lc1QyVk1BYWctREk1bG1rRENudEJQNzlxNW1sZ0tUdlFybG52WDB4ZVhYem50dUZMOGxyTXZ5UDUzWWU2cXZiSEw1SjZ0aEVkNEg1QWptbDlfck13QlU1bUZ1TkhpMlVBaWJmSXN3WTg3SHJKeDRIM2hBX0lVNG5XSEJQcDkyNGVZaUZ5aU5FX2tsOTFOU2EwMlJPY2tvRUFDOQ?oc=5",
-   "time": "2026-10-16T20:54:13+08:00",
-   "summary": ""
-  },
-  {
    "source": "Mothership",
    "title": "S'pore reveals names of 7 companies involved in haze-causing fires",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeUQySEhBSFBwM1hZNzhKOEt0OXNCdTI1QjItRW9NQmFoci1tNFBId3dsVjJEaEJJUFluYkFMS29wVzFaWkhHb1loVk85OGlReDRWUFE2emZuQVJTcjRfc1JRSXpNNVRBQVVlbFEwZENEVVM4SlBtMnQ5SFpETkhYeDc3Q3VWcXdvN2xoYjhycUZNaGZqdHlKeHRn?oc=5",
@@ -581,20 +595,6 @@
    "title": "Haze blankets Singapore",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51V2NISUs1NkVNbUdiM05KRURWSVZqRVdUeVpqaWlCY1ZTZzc3aG5YV2otaDhwZDA2RWVsYWk5Vk1ELUJBZkhuTDd1aDBYcGVCYXpobndqMHdlUmJ5LU8xTGxn?oc=5",
    "time": "2026-10-16T20:47:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Indonesia Business Post",
-   "title": "Malaysian lawmaker urges ASEAN to unite against Indonesia over haze crisis",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1pUWUxwc3U2bzIySUdHUm5tRTZmVl9wVFU3RURBVm51TTRKV0xhazcybEtUS3MxbWMwVklhdFJzbUVCanZfbTBtYXZ0R1I5bGpLU011WVRJRzZtanJocV9IbTRIQ1pWU2lGdHJGcG1nTmUzay1mQ0c2LWZRRm11TVhKZXNUUFBjZjBkaEFfanpTX0o4YWE0SnRJLTNLUUFGbDJTcW5VaXNUWVZfVlZiQk1ZcHJzMFc5eUxB?oc=5",
-   "time": "2026-10-16T20:35:08+08:00",
-   "summary": ""
-  },
-  {
-   "source": "National Environment Agency (NEA)",
-   "title": "Haze Situation Update (16 October 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUDRvNDBSai1YbEFNUUFhUy1RY3NOanpRTjdTR1ItRHg2TnlKTjExQnpoSVE4aGE4dVdFRUw3dENjeGRMNE9mdVZqZzM3X0NZVHRndGhxcmFZcUJPdlRpaG9DNVJIZ21tQURBQjJrU0k4a2FTV2ZvR1d0LTFvRVE5UzcwV3hMVkdQeXpJX0taVGs1UQ?oc=5",
-   "time": "2026-10-16T20:26:57+08:00",
    "summary": ""
   }
  ]
