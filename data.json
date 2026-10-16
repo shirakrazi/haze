@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-16T23:00:00+08:00",
+ "updated": "2026-10-17T00:00:00+08:00",
  "psi": {
-  "west": 194,
-  "east": 188,
-  "central": 212,
-  "south": 176,
-  "north": 152
+  "west": 192,
+  "east": 186,
+  "central": 208,
+  "south": 174,
+  "north": 151
  },
  "pm25": {
-  "west": 114,
-  "east": 89,
-  "central": 112,
-  "south": 73,
-  "north": 82
+  "west": 125,
+  "east": 99,
+  "central": 101,
+  "south": 68,
+  "north": 81
  },
  "hist": [
-  {
-   "t": "2026-10-14T17:00:00+08:00",
-   "psi": {
-    "west": 175,
-    "east": 164,
-    "central": 166,
-    "south": 148,
-    "north": 121
-   }
-  },
   {
    "t": "2026-10-14T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 176,
     "north": 152
    }
+  },
+  {
+   "t": "2026-10-17T00:00:00+08:00",
+   "psi": {
+    "west": 192,
+    "east": 186,
+    "central": 208,
+    "south": 174,
+    "north": 151
+   }
   }
  ],
- "newsUpdated": "2026-10-16T23:07:43+08:00",
+ "newsUpdated": "2026-10-17T00:07:47+08:00",
  "news": [
   {
    "source": "CNA",
@@ -521,6 +521,13 @@
    "summary": ""
   },
   {
+   "source": "The Online Citizen",
+   "title": "Twelve years on, Singapore’s haze law has yet to show it can deliver accountability",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNDBYXzdkdTVmSzdRTTk4VWZSRHltdjNNZGRZRkFCSTZvbC1lVENOVGVhbHBsVVZPcG1WUHBvQnJkc2l2a3hKdVNfXzZjZEJvcm1vemZ5UmcwNWsxN2JzWFpZSXFpVlBTY25LRmx0MURBLW5pLVZYa0d1dWVSMjZlQXFpN3hEeW0wdlltRHlTLVBlTG1HMWo5Z1BDeldIT1ZZRW9DN2ZYdkYwZF9VMnJ6eXNORjdBLVBaakdGVXU0Zw?oc=5",
+   "time": "2026-10-16T22:38:59+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Haze in Singapore: Preventive measure notices sent to 7 companies responsible for fires",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzdKaVNvMEExcUxWczhmcWRuXzVUQzVzSWpMakZtQjNBNktoRHNhSDh2Wi1LaFJyVUtReDJNS2dJdm9lTjg4VThNU0JXWWp1dllzTldmY2NzYlJFajBzYmM1bFptNEk1SktSVmlfV0lUR2xoanpvZlNPTThIc3VONWVjczNlNkZIYXpZLVZfQkVfRUFFcGVtZWRNTTRWbUxfN3lnQ1U5dzRURnJGTE1aNklMN0xyTDFkSmJCSkxnNG1YZms?oc=5",
@@ -532,6 +539,20 @@
    "title": "2026 Great Eastern Women’s Run cancelled amid worsening air quality from haze",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcm1aZ18tdU52MXFKZUYyZF90NWwzSi1taHJwdERQcTgwWFRjemI3aVhtQUxPNWJOSzFTdzI3S0swdWZrdE90WkEyV0N6NDNrRmlkQmdqZ0VIMzZwTGFkQWRROXVRVWZjOHVSMVhKc3M2RUhiZEx5OWVDZVBIS0RxSVFaY3VfU3JueDlWdGh0SWxiZWV0a3kxVWpVaHVPUWlNUmtrZHh4Q0d0bXVwdFBldA?oc=5",
    "time": "2026-10-16T22:32:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Singapore",
+   "title": "RegCo queries SGX-listed Indonesian agri firms on cause and impact of haze",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZFVYR0RTZ1NFMG96MHE2cE5hVklCd1ZRZlYyUElJOTRTczRnVklEYmdNWlpia3BGY195QXNIVHJpRUpqXzZHXzFuNGRQY2FDZ3FnYnlhX0s3OG9vUTRUdkpsdWsxTWpUbnd3bzBWbzNaRldOemFHQnhpLXNGckF6YzdsNWJCb2plMktVSnVkMlItYnRsVGZUcGoxSjFXMWt0clZ2b3Y2N3JWTUVnSmVhdVZIVTZNY0otd1E4T1lYUGo2dHJM?oc=5",
+   "time": "2026-10-16T22:15:40+08:00",
+   "summary": ""
+  },
+  {
+   "source": "National Environment Agency (NEA)",
+   "title": "Haze Situation Update (16 October 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUDRvNDBSai1YbEFNUUFhUy1RY3NOanpRTjdTR1ItRHg2TnlKTjExQnpoSVE4aGE4dVdFRUw3dENjeGRMNE9mdVZqZzM3X0NZVHRndGhxcmFZcUJPdlRpaG9DNVJIZ21tQURBQjJrU0k4a2FTV2ZvR1d0LTFvRVE5UzcwV3hMVkdQeXpJX0taVGs1UQ?oc=5",
+   "time": "2026-10-16T22:02:24+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "Singapore takes legal action against 7 Indonesian firms over haze",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcHIzOUZLZl9YMk55ZUJpTUloODVYZjFpSlNCcGp6bVNQa0Fxbkxnd3Q0NTFtSTRGc1hmWlUxOTJwR0lGSFR6Q2hUZms0T1daRUNONjB6bHl3ZGF4eHVOeDFNODVOdFZSektqQ0tfd3FkQldPZFl3X1pMMks4NXM5N19RN0JOcXl2UlJMcFpSSXBCSzV5OG02cEUwZGllRDFrZmlkLXJYYzhrUzJBbmc4YTZuNnBvYUpfeHdTRHhtbDVBdVhz?oc=5",
    "time": "2026-10-16T21:04:54+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AFP.com",
-   "title": "Singapore puts seven Indonesian firms on notice over toxic haze",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0ZsSnJfT0s1b0lTdDZha3NXWjQ4MDg2eEt4Y3JwVG1wb2pOQ19DaWE2M2NlQjFVZ3lBWXJKQU9uSV9kQU5jQUVxODJpcWs5MjByQTJBeS0weU85bWhjbFYwTnRqYXRfay1vTkxQOHVUSTJaSEtERkdpNnQ2dEZaN2NmNjVvY1FuQi1F?oc=5",
-   "time": "2026-10-16T21:02:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "S'pore reveals names of 7 companies involved in haze-causing fires",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeUQySEhBSFBwM1hZNzhKOEt0OXNCdTI1QjItRW9NQmFoci1tNFBId3dsVjJEaEJJUFluYkFMS29wVzFaWkhHb1loVk85OGlReDRWUFE2emZuQVJTcjRfc1JRSXpNNVRBQVVlbFEwZENEVVM4SlBtMnQ5SFpETkhYeDc3Q3VWcXdvN2xoYjhycUZNaGZqdHlKeHRn?oc=5",
-   "time": "2026-10-16T20:52:04+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Global Times",
-   "title": "Haze blankets Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51V2NISUs1NkVNbUdiM05KRURWSVZqRVdUeVpqaWlCY1ZTZzc3aG5YV2otaDhwZDA2RWVsYWk5Vk1ELUJBZkhuTDd1aDBYcGVCYXpobndqMHdlUmJ5LU8xTGxn?oc=5",
-   "time": "2026-10-16T20:47:00+08:00",
    "summary": ""
   }
  ]
