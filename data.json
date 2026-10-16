@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-16T20:00:00+08:00",
+ "updated": "2026-10-16T21:00:00+08:00",
  "psi": {
-  "west": 200,
-  "east": 198,
-  "central": 222,
-  "south": 183,
-  "north": 159
+  "west": 198,
+  "east": 195,
+  "central": 219,
+  "south": 181,
+  "north": 156
  },
  "pm25": {
-  "west": 130,
-  "east": 119,
-  "central": 148,
-  "south": 141,
-  "north": 44
+  "west": 125,
+  "east": 113,
+  "central": 136,
+  "south": 117,
+  "north": 66
  },
  "hist": [
-  {
-   "t": "2026-10-14T10:00:00+08:00",
-   "psi": {
-    "west": 144,
-    "east": 139,
-    "central": 142,
-    "south": 125,
-    "north": 106
-   }
-  },
   {
    "t": "2026-10-14T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 183,
     "north": 159
    }
+  },
+  {
+   "t": "2026-10-16T21:00:00+08:00",
+   "psi": {
+    "west": 198,
+    "east": 195,
+    "central": 219,
+    "south": 181,
+    "north": 156
+   }
   }
  ],
- "newsUpdated": "2026-10-16T20:09:55+08:00",
+ "newsUpdated": "2026-10-16T21:11:15+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,62 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "AFP.com",
+   "title": "Singapore puts seven Indonesian firms on notice over toxic haze",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0ZsSnJfT0s1b0lTdDZha3NXWjQ4MDg2eEt4Y3JwVG1wb2pOQ19DaWE2M2NlQjFVZ3lBWXJKQU9uSV9kQU5jQUVxODJpcWs5MjByQTJBeS0weU85bWhjbFYwTnRqYXRfay1vTkxQOHVUSTJaSEtERkdpNnQ2dEZaN2NmNjVvY1FuQi1F?oc=5",
+   "time": "2026-10-16T21:02:38+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Haze: Malaysia's palm oil industry steps up efforts to protect crops, reputation",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRTdPejV1RS1XXzZfa0ZETjhEaUFvbXRzUl9Lc1QyVk1BYWctREk1bG1rRENudEJQNzlxNW1sZ0tUdlFybG52WDB4ZVhYem50dUZMOGxyTXZ5UDUzWWU2cXZiSEw1SjZ0aEVkNEg1QWptbDlfck13QlU1bUZ1TkhpMlVBaWJmSXN3WTg3SHJKeDRIM2hBX0lVNG5XSEJQcDkyNGVZaUZ5aU5FX2tsOTFOU2EwMlJPY2tvRUFDOQ?oc=5",
+   "time": "2026-10-16T20:54:13+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Mothership",
+   "title": "S'pore reveals names of 7 companies involved in haze-causing fires",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeUQySEhBSFBwM1hZNzhKOEt0OXNCdTI1QjItRW9NQmFoci1tNFBId3dsVjJEaEJJUFluYkFMS29wVzFaWkhHb1loVk85OGlReDRWUFE2emZuQVJTcjRfc1JRSXpNNVRBQVVlbFEwZENEVVM4SlBtMnQ5SFpETkhYeDc3Q3VWcXdvN2xoYjhycUZNaGZqdHlKeHRn?oc=5",
+   "time": "2026-10-16T20:52:04+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Haze: At least 4 people killed while battling blaze in Indonesia's Java",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzNBV1EwbUhzTDlVbGVnNGdIQVIzUHc1RnMxZ0RGaHl0d3EteUx4TUJjYzJXb0oycjl6bEVBODNtVFV0enVKdnZWcTVhZVRUelFwVXFPVk05ajVvUTZjM1NnRU82aUYyQWdsa1ZGRTFlaDdpUmx4OW1TXzVqajZYNHROVDZYZjV0ZGpQYXpTYTU2ekZsQ1Fma3lyd2xZNGkwaHdhb3Flcl8tUGdwQlB0STRn?oc=5",
+   "time": "2026-10-16T20:37:13+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Indonesia Business Post",
+   "title": "Malaysian lawmaker urges ASEAN to unite against Indonesia over haze crisis",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1pUWUxwc3U2bzIySUdHUm5tRTZmVl9wVFU3RURBVm51TTRKV0xhazcybEtUS3MxbWMwVklhdFJzbUVCanZfbTBtYXZ0R1I5bGpLU011WVRJRzZtanJocV9IbTRIQ1pWU2lGdHJGcG1nTmUzay1mQ0c2LWZRRm11TVhKZXNUUFBjZjBkaEFfanpTX0o4YWE0SnRJLTNLUUFGbDJTcW5VaXNUWVZfVlZiQk1ZcHJzMFc5eUxB?oc=5",
+   "time": "2026-10-16T20:35:08+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality very unhealthy in central region",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02ckJ3WjJYc1VPUzU3Q250emhueUdKUnlIM00zMGp3ZG9jd3ZJSWVNajlSdDF5OXVFenhPeFVBM2luREp1VUdJSjIzMXBzQ2lqT3RJenREdWY2UWFKLVNwNC1mYWEzMy15WC1wb2tmSXpib2dxcGoyR0lxYw?oc=5",
+   "time": "2026-10-16T20:32:01+08:00",
+   "summary": ""
+  },
+  {
+   "source": "National Environment Agency (NEA)",
+   "title": "Haze Situation Update (16 October 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUDRvNDBSai1YbEFNUUFhUy1RY3NOanpRTjdTR1ItRHg2TnlKTjExQnpoSVE4aGE4dVdFRUw3dENjeGRMNE9mdVZqZzM3X0NZVHRndGhxcmFZcUJPdlRpaG9DNVJIZ21tQURBQjJrU0k4a2FTV2ZvR1d0LTFvRVE5UzcwV3hMVkdQeXpJX0taVGs1UQ?oc=5",
+   "time": "2026-10-16T20:26:57+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Business Times",
+   "title": "SGX RegCo engages listed plantation firms over haze, warns of regulatory action",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdktyTWdMeUJuUDZIdFZfczJrcGtpMDZZYUhhRzBqMkVqTExTTnhpd1FaUTBPYUc1SUhUZ0liN2VQVHJiV0M2c2FqYmJuamhFNUhMNUpiZS1ndkJfaGJ6cmJIakVLZEE0OFM3bzZYRHZyUmQtWHc5WTBNYUZfc08wVWdaVzJrdE5ydFRnSDJxSDAtZmMwaHAxbTAwaWg3ZzA0WWdfSms3N0VmOGxxUWg5WDhBSVlmN3FNa3lkTnFEeUItcmln?oc=5",
+   "time": "2026-10-16T20:08:00+08:00",
+   "summary": ""
   },
   {
    "source": "Latest news from Azerbaijan",
@@ -521,10 +577,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Platform workers should not be penalised for delays during haze: Jasmin Lau",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ0RMajdCNktSTUlNMXJiSFU3ckM5ME1XRTZQQWFiVHUwRGJLU0Zvb1BUQ2JKUTZCN0tZZTR1YTNBNFpOSUtnVHpiZ012clFQdlh3RVVreG9ZQVllN2t5UE5yOVJBUllING1iVll4UHJqRXFfSzg5c3QzbGdnWkRyZFhhaFZlTG0ydEZlVHRB?oc=5",
-   "time": "2026-10-16T19:23:01+08:00",
+   "source": "The Business Times",
+   "title": "Schools to stay open; O-level exams may be postponed if haze turns hazardous: Desmond Lee",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQemd2d05ENklHNGxZV3BZbHItS2d1UnhNM3gwMUFyTlRaQjY5cENsX3dGQ3FyYXFRR29FR2kwRTU3ci1jci13V3ZpR3N3YjJyS0FUaGdxdWFUanhWRThOdDFMc3J4UWZkUVE3TUNPTjVPNzQwUldWSjM0ZzFUV2Z6OC02NklXaEZtRkY1X3JoVy1iTU9DNEpZODFuVDJSMEFBcEtycXZLU2dMOUdKbEJPX3BIZzhJM2NibTE4Y3Z0aWZqdkY5dmx3YkZFVWxleHB6TC13Tw?oc=5",
+   "time": "2026-10-16T19:12:00+08:00",
    "summary": ""
   },
   {
@@ -539,62 +595,6 @@
    "title": "Issue 216: Singapore’s multi-fuel bunkering bet; listed companies hazy on haze risk",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUEo4SWtOamZYWi1RX3hHd2hNeTNRRUpWTElFVlg4VHJoNElQTHhabjRRNEQ2NjhNUEJRck9mNFZNckxsakk4MGlPa3V0NGcwb1dlZ3RTQWU3OWtSZFpoTXVVa1FwNU1FSVFlRGd3U202a1Z2Q1VLQmRHSEJvVHRxQlMyTlVnN1ZSYmMwaXJ6Y1pkLUc5LVZKS0EzTFE3SVVORXBJRDJwRFpNalhwREZLQmI3dUYzdFQ1S1NiVkwxOXhnYkhLUFA3VVJoRkx1b3hF?oc=5",
    "time": "2026-10-16T19:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore outlines haze precautions to protect students and school children",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbVd6VktWeEV3V3NuR1hWamNDY2MyamowbnhQNlIySncza19KYW5XRGRXX0J6dUpDUHp4UjBLXzhFX2x0N1E4ZXZKNHdYZ1J2T01DejRYSFdaY2oxZmxMWmQxQkQ5TWIyeFJLZmp2UGJIcVZRMXhzRV9XQ0dOVUtSbFdVYmdjTlctMXp4eVQtMkZEWkx5YWVfNDJ6RW9LejVNcWJDOGpWb3dMLW1IN1pTajBVeWhSRXV4UElRZV9RcFFFeFQ1NTJqRnRablhDOEg3TzF3SjVxWU9rSzg3aENMbGZMbEV5RGluaGhOaA?oc=5",
-   "time": "2026-10-16T18:56:23+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Anadolu Ajansı",
-   "title": "Indonesia tests dry ice technology to disperse toxic haze from forest fires",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGFteW5LOEEteU5aVkhLOUNSdV9OMUFuOWpOMFF0Ti0yNmZKYTNieTQ2UWVLRlp5VXVpeVdjcmRuVkd5blkxM1JiV0VXNXZaOHkwR0YzMjZZeDk4LUVmZEd3T2dfdzRsdy1EWkNQR0VBeURvZWdWU1E5NVlwWU9zUFIwTVNjTjMyY2gtMXZtYW4tSHpFek5vMXdmeDVXdzB3WXdWWUNOaG12Y2Y1eVZaVzBqME5iTV9n?oc=5",
-   "time": "2026-10-16T18:47:01+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze: Indonesia decision allowing foreign assistance to tackle forest fires welcome, says Ahmad Zahid",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZm4xTUJvcHhVQjk5UXhNYzlzdWM1QXpBQk9NWmxVTHNubnN2MHJEUXF3am03QlozYkpLc2lLNTl4cjF2RFNqQllYWUZ5MEZjczFUUTRwaVZVeHZKV2pocHB6OVRnNm5JWVNYVm52UkRUMnVXQzdlZ2RYRkpwWHFhTU5fQU82QTB3V01OTmtqY0IySldmeFZiN0FvejlBSk1Ccm5VXzBldmZQeFhlWWZabnFsUk1PUS1tODQ3M3pIZTJlUkhmaDdGSGU5YzVvdUZlYlYwYnAwLVA0anB1d25UR2Qtbw?oc=5",
-   "time": "2026-10-16T18:41:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze: Schools must close, public gatherings cancelled if API exceeds 200, says Health Ministry",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc1FMaEZtWDd0d0dpZ29iSHM0YXVDbURIN1ZGLW5hWXB6TEJJSHZjNDdQaGlobEc4bEZUanhSME5sMHFWWlNGYWtHdmM1T1dlU3ZoblpQeEFhNU5fVzRrX1c0SUVieVlKM2VLZlM5LWxTTUluclRBRnF4S3lWcFRiU2hXYnpmdVZmazhSaW5NUlZmOU5UT2Z6WFpKNk50WkYydURidEpCWFY0YmRkb1ppdE41emVfME8yZzZnTGFScEdIQjVNZFhzdGw3VGhZTE4tbmVPUzkwcjk?oc=5",
-   "time": "2026-10-16T18:35:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Preschools to remain open even if schools close when haze hits hazardous level: Desmond Lee",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb2pqSVZmc3c4WVhTS3NuUEhiUXNMWkVrMW5jMGdhb1BlNW0zM0NXOU9sbUJtLThTNXhkQWg4Qk5ZQWtFNXFPVE5Pb0JTSWQxVVhSaW0yMHJRbXpBUDAyZ1RMZEtoWmpoRXlacF9rVHA1R0ZTY1h4cFNncGthSDZaWWZfTi01b3dZakJxajYwVW9aRU1EdXVQWkZxWHJmZw?oc=5",
-   "time": "2026-10-16T18:34:47+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne",
-   "title": "Singapore's haze contingency plans: What parents need to know about school closures, home-based learning and exams",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzZPeVRjNUJheXg4WlEzSm14X241WG1UZGstS3lUeE00dFNydVpRUVVSdF9lVnp3eXhoRkQ0dElLMDJQdWR5MHNNWGhvTkJkOGUtYTdRTi1QNGM1b3BfdUE1OUFwanV1c1JiOXUxazh4cV80eU9BSWZOOTBmNlRlNWl4RGd6QXp6dDlCaDZ0aEI2OVZXYXNQS0k3TlJvS28?oc=5",
-   "time": "2026-10-16T18:20:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Employers need to plan how to protect workers if haze situation worsens: MOM",
-   "url": "https://www.straitstimes.com/singapore/environment/employers-need-to-plan-how-to-protect-workers-if-haze-situation-worsens-mom",
-   "time": "2026-10-16T18:15:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Online Citizen",
-   "title": "Seven companies identified as sources of Singapore haze, NEA to issue preventive notices: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcVhjNHJScWFGM3MzZWZZTWdWTXFTY0paYmEzU3VGWUFnMFUxa05SSnE4WmpzR3dWWnZkeW1fQzRULW93Z2tIV3BfbzRaU1JWVU5hUURLa1ZvRTRwNzd0d1U3ODl5Um1PNTZjSGlCc3J4UlBiMGoyaVYzb1JfMnRNZlRIR0VuRjAxZUI1YUh4X3NiYmxMa2ZPYjQyRkRzTlVmaXRKR1lrTW9TM0ljOXBiMVV2cEo5eW9hUDZEVld5Q0xnUmYyaS1IaXRhWVJ6R3RvMWFsNHFmc20?oc=5",
-   "time": "2026-10-16T18:15:02+08:00",
    "summary": ""
   }
  ]
