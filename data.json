@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-17T17:00:00+08:00",
+ "updated": "2026-10-17T18:00:00+08:00",
  "psi": {
-  "west": 193,
-  "east": 177,
+  "west": 196,
+  "east": 178,
   "central": 186,
-  "south": 161,
-  "north": 131
+  "south": 162,
+  "north": 129
  },
  "pm25": {
-  "west": 200,
-  "east": 168,
-  "central": 185,
-  "south": 175,
-  "north": 95
+  "west": 199,
+  "east": 159,
+  "central": 183,
+  "south": 188,
+  "north": 101
  },
  "hist": [
-  {
-   "t": "2026-10-15T11:00:00+08:00",
-   "psi": {
-    "west": 211,
-    "east": 170,
-    "central": 193,
-    "south": 163,
-    "north": 127
-   }
-  },
   {
    "t": "2026-10-15T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 161,
     "north": 131
    }
+  },
+  {
+   "t": "2026-10-17T18:00:00+08:00",
+   "psi": {
+    "west": 196,
+    "east": 178,
+    "central": 186,
+    "south": 162,
+    "north": 129
+   }
   }
  ],
- "newsUpdated": "2026-10-17T17:07:25+08:00",
+ "newsUpdated": "2026-10-17T18:11:27+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,24 @@
    "pinned": true
   },
   {
+   "source": "The Straits Times",
+   "title": "Haze in Singapore: Before and after photos",
+   "url": "https://www.straitstimes.com/singapore/haze-in-singapore-before-and-after-photos",
+   "time": "2026-10-17T17:10:36+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Singapore haze: PM2.5 readings climb into high band in four regions",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGZ3V3F3cGR5QzRrZWdYTXlKaFpVLWpESXpaQ21YYTFVVXhtVFV5X1dESlg5VmNrenBtWVZMdTl0NS1xNkJxSXotVFR2TGVWUGN0bGMyMlRaVDJaaTVqaDB6NW10bm10b2FlX3l1UDVWSGJWbHgwN2lzQzU1aVo1aWxsbWlPSzg?oc=5",
-   "time": "2026-10-17T16:04:02+08:00",
+   "time": "2026-10-17T17:04:37+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Bangkok Post",
+   "title": "Haze triggers highest-level alert in parts of Southeast Asia",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHNwQUZITTN4MXBaS3U0ZGRjTkUySDFnTW81UGlTZW1iSXRzTktOczAtU2hzN1NQZ01qYkV2UWJ3dWtOeEswY1AtU2dtM2hpM3I3RXE5Z1NIaVZfOVFQeWdCTGtJMmptcXlYYmFnY08zcjlZbmpWVF9CTGt1QnJfeFBucS0yQ19zR0FuZU5wSHUxLWZ4c3ZwTGJ0VkgxaG12OFJBNA?oc=5",
+   "time": "2026-10-17T16:45:00+08:00",
    "summary": ""
   },
   {
@@ -535,10 +549,24 @@
    "summary": ""
   },
   {
+   "source": "Malay Mail",
+   "title": "Singapore reopens ActiveSG sports facilities as haze eases, but water sports suspended",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS1NVNmZEX2tvMXRuSHJUQzNCZFZNRkctWTgwM2xuZGQ2YkI3dXpwaW52bktSZl9mVFh4VXZZckZmZzNuYjZtdGc0RXRUbmNDMnlmS2JLREVkdjhNN3hadmM4OHY4WFhGSDhaZi10TWdxYm1sNFA3aURIZXNxcjEza2U4NlhlOEFXZGMzc2FXNW14eFgyekdqQktQQzJqVC13Ui1Hcl9QUWJlRUlZd2xDZjlCaHB5ZnNfRmQ4OE5VYXUxR1dURHFXd2t2Mjh1QWNranQtMW9mVkJoR3pkN00xZXNR0gHiAUFVX3lxTE1LU1U2ZkRfa28xdG5IclRDM0JkVk1GRy1ZODAzbG5kZDZiQjd1enBpbnZuS1JmX2ZUWHhVdllyRmZnM25iNm10ZzRFdFRuY0MyeWZLYktERWR2OE03eFp2Yzg4djhYWEZIOFpmLXRNZ3FibWw0UDdpREhlc3FyMTNrZTg2WGU4QVdkYzNzYVc1bXh4WDJ6R2pCS1BDMmpULXdSLUdyX1BRYmVFSVl3bENmOUJocHlmc19GZDg4TlVhdTFHV1REcVd3a3YyOHVBY2tqdC0xb2ZWQmhHemQ3TTFlc1E?oc=5",
+   "time": "2026-10-17T15:26:24+08:00",
+   "summary": ""
+  },
+  {
    "source": "NST Online",
    "title": "Haze triggers highest alert level in southern Asean region",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWE2aGdWdGxoZWVnN3N4bkk2MXVHUE1oeGNhcE9Oa2Fqb1lhenZqRWxPc3R0MEswTTBrM1Fyb3BucDItVjE0OUlMeEQxUmphbmE1UEJIWjMtZzhYSkFCSlRPeDJzVzlKMW50dkNRTjRwOUlvamZRaEFMLVpiaEdZYUVROU5qSUg1blRVMTRCZENQbFM1YTl5Z0haRkNfUC1SVUlBbnBJRWhpakXSAbABQVVfeXFMT0JianA5SDhaXzkta1hrSHZGOVdmcmFIRVFBS2lMa2NKQWVpYno3MlVib2dySW5QMV82WElQTnQ2eTJjR3hWYUJoM0w5akR5cHBOM1BPRTR2SkVnWkIzRTFBRXBTS185azJKajZ4cmM4ZEk2dkM1TWEzTzRpcGtLYTF2aFVFR1Q0dUJQYkpONWNlNURFaVp6b09VNV9XOHM2aXd1Zk5maGY2Zi04QXFmMU4?oc=5",
    "time": "2026-10-17T14:43:51+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Haze triggers highest alert level in southern ASEAN zone: monitor",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc3pYU2s1YXpKVkcwSXhQWmFlcE1jLTYwZGlKZzgwZ1NtRVJXc25uQVNOTmJPYVlfLXk5U0dEeDlLOWR5am11TmJZQVlLWTZFZ1prcDV5M3doSjdXUHllN2FWeUw4bXpaWTdWZjJzUHRRN0ZfU1UzbDRzcGVHR1JjazhoclZjUHREWk5GMXQ1SjZ3WUV3ZWNPTWdaRlZjOEQ3MTJXRThGSllfaEE1MXNXTFA1bTZKd055cmY3bThUZHNEdC1VbHc?oc=5",
+   "time": "2026-10-17T14:28:00+08:00",
    "summary": ""
   },
   {
@@ -567,34 +595,6 @@
    "title": "Singapore moves against seven Indonesian firms as haze clouds region",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGdFTzdRV3cxYWxDT2xaRlZiZTNzYUJ2dXAtWVFHX2k4NUNfUnVTSVJ0ZWY1Z3Q3OE5KR0JUNnl0MmtxaUI2cEJ2dWY4MDc5YVgtMWF3dWJnQlBRem5waTVHSnVlbU55ZFRrR0d6SC12TzNVc095RUVkbTdrZE9MQzZuMkRMTXlpRE5BOWQ3MHNYT0pRUWFoWkRqbWh5ck1DMVRHRmw0ZTNjeUItM0x6WUdOVC1lQQ?oc=5",
    "time": "2026-10-17T13:04:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "3 of 7 companies served with haze enforcement notice had received similar notices in 2015: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaM2JmbHlhTzlyRkFZWllhMHc1NC1uRG1ra09kaXZNTU81dkxjcHFWUjJGR09jNDhQWmVSYUJaVTV3QVJnaHBjRUxfRUpKbkp1TkFDa3ZVSE1RRlpDdE5MeTZ4czRGTGdY?oc=5",
-   "time": "2026-10-17T12:59:20+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Arab News",
-   "title": "Haze triggers highest alert level in southern ASEAN zone: monitor",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOTFabHdyZllCeXhwbWlReDRSTV93VmFQY0ZrcE9iMmVQbEY1R0dXT1FRMlZNcVcxUm03NlhyLVk0bXNsYzlVZWxrNkxfSnpobWJhWHpybW9Hczh6SVlLRGd0RmNWMU9kTEV2Nmk0VUYtRDVNWmZYenZFSnlqd1g0M0g0TThkUDBwNUtiSWNCQ2xvSW5IZUtEYlFLVkN3cjdabm04VGR3?oc=5",
-   "time": "2026-10-17T12:51:35+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Online Citizen",
-   "title": "WP MP Kenneth Tiong welcomes haze notices, urges action against Singapore-registered firms",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNckpzYm9xN1lja3VtMENYY0xjYVE3Y2JDeXdwejhVeVNzVV9mR1MtX25UZEZwSHpURmlDeXRSZzFtaThqdXJVdUxEQVd3S0h6Vy1vMnRvMV9zS2ZzYkh2QnQtbWlIazlHWFRDcTJMdlpYclROWjAtbVUzTVdOaGtNNnNPZE1YaGhEb3puaEg4cEdJdGZMLWJrcnRvRVVXdDJET1pPazN4R2liTXVUQXNfZjVVRjhLUi1IVTRsaFd0TjJ3MFBaMnpXSTlFRFJmUkk?oc=5",
-   "time": "2026-10-17T12:32:57+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Asean must act decisively to end recurring haze, says MMA",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSl94ZWxEamljM3pyRV92WWJySmI3cTNTNXd5N0dXN1VWZmxSWHlfRjBfc1ZkUkl1Y3RLVlhUdDFsbjUxSkk3ODNSYm9PajFFUG1SQWxiX25qbGp0YTJsTU5JQS01Q0M4WmpzNjNyV0REcW5LYjlVV2lJZlVUN3pyeFNha3pwczh5eWI0SUhLQkJqNzRGeHRYbzAtQVlEY0lnMnFLQVczbDNoV1lZ0gGsAUFVX3lxTE5KX3hlbERqaWMzenJFX3ZZYnJKYjdxM1M1d3k3R1c3VVZmbFJYeV9GMF9zVmRSSXVjdEtWWFR0MWxuNTFKSTc4M1Jib09qMUVQbVJBbGJfbmpsanRhMmxNTklBLTVDQzhaanM2M3JXRERxbktiOVVXaUlmVVQ3enJ4U2FrenBzOHl5YjRJSEtCQmo3NEZ4dFhvMC1BWURjSWcycUtBVzNsM2hXWVk?oc=5",
-   "time": "2026-10-17T12:30:36+08:00",
    "summary": ""
   }
  ]
