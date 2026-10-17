@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-18T00:00:00+08:00",
+ "updated": "2026-10-18T01:00:00+08:00",
  "psi": {
-  "west": 215,
+  "west": 218,
   "east": 182,
   "central": 185,
-  "south": 168,
-  "north": 129
+  "south": 169,
+  "north": 130
  },
  "pm25": {
-  "west": 199,
-  "east": 111,
+  "west": 201,
+  "east": 105,
   "central": 98,
-  "south": 114,
-  "north": 83
+  "south": 98,
+  "north": 82
  },
  "hist": [
-  {
-   "t": "2026-10-15T18:00:00+08:00",
-   "psi": {
-    "west": 184,
-    "east": 160,
-    "central": 186,
-    "south": 157,
-    "north": 121
-   }
-  },
   {
    "t": "2026-10-15T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 168,
     "north": 129
    }
+  },
+  {
+   "t": "2026-10-18T01:00:00+08:00",
+   "psi": {
+    "west": 218,
+    "east": 182,
+    "central": 185,
+    "south": 169,
+    "north": 130
+   }
   }
  ],
- "newsUpdated": "2026-10-18T00:39:21+08:00",
+ "newsUpdated": "2026-10-18T01:07:21+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Latest news from Azerbaijan",
+   "title": "Singapore air pollution reaches very unhealthy levels as haze from Indonesia persists",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVJidlYtVjA1eUVfUllJeDFNR0JnMUxHckMyT2JKdzFTNjR2UVEyNDFHaVA0SWxDMDIyNDM2VjRRNEdIU1cxdDNFa1dSSnZmNlZwX2JlX3JZRzBzUVltWm42N0F0cFRpQ2NxZmRBUzhpR2hSbHVEZXZyWnF6MkxWd2JfX0Y2enpxaHJpQ2RxTGl1dUtFNk9Uc3JIMXR2Y251eE9ZZGM2bkcwdw?oc=5",
+   "time": "2026-10-18T00:58:17+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -588,13 +595,6 @@
    "title": "Haze triggers highest-level alert in parts of Southeast Asia",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa0NVZHJFZ3hrRVFxX1VaQ1o1Z1B6OVVmWVU3MjN0ZjY4b2wtRERMbnRUZld1OWpucFJOTkFOS3ZvZ2pGdVpyUHdzZ0RDSDZRMm1jRXJvTHRTRUVlTF9Jc3FRMFhJSFpDZXI3eGtGVDRkb09mTkFvTzZNUXp3ckRyRWtPNHFoVVI4d1VPRlB0d01PRU9Kb0trcUhJZFdBVXJNczJZ?oc=5",
    "time": "2026-10-17T18:46:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ANTARA News",
-   "title": "Indonesias BNPB uses 2.4 tons of dry ice to clear South Sumatra haze",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWXk3Wlg4YTRzeVdUdkhjb0gzMzhRSW5FZkQ2OWFtUWgydnlFcGt6OHFZX0lyd09WVGplS1pMWjhNanNGb1ctWGZ0bXJDM0hmajhyYVl0ellJREtSQ3ZRS21Vdkg4UWlTdkFUNkRUOGU4cVBfUjhQcG5OTnEtakE2VHU0S3hrNHVUbzI1WVh1SmFYOGV4blFMVUxYUFBPMVdjUEtmVjFhSWlNbnJYcFHSAa4BQVVfeXFMTll5N1pYOGE0c3lXVHZIY29IMzM4UUluRWZENjlhbVFoMnZ5RXBrejhxWV9JcndPVlRqZUtaTFo4TWpzRm9XLVhmdG1yQzNIZmo4cmFZdHpZSURLUkN2UUttVXZIOFFpU3ZBVDZEVDhlOHFQX1I4UHBuTk5xLWpBNlR1NEt4azR1VG8yNVlYdUphWDhleG5RTFVMWFBQTzFXY1BLZlYxYUlpTW5yWHBR?oc=5",
-   "time": "2026-10-17T18:24:23+08:00",
    "summary": ""
   }
  ]
