@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-17T16:00:00+08:00",
+ "updated": "2026-10-17T17:00:00+08:00",
  "psi": {
-  "west": 191,
-  "east": 176,
-  "central": 185,
-  "south": 160,
-  "north": 132
+  "west": 193,
+  "east": 177,
+  "central": 186,
+  "south": 161,
+  "north": 131
  },
  "pm25": {
-  "west": 221,
-  "east": 169,
-  "central": 187,
-  "south": 170,
-  "north": 112
+  "west": 200,
+  "east": 168,
+  "central": 185,
+  "south": 175,
+  "north": 95
  },
  "hist": [
-  {
-   "t": "2026-10-15T10:00:00+08:00",
-   "psi": {
-    "west": 209,
-    "east": 171,
-    "central": 189,
-    "south": 161,
-    "north": 126
-   }
-  },
   {
    "t": "2026-10-15T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 160,
     "north": 132
    }
+  },
+  {
+   "t": "2026-10-17T17:00:00+08:00",
+   "psi": {
+    "west": 193,
+    "east": 177,
+    "central": 186,
+    "south": 161,
+    "north": 131
+   }
   }
  ],
- "newsUpdated": "2026-10-17T16:07:14+08:00",
+ "newsUpdated": "2026-10-17T17:07:25+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: PM2.5 readings climb into high band in four regions",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGZ3V3F3cGR5QzRrZWdYTXlKaFpVLWpESXpaQ21YYTFVVXhtVFV5X1dESlg5VmNrenBtWVZMdTl0NS1xNkJxSXotVFR2TGVWUGN0bGMyMlRaVDJaaTVqaDB6NW10bm10b2FlX3l1UDVWSGJWbHgwN2lzQzU1aVo1aWxsbWlPSzg?oc=5",
+   "time": "2026-10-17T16:04:02+08:00",
+   "summary": ""
   },
   {
    "source": "France 24",
@@ -539,13 +546,6 @@
    "title": "Singapore haze keeps air quality unhealthy across island, with PM2.5 levels high in most regions",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcmRUVlZQMmhocGY1SDFMYmhTcVJNbkFsMmNoQWhXMVdSX0NaZlRsbDhvV3FMU1BLTHBqSl9wSWNPZWVvU1h3eUcxb25vOG9CSHl4QkRqcmZNYnhFalFaRzZ5MmNjbUxrejJSaVp1NFA4V1JVX25IVnVWRjlhTzVnODl5b0tOdnJVa0RFS2wzVnpoV3g2a0hDZUdVN054aXZNZ3ZsMjhPcTVPbzl0UGRfaVYzQ2ZCM3ZDQ0ZkMzR6THRQNUNnVV9ac1FSMHFMYkNUUUxOcjlGMjVoTzRhbmJFU0xoUnA4azRBYnZ3NG93?oc=5",
    "time": "2026-10-17T14:18:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: PM2.5 readings climb into high band in four regions",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGZ3V3F3cGR5QzRrZWdYTXlKaFpVLWpESXpaQ21YYTFVVXhtVFV5X1dESlg5VmNrenBtWVZMdTl0NS1xNkJxSXotVFR2TGVWUGN0bGMyMlRaVDJaaTVqaDB6NW10bm10b2FlX3l1UDVWSGJWbHgwN2lzQzU1aVo1aWxsbWlPSzg?oc=5",
-   "time": "2026-10-17T14:12:17+08:00",
    "summary": ""
   },
   {
@@ -591,10 +591,10 @@
    "summary": ""
   },
   {
-   "source": "PEAK Singapore",
-   "title": "The money behind the haze",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2licG1EMlAyYUQtNW5ENHNlUFFZcFBUMzBIVXRKSUw4OVVsM1FCTEJEUldtbllPYTBuZVZoTUYzTFdGTGE0Vm5TN0haZGxsS0FkaVZDS01LR0RqQVJCQ2R2RGlkTElXdm5INmFkQ2JqSW03OGR6b29feFFISzlTcmMxNWZpNGJLZHZTcXJwUHltZFQtaE9nX1R4NDBtLVlzOWZDWg?oc=5",
-   "time": "2026-10-17T12:19:48+08:00",
+   "source": "NST Online",
+   "title": "Asean must act decisively to end recurring haze, says MMA",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSl94ZWxEamljM3pyRV92WWJySmI3cTNTNXd5N0dXN1VWZmxSWHlfRjBfc1ZkUkl1Y3RLVlhUdDFsbjUxSkk3ODNSYm9PajFFUG1SQWxiX25qbGp0YTJsTU5JQS01Q0M4WmpzNjNyV0REcW5LYjlVV2lJZlVUN3pyeFNha3pwczh5eWI0SUhLQkJqNzRGeHRYbzAtQVlEY0lnMnFLQVczbDNoV1lZ0gGsAUFVX3lxTE5KX3hlbERqaWMzenJFX3ZZYnJKYjdxM1M1d3k3R1c3VVZmbFJYeV9GMF9zVmRSSXVjdEtWWFR0MWxuNTFKSTc4M1Jib09qMUVQbVJBbGJfbmpsanRhMmxNTklBLTVDQzhaanM2M3JXRERxbktiOVVXaUlmVVQ3enJ4U2FrenBzOHl5YjRJSEtCQmo3NEZ4dFhvMC1BWURjSWcycUtBVzNsM2hXWVk?oc=5",
+   "time": "2026-10-17T12:30:36+08:00",
    "summary": ""
   }
  ]
