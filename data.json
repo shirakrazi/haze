@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-17T19:00:00+08:00",
+ "updated": "2026-10-17T20:00:00+08:00",
  "psi": {
-  "west": 199,
+  "west": 202,
   "east": 178,
-  "central": 186,
-  "south": 162,
-  "north": 130
+  "central": 185,
+  "south": 161,
+  "north": 131
  },
  "pm25": {
-  "west": 198,
-  "east": 139,
-  "central": 182,
-  "south": 156,
-  "north": 106
+  "west": 187,
+  "east": 116,
+  "central": 135,
+  "south": 117,
+  "north": 79
  },
  "hist": [
-  {
-   "t": "2026-10-15T13:00:00+08:00",
-   "psi": {
-    "west": 210,
-    "east": 170,
-    "central": 194,
-    "south": 162,
-    "north": 128
-   }
-  },
   {
    "t": "2026-10-15T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 162,
     "north": 130
    }
+  },
+  {
+   "t": "2026-10-17T20:00:00+08:00",
+   "psi": {
+    "west": 202,
+    "east": 178,
+    "central": 185,
+    "south": 161,
+    "north": 131
+   }
   }
  ],
- "newsUpdated": "2026-10-17T19:07:55+08:00",
+ "newsUpdated": "2026-10-17T20:07:16+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,38 @@
    "pinned": true
   },
   {
+   "source": "Malay Mail",
+   "title": "Singapore haze remains unhealthy despite showers, with PSI forecast to hit 220",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWV9lazNqODRybTAzd1dZc012TVp1MUk1U0dScUdPZnBkektIZUlvaXJFWXZEeHI5LWVJQ0w1UDhkTkFYTWp5aEdFNi1nZG9xOHNiaExNa1o5WDhfa3Y3M1dwZnVILWVlcXVRckRLR1l3VVBlQ3RqQ19LV3N3bmhTaktYVVRJS2RQOFY1LUotVFRyVmpPWl9HdHpmQXBHM0FrTnpzUktmM21UUmMxWVdxeVFWWWp1ek5DN1h2NEkzeXRMbWpxODY1UmNjbkJEdGxZU0HSAdcBQVVfeXFMUFh6VFNtT29NbjJCVkJ3Y1NfUzNYVWVzbDM3elEwdXY4cWFsQ1h1Nldvb0Q3eEM2OGdWMmlpMHllazAyNHlpbVI2elN5akw2a0M3dnFBTDRkTzdKWDJjYTVSVjhiX0M0bXhBN2EwTVJacVFDamVRbnJKdXpZZkFaR2JlbEtGOTRqZ0ItNThDWjVwUnVlN1V1Q0taTmJuU2M0dGZ4VHAteHA2aHRpUXE3b2U2T0lIcXFnWFNlNHFEcmNIU1VQYWhNY2x2NHRKZTcyWUc1cnQ4SzQ?oc=5",
+   "time": "2026-10-17T19:59:35+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Buying masks or haze-related items on the secondary market? Be careful, says CASE",
+   "url": "https://www.straitstimes.com/singapore/buying-masks-or-haze-related-items-on-the-secondary-market-be-careful-says-case",
+   "time": "2026-10-17T19:13:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: PM2.5 readings climb into high band in three regions",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGZ3V3F3cGR5QzRrZWdYTXlKaFpVLWpESXpaQ21YYTFVVXhtVFV5X1dESlg5VmNrenBtWVZMdTl0NS1xNkJxSXotVFR2TGVWUGN0bGMyMlRaVDJaaTVqaDB6NW10bm10b2FlX3l1UDVWSGJWbHgwN2lzQzU1aVo1aWxsbWlPSzg?oc=5",
+   "time": "2026-10-17T19:08:29+08:00",
+   "summary": ""
+  },
+  {
    "source": "Bangkok Post",
    "title": "Haze triggers highest-level alert in parts of Southeast Asia",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa0NVZHJFZ3hrRVFxX1VaQ1o1Z1B6OVVmWVU3MjN0ZjY4b2wtRERMbnRUZld1OWpucFJOTkFOS3ZvZ2pGdVpyUHdzZ0RDSDZRMm1jRXJvTHRTRUVlTF9Jc3FRMFhJSFpDZXI3eGtGVDRkb09mTkFvTzZNUXp3ckRyRWtPNHFoVVI4d1VPRlB0d01PRU9Kb0trcUhJZFdBVXJNczJZ?oc=5",
    "time": "2026-10-17T18:46:02+08:00",
+   "summary": ""
+  },
+  {
+   "source": "ANTARA News",
+   "title": "Indonesias BNPB uses 2.4 tons of dry ice to clear South Sumatra haze",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWXk3Wlg4YTRzeVdUdkhjb0gzMzhRSW5FZkQ2OWFtUWgydnlFcGt6OHFZX0lyd09WVGplS1pMWjhNanNGb1ctWGZ0bXJDM0hmajhyYVl0ellJREtSQ3ZRS21Vdkg4UWlTdkFUNkRUOGU4cVBfUjhQcG5OTnEtakE2VHU0S3hrNHVUbzI1WVh1SmFYOGV4blFMVUxYUFBPMVdjUEtmVjFhSWlNbnJYcFHSAa4BQVVfeXFMTll5N1pYOGE0c3lXVHZIY29IMzM4UUluRWZENjlhbVFoMnZ5RXBrejhxWV9JcndPVlRqZUtaTFo4TWpzRm9XLVhmdG1yQzNIZmo4cmFZdHpZSURLUkN2UUttVXZIOFFpU3ZBVDZEVDhlOHFQX1I4UHBuTk5xLWpBNlR1NEt4azR1VG8yNVlYdUphWDhleG5RTFVMWFBQTzFXY1BLZlYxYUlpTW5yWHBR?oc=5",
+   "time": "2026-10-17T18:24:23+08:00",
    "summary": ""
   },
   {
@@ -525,13 +553,6 @@
    "title": "Haze in Singapore: Before and after photos",
    "url": "https://www.straitstimes.com/singapore/haze-in-singapore-before-and-after-photos",
    "time": "2026-10-17T17:10:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: PM2.5 readings climb into high band in four regions",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGZ3V3F3cGR5QzRrZWdYTXlKaFpVLWpESXpaQ21YYTFVVXhtVFV5X1dESlg5VmNrenBtWVZMdTl0NS1xNkJxSXotVFR2TGVWUGN0bGMyMlRaVDJaaTVqaDB6NW10bm10b2FlX3l1UDVWSGJWbHgwN2lzQzU1aVo1aWxsbWlPSzg?oc=5",
-   "time": "2026-10-17T17:04:37+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "Haze triggers highest alert level in southern ASEAN zone: monitor",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc3pYU2s1YXpKVkcwSXhQWmFlcE1jLTYwZGlKZzgwZ1NtRVJXc25uQVNOTmJPYVlfLXk5U0dEeDlLOWR5am11TmJZQVlLWTZFZ1prcDV5M3doSjdXUHllN2FWeUw4bXpaWTdWZjJzUHRRN0ZfU1UzbDRzcGVHR1JjazhoclZjUHREWk5GMXQ1SjZ3WUV3ZWNPTWdaRlZjOEQ3MTJXRThGSllfaEE1MXNXTFA1bTZKd055cmY3bThUZHNEdC1VbHc?oc=5",
    "time": "2026-10-17T14:28:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Singapore haze keeps air quality unhealthy across island, with PM2.5 levels high in most regions",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcmRUVlZQMmhocGY1SDFMYmhTcVJNbkFsMmNoQWhXMVdSX0NaZlRsbDhvV3FMU1BLTHBqSl9wSWNPZWVvU1h3eUcxb25vOG9CSHl4QkRqcmZNYnhFalFaRzZ5MmNjbUxrejJSaVp1NFA4V1JVX25IVnVWRjlhTzVnODl5b0tOdnJVa0RFS2wzVnpoV3g2a0hDZUdVN054aXZNZ3ZsMjhPcTVPbzl0UGRfaVYzQ2ZCM3ZDQ0ZkMzR6THRQNUNnVV9ac1FSMHFMYkNUUUxOcjlGMjVoTzRhbmJFU0xoUnA4azRBYnZ3NG93?oc=5",
-   "time": "2026-10-17T14:18:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Indonesia fires trigger highest-level regional haze alert as pollution spreads across Southeast Asia",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTmRmMGhuOUtobEtfQm9mV0xRQ2FidW0yY0Zpeng2RmdOVGJOdlFzODhnckFQeklMOHAwbUQ5U1RDZ3Z6NzJ1eDBTQmtNdkFyUXJ1dUVyaXhya2xkWE5UMzU4Y3k1cno0cUFxeWZSSHBOT1dsLWlpYmw2cno2dEtqSExlb1FiUW9FY2FWU2ZhUFdPYzFNMV9ybFdsLWZQWDlFZk43LVo3X3JYajdiYWh4dkkwRms1andWbEo0YVEwX3JXM09wUm8zaWM1d1FBXy1XWGFaUUd1MF9EX3JRTDRmOVE4Y3hhbzRiRncw0gHwAUFVX3lxTE9hZkFVNzZrYk1Ka3J0TEhLS3lpaXVRenFYS2wzYW0xX21NeUZKS1hLX1FlM3RLdlpOakdtdUFUSHN5YUVoX0dIdGJhS24wdTQyUjhVQklOc3Vudld0WjJfLV9Rc2ZlZlVacmRZdXQ4a2dvcnh5ekdYTjIwQXlvVVR0d3dZQWt4M0pfYW83a3FjR2s3SlR3Z0hKdDZkUE95SDVrVFAwT1ItZm9JTU5uVGFXRFlZaUtpeTBqUGktYjN0NTNVNEtzaDZNQXZaMHRtTDFnMnphazZkdDJ2al9UdVNpeFJIT1FERktfc21CM190YQ?oc=5",
-   "time": "2026-10-17T14:00:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Asean climate monitor issues highest alert level over toxic haze",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcEpfc0tDSEJsQmxPdzdnZmxzUVhiSUVXajdXSjdoZVdjRFJLZ0hqcERIX05JdkEyWDBnYldEbFJPWUp0WTI3UjBGSTRwSFVQVm9tcmFtTnkwVDdNOElkQ2EyTm42cVV0YUlsMUNZQUN2Wm1hRG03SWx1dks3YVdYajBCZVlKY3FpMGRGYS0yTWROSHg2Ty1EYmE0T1ZpNklHTXlMODB3azZtWXJHNS1uc3J1V1BIZF9waUppQlVSNlYwODJP?oc=5",
-   "time": "2026-10-17T13:26:04+08:00",
    "summary": ""
   }
  ]
