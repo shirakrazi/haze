@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-17T13:00:00+08:00",
+ "updated": "2026-10-17T14:00:00+08:00",
  "psi": {
-  "west": 181,
+  "west": 185,
   "east": 173,
-  "central": 185,
-  "south": 153,
+  "central": 184,
+  "south": 154,
   "north": 135
  },
  "pm25": {
-  "west": 242,
-  "east": 150,
-  "central": 180,
-  "south": 154,
-  "north": 93
+  "west": 243,
+  "east": 159,
+  "central": 179,
+  "south": 162,
+  "north": 99
  },
  "hist": [
-  {
-   "t": "2026-10-15T06:00:00+08:00",
-   "psi": {
-    "west": 206,
-    "east": 171,
-    "central": 185,
-    "south": 157,
-    "north": 125
-   }
-  },
   {
    "t": "2026-10-15T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 153,
     "north": 135
    }
+  },
+  {
+   "t": "2026-10-17T14:00:00+08:00",
+   "psi": {
+    "west": 185,
+    "east": 173,
+    "central": 184,
+    "south": 154,
+    "north": 135
+   }
   }
  ],
- "newsUpdated": "2026-10-17T13:54:44+08:00",
+ "newsUpdated": "2026-10-17T14:07:26+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Indonesia fires trigger highest-level regional haze alert as pollution spreads across Southeast Asia",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTmRmMGhuOUtobEtfQm9mV0xRQ2FidW0yY0Zpeng2RmdOVGJOdlFzODhnckFQeklMOHAwbUQ5U1RDZ3Z6NzJ1eDBTQmtNdkFyUXJ1dUVyaXhya2xkWE5UMzU4Y3k1cno0cUFxeWZSSHBOT1dsLWlpYmw2cno2dEtqSExlb1FiUW9FY2FWU2ZhUFdPYzFNMV9ybFdsLWZQWDlFZk43LVo3X3JYajdiYWh4dkkwRms1andWbEo0YVEwX3JXM09wUm8zaWM1d1FBXy1XWGFaUUd1MF9EX3JRTDRmOVE4Y3hhbzRiRncw0gHwAUFVX3lxTE9hZkFVNzZrYk1Ka3J0TEhLS3lpaXVRenFYS2wzYW0xX21NeUZKS1hLX1FlM3RLdlpOakdtdUFUSHN5YUVoX0dIdGJhS24wdTQyUjhVQklOc3Vudld0WjJfLV9Rc2ZlZlVacmRZdXQ4a2dvcnh5ekdYTjIwQXlvVVR0d3dZQWt4M0pfYW83a3FjR2s3SlR3Z0hKdDZkUE95SDVrVFAwT1ItZm9JTU5uVGFXRFlZaUtpeTBqUGktYjN0NTNVNEtzaDZNQXZaMHRtTDFnMnphazZkdDJ2al9UdVNpeFJIT1FERktfc21CM190YQ?oc=5",
+   "time": "2026-10-17T13:58:45+08:00",
+   "summary": ""
   },
   {
    "source": "NST Online",
@@ -577,24 +584,17 @@
    "summary": ""
   },
   {
+   "source": "BusinessToday Malaysia",
+   "title": "Singapore Haze Eases, But Air Quality Remains Unhealthy",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDJPdlFtWnVWRzczaWFMVkNUM01ZQVZXM1NtRHZWMkhOX2ljc0l4R2liUEE4N29vMUZNUzRFQlBseFNUeVVSdi1IUXpZM2NrVHplVWREZmtxakZrVlJwN0luTE5jMEJXTFdrQ0JqNWtxQzIyWWR6b242U0JXS1hITGNTZ3BTcEZ5VEF0TEg2SlM3elBnSWJVbm1Hd1pTTnRU?oc=5",
+   "time": "2026-10-17T11:31:30+08:00",
+   "summary": ""
+  },
+  {
    "source": "UA.NEWS",
    "title": "Singapore FA Cup final postponed due to haze — Channel NewsAsia",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcFdGUm1OSnB5Vl8zb1lfWHdmOXpvVW43ZXdzejJxcVVydDdZbVlWRUt5NXhtc05FRlBpRmgtaWRHNTllTXo4UkZtd1NEdmxxazIzNGY5QjlTSk9NeGVtNDhyMW5UbWFfODFnSHA4S284UmV3TnRyQzl3dHNIZTYwTzFkRUwtN1RhYUE1RVl1U1l2NjRn?oc=5",
    "time": "2026-10-17T11:26:51+08:00",
-   "summary": ""
-  },
-  {
-   "source": "https://www.tabla.com.sg/",
-   "title": "Minister Grace Fu Warns PSI May Go Past 300 As Haze Worsens",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNckRWY3g3SFdQbEpxR0xlZUFUQnVMRDk2Wm9naDV5TkJnMUJCVmptYXBPNG9xNUp0OXRkQ2tUc2cxQkk3ZFNoZ29YYlRZQnVqRWZ1MVRXeDRnWHU3czAwcDdpRXJrRFNxaTdkeGRDcGZjLTY3YkhheU9xUm9SZVZwbFgwRlVJTXVKWEhkX1o2b2N1a2MtdDFRTXJSek8?oc=5",
-   "time": "2026-10-17T11:15:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Queen expresses concern over haze impact on children’s health, education and mental well-being, says Fadhlina",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWDEybUJEc3haMnctLUNiYUhMOFhfMTBNd1ZQVFJSbjFiNDdhR3hCY1QwbVJnbnhqWkVHM0RsUGtYeVpSWWFKbmVrYTkwbGVmWm93MnViZmlaZHUxOExYNmtyV0Jwam5kU3dWWXJqWHlDd0o1SDJrTVgwdXlHVHFFdVlJVGVJMFo0cFhRSHNGa2NxNXdNOUJyWjZkY011SmxyZnIwOGZ6QTROSDdCOUJXVElyZ1R3cFZtb3BGakxkdTc0VVVaRnhFS2dRUVNYcmFjMEFYZ04zUGFfank1VF9TZFJqWVhtc0MwTHdUTk1SaC05MUd4VDhJ0gH8AUFVX3lxTE9VMHN2QzlsR3JpcXpBRHA0aFNCU2pKdlVtRFU2MmxqX2YyM0RZREx5X0FveDVHd0cxY3pxU3FHczlPU1NHc1N2NTItTVlqc1Y3UWRJQjRFbkhXSEk4SGphNW14MFEtOEZHcWR0ZFBHYVFFelRPbE1kN01IcXd4WjN5NGpIZTl2VVhfMi1vTERQN042TzJ1UlRIWDM5T004eVo4TXhhQWpOSE9fdC1RYi1VWkYxRUUzSDJpN29sYnMtQU1RQWhheDRtOHVzdEQyamJGNWpzZDVQMmhzdlVPVUNhZ05PekJkelNFQVlqTWlsN045TEh4TWZoWUU0VA?oc=5",
-   "time": "2026-10-17T11:08:10+08:00",
    "summary": ""
   }
  ]
