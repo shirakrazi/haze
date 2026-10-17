@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-17T11:00:00+08:00",
+ "updated": "2026-10-17T12:00:00+08:00",
  "psi": {
-  "west": 176,
-  "east": 174,
+  "west": 178,
+  "east": 173,
   "central": 184,
-  "south": 154,
-  "north": 139
+  "south": 153,
+  "north": 136
  },
  "pm25": {
-  "west": 158,
+  "west": 206,
   "east": 144,
-  "central": 140,
-  "south": 87,
-  "north": 83
+  "central": 174,
+  "south": 165,
+  "north": 91
  },
  "hist": [
-  {
-   "t": "2026-10-15T03:00:00+08:00",
-   "psi": {
-    "west": 207,
-    "east": 172,
-    "central": 185,
-    "south": 158,
-    "north": 125
-   }
-  },
   {
    "t": "2026-10-15T05:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 154,
     "north": 139
    }
+  },
+  {
+   "t": "2026-10-17T12:00:00+08:00",
+   "psi": {
+    "west": 178,
+    "east": 173,
+    "central": 184,
+    "south": 153,
+    "north": 136
+   }
   }
  ],
- "newsUpdated": "2026-10-17T11:06:49+08:00",
+ "newsUpdated": "2026-10-17T12:07:11+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Are two N95 masks enough for me this haze season?",
+   "url": "https://www.straitstimes.com/singapore/are-two-n95-masks-enough-for-me-this-haze-season",
+   "time": "2026-10-17T12:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Haze watch Oct 17: Hourly PM2.5 in western region back in high band, PSI remains unhealthy",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2JiSk0yOUpxdDIzUTduVkx6S3ZmMFh6cHUwUGMwWERPX01kWm9vamlEWUxtbFdIVHh2OUkzRXM5UEVCazJPRTFKdWc3RHRVWVhocTdYZjRpNFVrRGNtUHQyTURJVDNuNVpuLWpXc0k0Z1VYOXFKZXpGMmY4eldnd1NoaW8tLUMx?oc=5",
+   "time": "2026-10-17T11:50:22+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze eases overnight, but air quality remains unhealthy",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGZ3V3F3cGR5QzRrZWdYTXlKaFpVLWpESXpaQ21YYTFVVXhtVFV5X1dESlg5VmNrenBtWVZMdTl0NS1xNkJxSXotVFR2TGVWUGN0bGMyMlRaVDJaaTVqaDB6NW10bm10b2FlX3l1UDVWSGJWbHgwN2lzQzU1aVo1aWxsbWlPSzg?oc=5",
+   "time": "2026-10-17T11:35:13+08:00",
+   "summary": ""
+  },
+  {
+   "source": "UA.NEWS",
+   "title": "Singapore FA Cup final postponed due to haze — Channel NewsAsia",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcFdGUm1OSnB5Vl8zb1lfWHdmOXpvVW43ZXdzejJxcVVydDdZbVlWRUt5NXhtc05FRlBpRmgtaWRHNTllTXo4UkZtd1NEdmxxazIzNGY5QjlTSk9NeGVtNDhyMW5UbWFfODFnSHA4S284UmV3TnRyQzl3dHNIZTYwTzFkRUwtN1RhYUE1RVl1U1l2NjRn?oc=5",
+   "time": "2026-10-17T11:26:51+08:00",
+   "summary": ""
+  },
+  {
+   "source": "https://www.tabla.com.sg/",
+   "title": "Minister Grace Fu Warns PSI May Go Past 300 As Haze Worsens",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNckRWY3g3SFdQbEpxR0xlZUFUQnVMRDk2Wm9naDV5TkJnMUJCVmptYXBPNG9xNUp0OXRkQ2tUc2cxQkk3ZFNoZ29YYlRZQnVqRWZ1MVRXeDRnWHU3czAwcDdpRXJrRFNxaTdkeGRDcGZjLTY3YkhheU9xUm9SZVZwbFgwRlVJTXVKWEhkX1o2b2N1a2MtdDFRTXJSek8?oc=5",
+   "time": "2026-10-17T11:15:15+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -535,13 +570,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore haze eases overnight, but air quality remains unhealthy",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGZ3V3F3cGR5QzRrZWdYTXlKaFpVLWpESXpaQ21YYTFVVXhtVFV5X1dESlg5VmNrenBtWVZMdTl0NS1xNkJxSXotVFR2TGVWUGN0bGMyMlRaVDJaaTVqaDB6NW10bm10b2FlX3l1UDVWSGJWbHgwN2lzQzU1aVo1aWxsbWlPSzg?oc=5",
-   "time": "2026-10-17T10:05:51+08:00",
-   "summary": ""
-  },
-  {
    "source": "AsiaOne.com",
    "title": "Haze update Oct 17: Weekend begins with better air quality as PSI drops to unhealthy range, PM2.5 elevated",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaEY1bnpTR3N2OUNxSjNacDltZVM4Z21RaGNHTy1lX3g4aWRLa21YS2dZaElSUjJITlllY0lNd3B3elJ3dmtWZlh1UHk0NVZmbmV1NWVPaHZaRGdoNFFHMVVNbUNIMVk5UGdtMmFuWVhkWVBPMmlSQUpaM2VNalg0YUs2UWQwX2lhZmNjMS0xLXU?oc=5",
@@ -556,10 +584,10 @@
    "summary": ""
   },
   {
-   "source": "AsiaOne.com",
-   "title": "Families with asthma and allergies hunker down as haze worsens: 'We're just tolerating it', Singapore News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEljOXBFT1k1bE02Q3hOWUkxR1UwMDBLVkhwTnp6d05xN1RwX1BsdmQ5ZWdJMW9aWWM3U1VKcFQ1bE1YZUg3dEhNaElLOE5DVlpDQWx4TWp4OHV1NmpUcXR2dlRYdS1xT3duazBsZTNLYlhoRS11VklyZWVzZGp6SmVvTkQ0U0kyNDlVUkM4anZOY3QyREFz?oc=5",
-   "time": "2026-10-17T08:00:00+08:00",
+   "source": "Malay Mail",
+   "title": "Singapore targets seven Indonesian firms as haze worsens, air quality turns very unhealthy",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOck5ycWw3dTNudmR2a2hJZUpicWs5NnV6X0czWDJIaEhrOHMzVGVTNDZVV3dlQzRkcGpQcHNhNmZsSUJINlVFd0hRTjRISnJQTzBnRlZjQVlxMlVzaE9zWVJRMTIxd3daTTBvZmZOYjE0Zk5LZ1JRUzVVOFRjZlVjbVpZYU9xY1kyeGdJaEVDZS1rREZET1FfeWhrRVdLSTRwNS16NWNUSGF6N3hPTFNFcmtQb3FHaUJPVDJoMDdsUGtNTHExbUxldVZ1QzJQcS1vNGUwd3NMQjQtSkZhU2M1TkRhMFZoVknSAecBQVVfeXFMTnJOcnFsN3UzbnZkdmtoSWVKYnFrOTZ1el9HM1gySGhIazhzM1RlUzQ2VVd3ZUM0ZHBqUHBzYTZmbElCSDZVRXdIUU40SEpyUE8wZ0ZWY0FZcTJVc2hPc1lSUTEyMXd3Wk0wb2ZmTmIxNGZOS2dSUVM1VThUY2ZVY21aWWFPcWNZMnhnSWhFQ2Uta0RGRE9RX3loa0VXS0k0cDUtejVjVEhhejd4T0xTRXJrUG9xR2lCT1QyaDA3bFBrTUxxMW1MZXVWdUMyUHEtbzRlMHdzTEI0LUpGYVNjNU5EYTBWaFZJ?oc=5",
+   "time": "2026-10-17T09:34:11+08:00",
    "summary": ""
   },
   {
@@ -567,34 +595,6 @@
    "title": "Indonesia’s acceptance of foreign help on haze welcomed",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeTQ4eVZ3Nm00bVRXR2FQT1M0WW56UW1GM1pQeHZiMnJRZThYMThHYVk4YmNWNXBnZ09YUTZYQWhIc09rNWNLMkdSbXNCMVpqaE5UcnZFYWo5TldXdHUyLTJYN1Vuc2F2ZU00RlluYmo4RTBGb29UNkd1T3BRcHZqWFRDWnBQYmM1Qkk1dWpQdm52Q3VOUENDcVpXNjkzNks1aGY1X2lsTQ?oc=5",
    "time": "2026-10-17T07:49:16+08:00",
-   "summary": ""
-  },
-  {
-   "source": "UA.NEWS",
-   "title": "Singapore haze eases, but air quality remains unhealthy",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRHRIYXBNTWx2cUdNajlOQnI3QlI5NVBscTQzeFZRd2Qtem5QWklHVzEtSk9sUVlGMkNIV2JTRy1DcVhPY01vemFnOUpKSG5wYWthcW9PYk5BQ1JiLWltbVlIelZvXzlmZnRKb0NvQ0Vtb0dIUVgzTmNJUFB2TTJmSjU4Um5pak00djBmV0J0ZzhwemYtZlA5V0toVUpyR21CaVhONmRKY0d6MTFkZUFMa2JkSQ?oc=5",
-   "time": "2026-10-17T07:19:46+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Unyielding haze takes public toll",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZTZNam9IaDJHLUFrWDdQSllib1UtaWJKbFk3TFVqY09oaG52TUZiRE9RWkI3WDYxUjZybndPS3ZzUkRFeEFxSmp2M05mdm9yMWVJZmdaNlZXYjFsWTEwSGtjOWdvZk5yYlR2VXpYZDl0MWtFaUtXS3ZwTnZRQWhSZV8zVGRsZGN6X3gw?oc=5",
-   "time": "2026-10-17T07:10:22+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze in Singapore: PSI back to ‘unhealthy’ range, PM2.5 remains ‘elevated’ in all regions",
-   "url": "https://www.straitstimes.com/singapore/haze-in-singapore-psi-back-to-unhealthy-range-pm2-5-remains-elevated-in-all-regions",
-   "time": "2026-10-17T07:07:32+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Indonesia Business Post",
-   "title": "Malaysian lawmaker urges ASEAN to unite against Indonesia over haze crisis",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1pUWUxwc3U2bzIySUdHUm5tRTZmVl9wVFU3RURBVm51TTRKV0xhazcybEtUS3MxbWMwVklhdFJzbUVCanZfbTBtYXZ0R1I5bGpLU011WVRJRzZtanJocV9IbTRIQ1pWU2lGdHJGcG1nTmUzay1mQ0c2LWZRRm11TVhKZXNUUFBjZjBkaEFfanpTX0o4YWE0SnRJLTNLUUFGbDJTcW5VaXNUWVZfVlZiQk1ZcHJzMFc5eUxB?oc=5",
-   "time": "2026-10-17T01:36:27+08:00",
    "summary": ""
   }
  ]
