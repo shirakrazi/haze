@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-17T09:00:00+08:00",
+ "updated": "2026-10-17T11:00:00+08:00",
  "psi": {
-  "west": 178,
-  "east": 175,
-  "central": 187,
-  "south": 158,
-  "north": 142
+  "west": 176,
+  "east": 174,
+  "central": 184,
+  "south": 154,
+  "north": 139
  },
  "pm25": {
-  "west": 112,
-  "east": 137,
-  "central": 108,
-  "south": 105,
-  "north": 59
+  "west": 158,
+  "east": 144,
+  "central": 140,
+  "south": 87,
+  "north": 83
  },
  "hist": [
-  {
-   "t": "2026-10-15T02:00:00+08:00",
-   "psi": {
-    "west": 207,
-    "east": 173,
-    "central": 186,
-    "south": 159,
-    "north": 127
-   }
-  },
   {
    "t": "2026-10-15T03:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 158,
     "north": 142
    }
+  },
+  {
+   "t": "2026-10-17T11:00:00+08:00",
+   "psi": {
+    "west": 176,
+    "east": 174,
+    "central": 184,
+    "south": 154,
+    "north": 139
+   }
   }
  ],
- "newsUpdated": "2026-10-17T09:07:40+08:00",
+ "newsUpdated": "2026-10-17T11:06:49+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,52 @@
    "pinned": true
   },
   {
+   "source": "The Straits Times",
+   "title": "S-E Asia experiencing one of the worst haze episodes due to fires in Indonesia: WMO director",
+   "url": "https://www.straitstimes.com/singapore/environment/se-asia-experiencing-one-of-the-worst-haze-episodes-due-to-fires-in-indonesia-wmo-director",
+   "time": "2026-10-17T11:00:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
-   "title": "Why is Singapore's transboundary haze law so difficult to enforce?",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjNvOUk5TC02ZVY0M3RJSWJabWxnT29MZWkxYndIQjRJYmpObXpkSXF3Z0tnR1ZQbUhwSUpBX1BTVE9ub2pQMndGV19IVUdUV1RmSGNqd3JLMmhJdXBlc2NDamxPeHRlSm00dU5kZzNnMmZMVVlUQ2lwYWlGUlJJX3pzSmdZSm8zeWtMcEloaGJlVi15U0RiWGE0OEFNclN5enRYRlBkV3o?oc=5",
-   "time": "2026-10-17T09:00:00+08:00",
+   "title": "Singapore FA Cup final postponed due to haze as more outdoor events called off",
+   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-psi-fa-cup-final-postponed-events-6467816",
+   "time": "2026-10-17T10:59:15+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "All ActiveSG sports facilities to resume operations on Oct 17 amid haze, Singapore News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSjV2NE9ZSk5UdFhrUGJqODI1aG0yX0pKbGdNeU14RVQyOHExVk41LU1OTjVVLXpoLWJhMEpyazZpaTNXbU9yWlpNRTc1cU9Gb3NxajBsU0tiQ0lZdi1USnhmQVNHdzlQOXhHcVotdWtwdUFpSjBTaXRyNl9VYXk0TXdRdW9wQkUtQS1XY3hyTWdzM2hR?oc=5",
+   "time": "2026-10-17T10:46:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Snap Insight: Protecting Singapore’s outdoor workers from haze is easier said than done",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY3ZzM250djdkd3d2NmQyaDFzRmVLT3pFbXRWUDVjTU1IdFh2d0JmZFlEcFdCMnZRQUJzTFZJRTY0UGdiWnRXMUxCT0pxd1ZGR3ladkc0SHMzaXYyZElIXzQ3SU9MT3B4aWNaVFRyU1NWbFZIbGlNRFNDWDlHd2FhZkM0cmlkeDdsLWlSaFFLQ1E3aFRSUHdlY0RyNi1zQQ?oc=5",
+   "time": "2026-10-17T10:12:34+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze eases overnight, but air quality remains unhealthy",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGZ3V3F3cGR5QzRrZWdYTXlKaFpVLWpESXpaQ21YYTFVVXhtVFV5X1dESlg5VmNrenBtWVZMdTl0NS1xNkJxSXotVFR2TGVWUGN0bGMyMlRaVDJaaTVqaDB6NW10bm10b2FlX3l1UDVWSGJWbHgwN2lzQzU1aVo1aWxsbWlPSzg?oc=5",
+   "time": "2026-10-17T10:05:51+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Haze update Oct 17: Weekend begins with better air quality as PSI drops to unhealthy range, PM2.5 elevated",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaEY1bnpTR3N2OUNxSjNacDltZVM4Z21RaGNHTy1lX3g4aWRLa21YS2dZaElSUjJITlllY0lNd3B3elJ3dmtWZlh1UHk0NVZmbmV1NWVPaHZaRGdoNFFHMVVNbUNIMVk5UGdtMmFuWVhkWVBPMmlSQUpaM2VNalg0YUs2UWQwX2lhZmNjMS0xLXU?oc=5",
+   "time": "2026-10-17T09:52:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Singapore’s FA Cup final and third-place play-off postponed due to haze",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbkJhOGl6akZrX1NTSzZib0pYWUR2SHJ0QTJCb0xyeC1WaGFsSHdsVHR6a0pWZGllT2tmeGZmSkMxTDE5YkZiYlI2N1lPeV83WVAzdzlRTDZ2QUJ6a0x3akpsLS1ZUzRzR29OcENobC1CMmVLMjZzbzg0VzktUHctcndaR0tfUDM5V1RBWDBrMjBzallTU2FvTWlDZHV5YXliOTZtYlE2TlpxZk9LQnBIbWtsLTE?oc=5",
+   "time": "2026-10-17T09:45:00+08:00",
    "summary": ""
   },
   {
@@ -542,13 +584,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore haze eases overnight, but air quality remains unhealthy",
-   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-psi-pm25-oct-17-6466816",
-   "time": "2026-10-17T07:09:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Straits Times",
    "title": "Haze in Singapore: PSI back to ‘unhealthy’ range, PM2.5 remains ‘elevated’ in all regions",
    "url": "https://www.straitstimes.com/singapore/haze-in-singapore-psi-back-to-unhealthy-range-pm2-5-remains-elevated-in-all-regions",
@@ -556,45 +591,10 @@
    "summary": ""
   },
   {
-   "source": "AsiaOne.com",
-   "title": "Haze in Singapore: How to exercise at home after closure of outdoor facilities, Lifestyle News",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fbUtvdXdsdWJteEo3ZUI5RnU5VjA4UVdEdWlRcWNlNWtiTVQ4UWd3SUpwMGI1ZHpHOXM0dVZPbEhoajYxdFBQTU5BTE81ajBhQ2FjdE5OcmNwVEdyaWJHMWRoWUVjWklDRC13aEZqNUhPUQ?oc=5",
-   "time": "2026-10-17T07:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Legal action by Singapore against haze-causing firms in Indonesia may come with diplomatic implications: Lawyers",
-   "url": "https://www.channelnewsasia.com/singapore/haze-indonesia-diplomatic-implications-legal-action-lawyers-6465511",
-   "time": "2026-10-17T06:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze chokes Malaysia’s farmers, families and businesses as economic costs mount",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnFYLVNfXy1HTWRRVjRQeXVNbzV2STRqdE9OZ0xaaDAzZmhwYTlQaXdXT1ZielZ6MVI2aHBpcHByM1BfMDBWR3lKZGxsc3BuREtuR0VzZjJKRFJ5VWNZZVRmQ0VnS3V0bXowOHJjWXFYNmEtRzk4RDBKam00SFdreHZMX1l6RF9BRlRzd0ppb2x3Y0otemVGdE02MmdmR19YUktZaFFFOTFhaldjSHBZaXNqME9SRjYxZ3BJ?oc=5",
-   "time": "2026-10-17T05:00:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "Indonesia Business Post",
    "title": "Malaysian lawmaker urges ASEAN to unite against Indonesia over haze crisis",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1pUWUxwc3U2bzIySUdHUm5tRTZmVl9wVFU3RURBVm51TTRKV0xhazcybEtUS3MxbWMwVklhdFJzbUVCanZfbTBtYXZ0R1I5bGpLU011WVRJRzZtanJocV9IbTRIQ1pWU2lGdHJGcG1nTmUzay1mQ0c2LWZRRm11TVhKZXNUUFBjZjBkaEFfanpTX0o4YWE0SnRJLTNLUUFGbDJTcW5VaXNUWVZfVlZiQk1ZcHJzMFc5eUxB?oc=5",
    "time": "2026-10-17T01:36:27+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Singapore Issues Notices to 7 Indonesian Firms over Haze",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQTBKRExXNEpSS3lVNjZ2dl9FTTJpZjJzcVdpLVJaOVNPakxlZ0NyWkxnZEZ5d2tmVnFURzU5eGN0TTdpNmZBa2wyd3p3dTZjRDdJV243aHRSVXVSVGxDajd2UURHdTItdHh5T0xVZEFhMlpxWHNUSl93YzBIRVJDV0tSNTYzNzM5TTFoS0JYNWRNeVk?oc=5",
-   "time": "2026-10-17T00:24:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Online Citizen",
-   "title": "Twelve years on, Singapore’s haze law has yet to show it can deliver accountability",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNDBYXzdkdTVmSzdRTTk4VWZSRHltdjNNZGRZRkFCSTZvbC1lVENOVGVhbHBsVVZPcG1WUHBvQnJkc2l2a3hKdVNfXzZjZEJvcm1vemZ5UmcwNWsxN2JzWFpZSXFpVlBTY25LRmx0MURBLW5pLVZYa0d1dWVSMjZlQXFpN3hEeW0wdlltRHlTLVBlTG1HMWo5Z1BDeldIT1ZZRW9DN2ZYdkYwZF9VMnJ6eXNORjdBLVBaakdGVXU0Zw?oc=5",
-   "time": "2026-10-16T22:38:59+08:00",
    "summary": ""
   }
  ]
