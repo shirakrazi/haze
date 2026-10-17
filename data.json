@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-18T05:00:00+08:00",
+ "updated": "2026-10-18T07:00:00+08:00",
  "psi": {
-  "west": 225,
+  "west": 228,
   "east": 180,
   "central": 185,
-  "south": 172,
+  "south": 173,
   "north": 129
  },
  "pm25": {
-  "west": 142,
-  "east": 123,
-  "central": 106,
-  "south": 89,
-  "north": 82
+  "west": 125,
+  "east": 103,
+  "central": 124,
+  "south": 99,
+  "north": 78
  },
  "hist": [
-  {
-   "t": "2026-10-15T23:00:00+08:00",
-   "psi": {
-    "west": 176,
-    "east": 174,
-    "central": 198,
-    "south": 165,
-    "north": 130
-   }
-  },
   {
    "t": "2026-10-16T00:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 172,
     "north": 129
    }
+  },
+  {
+   "t": "2026-10-18T07:00:00+08:00",
+   "psi": {
+    "west": 228,
+    "east": 180,
+    "central": 185,
+    "south": 173,
+    "north": 129
+   }
   }
  ],
- "newsUpdated": "2026-10-18T05:07:15+08:00",
+ "newsUpdated": "2026-10-18T07:07:14+08:00",
  "news": [
   {
    "source": "CNA",
@@ -518,6 +518,13 @@
    "title": "Southeast Asia raises highest haze alert as Indonesian fires persist",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HZGp1RXhadDFxZ2JYTlNpMlo4dEhQak5rQTNTY1ZKTG1Yd3VMd19PTDFRcXB5N3ZERWNIQkdOXzN3OUcyRkhIR0RFX2ZQeHNSWllF?oc=5",
    "time": "2026-10-18T04:54:04+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Latest news from Azerbaijan",
+   "title": "Singapore considers legal action against Indonesian firms over haze, raising diplomatic concerns",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0RIN3NtVjM3VW1DUmVXdXlVd0RsRElnWlVXd3hqUEItYjgzUENuNnhpUk5mWjhKOVJpZmVzY3BYODNtOWlwT290MEppWHd3SmpQNVQ5UjQtQ3RYUDRzalJmYzIxbm5CUGllN3NHNS02c2JDZ21VRkoxeHUwQ3o2Mk9Lb29xUExxZ2VGcTEzZXBiUUptSF9NaWZGb3lvWnlZMHJYR3N6VGFfZnVCRmRTeksyMlNOQ1U?oc=5",
+   "time": "2026-10-18T01:58:46+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Haze triggers highest-level alert in parts of Southeast Asia: monitor",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yNXAybHAxRWxZLTBsQkU2MWNlUnNlLU9GNkN1WUxqU29ER0U3N09PYzBxVmhYdjg3ejUtanRTXzhzMEhuOUIxMm52UQ?oc=5",
    "time": "2026-10-17T20:16:10+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Singapore haze remains unhealthy despite showers, with PSI forecast to hit 220",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWV9lazNqODRybTAzd1dZc012TVp1MUk1U0dScUdPZnBkektIZUlvaXJFWXZEeHI5LWVJQ0w1UDhkTkFYTWp5aEdFNi1nZG9xOHNiaExNa1o5WDhfa3Y3M1dwZnVILWVlcXVRckRLR1l3VVBlQ3RqQ19LV3N3bmhTaktYVVRJS2RQOFY1LUotVFRyVmpPWl9HdHpmQXBHM0FrTnpzUktmM21UUmMxWVdxeVFWWWp1ek5DN1h2NEkzeXRMbWpxODY1UmNjbkJEdGxZU0HSAdcBQVVfeXFMUFh6VFNtT29NbjJCVkJ3Y1NfUzNYVWVzbDM3elEwdXY4cWFsQ1h1Nldvb0Q3eEM2OGdWMmlpMHllazAyNHlpbVI2elN5akw2a0M3dnFBTDRkTzdKWDJjYTVSVjhiX0M0bXhBN2EwTVJacVFDamVRbnJKdXpZZkFaR2JlbEtGOTRqZ0ItNThDWjVwUnVlN1V1Q0taTmJuU2M0dGZ4VHAteHA2aHRpUXE3b2U2T0lIcXFnWFNlNHFEcmNIU1VQYWhNY2x2NHRKZTcyWUc1cnQ4SzQ?oc=5",
-   "time": "2026-10-17T19:59:35+08:00",
    "summary": ""
   }
  ]
