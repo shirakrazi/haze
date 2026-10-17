@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-17T15:00:00+08:00",
+ "updated": "2026-10-17T16:00:00+08:00",
  "psi": {
-  "west": 188,
-  "east": 174,
-  "central": 184,
-  "south": 157,
-  "north": 133
+  "west": 191,
+  "east": 176,
+  "central": 185,
+  "south": 160,
+  "north": 132
  },
  "pm25": {
-  "west": 233,
-  "east": 167,
-  "central": 181,
+  "west": 221,
+  "east": 169,
+  "central": 187,
   "south": 170,
-  "north": 111
+  "north": 112
  },
  "hist": [
-  {
-   "t": "2026-10-15T09:00:00+08:00",
-   "psi": {
-    "west": 208,
-    "east": 171,
-    "central": 185,
-    "south": 158,
-    "north": 125
-   }
-  },
   {
    "t": "2026-10-15T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 157,
     "north": 133
    }
+  },
+  {
+   "t": "2026-10-17T16:00:00+08:00",
+   "psi": {
+    "west": 191,
+    "east": 176,
+    "central": 185,
+    "south": 160,
+    "north": 132
+   }
   }
  ],
- "newsUpdated": "2026-10-17T15:07:35+08:00",
+ "newsUpdated": "2026-10-17T16:07:14+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "France 24",
+   "title": "Haze triggers highest-level alert in parts of Southeast Asia: monitor",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc1d1Q19vS2NDSkRhQzUyVEJ2TWJoQ0xrN1g3MEQwYjhXWExMdWpHNnVpMk9iWDdvN2ZtYTdQekpwOXkzN1BrdlFJSkZvVDFkeHhzcDhpd1ZyclN5R2VKR3JpUi1ZdXhjZXdtbmpkMGhnOTNjY1E5T3ZXMmFORzA4TFJadkFGUGRTUWxXeVRRWDgxMmdWVldvckRpZWZPNlFQallQOG56ZFJ6N0VNZDFNY2dObGl5QQ?oc=5",
+   "time": "2026-10-17T15:53:24+08:00",
+   "summary": ""
+  },
+  {
+   "source": "DW.com",
+   "title": "Indonesia chokes under wildfire haze",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTkU5M3ZrMHN0ZTZzdktLNWtJVlpUcGFwV1F3UWwxZmZiY1VJMFY5WkxHTGtGb2V6Nk9tdDdTdmo2UmRJU3ZoeE1UNzRmWXdWbjNpOXBZbGNnWm84YmIwRGN1M1ptUjBJQjZWd0ZfVmRCYnZ4X284azlqV0gzMk5mNTNqSVBvZEdGNWw0?oc=5",
+   "time": "2026-10-17T15:44:14+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "Singapore Postpones FA Cup Final Due To Haze",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQkd4dGtKdzNWR0xIdnpWVUR6ZXpPY1E1bE5DYmZKVGNfV0N0cVdCY29aZ29UMUtpLWtfeVRIbWw4V0JpMDN3Q2ZtdVhuY3Rpc3pJbk4yd0dzYXdESmFxUkZrbndlcE51SzVyeFpHblpjcGdlZFJNb3JFOVI3U2ZiTlJfdEhuQlZ3VVFJWEdfbjczVlU?oc=5",
+   "time": "2026-10-17T15:31:15+08:00",
+   "summary": ""
   },
   {
    "source": "NST Online",
@@ -531,7 +552,7 @@
    "source": "Malay Mail",
    "title": "Indonesia fires trigger highest-level regional haze alert as pollution spreads across Southeast Asia",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTmRmMGhuOUtobEtfQm9mV0xRQ2FidW0yY0Zpeng2RmdOVGJOdlFzODhnckFQeklMOHAwbUQ5U1RDZ3Z6NzJ1eDBTQmtNdkFyUXJ1dUVyaXhya2xkWE5UMzU4Y3k1cno0cUFxeWZSSHBOT1dsLWlpYmw2cno2dEtqSExlb1FiUW9FY2FWU2ZhUFdPYzFNMV9ybFdsLWZQWDlFZk43LVo3X3JYajdiYWh4dkkwRms1andWbEo0YVEwX3JXM09wUm8zaWM1d1FBXy1XWGFaUUd1MF9EX3JRTDRmOVE4Y3hhbzRiRncw0gHwAUFVX3lxTE9hZkFVNzZrYk1Ka3J0TEhLS3lpaXVRenFYS2wzYW0xX21NeUZKS1hLX1FlM3RLdlpOakdtdUFUSHN5YUVoX0dIdGJhS24wdTQyUjhVQklOc3Vudld0WjJfLV9Rc2ZlZlVacmRZdXQ4a2dvcnh5ekdYTjIwQXlvVVR0d3dZQWt4M0pfYW83a3FjR2s3SlR3Z0hKdDZkUE95SDVrVFAwT1ItZm9JTU5uVGFXRFlZaUtpeTBqUGktYjN0NTNVNEtzaDZNQXZaMHRtTDFnMnphazZkdDJ2al9UdVNpeFJIT1FERktfc21CM190YQ?oc=5",
-   "time": "2026-10-17T13:58:45+08:00",
+   "time": "2026-10-17T14:00:59+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "The money behind the haze",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2licG1EMlAyYUQtNW5ENHNlUFFZcFBUMzBIVXRKSUw4OVVsM1FCTEJEUldtbllPYTBuZVZoTUYzTFdGTGE0Vm5TN0haZGxsS0FkaVZDS01LR0RqQVJCQ2R2RGlkTElXdm5INmFkQ2JqSW03OGR6b29feFFISzlTcmMxNWZpNGJLZHZTcXJwUHltZFQtaE9nX1R4NDBtLVlzOWZDWg?oc=5",
    "time": "2026-10-17T12:19:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Are two N95 masks enough for me this haze season?",
-   "url": "https://www.straitstimes.com/singapore/are-two-n95-masks-enough-for-me-this-haze-season",
-   "time": "2026-10-17T12:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Haze watch Oct 17: Hourly PM2.5 in western region back in high band, PSI remains unhealthy",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2JiSk0yOUpxdDIzUTduVkx6S3ZmMFh6cHUwUGMwWERPX01kWm9vamlEWUxtbFdIVHh2OUkzRXM5UEVCazJPRTFKdWc3RHRVWVhocTdYZjRpNFVrRGNtUHQyTURJVDNuNVpuLWpXc0k0Z1VYOXFKZXpGMmY4eldnd1NoaW8tLUMx?oc=5",
-   "time": "2026-10-17T11:50:22+08:00",
-   "summary": ""
-  },
-  {
-   "source": "BusinessToday Malaysia",
-   "title": "Singapore Haze Eases, But Air Quality Remains Unhealthy",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDJPdlFtWnVWRzczaWFMVkNUM01ZQVZXM1NtRHZWMkhOX2ljc0l4R2liUEE4N29vMUZNUzRFQlBseFNUeVVSdi1IUXpZM2NrVHplVWREZmtxakZrVlJwN0luTE5jMEJXTFdrQ0JqNWtxQzIyWWR6b242U0JXS1hITGNTZ3BTcEZ5VEF0TEg2SlM3elBnSWJVbm1Hd1pTTnRU?oc=5",
-   "time": "2026-10-17T11:31:30+08:00",
    "summary": ""
   }
  ]
