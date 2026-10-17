@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-17T07:00:00+08:00",
+ "updated": "2026-10-17T09:00:00+08:00",
  "psi": {
-  "west": 181,
+  "west": 178,
   "east": 175,
-  "central": 191,
-  "south": 161,
-  "north": 144
+  "central": 187,
+  "south": 158,
+  "north": 142
  },
  "pm25": {
-  "west": 97,
-  "east": 119,
+  "west": 112,
+  "east": 137,
   "central": 108,
-  "south": 75,
-  "north": 83
+  "south": 105,
+  "north": 59
  },
  "hist": [
-  {
-   "t": "2026-10-15T01:00:00+08:00",
-   "psi": {
-    "west": 207,
-    "east": 173,
-    "central": 186,
-    "south": 160,
-    "north": 127
-   }
-  },
   {
    "t": "2026-10-15T02:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 161,
     "north": 144
    }
+  },
+  {
+   "t": "2026-10-17T09:00:00+08:00",
+   "psi": {
+    "west": 178,
+    "east": 175,
+    "central": 187,
+    "south": 158,
+    "north": 142
+   }
   }
  ],
- "newsUpdated": "2026-10-17T07:15:41+08:00",
+ "newsUpdated": "2026-10-17T09:07:40+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,38 @@
    "pinned": true
   },
   {
+   "source": "CNA",
+   "title": "Why is Singapore's transboundary haze law so difficult to enforce?",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjNvOUk5TC02ZVY0M3RJSWJabWxnT29MZWkxYndIQjRJYmpObXpkSXF3Z0tnR1ZQbUhwSUpBX1BTVE9ub2pQMndGV19IVUdUV1RmSGNqd3JLMmhJdXBlc2NDamxPeHRlSm00dU5kZzNnMmZMVVlUQ2lwYWlGUlJJX3pzSmdZSm8zeWtMcEloaGJlVi15U0RiWGE0OEFNclN5enRYRlBkV3o?oc=5",
+   "time": "2026-10-17T09:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Families with asthma and allergies hunker down as haze worsens: 'We're just tolerating it', Singapore News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEljOXBFT1k1bE02Q3hOWUkxR1UwMDBLVkhwTnp6d05xN1RwX1BsdmQ5ZWdJMW9aWWM3U1VKcFQ1bE1YZUg3dEhNaElLOE5DVlpDQWx4TWp4OHV1NmpUcXR2dlRYdS1xT3duazBsZTNLYlhoRS11VklyZWVzZGp6SmVvTkQ0U0kyNDlVUkM4anZOY3QyREFz?oc=5",
+   "time": "2026-10-17T08:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Indonesia’s acceptance of foreign help on haze welcomed",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeTQ4eVZ3Nm00bVRXR2FQT1M0WW56UW1GM1pQeHZiMnJRZThYMThHYVk4YmNWNXBnZ09YUTZYQWhIc09rNWNLMkdSbXNCMVpqaE5UcnZFYWo5TldXdHUyLTJYN1Vuc2F2ZU00RlluYmo4RTBGb29UNkd1T3BRcHZqWFRDWnBQYmM1Qkk1dWpQdm52Q3VOUENDcVpXNjkzNks1aGY1X2lsTQ?oc=5",
+   "time": "2026-10-17T07:49:16+08:00",
+   "summary": ""
+  },
+  {
+   "source": "UA.NEWS",
+   "title": "Singapore haze eases, but air quality remains unhealthy",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRHRIYXBNTWx2cUdNajlOQnI3QlI5NVBscTQzeFZRd2Qtem5QWklHVzEtSk9sUVlGMkNIV2JTRy1DcVhPY01vemFnOUpKSG5wYWthcW9PYk5BQ1JiLWltbVlIelZvXzlmZnRKb0NvQ0Vtb0dIUVgzTmNJUFB2TTJmSjU4Um5pak00djBmV0J0ZzhwemYtZlA5V0toVUpyR21CaVhONmRKY0d6MTFkZUFMa2JkSQ?oc=5",
+   "time": "2026-10-17T07:19:46+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Star",
    "title": "Unyielding haze takes public toll",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZTZNam9IaDJHLUFrWDdQSllib1UtaWJKbFk3TFVqY09oaG52TUZiRE9RWkI3WDYxUjZybndPS3ZzUkRFeEFxSmp2M05mdm9yMWVJZmdaNlZXYjFsWTEwSGtjOWdvZk5yYlR2VXpYZDl0MWtFaUtXS3ZwTnZRQWhSZV8zVGRsZGN6X3gw?oc=5",
-   "time": "2026-10-17T07:10:05+08:00",
+   "time": "2026-10-17T07:10:22+08:00",
    "summary": ""
   },
   {
@@ -542,13 +570,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Snap Insight: Protecting Singapore’s outdoor workers from haze is easier said than done",
-   "url": "https://www.channelnewsasia.com/commentary/haze-outdoor-worker-platform-mask-snap-insight-6466426",
-   "time": "2026-10-17T06:00:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Straits Times",
    "title": "Haze chokes Malaysia’s farmers, families and businesses as economic costs mount",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnFYLVNfXy1HTWRRVjRQeXVNbzV2STRqdE9OZ0xaaDAzZmhwYTlQaXdXT1ZielZ6MVI2aHBpcHByM1BfMDBWR3lKZGxsc3BuREtuR0VzZjJKRFJ5VWNZZVRmQ0VnS3V0bXowOHJjWXFYNmEtRzk4RDBKam00SFdreHZMX1l6RF9BRlRzd0ppb2x3Y0otemVGdE02MmdmR19YUktZaFFFOTFhaldjSHBZaXNqME9SRjYxZ3BJ?oc=5",
@@ -574,27 +595,6 @@
    "title": "Twelve years on, Singapore’s haze law has yet to show it can deliver accountability",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNDBYXzdkdTVmSzdRTTk4VWZSRHltdjNNZGRZRkFCSTZvbC1lVENOVGVhbHBsVVZPcG1WUHBvQnJkc2l2a3hKdVNfXzZjZEJvcm1vemZ5UmcwNWsxN2JzWFpZSXFpVlBTY25LRmx0MURBLW5pLVZYa0d1dWVSMjZlQXFpN3hEeW0wdlltRHlTLVBlTG1HMWo5Z1BDeldIT1ZZRW9DN2ZYdkYwZF9VMnJ6eXNORjdBLVBaakdGVXU0Zw?oc=5",
    "time": "2026-10-16T22:38:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "2026 Great Eastern Women’s Run cancelled amid worsening air quality from haze",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcm1aZ18tdU52MXFKZUYyZF90NWwzSi1taHJwdERQcTgwWFRjemI3aVhtQUxPNWJOSzFTdzI3S0swdWZrdE90WkEyV0N6NDNrRmlkQmdqZ0VIMzZwTGFkQWRROXVRVWZjOHVSMVhKc3M2RUhiZEx5OWVDZVBIS0RxSVFaY3VfU3JueDlWdGh0SWxiZWV0a3kxVWpVaHVPUWlNUmtrZHh4Q0d0bXVwdFBldA?oc=5",
-   "time": "2026-10-16T22:32:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Singapore",
-   "title": "RegCo queries SGX-listed Indonesian agri firms on cause and impact of haze",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZFVYR0RTZ1NFMG96MHE2cE5hVklCd1ZRZlYyUElJOTRTczRnVklEYmdNWlpia3BGY195QXNIVHJpRUpqXzZHXzFuNGRQY2FDZ3FnYnlhX0s3OG9vUTRUdkpsdWsxTWpUbnd3bzBWbzNaRldOemFHQnhpLXNGckF6YzdsNWJCb2plMktVSnVkMlItYnRsVGZUcGoxSjFXMWt0clZ2b3Y2N3JWTUVnSmVhdVZIVTZNY0otd1E4T1lYUGo2dHJM?oc=5",
-   "time": "2026-10-16T22:15:40+08:00",
-   "summary": ""
-  },
-  {
-   "source": "National Environment Agency (NEA)",
-   "title": "Haze Situation Update (16 October 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUDRvNDBSai1YbEFNUUFhUy1RY3NOanpRTjdTR1ItRHg2TnlKTjExQnpoSVE4aGE4dVdFRUw3dENjeGRMNE9mdVZqZzM3X0NZVHRndGhxcmFZcUJPdlRpaG9DNVJIZ21tQURBQjJrU0k4a2FTV2ZvR1d0LTFvRVE5UzcwV3hMVkdQeXpJX0taVGs1UQ?oc=5",
-   "time": "2026-10-16T22:02:24+08:00",
    "summary": ""
   }
  ]
