@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-18T03:00:00+08:00",
+ "updated": "2026-10-18T05:00:00+08:00",
  "psi": {
-  "west": 222,
+  "west": 225,
   "east": 180,
-  "central": 184,
-  "south": 171,
+  "central": 185,
+  "south": 172,
   "north": 129
  },
  "pm25": {
-  "west": 135,
-  "east": 89,
-  "central": 104,
-  "south": 98,
-  "north": 74
+  "west": 142,
+  "east": 123,
+  "central": 106,
+  "south": 89,
+  "north": 82
  },
  "hist": [
-  {
-   "t": "2026-10-15T22:00:00+08:00",
-   "psi": {
-    "west": 174,
-    "east": 170,
-    "central": 194,
-    "south": 162,
-    "north": 128
-   }
-  },
   {
    "t": "2026-10-15T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 171,
     "north": 129
    }
+  },
+  {
+   "t": "2026-10-18T05:00:00+08:00",
+   "psi": {
+    "west": 225,
+    "east": 180,
+    "central": 185,
+    "south": 172,
+    "north": 129
+   }
   }
  ],
- "newsUpdated": "2026-10-18T03:07:30+08:00",
+ "newsUpdated": "2026-10-18T05:07:15+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,31 @@
    "pinned": true
   },
   {
+   "source": "The Straits Times",
+   "title": "Cloaked in grey: The causes and effects of haze in Singapore",
+   "url": "https://www.straitstimes.com/singapore/environment/cloaked-in-grey-the-causes-and-effects-of-haze-in-singapore",
+   "time": "2026-10-18T05:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "سانا",
+   "title": "Southeast Asia raises highest haze alert as Indonesian fires persist",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HZGp1RXhadDFxZ2JYTlNpMlo4dEhQak5rQTNTY1ZKTG1Yd3VMd19PTDFRcXB5N3ZERWNIQkdOXzN3OUcyRkhIR0RFX2ZQeHNSWllF?oc=5",
+   "time": "2026-10-18T04:54:04+08:00",
+   "summary": ""
+  },
+  {
    "source": "Latest news from Azerbaijan",
    "title": "Singapore air pollution reaches very unhealthy levels as haze from Indonesia persists",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVJidlYtVjA1eUVfUllJeDFNR0JnMUxHckMyT2JKdzFTNjR2UVEyNDFHaVA0SWxDMDIyNDM2VjRRNEdIU1cxdDNFa1dSSnZmNlZwX2JlX3JZRzBzUVltWm42N0F0cFRpQ2NxZmRBUzhpR2hSbHVEZXZyWnF6MkxWd2JfX0Y2enpxaHJpQ2RxTGl1dUtFNk9Uc3JIMXR2Y251eE9ZZGM2bkcwdw?oc=5",
-   "time": "2026-10-18T00:58:17+08:00",
+   "time": "2026-10-18T01:00:36+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Taipei Times",
+   "title": "Haze triggers highest-level alert in Southeast Asia",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94NEtBRnRabFBzZ3Y2VjNYdGJWdThfUzV4OFoxV3NKQk1XOWJVYmF3MHZKVFhEck9sUmthb2Z4cmdDNkNtV3gxc1Z5SExBQmVpM1FjLXBHUmhhUEZUMGo2TlhmLXF4Z3hFa3JqWkE4VkF4eVBaWjNVVg?oc=5",
+   "time": "2026-10-18T00:00:00+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "Singapore haze remains unhealthy despite showers, with PSI forecast to hit 220",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWV9lazNqODRybTAzd1dZc012TVp1MUk1U0dScUdPZnBkektIZUlvaXJFWXZEeHI5LWVJQ0w1UDhkTkFYTWp5aEdFNi1nZG9xOHNiaExNa1o5WDhfa3Y3M1dwZnVILWVlcXVRckRLR1l3VVBlQ3RqQ19LV3N3bmhTaktYVVRJS2RQOFY1LUotVFRyVmpPWl9HdHpmQXBHM0FrTnpzUktmM21UUmMxWVdxeVFWWWp1ek5DN1h2NEkzeXRMbWpxODY1UmNjbkJEdGxZU0HSAdcBQVVfeXFMUFh6VFNtT29NbjJCVkJ3Y1NfUzNYVWVzbDM3elEwdXY4cWFsQ1h1Nldvb0Q3eEM2OGdWMmlpMHllazAyNHlpbVI2elN5akw2a0M3dnFBTDRkTzdKWDJjYTVSVjhiX0M0bXhBN2EwTVJacVFDamVRbnJKdXpZZkFaR2JlbEtGOTRqZ0ItNThDWjVwUnVlN1V1Q0taTmJuU2M0dGZ4VHAteHA2aHRpUXE3b2U2T0lIcXFnWFNlNHFEcmNIU1VQYWhNY2x2NHRKZTcyWUc1cnQ4SzQ?oc=5",
    "time": "2026-10-17T19:59:35+08:00",
-   "summary": ""
-  },
-  {
-   "source": "National Environment Agency (NEA)",
-   "title": "Haze Situation Update (17 October 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVRURzVYWHEwV3o3X2Z0a3ZUNEFpYjNnbXFObGg4aEtWOHpDVUF5bzhpV2JXeXBfMHJKRGNKU0ZzRzB3THNiMDFNQzZCVUpZcHdoXzQxZmNWQjhMVlRYNm1BaDRKRy1sdGVQT2RCXzJTblhoMUZtdlBQaU1ZeXNIOFRWd1BIRVp2U1FrSlN5MFBmUQ?oc=5",
-   "time": "2026-10-17T19:58:23+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Haze update Oct 17: Rain keeps air quality from worsening, 24-hour PSI forecast unhealthy to very unhealthy",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajZIY1YtMTQ2aHQ5dnZVR3BIbmhWaU5nOFZvU29kNDBNRHJ0YWVrbnpsVXBzU0E3SElLREZVR1dxeXFYT1pPZFRVLWE1SmJpMEF3XzFYd2NkMDg1UUh3ek02V29OWV83Q01iNGlNM2JiMlI4Y3kwN2RMOXlEc1B0WXNBYkh1bWN6dGZwMFhlZk4?oc=5",
-   "time": "2026-10-17T19:45:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Buying masks or haze-related items on the secondary market? Be careful, says CASE",
-   "url": "https://www.straitstimes.com/singapore/buying-masks-or-haze-related-items-on-the-secondary-market-be-careful-says-case",
-   "time": "2026-10-17T19:13:00+08:00",
    "summary": ""
   }
  ]
