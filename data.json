@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-17T18:00:00+08:00",
+ "updated": "2026-10-17T19:00:00+08:00",
  "psi": {
-  "west": 196,
+  "west": 199,
   "east": 178,
   "central": 186,
   "south": 162,
-  "north": 129
+  "north": 130
  },
  "pm25": {
-  "west": 199,
-  "east": 159,
-  "central": 183,
-  "south": 188,
-  "north": 101
+  "west": 198,
+  "east": 139,
+  "central": 182,
+  "south": 156,
+  "north": 106
  },
  "hist": [
-  {
-   "t": "2026-10-15T12:00:00+08:00",
-   "psi": {
-    "west": 212,
-    "east": 170,
-    "central": 194,
-    "south": 163,
-    "north": 128
-   }
-  },
   {
    "t": "2026-10-15T13:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 162,
     "north": 129
    }
+  },
+  {
+   "t": "2026-10-17T19:00:00+08:00",
+   "psi": {
+    "west": 199,
+    "east": 178,
+    "central": 186,
+    "south": 162,
+    "north": 130
+   }
   }
  ],
- "newsUpdated": "2026-10-17T18:11:27+08:00",
+ "newsUpdated": "2026-10-17T19:07:55+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Bangkok Post",
+   "title": "Haze triggers highest-level alert in parts of Southeast Asia",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa0NVZHJFZ3hrRVFxX1VaQ1o1Z1B6OVVmWVU3MjN0ZjY4b2wtRERMbnRUZld1OWpucFJOTkFOS3ZvZ2pGdVpyUHdzZ0RDSDZRMm1jRXJvTHRTRUVlTF9Jc3FRMFhJSFpDZXI3eGtGVDRkb09mTkFvTzZNUXp3ckRyRWtPNHFoVVI4d1VPRlB0d01PRU9Kb0trcUhJZFdBVXJNczJZ?oc=5",
+   "time": "2026-10-17T18:46:02+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NDTV",
+   "title": "Singapore Shrouded In Thick Blanket Of Haze As Wildfires Rage Across Neighbouring Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaXhIVURyWXBWRGhsaV84VHNRNlVsWWFqei1uS3dWWHdLSDFSUWIxdWpSYXZ5eVFyTTZqQ3hkVnM0bnlkVjAtM1Y2VnZncmxUSmdRTWNHSkpZMjdleWZDWjZFRXllYkxueW9tMEZmN293LUptTEJyNUQ1bG91SWlFQ2tQb0pPQ3VfYVdRbGJ2OFRaX0Q5MllVYnA3bm1XZl9JMlFhTUIwQmNIR2Y3NEp3WGZLTi1kaFJ1bW16TW9JR095elpIanc?oc=5",
+   "time": "2026-10-17T18:10:55+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -518,13 +532,6 @@
    "title": "Singapore haze: PM2.5 readings climb into high band in four regions",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGZ3V3F3cGR5QzRrZWdYTXlKaFpVLWpESXpaQ21YYTFVVXhtVFV5X1dESlg5VmNrenBtWVZMdTl0NS1xNkJxSXotVFR2TGVWUGN0bGMyMlRaVDJaaTVqaDB6NW10bm10b2FlX3l1UDVWSGJWbHgwN2lzQzU1aVo1aWxsbWlPSzg?oc=5",
    "time": "2026-10-17T17:04:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bangkok Post",
-   "title": "Haze triggers highest-level alert in parts of Southeast Asia",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHNwQUZITTN4MXBaS3U0ZGRjTkUySDFnTW81UGlTZW1iSXRzTktOczAtU2hzN1NQZ01qYkV2UWJ3dWtOeEswY1AtU2dtM2hpM3I3RXE5Z1NIaVZfOVFQeWdCTGtJMmptcXlYYmFnY08zcjlZbmpWVF9CTGt1QnJfeFBucS0yQ19zR0FuZU5wSHUxLWZ4c3ZwTGJ0VkgxaG12OFJBNA?oc=5",
-   "time": "2026-10-17T16:45:00+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Asean climate monitor issues highest alert level over toxic haze",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcEpfc0tDSEJsQmxPdzdnZmxzUVhiSUVXajdXSjdoZVdjRFJLZ0hqcERIX05JdkEyWDBnYldEbFJPWUp0WTI3UjBGSTRwSFVQVm9tcmFtTnkwVDdNOElkQ2EyTm42cVV0YUlsMUNZQUN2Wm1hRG03SWx1dks3YVdYajBCZVlKY3FpMGRGYS0yTWROSHg2Ty1EYmE0T1ZpNklHTXlMODB3azZtWXJHNS1uc3J1V1BIZF9waUppQlVSNlYwODJP?oc=5",
    "time": "2026-10-17T13:26:04+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Vibes",
-   "title": "Singapore moves against seven Indonesian firms as haze clouds region",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGdFTzdRV3cxYWxDT2xaRlZiZTNzYUJ2dXAtWVFHX2k4NUNfUnVTSVJ0ZWY1Z3Q3OE5KR0JUNnl0MmtxaUI2cEJ2dWY4MDc5YVgtMWF3dWJnQlBRem5waTVHSnVlbU55ZFRrR0d6SC12TzNVc095RUVkbTdrZE9MQzZuMkRMTXlpRE5BOWQ3MHNYT0pRUWFoWkRqbWh5ck1DMVRHRmw0ZTNjeUItM0x6WUdOVC1lQQ?oc=5",
-   "time": "2026-10-17T13:04:00+08:00",
    "summary": ""
   }
  ]
