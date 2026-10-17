@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-17T14:00:00+08:00",
+ "updated": "2026-10-17T15:00:00+08:00",
  "psi": {
-  "west": 185,
-  "east": 173,
+  "west": 188,
+  "east": 174,
   "central": 184,
-  "south": 154,
-  "north": 135
+  "south": 157,
+  "north": 133
  },
  "pm25": {
-  "west": 243,
-  "east": 159,
-  "central": 179,
-  "south": 162,
-  "north": 99
+  "west": 233,
+  "east": 167,
+  "central": 181,
+  "south": 170,
+  "north": 111
  },
  "hist": [
-  {
-   "t": "2026-10-15T08:00:00+08:00",
-   "psi": {
-    "west": 207,
-    "east": 170,
-    "central": 184,
-    "south": 157,
-    "north": 125
-   }
-  },
   {
    "t": "2026-10-15T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 154,
     "north": 135
    }
+  },
+  {
+   "t": "2026-10-17T15:00:00+08:00",
+   "psi": {
+    "west": 188,
+    "east": 174,
+    "central": 184,
+    "south": 157,
+    "north": 133
+   }
   }
  ],
- "newsUpdated": "2026-10-17T14:07:26+08:00",
+ "newsUpdated": "2026-10-17T15:07:35+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,6 +507,27 @@
    "pinned": true
   },
   {
+   "source": "NST Online",
+   "title": "Haze triggers highest alert level in southern Asean region",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWE2aGdWdGxoZWVnN3N4bkk2MXVHUE1oeGNhcE9Oa2Fqb1lhenZqRWxPc3R0MEswTTBrM1Fyb3BucDItVjE0OUlMeEQxUmphbmE1UEJIWjMtZzhYSkFCSlRPeDJzVzlKMW50dkNRTjRwOUlvamZRaEFMLVpiaEdZYUVROU5qSUg1blRVMTRCZENQbFM1YTl5Z0haRkNfUC1SVUlBbnBJRWhpakXSAbABQVVfeXFMT0JianA5SDhaXzkta1hrSHZGOVdmcmFIRVFBS2lMa2NKQWVpYno3MlVib2dySW5QMV82WElQTnQ2eTJjR3hWYUJoM0w5akR5cHBOM1BPRTR2SkVnWkIzRTFBRXBTS185azJKajZ4cmM4ZEk2dkM1TWEzTzRpcGtLYTF2aFVFR1Q0dUJQYkpONWNlNURFaVp6b09VNV9XOHM2aXd1Zk5maGY2Zi04QXFmMU4?oc=5",
+   "time": "2026-10-17T14:43:51+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Singapore haze keeps air quality unhealthy across island, with PM2.5 levels high in most regions",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcmRUVlZQMmhocGY1SDFMYmhTcVJNbkFsMmNoQWhXMVdSX0NaZlRsbDhvV3FMU1BLTHBqSl9wSWNPZWVvU1h3eUcxb25vOG9CSHl4QkRqcmZNYnhFalFaRzZ5MmNjbUxrejJSaVp1NFA4V1JVX25IVnVWRjlhTzVnODl5b0tOdnJVa0RFS2wzVnpoV3g2a0hDZUdVN054aXZNZ3ZsMjhPcTVPbzl0UGRfaVYzQ2ZCM3ZDQ0ZkMzR6THRQNUNnVV9ac1FSMHFMYkNUUUxOcjlGMjVoTzRhbmJFU0xoUnA4azRBYnZ3NG93?oc=5",
+   "time": "2026-10-17T14:18:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: PM2.5 readings climb into high band in four regions",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGZ3V3F3cGR5QzRrZWdYTXlKaFpVLWpESXpaQ21YYTFVVXhtVFV5X1dESlg5VmNrenBtWVZMdTl0NS1xNkJxSXotVFR2TGVWUGN0bGMyMlRaVDJaaTVqaDB6NW10bm10b2FlX3l1UDVWSGJWbHgwN2lzQzU1aVo1aWxsbWlPSzg?oc=5",
+   "time": "2026-10-17T14:12:17+08:00",
+   "summary": ""
+  },
+  {
    "source": "Malay Mail",
    "title": "Indonesia fires trigger highest-level regional haze alert as pollution spreads across Southeast Asia",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTmRmMGhuOUtobEtfQm9mV0xRQ2FidW0yY0Zpeng2RmdOVGJOdlFzODhnckFQeklMOHAwbUQ5U1RDZ3Z6NzJ1eDBTQmtNdkFyUXJ1dUVyaXhya2xkWE5UMzU4Y3k1cno0cUFxeWZSSHBOT1dsLWlpYmw2cno2dEtqSExlb1FiUW9FY2FWU2ZhUFdPYzFNMV9ybFdsLWZQWDlFZk43LVo3X3JYajdiYWh4dkkwRms1andWbEo0YVEwX3JXM09wUm8zaWM1d1FBXy1XWGFaUUd1MF9EX3JRTDRmOVE4Y3hhbzRiRncw0gHwAUFVX3lxTE9hZkFVNzZrYk1Ka3J0TEhLS3lpaXVRenFYS2wzYW0xX21NeUZKS1hLX1FlM3RLdlpOakdtdUFUSHN5YUVoX0dIdGJhS24wdTQyUjhVQklOc3Vudld0WjJfLV9Rc2ZlZlVacmRZdXQ4a2dvcnh5ekdYTjIwQXlvVVR0d3dZQWt4M0pfYW83a3FjR2s3SlR3Z0hKdDZkUE95SDVrVFAwT1ItZm9JTU5uVGFXRFlZaUtpeTBqUGktYjN0NTNVNEtzaDZNQXZaMHRtTDFnMnphazZkdDJ2al9UdVNpeFJIT1FERktfc21CM190YQ?oc=5",
@@ -514,24 +535,10 @@
    "summary": ""
   },
   {
-   "source": "NST Online",
-   "title": "Haze triggers highest alert level in southern Asean region",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWE2aGdWdGxoZWVnN3N4bkk2MXVHUE1oeGNhcE9Oa2Fqb1lhenZqRWxPc3R0MEswTTBrM1Fyb3BucDItVjE0OUlMeEQxUmphbmE1UEJIWjMtZzhYSkFCSlRPeDJzVzlKMW50dkNRTjRwOUlvamZRaEFMLVpiaEdZYUVROU5qSUg1blRVMTRCZENQbFM1YTl5Z0haRkNfUC1SVUlBbnBJRWhpakXSAbABQVVfeXFMT0JianA5SDhaXzkta1hrSHZGOVdmcmFIRVFBS2lMa2NKQWVpYno3MlVib2dySW5QMV82WElQTnQ2eTJjR3hWYUJoM0w5akR5cHBOM1BPRTR2SkVnWkIzRTFBRXBTS185azJKajZ4cmM4ZEk2dkM1TWEzTzRpcGtLYTF2aFVFR1Q0dUJQYkpONWNlNURFaVp6b09VNV9XOHM2aXd1Zk5maGY2Zi04QXFmMU4?oc=5",
-   "time": "2026-10-17T13:31:06+08:00",
-   "summary": ""
-  },
-  {
    "source": "South China Morning Post",
    "title": "Asean climate monitor issues highest alert level over toxic haze",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcEpfc0tDSEJsQmxPdzdnZmxzUVhiSUVXajdXSjdoZVdjRFJLZ0hqcERIX05JdkEyWDBnYldEbFJPWUp0WTI3UjBGSTRwSFVQVm9tcmFtTnkwVDdNOElkQ2EyTm42cVV0YUlsMUNZQUN2Wm1hRG03SWx1dks3YVdYajBCZVlKY3FpMGRGYS0yTWROSHg2Ty1EYmE0T1ZpNklHTXlMODB3azZtWXJHNS1uc3J1V1BIZF9waUppQlVSNlYwODJP?oc=5",
    "time": "2026-10-17T13:26:04+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: PM2.5 readings climb into high band in three regions",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGZ3V3F3cGR5QzRrZWdYTXlKaFpVLWpESXpaQ21YYTFVVXhtVFV5X1dESlg5VmNrenBtWVZMdTl0NS1xNkJxSXotVFR2TGVWUGN0bGMyMlRaVDJaaTVqaDB6NW10bm10b2FlX3l1UDVWSGJWbHgwN2lzQzU1aVo1aWxsbWlPSzg?oc=5",
-   "time": "2026-10-17T13:05:34+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Singapore Haze Eases, But Air Quality Remains Unhealthy",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDJPdlFtWnVWRzczaWFMVkNUM01ZQVZXM1NtRHZWMkhOX2ljc0l4R2liUEE4N29vMUZNUzRFQlBseFNUeVVSdi1IUXpZM2NrVHplVWREZmtxakZrVlJwN0luTE5jMEJXTFdrQ0JqNWtxQzIyWWR6b242U0JXS1hITGNTZ3BTcEZ5VEF0TEg2SlM3elBnSWJVbm1Hd1pTTnRU?oc=5",
    "time": "2026-10-17T11:31:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "UA.NEWS",
-   "title": "Singapore FA Cup final postponed due to haze — Channel NewsAsia",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcFdGUm1OSnB5Vl8zb1lfWHdmOXpvVW43ZXdzejJxcVVydDdZbVlWRUt5NXhtc05FRlBpRmgtaWRHNTllTXo4UkZtd1NEdmxxazIzNGY5QjlTSk9NeGVtNDhyMW5UbWFfODFnSHA4S284UmV3TnRyQzl3dHNIZTYwTzFkRUwtN1RhYUE1RVl1U1l2NjRn?oc=5",
-   "time": "2026-10-17T11:26:51+08:00",
    "summary": ""
   }
  ]
