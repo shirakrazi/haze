@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-17T12:00:00+08:00",
+ "updated": "2026-10-17T13:00:00+08:00",
  "psi": {
-  "west": 178,
+  "west": 181,
   "east": 173,
-  "central": 184,
+  "central": 185,
   "south": 153,
-  "north": 136
+  "north": 135
  },
  "pm25": {
-  "west": 206,
-  "east": 144,
-  "central": 174,
-  "south": 165,
-  "north": 91
+  "west": 242,
+  "east": 150,
+  "central": 180,
+  "south": 154,
+  "north": 93
  },
  "hist": [
-  {
-   "t": "2026-10-15T05:00:00+08:00",
-   "psi": {
-    "west": 206,
-    "east": 171,
-    "central": 185,
-    "south": 157,
-    "north": 125
-   }
-  },
   {
    "t": "2026-10-15T06:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 153,
     "north": 136
    }
+  },
+  {
+   "t": "2026-10-17T13:00:00+08:00",
+   "psi": {
+    "west": 181,
+    "east": 173,
+    "central": 185,
+    "south": 153,
+    "north": 135
+   }
   }
  ],
- "newsUpdated": "2026-10-17T12:07:11+08:00",
+ "newsUpdated": "2026-10-17T13:06:59+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Mothership",
+   "title": "3 of 7 companies served with haze enforcement notice had received similar notices in 2015: Grace Fu",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaM2JmbHlhTzlyRkFZWllhMHc1NC1uRG1ra09kaXZNTU81dkxjcHFWUjJGR09jNDhQWmVSYUJaVTV3QVJnaHBjRUxfRUpKbkp1TkFDa3ZVSE1RRlpDdE5MeTZ4czRGTGdY?oc=5",
+   "time": "2026-10-17T12:59:20+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Arab News",
+   "title": "Haze triggers highest alert level in southern ASEAN zone: monitor",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOTFabHdyZllCeXhwbWlReDRSTV93VmFQY0ZrcE9iMmVQbEY1R0dXT1FRMlZNcVcxUm03NlhyLVk0bXNsYzlVZWxrNkxfSnpobWJhWHpybW9Hczh6SVlLRGd0RmNWMU9kTEV2Nmk0VUYtRDVNWmZYenZFSnlqd1g0M0g0TThkUDBwNUtiSWNCQ2xvSW5IZUtEYlFLVkN3cjdabm04VGR3?oc=5",
+   "time": "2026-10-17T12:51:35+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Online Citizen",
+   "title": "WP MP Kenneth Tiong welcomes haze notices, urges action against Singapore-registered firms",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNckpzYm9xN1lja3VtMENYY0xjYVE3Y2JDeXdwejhVeVNzVV9mR1MtX25UZEZwSHpURmlDeXRSZzFtaThqdXJVdUxEQVd3S0h6Vy1vMnRvMV9zS2ZzYkh2QnQtbWlIazlHWFRDcTJMdlpYclROWjAtbVUzTVdOaGtNNnNPZE1YaGhEb3puaEg4cEdJdGZMLWJrcnRvRVVXdDJET1pPazN4R2liTXVUQXNfZjVVRjhLUi1IVTRsaFd0TjJ3MFBaMnpXSTlFRFJmUkk?oc=5",
+   "time": "2026-10-17T12:32:57+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -574,27 +595,6 @@
    "title": "Haze update Oct 17: Weekend begins with better air quality as PSI drops to unhealthy range, PM2.5 elevated",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaEY1bnpTR3N2OUNxSjNacDltZVM4Z21RaGNHTy1lX3g4aWRLa21YS2dZaElSUjJITlllY0lNd3B3elJ3dmtWZlh1UHk0NVZmbmV1NWVPaHZaRGdoNFFHMVVNbUNIMVk5UGdtMmFuWVhkWVBPMmlSQUpaM2VNalg0YUs2UWQwX2lhZmNjMS0xLXU?oc=5",
    "time": "2026-10-17T09:52:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Singapore’s FA Cup final and third-place play-off postponed due to haze",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbkJhOGl6akZrX1NTSzZib0pYWUR2SHJ0QTJCb0xyeC1WaGFsSHdsVHR6a0pWZGllT2tmeGZmSkMxTDE5YkZiYlI2N1lPeV83WVAzdzlRTDZ2QUJ6a0x3akpsLS1ZUzRzR29OcENobC1CMmVLMjZzbzg0VzktUHctcndaR0tfUDM5V1RBWDBrMjBzallTU2FvTWlDZHV5YXliOTZtYlE2TlpxZk9LQnBIbWtsLTE?oc=5",
-   "time": "2026-10-17T09:45:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Singapore targets seven Indonesian firms as haze worsens, air quality turns very unhealthy",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOck5ycWw3dTNudmR2a2hJZUpicWs5NnV6X0czWDJIaEhrOHMzVGVTNDZVV3dlQzRkcGpQcHNhNmZsSUJINlVFd0hRTjRISnJQTzBnRlZjQVlxMlVzaE9zWVJRMTIxd3daTTBvZmZOYjE0Zk5LZ1JRUzVVOFRjZlVjbVpZYU9xY1kyeGdJaEVDZS1rREZET1FfeWhrRVdLSTRwNS16NWNUSGF6N3hPTFNFcmtQb3FHaUJPVDJoMDdsUGtNTHExbUxldVZ1QzJQcS1vNGUwd3NMQjQtSkZhU2M1TkRhMFZoVknSAecBQVVfeXFMTnJOcnFsN3UzbnZkdmtoSWVKYnFrOTZ1el9HM1gySGhIazhzM1RlUzQ2VVd3ZUM0ZHBqUHBzYTZmbElCSDZVRXdIUU40SEpyUE8wZ0ZWY0FZcTJVc2hPc1lSUTEyMXd3Wk0wb2ZmTmIxNGZOS2dSUVM1VThUY2ZVY21aWWFPcWNZMnhnSWhFQ2Uta0RGRE9RX3loa0VXS0k0cDUtejVjVEhhejd4T0xTRXJrUG9xR2lCT1QyaDA3bFBrTUxxMW1MZXVWdUMyUHEtbzRlMHdzTEI0LUpGYVNjNU5EYTBWaFZJ?oc=5",
-   "time": "2026-10-17T09:34:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Indonesia’s acceptance of foreign help on haze welcomed",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeTQ4eVZ3Nm00bVRXR2FQT1M0WW56UW1GM1pQeHZiMnJRZThYMThHYVk4YmNWNXBnZ09YUTZYQWhIc09rNWNLMkdSbXNCMVpqaE5UcnZFYWo5TldXdHUyLTJYN1Vuc2F2ZU00RlluYmo4RTBGb29UNkd1T3BRcHZqWFRDWnBQYmM1Qkk1dWpQdm52Q3VOUENDcVpXNjkzNks1aGY1X2lsTQ?oc=5",
-   "time": "2026-10-17T07:49:16+08:00",
    "summary": ""
   }
  ]
