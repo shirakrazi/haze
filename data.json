@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-19T06:00:00+08:00",
+ "updated": "2026-10-19T07:00:00+08:00",
  "psi": {
-  "west": 139,
-  "east": 107,
-  "central": 117,
-  "south": 104,
-  "north": 92
+  "west": 136,
+  "east": 105,
+  "central": 115,
+  "south": 102,
+  "north": 90
  },
  "pm25": {
-  "west": 75,
-  "east": 68,
-  "central": 75,
-  "south": 60,
-  "north": 40
+  "west": 74,
+  "east": 58,
+  "central": 78,
+  "south": 51,
+  "north": 41
  },
  "hist": [
-  {
-   "t": "2026-10-16T22:00:00+08:00",
-   "psi": {
-    "west": 196,
-    "east": 191,
-    "central": 215,
-    "south": 179,
-    "north": 154
-   }
-  },
   {
    "t": "2026-10-16T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 104,
     "north": 92
    }
+  },
+  {
+   "t": "2026-10-19T07:00:00+08:00",
+   "psi": {
+    "west": 136,
+    "east": 105,
+    "central": 115,
+    "south": 102,
+    "north": 90
+   }
   }
  ],
- "newsUpdated": "2026-10-19T06:07:20+08:00",
+ "newsUpdated": "2026-10-19T07:07:40+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Star",
+   "title": "Pets also suffering due to haze",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZDFmdks3azNYTEpSX3lCNUtVNE5SZFBxbjBFYU5XSXN1S3lvaExlZG44VHBsN01MdU16d1RLLTRxVlZDazMtMzV2OUZpUm45VXQ4TTNtSTE0dndGS1RscjdfdzRva1luU3NCWUgzZEZhQjd2SXpsdVpKTVZvYzJyb01Mc3FNLXBP?oc=5",
+   "time": "2026-10-19T07:03:45+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Air quality in Singapore mostly unhealthy; PM2.5 elevated in four regions",
+   "url": "https://www.channelnewsasia.com/singapore/haze-oct-19-psi-6469736",
+   "time": "2026-10-19T06:41:15+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze in Singapore: Air quality improves but most regions remain in unhealthy band",
+   "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-improves-but-most-regions-remain-in-unhealthy-band",
+   "time": "2026-10-19T06:15:27+08:00",
+   "summary": ""
   },
   {
    "source": "Bernama",
@@ -549,13 +570,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality expected to remain unhealthy on Monday",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmctdFZ3N0tQNGxoS0dhU1V5YWhxT3RFdXB5UVk2ZEdPZ0l6WTlRLUl1bnNfSm93SmJVdmNFS0gxME1VMFY0anRQdVRqX3RpckhEQXFtU1VPQW03Vzd5dUN6bmdzT3V4c2JWaFc1cFVHdjIyYVFOVmZ6UUJDcGxlSmZBZ3paWk9QbFRBYmQ0SVZpLW5pY0FzWA?oc=5",
-   "time": "2026-10-18T21:08:37+08:00",
-   "summary": ""
-  },
-  {
    "source": "DollarsAndSense.sg",
    "title": "Which Businesses In Singapore Could Lose The Most Money From The Haze",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDFvNUpDTDI0WmVZbXNZVmVtMDRPN0pXWWo4MEpkYkpoY3F2b2ViTDA5akJISGR1OHR4WWVpcmRaek5XSjJMZG8xNkhVYV9BYUJnU3hpajI3M0R4T080Ykt4WHdIS0xHeXdfM3BiSjFzaHVYenZqOXZzWjVnZ0JUdjhMTzU4T2dBd1hjYVlyR1otdjRZNTN2OUhZUUdmdw?oc=5",
@@ -581,20 +595,6 @@
    "title": "Malaysia’s Firefly cancels Seletar-Subang flights for 10th day due to haze",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcjFoRUhKdVo4NkdnS2NzZTQweWRCeFlPZzAwUTN4SFV1dmNGeHhtNnBQVzlfYjJjRHg5aTRpTi0wV2dOU0hkdkNVUzhJZEVGUVE5QWdoN3VLemc4ME01djRoSFlPbmhtUERqaHhlYlh0MEZtNGN0WW5NcUtTcEFNWXlZOEliZ2NiLVNpZHg2UVlJOG1PdlJJZlhqbzRxZVlfWFZwQkduTlFQSDNiNEhaSDhUVU1MeEdnczVlZF9KZ0xDWmpDT3BjUmlpcGF3c0dyVkE?oc=5",
    "time": "2026-10-18T20:18:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "France 24",
-   "title": "Dozens of orangutans saved from Indonesia blazes as region grapples with haze",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTzA2MlJ2aGZoUnpvejIzNC1KdDNGVHNKbHM5MGpmZ3piNTl6LXN0dWowU3pkZW1sbDk3eTBTTnNnYWo4R2twbUxCV2REbFZuV1ZldzNHOHFCRXRUQVVnQzUwUVJBRE9ZVHFtRzgwbGhmOExUVzhtbkV0YzNTUzZKdTNZRDE0aHBPazlTMG1UZjQxdFNRdl9pUTloQjNOWV9qUlVRTl9TUDBkMDEtRnVUTEpLOE94RFQ2Tm1CX0ZPSzFQUQ?oc=5",
-   "time": "2026-10-18T19:25:23+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kursiv Media Узбекистан",
-   "title": "Indonesia uses dry ice to tackle haze from wildfires",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSUJNRkptMTNfSFMtWDg3TjJRWWRzcEd3VDZobFZJYzZ3clMzdXdlcW1NQUI4cmFqS24yMUJkUnBWNU8wM0NnNGRXbWpzeHNVd2FhZ0FUUi10TF9vRTlDNnNNMGlQU2JiNVpoZHAwWVFOZTFKcUNYeXRKdnJHbk5STnRSX0pTN3NQSUZoeTZFVU5iOEtoU1ZXWTJqZDUxRjVyUmlkUVRwclMxa1U?oc=5",
-   "time": "2026-10-18T19:16:01+08:00",
    "summary": ""
   }
  ]
