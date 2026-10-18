@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-18T19:00:00+08:00",
+ "updated": "2026-10-18T21:00:00+08:00",
  "psi": {
-  "west": 186,
-  "east": 139,
-  "central": 143,
-  "south": 133,
-  "north": 106
+  "west": 176,
+  "east": 132,
+  "central": 136,
+  "south": 127,
+  "north": 105
  },
  "pm25": {
-  "west": 68,
-  "east": 59,
-  "central": 74,
-  "south": 69,
-  "north": 37
+  "west": 82,
+  "east": 30,
+  "central": 51,
+  "south": 47,
+  "north": 48
  },
  "hist": [
-  {
-   "t": "2026-10-16T14:00:00+08:00",
-   "psi": {
-    "west": 204,
-    "east": 205,
-    "central": 228,
-    "south": 186,
-    "north": 155
-   }
-  },
   {
    "t": "2026-10-16T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 133,
     "north": 106
    }
+  },
+  {
+   "t": "2026-10-18T21:00:00+08:00",
+   "psi": {
+    "west": 176,
+    "east": 132,
+    "central": 136,
+    "south": 127,
+    "north": 105
+   }
   }
  ],
- "newsUpdated": "2026-10-18T19:07:57+08:00",
+ "newsUpdated": "2026-10-18T21:08:56+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,59 @@
    "pinned": true
   },
   {
+   "source": "DollarsAndSense.sg",
+   "title": "Which Businesses In Singapore Could Lose The Most Money From The Haze",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDFvNUpDTDI0WmVZbXNZVmVtMDRPN0pXWWo4MEpkYkpoY3F2b2ViTDA5akJISGR1OHR4WWVpcmRaek5XSjJMZG8xNkhVYV9BYUJnU3hpajI3M0R4T080Ykt4WHdIS0xHeXdfM3BiSjFzaHVYenZqOXZzWjVnZ0JUdjhMTzU4T2dBd1hjYVlyR1otdjRZNTN2OUhZUUdmdw?oc=5",
+   "time": "2026-10-18T21:03:33+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Indonesia deploys 2.4 tonnes of dry ice over South Sumatra to disperse haze",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRFRzSmJJSnVya2ttYU1TbFV1MmNqQU9aamFIcU56cGd1MGNUbnBQbEZibmtlVW9BeG83T19WMmt0cU9Edl83VjlEeE1ndHpTTmdiR0pjUTAtWmZvWVppZTkzLXBCaEJ5T0d5eC1IdXVwRDlfS0ZjLWRSdWJwbUxvR1BCZ2VBV3U4Z2x6NkprUVFLZkFfNkVjelB0VzctQy0xQS1GT1FnVXdENXZ6RERVcm9lY3M?oc=5",
+   "time": "2026-10-18T20:40:33+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Bali Times",
+   "title": "Singapore Warns 7 Indonesian Firms Over Haze",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVy1pb3VFNzdPRGEyTkRGN0lYX21zVUVqVkF6S2J1TkhSWi1kQXhfS1pieVYtMWVWUEtsQkhxbFVDZDM5RWxlaWVNazVscVRnSXBzSFR5LWdhOVhmMlpVMUZDN3lCQks5TVhhRzh3bVdTczdkYUt1UVAtYmxWcHZsTEE2a0NYZjA?oc=5",
+   "time": "2026-10-18T20:37:34+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality unhealthy in all regions",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmctdFZ3N0tQNGxoS0dhU1V5YWhxT3RFdXB5UVk2ZEdPZ0l6WTlRLUl1bnNfSm93SmJVdmNFS0gxME1VMFY0anRQdVRqX3RpckhEQXFtU1VPQW03Vzd5dUN6bmdzT3V4c2JWaFc1cFVHdjIyYVFOVmZ6UUJDcGxlSmZBZ3paWk9QbFRBYmQ0SVZpLW5pY0FzWA?oc=5",
+   "time": "2026-10-18T19:58:49+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Malaysia’s Firefly cancels Seletar-Subang flights for 10th day due to haze",
+   "url": "https://www.straitstimes.com/singapore/malaysias-firefly-cancels-seletar-subang-flights-for-10th-day-due-to-haze",
+   "time": "2026-10-18T19:58:23+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Kursiv Media Узбекистан",
+   "title": "Indonesia uses dry ice to tackle haze from wildfires",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSUJNRkptMTNfSFMtWDg3TjJRWWRzcEd3VDZobFZJYzZ3clMzdXdlcW1NQUI4cmFqS24yMUJkUnBWNU8wM0NnNGRXbWpzeHNVd2FhZ0FUUi10TF9vRTlDNnNNMGlQU2JiNVpoZHAwWVFOZTFKcUNYeXRKdnJHbk5STnRSX0pTN3NQSUZoeTZFVU5iOEtoU1ZXWTJqZDUxRjVyUmlkUVRwclMxa1U?oc=5",
+   "time": "2026-10-18T19:16:01+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "PSI forecast to be between 100 and 190 on Oct 19, says NEA",
    "url": "https://www.straitstimes.com/singapore/psi-forecast-to-be-between-100-and-190-on-oct-19-says-nea",
    "time": "2026-10-18T18:59:41+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Clearer skies as winds change direction, smoke haze may hit Singapore from Oct 20",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMzVDS3Mxa3FCdXlqWVBNNF92bkZwZHFVM2JkTnZIRU5nTVg0ckw1NmJCWnljMXNodVBGcmxMb1UyMl9EMzRnclUzZVMtRUs4TWc3R1ozdmVkaW5NNERVZEVvNlBiallMMHlmUUY5Y0FCdllFVFFWdzQxU2ZDbzdWaEc5NVc4WFJIVjhXTA?oc=5",
+   "time": "2026-10-18T18:48:00+08:00",
    "summary": ""
   },
   {
@@ -546,55 +595,6 @@
    "title": "Singapore haze hits home: Families close windows, cancel walks and collect masks",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVFJ3Yi1sTktsenRXUlZmYU5WVFRwc2VIQ3pPQ3pUVV9yZ3h6M01IYnRDcEhYZ2hzZ2p3ZU02VWZqaUFHcHNHQkFubmpFbmd3TnUtWDJOQm55RkxPRGZVNUMxZU1BeF9jekJKbFI4UnVIdGp6S2t5ang5RkEtbVlKNTQ2Z2I2LWx6V09KOWl5eE9NNTFVdlBLT3dWNmRPOEwxS0VUMUNBa2FsQlVlOUF6aUlic2s5VVh5V0x6TFVqSjd3Y0ZNTHdlLWEzeTI1d3ZROFV6R05iQ3PSAdgBQVVfeXFMUFRSd2ItbE5LbHp0V1JWZmFOVlRUcHNlSEN6T0N6VFVfcmd4ejNNSGJ0Q3BIWGdoc2dqd2VNNlVmamlBR3BzR0JBbm5qRW5nd051LVgyTkJueUZMT0RmVTVDMWVNQXhfY3pCSmxSOFJ1SHRqektreWp4OUZBLW1ZSjU0NmdiNi1seldPSjlpeXhPTTUxVXZQS093VjZkTzhMMUtFVDFDQWthbEJVZTlBemlJYnNrOVVYeVdMekxVako3d2NGTUx3ZS1hM3kyNXd2UThVekdOYkNz?oc=5",
    "time": "2026-10-18T15:42:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality remains very unhealthy in west, unhealthy in other regions",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmctdFZ3N0tQNGxoS0dhU1V5YWhxT3RFdXB5UVk2ZEdPZ0l6WTlRLUl1bnNfSm93SmJVdmNFS0gxME1VMFY0anRQdVRqX3RpckhEQXFtU1VPQW03Vzd5dUN6bmdzT3V4c2JWaFc1cFVHdjIyYVFOVmZ6UUJDcGxlSmZBZ3paWk9QbFRBYmQ0SVZpLW5pY0FzWA?oc=5",
-   "time": "2026-10-18T15:30:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Check API readings to assess air quality amid haze, says DoE",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2NWTXMzSXNGdG1SeUdaZV9IUU1uYUVWX1JLU2F4a1NweG02MzJJa3cwRDhrM2UtU1Npd3B6cWxoQlhXYjNiVE9XTDNhZzJnNkVjVkRfYVNObG5QZU9yeDJaem96OGRXSFM0NHRGcFJRVk81Z0oydFRvenVBU0lMM3ZQZDJ2X0Y3UUpxam1vNmJ0WWx3YVM3ZnF1UnlOSF84WUV4bHNPcFlNRkRCTUpKNdIBsAFBVV95cUxNV2NWTXMzSXNGdG1SeUdaZV9IUU1uYUVWX1JLU2F4a1NweG02MzJJa3cwRDhrM2UtU1Npd3B6cWxoQlhXYjNiVE9XTDNhZzJnNkVjVkRfYVNObG5QZU9yeDJaem96OGRXSFM0NHRGcFJRVk81Z0oydFRvenVBU0lMM3ZQZDJ2X0Y3UUpxam1vNmJ0WWx3YVM3ZnF1UnlOSF84WUV4bHNPcFlNRkRCTUpKNQ?oc=5",
-   "time": "2026-10-18T15:20:39+08:00",
-   "summary": ""
-  },
-  {
-   "source": "https://www.tabla.com.sg/",
-   "title": "Haze Chokes Food Businesses",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzRzF3MXd4enhVQ1AxeFVIZzZ2RFhHV2dOdUtxRXhPQTRMQTlrVFRzcG5CaVR4YWxLa05RWk5vbmhwT0xLVkI1YjFld0pwbGNPUUlkRDJfNXhPU2Rzd0tOSmRDbzF1dzF3VnFwdlQtZ2FtczhEVnc?oc=5",
-   "time": "2026-10-18T14:50:52+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Mad rush for oxygen tanks, air purifiers in haze-choked Southeast Asia",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNUIyRGJ1YlVDNG41V2UwMWlrNjZLRk8wQzZGRTNJdnFoNk9oTEx3el9jMHBWM2s0UVRlN2xuOGxReElWdXk4R3NsMFFQdG95MFAzRG5meWJfWnJLd2t6dHpjanFyN2d4b29IcEJsN3ZnTDdCTTZIRDY5aExxR24zUVhzLXZzSzZWYVg4U1RaV3pkS0o3MU1QTzB2TG52X3Zla0lnSGxNNmFETFl6aDJKZFphMWlTUlBpMlpQbG5kM0xsUdIBwgFBVV95cUxOazNOWnNscDlkckhfa0pRdzhCTGVDdks5bng5TjItM1A2cHdxN1hMMVV5aTBVMzVRYzM0MlJicHZHSGtKeEdRMGNsRGdWTExRcVZxa0J6Y0JkNjdWaGk1TXJqdGZJNEp1WXozcDFPVXpmNzhKYkNucGJCY1VKTHdiSlFHc1I4WldEUUgwQ2EzNUZFLVFkWDdKU2RPek1FMnpoSndtak1hVlJrbXBBamdIYXhlZ0k4YUV6RF9WaDRxWklnQQ?oc=5",
-   "time": "2026-10-18T14:46:56+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Haze persists in KL despite rain as winds bring more pollution, says DoE",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNEstbDFTcER3Y2NWWThWUEJNOWZHdWpHTzBzaU9WNEZzR01JNWN3TGZWMi11WnJFVjFUMkpoT3dyMGZkRDdJNDBrSDVhTkItX2lWcDVUa1pCejVyUzJseEItS0tPSVJ0UU1QM0lfSTFESXVqSy0tNld4UlNXdHk3UmtVVFE0ZUpSYXIxaTh1U01WZFZmc2IxVDBHMjJFdUZlNGpiMzhfbUlrZGJ6R2hTWGtjOXRCZHlLcjZ6aNIBvAFBVV95cUxQNEstbDFTcER3Y2NWWThWUEJNOWZHdWpHTzBzaU9WNEZzR01JNWN3TGZWMi11WnJFVjFUMkpoT3dyMGZkRDdJNDBrSDVhTkItX2lWcDVUa1pCejVyUzJseEItS0tPSVJ0UU1QM0lfSTFESXVqSy0tNld4UlNXdHk3UmtVVFE0ZUpSYXIxaTh1U01WZFZmc2IxVDBHMjJFdUZlNGpiMzhfbUlrZGJ6R2hTWGtjOXRCZHlLcjZ6aA?oc=5",
-   "time": "2026-10-18T14:46:56+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Facebook",
-   "title": "WATCH: Thick smog from wildfires raging across Indonesia blanketed Singapore's skyline on Sunday, Oct. 18, 2026, marking two weeks of ‘unhealthy’ air quality levels in the city-state, as authorities moved to hold companies responsible for the transboundary",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ0lrSVZITVhvNTBTTWNBV1FQMWNMc3FGWlZtckl0ZWdnTXpEWWhiSi1NVVBlemFRNnAyLXV0SG1wWVV2NWNiYkxNX2VJYXlRc3pHQzIwa1pzb0liU2FXSFhSbjEwMmNOVmZqbUZwazNtMnBDc3NSQUlqRUo1QkFPM3dNV1B2Mm5fME9aMVo2UHR4eEJtdzlJamxVOTY1bkUtRmk2RTVWSnh4TkZ4OC01NFFCbkhFTURjQlZrTlhtaGtVRXUtdEJfS2R4WlJiaTY4V1pn?oc=5",
-   "time": "2026-10-18T14:41:07+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Facebook",
-   "title": "GMA News. . WATCH: Thick smog from wildfires raging across Indonesia blanketed Singapore's skyline on Sunday, Oct. 18, 2026, marking two weeks of ‘unhealthy’ air quality levels in the city-state, as authorities moved to hold companies responsible for the tr",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMFVuNWE3bVdIby1lREtWeVBNZGZQY1hOTWt0Ym1xdFBIRHBVb2ZlWXpfR1VSeEUyMy1BYmRPTVdwMUZQcXdpY1BSYk14cncwWDJvel9ZaE5iM2VzVGlyZEY4UXVpRW02eXVkeU1FYTNfaW9ubXVYMzZPTzdKSFVDNUNwWHFFM25fVzJuSXZoUXEwd01UaUxRa2YzM0p0M05pc2tEWmJERTJ1UDA2UDZ2RG5sLUtDTmtVZWp3emxfSk1ycV83OUxNUThXaUQyNVRBZkhaRQ?oc=5",
-   "time": "2026-10-18T14:40:16+08:00",
    "summary": ""
   }
  ]
