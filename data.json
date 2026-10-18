@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-18T12:00:00+08:00",
+ "updated": "2026-10-18T13:00:00+08:00",
  "psi": {
-  "west": 227,
-  "east": 167,
-  "central": 180,
-  "south": 167,
-  "north": 127
+  "west": 222,
+  "east": 163,
+  "central": 175,
+  "south": 163,
+  "north": 124
  },
  "pm25": {
-  "west": 136,
-  "east": 58,
-  "central": 65,
-  "south": 61,
-  "north": 52
+  "west": 125,
+  "east": 55,
+  "central": 57,
+  "south": 69,
+  "north": 41
  },
  "hist": [
-  {
-   "t": "2026-10-16T06:00:00+08:00",
-   "psi": {
-    "west": 193,
-    "east": 192,
-    "central": 221,
-    "south": 178,
-    "north": 145
-   }
-  },
   {
    "t": "2026-10-16T07:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 167,
     "north": 127
    }
+  },
+  {
+   "t": "2026-10-18T13:00:00+08:00",
+   "psi": {
+    "west": 222,
+    "east": 163,
+    "central": 175,
+    "south": 163,
+    "north": 124
+   }
   }
  ],
- "newsUpdated": "2026-10-18T12:07:02+08:00",
+ "newsUpdated": "2026-10-18T13:08:06+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Dozens of endangered orangutans rescued from Indonesia wildfires as haze chokes region",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbDZzVzJhbWh0bWRaTzZDcmdLbDZIaEJsWW5NZk5nUnV6OUdYa0dUeExURVloZEtqMGtRN1diTk5NT3RUcHVEYlZ6czRfQTY3Y2V0SndfZm9VRE51cE9yaUZFODAxc2RWNzh4Nk1NdlMzd1ZyR3FNZkJCTDQtWWNUTlFsMmFiNlVzLU1UUnhiZ2kzb0hXQVJvSTZCUTNpUTRUQmR2SGJRTi1FSm5SY09LOTRpb3NGSUZST25wams5ZnNndmpFZjFjS1RLQVEtQk1uM3A1d0dwT1DSAd4BQVVfeXFMUHZiOWlvSUMyQ2RMQWJHR3UwX3U4Vk4ya2x5UGx3NGRaU1FPTW95NWNRZU1HbVdpYXNWWHR6azhRQkphQ20wZ0VYRW5iNzZBSXg5UERLeXFNVHdtQjI4TVhNUWtiMndwUHFwOVh5blVSY0hyQzBhdkpadFZScF8ta053VHdHRUpjVHFQMm8wc0NGWWNZdXNCWHFXOW42ZDlHYm9ENlJKaENHWTkwUnNDazRTN1UxQzVIUEJIRVJpNjdzei1hZ2tkWVdHcGhweE4tMG9UUWo2M0tNNDllaW9n?oc=5",
+   "time": "2026-10-18T12:47:41+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Rare 'normal' PM2.5 in 3 regions on Oct 18; PSI at season-high 230 in western Singapore",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IaF9RLVN1WXdJR3h0QnN6M2RCbXlTcW9xR1NkT3AxTUJWY3ZtUmhVWFVJS1dON05yU2JuU2F0a3JBS19ad1B5YW51V3M5VmgxOXYzUzNSWkRxVTV1TVRTQ1o1TllrV2JVVlJqZy1wb19FOHpjaFJXeThQRQ?oc=5",
+   "time": "2026-10-18T12:19:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality remains very unhealthy in west, unhealthy in other regions",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmctdFZ3N0tQNGxoS0dhU1V5YWhxT3RFdXB5UVk2ZEdPZ0l6WTlRLUl1bnNfSm93SmJVdmNFS0gxME1VMFY0anRQdVRqX3RpckhEQXFtU1VPQW03Vzd5dUN6bmdzT3V4c2JWaFc1cFVHdjIyYVFOVmZ6UUJDcGxlSmZBZ3paWk9QbFRBYmQ0SVZpLW5pY0FzWA?oc=5",
+   "time": "2026-10-18T12:14:58+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -525,13 +546,6 @@
    "title": "Singapore’s west records season-high PSI of 230 as haze enters 14th day",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcEhhNHlTRXVXN050NWVVdGc5TUtrNGJGVlhMbmlfaDE2NzRCa0pTUHhzMUR3aGkyRnNLX1M4NzlCeTFtWk5lT0RpbjJJdzJFRjFiQXdyYUlLeG1ZNmxSaWk2TDBOd256ZDlmNUJoMkFhcURXenBzNnV0UWFGZUxfdHg4aTJRRlUyLWxZS05ycF9fQVN4VFlsMFlTSk95TGhkSS0tRDZPcHFkZVRwWnBtQkQtWU5GX3pmZ2FoWnhjcGNCWGxOWTloWtIBzgFBVV95cUxOZ2F5UTZiRHdydEd3LThnQUN1OWtvRFZOZWltMUMwNWtmM256eEowSDh5bUJfRDFjdU9LRERiTFJrUVFsaWowUTBwX016X3pCYlVNek9fMmZ2b1Btd2FuSjZGSWx5aUNpcFRmc3VaRDlVZGJyMmoza09Mb3lKMGxMUkJqUlVzSzl4U1JxQmVqMnVVQTJCeDQxVDE1VGFzXzhfSkdldVNRREZsVGdvQjhySTRHMmpjTTJTVUQySVZTM2toMUJqTHgxZnBUNGl3UQ?oc=5",
    "time": "2026-10-18T11:11:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality remains very unhealthy in west, unhealthy in other regions",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmctdFZ3N0tQNGxoS0dhU1V5YWhxT3RFdXB5UVk2ZEdPZ0l6WTlRLUl1bnNfSm93SmJVdmNFS0gxME1VMFY0anRQdVRqX3RpckhEQXFtU1VPQW03Vzd5dUN6bmdzT3V4c2JWaFc1cFVHdjIyYVFOVmZ6UUJDcGxlSmZBZ3paWk9QbFRBYmQ0SVZpLW5pY0FzWA?oc=5",
-   "time": "2026-10-18T11:08:08+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "PSI index in western Singapore reaches 228 due to haze — Channel NewsAsia",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb2FDZnZUTWxKNnFjamVWa2c3U3VSa3ZUUUIzZG5sVzByQnNNTlIwQ19xbzNFMW5uMW9Gai12U052NjFSSUtTTUNCZVVCX2h0anh5SERVWDVuaFdWalFlN3RwU2hSRE1WUGEyVVd1MlBtY0xHZHZYRFZGdGtINzdPczFKUWRBaG42bnlPcFJrYWJmSmRZSndtM2ZVRTdtUQ?oc=5",
    "time": "2026-10-18T07:38:55+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Indonesians worried over haze back home",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFR3TEdRc2tkbjQ1SnYwY0dZdXphM1V4ZVVTc01EbzRISXd0ZnpYSVZodE9seHhodW5RNmdCMU9fMDNqeTR5ekhmb3cxSWFEVmpOZ0Zic3ZnYXNPMmFzUmMwbDZYV2xZT1JvTE5HaXpFQmI3TUIzaW1xVjc1dmFtY3RLdnB0alNkaTRvaXZhZVNhVDA?oc=5",
-   "time": "2026-10-18T07:22:28+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Air quality in most of Singapore unhealthy as haze persists; PSI in west ‘very unhealthy’",
-   "url": "https://www.straitstimes.com/singapore/air-quality-in-most-of-singapore-unhealthy-as-haze-persists-psi-in-west-very-unhealthy",
-   "time": "2026-10-18T07:20:57+08:00",
    "summary": ""
   }
  ]
