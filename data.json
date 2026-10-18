@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-18T07:00:00+08:00",
+ "updated": "2026-10-18T08:00:00+08:00",
  "psi": {
   "west": 228,
-  "east": 180,
-  "central": 185,
-  "south": 173,
+  "east": 179,
+  "central": 186,
+  "south": 174,
   "north": 129
  },
  "pm25": {
-  "west": 125,
-  "east": 103,
-  "central": 124,
-  "south": 99,
-  "north": 78
+  "west": 123,
+  "east": 109,
+  "central": 132,
+  "south": 96,
+  "north": 79
  },
  "hist": [
-  {
-   "t": "2026-10-16T00:00:00+08:00",
-   "psi": {
-    "west": 178,
-    "east": 176,
-    "central": 203,
-    "south": 167,
-    "north": 132
-   }
-  },
   {
    "t": "2026-10-16T01:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 173,
     "north": 129
    }
+  },
+  {
+   "t": "2026-10-18T08:00:00+08:00",
+   "psi": {
+    "west": 228,
+    "east": 179,
+    "central": 186,
+    "south": 174,
+    "north": 129
+   }
   }
  ],
- "newsUpdated": "2026-10-18T07:07:14+08:00",
+ "newsUpdated": "2026-10-18T08:07:25+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "UA.NEWS",
+   "title": "PSI index in western Singapore reaches 228 due to haze — Channel NewsAsia",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb2FDZnZUTWxKNnFjamVWa2c3U3VSa3ZUUUIzZG5sVzByQnNNTlIwQ19xbzNFMW5uMW9Gai12U052NjFSSUtTTUNCZVVCX2h0anh5SERVWDVuaFdWalFlN3RwU2hSRE1WUGEyVVd1MlBtY0xHZHZYRFZGdGtINzdPczFKUWRBaG42bnlPcFJrYWJmSmRZSndtM2ZVRTdtUQ?oc=5",
+   "time": "2026-10-18T07:38:55+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality remains very unhealthy in west, unhealthy in other regions",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONWR3dHRJSTI5Z3ZtaXZsZVNfWWdSbW9CdzRJSEpHblMxUW95Umt5cGhMTjBLcFZzVU1hMmxRNW5oRnM1U1AzTHVONFpkTGRnc1dlcmxjX1dTdUw5eFREeV90RmIxQ0JaYzhhZWtBbjgwOUNjVkEzaFhKRFJlX2VCRHo1dHRNYVZSZXNlY2hZSkhFRnpTM1BqMk5DM3NFVGJ1VVAydDk1X1FIOVpISDhWa1M2eHQwU0lJQXZROTRpV00tWkpkRnRmS0tkMXN5VzQ?oc=5",
+   "time": "2026-10-18T07:22:57+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Indonesians worried over haze back home",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFR3TEdRc2tkbjQ1SnYwY0dZdXphM1V4ZVVTc01EbzRISXd0ZnpYSVZodE9seHhodW5RNmdCMU9fMDNqeTR5ekhmb3cxSWFEVmpOZ0Zic3ZnYXNPMmFzUmMwbDZYV2xZT1JvTE5HaXpFQmI3TUIzaW1xVjc1dmFtY3RLdnB0alNkaTRvaXZhZVNhVDA?oc=5",
+   "time": "2026-10-18T07:22:28+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Air quality in most of Singapore unhealthy as haze persists; PSI in west ‘very unhealthy’",
+   "url": "https://www.straitstimes.com/singapore/air-quality-in-most-of-singapore-unhealthy-as-haze-persists-psi-in-west-very-unhealthy",
+   "time": "2026-10-18T07:20:57+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -556,13 +584,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Haze in Singapore: 14% of eligible Singaporeans have collected N95 masks, says NEA",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaFRoR1RtVzFJelB6ckNDMVNNMDRwZGltQXdremZJcFJ5NElna2F6dkxTVEVhLXI5N1dsRTJSSjNSSC1GQUlwdDJWY0lSNmpWMFAwMXdic3V3bXVyUEFibVE0Y3ZQelJYY21MdzVOUkhITzNwRzV2WjRLVVRiNG5GSUdkTGdaZUZuQ1k2LW9XQjB2bTA3eGcwOTRpR1VXQk9IdFRRZF9PNGdHRHFuNkl5cXBmQ1FkUW9XcllYLTZMaw?oc=5",
-   "time": "2026-10-17T23:09:31+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Straits Times",
    "title": "Haze vs VIPs at BigBang concert in Singapore",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZVTVmYllZMzhpemx1U1JKbDNxb1FaczFTRUdZMXpRaEJLQl9Ca0UyYUJ6b2ZKV2NIN1l1YXhaNVBpWFpUTzVVSVlNQ0FSYjZJNkI1amFVZ09UcWFzQ2c?oc=5",
@@ -570,31 +591,10 @@
    "summary": ""
   },
   {
-   "source": "The Straits Times",
-   "title": "BigBang fans refuse to let haze rain on their parade at K-pop band’s National Stadium concert",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbnFWNUZ2N0RpR0VHN29BdkI1b2ZrUGFxZHdiRDI3ME1FUm94YXdsczJ1RGRTeDBDTWQxU0Z0NHJhQ0lPYWpCRXZIeGF6UWx1UjQxZ2RGTmxSSEFLbXctMm9iTWFpOXNqMVg1RGpHUncwUHBFallWQXlIMU4wdnRxcmNDc0R5OGRzaWw4UmxBYkd3aUJ3STdtTVc4ZkRaZUVBSENDS3I4eTFkcHdEWHFsVk5kdWRTRk5COEhGanhzcDBCdDFUYmJZTVFES25nQXpVT3A3aWlySQ?oc=5",
-   "time": "2026-10-17T21:13:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "NST Online",
    "title": "Indonesia deploys 2.4 tonnes of dry ice in trial to disperse haze over South Sumatra",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2NGNG92ZXVPNUxhVlBlaEFGVTVsaXg5czVQY2tENk9XMzV2MjNJQUd1eG5qZFlVTGNmbmtIYTBSQXZOdFdKTHpyTDR4UklBQnFQMmlLRU55TVRxQWtoQ2NVajZCWC1CRmwtTnVIakNMVDlBbkUxdUtfMklNd3YwYS1KUFNNaEd0UjVUTElwRVE3QzFMTmhFTU10TmxrZ01aNEFCMXBuWUVzTGdfNnQ0VVpQeDMwaW1pUFHSAb8BQVVfeXFMT0E2ckI3TTJzVndTLVZONkhOdEtubVJQUGlPZnBFUU5zN01wdVhoWjdldmZvaUxyVV9WRS1jWndsTEFjTWRXYmtadmk0YmNKenlBV3NaN2xMRHM0ZlBmVkg0a1ktU25EeXlELTFneTJULUh5QnhQUzJ5NVZDanRkN0w3WEMzajJrRVAydUFaZXlaTlpwcUVNRlI3MjBLVWdUM2h0MTJmMG94bXVHREV0QmU3SFdTbEtPUUxGeElZUXM?oc=5",
    "time": "2026-10-17T20:36:23+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Indonesia drops 2.4 tonnes of dry ice over South Sumatra in bid to disperse haze",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVkVZZTZJUnZxclRjbjZKbFdVc1R6LXc2WEpkRHVtcGNjdkVvMjFkdGZvWTNHbENldVpuTmRaeDFQaDJmWmo3ZWFUYy1ocExRc0tPSHZlODRsdXIxWS1VVFlxRllhQm9uZzRLRzktRUZBUjEyWUZ4cnRkd0ZGbmtrbkV5eGZtODkweXdxQTlERG5wLWhEc0llMFpYcHp1UW9vUEVYRzNjSEhiT09Ndm82d3NrdF84b0ZZNTRfLWxtNzB1Nkd4RjBfbEdHR3ZDSVHSAdQBQVVfeXFMT1pLdFR3cTdlN1BJVkJHQkc1R25faUd3anVaZkxrZ0Q4c2ZYWDJzT1p6NmF6Yk1VRjVEd3RjMmhkSWxIRHhUQmh0TXNQMjBENnB0cFFvbFdSNk9nNG9kcWU2S05VRG1KZWVTaFRueFI5aldFQ09OcGxmTHZmNFpVLXNxdF9ZYkNOYnBBRklocEtFWWRkY21VaTZFUnZmNXlQVHJJdU0xXzQzbDcxaHBqRl9aaGRaT1ZIaGtNOFhQWTBYNFktU1k4dEJVUnRXOV95MmF3VWY?oc=5",
-   "time": "2026-10-17T20:16:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AFP.com",
-   "title": "Haze triggers highest-level alert in parts of Southeast Asia: monitor",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yNXAybHAxRWxZLTBsQkU2MWNlUnNlLU9GNkN1WUxqU29ER0U3N09PYzBxVmhYdjg3ejUtanRTXzhzMEhuOUIxMm52UQ?oc=5",
-   "time": "2026-10-17T20:16:10+08:00",
    "summary": ""
   }
  ]
