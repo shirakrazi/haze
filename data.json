@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-18T15:00:00+08:00",
+ "updated": "2026-10-18T16:00:00+08:00",
  "psi": {
-  "west": 210,
-  "east": 154,
-  "central": 164,
-  "south": 153,
-  "north": 118
+  "west": 204,
+  "east": 150,
+  "central": 158,
+  "south": 148,
+  "north": 115
  },
  "pm25": {
-  "west": 83,
-  "east": 67,
-  "central": 56,
-  "south": 56,
-  "north": 31
+  "west": 77,
+  "east": 70,
+  "central": 58,
+  "south": 69,
+  "north": 37
  },
  "hist": [
-  {
-   "t": "2026-10-16T08:00:00+08:00",
-   "psi": {
-    "west": 197,
-    "east": 198,
-    "central": 226,
-    "south": 183,
-    "north": 148
-   }
-  },
   {
    "t": "2026-10-16T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 153,
     "north": 118
    }
+  },
+  {
+   "t": "2026-10-18T16:00:00+08:00",
+   "psi": {
+    "west": 204,
+    "east": 150,
+    "central": 158,
+    "south": 148,
+    "north": 115
+   }
   }
  ],
- "newsUpdated": "2026-10-18T15:08:10+08:00",
+ "newsUpdated": "2026-10-18T16:07:17+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality remains very unhealthy in west, unhealthy in other regions",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmctdFZ3N0tQNGxoS0dhU1V5YWhxT3RFdXB5UVk2ZEdPZ0l6WTlRLUl1bnNfSm93SmJVdmNFS0gxME1VMFY0anRQdVRqX3RpckhEQXFtU1VPQW03Vzd5dUN6bmdzT3V4c2JWaFc1cFVHdjIyYVFOVmZ6UUJDcGxlSmZBZ3paWk9QbFRBYmQ0SVZpLW5pY0FzWA?oc=5",
+   "time": "2026-10-18T15:30:15+08:00",
+   "summary": ""
   },
   {
    "source": "South China Morning Post",
@@ -521,6 +528,13 @@
    "summary": ""
   },
   {
+   "source": "Facebook",
+   "title": "GMA News. . WATCH: Thick smog from wildfires raging across Indonesia blanketed Singapore's skyline on Sunday, Oct. 18, 2026, marking two weeks of ‘unhealthy’ air quality levels in the city-state, as authorities moved to hold companies responsible for the tr",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMFVuNWE3bVdIby1lREtWeVBNZGZQY1hOTWt0Ym1xdFBIRHBVb2ZlWXpfR1VSeEUyMy1BYmRPTVdwMUZQcXdpY1BSYk14cncwWDJvel9ZaE5iM2VzVGlyZEY4UXVpRW02eXVkeU1FYTNfaW9ubXVYMzZPTzdKSFVDNUNwWHFFM25fVzJuSXZoUXEwd01UaUxRa2YzM0p0M05pc2tEWmJERTJ1UDA2UDZ2RG5sLUtDTmtVZWp3emxfSk1ycV83OUxNUThXaUQyNVRBZkhaRQ?oc=5",
+   "time": "2026-10-18T14:40:16+08:00",
+   "summary": ""
+  },
+  {
    "source": "France 24",
    "title": "Months-long Indonesia wildfires spew toxic haze across Southeast Asia",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGZOVWFsMGk3QUczeFNCQVcyODhweWdIb2Yta2o0UlZpNWNSbm01QnRwS1BjNGxwaHFteHRxRy10MUs1bTNJTlBGcUhKZXY1anNaVFktWG52OHp3OGdISDE1S25RZERhVHlka0JPOVFudk1mV2RJbkNmdkp1Z1JlOThocU53UWJQdlBpNklPSEVLdURwUHVaZmY1akFRY0RxN25Ec2QtUmwwNTdDbmVid2xiVUlmd0FUUXJj?oc=5",
@@ -528,10 +542,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality remains very unhealthy in west, unhealthy in other regions",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmctdFZ3N0tQNGxoS0dhU1V5YWhxT3RFdXB5UVk2ZEdPZ0l6WTlRLUl1bnNfSm93SmJVdmNFS0gxME1VMFY0anRQdVRqX3RpckhEQXFtU1VPQW03Vzd5dUN6bmdzT3V4c2JWaFc1cFVHdjIyYVFOVmZ6UUJDcGxlSmZBZ3paWk9QbFRBYmQ0SVZpLW5pY0FzWA?oc=5",
-   "time": "2026-10-18T14:11:55+08:00",
+   "source": "The Star",
+   "title": "Haze in Singapore: PSI in west hits seasonal high, air quality remains unhealthy elsewhere",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN0g3cm1rRnVBWVh2ZFNJaGZrc0tWUDh6QmxQSkYwZ09JdFc2QmF5YkV3bXpMYldhUmlTWW9IcGhpWm9veGloak1QeUUxbzRlSEU0dnc0MVZkU3NfUVliUUV0OF9xazh4aWdRaEluWVVPbVZLSGxucWhkMlVnLU5sdjFMdzd5M1VKd1kwY28tZTZoYS1yeW9ydGdLQm5JWm54b3pJdXJ0eERtQ2xFU1R2SWdvTkJqMkxWR2hrc0FOdjNwZG5TbG9RUUJ1VHZ3OC1peDQzZURYeU9EX29qbkZHamxRSWdvZw?oc=5",
+   "time": "2026-10-18T14:06:00+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Palm oil stocks tumble as S’pore looks for firms responsible for haze: Markets this week",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbXNjZDJGenF2R0tnNXdMYUlDb1ltWURCYzAyd3l1emFpX1pxZGt5OXVmWTVEeFF5cWJxd1pFVFUwZjNuVTdvM0VYcUx2aFFCamtjMFdEeC1mVDctbmV5VzNCQVBMUTlnQ05EUnlpd29jd2FhbTI3UFJEZ194cHJTX3VnRjQ2MGpuaHJUTWlNbFVOZ0Uyd0pSMXU3cFVnTDdLUHhSUnRZMWxwbnRSd0VaSGRmSXpESVpPMmJIdGpOSDNvV0Fvc3hNWWJ1NHJ4OEE3ak5rZ3FqZHowdw?oc=5",
    "time": "2026-10-18T12:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Singapore’s west records season-high PSI of 230 as haze enters 14th day",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcEhhNHlTRXVXN050NWVVdGc5TUtrNGJGVlhMbmlfaDE2NzRCa0pTUHhzMUR3aGkyRnNLX1M4NzlCeTFtWk5lT0RpbjJJdzJFRjFiQXdyYUlLeG1ZNmxSaWk2TDBOd256ZDlmNUJoMkFhcURXenBzNnV0UWFGZUxfdHg4aTJRRlUyLWxZS05ycF9fQVN4VFlsMFlTSk95TGhkSS0tRDZPcHFkZVRwWnBtQkQtWU5GX3pmZ2FoWnhjcGNCWGxOWTloWtIBzgFBVV95cUxOZ2F5UTZiRHdydEd3LThnQUN1OWtvRFZOZWltMUMwNWtmM256eEowSDh5bUJfRDFjdU9LRERiTFJrUVFsaWowUTBwX016X3pCYlVNek9fMmZ2b1Btd2FuSjZGSWx5aUNpcFRmc3VaRDlVZGJyMmoza09Mb3lKMGxMUkJqUlVzSzl4U1JxQmVqMnVVQTJCeDQxVDE1VGFzXzhfSkdldVNRREZsVGdvQjhySTRHMmpjTTJTVUQySVZTM2toMUJqTHgxZnBUNGl3UQ?oc=5",
-   "time": "2026-10-18T11:12:46+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Singapore haze: Be careful when buying masks or air purifiers on secondary market, CASE warns",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUE5yU2F4V2QyamxvVGlHY21lTlZIWlRnLXNNZzZyd05rZE42UHJvSVVyZ251LUNNYmZMdmVjcGpsZkNHZ1NsYVNDNHZwY3YtbkVKc2pwS2JNT2U1SDh6Nm9PRUxmMXJCa3YwclB6X2UyVHF5M25fcGd2M1c2ZElkc1hB?oc=5",
-   "time": "2026-10-18T11:05:00+08:00",
    "summary": ""
   }
  ]
