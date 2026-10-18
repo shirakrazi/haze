@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-18T18:00:00+08:00",
+ "updated": "2026-10-18T19:00:00+08:00",
  "psi": {
-  "west": 192,
-  "east": 142,
-  "central": 147,
-  "south": 137,
-  "north": 109
+  "west": 186,
+  "east": 139,
+  "central": 143,
+  "south": 133,
+  "north": 106
  },
  "pm25": {
-  "west": 66,
-  "east": 67,
-  "central": 69,
+  "west": 68,
+  "east": 59,
+  "central": 74,
   "south": 69,
-  "north": 36
+  "north": 37
  },
  "hist": [
-  {
-   "t": "2026-10-16T13:00:00+08:00",
-   "psi": {
-    "west": 203,
-    "east": 205,
-    "central": 226,
-    "south": 185,
-    "north": 155
-   }
-  },
   {
    "t": "2026-10-16T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 137,
     "north": 109
    }
+  },
+  {
+   "t": "2026-10-18T19:00:00+08:00",
+   "psi": {
+    "west": 186,
+    "east": 139,
+    "central": 143,
+    "south": 133,
+    "north": 106
+   }
   }
  ],
- "newsUpdated": "2026-10-18T18:09:07+08:00",
+ "newsUpdated": "2026-10-18T19:07:57+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "PSI forecast to be between 100 and 190 on Oct 19, says NEA",
+   "url": "https://www.straitstimes.com/singapore/psi-forecast-to-be-between-100-and-190-on-oct-19-says-nea",
+   "time": "2026-10-18T18:59:41+08:00",
+   "summary": ""
   },
   {
    "source": "The Star",
@@ -588,13 +595,6 @@
    "title": "GMA News. . WATCH: Thick smog from wildfires raging across Indonesia blanketed Singapore's skyline on Sunday, Oct. 18, 2026, marking two weeks of ‘unhealthy’ air quality levels in the city-state, as authorities moved to hold companies responsible for the tr",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMFVuNWE3bVdIby1lREtWeVBNZGZQY1hOTWt0Ym1xdFBIRHBVb2ZlWXpfR1VSeEUyMy1BYmRPTVdwMUZQcXdpY1BSYk14cncwWDJvel9ZaE5iM2VzVGlyZEY4UXVpRW02eXVkeU1FYTNfaW9ubXVYMzZPTzdKSFVDNUNwWHFFM25fVzJuSXZoUXEwd01UaUxRa2YzM0p0M05pc2tEWmJERTJ1UDA2UDZ2RG5sLUtDTmtVZWp3emxfSk1ycV83OUxNUThXaUQyNVRBZkhaRQ?oc=5",
    "time": "2026-10-18T14:40:16+08:00",
-   "summary": ""
-  },
-  {
-   "source": "France 24",
-   "title": "Months-long Indonesia wildfires spew toxic haze across Southeast Asia",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGZOVWFsMGk3QUczeFNCQVcyODhweWdIb2Yta2o0UlZpNWNSbm01QnRwS1BjNGxwaHFteHRxRy10MUs1bTNJTlBGcUhKZXY1anNaVFktWG52OHp3OGdISDE1S25RZERhVHlka0JPOVFudk1mV2RJbkNmdkp1Z1JlOThocU53UWJQdlBpNklPSEVLdURwUHVaZmY1akFRY0RxN25Ec2QtUmwwNTdDbmVid2xiVUlmd0FUUXJj?oc=5",
-   "time": "2026-10-18T14:30:35+08:00",
    "summary": ""
   }
  ]
