@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-18T08:00:00+08:00",
+ "updated": "2026-10-18T09:00:00+08:00",
  "psi": {
-  "west": 228,
-  "east": 179,
-  "central": 186,
-  "south": 174,
-  "north": 129
+  "west": 229,
+  "east": 178,
+  "central": 187,
+  "south": 173,
+  "north": 130
  },
  "pm25": {
-  "west": 123,
-  "east": 109,
-  "central": 132,
-  "south": 96,
-  "north": 79
+  "west": 127,
+  "east": 107,
+  "central": 122,
+  "south": 89,
+  "north": 75
  },
  "hist": [
-  {
-   "t": "2026-10-16T01:00:00+08:00",
-   "psi": {
-    "west": 180,
-    "east": 178,
-    "central": 206,
-    "south": 168,
-    "north": 134
-   }
-  },
   {
    "t": "2026-10-16T03:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 174,
     "north": 129
    }
+  },
+  {
+   "t": "2026-10-18T09:00:00+08:00",
+   "psi": {
+    "west": 229,
+    "east": 178,
+    "central": 187,
+    "south": 173,
+    "north": 130
+   }
   }
  ],
- "newsUpdated": "2026-10-18T08:07:25+08:00",
+ "newsUpdated": "2026-10-18T09:02:12+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Star",
+   "title": "Haze triggers Asean’s red alert",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM1RQdVVwa2owU2hVd0ZIWWhTSEFYdVc4TGIyMHZpUGc5SWg5dW0ydnZlN2pqN0NMaER2MU1UZ21PSzdYUGxPbFBYM3poM0FacUFPSlJLVWhtV2hRZHdOTEJLQ2h3VmtqWDBIRUxNVkREU3dNdVlsbWd5d0JPaFlpLWp2QXdmTlNuNkRRNUNSTUM0UExLd2NNUQ?oc=5",
+   "time": "2026-10-18T08:25:22+08:00",
+   "summary": ""
   },
   {
    "source": "UA.NEWS",
@@ -588,13 +595,6 @@
    "title": "Haze vs VIPs at BigBang concert in Singapore",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZVTVmYllZMzhpemx1U1JKbDNxb1FaczFTRUdZMXpRaEJLQl9Ca0UyYUJ6b2ZKV2NIN1l1YXhaNVBpWFpUTzVVSVlNQ0FSYjZJNkI1amFVZ09UcWFzQ2c?oc=5",
    "time": "2026-10-17T21:26:46+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Indonesia deploys 2.4 tonnes of dry ice in trial to disperse haze over South Sumatra",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2NGNG92ZXVPNUxhVlBlaEFGVTVsaXg5czVQY2tENk9XMzV2MjNJQUd1eG5qZFlVTGNmbmtIYTBSQXZOdFdKTHpyTDR4UklBQnFQMmlLRU55TVRxQWtoQ2NVajZCWC1CRmwtTnVIakNMVDlBbkUxdUtfMklNd3YwYS1KUFNNaEd0UjVUTElwRVE3QzFMTmhFTU10TmxrZ01aNEFCMXBuWUVzTGdfNnQ0VVpQeDMwaW1pUFHSAb8BQVVfeXFMT0E2ckI3TTJzVndTLVZONkhOdEtubVJQUGlPZnBFUU5zN01wdVhoWjdldmZvaUxyVV9WRS1jWndsTEFjTWRXYmtadmk0YmNKenlBV3NaN2xMRHM0ZlBmVkg0a1ktU25EeXlELTFneTJULUh5QnhQUzJ5NVZDanRkN0w3WEMzajJrRVAydUFaZXlaTlpwcUVNRlI3MjBLVWdUM2h0MTJmMG94bXVHREV0QmU3SFdTbEtPUUxGeElZUXM?oc=5",
-   "time": "2026-10-17T20:36:23+08:00",
    "summary": ""
   }
  ]
