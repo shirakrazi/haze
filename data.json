@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-19T12:00:00+08:00",
+ "updated": "2026-10-19T13:00:00+08:00",
  "psi": {
-  "west": 122,
-  "east": 97,
+  "west": 118,
+  "east": 96,
   "central": 103,
-  "south": 92,
+  "south": 90,
   "north": 85
  },
  "pm25": {
-  "west": 44,
-  "east": 34,
-  "central": 27,
-  "south": 33,
-  "north": 33
+  "west": 39,
+  "east": 35,
+  "central": 37,
+  "south": 32,
+  "north": 39
  },
  "hist": [
-  {
-   "t": "2026-10-17T04:00:00+08:00",
-   "psi": {
-    "west": 187,
-    "east": 181,
-    "central": 196,
-    "south": 166,
-    "north": 146
-   }
-  },
   {
    "t": "2026-10-17T05:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 92,
     "north": 85
    }
+  },
+  {
+   "t": "2026-10-19T13:00:00+08:00",
+   "psi": {
+    "west": 118,
+    "east": 96,
+    "central": 103,
+    "south": 90,
+    "north": 85
+   }
   }
  ],
- "newsUpdated": "2026-10-19T12:07:45+08:00",
+ "newsUpdated": "2026-10-19T13:08:54+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,48 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Aliran",
+   "title": "Time to speak plainly on haze",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5felh6UU1YanA1ZUxhR0R0bzVtUlBFcUZDcGxkTnpjSHdCbjFrTTc1ZWxTVVJSVXZrRDFuWG53dDlQb0g1QXVxZS1jc2RZSTN6Y1hxTXpLRkFwN3BtNW1WZklyWnB4ME1wNl9mSnpWQ2FIbHljNjR2V1BPZTk?oc=5",
+   "time": "2026-10-19T13:01:53+08:00",
+   "summary": ""
+  },
+  {
+   "source": "UA.NEWS",
+   "title": "Singapore starts distributing N95 respirators amid haze — Dawn",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVDByb2tGcmM1bjRkaDdLVTdPVW4yN3lSNUNuUk82YllSSUVyOGVtb3BKem5Pc0xZVmtuQnpSMFJ5NF9wNjgybm1wQ3Zwa1FDZVNWUVJPekJEeS1pcnZBT1dORk1Bc2RaQXpJU01vTmtTOEFObTNkWHdoUFcxUjUyS3hCZ203cExzcXVuajdrVks?oc=5",
+   "time": "2026-10-19T12:38:18+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Indonesia drops 2.4 tonnes of dry ice over South Sumatra to tackle haze",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakRiSWVFSnpscDBlU28zZFdjMVYycjc0NDU3dkZYNGVXWW9PdEs5a25DYnc1cUlwcmpCSjE2cW5SVERNQjZnUE9kNXJZSFVSWGJuNGYxNzhRaENEd0VJOTU1X0hEc2NRakQxdk1Hbi1QbFlycmFrSmJMdWlWa0xVZWVZQTBEb3h1SHpCalM4TER4cnB6WXVna200RWNjTFh0ay1QVXhGUkFhbV90R0Vncw?oc=5",
+   "time": "2026-10-19T12:37:38+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Beyond profits, oil palm investors in S’pore must demand accountability over haze",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMFRMSXJGRncxbURSVUNZSmNrTFRIYXRUWDRqeEhjYjE4WTNndXNfRnpSZXJsS012VlJoTmJSNkE5SW1RcFN1clNlQjdwdU5jLTduaktieGVISkdlMmxVckZyR0xkczRPMUNmR1ZETzlRY1ZYNXZMNU9HZFVKMGw4N3pXbVgwaEFVcEFrRDA3SzVqbzFqSUJ4Zmx0eEtjTnJNeVJOV0ptcVFBNzZjLVRmUk5tN0NnQ1pF?oc=5",
+   "time": "2026-10-19T12:35:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Frankly Speaking: Malaysia needs a legal framework to fight the haze",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tYkFVZFF3TjlkTjN3TnNIbWhjb0h0MkpjVEk2bGxYSEFIRVM3ZW02dWF3clVLQTFmMjZsVEQzUlR1ZE9jWHdfLS1NODVMVjZB?oc=5",
+   "time": "2026-10-19T12:30:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "Indonesia Says Over 2,400 Flights Affected By Haze Between August 11 To Oct 17",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRmdtRTB0dXF3TWg2d25DNVFfd0tIY3NQVW45c3BJUXVFeF9iYmVEUFQ0VFFtcVN4U1d5NXpRWjJ2azJsLXBtVlZ4WlpmWmZESTVHVHcwY1ROUDlZb0NLelE1Znl5MHRBWG5GQkZuODhabTNiWjZvMWM0LTdYa2pKLXNyZ19oRGRwUU84bnZiaGs3aWw1NDY3Y0tFM296cktiSFNZODNueWNKZ2h6SURWTHdEOXYzOXZTWFdub1VoUQ?oc=5",
+   "time": "2026-10-19T12:25:56+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -518,6 +560,13 @@
    "title": "Indonesia considers wider use of dry ice against haze — Channel NewsAsia",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcGtuVUg5dmxaYmVTQTEzSTU1RGxNUUdJeXl0S1Q3OE1WVXVWY0YzQmtGN1JpQXY4czJYQWdNZ296Ync4V3ZPSUp1VmlfWGtaRHQtSXBJeTh1bFFkSVFNbjhVbzVsVVQ0V0h3bHJ0OHhhSnZraWJqcF9KZVRMZVpIMDd2cnFCdjJGb1RTQmZscDlfb0ZLdDF0djJfaExGWnlJY25obXdCV29ucnJzUkVvTQ?oc=5",
    "time": "2026-10-19T11:56:09+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Her World Singapore",
+   "title": "Haze in Singapore: 5 skincare products for dry, sensitive and breakout-prone skin",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMDN0d3J3RHpRV1dhQXZUeTJVU2tMREJuUEV6c0FSZklIeU45MVpDaFRodTBIZkJZcHJIblFwUEp5dEFxVVJEWGY0ZkdiSGFoQU90R3NKRVlyTVBNMGo0Ym9GUTNvU1QxbzF4RzhOdzliZ1M2QXJ2OEs2QUdpelExQngyY1M2dXdXeFE5U2hlMUxXeFhfcGRTMXJoUFE1ZVJVQUxlelVB?oc=5",
+   "time": "2026-10-19T11:50:08+08:00",
    "summary": ""
   },
   {
@@ -542,59 +591,10 @@
    "summary": ""
   },
   {
-   "source": "Sinar Daily",
-   "title": "Haze: Malaysia remains ready to assist Indonesia in tackling forest fires, says PM Anwar",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LTUI1a1A0NGRzMFROX0F1MHlaNU5GNjBWVnlFQUNjYnRBWTljU2lfbVhsNTRLak94WDFZRWxzMzlXdFNzbm91WjBURzZVcDktT3VNRTNR?oc=5",
-   "time": "2026-10-19T10:28:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Inquirer.net",
-   "title": "Haze in Malaysia: Vets seeing uptick in pets with respiratory problems",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVVaOU5jbDBDcmRQVjJlWmdmcGpTc0lMR25HMENMYVR2VHR2bVlOOUFjcnpUblo3cUZWQjJQVS14WGFNVE9icnlweUdONkUtcWlsemQxTFQ4alphdWNSMy1sNGFFTmN5SURJVEtka1pIbW80ZW9STW1GUVlXZlo4RmFTX0ljNGEwSnJha09uUDBCcDhiVDNqTVd5THk1bkZzUHJKZjNMTGhqOVFpRF930gG0AUFVX3lxTE5SWmtXa3pqRUpBUWVVYU9rR3RXX0E3ODQ1T2k3MkthQ3hiS0FXcEtzY2UtaE1ISVZCcnpzZ3RBUEd3NmdZTnYwbGo0SDVxQ2xQZE53T25MT2lxMGFjOWZxMlBReGkzMExySkx4cFNEZk5oZzkxdS1LYWhUckpRN0dMOTFGVUNWZUl6RDhUT1V1MEhxQy1sUVRtakt6Q0FJa0h3YUhoN3R5RkpxaUNYUVVMRXEtVQ?oc=5",
-   "time": "2026-10-19T10:14:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "BBC",
-   "title": "BBC visits Indonesia's wildfire ground blanketed by toxic haze",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NTTBZSndKR1VOV1daVkQyYURNY3FtbnV1YVhaR3RkZjVQVE5vMUszamNfUnNWakxVS0Y5ZTltZmw4VlZJRzhEaTJSTGx0ZjFsZG9wd25oS0U?oc=5",
-   "time": "2026-10-19T09:57:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Asia News Network",
-   "title": "Haze chokes Malaysia’s farmers, families and businesses as economic costs mount",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZHVIVi1FbXBrVGNLNy1WYTkzQ1NmY1lmdHlwMW5YSzhVanRHYkZ2NjR5QjZndmFhblZLZndQMGp1Qk5NaVY1dU5GUU1vOFQ0cGRKTE13R2tCRjRHdTRmTGtKaDhUc04xTEI4RVNzMWNzekhvcTNFdFJFOE93SlplMHpSQlFjZmJfTVBERDZsaVRMX19LMWV4Y0pwQ1d1TWdsNmpQVHhn?oc=5",
-   "time": "2026-10-19T09:56:21+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Straits Times",
-   "title": "Haze in Malaysia: Schools in five states and Kuala Lumpur reopen following disruption",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVTJTemJISHlsYnRSUE1SMlFGU0d2eDJHREZsbmVQMTBPNzFmSTVURlkweDVPdWFzbzRvd1dGcWdjR1UzQkRLRkd0cEdEZWk4MHUycU1CN0hoajZtQmQ4UDJ6MGpaVlFndm1hbFFwYVN5cjhkNnNfTTB1QUN5cm9iOFItc04wcUJqd1dsUWZmZmp5dUhocnR6ZEZFdUp0RUxyT3RQeWRPYnhFeGt4WUttSzZrcjBqb3ljWkQtRUhmanFDcFBM?oc=5",
-   "time": "2026-10-19T09:50:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Air quality improves on Oct 19 as PM2.5 levels ease; haze may return from Oct 20, Singapore News",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0FfS2ZEMGhVRFVtVTR3RF9QV2dQS2o5WWdKZ2tSVWF3Q24wZEU0MnAxcVZvXzlQbzZYZ0VLaUxKY3pJS3FNNFA2NDJmbTJwTWNsYVpQb3VKVWtXRWZZUWZXTnB1eS1QSlBObFh1WkhhcV9YNk1tSDJBajRaaTB3VWJXbGs2emxWUFFjR1JtTUE?oc=5",
-   "time": "2026-10-19T09:12:12+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Asia News Network",
-   "title": "Singapore’s F&B businesses struggle as haze conditions worsen",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1RpaGstTWlJSFFnbjNrOEN0U3F3aElBSXpTOFdrYU1WNzdZOEVkV1I1WVBhcmNUYV9PeXVRazJtUGtYd0JzSVBLR1pQcVZOUUI0ZmdYN2NmM09ld3ZDZjdFR2hybEdHMG1sSkRqT004V19USFVfY1Y2dU1Hb3RQRDFKZTdMMml0R19PV29n?oc=5",
-   "time": "2026-10-19T09:11:19+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "Indofood Agri tracking hotspots, says no legal notices received over haze",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGNiWXlQMV93dUNYTXdDdi1VTWNmRjU2d2NhYjNEdEpGaHRsQ2todjlhZWE0OFRpSElJNm9pb1hpYkl5ZnJHbHUtdUttSjFDbGNSV21xc2s0M0wyTXpWVGpRY3hvYjE3UWtjRmMyS2MzX1hxckdQUmVac2JLN29BRUprR1RGQmYtR2hDVUtoaENrc2h5bXNaRTdCOGtOWUJrY09oMUl3VjFSYnV6ZzhrdC1DazBrejFWSlpFMmV2am5Obk0?oc=5",
-   "time": "2026-10-19T08:48:00+08:00",
+   "title": "The Week in Pictures: Haze in South-east Asia; protests in Europe",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcTlUbUtrdU01WjI3V2ZkRWFONGVBMzlRUDV4NkVrZ1daSk1uZHphdnFYeUxCRHBDN0c3MUNFVkZCaEYxZlhHNERlemtqVm55Sy05SWljamRJOFZGV3lZS0laYUMxQS04UXE2elBDZkFld3dYWXJpOXBuNkR2dzZGUnJQUUcyYUZuS0laYzhTNVpuYklCUmxqX0JLZm0zMXVkVjBheE0yUGxCYmV0YUI4blMxTnRDZHNDN0hxLTB3?oc=5",
+   "time": "2026-10-19T10:49:00+08:00",
    "summary": ""
   }
  ]
