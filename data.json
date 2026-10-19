@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-19T17:00:00+08:00",
+ "updated": "2026-10-19T18:00:00+08:00",
  "psi": {
   "west": 114,
   "east": 91,
   "central": 105,
-  "south": 89,
-  "north": 87
+  "south": 88,
+  "north": 89
  },
  "pm25": {
-  "west": 66,
-  "east": 47,
-  "central": 73,
-  "south": 52,
-  "north": 59
+  "west": 68,
+  "east": 51,
+  "central": 79,
+  "south": 55,
+  "north": 61
  },
  "hist": [
-  {
-   "t": "2026-10-17T09:00:00+08:00",
-   "psi": {
-    "west": 178,
-    "east": 175,
-    "central": 187,
-    "south": 158,
-    "north": 142
-   }
-  },
   {
    "t": "2026-10-17T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 89,
     "north": 87
    }
+  },
+  {
+   "t": "2026-10-19T18:00:00+08:00",
+   "psi": {
+    "west": 114,
+    "east": 91,
+    "central": 105,
+    "south": 88,
+    "north": 89
+   }
   }
  ],
- "newsUpdated": "2026-10-19T17:08:07+08:00",
+ "newsUpdated": "2026-10-19T18:09:56+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,59 @@
    "pinned": true
   },
   {
+   "source": "The Business Times",
+   "title": "Singapore appreciates efforts by Prabowo and his administration to solve haze issue: Shanmugam",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeE5yXzh2eERnaExQSVJKMHRJTGJ6Q29YaktTZjdyYTlIajZHYTFtSWkzT1RmZ0hkaWFQeVNRNmpBdUFFTC0yOTNLUkYxcXJST21ndzUweEFiYmFmby1qdVlLVVpmelVRa2tjdjIzYUROLV9VWDZjVnBOY0pEemp3U3M5RkJ1TXhHbzdPZmFEUGxpTnI3LVlOYUoyUDNoTFVmcWxPWjJHX1RKU2ZUdk92RFFyZEhWaFlmMy1qRkpqNGJobzFBN1hpa3BB?oc=5",
+   "time": "2026-10-19T17:48:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
-   "title": "7 Singapore-listed companies questioned over possible links to haze",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUjVTNmFsTW9QYVg0MzNrRUVhek1iVm11Z2dpc2xUZVhoRjdmRFNydnc4NXNBX1BPbkRSTGV4Z2dqaExUNWlFRGtHbDhWbE5WV2w5bEI3OHllX0R2Qm90S2JiYUdvN3pfOEtDNUdvNDdlRFVodG9ZZHNXdE1xQzQ5NDh2UEcwcUlYblZzdTNkdzdCTEhmT0VwYmxaTkNiampNWng5bVVkZnl1WnpzSi1VRVZlVmkyU1hJT0hxWHJoNk9VT2lUVk5pWHdNNHNZaG5aV2RCaW9Ub1c1NzBJbXJPTE1R?oc=5",
-   "time": "2026-10-19T17:05:00+08:00",
+   "title": "Haze takes toll on alfresco dining, buskers as foot traffic and earnings fall",
+   "url": "https://www.channelnewsasia.com/singapore/haze-alfresco-outdoor-dining-busking-drop-6471381",
+   "time": "2026-10-19T17:36:30+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "NEA issues notices to 3 more companies in Indonesia over fires contributing to haze",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QRTlXdFpnNjFCWFpNaFJ6WEdwMXJ3SEdTY05mdF9HS0d2SEdhcXdZYXkycTBaQ1JGQm56a05KVlRRaXZTR1BGYmZ2cHdGOFZZYmZlOFhxNURUNC1rNWc?oc=5",
+   "time": "2026-10-19T17:29:08+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Business Times",
+   "title": "NEA issues notices to three more companies in Indonesia over haze role",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFpCekp2Szc0bGFZcjdMQ0t3YUVzVENHdlpLZlMyTG9SWnlLdlBhdU51blhzaXBoUThRY3JkNHRqNWNDYzNlNDBmWWNDWDZ6Q0NxRVRZTmhHeWZjRFZEUXFzeTRDeXFuWHpXcGZWbk1xTDRMN2NrcEUwbGNyendHQ054MXRZOElyMFg1SS1FRktONXBIRHQ2dlpqN29YWnk4VEowMzFobDNLdkk?oc=5",
+   "time": "2026-10-19T17:27:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Business Times",
+   "title": "Asia Pulp & Paper, tied to haze-linked suppliers, given temporary restrictions by SEC",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUks1T0QzdDM1TTB6elRKRWFhYVA0SzNFZHNIZUtlMlhVeVRaS0xjU1c0QXlWN0J1MjJIVUZIVWlHVjdRemsyb2lqVmpsNXhYR3dOeDl4cHpma0N6dEtHcUZjRWVfaXNXcnVoX1drRUlGYjFBNHZLdVNRWDJ4NGJ4bEp6VEZRRzlDWUhGYXFQRlVrYkdQUlNXekJjNXFiRHY0c204SGU0bG5QQWN4ZUdESUt6dEphRWVIbEE?oc=5",
+   "time": "2026-10-19T17:27:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore to issue haze prevention notices to three more firms in Indonesia over Kalimantan fires",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0JXQWhYWE9QV3BvY3pVM3VuS0tSd2ZVQzZmRkVZOHJrQmV0WUZLbTg4RW9aeWpWeUUtSGktejJlYW83WUlJYUpianpaTGhyVFhVQjlYaHV3ai1zdlg1c1czdzI4THptT0N6QWNTcGZualFScjJoeGZsQVZyVEczbldINXl4UDZMeWdDUWxkLWZrNFJna3JtQnVGRWgzVUdCZENUYnY2MW5TQ1pOajdyd1ZqTDJaaVV1TDlN?oc=5",
+   "time": "2026-10-19T17:26:23+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Singapore issues haze notices to three more Indonesian companies",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54RlphaUlYY2ROdUstQ2JFWHBRSUFGa19vemZRd0lSSlpTVk5ZVDFrNjEzQW5yRmxJVHUyQ0pQX3lkWVJRQzZFa3QzWEZDb1Qt?oc=5",
+   "time": "2026-10-19T17:25:49+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality improves as 24-hour PSI readings fall to moderate levels in three regions",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOGlVTUZ4Nk5SM1VjSzNYQ1hXdVJQZWMwbWRJY2lnTklwYnN5bk9XemJWMmhCei1WcHQ0ZFVaamFlVFZlVFdhdkw1Rlh1S3JhSmNyV3VycWc1TFVMZ0NnOEdLcGFqd1lnMHVNSjlacmtBYmtIWktwLTZPSVhZdzdIdQ?oc=5",
+   "time": "2026-10-19T17:07:11+08:00",
    "summary": ""
   },
   {
@@ -525,20 +574,6 @@
    "title": "SM Shanmugam calls Indonesian official's 'oxygen' remark 'disappointing', praises Prabowo's efforts to tackle haze",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLS12eGduVXZ2bWlENXV0SzRiTnlhelc3QjJYQmh3MFZpNF9Ibm4wMDZVbUgzRHJRdjVhMUYwakduQXdGVHpCSk5PVXFENG12aExPY21CRWhJSDctSzhKd3ZPeEF1UEMzZ0RCRDdYblJodTVxdlNJZzI4cGdhQnhpZg?oc=5",
    "time": "2026-10-19T17:00:32+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Shanmugam calls Indonesian official's 'oxygen' remarks disappointing, welcomes Prabowo's actions on haze",
-   "url": "https://www.channelnewsasia.com/singapore/indonesia-official-oxygen-haze-disappointing-shanmugam-6471166",
-   "time": "2026-10-19T17:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore ready to strengthen laws against haze-linked firms, pursue them 'for as long as it takes': Shanmugam",
-   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-firms-companies-laws-shanmugam-6470856",
-   "time": "2026-10-19T17:00:00+08:00",
    "summary": ""
   },
   {
@@ -560,41 +595,6 @@
    "title": "'They cannot play hide and seek': Shanmugam warns haze-linked firms as scrutiny widens over Indonesian fires",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFpBWmNDZEVVeFdGWG9maGJMOWRzU1B4SVB4M2hMX0ZlX1o2b3lOXzJwNEt1VkhBZUdsWWlIbGlQeGF4SDVVaW44eDVYNm5VY1RhNnRnSU83VnVKOTBzQUsxYjdqRDFoWFNNVEtsS3hOSE4wSS1WemhSSUktT0pQTzM1b0dhcjg?oc=5",
    "time": "2026-10-19T17:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "S'pore will go after haze-linked companies with 'every legal and regulatory lever': Shanmugam",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSjdRZkhvanNKazE2VXdmQXA4aS00MmE2ckJvOHdnNzlzZE43UGc0RG5nU2w2NlRCMDM0Q0MtbEpFcUo0WnZmQkJ3bUhjWjJBQ0FrY0pLRENkY0JoZzJpbXNtZ0MyT0pZUEFsZGw0TDNvMlU3M1RCTm15TklXWTdPUlN1aEpxOVBZQnlJeTFJLWs4VXlDQjUxeg?oc=5",
-   "time": "2026-10-19T17:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Secret Singapore",
-   "title": "From 230 to normal: Haze finally clears across Singapore today (but you still need your mask)",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xMUlDSE9GdzJmeVlJVEdBa0hURmVFNW5rRG9salRKZnhFUzZvZFVvV2R5VmlwcHRwYzZ4ZTN2Ty1ZSTNXMTd3Mzhlbm5VX3FfNll4UC1BOWNYQlFWSllqcWtFUXgzNjBfWG83NlBiOTVOanA3MWFXaGFQRQ?oc=5",
-   "time": "2026-10-19T16:38:47+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Jakarta Globe",
-   "title": "Prabowo Calls Meeting on Forest Fires as Haze Reaches Jakarta, Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckpsTGZVVmxxSUxYS3JFd3R4dmpvajZLQi0zMThsVHd3d2lLdXMxaDI3bG94WUNLUWh3OExWajVnVUlIU054LVVodHVOdEpxcXRsQklJaE9vVnJaZTVkaDNjczdNVkdsUVdXd0puY2ZnREJma1dBWEs5NDllTW50alJKVkppSFBkNE9fcUlNZFpkbTVNSmZpUHpITjlObkVBUFE?oc=5",
-   "time": "2026-10-19T16:17:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "NEA issues notices to three more companies in Indonesia over haze role",
-   "url": "https://www.straitstimes.com/singapore/nea-issues-notices-to-three-more-companies-in-indonesia-over-haze-role",
-   "time": "2026-10-19T16:10:44+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "Indonesia drops 2,400kg of dry ice to disperse haze",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLTmRuajZudUdVNnFZTV8xcjFsMnVqLXNpUHJsSzUwOWkxMUdtRkR5WGhyTTVteGZkd2Z3VVg0NWw5TEozMFozNWhpdzFZTGU0N2k2NVJ6YXM5MzV3amJiSWU4NA?oc=5",
-   "time": "2026-10-19T16:00:19+08:00",
    "summary": ""
   }
  ]
