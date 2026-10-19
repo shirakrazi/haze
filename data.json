@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-20T04:00:00+08:00",
+ "updated": "2026-10-20T05:00:00+08:00",
  "psi": {
-  "west": 121,
+  "west": 122,
   "east": 99,
   "central": 114,
   "south": 95,
   "north": 88
  },
  "pm25": {
-  "west": 102,
-  "east": 65,
-  "central": 78,
-  "south": 58,
-  "north": 63
+  "west": 105,
+  "east": 59,
+  "central": 76,
+  "south": 48,
+  "north": 59
  },
  "hist": [
-  {
-   "t": "2026-10-17T17:00:00+08:00",
-   "psi": {
-    "west": 193,
-    "east": 177,
-    "central": 186,
-    "south": 161,
-    "north": 131
-   }
-  },
   {
    "t": "2026-10-17T18:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 95,
     "north": 88
    }
+  },
+  {
+   "t": "2026-10-20T05:00:00+08:00",
+   "psi": {
+    "west": 122,
+    "east": 99,
+    "central": 114,
+    "south": 95,
+    "north": 88
+   }
   }
  ],
- "newsUpdated": "2026-10-20T04:04:39+08:00",
+ "newsUpdated": "2026-10-20T05:07:17+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Online Citizen",
+   "title": "NEA to issue haze pollution notices to three more Indonesian companies over Kalimantan fires",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM3h4QklKWjBkdW9QcGtLSWtlQ21GM2JtUGVNVnRiV1ZvVEVCUEhuNnRCY0MyeWpUR2Z6LTR2WGhhXzZHOVJWSi1YdWluSmdoR2JVU0lhcC16dVJ6d3VfU2MxY0lNT0Jic0RVZWxMU1pYdmV2ZXNxYkU4LWpkNXV4UVZYQmtrQklGYkw3WVNxWDdCRTVHdk1xckNHcDFGZlZsUVR1Wmk2Nzl3a3JxeGlFQU1xeHd2VmE1dU5uSkdvaUtJMDdQeVE3N3diS2NpSVV3V1Qw?oc=5",
+   "time": "2026-10-20T04:21:40+08:00",
+   "summary": ""
   },
   {
    "source": "Tehran Times",
@@ -588,13 +595,6 @@
    "title": "Prolonged exposure to haze could hurt agriculture, fisheries sectors, says Johor govt",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmNwUS04V2JKZ05BRFpkX05nR2FhV25HcDMtR2tlWThkVzRHSFpLeTNlbW1MSFpVZklIX1ZqZ2VHb1lJcFVhUjVKd2FHVDh1bFNEQkxfZDNZclJ0UG0tMk9wd0hyZlZaM2ZLV3dhZDBUN1UxWEczYmZsRzNMV210N3lQa01QOUc2ZEJwYU1wN1NuWDZQdVdacGY5NFU4NjM5TW94V3VXX3pDLXlLeG8zb0QyYmFSYy1MS05wZFNhZFB6UGc?oc=5",
    "time": "2026-10-19T20:50:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "WRAL",
-   "title": "Singapore expands crackdown on Indonesian companies linked to haze",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbkFKaWdNb0Jjc3IweW5iWmM2OTk5RG9QV2Z5Zm5YLUFmT2pucnl2SDJ6dXBjekJXV19Rekp5YmtVRTVKZFJKNEJRM19RUkRrUk5lYlJVM1NHa1VjdlM4UzV1QTd5WUd3SGpJcDczTE5YSDJsenVVamxYMUpsejF6Q1VoUFhyV1o2QXRuM0hybmxuNXNacUdWNGF5VHFVcFpwWUptYg?oc=5",
-   "time": "2026-10-19T20:30:24+08:00",
    "summary": ""
   }
  ]
