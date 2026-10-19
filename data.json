@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-19T20:00:00+08:00",
+ "updated": "2026-10-19T21:00:00+08:00",
  "psi": {
   "west": 114,
-  "east": 91,
-  "central": 106,
-  "south": 88,
+  "east": 92,
+  "central": 107,
+  "south": 89,
   "north": 87
  },
  "pm25": {
-  "west": 75,
-  "east": 51,
-  "central": 74,
-  "south": 59,
-  "north": 22
+  "west": 83,
+  "east": 56,
+  "central": 73,
+  "south": 57,
+  "north": 30
  },
  "hist": [
-  {
-   "t": "2026-10-17T12:00:00+08:00",
-   "psi": {
-    "west": 178,
-    "east": 173,
-    "central": 184,
-    "south": 153,
-    "north": 136
-   }
-  },
   {
    "t": "2026-10-17T13:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 88,
     "north": 87
    }
+  },
+  {
+   "t": "2026-10-19T21:00:00+08:00",
+   "psi": {
+    "west": 114,
+    "east": 92,
+    "central": 107,
+    "south": 89,
+    "north": 87
+   }
   }
  ],
- "newsUpdated": "2026-10-19T20:08:48+08:00",
+ "newsUpdated": "2026-10-19T21:16:48+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,38 @@
    "pinned": true
   },
   {
+   "source": "The Malaysian Reserve",
+   "title": "Singapore vows tougher legal action against companies linked to haze",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWl2TFNvT2hvMW9GYXhKNGhWVnhYSlg2TUxycF9fNmlXVXp2RjAwd2lSWWl2WDB0RnBnT0RXTnpKbm5uSjB6RWNaUzZFSl9QMkdPZTJ0aG1XS1RKZnV2Y1E2cTZzZWliMEpFd3pHT1Y4eVY1Nlp5MnVrQ2JSM1Y2MTFjcjVhUkFtc3paaFFSdlVUcF8xSWRtZy16T1RNTUVhSXdGcFkxRkpZbjNqcXNZUG9R?oc=5",
+   "time": "2026-10-19T21:00:50+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Prolonged exposure to haze could hurt agriculture, fisheries sectors, says Johor govt",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmNwUS04V2JKZ05BRFpkX05nR2FhV25HcDMtR2tlWThkVzRHSFpLeTNlbW1MSFpVZklIX1ZqZ2VHb1lJcFVhUjVKd2FHVDh1bFNEQkxfZDNZclJ0UG0tMk9wd0hyZlZaM2ZLV3dhZDBUN1UxWEczYmZsRzNMV210N3lQa01QOUc2ZEJwYU1wN1NuWDZQdVdacGY5NFU4NjM5TW94V3VXX3pDLXlLeG8zb0QyYmFSYy1MS05wZFNhZFB6UGc?oc=5",
+   "time": "2026-10-19T20:50:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Independent",
+   "title": "Singapore threatens lawsuit over Indonesian wildfire haze – as oxygen tank and air purifier sales surge",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcGZjVHp2V19OOVFHSnhFVHB4aTYxcU9KQW4wUFNEMjZNdGN0V0FRTWpoTWtnaDE4MUU4SFdEMHBPVlJaVlhySVhfZzhxTWM3SzA3WnZINzlneTBWTExqVEdvd0FfdVVRb1JuOHpZX2hsSDEzTEtxcnZNRWt4OEFYOV9CTWF5WkNOUFpUTWJpLUJ2dnloQXJYeWNaaGJiMHRTeEFsNmFfVzlvVEdNLWd2ZDZLcktmYzFRcVlPNg?oc=5",
+   "time": "2026-10-19T20:20:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "South China Morning Post",
    "title": "Indonesia drops 2.4 tonnes of dry ice over a Sumatran city to fight the haze",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcUJGcUgybFhrQUJEeDNIaHN3RFNVdEhtMmVhanM1YnFHY3BHbEFnR1NNUkpGTF9ILVhKWEMwVUROQWJoVTJqT2psb3RORkNVbFFpYkxOTjlvb1UwRUQzZ0hsV2taVnM2RzR5aC1TODh2V2wtTG4wbkplRWh4NkVGTWJSWUVTZnphTi1yUEdKSHREQzV3TVZxb2dIWkViV2J2UEhvZmh3?oc=5",
    "time": "2026-10-19T20:00:24+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Bloomberg.com",
+   "title": "Singapore Issues Haze Notices to Three More Indonesian Firms",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQVVaQmNpdWIyUDBGYlFHRXI1YlhpU2lGcDlEa1VFbHJjMTFsbFJISllQYmZhTjdQUWhqdk9JYVZDNmhaY0l2a2lpd0hkMlFiMU5Id2NJSzd3dmc1d0w0TkstbW1CRWxtRlI0MHFNZi1fRWNRbXU0OC1ob2JyTUtMYW16dmJTX2hxQ2ZjM2JKNWwtTHhEZHp3NHNUR25ZckpTNlQtWG12azFiQy1SM3dlUk1wTnRsQQ?oc=5",
+   "time": "2026-10-19T19:54:34+08:00",
    "summary": ""
   },
   {
@@ -528,6 +556,20 @@
    "summary": ""
   },
   {
+   "source": "National Environment Agency (NEA)",
+   "title": "Haze Situation Update (19 October 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZEh2UVZmY0p1Wk5hbXFPTUlmS0ZkcFVKZ1ZsNEFUY0phWTJ3RVpNYkYtLWRnajRXM0VteDNKS29JbXI2QUw3MUgwNzZydFA2QTgyejlnY1dwTHphb1FpQ1VPejlwM015aUVZNllYVmhoWlZEZEdLbXQ5d096SWQ2YkhaUWlTZFdMcV9KQ1lzZlVVdw?oc=5",
+   "time": "2026-10-19T19:12:37+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Online Citizen",
+   "title": "Asia Pulp & Paper faces green label restrictions over supplier-linked fires amid regional haze",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdE9fa3JRT0xOemJINHg2bnBwM2NaN0pFREthaTMzUTFhNElmbVE3elV0aEl2eTA0bW5qYjB6T0tDa25qbmlVd2pQRDJZY1Fjc3BjREFhSXgzV1haUkoyUERxM1Y4NGpZRmN5R0hRR2JyVFpXQnhidDBhajQtbkMtZE1OaHc5SW1pR29NTmhNZWpkSHZNQlRlTjZHTHczbE9EaE9ZTE1hRktOZUpEdTY0N0E5bkcxQWhmUk1hSE1JWXJWRE9ZOURTU0R0V1JFeElDNDJ2aXNVRDY?oc=5",
+   "time": "2026-10-19T19:07:07+08:00",
+   "summary": ""
+  },
+  {
    "source": "Al Jazeera",
    "title": "Indonesia battles worst forest fires and toxic haze in 11 years",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbFNfdWNTb1h0NEc3MENkaE54VzR6eFA1b01tbHd3V1ExWFc3SnlIOUR0bnVWQjg0SS15WUl6RzNTUFlscm1hdXhOVGxoLUg3U09nQjdhTzItS3VkbkdvV1lNWks3WXZuNktlMHYxbWlyOTV2Z2FIX2x5akRqN2x3d2l1SzRJeFVyTGpzaFNrTGdZbHM4NTNjZDZTV1E4TTBHb0VoRmdZeDM1Q1NIYkdyMXQtaFNLd9IBuwFBVV95cUxOSWZZbEVDdDNjMFd0VlI5d1Blcm1vY08xX19Mekt0ZFBSRWtOcTktLTVxUU9yWDIxZHZwSjlNSzEydG1CY1JrOG9HLTA5Rkh6ZW9FVUlhWFRGUjd5MmFuaUt4QWU3aXVRR1FQa1RaSlFSV0N6aGwyUnQ3WWtXaUwtSlZFNTAzMW9yYmkxVzJMNExpdENwNnV6LVN2RUlZRkIwUzg1NGZIcVM0RzRWbUFMN2ZSNVJSZlZ0b3RR?oc=5",
@@ -535,10 +577,10 @@
    "summary": ""
   },
   {
-   "source": "National Environment Agency (NEA)",
-   "title": "Haze Situation Update (19 October 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZEh2UVZmY0p1Wk5hbXFPTUlmS0ZkcFVKZ1ZsNEFUY0phWTJ3RVpNYkYtLWRnajRXM0VteDNKS29JbXI2QUw3MUgwNzZydFA2QTgyejlnY1dwTHphb1FpQ1VPejlwM015aUVZNllYVmhoWlZEZEdLbXQ5d096SWQ2YkhaUWlTZFdMcV9KQ1lzZlVVdw?oc=5",
-   "time": "2026-10-19T19:03:45+08:00",
+   "source": "gasworld",
+   "title": "Indonesia turns to dry ice as wildfire haze drives oxygen tank demand",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeTlJWWlQWWZFZUlXcEdhME1aVTZ1SF9KZExhbFM3RUJYQUE1cHhRVzVKNVhNOVVkQ0kxejQwR012dV9XS3g0bFFiUjhEVlhDeVdFNDh3STRLdFhuQWlTRzMzTWdMRndrRW1xWDVBU0RMekN5M0g3S3RBUlgwaWYweVpvQXBreEtCTzlYcnpZd0VjaEVzZlBmMVJiMmJQYUhZU3ZydFhVTXBWMXFtS1hzWkdPbkduaHow?oc=5",
+   "time": "2026-10-19T19:06:20+08:00",
    "summary": ""
   },
   {
@@ -553,48 +595,6 @@
    "title": "Singapore haze: Air quality improves but PM2.5 readings rise again in three regions",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOGlVTUZ4Nk5SM1VjSzNYQ1hXdVJQZWMwbWRJY2lnTklwYnN5bk9XemJWMmhCei1WcHQ0ZFVaamFlVFZlVFdhdkw1Rlh1S3JhSmNyV3VycWc1TFVMZ0NnOEdLcGFqd1lnMHVNSjlacmtBYmtIWktwLTZPSVhZdzdIdQ?oc=5",
    "time": "2026-10-19T18:59:10+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Indonesia Business Post",
-   "title": "President Prabowo faces mounting pressure to expose haze-causing corporations as Singapore issues precautionary notices",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcGlXZ200cnYyeE9nQmtVeXdDTjNITWg1Z2l0OGl1eXJvR3B6SS1NVzFUdjlrY3hDWUVnaHJHZm5Ia21hdXdPZ25UTnVzZnk4bTdPcHdTVTRKdWlfenVFaEFJUXNodlhLU1V2MjllakJVUzVCcFlMMllkTnhVOGp2V1pxYkZhd3VLRWlxNlplX3M5M1RSLU1aaTdWUWtYQnhrOGhRR001QTJlYkxvbDlINEtUZEdzZ202NW5BekRQcE10TVFsOWNuYjFpYVhYUXVhdEQ5TWVwTWdWc2lBLWFvX011UUNjM2wyWWFZR2JubEhubFFDLWZR?oc=5",
-   "time": "2026-10-19T18:59:05+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore Environment Council restricts Indonesian firm APP's green certification over haze-linked suppliers",
-   "url": "https://www.channelnewsasia.com/singapore/haze-asia-pulp-paper-environment-council-6471366",
-   "time": "2026-10-19T18:57:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "'Shiver in our shoes? That's not the Singapore approach': Shanmugam on pursuing Indonesian haze-linked firms",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdm4yQ0FlVXVoM2djbGNPbFNDTXAxVklPUk1JV0x3V0d1a1RCMk9reUlqaXlJSUQwMmtkeXBFWUJSTTNKdlZtTUVNZGxPdzBIVVFCd3VXODd2VFp4bEYxcjlSNG1iNGwyX0kxWDN6OTN2VjNhR3R5MnJfMlpRd0tDamQ2NFVsWlM5SjJwZURvRnRkWUhxYnJQU19RdVNDRV80?oc=5",
-   "time": "2026-10-19T18:30:44+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Forum: Surgical masks may filter PM2.5 particles but not protect you from haze",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVENYUTVIRmtnQTFrNHg2TE1ib29HdnpKRk5zVlZoYmR3Z2wzNmVuVGpNRDVQWXZJZnFoZHZRYU5uU1U0MG5zeUxhckZsd3dZZXdnSGhJMV9EY0dRTGxUYnpJekZpNXZOTTlfeUwzVDFGeHo1U1hDNWhIYkN0c1J1TWJQM2V6Y0w3Zmk3c2EzUW9JdU5mT0w5U0o2U2JIN3VZLWF6d0R0RGFNX0o3MkRRLTIyOHMwbk40djF3VzlUUlBYbGFROUE?oc=5",
-   "time": "2026-10-19T18:30:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Singapore will go after haze-linked companies with ‘every legal and regulatory lever’, says senior minister",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONC1DSWNMV2FMbURCaGVvaHZmZHhBSk95NDhzRksteUxudkVuYXlYU0ZtR1JISGlRS0UyaTNZOFdMSFRQUjdEUjVhcFd6Y01ibkYxMkdJRVFEa09UTXpGcnpXUGxjZmNGZm9CUDFQT3BHZ3A2OVVRd0VoTFU0WnhaeVhzNThRUVc2ZzFESGhnVjVoN0hWVjFGRk5vMVRTUmI2UjhqWXAwSUZNZHkwc2doaW14c1p1b19xa19maWJOTmVzWVR2S1gtVmtYbWdpSGdoS2stNkJDZUJXYTczOXBCS1U4OXd5RXpWUFRmczB5ekJlNWRmd0HSAfsBQVVfeXFMUEtNYkxnLVR0djM0TkIyUVgtSlR5Znl4NlVqOE84RTdWSGVmQzF2b1FNam9Ibldtd21wcUJreFlHeWZNdUR6ZTNsVzgwbDFSNGJMVngtOHA1SmQ4NVVsWmZ6clJZb2pXcHBmdk52VlVqcFJoS21aTFB6cUFHbktfRVpFeW9DckJiN0RyQWRsTFFwMFc2dzNhTmZBb0k3SFU3NnAyZjBMWFE5elNYZXREbmNpNHJOUnJvVWhRZ01oQ2lHS2hjOGdfY0tYbmk0Z2hoODg1RGdTZzNCZ3JZTnJlRldvcEYxWmt4TXdxRnY1M1ZSNnFGb3NuaUItQ1k?oc=5",
-   "time": "2026-10-19T18:17:26+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Malaysia",
-   "title": "Singapore vows to hunt haze-linked firms playing ‘hide-and-seek’ — report",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nSmtqWmhXcDg0RnRGMXhXUTFQal9raEhCdWxBR21DajY3TDF3YlFVSktDODNCQ182ejY3aVltTEtoamxHcUZzWHR6V3FjNzJZ?oc=5",
-   "time": "2026-10-19T18:09:22+08:00",
    "summary": ""
   }
  ]
