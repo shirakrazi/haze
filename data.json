@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-20T06:00:00+08:00",
+ "updated": "2026-10-20T07:00:00+08:00",
  "psi": {
   "west": 124,
-  "east": 99,
+  "east": 98,
   "central": 114,
   "south": 95,
   "north": 89
  },
  "pm25": {
-  "west": 102,
-  "east": 69,
-  "central": 65,
-  "south": 58,
-  "north": 52
+  "west": 89,
+  "east": 53,
+  "central": 75,
+  "south": 56,
+  "north": 49
  },
  "hist": [
-  {
-   "t": "2026-10-17T19:00:00+08:00",
-   "psi": {
-    "west": 199,
-    "east": 178,
-    "central": 186,
-    "south": 162,
-    "north": 130
-   }
-  },
   {
    "t": "2026-10-17T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 95,
     "north": 89
    }
+  },
+  {
+   "t": "2026-10-20T07:00:00+08:00",
+   "psi": {
+    "west": 124,
+    "east": 98,
+    "central": 114,
+    "south": 95,
+    "north": 89
+   }
   }
  ],
- "newsUpdated": "2026-10-20T06:08:18+08:00",
+ "newsUpdated": "2026-10-20T07:07:35+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Malay Mail",
+   "title": "In haze-hit Johor, staying indoors is a luxury delivery riders cannot afford",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRkplZ0FfbzdRTlVkbkVTSlZBWlhwNWN5XzhWemdvZ3VQSWdjSVEtTThlRHp2VElqNzlTRXJJTU11c2VVZnBGVHo2Y2xxZjFnSnd1bHpuU1M5MHkzNkRYVUtBejdrT0tIYXNkSzRiM2NfWnBJVkxBNXMyWUVsMDh0ZTJBZWNoQ1lrRlRobko1ZHEzUU1yTTF5aGg5UkFfSFkyOVkxcWtzbm51WDljTF9SNURpNEFSaUtGOHo1TDcxaWxMWmVmYmZJcEpLb1N5QdIB0wFBVV95cUxPNUR0LXA2NnZlZWpvb0ZqMlA3Z1ZLZHRwUkd6MmJLV2FDS1daRmlUSkFKUW9hUUZRMjBHN1dZN3NUeGR1M3B4cXZ6RDB0THNCbUtsX2FDYnBCTm5QS28zVWFWVmdSc2VDR1pUMmJhVkY2clJQRlpnTlBjT04yUmIwaThSTFlDY282MnRabkdhd3lMSjJqZmNrUnYwVHlCalIzcllSbHpFbm1WM3BrcTI3UXlMUWhFQVRnY0ZRWTF5WVdMWTk5MjAxYVdEOUd3MXNwZlJj?oc=5",
+   "time": "2026-10-20T07:02:44+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Singaporeans have good reason to be angry about the haze",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM1hobFlOaVhKd1h2SDFvVGFGLWNwUk9va0hzRm1jb2lwcnpLRGN5b2NTX2lnemZteXhHZzQ3WEJyekZqanBJUTRFQXZQWENlaHJvY0twUEtWdFpVSkI3UTBicjFFV2lDWHNtWHhLdEVmYmlYeVdaM3NuSG9ETEJuaHdhOWJObGlnZXVLb1hmSU0yYVZYOUZZTA?oc=5",
+   "time": "2026-10-20T07:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Lesprom Network",
+   "title": "Singapore restricts Asia Pulp & Paper green label over haze from suppliers\" fires",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3NaSlE1NHZOSFkyeTh0WHAyTmxXT3ZFWDlMZktzZ3NOSDFPbVpESnNTTDRZRFJVdzFyVnYxWFRKa3hVcVJaTl9vQkd2dTlGVC1DM0xsYmQ3UkVyR1hod3lxUXR1Wk5veXNudTEzekNIak82alVRSHhMYzExNGwzQVloOEt3M3M0NkhncFNBRGpuTVBVYmU1WGFSdnBweHh5dzlVWUR2bnRUMGlhT1N2ZnZxNzlENm9QclE?oc=5",
+   "time": "2026-10-20T06:33:59+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Smoke haze could affect Singapore again from Oct 20 to 22: Are surgical, cloth masks useful?",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTFaR3o1VFdnLTFtbzN0a0l0WjJPT3R4OW83X2I0dVZmT25mVEQ5OGh3dWlXd01iUEZwRC1mOUpEc2xWZlRhVDBmWThQeWx3czdVMWRuRjdpRG5xMTNjcVNzQXZId3V6aS1VRGdWd2FRVVU3aUVkM2VSc1E4aDZRUEJPa0NVWW53c3BqYnd4NUFRTzhHZldFQQ?oc=5",
+   "time": "2026-10-20T06:30:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze in Singapore: Air quality improves with 3 of 5 regions recording moderate PSI levels",
+   "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-improves-with-3-of-5-regions-recording-moderate-psi-levels",
+   "time": "2026-10-20T06:25:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Online Citizen",
@@ -560,41 +595,6 @@
    "title": "Indonesia battles worst forest fires and toxic haze in 11 years",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbFNfdWNTb1h0NEc3MENkaE54VzR6eFA1b01tbHd3V1ExWFc3SnlIOUR0bnVWQjg0SS15WUl6RzNTUFlscm1hdXhOVGxoLUg3U09nQjdhTzItS3VkbkdvV1lNWks3WXZuNktlMHYxbWlyOTV2Z2FIX2x5akRqN2x3d2l1SzRJeFVyTGpzaFNrTGdZbHM4NTNjZDZTV1E4TTBHb0VoRmdZeDM1Q1NIYkdyMXQtaFNLd9IBuwFBVV95cUxOSWZZbEVDdDNjMFd0VlI5d1Blcm1vY08xX19Mekt0ZFBSRWtOcTktLTVxUU9yWDIxZHZwSjlNSzEydG1CY1JrOG9HLTA5Rkh6ZW9FVUlhWFRGUjd5MmFuaUt4QWU3aXVRR1FQa1RaSlFSV0N6aGwyUnQ3WWtXaUwtSlZFNTAzMW9yYmkxVzJMNExpdENwNnV6LVN2RUlZRkIwUzg1NGZIcVM0RzRWbUFMN2ZSNVJSZlZ0b3RR?oc=5",
    "time": "2026-10-19T22:25:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Firefly plans to resume all Subang-Seletar flights on Oct 22 after haze cancellations",
-   "url": "https://www.straitstimes.com/singapore/firefly-plans-oct-22-resumption-of-all-subang-seletar-flights-after-haze-cancellations",
-   "time": "2026-10-19T22:10:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Haze: Indonesia puts offers from Malaysia, others to combat forest fires on hold",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTRTbHhuTnVBZ3BjUEZybHRUaGNWVzVIeUd1REhJYnViTWQ3a0MxVlNXVjBVSW5xLXZZREY4bWM1S25iTVlEUmk3dXBoNU5SZ0NoOC13c1FwOUw1eEFmVWZUTG1QOV94MWlCYjhwTjUtZXNrbks0OElGUjZXV1Y1SmJGMGs1N3YtRVd5Uzl4bzF4ODQ4QzhFQkMyMkhBRG1mbWRGSl9HUFNUNDJNNjdGSENEbl9Qc1puNHfSAb8BQVVfeXFMUHJGN2w5aW5VTGxFb1gzcWwxNTFUQUFPMFlaU1l6cURyR21ETzZBYm1GRmlUTkF1TVdsb3BXTURSNE1ETW1VSXJ6eGdLNzJMSmlXdjlpbVVRSTJrUlpFS1hRd0lXeU9fQ0tGZDJDUkppdGphZTdEYkM1dW9jWHNtMjBTV2FYV1VKcFBxaHNvLWl0NWwyNTBzck54WGZ1QXptQWVaVks5Z1RTZDlTdkxMTTFJT09SZGFUVDlpV0c2ZEU?oc=5",
-   "time": "2026-10-19T22:01:35+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Malaysian Reserve",
-   "title": "Singapore issues haze notices to three more Indonesian firms",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUFZbDZZdnpSWms0SnJSOGxrWXM1eDg4QzkwVHphWWw0dkdzRGJfLTdzWEo4TnJ4RUZwT1MtWEg2ZjJLRmRUMGhtTTdrb191TXRPeDNPcXlMMmQ2eDVKMEd6T2hhVldRd2hkWEJnblNIa0JxcTQ5UUNzd3Utc1h0ckVOSDJSWUR6TXNNVUY3dGtQaDdNajlaeENLQ0VhaFpLRDAyR0czbw?oc=5",
-   "time": "2026-10-19T21:35:56+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Singapore vows tougher legal action against companies linked to haze",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQajNNbkVKR2xDczJZRFNZbFZMZURzd1NiaUFhcUdERXBqQzVyY0RXMzlzQUE0T0hXN3RCZm1OSzJsX1F5aW5hS2ZSMUR2dHJIT25yR1p2SU9PRTBFZE5ndkZ4VHU0aXhib3pCOFVpbVZkeUFNQUY0djNuRGpGX2VQTGlEOElUVUIxcm1LeXptd19WYS1mRVgxRVl3LUVNb0tWbElFMHc3cVlNQjVWaTlJRDNhcE50cEp3d1lvUWFwQ2ZiVmFDTm8yVDJ3dw?oc=5",
-   "time": "2026-10-19T21:18:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Jakarta Globe",
-   "title": "UN Boss Commends Indonesian Forest Protection Despite Persistent Haze Problem",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGpCS1RMMmU0eXB5alNwcXRJeWc3YU5uX3VaR3FiX0RBRUxRRTNoczVCbkxNNmtKSnBWMEdpazQ5c0V3UmxKRmRfdnpNN1IyR1k0c3hLSm80QXlJMExpNkdLZjloNDhRRWUyZnJqaF9XODZzUkV5MV9QWEJVVXF1QTM3SUdEbXhSRWZhaW05dkZpTnhCeFRUYkF1V1dKT3ZNSkxzeDdjWEYxZw?oc=5",
-   "time": "2026-10-19T21:14:00+08:00",
    "summary": ""
   }
  ]
