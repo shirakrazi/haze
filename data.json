@@ -496,7 +496,7 @@
    }
   }
  ],
- "newsUpdated": "2026-10-19T09:08:57+08:00",
+ "newsUpdated": "2026-10-19T09:34:24+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Asia News Network",
+   "title": "Singapore’s F&B businesses struggle as haze conditions worsen",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1RpaGstTWlJSFFnbjNrOEN0U3F3aElBSXpTOFdrYU1WNzdZOEVkV1I1WVBhcmNUYV9PeXVRazJtUGtYd0JzSVBLR1pQcVZOUUI0ZmdYN2NmM09ld3ZDZjdFR2hybEdHMG1sSkRqT004V19USFVfY1Y2dU1Hb3RQRDFKZTdMMml0R19PV29n?oc=5",
+   "time": "2026-10-19T09:11:19+08:00",
+   "summary": ""
   },
   {
    "source": "The Business Times",
@@ -588,13 +595,6 @@
    "title": "Haze-hit schools reopen today",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa3VQNEtQcWpBUjhLcGpFTnJRRERWcjQyQ2xFMktKUHIzTmRxQWlWUDA0LUJDQk03Z290NXJVSUlpanBHTnAtM0p5bmhJQ1RrVXRMQjQ2SUdsTmJYamJaZ2dJV1dyZW0xNldWWUpSRXhyTm9uTUZqMUlPV0c5dC1LN29aUDZSdw?oc=5",
    "time": "2026-10-19T07:10:24+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Air quality in Singapore mostly unhealthy; PM2.5 elevated in four regions",
-   "url": "https://www.channelnewsasia.com/singapore/haze-oct-19-psi-6469736",
-   "time": "2026-10-19T06:41:15+08:00",
    "summary": ""
   }
  ]
