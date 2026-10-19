@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-19T21:00:00+08:00",
+ "updated": "2026-10-19T22:00:00+08:00",
  "psi": {
   "west": 114,
   "east": 92,
-  "central": 107,
-  "south": 89,
+  "central": 109,
+  "south": 90,
   "north": 87
  },
  "pm25": {
-  "west": 83,
-  "east": 56,
-  "central": 73,
-  "south": 57,
-  "north": 30
+  "west": 89,
+  "east": 46,
+  "central": 77,
+  "south": 62,
+  "north": 43
  },
  "hist": [
-  {
-   "t": "2026-10-17T13:00:00+08:00",
-   "psi": {
-    "west": 181,
-    "east": 173,
-    "central": 185,
-    "south": 153,
-    "north": 135
-   }
-  },
   {
    "t": "2026-10-17T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 89,
     "north": 87
    }
+  },
+  {
+   "t": "2026-10-19T22:00:00+08:00",
+   "psi": {
+    "west": 114,
+    "east": 92,
+    "central": 109,
+    "south": 90,
+    "north": 87
+   }
   }
  ],
- "newsUpdated": "2026-10-19T21:16:48+08:00",
+ "newsUpdated": "2026-10-19T22:09:17+08:00",
  "news": [
   {
    "source": "CNA",
@@ -508,9 +508,23 @@
   },
   {
    "source": "The Malaysian Reserve",
+   "title": "Singapore issues haze notices to three more Indonesian firms",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUFZbDZZdnpSWms0SnJSOGxrWXM1eDg4QzkwVHphWWw0dkdzRGJfLTdzWEo4TnJ4RUZwT1MtWEg2ZjJLRmRUMGhtTTdrb191TXRPeDNPcXlMMmQ2eDVKMEd6T2hhVldRd2hkWEJnblNIa0JxcTQ5UUNzd3Utc1h0ckVOSDJSWUR6TXNNVUY3dGtQaDdNajlaeENLQ0VhaFpLRDAyR0czbw?oc=5",
+   "time": "2026-10-19T21:35:56+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
    "title": "Singapore vows tougher legal action against companies linked to haze",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWl2TFNvT2hvMW9GYXhKNGhWVnhYSlg2TUxycF9fNmlXVXp2RjAwd2lSWWl2WDB0RnBnT0RXTnpKbm5uSjB6RWNaUzZFSl9QMkdPZTJ0aG1XS1RKZnV2Y1E2cTZzZWliMEpFd3pHT1Y4eVY1Nlp5MnVrQ2JSM1Y2MTFjcjVhUkFtc3paaFFSdlVUcF8xSWRtZy16T1RNTUVhSXdGcFkxRkpZbjNqcXNZUG9R?oc=5",
-   "time": "2026-10-19T21:00:50+08:00",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQajNNbkVKR2xDczJZRFNZbFZMZURzd1NiaUFhcUdERXBqQzVyY0RXMzlzQUE0T0hXN3RCZm1OSzJsX1F5aW5hS2ZSMUR2dHJIT25yR1p2SU9PRTBFZE5ndkZ4VHU0aXhib3pCOFVpbVZkeUFNQUY0djNuRGpGX2VQTGlEOElUVUIxcm1LeXptd19WYS1mRVgxRVl3LUVNb0tWbElFMHc3cVlNQjVWaTlJRDNhcE50cEp3d1lvUWFwQ2ZiVmFDTm8yVDJ3dw?oc=5",
+   "time": "2026-10-19T21:18:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Jakarta Globe",
+   "title": "UN Boss Commends Indonesian Forest Protection Despite Persistent Haze Problem",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGpCS1RMMmU0eXB5alNwcXRJeWc3YU5uX3VaR3FiX0RBRUxRRTNoczVCbkxNNmtKSnBWMEdpazQ5c0V3UmxKRmRfdnpNN1IyR1k0c3hLSm80QXlJMExpNkdLZjloNDhRRWUyZnJqaF9XODZzUkV5MV9QWEJVVXF1QTM3SUdEbXhSRWZhaW05dkZpTnhCeFRUYkF1V1dKT3ZNSkxzeDdjWEYxZw?oc=5",
+   "time": "2026-10-19T21:14:00+08:00",
    "summary": ""
   },
   {
@@ -518,6 +532,13 @@
    "title": "Prolonged exposure to haze could hurt agriculture, fisheries sectors, says Johor govt",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmNwUS04V2JKZ05BRFpkX05nR2FhV25HcDMtR2tlWThkVzRHSFpLeTNlbW1MSFpVZklIX1ZqZ2VHb1lJcFVhUjVKd2FHVDh1bFNEQkxfZDNZclJ0UG0tMk9wd0hyZlZaM2ZLV3dhZDBUN1UxWEczYmZsRzNMV210N3lQa01QOUc2ZEJwYU1wN1NuWDZQdVdacGY5NFU4NjM5TW94V3VXX3pDLXlLeG8zb0QyYmFSYy1MS05wZFNhZFB6UGc?oc=5",
    "time": "2026-10-19T20:50:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Spec",
+   "title": "Singapore expands crackdown on Indonesian companies linked to haze",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcV9fdThyRlNvR2RSQWxnMmZkZl9ENDlNdlhmTURaMFltY0NBbHFnQ3E1UlF2Z1lxU1FxVUhjdENiTGRpcXdVcEJjUVBUZVU0WnJOSWN0cEdERlRLRlNVV3kyUGxHS0M4LXBLZjZXNmpfQnlnUEpIaHdpaG96X1FRSUt3ZHBuVGUtU01nYVNpaU1RTm1IVFJwTGlpRi1NZElUeXBDbDdZajBNT1hPemRaT3N4RU4zQnZkdDZSZVBCV3huaXE1bkJmdm41VW00and4WldvUWtKSUxSNGZyS212UXQ3NA?oc=5",
+   "time": "2026-10-19T20:27:56+08:00",
    "summary": ""
   },
   {
@@ -532,13 +553,6 @@
    "title": "Indonesia drops 2.4 tonnes of dry ice over a Sumatran city to fight the haze",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcUJGcUgybFhrQUJEeDNIaHN3RFNVdEhtMmVhanM1YnFHY3BHbEFnR1NNUkpGTF9ILVhKWEMwVUROQWJoVTJqT2psb3RORkNVbFFpYkxOTjlvb1UwRUQzZ0hsV2taVnM2RzR5aC1TODh2V2wtTG4wbkplRWh4NkVGTWJSWUVTZnphTi1yUEdKSHREQzV3TVZxb2dIWkViV2J2UEhvZmh3?oc=5",
    "time": "2026-10-19T20:00:24+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bloomberg.com",
-   "title": "Singapore Issues Haze Notices to Three More Indonesian Firms",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQVVaQmNpdWIyUDBGYlFHRXI1YlhpU2lGcDlEa1VFbHJjMTFsbFJISllQYmZhTjdQUWhqdk9JYVZDNmhaY0l2a2lpd0hkMlFiMU5Id2NJSzd3dmc1d0w0TkstbW1CRWxtRlI0MHFNZi1fRWNRbXU0OC1ob2JyTUtMYW16dmJTX2hxQ2ZjM2JKNWwtTHhEZHp3NHNUR25ZckpTNlQtWG12azFiQy1SM3dlUk1wTnRsQQ?oc=5",
-   "time": "2026-10-19T19:54:34+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Indonesia turns to dry ice as wildfire haze drives oxygen tank demand",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeTlJWWlQWWZFZUlXcEdhME1aVTZ1SF9KZExhbFM3RUJYQUE1cHhRVzVKNVhNOVVkQ0kxejQwR012dV9XS3g0bFFiUjhEVlhDeVdFNDh3STRLdFhuQWlTRzMzTWdMRndrRW1xWDVBU0RMekN5M0g3S3RBUlgwaWYweVpvQXBreEtCTzlYcnpZd0VjaEVzZlBmMVJiMmJQYUhZU3ZydFhVTXBWMXFtS1hzWkdPbkduaHow?oc=5",
    "time": "2026-10-19T19:06:20+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "MP: Malaysia should follow Singapore's example, enact cross-border haze law",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2pDSXFjdzhndlBxM0JhbUJCMnJaU1lmeTd0aTlvLTZQQTZhSENyZjlWSkdWaWdzcnhKX0NjTE1jaGlTVDkxYi02dmN1YnNZMDU2OGFyMzBpNGJGOV9RZnljUXNWQ242WW5LblFmZXphYlM4aDJCSVpLaEx0eDFhRlpxV3ZRLUlhQnRlOFNhWGs1QnJqYTNjV3lkczVLYVZGMzU3blI3Q0Q3SUgwbzRJWHVpemJkVEZDT0NB0gHAAUFVX3lxTE1xWTlwR2U4ZklOM0tEdHFIcEl6emM2U1c1NnNCWndwWUctcm5remZvbFFoNlRDdzRRTVlXLThja3k3NTZPQk1ERm9ZbndEQUd3Z3EtT3lwQ1RrNHBZdkFEclJkbGV1eDlJbE5SVDJmekJHeWdtM05oNXR0S1laZUp3X19vVklVMWRiUmZLNDVlWkRET25nakZvdC1BU0dIejAwTXRlalFPdmlITEx3Y2hRdEVTRUpkU2pQblZTbnJSOA?oc=5",
-   "time": "2026-10-19T19:03:27+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality improves but PM2.5 readings rise again in three regions",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOGlVTUZ4Nk5SM1VjSzNYQ1hXdVJQZWMwbWRJY2lnTklwYnN5bk9XemJWMmhCei1WcHQ0ZFVaamFlVFZlVFdhdkw1Rlh1S3JhSmNyV3VycWc1TFVMZ0NnOEdLcGFqd1lnMHVNSjlacmtBYmtIWktwLTZPSVhZdzdIdQ?oc=5",
-   "time": "2026-10-19T18:59:10+08:00",
    "summary": ""
   }
  ]
