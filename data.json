@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-20T05:00:00+08:00",
+ "updated": "2026-10-20T06:00:00+08:00",
  "psi": {
-  "west": 122,
+  "west": 124,
   "east": 99,
   "central": 114,
   "south": 95,
-  "north": 88
+  "north": 89
  },
  "pm25": {
-  "west": 105,
-  "east": 59,
-  "central": 76,
-  "south": 48,
-  "north": 59
+  "west": 102,
+  "east": 69,
+  "central": 65,
+  "south": 58,
+  "north": 52
  },
  "hist": [
-  {
-   "t": "2026-10-17T18:00:00+08:00",
-   "psi": {
-    "west": 196,
-    "east": 178,
-    "central": 186,
-    "south": 162,
-    "north": 129
-   }
-  },
   {
    "t": "2026-10-17T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 95,
     "north": 88
    }
+  },
+  {
+   "t": "2026-10-20T06:00:00+08:00",
+   "psi": {
+    "west": 124,
+    "east": 99,
+    "central": 114,
+    "south": 95,
+    "north": 89
+   }
   }
  ],
- "newsUpdated": "2026-10-20T05:07:17+08:00",
+ "newsUpdated": "2026-10-20T06:08:18+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Online Citizen",
+   "title": "2026 haze could cost Singapore up to S$3.9 billion, more than twice its 2015 losses: Eco-Business report",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdEVLc092SkFwYl9CaWhBX3FaaEx6MXVTekY5TGtUYTd6LUNZTFZzSXZseUdHMUU4aVk1RFV6dXdrRHBrakF2SWRhWkp2S3J2V0JfM0FCMVE1aHNCSDlPLVQ0WEtuMmxZNUt5MHh3NnBoVXppYTBoc0RBWW1TX2c5WW1qUlhrYUtQM2h3TVpEb3A5WHZ2WDZoTzhqd0tPWU9iZ2l6SXNpcE9Ic3N6ODV0R1pFN3pTWHU3NUxIdWJab3dFdjczWmxuLXFnOGtPeEptdXhWT2dRYUVtWjlCV2lBSg?oc=5",
+   "time": "2026-10-20T04:21:44+08:00",
+   "summary": ""
   },
   {
    "source": "The Online Citizen",
@@ -588,13 +595,6 @@
    "title": "UN Boss Commends Indonesian Forest Protection Despite Persistent Haze Problem",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGpCS1RMMmU0eXB5alNwcXRJeWc3YU5uX3VaR3FiX0RBRUxRRTNoczVCbkxNNmtKSnBWMEdpazQ5c0V3UmxKRmRfdnpNN1IyR1k0c3hLSm80QXlJMExpNkdLZjloNDhRRWUyZnJqaF9XODZzUkV5MV9QWEJVVXF1QTM3SUdEbXhSRWZhaW05dkZpTnhCeFRUYkF1V1dKT3ZNSkxzeDdjWEYxZw?oc=5",
    "time": "2026-10-19T21:14:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Prolonged exposure to haze could hurt agriculture, fisheries sectors, says Johor govt",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmNwUS04V2JKZ05BRFpkX05nR2FhV25HcDMtR2tlWThkVzRHSFpLeTNlbW1MSFpVZklIX1ZqZ2VHb1lJcFVhUjVKd2FHVDh1bFNEQkxfZDNZclJ0UG0tMk9wd0hyZlZaM2ZLV3dhZDBUN1UxWEczYmZsRzNMV210N3lQa01QOUc2ZEJwYU1wN1NuWDZQdVdacGY5NFU4NjM5TW94V3VXX3pDLXlLeG8zb0QyYmFSYy1MS05wZFNhZFB6UGc?oc=5",
-   "time": "2026-10-19T20:50:00+08:00",
    "summary": ""
   }
  ]
