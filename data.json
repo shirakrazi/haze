@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-19T14:00:00+08:00",
+ "updated": "2026-10-19T15:00:00+08:00",
  "psi": {
   "west": 115,
-  "east": 95,
-  "central": 103,
-  "south": 90,
-  "north": 85
+  "east": 94,
+  "central": 104,
+  "south": 89,
+  "north": 86
  },
  "pm25": {
-  "west": 44,
-  "east": 46,
-  "central": 52,
+  "west": 62,
+  "east": 51,
+  "central": 76,
   "south": 38,
-  "north": 43
+  "north": 40
  },
  "hist": [
-  {
-   "t": "2026-10-17T06:00:00+08:00",
-   "psi": {
-    "west": 183,
-    "east": 176,
-    "central": 193,
-    "south": 163,
-    "north": 144
-   }
-  },
   {
    "t": "2026-10-17T07:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 90,
     "north": 85
    }
+  },
+  {
+   "t": "2026-10-19T15:00:00+08:00",
+   "psi": {
+    "west": 115,
+    "east": 94,
+    "central": 104,
+    "south": 89,
+    "north": 86
+   }
   }
  ],
- "newsUpdated": "2026-10-19T14:52:11+08:00",
+ "newsUpdated": "2026-10-19T15:11:48+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Mothership",
+   "title": "NEA reveals 3 more Indonesian companies linked to haze-causing fires",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPXzRpbUZIQ2hkWHdGcFZwcVN6dGxQa05TMnpwcUFTWGNfMnNTUTZ5V29jVXlRN3pjelUzMXM3Mms1UDN4Yk5hS2c1alNCZWgyTkdWSHpNNkZLMXo1LWhRSk9WT1IzZE9BQjZnUjNmZXZRbVpVaXZmRk1oeFNNVWJGZkV3LWE4V201?oc=5",
+   "time": "2026-10-19T15:05:08+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yahoo Finance Singapore",
+   "title": "Indonesia Palm Oil Producers Address Fire Risks as Haze Concerns Trigger Regulatory Scrutiny",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUExyY0RiR2dIbW5TVWgxWjdNLUZINS1zclR1YWp5eElCQzhvY0V6Qld3UHVxSTNBekhIUTR1bDJScGxqREFKYkFQM2FOMUJ1bDRKbG9mVmttS1pNclV6aXEydmhabV8zdnpZRWczN292UnJrSHN0R1hqcWlVTFhmSkRYUFJyeGVkZmEtOU1n?oc=5",
+   "time": "2026-10-19T14:51:34+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "NEA issues haze notices to 3 more Indonesian firms, bringing total to 10, Singapore News",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcmc1NXBwUzl6R25DVWI1Nl9zTjFXSWY5MndDaFVCRzYtcnVhYXBXR0ZXRExsNDFXYVlLd1ZuWlAxeHBIYTlza3pIUnViUlF1dkFEZU42cFJJbEV3OWRtSWw3M1dJWFA5QXJOWWV4akFFT2ZOU183QkZDaU1QS2ZFaHIyZ0hGUWJFSTVvMHNOWQ?oc=5",
+   "time": "2026-10-19T14:50:00+08:00",
+   "summary": ""
   },
   {
    "source": "Malay Mail",
@@ -574,27 +595,6 @@
    "title": "'The haze is in the air, but the 2027 Budget is not hazy' — Anwar",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa3JaVk5hRzU1Vl9tWGhiQjd5SkxIR0lWdUF3MUdYdmdaRnpETk1vREFLdUlWYzAyWkVZTUlQdmZfS3Z0aGFxUC1lZGNHNFVIbGxweEQ0dXhJMDRIblhzZ0VHcDRaYTU2UF93SUhUTTVRSzFQd2pPS09zOHJqUFFwWFVfRXRTLWJNMjBVejNsUl9kbG5JRHJsWTJSZHVrQlNnbVHSAaIBQVVfeXFMTWtyWlZOYUc1NVZfbVhoYkI3eUpMSEdJVnVBdzFHWHZnWkZ6RE5Nb0RBS3VJVmMwMlpFWU1JUHZmX0t2dGhhcVAtZWRjRzRVSGxscHhENHV4STA0SG5Yc2dFR3A0WmE1NlBfd0lIVE01UUsxUHdqT0tPczhyalBRcFhVX0V0Uy1iTTIwVXozbFJfZGxuSURybFkyUmR1a0JTZ21R?oc=5",
    "time": "2026-10-19T12:54:39+08:00",
-   "summary": ""
-  },
-  {
-   "source": "UA.NEWS",
-   "title": "Singapore starts distributing N95 respirators amid haze — Dawn",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVDByb2tGcmM1bjRkaDdLVTdPVW4yN3lSNUNuUk82YllSSUVyOGVtb3BKem5Pc0xZVmtuQnpSMFJ5NF9wNjgybm1wQ3Zwa1FDZVNWUVJPekJEeS1pcnZBT1dORk1Bc2RaQXpJU01vTmtTOEFObTNkWHdoUFcxUjUyS3hCZ203cExzcXVuajdrVks?oc=5",
-   "time": "2026-10-19T12:38:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Indonesia drops 2.4 tonnes of dry ice over South Sumatra to tackle haze",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakRiSWVFSnpscDBlU28zZFdjMVYycjc0NDU3dkZYNGVXWW9PdEs5a25DYnc1cUlwcmpCSjE2cW5SVERNQjZnUE9kNXJZSFVSWGJuNGYxNzhRaENEd0VJOTU1X0hEc2NRakQxdk1Hbi1QbFlycmFrSmJMdWlWa0xVZWVZQTBEb3h1SHpCalM4TER4cnB6WXVna200RWNjTFh0ay1QVXhGUkFhbV90R0Vncw?oc=5",
-   "time": "2026-10-19T12:37:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Beyond profits, oil palm investors in S’pore must demand accountability over haze",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMFRMSXJGRncxbURSVUNZSmNrTFRIYXRUWDRqeEhjYjE4WTNndXNfRnpSZXJsS012VlJoTmJSNkE5SW1RcFN1clNlQjdwdU5jLTduaktieGVISkdlMmxVckZyR0xkczRPMUNmR1ZETzlRY1ZYNXZMNU9HZFVKMGw4N3pXbVgwaEFVcEFrRDA3SzVqbzFqSUJ4Zmx0eEtjTnJNeVJOV0ptcVFBNzZjLVRmUk5tN0NnQ1pF?oc=5",
-   "time": "2026-10-19T12:35:00+08:00",
    "summary": ""
   }
  ]
