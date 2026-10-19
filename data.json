@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-19T10:00:00+08:00",
+ "updated": "2026-10-19T11:00:00+08:00",
  "psi": {
-  "west": 129,
-  "east": 99,
-  "central": 108,
-  "south": 94,
+  "west": 126,
+  "east": 98,
+  "central": 105,
+  "south": 93,
   "north": 86
  },
  "pm25": {
-  "west": 74,
-  "east": 45,
-  "central": 58,
-  "south": 38,
-  "north": 50
+  "west": 63,
+  "east": 28,
+  "central": 24,
+  "south": 29,
+  "north": 42
  },
  "hist": [
-  {
-   "t": "2026-10-17T02:00:00+08:00",
-   "psi": {
-    "west": 190,
-    "east": 183,
-    "central": 203,
-    "south": 170,
-    "north": 148
-   }
-  },
   {
    "t": "2026-10-17T03:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 94,
     "north": 86
    }
+  },
+  {
+   "t": "2026-10-19T11:00:00+08:00",
+   "psi": {
+    "west": 126,
+    "east": 98,
+    "central": 105,
+    "south": 93,
+    "north": 86
+   }
   }
  ],
- "newsUpdated": "2026-10-19T10:07:19+08:00",
+ "newsUpdated": "2026-10-19T11:07:31+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Inquirer.net",
+   "title": "Haze in Malaysia: Vets seeing uptick in pets with respiratory problems",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVVaOU5jbDBDcmRQVjJlWmdmcGpTc0lMR25HMENMYVR2VHR2bVlOOUFjcnpUblo3cUZWQjJQVS14WGFNVE9icnlweUdONkUtcWlsemQxTFQ4alphdWNSMy1sNGFFTmN5SURJVEtka1pIbW80ZW9STW1GUVlXZlo4RmFTX0ljNGEwSnJha09uUDBCcDhiVDNqTVd5THk1bkZzUHJKZjNMTGhqOVFpRF930gG0AUFVX3lxTE5SWmtXa3pqRUpBUWVVYU9rR3RXX0E3ODQ1T2k3MkthQ3hiS0FXcEtzY2UtaE1ISVZCcnpzZ3RBUEd3NmdZTnYwbGo0SDVxQ2xQZE53T25MT2lxMGFjOWZxMlBReGkzMExySkx4cFNEZk5oZzkxdS1LYWhUckpRN0dMOTFGVUNWZUl6RDhUT1V1MEhxQy1sUVRtakt6Q0FJa0h3YUhoN3R5RkpxaUNYUVVMRXEtVQ?oc=5",
+   "time": "2026-10-19T10:14:00+08:00",
+   "summary": ""
   },
   {
    "source": "BBC",
@@ -535,6 +542,13 @@
    "summary": ""
   },
   {
+   "source": "AsiaOne.com",
+   "title": "Air quality improves on Oct 19 as PM2.5 levels ease; haze may return from Oct 20, Singapore News",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0FfS2ZEMGhVRFVtVTR3RF9QV2dQS2o5WWdKZ2tSVWF3Q24wZEU0MnAxcVZvXzlQbzZYZ0VLaUxKY3pJS3FNNFA2NDJmbTJwTWNsYVpQb3VKVWtXRWZZUWZXTnB1eS1QSlBObFh1WkhhcV9YNk1tSDJBajRaaTB3VWJXbGs2emxWUFFjR1JtTUE?oc=5",
+   "time": "2026-10-19T09:12:12+08:00",
+   "summary": ""
+  },
+  {
    "source": "Asia News Network",
    "title": "Singapore’s F&B businesses struggle as haze conditions worsen",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1RpaGstTWlJSFFnbjNrOEN0U3F3aElBSXpTOFdrYU1WNzdZOEVkV1I1WVBhcmNUYV9PeXVRazJtUGtYd0JzSVBLR1pQcVZOUUI0ZmdYN2NmM09ld3ZDZjdFR2hybEdHMG1sSkRqT004V19USFVfY1Y2dU1Hb3RQRDFKZTdMMml0R19PV29n?oc=5",
@@ -546,13 +560,6 @@
    "title": "Indofood Agri tracking hotspots, says no legal notices received over haze",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGNiWXlQMV93dUNYTXdDdi1VTWNmRjU2d2NhYjNEdEpGaHRsQ2todjlhZWE0OFRpSElJNm9pb1hpYkl5ZnJHbHUtdUttSjFDbGNSV21xc2s0M0wyTXpWVGpRY3hvYjE3UWtjRmMyS2MzX1hxckdQUmVac2JLN29BRUprR1RGQmYtR2hDVUtoaENrc2h5bXNaRTdCOGtOWUJrY09oMUl3VjFSYnV6ZzhrdC1DazBrejFWSlpFMmV2am5Obk0?oc=5",
    "time": "2026-10-19T08:48:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze in Malaysia: Vets seeing uptick in pets with respiratory problems",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVFrLTB4SlVRTzhIT0Z4bmpqeHpOT2IydGV4NjcxdWJzQUgyMi1IRUlCRXdzUEhaMks2QU1xTHQyeHV6azhZRk8wbG1mQkw1VnlVR2ZHV2ZvR1ZGRS1SYnExTUVrQ1Nrci1ScEpzU0tpQWNwZFdrbUUxTmJQMjd5S3pkTDhqVy00YWtubXhtZlVSc3VFTDFqRDk1YTN1SnNZUE5zSkd5SElDaFZJYXM5cg?oc=5",
-   "time": "2026-10-19T08:41:00+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Rising PSI hits hawkers hard",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc2I1UTJ1RTZIT2lmUGducDRQcWFRUk16UWZxdXdmY0t4UlczcThMRHhnTmlyQTdabnc2cG5hUnREQllQdldleEpuMVRVX1JWQzFyWDlVaXNwek9UdkZuYU94X1pmQzAySkJ6bE1ycTZYaW8zTFdWcjg5NmRZMzRCQ1VQbGJnNGtES0hDLWJib1A2Q2NvVWc?oc=5",
    "time": "2026-10-19T08:11:24+08:00",
-   "summary": ""
-  },
-  {
-   "source": "KLSE Screener",
-   "title": "Palm oil stocks tumble as S’pore probes haze links",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdDJMX1NwempqcDR0SFBxckZjV3FoQ2FNaGRhUng0ZG01MEVZUHN3MFNLcDVyemluWHJLRXc4MjdFNF9kc2Z4d2ZwSG1RMlZGbmE1cVdxRXlMTzhia0liNDhsLVFJRjF3VDNOSjJfT3BVbUgtRnNjMzNlNnJEczY2QVdmM2k0SUJPa3dDY3Iyb0JNQndpUWcyX1BndlB3YW5UcGc?oc=5",
-   "time": "2026-10-19T08:05:25+08:00",
    "summary": ""
   }
  ]
