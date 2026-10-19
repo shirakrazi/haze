@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-19T13:00:00+08:00",
+ "updated": "2026-10-19T14:00:00+08:00",
  "psi": {
-  "west": 118,
-  "east": 96,
+  "west": 115,
+  "east": 95,
   "central": 103,
   "south": 90,
   "north": 85
  },
  "pm25": {
-  "west": 39,
-  "east": 35,
-  "central": 37,
-  "south": 32,
-  "north": 39
+  "west": 44,
+  "east": 46,
+  "central": 52,
+  "south": 38,
+  "north": 43
  },
  "hist": [
-  {
-   "t": "2026-10-17T05:00:00+08:00",
-   "psi": {
-    "west": 185,
-    "east": 179,
-    "central": 194,
-    "south": 164,
-    "north": 145
-   }
-  },
   {
    "t": "2026-10-17T06:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 90,
     "north": 85
    }
+  },
+  {
+   "t": "2026-10-19T14:00:00+08:00",
+   "psi": {
+    "west": 115,
+    "east": 95,
+    "central": 103,
+    "south": 90,
+    "north": 85
+   }
   }
  ],
- "newsUpdated": "2026-10-19T13:08:54+08:00",
+ "newsUpdated": "2026-10-19T14:09:28+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Eco-Business",
+   "title": "AI wildfire platform Satellites on Fire seeks Indonesia partnerships as regional haze worsens",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlhUd1hORjFoYzZjTVo5TVRNQ2djTjJ4Y3k0cFZzWU9EM08wdVdGcV9DbzdiN01NbmRZSXR1S2k3VHZVMnc0bTFYb0ZOdVVOMnRSNDk3dFo3c3dFeDRuVnBjZ20zRjRoeEttblFFaUEyTm5LWnpuT2k5dlpnbVNZdUw1WW5BdDhBVTJKWG8ycURuZFZHVUVJanc3UEFXRXpHenhxVXlCRE0zTTV4Ml84aTFCM194U1BDODl1OU5iNWZZczlZTEUw?oc=5",
+   "time": "2026-10-19T13:30:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "https://news.brgbuildingsolutions.com/",
+   "title": "Air Conditioner Servicing Demand More Than Doubles in Singapore Amid Worsening Haze",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQakJKcFNITGVVeTVWZ0xLQzdxOEEwOElKbHo4eHVRMFdPMzJmNTU1UXotY0xrRTJrMUtzU3hfNG5HYlFBVmNtMXVMSFRrdEpxcVRpMWZUallXNllidFpUR1RXT3FFbzlKMnVyWXl2bDhVc250T0kyN1RnZ0JBWTgzRUxDVGpGOURzLUttY1BJMjgtTlBuX251Uk5Hb256ZlkyeFA4VlZLcFduTjBtRmFRblI2QmN6RVhER3FjS2N3aGEtNjFX?oc=5",
+   "time": "2026-10-19T13:26:53+08:00",
+   "summary": ""
   },
   {
    "source": "Aliran",
@@ -563,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "VnExpress International",
+   "title": "Singapore student builds website comparing haze to cigarettes as Asia's richest country battles longest pollution spell in 11 years",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQRFhBYkZ2NDRLbXgwSnBlRVdubVNidW1nWEdsbUxicWtIcnZCNmRlMVd4a0RLRnVvS0JPZGltRGdaTUlCSXNIeXVJRHpqckpqMXRXYmVSUTRxaXllc2xKREdzT3ZNSHlwbnZDNFNrOTZLWVNXNXR0aHAyRFg5Q3hKWHZnd0RPdjlCTXNrT0tJbFM0SGZRMVZLdTlzZWhjUEdEVDJPQ05GNGhnR0VRbTdDOXdkcEVZQ1FrU0prMHhrRUtfUGI3V1VKaEpCNnhXeDZDWnZwN3FFVlRPYzBVS0ZDcW12RUNHU1JMVmZwU1RzZHduYWltVGhPTUo3czNVLXo0RnR6djNpZFc5RjAwcGRGSG9IbVMza2lJS1k5eg?oc=5",
+   "time": "2026-10-19T11:54:41+08:00",
+   "summary": ""
+  },
+  {
    "source": "Her World Singapore",
    "title": "Haze in Singapore: 5 skincare products for dry, sensitive and breakout-prone skin",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMDN0d3J3RHpRV1dhQXZUeTJVU2tMREJuUEV6c0FSZklIeU45MVpDaFRodTBIZkJZcHJIblFwUEp5dEFxVVJEWGY0ZkdiSGFoQU90R3NKRVlyTVBNMGo0Ym9GUTNvU1QxbzF4RzhOdzliZ1M2QXJ2OEs2QUdpelExQngyY1M2dXdXeFE5U2hlMUxXeFhfcGRTMXJoUFE1ZVJVQUxlelVB?oc=5",
@@ -574,27 +595,6 @@
    "title": "Singapore steps up response as transboundary haze disrupts multiple sectors",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFliMHpJVVZ3SXBnV2UyWWxnWjNHa1c1OGtzaVlYdEVuOWJlOW9WSmdUNFRVUGt3VWFtNl9yUGhyZkI1NldXcjl3NjN3WjdaanV1eDdfZ3RzVjZaZndaclVKUjZNVGJKUk1hTkVRTlFsQ3psOHAwMU9iQ052WUZTR2RoWk9uQTJTT3gwODA4UmEzVkowVGEtSjE1Q2xRUHNSNXJj?oc=5",
    "time": "2026-10-19T11:45:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Indonesia considers expanding dry ice trials to tackle haze after 'fairly effective' South Sumatra test",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGNkU3NKa2NUblJBbjczVW9TR0Z5RzBTYl9QVkQxZ2drMUMzUXJLOThjTVotZzBncDQ0WHo5a1NnaS1rYmRIeEtkS25XS0hBdk1kVlZoeUNvRzZ1dmJmRElOVUxRSmRBYVAxREg1UUxleG9Mck1FaHB6MGxiNS1vYnl3MURkYzd1MEwwdEFrVm9lNVBtaVdrejgzV1dhNjA?oc=5",
-   "time": "2026-10-19T11:33:03+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality improves as 24-hour PSI readings fall to moderate levels in three regions",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sNEJ6VEZtZnNaZGZ2SUh5cWEzdnBLNzgzZnBKaDZYYklOTWQweTNEY09LZUxYd3BheTF4dGdnb2ZUMkd6S1JaeVNLMXhmNE8xU3BHcGlHazF3cEZLT3R3WHlqNXdScG5JNm50bnhTell5eXc?oc=5",
-   "time": "2026-10-19T11:11:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "The Week in Pictures: Haze in South-east Asia; protests in Europe",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcTlUbUtrdU01WjI3V2ZkRWFONGVBMzlRUDV4NkVrZ1daSk1uZHphdnFYeUxCRHBDN0c3MUNFVkZCaEYxZlhHNERlemtqVm55Sy05SWljamRJOFZGV3lZS0laYUMxQS04UXE2elBDZkFld3dYWXJpOXBuNkR2dzZGUnJQUUcyYUZuS0laYzhTNVpuYklCUmxqX0JLZm0zMXVkVjBheE0yUGxCYmV0YUI4blMxTnRDZHNDN0hxLTB3?oc=5",
-   "time": "2026-10-19T10:49:00+08:00",
    "summary": ""
   }
  ]
