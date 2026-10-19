@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-19T09:00:00+08:00",
+ "updated": "2026-10-19T10:00:00+08:00",
  "psi": {
-  "west": 132,
-  "east": 101,
-  "central": 110,
-  "south": 96,
-  "north": 87
+  "west": 129,
+  "east": 99,
+  "central": 108,
+  "south": 94,
+  "north": 86
  },
  "pm25": {
   "west": 74,
-  "east": 69,
-  "central": 70,
-  "south": 39,
+  "east": 45,
+  "central": 58,
+  "south": 38,
   "north": 50
  },
  "hist": [
-  {
-   "t": "2026-10-17T00:00:00+08:00",
-   "psi": {
-    "west": 192,
-    "east": 186,
-    "central": 208,
-    "south": 174,
-    "north": 151
-   }
-  },
   {
    "t": "2026-10-17T02:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 96,
     "north": 87
    }
+  },
+  {
+   "t": "2026-10-19T10:00:00+08:00",
+   "psi": {
+    "west": 129,
+    "east": 99,
+    "central": 108,
+    "south": 94,
+    "north": 86
+   }
   }
  ],
- "newsUpdated": "2026-10-19T09:34:24+08:00",
+ "newsUpdated": "2026-10-19T10:07:19+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "BBC",
+   "title": "BBC visits Indonesia's wildfire ground blanketed by toxic haze",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NTTBZSndKR1VOV1daVkQyYURNY3FtbnV1YVhaR3RkZjVQVE5vMUszamNfUnNWakxVS0Y5ZTltZmw4VlZJRzhEaTJSTGx0ZjFsZG9wd25oS0U?oc=5",
+   "time": "2026-10-19T09:57:02+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Asia News Network",
+   "title": "Haze chokes Malaysia’s farmers, families and businesses as economic costs mount",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZHVIVi1FbXBrVGNLNy1WYTkzQ1NmY1lmdHlwMW5YSzhVanRHYkZ2NjR5QjZndmFhblZLZndQMGp1Qk5NaVY1dU5GUU1vOFQ0cGRKTE13R2tCRjRHdTRmTGtKaDhUc04xTEI4RVNzMWNzekhvcTNFdFJFOE93SlplMHpSQlFjZmJfTVBERDZsaVRMX19LMWV4Y0pwQ1d1TWdsNmpQVHhn?oc=5",
+   "time": "2026-10-19T09:56:21+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze in Malaysia: Schools in five states and Kuala Lumpur reopen following disruption",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVTJTemJISHlsYnRSUE1SMlFGU0d2eDJHREZsbmVQMTBPNzFmSTVURlkweDVPdWFzbzRvd1dGcWdjR1UzQkRLRkd0cEdEZWk4MHUycU1CN0hoajZtQmQ4UDJ6MGpaVlFndm1hbFFwYVN5cjhkNnNfTTB1QUN5cm9iOFItc04wcUJqd1dsUWZmZmp5dUhocnR6ZEZFdUp0RUxyT3RQeWRPYnhFeGt4WUttSzZrcjBqb3ljWkQtRUhmanFDcFBM?oc=5",
+   "time": "2026-10-19T09:50:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Air quality in Singapore mostly unhealthy; PM2.5 elevated in three regions",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sNEJ6VEZtZnNaZGZ2SUh5cWEzdnBLNzgzZnBKaDZYYklOTWQweTNEY09LZUxYd3BheTF4dGdnb2ZUMkd6S1JaeVNLMXhmNE8xU3BHcGlHazF3cEZLT3R3WHlqNXdScG5JNm50bnhTell5eXc?oc=5",
+   "time": "2026-10-19T09:44:35+08:00",
+   "summary": ""
   },
   {
    "source": "Asia News Network",
@@ -567,34 +595,6 @@
    "title": "Palm oil stocks tumble as S’pore probes haze links",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdDJMX1NwempqcDR0SFBxckZjV3FoQ2FNaGRhUng0ZG01MEVZUHN3MFNLcDVyemluWHJLRXc4MjdFNF9kc2Z4d2ZwSG1RMlZGbmE1cVdxRXlMTzhia0liNDhsLVFJRjF3VDNOSjJfT3BVbUgtRnNjMzNlNnJEczY2QVdmM2k0SUJPa3dDY3Iyb0JNQndpUWcyX1BndlB3YW5UcGc?oc=5",
    "time": "2026-10-19T08:05:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Prabowo’s handling of haze unmasks issues with leadership approach as he marks 2 years in office",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLXBJQldpTFBKcjE5NHFzSTNUM295U19FUmdaRTJvNFpkOFVzeDRnaGFzY29wS09LTWpKeF9ySjlaWnd6WDB3cjVIQ1ZFWVVqYlhoeXh0UjVBNHFZbzI1aXZBaTlKcU9TWUduMGh2cXBVY2dwYk5ic2prUUd3UmdHTmE4UHd4UTdmaERiSFFRbEp6Q2RVVFVhM2hXbzlkNUZnTjZPX3NoQXhvOEJoa3RMSXdvbmtRZGxyc3hGN3BLZnRNYmxLWndzOERWdE5QR3YzaE5R?oc=5",
-   "time": "2026-10-19T08:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "巴士的報",
-   "title": "Singapore steps up response as transboundary haze disrupts multiple sectors",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS1dtMFBRUW5PUEVrTWtiWGZ1cFRMNjVCYzVxZV9YLWFHY1pwSnMzdG5SSTB5ZWFhMWhZWXZiZ1pVSGk5SHhzYUZ0akZyR3BZdU5KN2hwQy01NUV0dDJjWFhtOEEtNWJxWFl5VnBmTXdZcXR1UnBrNUVLMVJrT2E2VXRyVmJhRXEzWnZMWTRSN1E3TDU1clVDVVpaMWVGWDdYcFBhOFNweEd0T1BBWGxUc3VmeVFadUNhTUZSZS00MzYyV3h0RVE?oc=5",
-   "time": "2026-10-19T07:27:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Use hybrid work day to adapt to haze, public sector urged",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0h5YWJJbjZld3EzQ0VUcWZ1NFpoSEpLdGROa2FxMDhid0NUTmM3MlNPVXQtXzA2akZmczBrU3lkNjEyX0FSSC10VkJ2WUV0SUNhci1IcXR0UVJIdmpVNjI0MTY0UklXSlpLMFV3czllWTN5Qkh6OW1EUVBXTW94VEhPTV9TSW5rcUlnZ2hqUWhrd3NxQjU1c3U0Z3VXR2FiR2RCbjAxcVhadw?oc=5",
-   "time": "2026-10-19T07:19:04+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze-hit schools reopen today",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa3VQNEtQcWpBUjhLcGpFTnJRRERWcjQyQ2xFMktKUHIzTmRxQWlWUDA0LUJDQk03Z290NXJVSUlpanBHTnAtM0p5bmhJQ1RrVXRMQjQ2SUdsTmJYamJaZ2dJV1dyZW0xNldWWUpSRXhyTm9uTUZqMUlPV0c5dC1LN29aUDZSdw?oc=5",
-   "time": "2026-10-19T07:10:24+08:00",
    "summary": ""
   }
  ]
