@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-19T11:00:00+08:00",
+ "updated": "2026-10-19T12:00:00+08:00",
  "psi": {
-  "west": 126,
-  "east": 98,
-  "central": 105,
-  "south": 93,
-  "north": 86
+  "west": 122,
+  "east": 97,
+  "central": 103,
+  "south": 92,
+  "north": 85
  },
  "pm25": {
-  "west": 63,
-  "east": 28,
-  "central": 24,
-  "south": 29,
-  "north": 42
+  "west": 44,
+  "east": 34,
+  "central": 27,
+  "south": 33,
+  "north": 33
  },
  "hist": [
-  {
-   "t": "2026-10-17T03:00:00+08:00",
-   "psi": {
-    "west": 189,
-    "east": 182,
-    "central": 199,
-    "south": 168,
-    "north": 147
-   }
-  },
   {
    "t": "2026-10-17T04:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 93,
     "north": 86
    }
+  },
+  {
+   "t": "2026-10-19T12:00:00+08:00",
+   "psi": {
+    "west": 122,
+    "east": 97,
+    "central": 103,
+    "south": 92,
+    "north": 85
+   }
   }
  ],
- "newsUpdated": "2026-10-19T11:07:31+08:00",
+ "newsUpdated": "2026-10-19T12:07:45+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,48 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "I survived Beijing’s smog. Why can’t I stand Singapore’s haze?",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUHFlN1E4a1pBQzlZb2RJRUhScDdxWVN3dnlYRTJyVVJncmNQMU40S0N6UW1uTkt4STlGWWw3Wjh0cUxiR0IwN2ljY3dGX09MUzUzX00zaE1heHZGVjEwb2QxS1c5ZUtDT0VtMUhWamctemNwWnd4elJnaGVVUWxnYTh4NFlkRndrWDRuWjFvVG9NMUw5UUFGMEhB?oc=5",
+   "time": "2026-10-19T12:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "UA.NEWS",
+   "title": "Indonesia considers wider use of dry ice against haze — Channel NewsAsia",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcGtuVUg5dmxaYmVTQTEzSTU1RGxNUUdJeXl0S1Q3OE1WVXVWY0YzQmtGN1JpQXY4czJYQWdNZ296Ync4V3ZPSUp1VmlfWGtaRHQtSXBJeTh1bFFkSVFNbjhVbzVsVVQ0V0h3bHJ0OHhhSnZraWJqcF9KZVRMZVpIMDd2cnFCdjJGb1RTQmZscDlfb0ZLdDF0djJfaExGWnlJY25obXdCV29ucnJzUkVvTQ?oc=5",
+   "time": "2026-10-19T11:56:09+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Myanmar International TV",
+   "title": "Singapore steps up response as transboundary haze disrupts multiple sectors",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFliMHpJVVZ3SXBnV2UyWWxnWjNHa1c1OGtzaVlYdEVuOWJlOW9WSmdUNFRVUGt3VWFtNl9yUGhyZkI1NldXcjl3NjN3WjdaanV1eDdfZ3RzVjZaZndaclVKUjZNVGJKUk1hTkVRTlFsQ3psOHAwMU9iQ052WUZTR2RoWk9uQTJTT3gwODA4UmEzVkowVGEtSjE1Q2xRUHNSNXJj?oc=5",
+   "time": "2026-10-19T11:45:17+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Indonesia considers expanding dry ice trials to tackle haze after 'fairly effective' South Sumatra test",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGNkU3NKa2NUblJBbjczVW9TR0Z5RzBTYl9QVkQxZ2drMUMzUXJLOThjTVotZzBncDQ0WHo5a1NnaS1rYmRIeEtkS25XS0hBdk1kVlZoeUNvRzZ1dmJmRElOVUxRSmRBYVAxREg1UUxleG9Mck1FaHB6MGxiNS1vYnl3MURkYzd1MEwwdEFrVm9lNVBtaVdrejgzV1dhNjA?oc=5",
+   "time": "2026-10-19T11:33:03+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality improves as 24-hour PSI readings fall to moderate levels in three regions",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sNEJ6VEZtZnNaZGZ2SUh5cWEzdnBLNzgzZnBKaDZYYklOTWQweTNEY09LZUxYd3BheTF4dGdnb2ZUMkd6S1JaeVNLMXhmNE8xU3BHcGlHazF3cEZLT3R3WHlqNXdScG5JNm50bnhTell5eXc?oc=5",
+   "time": "2026-10-19T11:11:41+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Sinar Daily",
+   "title": "Haze: Malaysia remains ready to assist Indonesia in tackling forest fires, says PM Anwar",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LTUI1a1A0NGRzMFROX0F1MHlaNU5GNjBWVnlFQUNjYnRBWTljU2lfbVhsNTRLak94WDFZRWxzMzlXdFNzbm91WjBURzZVcDktT3VNRTNR?oc=5",
+   "time": "2026-10-19T10:28:00+08:00",
+   "summary": ""
   },
   {
    "source": "Inquirer.net",
@@ -535,13 +577,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Air quality in Singapore mostly unhealthy; PM2.5 elevated in three regions",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sNEJ6VEZtZnNaZGZ2SUh5cWEzdnBLNzgzZnBKaDZYYklOTWQweTNEY09LZUxYd3BheTF4dGdnb2ZUMkd6S1JaeVNLMXhmNE8xU3BHcGlHazF3cEZLT3R3WHlqNXdScG5JNm50bnhTell5eXc?oc=5",
-   "time": "2026-10-19T09:44:35+08:00",
-   "summary": ""
-  },
-  {
    "source": "AsiaOne.com",
    "title": "Air quality improves on Oct 19 as PM2.5 levels ease; haze may return from Oct 20, Singapore News",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0FfS2ZEMGhVRFVtVTR3RF9QV2dQS2o5WWdKZ2tSVWF3Q24wZEU0MnAxcVZvXzlQbzZYZ0VLaUxKY3pJS3FNNFA2NDJmbTJwTWNsYVpQb3VKVWtXRWZZUWZXTnB1eS1QSlBObFh1WkhhcV9YNk1tSDJBajRaaTB3VWJXbGs2emxWUFFjR1JtTUE?oc=5",
@@ -560,41 +595,6 @@
    "title": "Indofood Agri tracking hotspots, says no legal notices received over haze",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGNiWXlQMV93dUNYTXdDdi1VTWNmRjU2d2NhYjNEdEpGaHRsQ2todjlhZWE0OFRpSElJNm9pb1hpYkl5ZnJHbHUtdUttSjFDbGNSV21xc2s0M0wyTXpWVGpRY3hvYjE3UWtjRmMyS2MzX1hxckdQUmVac2JLN29BRUprR1RGQmYtR2hDVUtoaENrc2h5bXNaRTdCOGtOWUJrY09oMUl3VjFSYnV6ZzhrdC1DazBrejFWSlpFMmV2am5Obk0?oc=5",
    "time": "2026-10-19T08:48:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Asia News Network",
-   "title": "Indonesia’s haze response draws ire at home and abroad",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLW5wOW16d2NBdTNTbW1YZElXU3ExLUdkUGgwMjNMMDJDdDFjYjFUeTdyTnMtcEt4UDRCdDl6NGVRZ2hEcWxPQWZwUURBaEc2akJJNlFjUXNDY3FnNG1RM0tUVnFhaGZGbm9lNmNNcmczTzBjdnFmN1dnNVQ3cllKX3huNGdHQQ?oc=5",
-   "time": "2026-10-19T08:36:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze from forest fires still blankets Sumatra, Batam Islands",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMzlQOHhmWF9ZZ3U5MGEzVFp3aERKZ1J4QlRNeS1IRHl4d0VZVjEySE1UY0xtbndKNWpKN2FJcnFEaF9uQ3NoeFhLYnY0bWtpeWNaY055dVIyYVZQb3Y2QTdDX3Vfbk0wMVY4RXcyakg0YXdfWl9GSUdhVTBEOFJkMG9UVFo0VE1US3BCS2ktcDVqRGprNnhjdFAxaFJOWUoyZ0RV?oc=5",
-   "time": "2026-10-19T08:20:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Vibes",
-   "title": "Malaysia renews offer to help Indonesia fight fires as haze hits schools",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHZGNGI0Smsyc25XQldwQ0plLVFRUEJrNi1kSlpTck03WFl6dnJPeEJhelc1VGZxYzhrMXhoS3B0cjNqWVNLV0ZvVDRuVW1HTVFjSjQycFgtdklNWGgzT1c1b3p6Ui1PSm1UeTZRZzh3aTFiVFVKVGZMR3pkaHI3NmJBT1phakRYY1BiU1YxanlFa1JMUk5QZ01KXzFrbDR2TzVHQ1VQVkFpWm9RWThpU2xwS0xKOTVzSWc?oc=5",
-   "time": "2026-10-19T08:20:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Vibes",
-   "title": "Twenty-six areas record unhealthy air quality as haze worsens",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObC03SDU4N1BMeFpkUTdITDFFRE9ZU0x6U2x0SzJPWnJuQXliRGR1NVdEcm05eDFLeTZ3OWpPOTFkbDB2bC1YMG5YWERSU2hMVnJCSUs5XzQ0eDBNSlBTQklJTWhwZnVwM1BBOUlMclBGdWNnVnlZWC1ZdHkwZF9JQV9KcHFiVW9YQjRScmtmLXB1MjM2QzhTUmJfVHpqTF9HeG9Xd1IzMUhjZWM?oc=5",
-   "time": "2026-10-19T08:14:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Rising PSI hits hawkers hard",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc2I1UTJ1RTZIT2lmUGducDRQcWFRUk16UWZxdXdmY0t4UlczcThMRHhnTmlyQTdabnc2cG5hUnREQllQdldleEpuMVRVX1JWQzFyWDlVaXNwek9UdkZuYU94X1pmQzAySkJ6bE1ycTZYaW8zTFdWcjg5NmRZMzRCQ1VQbGJnNGtES0hDLWJib1A2Q2NvVWc?oc=5",
-   "time": "2026-10-19T08:11:24+08:00",
    "summary": ""
   }
  ]
