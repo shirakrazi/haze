@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-20T16:00:00+08:00",
+ "updated": "2026-10-20T19:00:00+08:00",
  "psi": {
-  "west": 139,
+  "west": 140,
   "east": 106,
-  "central": 123,
-  "south": 104,
-  "north": 89
+  "central": 122,
+  "south": 103,
+  "north": 85
  },
  "pm25": {
-  "west": 92,
-  "east": 58,
-  "central": 75,
-  "south": 52,
-  "north": 42
+  "west": 79,
+  "east": 56,
+  "central": 76,
+  "south": 54,
+  "north": 30
  },
  "hist": [
-  {
-   "t": "2026-10-18T07:00:00+08:00",
-   "psi": {
-    "west": 228,
-    "east": 180,
-    "central": 185,
-    "south": 173,
-    "north": 129
-   }
-  },
   {
    "t": "2026-10-18T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 104,
     "north": 89
    }
+  },
+  {
+   "t": "2026-10-20T19:00:00+08:00",
+   "psi": {
+    "west": 140,
+    "east": 106,
+    "central": 122,
+    "south": 103,
+    "north": 85
+   }
   }
  ],
- "newsUpdated": "2026-10-20T16:08:06+08:00",
+ "newsUpdated": "2026-10-20T19:12:33+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,87 @@
    "pinned": true
   },
   {
+   "source": "Whiteboard Journal",
+   "title": "As we Indonesians are sorry for the haze, what do Singaporeans, Malaysians, Thais, and Filipinos have to say about it?",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcUxCRDY3anJDMDNteldKb1ZYTHdTeGpqcEcxUjdiSUxKZ1J2SXJEUFI3MWJxUHUwejlMR0JvUzZha3QyNW5EUDhHQmJ3N3lVUmphYzFXN0tSRnl2aW9XYjZlYXJzdGdIWkIyd0dURnYtX1VPOThiNFVhci1ibHNHdmZrTU13LVAtQzY1X1BJZTg1NEF3bm91dnBIVlUzU3BaTEhid3d2TlpBbzVVbW9NakRmVERXT0FGbENrdUx2N0RidWwtTmlnS3VKelk1NWpia3VTYmhMZElFWEdJUDNGR1Q5aw?oc=5",
+   "time": "2026-10-20T19:08:49+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "7 Singapore-listed companies questioned over possible links to haze",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM1I3MXhmUmMweDVfX2pOc2pZcm9MSGFFcXVPTlZldVNjTlBPTndyMHUxWlVtZjBaTDVuMVdZajJEcV9taERvdE9kMGM0bmlGc1V6NEd6ZHJ6LWdNX0RzT0VzSHk3aWdLRWtFREJ3UE8xUDhmbThzb3FqRWVHODFDN09GcEhiNE4xQzBKUXJ2SFkyRjhvdWJlMXFyMXZ6endVQnZqb1BmWjhuSmUwOGJsQw?oc=5",
-   "time": "2026-10-20T15:36:26+08:00",
+   "time": "2026-10-20T18:36:26+08:00",
+   "summary": ""
+  },
+  {
+   "source": "UA.NEWS",
+   "title": "Smog in Indonesia disrupted 2,604 domestic flights — Channel NewsAsia",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRFNYTHhzU3VCOWZ3ZnhhX3RJSGZQZ1ZFYmhSYWpjM2tsODNuUVd6S3EzRFRCa3hUZU9nZzQtNXloYkg2NXJ6YVlKUDVHNjdSMFJUekZUUXI0OG5FZ3lMUW15eWpnMjNqVlpqUzR5aHhINk1Tc1Z4Y0Ftc3RZaHN4V0Q2VFk4aWgzOFNuZ3NWRnZrQ3FS?oc=5",
+   "time": "2026-10-20T18:30:03+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Indonesia haze disrupts over 2,600 flights, forces 14 cancellations on Singapore routes",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSThVUnk5em5ZS25FaVB5QklOVTlTVnVvbldrUXhHTThBSXdOUU1heFU2UGE5bnVQQmxvU3E1OHo5cVYxQjJKekl0bmc2eEhCSHlKVUFYdTUzaEhSZVk2UVVtOTMyV2JWUDZfeG01VXlJMnZjVUtSdzZrSmlpVUUwYVVHRVltMjE3OUNycW8zeFVOMkJzcWk5d0JiQlNaUQ?oc=5",
+   "time": "2026-10-20T18:18:52+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "In Malaysia, viral air purifier test fans flames of anger over haze",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTFFyS19wNEtSUFl2bzU3V2UzUmhoSjBnR3lneTVFNTRVNF9Qd1hEd3RoX2NvVlFOamdPd2RIcE5CQnBYaGhzcTRmRUUyVUtKaW5QZWZxNUQ1STRTdzhRUi04T1hfSDBpMWJ6a3R6Qmlabl9BUEVmX2RDU214dUhaVHlPeE4ycmJGM0pJeHhEanJzUF9MdUNNd1RnV2Y0QTdZN1ZjREVqdkpCWkxVdHBBeWJjd3BiZnNfX3BtTVdhOXZwRnps0gHEAUFVX3lxTE9RNzdiQ2JScThXTWV3dTU3REgwNlZTOHVEQWZ6bEdfYjVmN0pZamdReGwyYkJoU1ZIWS16R1ZETEJEY3ZFNlhKLUl3eVluUlhWLXZrWkR3R2h6SEJfZkxUTHJ6dFhsSkJvZ0lMbGZDSnp5bWRoZ01KaTQ0SlFnQlRGOVRNQjM3NThTUEMtU3BobnR0WjJQMkQwSzgxczBDOEI4TmtNamRNLWw5aGR3RXhtbm1uamZKeWdsVUVzTWk0ZmVRWG0?oc=5",
+   "time": "2026-10-20T18:01:50+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Consumers can put pressure on haze-linked firms by buying green-labelled products: Experts",
+   "url": "https://www.straitstimes.com/singapore/environment/consumers-can-put-pressure-on-haze-linked-firms-by-buying-green-labelled-products-experts",
+   "time": "2026-10-20T17:55:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "www.planb.sg",
+   "title": "Ex-Indonesian Minister Questions Singapore's Role In Haze Crisis, Divides Online Opinion",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOel81VVlMN2xSejNKY2pCYXIxZXFJZkpCbjh0SkY1STluTXdoTXREaWpHaDMxZlZGVGI4REhHQ0VDWjVDeEN2bzhzUEpLck8tN25sb2VwdXRiblFWdWF4NU9wbTVVXzE1cC1NUmdfYi1TWU1ZemtvdVdqVzRwNmNVYVJyc0RtbGRtUDdiOWFzYkZxY1poYmllTmxQeTJkVW1zY2I2T19PZ21KZklQWXo2NVZ4VQ?oc=5",
+   "time": "2026-10-20T17:15:37+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Singapore Business Review",
+   "title": "SGX grills seven agribusiness firms over Indonesia haze fire links",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeTIydmRZWjg1QjBjQnp5eGZ4M1c4UUhGMVk1WmhkUlJua1ZaUDZUN1ByR0p3N2tiMGFRZTJSMVJia01BS21PZnVHS0dlOG9BcWg3RFVvc1JIUGhyUWU2X2o4TUw0ZER6OTNYcDdQd2lSZlluM0N5a3NKWEhMb2V4M2JydVpxOHR3S2NDWEY1QlA3cWRM?oc=5",
+   "time": "2026-10-20T17:10:58+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Business Times",
+   "title": "Indonesia faces growing pressure to hold companies accountable for forest fires as haze worsens",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSWpza19mVDU4MHlNMUFWNXhiX2NaX2JQNDlUdXFJbGQ4M2VXeVhYd1NTOXFnaVZwSGZwTFozc3RwQWxpWWd1S1JFeEttNWtmd0pLalYtRGZrYUZVR0hDYmZVOHZNRjctNEs3dDdkUThJbmpDVlFiR2xQWVh5UWNNZjZpd3RIVTk1WEEzMUV5UWtzejkxVnhyTzZPTDJBcV9XRGItZDNycTdiNF9rUHRjOElEdjVTODNhVkdvQTVGYXBDdGdOcUJHdG5EbjhqZHV2VkJuYg?oc=5",
+   "time": "2026-10-20T17:04:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Queen calls for long-term measures to protect students from haze",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZm5wa1o0ekxCc21NUHJPc2tSWnFhOVpYTlQ1cWl1UFladF94Q010R01nVG16NzZ0Y3FlVWJydWdWa3d3dVNZSm43YVZZVERDTmtseXBmcUx1OFRXT0tZSV9kUlVuYkRzMWs3azZMNk5KaHNmQkRqVWxqOGZwemdiTnBXUHU1bGtYcXl2cmFDc3ZJRkJ0dVowVzlJOWRlWEYwRUxSWWJlcnBFZC1RM1ZMUi1qdWN3Z25DODg5WHlBS19SZVlV0gHEAUFVX3lxTE1mbnBrWjR6TEJzbU1Qck9za1JacWE5WlhOVDVxaXVQWVp0X3hDTXRHTWdUbXo3NnRjcWVVYnJ1Z1Zrd3d1U1lKbjdhVllURENOa2x5cGZxTHU4VFdPS1lJX2RSVW5iRHMxazdrNkw2Tkpoc2ZCRGpVbGo4ZnB6Z2JOcFdQdTVsa1hxeXZyYUNzdklGQnR1WjBXOUk5ZGVYRjBFTFJZYmVycEVkLVEzVkxSLWp1Y3dnbkM4ODlYeUFLX1JlWVU?oc=5",
+   "time": "2026-10-20T16:36:43+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Australian",
+   "title": "‘No hiding place’: Singapore widens crackdown on companies over toxic Indonesian haze crisis",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZFhjUXBFSHdsbWZxX19qeGFlYnZPcEc0S3V3bFpCb2xvVHo3c05KRkUxSlZzbGdVNzUyQ1dWZTk1UFhhdnBBeG51UmRCb3dnX1pNRkp6NnJfRnlwYWp1eGVSRnlUMXZVbnhsMGlseFd4LXdESEJSNzhBcjVqU09kSXdoMzRmeWNhVlVRTEJkZGdZbERFM3VkUm1NZWd5TmNJR1JOYUxVM3NFUTkyT055WnVtWVJjSW44c091RHhVc1F5VUZkZ21hakloNGoxUlF1SWVZZk9oaDlZbWFiU0Y4clByWlAyYVE?oc=5",
+   "time": "2026-10-20T16:29:43+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "Indonesia Haze Disrupts Over 2000 Domestic Flights Since August",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRjdXWlNBX1hmTUJHQnRoLTZFamNjZ3RFMHg4aVlxNHFxX1NhTXZMaHp1ejBCRndsTS1DTHpUdmdCZXM5RFYtOGRYVmdxVmFlNDVna2Znc1F4NkoySWJ3T01XNUNUNFBpZ0xPWHJBWUdJWFpETXNCX29iakV6RF9OaDU0ZnBNOEdpeTByUEFPdHNCdlFOOHpvcldIZF8xTDAzRlZhYVZOMzJ5dkE4?oc=5",
+   "time": "2026-10-20T16:13:36+08:00",
    "summary": ""
   },
   {
@@ -518,83 +595,6 @@
    "title": "Shanmugam Criticises Indonesian Official's 'Oxygen' Comments, Vows To Pursue Haze-Linked Firms",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa3Axd0djeFl3Ri1uNjl0TVhrT2tJVjh5V1NPdVpOUVQ3LVRsVkVWYXFpM1NndXV2LUxTV2RmWUw1Sm5yT29hcWFqREdta1pRamljNUZ3aWRxRmEteUN1UGwtWnNvUFlMQ2RyU1FpbjVGd08tNGw4QUxzamRVUmRHbGIwZmRVUlBpWHlNUmE4M28xV0ZLajJuZW1MY01SdndOWTA3b183cWtjYnZrQXNGUzZkNTJFUnhK?oc=5",
    "time": "2026-10-20T15:35:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Calls to sue Indonesia over haze; Malaysia’s Pinduoduo craze: 7 Asia highlights",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORVh2enBvTnFsR2dEUy1mR01UYmdialFLS2pRZnJuRzg4ZDFkTFpuVkxYczkwN3dEVTBDMTRwSHVjNkRtSUk3ZU1BOXJKaXQyc25qdWljX2pDcV8ydzVxeDNLN3ZXcDlXc3oxWENYNXQ3Mmc3Snc3VXpKcWJVNEdWNEZTVFdZbEVCZG9HZWR1cjg2X2ticVRCMkNuWTdDb2c2NGp5eExOVDQ3RGR0MFJPNFY5bXZDVURHajdBZnByVUtmYnNZ?oc=5",
-   "time": "2026-10-20T15:30:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Indonesia backtracks on foreign aid to fight toxic haze choking Southeast Asia",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUTJMdWp4UEVRb1FTS3JaMXVPQzNHM0JDdnZoYnFxaE5JNlNIbUh3WExtdk5CWllNaGVUMXA2OERQU1lZUTYzRDhIY3pxWnVpdDFpNTJ4dEVVRlByZHV0Rng5TDJheHhjN0hvYUhmTVhhQ203SmdJQVE1elllWmc4Y0taUnk5d24xSWdsU0FwWGNOS1JsaWlnOUJ3TkFJbHdZZnVHdTFqVndYY29JS0lya1RmVEh1cG8zYUJLVzFYZFN1QVppcTh3VFBpb1Zuajljay16RdIB1AFBVV95cUxOcEN4UDZ1bUNZQ19iWTJFQnV2WFZsejNOWmFSd1FIbXlQdG5KZlBibXdqWnpJOWQ3X3BGWG9PTkxzLWFja3hDS0E4ZEw4eFcwXzVsbFlzaDl5MmIyYUhzVGZSRHo2YnFWQ1FvaUFUUDVEaEVkLVgyX3ppNGdzUGlSZDFrT2hva2lzZTZITkQ0UTlkTWN5M0ZqNlRCYWRWSkRSV1F1b0ZHbTNKbVI3eGhzcGxDRktmMUdGNlExbklpS1ZxR3RnTWVKdHpYSVdPTDRPV2hXLQ?oc=5",
-   "time": "2026-10-20T15:27:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Indonesia Expat",
-   "title": "Haze Phenomenon Sweeps Labuan Bajo, Causing Stinging Eyes and Limited Visibility",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUUdKekJTVjBFSU1FMDF3VUV1aU1lOW5wWEtia2ZfRWVJcDVSc2VBZ3Iwcll5ZUxva2RmMEgtb2N6Y1JhZDd4dzhVN1JYeC1wM0MtRU9IOVc2bGZ1U2FDR2Y5Nlp1T3RYaGdzUTZjWTcwNUdlRVY1THN3UnJESk04VF85UUNPaS1ZTjBoVHp0Zl8ta004clcyV3FVYWVSVG41LW4ybTBxWlNkM0Z3bFZ3RA?oc=5",
-   "time": "2026-10-20T15:20:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "LinkedIn",
-   "title": "Singapore toughens stance on companies linked to haze",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVW1PNm9sMVMtZ09JdDVNVlBPRHI5V3FSaDh5eXNiMWx3WWxJZjNNNDZSRngxR3hWelJwRlF4aEltS1JxcFlSeE82OENyMFh0VVlXRXFsWTctT2NXNElCb3MxWnZTVnl3aFFjOGJPWkNYRF9IaVpHdDZuUGdycDRPd1I2ZFI4TjI3V21wdDFEQ3pHUjhwMXNYaEVSb04wZVFEV3NvOQ?oc=5",
-   "time": "2026-10-20T15:01:20+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Southeast Asia’s haze crisis will persist until polluters pay",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU1J6cjI5WS1pZHZzT3FpN0pQQy00cFdhX0xKMFV0SlR3N3NtRzdla0MtNXYyR2JYNzA5NE1ybU9hdlRpZ052TndRaThmbjJ0RE52WlRPcWdJTEtBbi1mYUJHbkFKTElwOVZBVGJKc011S09rd2lEVUd4OTRpd3JzdjhFM1lGeUxXQThnR2UxVFdHRzJFWlY5UERlN1ZZUmsxQXBFUFJlTHNhQdIBrwFBVV95cUxPMkFybHk2MjZHLV9VVlVnTmt4Z0ZXdTB0a1Z2bm9DcmNGSm01RlhXN2FNYWFzVDRmcS14cHVtOXlxejZaYW1yU2FSd0NwUTVjQVlvN0owSmp0eWtLTTN6d3ZtcHc3akxyNG5rMUxwWXU0eDM5WGhFUHhXTHQ0bG84VGJWQzRMeVZHWHlMbDFXVXpRbFVxcU5IR3Q1QmlGSlZWY2poSTJuSi0zRVlFRm44?oc=5",
-   "time": "2026-10-20T14:26:57+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Indonesia haze disrupts over 2,600 flights since August",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObldRVTlqX2pOVmo5MG1TQko2czhZN0NMcVlwemoxTm9WeUpNVDkxc2p4OG9uWFp1ZVJzbnpEUENQTVRBVnlQLXJ4c2I1WlNsT3Y0V1JWa0l1N191VmtyN1NFZG9fNDVKUms4ajNKYWl1cWlwMmh4YkJPR2Fla1hYV3dXQmRQY0dFZ0w0aGNLNFlwcVF6VUVVdjFlaHJoYmZiSFHSAacBQVVfeXFMTmhqdWJ5R1RNSWRUQjBMczdSMHN4dkQyZC0xeTNQeFJ0SzJiR212NTM2RkxoV1EzdU1qWkVvbTFiYzExM0RlQWt3VGN5cGwxUG5JYnBsQzROLVJTd0RfQ2J5S3lDcy1TSTRzSTdrQ2ZPbzd6T1o0dFJ2dXI0c1lXa2pkRVg1R2M1bmFvR0JFYmFGNVIyNk1uQTlheHBFREdRS1NwYUU4OGc?oc=5",
-   "time": "2026-10-20T14:24:32+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Indonesian paper company hit with restrictions in Singapore after suppliers linked to haze fires",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQY2U4VG9CUFVmbzdlQjlnSkxXazVNVzMtc1dhN2dsTzFmYzZiSzc3ZERtSHNmU3dBc0w2TDB4SERnNU1BY3lOZEswUEpvYmFVckFiaHVUVWFCSmZfYkNBSktRa1lyVVBqZld1dHB3V2xJUnRQZ1JnWXE4TlQtYnAwVEtxVjdkWU15VHRkX2Y5a184SHdsUE9vYTV1WXBrM1Nnem1UT3FXcDlNNWxZNUN0Z3FyRGNVLUgwMThfOG8zaEQ1VHZmQUM3dnM4Q0pmTkNLYllxcVJlSDVjZGhTazg1ak9uS2ZuVU9MOU13SFNDenHSAfABQVVfeXFMUGNlOFRvQlBVZm83ZUI5Z0pMV2s1TVczLXNXYTdnbE8xZmM2Yks3N2REbUhzZlN3QXNMNkwweEhEZzVNQWN5TmRLMFBKb2JhVXJBYmh1VFVhQkpmX2JDQUpLUWtZclVQamZXdXRwd1dsSVJ0UGdSZ1lxOE5ULWJwMFRLcVY3ZFlNeVR0ZF9mOWtfOEh3bFBPb2E1dVlwazNTZ3ptVE9xV3A5TTVsWTVDdGdxckRjVS1IMDE4XzhvM2hENVR2ZkFDN3ZzOENKZk5DS2JZcXFSZUg1Y2RoU2s4NWpPbktmblVPTDlNd0hTQ3px?oc=5",
-   "time": "2026-10-20T14:18:32+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Manila Times",
-   "title": "Allianz Insurance Singapore Offers Policyholders a Special Outpatient Benefit Amid Ongoing Haze Conditions",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNSkFnOElWa2MtcUE1c1dDcmJ1c3dxRmJHWG1ucEtwekhTMnJhdmU4MmJkbXpQU1U2NmM4aDBfTnJuUlNXXzBPZkVBbzFjVU1LRjdFNjNyVDBVNGwxRjA2Y0YydDRwY001dllQVFE1dFVxZU9ZQ01kekt0czhHTVRxMVhrTEx3OTJVQ3RYTi1TTDNJRkkwTXFLOVYxbDJwMVRCN3piZVFXb2g5MW9KRFJVOHNnc09uWnp5OUFhQW9HdXhVVG1ZT1FIcjhLX2ZaaEpxdjVSRGEyeHZpTjUxTjRIRVFjOUdHWU1QUEEzQmdWc1ctSHBoaVRja0Y5RTdhZzNsc0hFNDJJX1lNUTh4RkdjY1FtUm41NGkyTEHSAZ8CQVVfeXFMTnRHSkZqdWc5RW1Cay1aT0VvVFZTRWNfQVRuSXJjb0dtd3J4SjN4VVdhUGdNZmxZcmhxNWJDSDAtc2dHZzhsSXUyUjlhWjB2cHBMcGhXeWtyM2xLbW9OZFpCNWNOdWFaYVNEZWhfeHc0ZUU3X2NkUmpzaEJubG9zSFRQRlM2SFpKZU1jMmROaU5DM0tzYll1cmh6eWVZYnQyc203NHpjRFk0a2I0VjJzcjhLRThPcmlLOEJJRGRRcS1YT0phTUdvbVlxMnRNeUVHLWpNUFFnVTRKS1BVRHk5WnhGNm9uNk1QSGVNdkg3V01Fc3NianJETldvZE5TcG9MZzc0b05SMHZrMlFfUEhVRFFHQnRxYkdyVUJ0LWliTE0?oc=5",
-   "time": "2026-10-20T14:13:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Singapore Slams Indonesian Official's 'Oxygen' Comments amid Haze",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVJyYWlkQjd4NEFmTExhVDFaSkhKRHhFWC1HaDZnbGFCbnhPakt2eV9ra0REVXprOVRoMHVfRi1oSUhIcTVnYlhoNWhkSVE5SE44OXF5dl9YYW16R0RnU2JWWHdaWXFOTGktOFNlZzZ6eldmeUlYeTZHNTJ3NDlpMnd4MnZrZFJzSXRacHJMZGpEd0Fwd2tXWWVtUQ?oc=5",
-   "time": "2026-10-20T13:48:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Greenpeace",
-   "title": "From Haze to Hardship: Greenpeace Indonesia Calls on Prabowo-Gibran to Take Climate Action",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb1c5d3FwcXY2QWd4bE1HWXRadjFidkFzdC1RNktjTk96dGtFLWJZVGh0YzFyV1BjWDVtT3lzbURHNjlmeG90ai1aQ0FERld2X0RuekdHOTVPaWh3d1dfWTFhVlVnaEFWWkZPWmhEbzhjWmFHNnRZbm9WY0FqSHExMGd6RHEtWnpla2JZSlhxY2Y0YzBaU3hhUl85eGFxWVVydkJlWjl4c2lsc1RTSjVpam9QRXBXeUF1Q3JxT01IUkozQkE2NThWckpuc3hEZUxsa1Yxbl8wWi1pRms?oc=5",
-   "time": "2026-10-20T13:35:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Making light of the haze: 10 memes to get Singaporeans laughing through the smog",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTEFQVWNzQVpLV0NhNnpSZ0ZVdlIxN3hVazkxR2RGV09WU21xNTZiQjJzYVM2QUI2SUcxOUVQbklnYXBHbHNlRDE0TF9jSGZKM1VjVWJhT0VQTWktakFvWHpyUWVNcGV2ZFlkQWY0TWdhUXhfRXEyUmZXOW0ta3Nla2xLRnpxWG5wRE5ETUx5dEJLSVBWOFJMRThpQm83ODdmaG1UZlFvWkk1dWRYRFNfb2UxQQ?oc=5",
-   "time": "2026-10-20T13:25:00+08:00",
    "summary": ""
   }
  ]
