@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-20T08:00:00+08:00",
+ "updated": "2026-10-20T09:00:00+08:00",
  "psi": {
   "west": 125,
-  "east": 99,
+  "east": 98,
   "central": 114,
-  "south": 96,
+  "south": 97,
   "north": 89
  },
  "pm25": {
-  "west": 88,
-  "east": 56,
+  "west": 84,
+  "east": 62,
   "central": 78,
-  "south": 59,
-  "north": 40
+  "south": 58,
+  "north": 44
  },
  "hist": [
-  {
-   "t": "2026-10-17T21:00:00+08:00",
-   "psi": {
-    "west": 206,
-    "east": 178,
-    "central": 185,
-    "south": 161,
-    "north": 131
-   }
-  },
   {
    "t": "2026-10-17T22:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 96,
     "north": 89
    }
+  },
+  {
+   "t": "2026-10-20T09:00:00+08:00",
+   "psi": {
+    "west": 125,
+    "east": 98,
+    "central": 114,
+    "south": 97,
+    "north": 89
+   }
   }
  ],
- "newsUpdated": "2026-10-20T08:08:21+08:00",
+ "newsUpdated": "2026-10-20T09:07:49+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Indonesia hunts foreign links in 98 corporate fire cases as haze chokes region",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkJ2V1RKVVJtbS1JREVPZjFSV1VqV0hNTkJOUEtRZ1pZaVl0ZE9BbGNwdHEwQmJKMGpuXzg0LTRScWxnZElSaGJ4NDJiY1BEM0ViblJMWWJjNnZPWEtuQWhQUzhFb3gyNjNlMEw4Y3pqdlZ2UUZfTDJ1NnZjM0ZPcXY3WFEzakVkOGNLX3lHQmVvRkZWcjFSQ0Jab3MtN0g3aE5mc0hRRzJXTEVSdXYxbTJUcjZqZTVjMDhtWE1hcjJQcTNpWm9qOEtXX2p4UdIB0wFBVV95cUxQakk4QW81SWE4OEVlYW5TV2wtdUFfcFlGM1IxeGRCVm9zM1ZoellqZ0NEYUNIbmtQMGRiVGhMQkxkTnVlSHBzR2Nkd1ZGNjVwSnpKaTRFempHT2FkVVNsM2hqeTEwWHpuR2Y3cFVDYmM1N2JsTkZVam5jV2tEY1lXYURZWG5Gb0ZOUUlZLWtadEszaUhKak1ncnktTmNBRU10aG9YQUF1VjhZTmxZS1JObXRpWTVVVHRsQnRSdjhnUnNuSlpzMzg0Z253Z0g1ek83ZnRF?oc=5",
+   "time": "2026-10-20T09:01:47+08:00",
+   "summary": ""
   },
   {
    "source": "tanahair.net",
@@ -517,6 +524,13 @@
    "source": "CNA",
    "title": "PM2.5 elevated in three regions across Singapore; PSI unhealthy in two",
    "url": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-20-6473696",
+   "time": "2026-10-20T07:22:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "PM2.5 elevated in four regions across Singapore; PSI unhealthy in two",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3M3JTdDhtSlBSQkZ4NzVOVlg3YXZ5RXczUFZmUHpIeGMzS3QzNmVXbHdRcFJRRm94MTUyMjRROFRqcFJielNJS20tU1ZQNGJWeGlCRDQ3QmxZSW01NndkdXFJaXYwNThPVFl6ZUROTF9oMzl2LVFsRDFR?oc=5",
    "time": "2026-10-20T07:22:00+08:00",
    "summary": ""
   },
@@ -581,20 +595,6 @@
    "title": "ASEAN haze crisis: Can Prabowo restore Indonesia’s environmental credibility?",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMXJjTkktb2hyQnFzOWNHM2hvYUZKeU0wWUwzczdNMGNWbzNkaTNQZXdEUVpiVDhua1lLSXFJWWs1b2VUS05ldW1GQjZfTlVEQ2pPYVVncnlsRjZmY1Y2bkVBNEJVY2ptOXNCUDViZ2RwUXhQMFQxRVM0QVpCcDNCU3ZHRzR2OFB6dDJJOXZZNS13QmdlbFpPQzkyMHNjdjFld2MyTEJB?oc=5",
    "time": "2026-10-20T00:09:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Haze: Indonesia probes 98 forest fire cases involving links to neighbouring countries",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZnE4aElMalNXTUo3ME9PZEQ0VENPdUs0akMwV096eWl5aGNuamFlQ0I5VTRHQmY5QTNLVF8tVkExZDYtZExOV3dnMFM1SFpSUzBnM2JCTm1MQnJWSXhoVmVVeE1Sa1B4V0tkeEJnWUY2X1lwb1Q5LUpJd2d3YXU1X2dteE9BNEhMeXJmTjYtMjlWeTRPMDQ4VlFabkw3NzFBMzExYmRCSFp0akl2ME9z0gG0AUFVX3lxTE5IS0xJNWZhM2pueFZoN3JVZlJ0S0VRUTZ6b0Z3Zm1JM3pubTZndm5BTkVwWEZVSC1pOWRESmZHZmRLSWNLOTN3amFudjd0bTd1Qi02aVFIZVJfVU9GaE5BSFVSYzhmdlU5d3lJUTJnM0k5TEthVW5lLVBGdTFLb0I5Um42MzM4T1o5SUc1WVhlY3h1ZWZEYUNWekstQ2NOU2NudHZ4UnpSSmVDbWJvbHZpM0UxaQ?oc=5",
-   "time": "2026-10-19T23:29:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Indonesia Business Post",
-   "title": "President Prabowo faces mounting pressure to expose haze-causing corporations as Singapore issues precautionary notices",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcGlXZ200cnYyeE9nQmtVeXdDTjNITWg1Z2l0OGl1eXJvR3B6SS1NVzFUdjlrY3hDWUVnaHJHZm5Ia21hdXdPZ25UTnVzZnk4bTdPcHdTVTRKdWlfenVFaEFJUXNodlhLU1V2MjllakJVUzVCcFlMMllkTnhVOGp2V1pxYkZhd3VLRWlxNlplX3M5M1RSLU1aaTdWUWtYQnhrOGhRR001QTJlYkxvbDlINEtUZEdzZ202NW5BekRQcE10TVFsOWNuYjFpYVhYUXVhdEQ5TWVwTWdWc2lBLWFvX011UUNjM2wyWWFZR2JubEhubFFDLWZR?oc=5",
-   "time": "2026-10-19T23:15:17+08:00",
    "summary": ""
   }
  ]
