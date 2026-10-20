@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-21T06:00:00+08:00",
+ "updated": "2026-10-21T07:00:00+08:00",
  "psi": {
   "west": 133,
   "east": 97,
-  "central": 117,
-  "south": 92,
+  "central": 116,
+  "south": 91,
   "north": 82
  },
  "pm25": {
   "west": 81,
-  "east": 56,
-  "central": 55,
-  "south": 39,
-  "north": 34
+  "east": 53,
+  "central": 59,
+  "south": 35,
+  "north": 52
  },
  "hist": [
-  {
-   "t": "2026-10-18T19:00:00+08:00",
-   "psi": {
-    "west": 186,
-    "east": 139,
-    "central": 143,
-    "south": 133,
-    "north": 106
-   }
-  },
   {
    "t": "2026-10-18T21:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 92,
     "north": 82
    }
+  },
+  {
+   "t": "2026-10-21T07:00:00+08:00",
+   "psi": {
+    "west": 133,
+    "east": 97,
+    "central": 116,
+    "south": 91,
+    "north": 82
+   }
   }
  ],
- "newsUpdated": "2026-10-21T06:08:18+08:00",
+ "newsUpdated": "2026-10-21T07:07:29+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "BBC",
+   "title": "Asia Specific | The Asean diplomacy behind the Indonesian haze",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkNTlqVFp0U3gxX1VEeXFuY09GVFpORDMtVVo4NExoTFJIZnRvUm9sQjBLX1VXZS1qNVhVeWZFb3pORmVYY2NuYmNfRjg0MTFF?oc=5",
+   "time": "2026-10-21T07:05:38+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze in Singapore: Air quality lies between moderate and unhealthy bands overnight",
+   "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-lies-between-moderate-and-unhealthy-bands-overnight",
+   "time": "2026-10-21T06:09:17+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -581,20 +595,6 @@
    "title": "How Does Dry Ice Work to Clear Indonesia's Haze? BMKG Explains",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbkZReTBISkxBa2NDOXBsRmE0ckxPbFpXRlVIWkd0dEpaOTd1VWtzVWZsWVJvVXZ2U3N6ZnYxazZIMlRXQXRXeDdTNHVvZ0ZWSU00a1A0Wng5LVhRbVNmeEdfUkdWN3J6SXNZZ0RyeTc3WmxUVm9YdV9kZ1FWU3pxLU5sY0R1NmRBSDJfRXpMWno2UjJMZWotdw?oc=5",
    "time": "2026-10-20T21:31:49+08:00",
-   "summary": ""
-  },
-  {
-   "source": "巴士的報",
-   "title": "Cross-border haze lingers over Malaysia as clearing timeline remains uncertain",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaDJfdFZHbXVnWHZLN1k3RWZPS1B4eDltS2FxNUZhc09xSVpPNGptQjVYbFZMN1VMOW9FeHJUYnEtWGF6RFpqTVhHaWdwQXpDV044akFBYXRCcDlUZ0gyMmtuYTVVbW1aOXgydzhIMVBsMEJPc1liVGRkRlJWcGhjRHJuNHFHU2ZKeS1yNG1JMXE5TW9rb3ExUFRxaTJjTEZXT0EyWjJNRzNGWEw0dkNYUUlERENpRGRxNnhvZU1jVXBRSkVtUTk2MWNn?oc=5",
-   "time": "2026-10-20T21:15:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Haze threat looms over Singapore again after brief three-day respite",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdFlkeHplVEVDVnFDQ3Zjb3BENjAwaFZHLVRseGtwemxvNnNMNE5takhMUHJtUXhKVjhQSlM2VjRWTGNsVGVXNUZ5Wjk1SnBsYmFfWWF3Sk1ZSXNIOVpCOXhoMHpzandRcTBrTlVlQjNGR05hRG5kMFhSLU9waUg3X1pDYjZncC1DY283M2JTQ3NBUTBKTlRnUnRlYV9tQUFKQjNLWmJ2TWhfUUpsTEpmMDVqck92ME5fd1BzWWVLQjFWQURWeFHSAcsBQVVfeXFMTTZaX2xhbTJYN09DQzBQZy0zdko1cGFLTDJCaUt6N1pQekdjVU55TklyZzduekJYMkZfNWlvaVlaeE15OV9OcDBHNWV6RFUzeEZtUHpuNXhkbkZhUFNpRTU1djJud3BBUXN5MXZmQVBvTC1mdXNjWUVMWDA3STlEQU5aZTdBWE10V2xqR1FSWmFSSkFKSGtJUzM0ZjYtMTdoMmtQX0VMaXRMSE9YdktOX1VyUUlrTXZzMlFUWXNuZG9BNUJSb3hjV3NxXzg?oc=5",
-   "time": "2026-10-20T20:54:40+08:00",
    "summary": ""
   }
  ]
