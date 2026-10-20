@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-20T13:00:00+08:00",
+ "updated": "2026-10-20T14:00:00+08:00",
  "psi": {
-  "west": 133,
-  "east": 103,
-  "central": 121,
+  "west": 136,
+  "east": 104,
+  "central": 122,
   "south": 103,
-  "north": 90
+  "north": 89
  },
  "pm25": {
-  "west": 109,
-  "east": 57,
-  "central": 80,
-  "south": 51,
-  "north": 40
+  "west": 111,
+  "east": 69,
+  "central": 83,
+  "south": 53,
+  "north": 39
  },
  "hist": [
-  {
-   "t": "2026-10-18T02:00:00+08:00",
-   "psi": {
-    "west": 221,
-    "east": 181,
-    "central": 184,
-    "south": 170,
-    "north": 130
-   }
-  },
   {
    "t": "2026-10-18T03:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 103,
     "north": 90
    }
+  },
+  {
+   "t": "2026-10-20T14:00:00+08:00",
+   "psi": {
+    "west": 136,
+    "east": 104,
+    "central": 122,
+    "south": 103,
+    "north": 89
+   }
   }
  ],
- "newsUpdated": "2026-10-20T13:07:10+08:00",
+ "newsUpdated": "2026-10-20T14:10:08+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "巴士的報",
+   "title": "Allianz Insurance Singapore Offers Policyholders a Special Outpatient Benefit Amid Ongoing Haze Conditions",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMzNsZVpScWU3SHJOSUZpUlJITEY2cnVrS0gtNTlCc1YwREowZWRNZmxlWlpTSUs4bGstSHlQeVlEUlhPajYzUHBoc19KY0FxVm5KVnR0bXEzQXNDSjh5R1lNa25ZdVYtdWtNY1U0OXVoa0xfdGJsdGRLM1JreGRoT2M4NTY2VGdQN3pMY1FjVnFmR1dEb2kweEczb1g5dnh1Snd0QmZhWnlVRnFUSU13cmtOY1VfV2lGMEZMeXpuMXZnUWc1MkRSV2J3QjY0aDZQdWREa0V0NmZteXVJTTk0Z3hIeF9LVEdrVFVBNHExdw?oc=5",
+   "time": "2026-10-20T13:50:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "Singapore Slams Indonesian Official's 'Oxygen' Comments amid Haze",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVJyYWlkQjd4NEFmTExhVDFaSkhKRHhFWC1HaDZnbGFCbnhPakt2eV9ra0REVXprOVRoMHVfRi1oSUhIcTVnYlhoNWhkSVE5SE44OXF5dl9YYW16R0RnU2JWWHdaWXFOTGktOFNlZzZ6eldmeUlYeTZHNTJ3NDlpMnd4MnZrZFJzSXRacHJMZGpEd0Fwd2tXWWVtUQ?oc=5",
+   "time": "2026-10-20T13:48:38+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Making light of the haze: 10 memes to get Singaporeans laughing through the smog",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTEFQVWNzQVpLV0NhNnpSZ0ZVdlIxN3hVazkxR2RGV09WU21xNTZiQjJzYVM2QUI2SUcxOUVQbklnYXBHbHNlRDE0TF9jSGZKM1VjVWJhT0VQTWktakFvWHpyUWVNcGV2ZFlkQWY0TWdhUXhfRXEyUmZXOW0ta3Nla2xLRnpxWG5wRE5ETUx5dEJLSVBWOFJMRThpQm83ODdmaG1UZlFvWkk1dWRYRFNfb2UxQQ?oc=5",
+   "time": "2026-10-20T13:25:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Hourly PM2.5 elevated in three regions; 24-hour PSI unhealthy in west, central, east and south",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3M3JTdDhtSlBSQkZ4NzVOVlg3YXZ5RXczUFZmUHpIeGMzS3QzNmVXbHdRcFJRRm94MTUyMjRROFRqcFJielNJS20tU1ZQNGJWeGlCRDQ3QmxZSW01NndkdXFJaXYwNThPVFl6ZUROTF9oMzl2LVFsRDFR?oc=5",
+   "time": "2026-10-20T13:22:24+08:00",
+   "summary": ""
   },
   {
    "source": "UA.NEWS",
@@ -549,10 +577,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Hourly PM2.5 elevated in three regions; 24-hour PSI unhealthy in west, central and east",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3M3JTdDhtSlBSQkZ4NzVOVlg3YXZ5RXczUFZmUHpIeGMzS3QzNmVXbHdRcFJRRm94MTUyMjRROFRqcFJielNJS20tU1ZQNGJWeGlCRDQ3QmxZSW01NndkdXFJaXYwNThPVFl6ZUROTF9oMzl2LVFsRDFR?oc=5",
-   "time": "2026-10-20T11:41:30+08:00",
+   "source": "bernama",
+   "title": "Haze: Malaysia Remains Ready To Assist Indonesia In Tackling Forest Fires, Says PM Anwar",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JMWdWX0hMcWhleS10eDB6Y1JZZ0h5UTBtcEJhQno3MXlNMDlVX0JkN0VTMXdwaTB6ZVlNbVB3YTBpNFp3VzBVcmRoS2RZbnMzRzFMaA?oc=5",
+   "time": "2026-10-20T11:56:15+08:00",
    "summary": ""
   },
   {
@@ -567,34 +595,6 @@
    "title": "First Resources welcomes haze probe, denies land clearing by fire amid Singapore's regulatory scrutiny",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ3Z2TEkyQWJzeDM0cVk0NGZmVmtPMG1fYm5MdFV2RHR6aGNnOFNwWW82MVdiTVo0NU5OQlNTREtobjVBZC1VanZuTkpoTGdkN0RVVWgyS1Zwb3VIUzNQQ2kxRlFKZTVjUFI5RVFXc2JMVHFlNlRISzhPeW9YbWtfeU5vd0RQQm1qcTZlLUdYekctNnZaZkxPLXVaT3hqektVRWNINGQ1SVBNNEFPb0UzVGpDeU1jVDl4QV8wMnVnbUpoU0c3eFg1eW1WZlBuczZLSVZ4czZyTEI0NU1QeDBV?oc=5",
    "time": "2026-10-20T11:29:43+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Human Resources Online",
-   "title": "FAQs: Guidance for Malaysia HR leaders for addressing the impacts of haze at work",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNVRsTmN0ejZxQWpteUpIVW5LOVJfanJUOFhkbkk4ZWZmV1R3RmR3TWRfN2Y0bFRrV3pTU3UwbkRhMXd0RWJGSmxqd2NnQWpBVzRVd1N5bHNyVjVJLTBQSFFxSVlfZ0J3X2N1UTZ2TDM4NlNpSnJSbmpTNXdFLVNWcVVGTC1uUXU4dzdkSWlQMm85U0pwYVBDVWEtUTZ5cEhtWkpBM2FCUkRpOFZmcDJCMHhia1BQVkpE?oc=5",
-   "time": "2026-10-20T11:25:07+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Behind the blazes: ST looks at 10 firms issued notices under S’pore haze law",
-   "url": "https://www.straitstimes.com/singapore/behind-the-blazes-st-looks-at-10-firms-issued-notices-under-spore-haze-law",
-   "time": "2026-10-20T11:20:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Singapore Business Review",
-   "title": "SEC restricts Asia Pulp & Paper's green label amidst haze",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNk9ILTlyRWY3MFNKSEdQQWtvSnNuN2NpNWhpSF9nMWpQSlMyWkJMXy1kWmt2TFUtZnZvdnFyZkRxemcyQllmRHlQcWxZWFk1MC1LRWdaellPc29Zdm15WG5QQmRUbmFfVm8xVmRweFdtam45dzFsNE5VMDdWVFNMZkFjaTE?oc=5",
-   "time": "2026-10-20T10:52:52+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Lim Guan Eng urges govt to consider RM1,000 tax rebate for Malaysians buying air purifiers amid haze crisis",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUWJIMG9ObDRwa1pKQ1RHSEFXTU9RVlR4dUZmYkZsV1pNeV85SmVENkhVUEtnZXE0R1lZRm9tdk1JUHVhRDdtVGJwWHZ4YWJFYUUtTFRyekdXSE5VbEQ5RDBBZC1PdGhHLV92LXFsUWFaR3ZucXNJTWNEdDJZczNmYU01Q1R4M0dpaVFHV0s3bzBnRFplRDZNV3ZNd0t3OTZVdHp3TmwyTzBqLXd4WkNjLXg2QzNWd1c2cDNHMzhRWXBLOWp4VUpCMzJZbE1tWnhmbnJWXzFEQk9vVjhpeDBWVzJCOXV3RTVFclZ1QW9lWjF6MXNvZnBJ0gH8AUFVX3lxTE5lNTNvZmd4Mi1tb1pHYXlsUExxSjlld21jMW5icnZ5dWpWUURxeEtXUmJUMWZvcmJDNlZkaFVjTUtpNjlVZEYzSnE4TnZZSnhiX3g4dEpPa0RyNDB5RERpXzhFVEl3VmdJcS1LeWpVZ0FJZUtUOVFYLXFyTW1kWWV3MTNBWGVhWkEyLXc5Rk91WVYtQnRTczlZTU9EOG9UMFdKVlE3NC1iOGlnbmJ0dzlfZWZVVVFEaVI3bjRpcThiMzF1amNXcW5pRUp5X1FYZXR0UE1iU2FMODBjeV9DZ2tRWUliejJWOGpkdzc2WjFFLVFNTUNJWU85ejR4Vg?oc=5",
-   "time": "2026-10-20T10:07:16+08:00",
    "summary": ""
   }
  ]
