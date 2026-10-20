@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-20T21:00:00+08:00",
+ "updated": "2026-10-20T22:00:00+08:00",
  "psi": {
-  "west": 142,
+  "west": 141,
   "east": 106,
   "central": 122,
-  "south": 102,
+  "south": 100,
   "north": 86
  },
  "pm25": {
-  "west": 94,
-  "east": 50,
-  "central": 74,
-  "south": 39,
-  "north": 39
+  "west": 76,
+  "east": 46,
+  "central": 76,
+  "south": 37,
+  "north": 46
  },
  "hist": [
-  {
-   "t": "2026-10-18T10:00:00+08:00",
-   "psi": {
-    "west": 230,
-    "east": 175,
-    "central": 187,
-    "south": 173,
-    "north": 130
-   }
-  },
   {
    "t": "2026-10-18T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 102,
     "north": 86
    }
+  },
+  {
+   "t": "2026-10-20T22:00:00+08:00",
+   "psi": {
+    "west": 141,
+    "east": 106,
+    "central": 122,
+    "south": 100,
+    "north": 86
+   }
   }
  ],
- "newsUpdated": "2026-10-20T21:09:43+08:00",
+ "newsUpdated": "2026-10-20T22:10:13+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,31 @@
    "pinned": true
   },
   {
+   "source": "Tempo.co English",
+   "title": "How Does Dry Ice Work to Clear Indonesia's Haze? BMKG Explains",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbkZReTBISkxBa2NDOXBsRmE0ckxPbFpXRlVIWkd0dEpaOTd1VWtzVWZsWVJvVXZ2U3N6ZnYxazZIMlRXQXRXeDdTNHVvZ0ZWSU00a1A0Wng5LVhRbVNmeEdfUkdWN3J6SXNZZ0RyeTc3WmxUVm9YdV9kZ1FWU3pxLU5sY0R1NmRBSDJfRXpMWno2UjJMZWotdw?oc=5",
+   "time": "2026-10-20T21:31:49+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Indonesian anger builds over wildfires, toxic haze",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZVo2WmRQNWxPQm0yNkZabUxoS0c4YzVRNFEyLU14SGFPRmZlNFY5NHl6ZGUtd0hiZ09FeC14UVhoYmpBc29maEpIblZnZmNEYWJRWHY4OHR4bTZpa2JPcTNZWXFWZmtMMmNseHlWdW5MZWlwaVhfZE4yT2hTeTVGTUg2MzluMW56S1VsRlowMmIxOTJIM0ZzREN0TlBGM3I1cVRRSlFVNG53eUwyajFVM3NB?oc=5",
+   "time": "2026-10-20T20:56:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "Malay Mail",
    "title": "Haze threat looms over Singapore again after brief three-day respite",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdFlkeHplVEVDVnFDQ3Zjb3BENjAwaFZHLVRseGtwemxvNnNMNE5takhMUHJtUXhKVjhQSlM2VjRWTGNsVGVXNUZ5Wjk1SnBsYmFfWWF3Sk1ZSXNIOVpCOXhoMHpzandRcTBrTlVlQjNGR05hRG5kMFhSLU9waUg3X1pDYjZncC1DY283M2JTQ3NBUTBKTlRnUnRlYV9tQUFKQjNLWmJ2TWhfUUpsTEpmMDVqck92ME5fd1BzWWVLQjFWQURWeFHSAcsBQVVfeXFMTTZaX2xhbTJYN09DQzBQZy0zdko1cGFLTDJCaUt6N1pQekdjVU55TklyZzduekJYMkZfNWlvaVlaeE15OV9OcDBHNWV6RFUzeEZtUHpuNXhkbkZhUFNpRTU1djJud3BBUXN5MXZmQVBvTC1mdXNjWUVMWDA3STlEQU5aZTdBWE10V2xqR1FSWmFSSkFKSGtJUzM0ZjYtMTdoMmtQX0VMaXRMSE9YdktOX1VyUUlrTXZzMlFUWXNuZG9BNUJSb3hjV3NxXzg?oc=5",
    "time": "2026-10-20T20:49:48+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Haze threat looms over Singapore again after brief 3-day respite",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY2xfMU1NYThoUzg2V2YySklkZ1pmdVBSZEt5T1pKajgwNWU1R0NDY3Y2N25vRlNWa1U5YmQ5MjRLSmZBQnI0bFBfU0pmWE1MNDFmcXBKeWtZR3Y0UklEUXVJN0UwOXhZRlNKcGRuN2dubnd5UkpfM19McV9aYkFGU01BLXdzVnByYUZ2VHhxdmVBWDg?oc=5",
+   "time": "2026-10-20T20:37:29+08:00",
    "summary": ""
   },
   {
@@ -525,6 +546,13 @@
    "title": "Hourly PM2.5 readings elevated in three regions; PSI forecast to remain unhealthy on Wednesday",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3M3JTdDhtSlBSQkZ4NzVOVlg3YXZ5RXczUFZmUHpIeGMzS3QzNmVXbHdRcFJRRm94MTUyMjRROFRqcFJielNJS20tU1ZQNGJWeGlCRDQ3QmxZSW01NndkdXFJaXYwNThPVFl6ZUROTF9oMzl2LVFsRDFR?oc=5",
    "time": "2026-10-20T20:13:29+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Haze: Cloud seeding carried out in Johor on two areas",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUJ2VjlCdEhMTkRZQS1hdXpmNFhXMzZfNHl3Z1l2WkEwRnNWRXdEa2VYWWxFSER2OTlIUWl3bTh2S3Q1MzlSUWl6bEhYdGduRHlRXzlLbDNrWmxMdGJsWVVDSUowNFN3dEVueTUyNXFLTFNyM29vNnlOdWNvY0dOQWJ0Zk0xSkstQ2FTZWN6S2pzS0UtTkwyME0wRzVjN0M2eTJXQw?oc=5",
+   "time": "2026-10-20T20:09:00+08:00",
    "summary": ""
   },
   {
@@ -549,13 +577,6 @@
    "summary": ""
   },
   {
-   "source": "RFI",
-   "title": "Indonesian anger builds over wildfires, toxic haze",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRllKZDZNUHNfYjBsdk5QOFc5aENGNkFUV3B1ekhWU2xLRmN6dDh6cGFGOFd0eGJXaFlJU1VNYTl5cDBxU2NSWi1jNFJXaW9rdERTNXp1di13cFhGRjFBUHFHM0FXU0xrS2RNSklzTjVPbENrVzZRWkRFck91ZzZSdkpMLUVsbDhjbUhoQm9paHB6MmtBc1BOQVpuYm5nNWdh?oc=5",
-   "time": "2026-10-20T19:47:34+08:00",
-   "summary": ""
-  },
-  {
    "source": "National Environment Agency (NEA)",
    "title": "Haze Situation Update (20 October 2026)",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0QzaXQwdURGRVVPejRweWpsOEoxTEF3Qml4NFFUd3lRRjQ4alNaOXpuaTFidVF4UlRMeHJrUzJsZGlySE5DSEI4bkhLWFNPdUtDZEtSZ1A1ZVFKTXZOSWx5RDFYOXE1OVZ1Zk5iUlA4OVlBR0FzUFVpQUx6Z3YtaUV6SHk4LVlDd2N6SzA0N3Z5UQ?oc=5",
@@ -574,27 +595,6 @@
    "title": "Smog in Indonesia disrupted 2,604 domestic flights — Channel NewsAsia",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRFNYTHhzU3VCOWZ3ZnhhX3RJSGZQZ1ZFYmhSYWpjM2tsODNuUVd6S3EzRFRCa3hUZU9nZzQtNXloYkg2NXJ6YVlKUDVHNjdSMFJUekZUUXI0OG5FZ3lMUW15eWpnMjNqVlpqUzR5aHhINk1Tc1Z4Y0Ftc3RZaHN4V0Q2VFk4aWgzOFNuZ3NWRnZrQ3FS?oc=5",
    "time": "2026-10-20T18:30:03+08:00",
-   "summary": ""
-  },
-  {
-   "source": "www.tokenpost.com",
-   "title": "Singapore Agricultural Shares Fall After Haze Warning From Minister",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9idzZIYXFjdU9xdWZBTDktalRCMks2Zi03UTJCQkN2UklJUXV1RGthS25zVE1XZ1d2YmJCLTJTUmJoZXI4aksyRkpHWTRDN3Bac2tqZUx0Nkw?oc=5",
-   "time": "2026-10-20T18:22:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Australian",
-   "title": "‘No hiding place’: Singapore widens crackdown on companies over toxic Indonesian haze crisis",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZFhjUXBFSHdsbWZxX19qeGFlYnZPcEc0S3V3bFpCb2xvVHo3c05KRkUxSlZzbGdVNzUyQ1dWZTk1UFhhdnBBeG51UmRCb3dnX1pNRkp6NnJfRnlwYWp1eGVSRnlUMXZVbnhsMGlseFd4LXdESEJSNzhBcjVqU09kSXdoMzRmeWNhVlVRTEJkZGdZbERFM3VkUm1NZWd5TmNJR1JOYUxVM3NFUTkyT055WnVtWVJjSW44c091RHhVc1F5VUZkZ21hakloNGoxUlF1SWVZZk9oaDlZbWFiU0Y4clByWlAyYVE?oc=5",
-   "time": "2026-10-20T18:13:35+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "In Malaysia, viral air purifier test fans flames of anger over haze",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTFFyS19wNEtSUFl2bzU3V2UzUmhoSjBnR3lneTVFNTRVNF9Qd1hEd3RoX2NvVlFOamdPd2RIcE5CQnBYaGhzcTRmRUUyVUtKaW5QZWZxNUQ1STRTdzhRUi04T1hfSDBpMWJ6a3R6Qmlabl9BUEVmX2RDU214dUhaVHlPeE4ycmJGM0pJeHhEanJzUF9MdUNNd1RnV2Y0QTdZN1ZjREVqdkpCWkxVdHBBeWJjd3BiZnNfX3BtTVdhOXZwRnps0gHEAUFVX3lxTE9RNzdiQ2JScThXTWV3dTU3REgwNlZTOHVEQWZ6bEdfYjVmN0pZamdReGwyYkJoU1ZIWS16R1ZETEJEY3ZFNlhKLUl3eVluUlhWLXZrWkR3R2h6SEJfZkxUTHJ6dFhsSkJvZ0lMbGZDSnp5bWRoZ01KaTQ0SlFnQlRGOVRNQjM3NThTUEMtU3BobnR0WjJQMkQwSzgxczBDOEI4TmtNamRNLWw5aGR3RXhtbm1uamZKeWdsVUVzTWk0ZmVRWG0?oc=5",
-   "time": "2026-10-20T18:01:50+08:00",
    "summary": ""
   }
  ]
