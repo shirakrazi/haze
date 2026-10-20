@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-21T00:00:00+08:00",
+ "updated": "2026-10-21T01:00:00+08:00",
  "psi": {
-  "west": 140,
-  "east": 105,
+  "west": 138,
+  "east": 103,
   "central": 121,
-  "south": 98,
+  "south": 97,
   "north": 85
  },
  "pm25": {
-  "west": 75,
-  "east": 46,
-  "central": 70,
-  "south": 41,
+  "west": 76,
+  "east": 37,
+  "central": 62,
+  "south": 38,
   "north": 38
  },
  "hist": [
-  {
-   "t": "2026-10-18T12:00:00+08:00",
-   "psi": {
-    "west": 227,
-    "east": 167,
-    "central": 180,
-    "south": 167,
-    "north": 127
-   }
-  },
   {
    "t": "2026-10-18T13:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 98,
     "north": 85
    }
+  },
+  {
+   "t": "2026-10-21T01:00:00+08:00",
+   "psi": {
+    "west": 138,
+    "east": 103,
+    "central": 121,
+    "south": 97,
+    "north": 85
+   }
   }
  ],
- "newsUpdated": "2026-10-21T00:09:13+08:00",
+ "newsUpdated": "2026-10-21T01:47:04+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Independent Observer",
+   "title": "BMKG uses dry ice to disperse haze in Sumatra, Kalimantan",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODRJWlJ4bEdFNU16eE9VdXYzeU8yVkh2N1lSR0dmejRUUXFweFo2ZlBoX3EzNFd3SWJHQVdTRzctQ2VvckIxcDYyUURQZUpfSTZWdzJ0c2FhX0dLaXdEaE9kY1owaEVJWV9KQlJnc1E2SEtLUU9LS08tN2JHaVU4ZUZpem1fSXc?oc=5",
+   "time": "2026-10-21T01:38:32+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Insurance Business",
+   "title": "Singapore signals it will pursue banks and investors linked to Indonesia’s haze fires",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWjVYVTZJbnhEQ3Q4dkhaY2UzTk1tTnI1RDNrTkpxUmU4Y21oaGFlWHQ5VXY4T1YzUEROQmZEUGdEU3JZS29weXpkcXVtQmU0U3VqYl8tNXBCZ1ZsR0U1Wl94Y0hZdm1jSEQ0c1JrODVnVGhXYnBxRFB6LU9TQVlVR0Z2YU9uOHVEV29UTjRIRDd2YXVUZzdheGl1R0xUZEswRVBCeVdFbVFKQ3ZMY2tBemRTcWp6S3htaC1QU3FMLXE4UTFJbE9zQlBGbWtETGdjWU84ZmFtMmdNM01MWG1EMGc1UUVuZ29HUWRj?oc=5",
+   "time": "2026-10-21T00:58:56+08:00",
+   "summary": ""
   },
   {
    "source": "Salt&Light",
@@ -525,6 +539,13 @@
    "title": "Ex-Indonesian Minister Questions Singapore's Role In Haze Crisis, Divides Online Opinion",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOel81VVlMN2xSejNKY2pCYXIxZXFJZkpCbjh0SkY1STluTXdoTXREaWpHaDMxZlZGVGI4REhHQ0VDWjVDeEN2bzhzUEpLck8tN25sb2VwdXRiblFWdWF4NU9wbTVVXzE1cC1NUmdfYi1TWU1ZemtvdVdqVzRwNmNVYVJyc0RtbGRtUDdiOWFzYkZxY1poYmllTmxQeTJkVW1zY2I2T19PZ21KZklQWXo2NVZ4VQ?oc=5",
    "time": "2026-10-20T23:15:37+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Parliamentary Select Committee to submit memorandum on cross-border haze to Indonesian Embassy",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRk9Bb080V1ZMQ1NkdmpRWlE2b05SSTIxU2ZmWmdLVjNYMURNRnNHWjU3Ukc3ZkcyWHhRWC05ZFRpVWRCNVZKNEh2Z2lMZkM5bU5EbHRZR1pjNEoxZWNMMnZuMXRlOFdHWmU1U25BUVNJY1hYNXpHRVc3UUVBaFpPNGtFUTNSQzlLSkNRZHl1UDdtVHozSklocDcySUJjYTVUZDJOOVdIQnA3QVlzQ21TMm9UMTM1TFVINVlUZTFGS1B4WWZsWUhJT29ZZXBzZ3N2S1I3UFl6cUJxT0N6?oc=5",
+   "time": "2026-10-20T22:27:00+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "MPs to submit memo on haze to Indonesian embassy tomorrow",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQckRBTGR2OE5xRVBfREc5bGs3R1VXb0pZaHNfZE16R2JlQ2JHbjBETFk0dFlTWDZ2TTBEb1VJNTcwNXVDcmtqSWpNTkpxS3NWd0tZRnJoMnA3djFVd0dLa1dBZnYxTVRNd0lzN2hNcUcwSzc2a3I2Yy1UT3VaaXVmRUgzOHY1NzhTalVUVGo2NG1wZy0zMHdtSUo5UlVid1NBY2ZkSi1fSGFIMlRwZTBUS3BHR2s1eV95Wnc?oc=5",
    "time": "2026-10-20T20:24:44+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Hourly PM2.5 readings elevated in three regions; PSI forecast to remain unhealthy on Wednesday",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3M3JTdDhtSlBSQkZ4NzVOVlg3YXZ5RXczUFZmUHpIeGMzS3QzNmVXbHdRcFJRRm94MTUyMjRROFRqcFJielNJS20tU1ZQNGJWeGlCRDQ3QmxZSW01NndkdXFJaXYwNThPVFl6ZUROTF9oMzl2LVFsRDFR?oc=5",
-   "time": "2026-10-20T20:13:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze: Cloud seeding carried out in Johor on two areas",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUJ2VjlCdEhMTkRZQS1hdXpmNFhXMzZfNHl3Z1l2WkEwRnNWRXdEa2VYWWxFSER2OTlIUWl3bTh2S3Q1MzlSUWl6bEhYdGduRHlRXzlLbDNrWmxMdGJsWVVDSUowNFN3dEVueTUyNXFLTFNyM29vNnlOdWNvY0dOQWJ0Zk0xSkstQ2FTZWN6S2pzS0UtTkwyME0wRzVjN0M2eTJXQw?oc=5",
-   "time": "2026-10-20T20:09:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "7 Singapore-listed companies questioned over possible links to haze",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM1I3MXhmUmMweDVfX2pOc2pZcm9MSGFFcXVPTlZldVNjTlBPTndyMHUxWlVtZjBaTDVuMVdZajJEcV9taERvdE9kMGM0bmlGc1V6NEd6ZHJ6LWdNX0RzT0VzSHk3aWdLRWtFREJ3UE8xUDhmbThzb3FqRWVHODFDN09GcEhiNE4xQzBKUXJ2SFkyRjhvdWJlMXFyMXZ6endVQnZqb1BmWjhuSmUwOGJsQw?oc=5",
-   "time": "2026-10-20T20:06:32+08:00",
    "summary": ""
   }
  ]
