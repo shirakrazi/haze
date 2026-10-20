@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-20T07:00:00+08:00",
+ "updated": "2026-10-20T08:00:00+08:00",
  "psi": {
-  "west": 124,
-  "east": 98,
+  "west": 125,
+  "east": 99,
   "central": 114,
-  "south": 95,
+  "south": 96,
   "north": 89
  },
  "pm25": {
-  "west": 89,
-  "east": 53,
-  "central": 75,
-  "south": 56,
-  "north": 49
+  "west": 88,
+  "east": 56,
+  "central": 78,
+  "south": 59,
+  "north": 40
  },
  "hist": [
-  {
-   "t": "2026-10-17T20:00:00+08:00",
-   "psi": {
-    "west": 202,
-    "east": 178,
-    "central": 185,
-    "south": 161,
-    "north": 131
-   }
-  },
   {
    "t": "2026-10-17T21:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 95,
     "north": 89
    }
+  },
+  {
+   "t": "2026-10-20T08:00:00+08:00",
+   "psi": {
+    "west": 125,
+    "east": 99,
+    "central": 114,
+    "south": 96,
+    "north": 89
+   }
   }
  ],
- "newsUpdated": "2026-10-20T07:41:37+08:00",
+ "newsUpdated": "2026-10-20T08:08:21+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "tanahair.net",
+   "title": "Indonesia sanctions 32 companies over forest fires as haze, fuel shortages hit communities",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZm1TYWkwc0otQ3pIMjZ2R3FGUTlqNUNlcDdTMG1QMkpWbF9pbTRQZU5NWFc1NlhrdUs5TmJsNE9XWWI2OEoxVWpibG1yQnVtZWpDdXdEWDRPSXBaalNfYlQwSWM3bUk2bzhFZEFHRDc4YkY1My1NTy03d2M1ei1zYXJsUTRaWVBQUEZoQW4xY0RZWUQyNWJhaVBtNWd4T2Zna2lQdzlKRWxmNk10ZXN6Yg?oc=5",
+   "time": "2026-10-20T07:47:06+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -588,13 +595,6 @@
    "title": "President Prabowo faces mounting pressure to expose haze-causing corporations as Singapore issues precautionary notices",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcGlXZ200cnYyeE9nQmtVeXdDTjNITWg1Z2l0OGl1eXJvR3B6SS1NVzFUdjlrY3hDWUVnaHJHZm5Ia21hdXdPZ25UTnVzZnk4bTdPcHdTVTRKdWlfenVFaEFJUXNodlhLU1V2MjllakJVUzVCcFlMMllkTnhVOGp2V1pxYkZhd3VLRWlxNlplX3M5M1RSLU1aaTdWUWtYQnhrOGhRR001QTJlYkxvbDlINEtUZEdzZ202NW5BekRQcE10TVFsOWNuYjFpYVhYUXVhdEQ5TWVwTWdWc2lBLWFvX011UUNjM2wyWWFZR2JubEhubFFDLWZR?oc=5",
    "time": "2026-10-19T23:15:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Fortune",
-   "title": "'They may think that they can escape scrutiny': Singapore cracks down on Indonesian company smog",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FZk5DZEhOc29Wa3VvQjF1R21MWExJNGctSkQ1bW0yYWFwQ2NDamZVcmdtUFFBbEpNYWdOSWliS29heGFCd21GandqaTRNUThaMmlucXhEQlUyZDExdjlqc1RHREJEVE1FRl83ckNJR0dMei1sUkhyVy1ka3ZmS1U?oc=5",
-   "time": "2026-10-19T23:11:00+08:00",
    "summary": ""
   }
  ]
