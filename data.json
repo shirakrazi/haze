@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-21T02:00:00+08:00",
+ "updated": "2026-10-21T03:00:00+08:00",
  "psi": {
-  "west": 137,
-  "east": 101,
-  "central": 120,
-  "south": 95,
+  "west": 136,
+  "east": 99,
+  "central": 119,
+  "south": 94,
   "north": 85
  },
  "pm25": {
-  "west": 73,
-  "east": 29,
-  "central": 58,
-  "south": 36,
-  "north": 42
+  "west": 71,
+  "east": 40,
+  "central": 54,
+  "south": 34,
+  "north": 52
  },
  "hist": [
-  {
-   "t": "2026-10-18T15:00:00+08:00",
-   "psi": {
-    "west": 210,
-    "east": 154,
-    "central": 164,
-    "south": 153,
-    "north": 118
-   }
-  },
   {
    "t": "2026-10-18T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 95,
     "north": 85
    }
+  },
+  {
+   "t": "2026-10-21T03:00:00+08:00",
+   "psi": {
+    "west": 136,
+    "east": 99,
+    "central": 119,
+    "south": 94,
+    "north": 85
+   }
   }
  ],
- "newsUpdated": "2026-10-21T02:07:16+08:00",
+ "newsUpdated": "2026-10-21T03:07:35+08:00",
  "news": [
   {
    "source": "CNA",
@@ -556,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "Arab News",
+   "title": "Indonesian anger builds over wildfires, toxic haze",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXpESXRmMUxudWpRWmhkZGxkeExDUDJuaFN1RWpoaVV3cHExcWo0N2hMLWRmdl9VaF9KNEFQb2NRckt5U1Z2N0M3dXZkTS1mQWlCS2pFNzRURWo3QXJjbFJ4UVh3ZlcwQXF4Vnc0R3NBY2dkZDVwTkN2WGRBVjc0UFR3aGlyQnplemlRRzhQTVhaQQ?oc=5",
+   "time": "2026-10-20T22:18:01+08:00",
+   "summary": ""
+  },
+  {
    "source": "Tempo.co English",
    "title": "How Does Dry Ice Work to Clear Indonesia's Haze? BMKG Explains",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbkZReTBISkxBa2NDOXBsRmE0ckxPbFpXRlVIWkd0dEpaOTd1VWtzVWZsWVJvVXZ2U3N6ZnYxazZIMlRXQXRXeDdTNHVvZ0ZWSU00a1A0Wng5LVhRbVNmeEdfUkdWN3J6SXNZZ0RyeTc3WmxUVm9YdV9kZ1FWU3pxLU5sY0R1NmRBSDJfRXpMWno2UjJMZWotdw?oc=5",
@@ -567,13 +574,6 @@
    "title": "Cross-border haze lingers over Malaysia as clearing timeline remains uncertain",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaDJfdFZHbXVnWHZLN1k3RWZPS1B4eDltS2FxNUZhc09xSVpPNGptQjVYbFZMN1VMOW9FeHJUYnEtWGF6RFpqTVhHaWdwQXpDV044akFBYXRCcDlUZ0gyMmtuYTVVbW1aOXgydzhIMVBsMEJPc1liVGRkRlJWcGhjRHJuNHFHU2ZKeS1yNG1JMXE5TW9rb3ExUFRxaTJjTEZXT0EyWjJNRzNGWEw0dkNYUUlERENpRGRxNnhvZU1jVXBRSkVtUTk2MWNn?oc=5",
    "time": "2026-10-20T21:15:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Indonesian anger builds over wildfires, toxic haze",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZVo2WmRQNWxPQm0yNkZabUxoS0c4YzVRNFEyLU14SGFPRmZlNFY5NHl6ZGUtd0hiZ09FeC14UVhoYmpBc29maEpIblZnZmNEYWJRWHY4OHR4bTZpa2JPcTNZWXFWZmtMMmNseHlWdW5MZWlwaVhfZE4yT2hTeTVGTUg2MzluMW56S1VsRlowMmIxOTJIM0ZzREN0TlBGM3I1cVRRSlFVNG53eUwyajFVM3NB?oc=5",
-   "time": "2026-10-20T20:56:00+08:00",
    "summary": ""
   },
   {
