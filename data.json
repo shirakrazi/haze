@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-20T15:00:00+08:00",
+ "updated": "2026-10-20T16:00:00+08:00",
  "psi": {
-  "west": 138,
-  "east": 105,
+  "west": 139,
+  "east": 106,
   "central": 123,
   "south": 104,
   "north": 89
  },
  "pm25": {
-  "west": 106,
-  "east": 72,
-  "central": 83,
-  "south": 60,
-  "north": 37
+  "west": 92,
+  "east": 58,
+  "central": 75,
+  "south": 52,
+  "north": 42
  },
  "hist": [
-  {
-   "t": "2026-10-18T05:00:00+08:00",
-   "psi": {
-    "west": 225,
-    "east": 180,
-    "central": 185,
-    "south": 172,
-    "north": 129
-   }
-  },
   {
    "t": "2026-10-18T07:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 104,
     "north": 89
    }
+  },
+  {
+   "t": "2026-10-20T16:00:00+08:00",
+   "psi": {
+    "west": 139,
+    "east": 106,
+    "central": 123,
+    "south": 104,
+    "north": 89
+   }
   }
  ],
- "newsUpdated": "2026-10-20T15:33:16+08:00",
+ "newsUpdated": "2026-10-20T16:08:06+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "7 Singapore-listed companies questioned over possible links to haze",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM1I3MXhmUmMweDVfX2pOc2pZcm9MSGFFcXVPTlZldVNjTlBPTndyMHUxWlVtZjBaTDVuMVdZajJEcV9taERvdE9kMGM0bmlGc1V6NEd6ZHJ6LWdNX0RzT0VzSHk3aWdLRWtFREJ3UE8xUDhmbThzb3FqRWVHODFDN09GcEhiNE4xQzBKUXJ2SFkyRjhvdWJlMXFyMXZ6endVQnZqb1BmWjhuSmUwOGJsQw?oc=5",
+   "time": "2026-10-20T15:36:26+08:00",
+   "summary": ""
+  },
+  {
+   "source": "www.planb.sg",
+   "title": "Shanmugam Criticises Indonesian Official's 'Oxygen' Comments, Vows To Pursue Haze-Linked Firms",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa3Axd0djeFl3Ri1uNjl0TVhrT2tJVjh5V1NPdVpOUVQ3LVRsVkVWYXFpM1NndXV2LUxTV2RmWUw1Sm5yT29hcWFqREdta1pRamljNUZ3aWRxRmEteUN1UGwtWnNvUFlMQ2RyU1FpbjVGd08tNGw4QUxzamRVUmRHbGIwZmRVUlBpWHlNUmE4M28xV0ZLajJuZW1MY01SdndOWTA3b183cWtjYnZrQXNGUzZkNTJFUnhK?oc=5",
+   "time": "2026-10-20T15:35:34+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Calls to sue Indonesia over haze; Malaysia’s Pinduoduo craze: 7 Asia highlights",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORVh2enBvTnFsR2dEUy1mR01UYmdialFLS2pRZnJuRzg4ZDFkTFpuVkxYczkwN3dEVTBDMTRwSHVjNkRtSUk3ZU1BOXJKaXQyc25qdWljX2pDcV8ydzVxeDNLN3ZXcDlXc3oxWENYNXQ3Mmc3Snc3VXpKcWJVNEdWNEZTVFdZbEVCZG9HZWR1cjg2X2ticVRCMkNuWTdDb2c2NGp5eExOVDQ3RGR0MFJPNFY5bXZDVURHajdBZnByVUtmYnNZ?oc=5",
+   "time": "2026-10-20T15:30:09+08:00",
+   "summary": ""
   },
   {
    "source": "South China Morning Post",
@@ -542,6 +563,13 @@
    "summary": ""
   },
   {
+   "source": "Malay Mail",
+   "title": "Indonesian paper company hit with restrictions in Singapore after suppliers linked to haze fires",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQY2U4VG9CUFVmbzdlQjlnSkxXazVNVzMtc1dhN2dsTzFmYzZiSzc3ZERtSHNmU3dBc0w2TDB4SERnNU1BY3lOZEswUEpvYmFVckFiaHVUVWFCSmZfYkNBSktRa1lyVVBqZld1dHB3V2xJUnRQZ1JnWXE4TlQtYnAwVEtxVjdkWU15VHRkX2Y5a184SHdsUE9vYTV1WXBrM1Nnem1UT3FXcDlNNWxZNUN0Z3FyRGNVLUgwMThfOG8zaEQ1VHZmQUM3dnM4Q0pmTkNLYllxcVJlSDVjZGhTazg1ak9uS2ZuVU9MOU13SFNDenHSAfABQVVfeXFMUGNlOFRvQlBVZm83ZUI5Z0pMV2s1TVczLXNXYTdnbE8xZmM2Yks3N2REbUhzZlN3QXNMNkwweEhEZzVNQWN5TmRLMFBKb2JhVXJBYmh1VFVhQkpmX2JDQUpLUWtZclVQamZXdXRwd1dsSVJ0UGdSZ1lxOE5ULWJwMFRLcVY3ZFlNeVR0ZF9mOWtfOEh3bFBPb2E1dVlwazNTZ3ptVE9xV3A5TTVsWTVDdGdxckRjVS1IMDE4XzhvM2hENVR2ZkFDN3ZzOENKZk5DS2JZcXFSZUg1Y2RoU2s4NWpPbktmblVPTDlNd0hTQ3px?oc=5",
+   "time": "2026-10-20T14:18:32+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Manila Times",
    "title": "Allianz Insurance Singapore Offers Policyholders a Special Outpatient Benefit Amid Ongoing Haze Conditions",
    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNSkFnOElWa2MtcUE1c1dDcmJ1c3dxRmJHWG1ucEtwekhTMnJhdmU4MmJkbXpQU1U2NmM4aDBfTnJuUlNXXzBPZkVBbzFjVU1LRjdFNjNyVDBVNGwxRjA2Y0YydDRwY001dllQVFE1dFVxZU9ZQ01kekt0czhHTVRxMVhrTEx3OTJVQ3RYTi1TTDNJRkkwTXFLOVYxbDJwMVRCN3piZVFXb2g5MW9KRFJVOHNnc09uWnp5OUFhQW9HdXhVVG1ZT1FIcjhLX2ZaaEpxdjVSRGEyeHZpTjUxTjRIRVFjOUdHWU1QUEEzQmdWc1ctSHBoaVRja0Y5RTdhZzNsc0hFNDJJX1lNUTh4RkdjY1FtUm41NGkyTEHSAZ8CQVVfeXFMTnRHSkZqdWc5RW1Cay1aT0VvVFZTRWNfQVRuSXJjb0dtd3J4SjN4VVdhUGdNZmxZcmhxNWJDSDAtc2dHZzhsSXUyUjlhWjB2cHBMcGhXeWtyM2xLbW9OZFpCNWNOdWFaYVNEZWhfeHc0ZUU3X2NkUmpzaEJubG9zSFRQRlM2SFpKZU1jMmROaU5DM0tzYll1cmh6eWVZYnQyc203NHpjRFk0a2I0VjJzcjhLRThPcmlLOEJJRGRRcS1YT0phTUdvbVlxMnRNeUVHLWpNUFFnVTRKS1BVRHk5WnhGNm9uNk1QSGVNdkg3V01Fc3NianJETldvZE5TcG9MZzc0b05SMHZrMlFfUEhVRFFHQnRxYkdyVUJ0LWliTE0?oc=5",
@@ -567,34 +595,6 @@
    "title": "Making light of the haze: 10 memes to get Singaporeans laughing through the smog",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTEFQVWNzQVpLV0NhNnpSZ0ZVdlIxN3hVazkxR2RGV09WU21xNTZiQjJzYVM2QUI2SUcxOUVQbklnYXBHbHNlRDE0TF9jSGZKM1VjVWJhT0VQTWktakFvWHpyUWVNcGV2ZFlkQWY0TWdhUXhfRXEyUmZXOW0ta3Nla2xLRnpxWG5wRE5ETUx5dEJLSVBWOFJMRThpQm83ODdmaG1UZlFvWkk1dWRYRFNfb2UxQQ?oc=5",
    "time": "2026-10-20T13:25:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Hourly PM2.5 elevated in three regions; 24-hour PSI unhealthy in west, central, east and south",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3M3JTdDhtSlBSQkZ4NzVOVlg3YXZ5RXczUFZmUHpIeGMzS3QzNmVXbHdRcFJRRm94MTUyMjRROFRqcFJielNJS20tU1ZQNGJWeGlCRDQ3QmxZSW01NndkdXFJaXYwNThPVFl6ZUROTF9oMzl2LVFsRDFR?oc=5",
-   "time": "2026-10-20T13:22:24+08:00",
-   "summary": ""
-  },
-  {
-   "source": "UA.NEWS",
-   "title": "Agricultural company shares in Singapore fall after authorities' haze warning — CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ3dqWU5pbjJFYUNpV0lkNmNMMGt1NW1adkVSMVpvS0VrSTdmbUNaWVVlMWpUcVk1cWxBeGRvQlIyTnB3SzdKa201aGF1b0ZuZzNuR3B3eDFvUURieVZrSzlEbl9PZFJTVEtrdlFtTkpCTExYZTZXcm01bzVMQS1IYWVHUkhVamRNVHVKTjM4TUZ4ZmRZQldNOGY4dkljRnB0TXdLa0lFNHg?oc=5",
-   "time": "2026-10-20T12:58:27+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNBC",
-   "title": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1pwT0pkRHVzdnYwN09nUTh4V0hUaEFrVERlTWlPeGJrU2JTYWs5OW5ScDlzZzlfMWFna0ZtS1BEVF9UcXBsc21NU2JmQ3ZMWm5aN01hZkFNeUREQlpBV2kxcXlLUkVxeGZ2UXZidE85YVNiMXJRRWI2TGJHOTJYY3lmUWVPaG_SAYwBQVVfeXFMT2xzSVlhQmxaSXFqVlJLNVdNXzdrX2s0WWpCYk85dDVVMDdPRXREMUxJMTU5ekVXeThkeV9Ub2hiVk5xQVpnMDVWQlJDUFdOMU9RWnp0Q2w2QVZpckQxekJwSUVsdHBhYjBDYU84a1ZZV2syUjliWGtqQWRIR2VRZ3RBM3BNUVJCeFFScXI?oc=5",
-   "time": "2026-10-20T12:36:55+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze: SD Guthrie denies claims of fires on its Indonesian estates",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDFFQU5ORDhSR1ZmMWhiald3UTVDQ1NOUmtjdXhRRVBfcExxcVpFYmZ2QkFxeVo1dTlONEZKXy1EcUw1eHlMR184Zm1tWUtkUmwxTkFETTFYZXo3NFlVWE0xMS1EcWV0SlhKclRTSzA4VmJ3M1BmMDE4anVUTTdISGoyS3c5SmJLendsdEVaYWpmWTg3eWFVeUFpQnlwRnViS1ZEMHB2c19NcjVrUE95M0tORFY?oc=5",
-   "time": "2026-10-20T12:32:00+08:00",
    "summary": ""
   }
  ]
