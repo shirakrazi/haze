@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-21T05:00:00+08:00",
+ "updated": "2026-10-21T06:00:00+08:00",
  "psi": {
-  "west": 134,
-  "east": 98,
+  "west": 133,
+  "east": 97,
   "central": 117,
-  "south": 93,
-  "north": 83
+  "south": 92,
+  "north": 82
  },
  "pm25": {
   "west": 81,
-  "east": 53,
-  "central": 57,
-  "south": 51,
-  "north": 40
+  "east": 56,
+  "central": 55,
+  "south": 39,
+  "north": 34
  },
  "hist": [
-  {
-   "t": "2026-10-18T18:00:00+08:00",
-   "psi": {
-    "west": 192,
-    "east": 142,
-    "central": 147,
-    "south": 137,
-    "north": 109
-   }
-  },
   {
    "t": "2026-10-18T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 93,
     "north": 83
    }
+  },
+  {
+   "t": "2026-10-21T06:00:00+08:00",
+   "psi": {
+    "west": 133,
+    "east": 97,
+    "central": 117,
+    "south": 92,
+    "north": 82
+   }
   }
  ],
- "newsUpdated": "2026-10-21T05:07:43+08:00",
+ "newsUpdated": "2026-10-21T06:08:18+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Is your old air purifier still effective, and how much does it cost to run one?",
+   "url": "https://www.channelnewsasia.com/singapore/air-purifier-haze-costs-hepa-filter-6475021",
+   "time": "2026-10-21T06:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Haze clouds outlook",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUVVuclRPdThIUExNaEpkZ21mUGNIc2liejRHRzdvenM3TUVpLVUxNlRtT1lXcTc0X3FuRU1hUVBIVTVxMUNpWVBrdFZVelhVMWV4NzlVZG5rWXVmT2lmWjJnTVhubVpDYW1zVnJIaUFCUDhSNUJub09FdTJELTQ2VUNpY2RrZVE?oc=5",
+   "time": "2026-10-21T05:56:15+08:00",
+   "summary": ""
+  },
+  {
+   "source": "www.planb.sg",
+   "title": "Ex-Indonesian Minister Questions Singapore's Role In Haze Crisis, Divides Online Opinion",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOel81VVlMN2xSejNKY2pCYXIxZXFJZkpCbjh0SkY1STluTXdoTXREaWpHaDMxZlZGVGI4REhHQ0VDWjVDeEN2bzhzUEpLck8tN25sb2VwdXRiblFWdWF4NU9wbTVVXzE1cC1NUmdfYi1TWU1ZemtvdVdqVzRwNmNVYVJyc0RtbGRtUDdiOWFzYkZxY1poYmllTmxQeTJkVW1zY2I2T19PZ21KZklQWXo2NVZ4VQ?oc=5",
+   "time": "2026-10-21T05:15:37+08:00",
+   "summary": ""
   },
   {
    "source": "Independent Observer",
@@ -542,13 +563,6 @@
    "summary": ""
   },
   {
-   "source": "www.planb.sg",
-   "title": "Ex-Indonesian Minister Questions Singapore's Role In Haze Crisis, Divides Online Opinion",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOel81VVlMN2xSejNKY2pCYXIxZXFJZkpCbjh0SkY1STluTXdoTXREaWpHaDMxZlZGVGI4REhHQ0VDWjVDeEN2bzhzUEpLck8tN25sb2VwdXRiblFWdWF4NU9wbTVVXzE1cC1NUmdfYi1TWU1ZemtvdVdqVzRwNmNVYVJyc0RtbGRtUDdiOWFzYkZxY1poYmllTmxQeTJkVW1zY2I2T19PZ21KZklQWXo2NVZ4VQ?oc=5",
-   "time": "2026-10-20T23:15:37+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Star",
    "title": "Parliamentary Select Committee to submit memorandum on cross-border haze to Indonesian Embassy",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRk9Bb080V1ZMQ1NkdmpRWlE2b05SSTIxU2ZmWmdLVjNYMURNRnNHWjU3Ukc3ZkcyWHhRWC05ZFRpVWRCNVZKNEh2Z2lMZkM5bU5EbHRZR1pjNEoxZWNMMnZuMXRlOFdHWmU1U25BUVNJY1hYNXpHRVc3UUVBaFpPNGtFUTNSQzlLSkNRZHl1UDdtVHozSklocDcySUJjYTVUZDJOOVdIQnA3QVlzQ21TMm9UMTM1TFVINVlUZTFGS1B4WWZsWUhJT29ZZXBzZ3N2S1I3UFl6cUJxT0N6?oc=5",
@@ -581,20 +595,6 @@
    "title": "Haze threat looms over Singapore again after brief three-day respite",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdFlkeHplVEVDVnFDQ3Zjb3BENjAwaFZHLVRseGtwemxvNnNMNE5takhMUHJtUXhKVjhQSlM2VjRWTGNsVGVXNUZ5Wjk1SnBsYmFfWWF3Sk1ZSXNIOVpCOXhoMHpzandRcTBrTlVlQjNGR05hRG5kMFhSLU9waUg3X1pDYjZncC1DY283M2JTQ3NBUTBKTlRnUnRlYV9tQUFKQjNLWmJ2TWhfUUpsTEpmMDVqck92ME5fd1BzWWVLQjFWQURWeFHSAcsBQVVfeXFMTTZaX2xhbTJYN09DQzBQZy0zdko1cGFLTDJCaUt6N1pQekdjVU55TklyZzduekJYMkZfNWlvaVlaeE15OV9OcDBHNWV6RFUzeEZtUHpuNXhkbkZhUFNpRTU1djJud3BBUXN5MXZmQVBvTC1mdXNjWUVMWDA3STlEQU5aZTdBWE10V2xqR1FSWmFSSkFKSGtJUzM0ZjYtMTdoMmtQX0VMaXRMSE9YdktOX1VyUUlrTXZzMlFUWXNuZG9BNUJSb3hjV3NxXzg?oc=5",
    "time": "2026-10-20T20:54:40+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Haze threat looms over Singapore again after brief 3-day respite",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY2xfMU1NYThoUzg2V2YySklkZ1pmdVBSZEt5T1pKajgwNWU1R0NDY3Y2N25vRlNWa1U5YmQ5MjRLSmZBQnI0bFBfU0pmWE1MNDFmcXBKeWtZR3Y0UklEUXVJN0UwOXhZRlNKcGRuN2dubnd5UkpfM19McV9aYkFGU01BLXdzVnByYUZ2VHhxdmVBWDg?oc=5",
-   "time": "2026-10-20T20:37:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Haze: Schools remain open in six states, KL and Putrajaya tomorrow, outdoor activities halted",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY0hXNDM0VXZxTFdSalRjaFRpYzBxQ1BURHluMnVNYk9sUU5OZUp1Q19hLXNpUFRHTmxxU1hrTVctM2psSEFJOEZNa1B1bWFaczZWWFZFM25sSl96c3NfZWF2WFF1SGE0RE1uU09OX2dCRVZ0MHZ0VnhzTmZISHZJeE41eFVobm9mbm5aWjVBRmVOVnVpd0l6bnR2OW1GbmdYTmpoZFdQNkRUcDdEQUtRRl9FYWZ2eVNEOE9XR2JxWFJ4TU1tUVlJUlY5eWZNLUpkZ2ttREdpaXlUTkRUMjM1amtB0gHnAUFVX3lxTFBla0ZnS21XVDVwN2lJOHU1N2g1VkFrT1FuRnBvNnRGeE95Y2JSVzFYNVdFQzVpQS1IR3N3NWJWTXcxRW53aXZlUVVjcjhfblZ0dGlFbEtPWG42c2Foa05pa2RCR1dwbERBZEF1aUJIcGhmM2cxSGdPOGlEbnFlcXZNNDh2NndHRGVNQTJXbGdOTjVOQUtTNnZDY0oxYmtCYnlVWnRtN0o4YmZpUm1NaGRrY2xfUk81TXpkUlg1aFgzXzlNY2I4cng1V2lKUEhrMGR2TWdDVE5lb09vaU5fRk5fVVJGZlN4NA?oc=5",
-   "time": "2026-10-20T20:34:40+08:00",
    "summary": ""
   }
  ]
