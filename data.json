@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-20T20:00:00+08:00",
+ "updated": "2026-10-20T21:00:00+08:00",
  "psi": {
-  "west": 141,
+  "west": 142,
   "east": 106,
   "central": 122,
-  "south": 103,
-  "north": 85
+  "south": 102,
+  "north": 86
  },
  "pm25": {
-  "west": 93,
-  "east": 54,
-  "central": 80,
-  "south": 46,
-  "north": 32
+  "west": 94,
+  "east": 50,
+  "central": 74,
+  "south": 39,
+  "north": 39
  },
  "hist": [
-  {
-   "t": "2026-10-18T09:00:00+08:00",
-   "psi": {
-    "west": 229,
-    "east": 178,
-    "central": 187,
-    "south": 173,
-    "north": 130
-   }
-  },
   {
    "t": "2026-10-18T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 103,
     "north": 85
    }
+  },
+  {
+   "t": "2026-10-20T21:00:00+08:00",
+   "psi": {
+    "west": 142,
+    "east": 106,
+    "central": 122,
+    "south": 102,
+    "north": 86
+   }
   }
  ],
- "newsUpdated": "2026-10-20T20:55:06+08:00",
+ "newsUpdated": "2026-10-20T21:09:43+08:00",
  "news": [
   {
    "source": "CNA",
@@ -556,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "National Environment Agency (NEA)",
+   "title": "Haze Situation Update (20 October 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0QzaXQwdURGRVVPejRweWpsOEoxTEF3Qml4NFFUd3lRRjQ4alNaOXpuaTFidVF4UlRMeHJrUzJsZGlySE5DSEI4bkhLWFNPdUtDZEtSZ1A1ZVFKTXZOSWx5RDFYOXE1OVZ1Zk5iUlA4OVlBR0FzUFVpQUx6Z3YtaUV6SHk4LVlDd2N6SzA0N3Z5UQ?oc=5",
+   "time": "2026-10-20T19:29:59+08:00",
+   "summary": ""
+  },
+  {
    "source": "Whiteboard Journal",
    "title": "As we Indonesians are sorry for the haze, what do Singaporeans, Malaysians, Thais, and Filipinos have to say about it?",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcUxCRDY3anJDMDNteldKb1ZYTHdTeGpqcEcxUjdiSUxKZ1J2SXJEUFI3MWJxUHUwejlMR0JvUzZha3QyNW5EUDhHQmJ3N3lVUmphYzFXN0tSRnl2aW9XYjZlYXJzdGdIWkIyd0dURnYtX1VPOThiNFVhci1ibHNHdmZrTU13LVAtQzY1X1BJZTg1NEF3bm91dnBIVlUzU3BaTEhid3d2TlpBbzVVbW9NakRmVERXT0FGbENrdUx2N0RidWwtTmlnS3VKelk1NWpia3VTYmhMZElFWEdJUDNGR1Q5aw?oc=5",
@@ -588,13 +595,6 @@
    "title": "In Malaysia, viral air purifier test fans flames of anger over haze",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTFFyS19wNEtSUFl2bzU3V2UzUmhoSjBnR3lneTVFNTRVNF9Qd1hEd3RoX2NvVlFOamdPd2RIcE5CQnBYaGhzcTRmRUUyVUtKaW5QZWZxNUQ1STRTdzhRUi04T1hfSDBpMWJ6a3R6Qmlabl9BUEVmX2RDU214dUhaVHlPeE4ycmJGM0pJeHhEanJzUF9MdUNNd1RnV2Y0QTdZN1ZjREVqdkpCWkxVdHBBeWJjd3BiZnNfX3BtTVdhOXZwRnps0gHEAUFVX3lxTE9RNzdiQ2JScThXTWV3dTU3REgwNlZTOHVEQWZ6bEdfYjVmN0pZamdReGwyYkJoU1ZIWS16R1ZETEJEY3ZFNlhKLUl3eVluUlhWLXZrWkR3R2h6SEJfZkxUTHJ6dFhsSkJvZ0lMbGZDSnp5bWRoZ01KaTQ0SlFnQlRGOVRNQjM3NThTUEMtU3BobnR0WjJQMkQwSzgxczBDOEI4TmtNamRNLWw5aGR3RXhtbm1uamZKeWdsVUVzTWk0ZmVRWG0?oc=5",
    "time": "2026-10-20T18:01:50+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Consumers can put pressure on haze-linked firms by buying green-labelled products: Experts",
-   "url": "https://www.straitstimes.com/singapore/environment/consumers-can-put-pressure-on-haze-linked-firms-by-buying-green-labelled-products-experts",
-   "time": "2026-10-20T17:55:00+08:00",
    "summary": ""
   }
  ]
