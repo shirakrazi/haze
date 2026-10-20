@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-20T10:00:00+08:00",
+ "updated": "2026-10-20T11:00:00+08:00",
  "psi": {
-  "west": 126,
-  "east": 99,
-  "central": 115,
-  "south": 98,
+  "west": 128,
+  "east": 101,
+  "central": 117,
+  "south": 100,
   "north": 89
  },
  "pm25": {
-  "west": 96,
-  "east": 58,
-  "central": 72,
-  "south": 61,
-  "north": 49
+  "west": 95,
+  "east": 54,
+  "central": 74,
+  "south": 68,
+  "north": 48
  },
  "hist": [
-  {
-   "t": "2026-10-17T23:00:00+08:00",
-   "psi": {
-    "west": 212,
-    "east": 182,
-    "central": 185,
-    "south": 166,
-    "north": 129
-   }
-  },
   {
    "t": "2026-10-18T00:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 98,
     "north": 89
    }
+  },
+  {
+   "t": "2026-10-20T11:00:00+08:00",
+   "psi": {
+    "west": 128,
+    "east": 101,
+    "central": 117,
+    "south": 100,
+    "north": 89
+   }
   }
  ],
- "newsUpdated": "2026-10-20T10:06:02+08:00",
+ "newsUpdated": "2026-10-20T11:07:03+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Singapore Business Review",
+   "title": "SEC restricts Asia Pulp & Paper's green label amidst haze",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNk9ILTlyRWY3MFNKSEdQQWtvSnNuN2NpNWhpSF9nMWpQSlMyWkJMXy1kWmt2TFUtZnZvdnFyZkRxemcyQllmRHlQcWxZWFk1MC1LRWdaellPc29Zdm15WG5QQmRUbmFfVm8xVmRweFdtam45dzFsNE5VMDdWVFNMZkFjaTE?oc=5",
+   "time": "2026-10-20T10:52:52+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Hourly PM2.5 elevated in four regions across Singapore; PSI unhealthy in western and central regions",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3M3JTdDhtSlBSQkZ4NzVOVlg3YXZ5RXczUFZmUHpIeGMzS3QzNmVXbHdRcFJRRm94MTUyMjRROFRqcFJielNJS20tU1ZQNGJWeGlCRDQ3QmxZSW01NndkdXFJaXYwNThPVFl6ZUROTF9oMzl2LVFsRDFR?oc=5",
+   "time": "2026-10-20T10:35:59+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Lim Guan Eng urges govt to consider RM1,000 tax rebate for Malaysians buying air purifiers amid haze crisis",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUWJIMG9ObDRwa1pKQ1RHSEFXTU9RVlR4dUZmYkZsV1pNeV85SmVENkhVUEtnZXE0R1lZRm9tdk1JUHVhRDdtVGJwWHZ4YWJFYUUtTFRyekdXSE5VbEQ5RDBBZC1PdGhHLV92LXFsUWFaR3ZucXNJTWNEdDJZczNmYU01Q1R4M0dpaVFHV0s3bzBnRFplRDZNV3ZNd0t3OTZVdHp3TmwyTzBqLXd4WkNjLXg2QzNWd1c2cDNHMzhRWXBLOWp4VUpCMzJZbE1tWnhmbnJWXzFEQk9vVjhpeDBWVzJCOXV3RTVFclZ1QW9lWjF6MXNvZnBJ0gH8AUFVX3lxTE5lNTNvZmd4Mi1tb1pHYXlsUExxSjlld21jMW5icnZ5dWpWUURxeEtXUmJUMWZvcmJDNlZkaFVjTUtpNjlVZEYzSnE4TnZZSnhiX3g4dEpPa0RyNDB5RERpXzhFVEl3VmdJcS1LeWpVZ0FJZUtUOVFYLXFyTW1kWWV3MTNBWGVhWkEyLXc5Rk91WVYtQnRTczlZTU9EOG9UMFdKVlE3NC1iOGlnbmJ0dzlfZWZVVVFEaVI3bjRpcThiMzF1amNXcW5pRUp5X1FYZXR0UE1iU2FMODBjeV9DZ2tRWUliejJWOGpkdzc2WjFFLVFNTUNJWU85ejR4Vg?oc=5",
+   "time": "2026-10-20T10:06:31+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne.com",
@@ -535,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "Malay Mail",
+   "title": "Indonesia hunts foreign links in 98 corporate fire cases as haze chokes region",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkJ2V1RKVVJtbS1JREVPZjFSV1VqV0hNTkJOUEtRZ1pZaVl0ZE9BbGNwdHEwQmJKMGpuXzg0LTRScWxnZElSaGJ4NDJiY1BEM0ViblJMWWJjNnZPWEtuQWhQUzhFb3gyNjNlMEw4Y3pqdlZ2UUZfTDJ1NnZjM0ZPcXY3WFEzakVkOGNLX3lHQmVvRkZWcjFSQ0Jab3MtN0g3aE5mc0hRRzJXTEVSdXYxbTJUcjZqZTVjMDhtWE1hcjJQcTNpWm9qOEtXX2p4UdIB0wFBVV95cUxQakk4QW81SWE4OEVlYW5TV2wtdUFfcFlGM1IxeGRCVm9zM1ZoellqZ0NEYUNIbmtQMGRiVGhMQkxkTnVlSHBzR2Nkd1ZGNjVwSnpKaTRFempHT2FkVVNsM2hqeTEwWHpuR2Y3cFVDYmM1N2JsTkZVam5jV2tEY1lXYURZWG5Gb0ZOUUlZLWtadEszaUhKak1ncnktTmNBRU10aG9YQUF1VjhZTmxZS1JObXRpWTVVVHRsQnRSdjhnUnNuSlpzMzg0Z253Z0g1ek83ZnRF?oc=5",
+   "time": "2026-10-20T09:13:53+08:00",
+   "summary": ""
+  },
+  {
    "source": "Singapore Business Review",
    "title": "Singapore forces 3 more Indonesian firms to fight haze fires",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2MxSE5Wb2V2TjJsYlJjZGNlSjdzZ3huQWZkcTQxOUtENUszVWlPTkdCemtFYU05VzNDNUlOSXZsNXVjNjhUeWpyUEtSUERXZTVPbmtEdXR3Q0pjUFkyT2dhVjAxVWh5TUNPUVI4YnRVSlZPMmNMcDhZN01VVEdoNTQxZUZORjRw?oc=5",
@@ -542,17 +570,17 @@
    "summary": ""
   },
   {
-   "source": "Malay Mail",
-   "title": "Indonesia hunts foreign links in 98 corporate fire cases as haze chokes region",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkJ2V1RKVVJtbS1JREVPZjFSV1VqV0hNTkJOUEtRZ1pZaVl0ZE9BbGNwdHEwQmJKMGpuXzg0LTRScWxnZElSaGJ4NDJiY1BEM0ViblJMWWJjNnZPWEtuQWhQUzhFb3gyNjNlMEw4Y3pqdlZ2UUZfTDJ1NnZjM0ZPcXY3WFEzakVkOGNLX3lHQmVvRkZWcjFSQ0Jab3MtN0g3aE5mc0hRRzJXTEVSdXYxbTJUcjZqZTVjMDhtWE1hcjJQcTNpWm9qOEtXX2p4UdIB0wFBVV95cUxQakk4QW81SWE4OEVlYW5TV2wtdUFfcFlGM1IxeGRCVm9zM1ZoellqZ0NEYUNIbmtQMGRiVGhMQkxkTnVlSHBzR2Nkd1ZGNjVwSnpKaTRFempHT2FkVVNsM2hqeTEwWHpuR2Y3cFVDYmM1N2JsTkZVam5jV2tEY1lXYURZWG5Gb0ZOUUlZLWtadEszaUhKak1ncnktTmNBRU10aG9YQUF1VjhZTmxZS1JObXRpWTVVVHRsQnRSdjhnUnNuSlpzMzg0Z253Z0g1ek83ZnRF?oc=5",
-   "time": "2026-10-20T09:01:47+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Star",
    "title": "Haze: 29 areas with unhealthy API readings as of 8am",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXZrSUxGaDQzM3FuOHpDNEpSNXRIWHAyUDBnYVc2bGI0WkhTcVR2eGcxd3BocVNfYnJNM2xkRWpSdVNIQ3l2cm95bEFfR1VobDdQelF2Z3lNT09ZOTdTMmxnRzBJOUhyTEtlemhKV2FnRThfR1BiTGpBc3JCWnRZdVBLNElGMk1hYXpTeEtBUEQxbS02dkxnWWZXR0tMa2dzNVQ0?oc=5",
    "time": "2026-10-20T09:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Haze may ease by month-end as monsoon rains arrive - Academic",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEQwYXUyQWxtMTQxc2FtUkJrM0RCZW5SNW1UcG1vT0VOVThRenRNVFJMTGREN0pTVmh1UnM5b1JpLXJRY0pvWVlxV0Zlckx2VHp0STVpRUtrUnJtdXV3Ty10bkFGOFN5THNodHd2NVpVOEY2SVR2NlB5NDlSZTU1T29jOWpGMmFfOWVHMTVmazZqQ3BZa0h5ZmVYMGtaYjVWSmx1Vm9lY3c5WXFa0gGsAUFVX3lxTE5MRDBhdTJBbG0xNDFzYW1SQmszREJlblI1bVRwbW9PRU5VOFF6dE1UUkxMZEQ3SlNWaHVSczlvUmktclFjSm9ZWXFXRmVyTHZUenRJNWlFS2tScm11dXdPLXRuQUY4U3lMc2h0d3Y1WlU4RjZJVHY2UHk0OVJlNTVPb2M5akYyYV85ZUcxNWZrNmpDcFlrSHlmZVgwa1piNVZKbHVWb2VjdzlZcVo?oc=5",
+   "time": "2026-10-20T08:45:02+08:00",
    "summary": ""
   },
   {
@@ -567,34 +595,6 @@
    "title": "Indonesia sanctions 32 companies over forest fires as haze, fuel shortages hit communities",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZm1TYWkwc0otQ3pIMjZ2R3FGUTlqNUNlcDdTMG1QMkpWbF9pbTRQZU5NWFc1NlhrdUs5TmJsNE9XWWI2OEoxVWpibG1yQnVtZWpDdXdEWDRPSXBaalNfYlQwSWM3bUk2bzhFZEFHRDc4YkY1My1NTy03d2M1ei1zYXJsUTRaWVBQUEZoQW4xY0RZWUQyNWJhaVBtNWd4T2Zna2lQdzlKRWxmNk10ZXN6Yg?oc=5",
    "time": "2026-10-20T07:47:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "PM2.5 elevated in three regions across Singapore; PSI unhealthy in two",
-   "url": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-20-6473696",
-   "time": "2026-10-20T07:22:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "PM2.5 elevated in four regions across Singapore; PSI unhealthy in two",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3M3JTdDhtSlBSQkZ4NzVOVlg3YXZ5RXczUFZmUHpIeGMzS3QzNmVXbHdRcFJRRm94MTUyMjRROFRqcFJielNJS20tU1ZQNGJWeGlCRDQ3QmxZSW01NndkdXFJaXYwNThPVFl6ZUROTF9oMzl2LVFsRDFR?oc=5",
-   "time": "2026-10-20T07:22:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Singaporeans have good reason to be angry about the haze",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM1hobFlOaVhKd1h2SDFvVGFGLWNwUk9va0hzRm1jb2lwcnpLRGN5b2NTX2lnemZteXhHZzQ3WEJyekZqanBJUTRFQXZQWENlaHJvY0twUEtWdFpVSkI3UTBicjFFV2lDWHNtWHhLdEVmYmlYeVdaM3NuSG9ETEJuaHdhOWJObGlnZXVLb1hmSU0yYVZYOUZZTA?oc=5",
-   "time": "2026-10-20T07:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Daily Democrat",
-   "title": "Singapore expands crackdown on Indonesian companies linked to haze",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBQ25odmR5QVg5NmVVWlNQU05XV3Qyd3F0RWFoYnpFY1kxSTFrOENFQXNaLVV6ZUFzMUR2aHM5S2FSZy1Ma1ZTdko5SXRUQmlPLTdzclU1aXhYWVV1SUYxWmdDRjNxcEtiLV9ybFNqY1lKNlIz?oc=5",
-   "time": "2026-10-20T06:48:56+08:00",
    "summary": ""
   }
  ]
