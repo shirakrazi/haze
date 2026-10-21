@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-21T19:00:00+08:00",
+ "updated": "2026-10-21T21:00:00+08:00",
  "psi": {
-  "west": 123,
-  "east": 92,
-  "central": 108,
-  "south": 87,
+  "west": 124,
+  "east": 91,
+  "central": 107,
+  "south": 88,
   "north": 80
  },
  "pm25": {
-  "west": 92,
-  "east": 49,
-  "central": 61,
-  "south": 51,
-  "north": 34
+  "west": 91,
+  "east": 44,
+  "central": 59,
+  "south": 53,
+  "north": 27
  },
  "hist": [
-  {
-   "t": "2026-10-19T11:00:00+08:00",
-   "psi": {
-    "west": 126,
-    "east": 98,
-    "central": 105,
-    "south": 93,
-    "north": 86
-   }
-  },
   {
    "t": "2026-10-19T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 87,
     "north": 80
    }
+  },
+  {
+   "t": "2026-10-21T21:00:00+08:00",
+   "psi": {
+    "west": 124,
+    "east": 91,
+    "central": 107,
+    "south": 88,
+    "north": 80
+   }
   }
  ],
- "newsUpdated": "2026-10-21T19:12:54+08:00",
+ "newsUpdated": "2026-10-21T21:04:09+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,6 +507,48 @@
    "pinned": true
   },
   {
+   "source": "The Straits Times",
+   "title": "Companies involved in illegal activities that cause haze may face financial ramifications: Chee Hong Tat",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVTUzNUFfNnR1SjJ5bmtaWmVlUDQ0X1ZUc1NaTnk1Vy1CVUp3S2JTbElHWlhvcXg3Y0txdEVWOTk3VllMclh1UkNYQVdSMU16aXlVaXpIOEpFTGJLd2R1RGJBamNzUkVLVWJfQmtJazEyMEdKa09GaTBPMWxySjdIUkR1dkpyd1FvZVMtcjQ4cTJnNWNLSzRUaGdlbkcxN1hCSEFUTHN5ZUdHWkxtczk5WDE3R2x0d3MzM2ZvclowR280cVJMYzEtSDNQdDI4OHFEaW00azRBNmctYXdGY3QyODNia0JRejhpeS1tWDRHYzlzT1FXY21aek93?oc=5",
+   "time": "2026-10-21T21:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "bernama",
+   "title": "MP Sends Message To Prabowo On Haze In Javanese",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iYl9ZNS1IOVhEMVItSmg2aVZOQXlISVRtMzh1ZjhENWk5UDdvNW82Y0tKUmdxR2hDUmpOdVVvdDhQVkZZejFNODhwRVFLU0RGMW5ab1hhX0FXRkRfV1VDUmpHalA?oc=5",
+   "time": "2026-10-21T20:43:12+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Hourly PM2.5 readings elevated in two regions; PSI forecast to remain unhealthy on Thursday",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNGRhQzJCVFhFejA2RV91MW9WMFl4RWlUN0lMc1RYQkhLNmM3ZkJjbXZRdVg0Y2V4VFY0d0lfS2F1RFl5cEx3ZF8zeWFyeUNtV2FDYnNXdUg3RFBZNjRNUzlGa0E1TjV6dVpjeGFab0gzRmhxVFZBTlpndFdYdXZfeWgtY2otd2VTb2lfVFJLNEp3UGZodnRRZ3ctRDdEY1E?oc=5",
+   "time": "2026-10-21T20:30:10+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "PM2.5 in normal to elevated bands on Oct 21, haze could worsen from Thursday, Singapore News",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdG1UTGNIZ0tmX1A0YTRCeFZTbmVDVFZXdVFzSml6SEduc2FCVW1FX0kyYjdOZW4xMHc2MEdaMllXNkZMVWFFUWdPZVR2cTVOZS12YXFKOWJPaWtIRWFJY0VSZktDOGdKUkhKQWUwRHo0LTNOdEpwNjBxQ04tZVB2NmRYSzViUDBwQTFwSkU3Z1RhcDQ?oc=5",
+   "time": "2026-10-21T20:15:58+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Why is it difficult to identify companies linked to fires? How can S’pore’s haze law be strengthened?",
+   "url": "https://www.straitstimes.com/singapore/environment/why-is-it-difficult-to-identify-companies-linked-to-fires-how-can-spores-haze-law-be-strengthened",
+   "time": "2026-10-21T20:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "National Environment Agency (NEA)",
+   "title": "Haze Situation Update (21 October 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUVc1RTNXTHktQ1Y5amhybDdYQW5VQVN5NHhKUVhSSXlKVk1oY25zMXRYUU04UHNaM09KNDM3RmN0OGlZY285OFpzSGkxRXNyMjZ5YXpQS2pjcVFWUHBNcHVkYUlPTUE1QklqRFVlSDhycTVHM09GRFJ2OFM3ZXFKb21sanRZUndBM3VCMHpmZ01rdw?oc=5",
+   "time": "2026-10-21T19:34:35+08:00",
+   "summary": ""
+  },
+  {
    "source": "planb.sg",
    "title": "TikTok Creator Slammed For 'Tone-Deaf' Video About Fleeing Singapore's Haze",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORmlJeE9IMTRQaktNU1R6R2t0V0FfMlFmNjZ2WXNsSzV0MlJhaDQyVlhaUjdlenVEQzVTeFF0XzdDZFIwMVRtaEluQmdSYnJySTA1N0dBSWR2dmtmX1d4VG82TVNDMWcwRElDb2lZclgzNWQxQU9ZVmlaSDRpempfbWdXRUtxZHpFcGxMeEFOMm9VNHBJWXc1ZWhQa0dud1hl?oc=5",
@@ -514,10 +556,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Air quality in Singapore unhealthy in west and central; 1-hour PM2.5 readings elevated in three regions",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNGRhQzJCVFhFejA2RV91MW9WMFl4RWlUN0lMc1RYQkhLNmM3ZkJjbXZRdVg0Y2V4VFY0d0lfS2F1RFl5cEx3ZF8zeWFyeUNtV2FDYnNXdUg3RFBZNjRNUzlGa0E1TjV6dVpjeGFab0gzRmhxVFZBTlpndFdYdXZfeWgtY2otd2VTb2lfVFJLNEp3UGZodnRRZ3ctRDdEY1E?oc=5",
-   "time": "2026-10-21T18:50:23+08:00",
+   "source": "Greenpeace",
+   "title": "Banks and courts must act alongside lawmakers to stem transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNWFYSEhKSVRlNmg2VGdGYS0tU3JTUWFaU1VkazFRRXZBVTh0bVVhcWVURHBFQmZoam5zYm5aSnloN2VjeEs3cWJnZVNmb0VBYk1oVjNaYUFsZmlLbzRhN2g2cV9LRk02cTVBc3p3QTM4S3ZzR2l4cE5HN0h1NTdMTmktVzY4SS1SSlVqQ3BjTC1lZl9Sd3BzUk95OUpKOGh6dnJhbjQ1bUN0UDlteTlsRkxrTHNmdUctTWFWUFE5TFpJTWtS?oc=5",
+   "time": "2026-10-21T18:45:09+08:00",
    "summary": ""
   },
   {
@@ -553,48 +595,6 @@
    "title": "Singapore restricts APP's green certification over haze-linked suppliers",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWZ5ZG5xc29HVGxEdmw0Nk1ZdkMtNjZ5VGQxNXcxVDdlOEdndW1vV21sbVdaWkc3SWVmbl81NnpzWHFxR1VFcUFldHZadWkwT3ZPQUZ4MklyNE8zSE52TENjMncwbS1GZFZjSmZWcVM5eHZtYlhSR1U5RVE1ZFQyZHVwMU9OTzllSlFnZXo4d3hhVEM4OVBPend1ZlVjbE16Wk1ZYWNXZUR6NVFieU5yYkhsb21NY1ZncXVPMW5UX3oyN1lXQjFF?oc=5",
    "time": "2026-10-21T18:12:47+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Haze hits pets too: Cats suffer asthma attacks, dogs need oxygen, say Malaysian vets, Malaysia News",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVklFY2ltQ3RGaWxLNWtCdktBaXBFdnNvVWJIOWVBbDlJbDJqRzJxdGd0V09VZGtQLXR4Ql80VVRXUWpsWktaNlV2RjNmeG1BclZyVVBQSDRvMVhjbTBEaEJmQ29wc2VPRlBtYTRPd2Z2UEF3X2pXRkg2ek0wNUl2cm84V0xPUlhKZGhQcFlKeHRUV3NUUDNEclhTR0ZOSzBjX190YnJfN3p6cXpQRk5WTEo3Mm8?oc=5",
-   "time": "2026-10-21T17:42:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "Haze clouds Indonesia's growth, but economists see breathing room for Malaysia and Singapore",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbzRTdmJMeU85ZHhXZXF5NlRPT2lsOWNiT2gxZmxFdUF0MUVVQVVTcWhHcDFpSWdKSjliMDBOc1BXYWFOVnJ1Z0hsOU1WVGdNdWhHakd5a1FkcnRzelRpZXpPX3ZtTlBzRU5CM0dVQkY4czd1dUFlM1YybWo5YjhaejlweEpMZi1weG5jRzNhNFBmOFgxYnNYYkRGSUFBUmQ1d1VzUWVBUzVQenJSb05NMElCdVhTS0xmZDFZSFFBLU9JVjRwd3RvcW9JZElTUkVXSkE?oc=5",
-   "time": "2026-10-21T17:28:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Deep Dive: How Singapore can turn up the heat on haze-linked companies",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVU02d1FxS2Jic2VMNTZLX1JQWnktcFkyMW4yLWVEZkZlTXMwVVZHaHZCS0Nrd1dneTF5b2VTNWhkTllzMXppb2JMY25wSUdTTlpXaE9SY292QjJFZ3Y3cjRvcWlGODVhNFVzT2Y5Rm9IdnoxSXZIR1NNWl9PNVkweTlMSGF6cEhURVJieVFoTmFOZlpJQ1RlemU2UVVSczZTclNWWnRwd0hNZGZLWkE?oc=5",
-   "time": "2026-10-21T17:23:22+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Awani International",
-   "title": "Haze chokes Malaysian capital as forest fires from neighbouring Indonesia persist",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXhWempoRHZnSUhlRmtFV19JR2RYblR6M3NyLTBLZHBQeGsyMHE0QjlTUUVxdVppMHp0dUVKXzBHRUJYRGhheGJvNEhkSFFPQkQyT28xMDdwTkRNTlk4WGlPRlF6aDFZSDNPS2NmbDJ0a0k3RmRHcmdGUkxDYVhCUUNVUUY2SUpHNUhldHhWWWxHWFNZc3hjQy1jQkhDWV9aOEFqcXdNUS1nMFI5X3doX3U2ajVMbVlfMHhWMVBwYw?oc=5",
-   "time": "2026-10-21T17:03:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Reuters",
-   "title": "Haze grips Malaysia's Kuala Lumpur as Indonesian wildfires continue",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xai1IaTIwa09oZ0dXaGNoYW9IU25ZU1pRTWZfLXM0dnQwckVud09kUEl5ek1BLW5KalI5a3hWbmo2VUVROTdnRFlTR0hIS3RqZDNrTU1yU3IxdlVqYXJrelpuVElkcnc?oc=5",
-   "time": "2026-10-21T16:11:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Greenpeace scales Jakarta landmark to slam Indonesia’s Prabowo over haze crisis on second anniversary of presidency",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX1VoWG5IX3Q0bWhUanFUOE9LNHMycVk1V0p5Q2xxbGl3WFVCeXFuSnAxVGkweGF0OVhKUnY1NEF4NUpSMDlNM2plWjJwOVJUTzhGMjlqMG9Xc0p5VkhYaWQtMUlfSzNYcUp1U2dCbzRDeklMU2NpYlY3OF9NRnFkYmd2OXNLWGNFa2JpWU9hZjNEdTNoZE5IWDBpTUt5cEhTYTI2TmFWcUZQUU1wTzRPdlllWldVcGt2SVNIazlBanpKeU5oeVpDbGRobmhaOS1JQ0VOd2M5VzkzZDdGRGx2TnQ5bWhVVjZqYVlveHdyVTRVa2RHYmfSAfsBQVVfeXFMTWpzTUxMNVdEV21YdHc5YVpVV1hCbEw0YjFnRzEtTEV5RTEzQUN6RTFVY21HdmFSMnJMYkxwS19RMmNpbUl6dkZ2Q2FPeGhoRkVBVXQyNktnZ24xbERqRkxObW44SDd2YWJZLU5kUkVtNWM1VzRJT3YxTk50Z1RTT21NNjdiSjVKOWJDcDRaazc0TXNaRU5jNWpYN1I3MWVzM2ZvNFhSemR5dVVpS3pidmY2RFp3bnVzdW41YkFvTTdCX0RNeGw4LW5QU3BOSzZoN1diaVlUR3RRVXdZM29fZVJ4alVWWk1fTG16eGktdHlJOE9rQ3FDTHZJNHc?oc=5",
-   "time": "2026-10-21T16:00:53+08:00",
    "summary": ""
   }
  ]
