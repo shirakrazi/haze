@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-21T09:00:00+08:00",
+ "updated": "2026-10-21T10:00:00+08:00",
  "psi": {
-  "west": 132,
+  "west": 131,
   "east": 97,
   "central": 116,
   "south": 89,
   "north": 83
  },
  "pm25": {
-  "west": 70,
-  "east": 53,
-  "central": 81,
-  "south": 41,
-  "north": 42
+  "west": 86,
+  "east": 61,
+  "central": 71,
+  "south": 51,
+  "north": 56
  },
  "hist": [
-  {
-   "t": "2026-10-19T00:00:00+08:00",
-   "psi": {
-    "west": 161,
-    "east": 120,
-    "central": 128,
-    "south": 115,
-    "north": 102
-   }
-  },
   {
    "t": "2026-10-19T01:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 89,
     "north": 83
    }
+  },
+  {
+   "t": "2026-10-21T10:00:00+08:00",
+   "psi": {
+    "west": 131,
+    "east": 97,
+    "central": 116,
+    "south": 89,
+    "north": 83
+   }
   }
  ],
- "newsUpdated": "2026-10-21T09:07:14+08:00",
+ "newsUpdated": "2026-10-21T10:02:58+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Haze watch Oct 21: PM2.5 levels normal in north, east and south Singapore",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOGhCNmM5bXhSUE9iYkpaVUFwQXdyYWwxVGYteW5VT1l0SEU1N3JhV0FEaFVOYmQzUlA4UE5uYjFCNTRJWEplVGlVS0NqTUxDNkJvQ3dKMGk1eUF0SDFfeFZ6dnpNS0RrTW45WTdrN3liRVEzSVJQVGdGZFJTWWt0eElvVXFJWkU?oc=5",
+   "time": "2026-10-21T09:37:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Health select committee taking haze concerns to Indonesian Embassy",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOTRVVVF5TVZfaHlZZklieEdwSTZaUXpGRWsycm9jU3VLQUVTWUlMdHlwekx0STh2MkpOQUoxeHlkVmZ3Q0VUdUo0MFplQkhrRzBWejFlc0tFaUZUeFpucUVjSTZlYTExbmEyLXZ3WG5nNm9oMDRTV0hxNWl5Rlk2ZmNVUUlJRTRxNkxOdlBNNUVUWV9uMDVQX2FBOHlCT3VQVTE0dE80elBMVUNhMFgxY0dmaTZCOFJQX1QzcDBWU1VQd9IBxwFBVV95cUxNOEFEX1JsT0hqMHNVMlA2RE1ocmN3UUhNckVRcUlvNGxsS09UZVIyVzJGNWpFRXZRUEVvenhGbXBjY0xfNDk3d0JDMERaMHNqV010Q05pWFNadVpjenVLaC1lbVpjNUVkU1dJa2YyREZkQWNldmlsSmZoVmpCaVhQZXFMdVgtTGFta2NFWHE0OVI2eC1ERzhCZ00zWXNmTXNQUFd5ek5mMzVYcHRhRUEzNER5cl9OTGVWWUxDLXd0OWNsWEtyUmI0?oc=5",
+   "time": "2026-10-21T09:21:57+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "New MyKad security features, transboundary haze measures among topics in Dewan Rakyat",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMnVMNWpvLS1OWHhmUWVxYXVtV2VuVUJCMEJ0RzBzM1AxbjBKb0JMdE56M0FEZjRKeGdxVnViVndrRkhfbUc5ZFA3bVlfSkJqYUZucGxFekUySDZDY1lLQmoxM1VqNWxzeG1NY3hRTldmb3lyN3dSY3RhM0E4ZlZwRW1jb3h4UmNRbENxT1FQeHlSLWdkM0t2WmVKSGs1dV9JWGZxNkRueHVRZmVkeFc2QmlzdlFOX3J6U09xT2xiWGZqcS1fdmpIZUg0b2NfNzZxUjdhMWhrRThWd9IB3wFBVV95cUxOa1FzYjJwSnE4WElqTllRYVROS1k5R295d2ZLX2hsZGJoTjQtSWRDQWRzUklmZXJKR1Bwc3h4d2VTZlpiUDQtWFVaQm9JckN2QXY4RE5LTS04TjUtUG9UNmtzR0pqaVMwd09IUG1icGszMlM3WjIzTjExdzBqUkw1ZG5jeTZia0F5WW1NbjdzUDExRjdOQTJ4Q2Frd2phbjZHV3RxRks0ZFFrRC14ZGctOEVoei05VWFnb29nc0pvZEQ0VE9INlhQUVBtVm1LVENwZlV4TVgzOXgzbk1tZ2tr?oc=5",
+   "time": "2026-10-21T09:13:46+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Haze in Malaysia: 22 areas still at ‘Unhealthy’ air quality levels",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZGdhaHNHSmZ2eDZqSGFxZzc1dno4TnpFM3ZldFVHbDV4MTltaUxLRExCY2dIMnJudVZyNlFURUd1Z24wal9ZQkswSk42cDE4OEdmUWpISjV3VUZVaWJXY0dLREdTZXA5OVV6UUp0am0wLUx6NEt5VXJFVzY2YWszb1NpUmxDMHZVTmtFX2R5UmdEQzNGbFl6a1k4bnVBanEwUWxTRVRmeHNWbmQ3X1gtV2d0aU1rb0tvMWhVS1ZB0gHDAUFVX3lxTE9ENFdlVmh5eUlZWXhRMnFYMm04SE1aWEgyUkVaWE1od09heEl4NEJ2V3RLYkxaYnJUSGU5MnJjSGhjSkRHSDlRYlQ2eGMxY21SbmpZX3cyUUR6dWhOTHJjbFdLRmd1WWFHeUY5UXR3dllGR09FbG1SOEtBSkx2Y1Vqbm1NREdWaERMMFppN2hGV1RselhFWWRtOHpBeHJmbVc5TE5TcEdlQTlfOG1IOHhkV0tZUVhsQ0REcDA2LTVyZjJWVQ?oc=5",
+   "time": "2026-10-21T09:09:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -563,38 +591,10 @@
    "summary": ""
   },
   {
-   "source": "Malay Mail",
-   "title": "Why won’t the rain wash away Malaysia’s haze? Experts explain what’s keeping the smoke coming",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVHc0OUpVbEVVMjhhVzVzY2ZSQmJ5TlVjWG1kbXAtU3lwY2pDeTlkZWV2eWVoc3RIQmtWUktEcm9CaDgwY1JqTDlidjBPZVdMUHU1NTdhQ3Y5NGpWbUFuZnN6a05NUEt5MDBaT0FYa24tR0tybXhJQ2hVSFlPYkRUNzNEV2Q2Y2o3NWwybEwtdmFkZ2lmZDhsa24wTlRxNkRaZmF4SkQ0Vk0xaHVON29IdV94ZTBRTE5taVFqSVJ5Wl9OYWRiRFphUnoyMEVuSHNHWUNSaE84ZVVqczhBX1p4StIB5gFBVV95cUxPNDkwUV9TYXlVQVd2cG04akFRanF4SnlXWWZZZWxIS3psREtiTEZYV1JSTkhLc280N25Tc1NEMzc1Z2Y2aWNrZzBTZWhvaHJzeWM4ZnlLUXoxSDFfSjR0VzZIMDRJWWhuWjVxMGczTWtGUDA2ZFpfWFdpdVZFMFN3OURSWVQ2UzhYMVBTd0lJVnpyYklYYTJYOWpfX1pPMUNnMVhzaTB0MFRWVWIxR2FEem02MjBERmtSSUdOV1VWY1JBLTFEQ2NKaUhIZTM0QlZUTTQ3VXFHbVg3V0xBc1JQdjVRa3FLdw?oc=5",
-   "time": "2026-10-21T07:04:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
+   "source": "Yahoo",
    "title": "Haze is making pets sick too: Malaysian vets report cats suffering asthma attacks, dogs needing oxygen therapy",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdDk1SkdaZEFycU1EdG1rVnJ2Znh2X1Z5MTNVN0dpdEdad2VuOVdDYTRQLXIxbDBBaDF6NnhIWDI3RzF2bEF2cnhib3V0QkVZT0Rla2oyMUkxbkxEeVEtVGJTU2hNRVUzZzFPVjR1dVRqQXg1eUVjc2RYSVFaSlRRM0NBSS1pVml4elg4M0FLZk1IVi1NWVBfVVZ2LTRHVGl2VTVPVGZYWVNCS2c2M081M3JzMDdYZkVOSUliNl9aUFlUdEtRNzRmNW1vbXEtZGd0ejhBSWFfX1FCemVDN2ZDS2hCWUpjMWFfVTdJRUNhck9raVhBc0NoQjNn0gH_AUFVX3lxTE1HeDdSWEtDRHRIRTYtLWRjMWVXNEdIVGY4WFdFbFpoU3FnVFdLUHc2cV85SFVrWnFrbExrMXNPVjgyMEZEVEtHVVZVb0FuMnJKa1UxRm5OTlJxSzFqcjhwUEJMNnJuTXZtRVI2aTEyUWFkQlN5T1VJTVgzTllMYWk0VDNqQUlLQVU3RkdQNXllQUg4UFdqOGRnSmtUUnRUajg5U0tnVUs3TjVwYzctM1ZRSHNCR0JLZS1LemJxeEc4c2pRWFZDamUtMHgwMTNaRTJkM3dVWmc1VERIaHBFZTh4RlpEcU9WRnY3RTVEU09LMk9rdldPdlNFNWRzc1FGRQ?oc=5",
-   "time": "2026-10-21T07:03:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze in Singapore: Air quality lies between moderate and unhealthy bands overnight",
-   "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-lies-between-moderate-and-unhealthy-bands-overnight",
-   "time": "2026-10-21T06:09:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze clouds outlook",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUVVuclRPdThIUExNaEpkZ21mUGNIc2liejRHRzdvenM3TUVpLVUxNlRtT1lXcTc0X3FuRU1hUVBIVTVxMUNpWVBrdFZVelhVMWV4NzlVZG5rWXVmT2lmWjJnTVhubVpDYW1zVnJIaUFCUDhSNUJub09FdTJELTQ2VUNpY2RrZVE?oc=5",
-   "time": "2026-10-21T06:02:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Is your old air purifier still effective, and how much does it cost to run one?",
-   "url": "https://www.channelnewsasia.com/singapore/air-purifier-haze-costs-hepa-filter-6475021",
-   "time": "2026-10-21T06:00:00+08:00",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LTklHTG9zRmhYWEF0WFlHTVptYVFIcC1LazZnQkk5SGV3bV92dzAyNDdTT1V0SkkySVVkT2lVc3MxY3JHQVVrdWxjM01tTDZBNG9kb21fVjAyUWVxenlxWjdZcGJlS1huZzZTN1RxM0p1aXo2d0V3VnoySHA?oc=5",
+   "time": "2026-10-21T07:00:00+08:00",
    "summary": ""
   }
  ]
