@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-21T21:00:00+08:00",
+ "updated": "2026-10-21T22:00:00+08:00",
  "psi": {
   "west": 124,
   "east": 91,
-  "central": 107,
+  "central": 106,
   "south": 88,
   "north": 80
  },
  "pm25": {
-  "west": 91,
+  "west": 73,
   "east": 44,
-  "central": 59,
-  "south": 53,
-  "north": 27
+  "central": 58,
+  "south": 49,
+  "north": 43
  },
  "hist": [
-  {
-   "t": "2026-10-19T12:00:00+08:00",
-   "psi": {
-    "west": 122,
-    "east": 97,
-    "central": 103,
-    "south": 92,
-    "north": 85
-   }
-  },
   {
    "t": "2026-10-19T13:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 88,
     "north": 80
    }
+  },
+  {
+   "t": "2026-10-21T22:00:00+08:00",
+   "psi": {
+    "west": 124,
+    "east": 91,
+    "central": 106,
+    "south": 88,
+    "north": 80
+   }
   }
  ],
- "newsUpdated": "2026-10-21T21:13:27+08:00",
+ "newsUpdated": "2026-10-21T22:12:32+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,24 @@
    "pinned": true
   },
   {
+   "source": "Free Malaysia Today",
+   "title": "Haze not about ‘Malaysia versus Indonesia’, says Syed Saddiq",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUmFuTVNGbDFSczlIdUxGNFZDY3NRVGNxX1o2TWlHcy1HY2ZMTE9OLW5RY2htQ0hsaFFvZEVDTjZ2Qmtsa2IwVE9wbEtXTnd6d2d3OWJYdm1RM0o3Q05pX0JaZThNZ1Zpc3pZMW9nZGhwelE0X1ZJVkJLOURxaFpQdElGMGo4U2VIa2pvZ3FobWotZ2xwZFRtc0otTmttMWxSVWMwY3BDWndBZjlsSURCRmpHS1VXNHRDVUE?oc=5",
+   "time": "2026-10-21T21:51:29+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Indonesians sue government over wildfires, haze and public health crisis",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeWFHZlJjRXlhZE9rSmJiM0hMSi1KZzZ6c014Yk5CU2xjSkZXcFZXOUtOVzIxUzlSbTJQaElfWXFucWVXazBxVGFGVzcwWlJXWUJTcFdKYk0yMElqOXlnOFpkNHVVMVVTU3NIYk5MZzU4VGdRVEpJT3RITEQ2WUJxc2RfRXNKdVEycFBhOFFOaWhXNGpjSkJaeWdNaTZma1RJaXluN2p4MzNJaGJMRWt6eDFlWVFOLUFkQkRBckhxRUwtbDJyZ1lUQ0dn0gG8AUFVX3lxTE0yelNoWWh3SXV6b1FOdzVfR1NGdkktcFNzeTE3Wjh6VnZwY3FsbVg5X2xPV3dIZXBKajlDZEgtanZPTGJZTmowbUVCZVNrc2Z2VFZKcW1JVVZFUUptekNYeVYwVEhyM1VxNUtISnpyc0syT2owMFJUc2Ixd0RXbWloZW5oV0E3eUYxOGxaanBTNUFLSXJyS0tCNTFEQUFFeFhYTVdMWUxvSWNRM1JFU1dvY2htQm5IcUhaVWto?oc=5",
+   "time": "2026-10-21T21:46:48+08:00",
+   "summary": ""
+  },
+  {
    "source": "Malay Mail",
    "title": "Haze or ship fumes? Maritime experts want closer watch on vessel emissions at Malaysian ports",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZElyVVkwUVdiREtxVUNJUk1vdnpQTjJzdDJNb21rTXRMb1RSN245RzhqQ1dJSTlHcElRUU1yNTlNOGV4YkZ1MlZOSnAxT1l0RTdKMkRJV2IxMDQ0bTM4UjdOV3o2ZzJFUjdSRkh4ajVnaS1ZUXF4ZzdxRURaYVlLaURVbG45NW9rbTZLQkduX1Z5MFVaN3NubVoxaGFQVDhrVnBhYVlST0hUQTBQYUxzQ2U1VzRXVjlkaVdaN2NXUjJueHg5RTNKN1hRaHdHTTFsSmZZSlVWSi1yclVoV0M5VUtGUGHSAeoBQVVfeXFMTUMwbUFSUGEtX1ZGVExpMS1XLWd2SXlMaFc1TU9CelRld0RqQlpycWNMbTdtRkgzLVlUN0NxaG4yMkk4eUxsRmwyeFlmTGxfdVZwaVV2aEZnVHpfM3pWRUNpWmUxVFdZNnBiV3BZNFZyT0I0bzlVc0NaQS1FR1hJMVQ4cG5aTjRoRU4wSHZXTTRIYzJIY0NoQWtKNnAxOWNES3NXLVRib3RuSWZKZUpkYnlfRjhidm56VTVXMUM3ZUZTT0NKdEhMUHluOEdWak9jc3JYd0huQm9uV2RYTGlhbFMwcWNvcFE0Mm9B?oc=5",
-   "time": "2026-10-21T21:02:32+08:00",
+   "time": "2026-10-21T21:03:59+08:00",
    "summary": ""
   },
   {
@@ -556,6 +570,13 @@
    "summary": ""
   },
   {
+   "source": "The Sun Malaysia",
+   "title": "Indonesian wildfire haze crisis lands government in court",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRlJZVWZtbzFsZVBaLXFPeVdSQ0EwTER1NnZjU2x5VUszczJYVVpkajlNWk1tc2plZGNoaXozYzVhdVJYLXItQ1U5OGRQbV95UWI3bjNzWEFXYmRySE9xY0JaYXEtaDN6eEdXR3JPOWRfN2xxOWljQ1g4S3MzZHpEZmpkS2hpSWtS?oc=5",
+   "time": "2026-10-21T19:22:01+08:00",
+   "summary": ""
+  },
+  {
    "source": "planb.sg",
    "title": "TikTok Creator Slammed For 'Tone-Deaf' Video About Fleeing Singapore's Haze",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORmlJeE9IMTRQaktNU1R6R2t0V0FfMlFmNjZ2WXNsSzV0MlJhaDQyVlhaUjdlenVEQzVTeFF0XzdDZFIwMVRtaEluQmdSYnJySTA1N0dBSWR2dmtmX1d4VG82TVNDMWcwRElDb2lZclgzNWQxQU9ZVmlaSDRpempfbWdXRUtxZHpFcGxMeEFOMm9VNHBJWXc1ZWhQa0dud1hl?oc=5",
@@ -574,27 +595,6 @@
    "title": "President berates countries that ‘insult’ Indonesia over toxic haze",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGJhVmpqek52MS14eGZKLWlPUGlGMWJIS0pEMTdGSlJ6YWlwTDcyZzh5TFVBZEJtVGoxSm5xbGZjeENSaTRUWjZfT0l2RzlMSlFmNzlISWc4NVlybzhnc0t6RDFHU3A5M1h1Q3MyNzZsOW5XX3gydW15WWZMTXVGYlh4a29WVVhyTTNTQjBzSFJ1dG1QTFpUYmNCRkNadXl5cm1KS1hCUDZpZw?oc=5",
    "time": "2026-10-21T18:45:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "CNA938 Rewind - #HazeHealth: How could the haze worsen or improve? What are the signs to look out for? #SGToday",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMy1GVzNuVDN6Vkg2dks4VlcyNTNEbFAySS00WlNxMnRFU2pibkJ4ZTUzZnRxREdHbHZ0ckZEUTdfWjJkS2RfUUtydEVTT1N1cmRtRk5qbEV5UldJNDBQR0J2Rk9TRXRXTUVGcDBmandmRWVnQk1jNG5WVmQ5cjBRNUVoNE9SbXo1b3h3SEVadnhpbUk4d0cyV2tvM1FRZmljQlZmeDJtc0xRRXg2X3luY0JGU1g2QlJ5anZ4TkVlcnVEOVYtRUtlei1wZlA2YmJBcUE?oc=5",
-   "time": "2026-10-21T18:31:49+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Indonesia Sets up 477 'Oxygen Houses' in Haze Relief Effort",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmYteENPbzNBTmdFWnQ0UG13U0FnWm55LXVFWkRkejlIbnl5aS02eG50TEdoUFZCVEhLLTB6dGZfeml6RFU2RXhiSVQ5RUM1ZGNkekNLaFVVbHREVDh0MXVIbGpyS2hOdW55Z1RlajhzM3BuWURGb1FNRzE5YXcxUzZQZGd1bkhBQ24yRnZRYTlZZERN?oc=5",
-   "time": "2026-10-21T18:30:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Sabak Bernam MP speaks Javanese in parliament, calls on Prabowo to end haze",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHF2eGFtZEltTEdERlhnZ1dESG56MjhfTzVnaFcxQWxUUmRHV2pBSFZYcnJLS3Zya1pUakVtOHJUZmp4ZnFpeFhjWlRjTmE2cFo5ZUctTXRkY2FSWmtwc3ZnczNqbWFsMUhiUi1HV0pSelFyaE92eWFVd09ZcjFtMnZFWW1ia2hGendtQlZ1WFZYZHBHeUZDcWlKUGVxUUJLeVJlTUcwdjgxM3dteHItMkZianA0emPSAbwBQVVfeXFMTTVBeDlFdVozaUUyalhUNGt4b2JtQS1FR2NJZFJkcmVKOFIzRURFVloxV0JKTk9sWFA3LUg5R1lCQjN1cFZTSEhsbjRxcml4dXItTnRIRjRpZ05XNk9CUjBOeWJZbFh5MU1FNkk2cC1CTmJxa0xEbzVNN3NWZC1PSGlOOEl4R01jeWF1REhpZUctWmRCMlByQ1VsRTBIM1JiQ3k4OUhBcTV5VUNQd1VhTnJvd2dZYzduMzJTNno?oc=5",
-   "time": "2026-10-21T18:24:07+08:00",
    "summary": ""
   }
  ]
