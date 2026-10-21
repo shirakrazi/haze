@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-21T23:00:00+08:00",
+ "updated": "2026-10-22T00:00:00+08:00",
  "psi": {
-  "west": 123,
-  "east": 90,
-  "central": 106,
-  "south": 88,
-  "north": 79
+  "west": 122,
+  "east": 89,
+  "central": 105,
+  "south": 87,
+  "north": 78
  },
  "pm25": {
-  "west": 68,
-  "east": 34,
-  "central": 54,
-  "south": 27,
-  "north": 28
+  "west": 56,
+  "east": 27,
+  "central": 45,
+  "south": 33,
+  "north": 24
  },
  "hist": [
-  {
-   "t": "2026-10-19T14:00:00+08:00",
-   "psi": {
-    "west": 115,
-    "east": 95,
-    "central": 103,
-    "south": 90,
-    "north": 85
-   }
-  },
   {
    "t": "2026-10-19T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 88,
     "north": 79
    }
+  },
+  {
+   "t": "2026-10-22T00:00:00+08:00",
+   "psi": {
+    "west": 122,
+    "east": 89,
+    "central": 105,
+    "south": 87,
+    "north": 78
+   }
   }
  ],
- "newsUpdated": "2026-10-21T23:12:42+08:00",
+ "newsUpdated": "2026-10-22T00:09:13+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,31 @@
    "pinned": true
   },
   {
+   "source": "NST Online",
+   "title": "'This is not Malaysia vs Indonesia', Syed Saddiq says amid haze row",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObW0wMmlFd1pJTHJvSzQyemRLdHlIUVV4Z2duQkk0T19VS1d1UmxjU1hfWmVTc08tS29LenRqa3BPdU9wa2NBdVFMWE8xQXMyQTRCU09XTnRpS2ZpVEtYVWZSNWg4QXVIWjFWSGdyQVE4cWRTdXd4NFdfeVVfN1VUcFN3b0ctbWxKWWxxQVh3Sl83TW0tMUVYMjJoR1RWVXNJbTZoZzFKc1BCc1HSAbABQVVfeXFMT3ZVdXZua1JoN0VCODAyMGRiclNsbjhQS2xPSEJKcDFiR3YyWmprYmFaRjB1Wkx2NURQczFQaDVfN0dFdEJPcktGQWE2TjdTNmswai0tcUluSXJtSmQzVHB6b3MwZWhfWnpuWktRVTRXLVpES0pPU21IM1BHc0dKTjJUWW4ybW0tNVNKaVg3ZnVVMjNucVRGbHlteXBvVTJjbzRuUlJYandPNU4yMDQ1R3Q?oc=5",
+   "time": "2026-10-21T23:52:39+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Hourly PM2.5 readings normal in four regions; PSI forecast to remain unhealthy on Thursday",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNGRhQzJCVFhFejA2RV91MW9WMFl4RWlUN0lMc1RYQkhLNmM3ZkJjbXZRdVg0Y2V4VFY0d0lfS2F1RFl5cEx3ZF8zeWFyeUNtV2FDYnNXdUg3RFBZNjRNUzlGa0E1TjV6dVpjeGFab0gzRmhxVFZBTlpndFdYdXZfeWgtY2otd2VTb2lfVFJLNEp3UGZodnRRZ3ctRDdEY1E?oc=5",
+   "time": "2026-10-21T23:31:46+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Haze in Singapore: Solar panel operators report around 15% drop in output on a daily average",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaVAxWVV4TnlaYXpPMjVFRzdvMkVyb3JxTEpEZXFMNTE4T2MwOVgyaEFnWTF3Vnp3WF9SSFJnWGp6aTAzM3NQRXoyV2gtR2dhM0FJazVtYlFGT3BHbmJQUS1tTUFjcWJZd1d0ajJtQ05hVkMyR2JXX0dWMHhoalhsUXo0dmN5clpZZHlySU1BX3p2aGd5cFdnUGRCTTNPWHd1dUNHS2R3TmxudEV3QVZ5QXdlRXNFNUFXNURMU08xdFBIYy1pYldpTTZjQQ?oc=5",
    "time": "2026-10-21T22:51:04+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Prabowo hits back at countries 'insulting' Indonesia over wildfire haze",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdmJvRUlBWEptV3d5Y1NTRG9tZThsU3J6OU14dFlxalFyanlRZWdfM0oybGRkc2s2cDFFQ1VuSVg4Zi1OWjFmNHg3SFV2WFpFUTRTVmtIYWhBWVkyN2laam5uZ0U5cTU3ellpdlZTQ2dzVDFOR19DT1g4blg1ZG1GYUxnVEZHcFRyRjc2YlZWLThkcnNDZER2S2ttRU42ZERkQVhfZWc2ZnotYnlnZGJaQ2VpNE9Vemo3UVHSAb8BQVVfeXFMT2tYa0JtR3JkeWZIN1hfYXV6X1AyZEpZa1I2YVh5V2RzUVNCTzdSWVNxSWRGajZyTlpQVlNMTmdkRUJyZ29NMkc0OGVvRWZNUHFvaGtaUHRVNy03V2hYX2Nhal9nMGxka2xDZDF0Y3IwNHU1VjRKVlJVajZrSW15UUlTTXJXU09WdVdnR2IyblNyNjZzQ3loWFFGQnVkajQ1cGkyQnotUXBHSnhYRGU4WE5IQXFfM0JsaXI4UklJeG8?oc=5",
+   "time": "2026-10-21T21:52:08+08:00",
    "summary": ""
   },
   {
@@ -549,13 +570,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Hourly PM2.5 readings elevated in two regions; PSI forecast to remain unhealthy on Thursday",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNGRhQzJCVFhFejA2RV91MW9WMFl4RWlUN0lMc1RYQkhLNmM3ZkJjbXZRdVg0Y2V4VFY0d0lfS2F1RFl5cEx3ZF8zeWFyeUNtV2FDYnNXdUg3RFBZNjRNUzlGa0E1TjV6dVpjeGFab0gzRmhxVFZBTlpndFdYdXZfeWgtY2otd2VTb2lfVFJLNEp3UGZodnRRZ3ctRDdEY1E?oc=5",
-   "time": "2026-10-21T20:30:10+08:00",
-   "summary": ""
-  },
-  {
    "source": "AsiaOne.com",
    "title": "PM2.5 in normal to elevated bands on Oct 21, haze could worsen from Thursday, Singapore News",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdG1UTGNIZ0tmX1A0YTRCeFZTbmVDVFZXdVFzSml6SEduc2FCVW1FX0kyYjdOZW4xMHc2MEdaMllXNkZMVWFFUWdPZVR2cTVOZS12YXFKOWJPaWtIRWFJY0VSZktDOGdKUkhKQWUwRHo0LTNOdEpwNjBxQ04tZVB2NmRYSzViUDBwQTFwSkU3Z1RhcDQ?oc=5",
@@ -570,31 +584,17 @@
    "summary": ""
   },
   {
-   "source": "National Environment Agency (NEA)",
-   "title": "Haze Situation Update (21 October 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUVc1RTNXTHktQ1Y5amhybDdYQW5VQVN5NHhKUVhSSXlKVk1oY25zMXRYUU04UHNaM09KNDM3RmN0OGlZY285OFpzSGkxRXNyMjZ5YXpQS2pjcVFWUHBNcHVkYUlPTUE1QklqRFVlSDhycTVHM09GRFJ2OFM3ZXFKb21sanRZUndBM3VCMHpmZ01rdw?oc=5",
-   "time": "2026-10-21T19:34:35+08:00",
+   "source": "The Straits Times",
+   "title": "Grace Fu: Singapore ready to assist with Indonesia over haze-causing forest fires",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PZXpGaE81emI5TGRLa1dFQjhMSUEyYjEyZy02S3lSWTVSakRObE9IOUhtdnp0V0JpUUVPOTByUGZJSDc0ZGdWOXloTVZMRGV0ZHdYel9BQi1uc1Q4eVE?oc=5",
+   "time": "2026-10-21T19:49:36+08:00",
    "summary": ""
   },
   {
-   "source": "The Sun Malaysia",
-   "title": "Indonesian wildfire haze crisis lands government in court",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRlJZVWZtbzFsZVBaLXFPeVdSQ0EwTER1NnZjU2x5VUszczJYVVpkajlNWk1tc2plZGNoaXozYzVhdVJYLXItQ1U5OGRQbV95UWI3bjNzWEFXYmRySE9xY0JaYXEtaDN6eEdXR3JPOWRfN2xxOWljQ1g4S3MzZHpEZmpkS2hpSWtS?oc=5",
-   "time": "2026-10-21T19:22:01+08:00",
-   "summary": ""
-  },
-  {
-   "source": "planb.sg",
-   "title": "TikTok Creator Slammed For 'Tone-Deaf' Video About Fleeing Singapore's Haze",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORmlJeE9IMTRQaktNU1R6R2t0V0FfMlFmNjZ2WXNsSzV0MlJhaDQyVlhaUjdlenVEQzVTeFF0XzdDZFIwMVRtaEluQmdSYnJySTA1N0dBSWR2dmtmX1d4VG82TVNDMWcwRElDb2lZclgzNWQxQU9ZVmlaSDRpempfbWdXRUtxZHpFcGxMeEFOMm9VNHBJWXc1ZWhQa0dud1hl?oc=5",
-   "time": "2026-10-21T18:51:56+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Greenpeace",
-   "title": "Banks and courts must act alongside lawmakers to stem transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNWFYSEhKSVRlNmg2VGdGYS0tU3JTUWFaU1VkazFRRXZBVTh0bVVhcWVURHBFQmZoam5zYm5aSnloN2VjeEs3cWJnZVNmb0VBYk1oVjNaYUFsZmlLbzRhN2g2cV9LRk02cTVBc3p3QTM4S3ZzR2l4cE5HN0h1NTdMTmktVzY4SS1SSlVqQ3BjTC1lZl9Sd3BzUk95OUpKOGh6dnJhbjQ1bUN0UDlteTlsRkxrTHNmdUctTWFWUFE5TFpJTWtS?oc=5",
-   "time": "2026-10-21T18:45:09+08:00",
+   "source": "The Malaysian Reserve",
+   "title": "Malaysia’s cloud-seeding experience could help Indonesia tackle haze",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRFFwSFAxN2dPSkhkSE5kYjZUekdQSlpzRG5FLVdoQzYzMVNHSUFLY0ZjQ2sxanNJbWtnU0wxNEVncXAya1lCRFZDY3pxbnEtZTNtTGlVbWZ2N2VQN3VONlZ0djJTNkV3QkJoTW9zaEFYRnVwVTN2WUhRLU1tV1RoQXRyLU00cVNSSFR4VlNlYmVXakpOZm1xNklTbGN0NG5hTTZjNW52RWpOTTh2RmJocg?oc=5",
+   "time": "2026-10-21T19:45:30+08:00",
    "summary": ""
   }
  ]
