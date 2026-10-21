@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-21T11:00:00+08:00",
+ "updated": "2026-10-21T12:00:00+08:00",
  "psi": {
-  "west": 131,
+  "west": 129,
   "east": 97,
-  "central": 116,
-  "south": 88,
-  "north": 82
+  "central": 115,
+  "south": 87,
+  "north": 83
  },
  "pm25": {
-  "west": 82,
-  "east": 53,
-  "central": 67,
-  "south": 46,
-  "north": 33
+  "west": 67,
+  "east": 48,
+  "central": 56,
+  "south": 51,
+  "north": 59
  },
  "hist": [
-  {
-   "t": "2026-10-19T02:00:00+08:00",
-   "psi": {
-    "west": 150,
-    "east": 115,
-    "central": 125,
-    "south": 111,
-    "north": 98
-   }
-  },
   {
    "t": "2026-10-19T03:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 88,
     "north": 82
    }
+  },
+  {
+   "t": "2026-10-21T12:00:00+08:00",
+   "psi": {
+    "west": 129,
+    "east": 97,
+    "central": 115,
+    "south": 87,
+    "north": 83
+   }
   }
  ],
- "newsUpdated": "2026-10-21T11:07:37+08:00",
+ "newsUpdated": "2026-10-21T12:07:01+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "www.tabla.com.sg",
+   "title": "Indonesia Accepts Help To Fight Fires Causing Haze",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb3VFQWVSc29oOVUtWDQ0YTlxUFVoMUhWSG1YaXY4aThHTnBaYzVkM0FSeVctQnV6LTdha0ltOEgtcUEteTlqMUJuMVpBQVYxanZKZm9ERDE4STVJZU9QcXlENHZKTF91cWNLX1JweG5tMUZyRExhZjlMTURyQXVHNGl6X1Q1WkF2NzE4enJDRnQ?oc=5",
+   "time": "2026-10-21T11:46:43+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Bloomberg.com",
+   "title": "Indonesia Haze Threatens Tiny Bugs That Power Palm Oil Output",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0pTc1JBa29zaklOQk9DeGR6UGkxN0UzS29QcmEtM3JmeVN3ajk1aW9iNHpiSzhVeWdMbkFFTTJPcXd0WVRFeWoxc3lON2VLUmxLaUVnMW5TUVU1enU5eFIxYk54VkV5cG1CNTlhQjlSbHlPaHcwM2lmT3B5bERFM1FqLTh4eXp1UzVXRnJydExLbmE4QVBSTHE4LU55U2MyWlNxRDhkbVdOQ1JxZHphdHJR?oc=5",
+   "time": "2026-10-21T11:32:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Air quality in Singapore sees slight improvement; 1-hour PM2.5 readings elevated in two regions",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15LTE4dDdRNThfSGtqRE1jd25HX0pJRHE1UWhOeEZmSnhjbVNSUVM2c09JTFdDOXpmUzJqSW4wczhjNW9xeVYxZlZOVkhWQzVwenNELUpRVFJTY2lqTFpzOGk0WkJOZm85TFJSejBFbUVXdDlaNnFEaDV3?oc=5",
+   "time": "2026-10-21T11:30:02+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Indonesian anger builds over wildfires, toxic haze",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNjhrSC13eGNqQ2M0UXJ4NzN4YmY5RV9Bcmo2YlE1dnluUTVUWmhoLWlzMTB5czZlY1lCeGhyNWk4Smh6LUsxQm00SkY0WlYzQkR5Z2lyV1dGV0Fsb2VfWHI3YXR3LWN6LXB5WVdtc2dxRnFWNGZWSWtSemtWN3FJaUliRm43c1FtdFlHVzU2bzYxbXM?oc=5",
+   "time": "2026-10-21T11:13:54+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Singapore releases N95 mask stockpile amid haze-driven demand, urges public not to hoard",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQzNJbkphbDVQVzd0NTh4QVFMOUE3amEtZlBfWVdZeEtMaHVHaS1SQVljUmxIaVdQa3RhY250UFE4V0NHdHlqUi1fRGFwdkdSM2xYaVpHajJpbUpQWTB0RzQzV1lWRW1ydno1YzZJdXp6SHNzc2h0ZmZjaFhLUlU5T0JRS013bGg5dGNIUWIzMEtnSlJSZmRNczFVbmNLYldXR0NoNnlvcUVnY3hiVUJYNHczSnhIZkdqeTBvQWJBa0p2RjVwRzNma0ZvTVRKS09qZVRlV2UzNlUxb0k1WU1Z0gHkAUFVX3lxTE9iM1Rsa1hVM1N4UTNRc2hKV3ZyTFBSUW92OVlqczdQdVRvcHJVMTJheEVLY1pMa1o0d1hsUU1RMDlzV0lfLTRXWWJpazRmT1ZWenpYS3h4X1Qxb1FFdnFyUUhJU01sdnBUU3ZrenZaVjU3eHBVaHFLUE5NQWM0ZFBjVU1iRlRITXB2UEJDanFMM2h1aG9kYWdWVURiVTFrTThpaHVvQTF0bmJ6UjNuS3ZISEhRYVBQTnMweVRLY1liUnN5dkE1UHJWMV9saWtHOUFPczRob2pLX3FvLTd3eV9BMEF0Ug?oc=5",
+   "time": "2026-10-21T11:11:15+08:00",
+   "summary": ""
   },
   {
    "source": "NST Online",
@@ -535,6 +570,13 @@
    "summary": ""
   },
   {
+   "source": "Honeycombers",
+   "title": "Indoor activities in Singapore: Yes, you can still have fun while you escape the haze!",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84N1lhZlo0aERjSi1VTDN0aDhoRGxGN0dKSkNwR0dnYkFWTm1MZm03U1hXUklCd0oweVRWLWVoVHA0eXMybWNJd2VXWm1SanB5aGh1VzVSOGhCQ0Jvc3pOTno0MkRRWWVqakdqVm1pWDBZRDJn?oc=5",
+   "time": "2026-10-21T10:00:52+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Vibes",
    "title": "Budget 2027 debate resumes as MPs seek answers on MyKad security, haze and semiconductor jobs",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTXA1VHY2QV9zRXlVc01HLXJOU2MyeG5rNEhENFVpNk5oNGtURE5QOHJlTE9SX3JtdEZfa01OSndoS1lLcmVwaFU2YkswLTZ4aFlOLU9UWmhhQ3Jaby0tcXBkVnJfQUg3eHBLT0h1YlVoZ2h0YlVaZ2JtWTZVYTFSMW9qeVltLXA4QU5mcWlBalFTeG40M0N3SjdFZ2RwU3FnM0JNNXNVTUlzVS0yaDF2NXowQ0dWX1dMNkI1NkFCSUw1RFFNNUpieFVZaU1NZHlzd25XbA?oc=5",
@@ -553,48 +595,6 @@
    "title": "Why won't the rain wash away Malaysia's haze? Experts explain what's keeping the smoke coming",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1hLVWFHTHJ4MUNoV0JiX3ZUT2tpQlVQV21QWkhtYU1OeVN3dUdsc0lGWUQ2bjNWcFFFMGlsTklVSXFUYlBxYXh0SGFPSUxHWmdRb01RLXQ0OTR1bW9WSmZRRm9rMjRSMDJOYjY4NnVQclQzcU0yUi0xTE1BQnduOHZzQUdGR2RqVjBHUGUxVy1HYlBrLXh0MnJhRlNDRE4zUTZiTlo1UTFqQkk0MC1FS3pzVTI?oc=5",
    "time": "2026-10-21T09:24:14+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Health select committee taking haze concerns to Indonesian Embassy",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOTRVVVF5TVZfaHlZZklieEdwSTZaUXpGRWsycm9jU3VLQUVTWUlMdHlwekx0STh2MkpOQUoxeHlkVmZ3Q0VUdUo0MFplQkhrRzBWejFlc0tFaUZUeFpucUVjSTZlYTExbmEyLXZ3WG5nNm9oMDRTV0hxNWl5Rlk2ZmNVUUlJRTRxNkxOdlBNNUVUWV9uMDVQX2FBOHlCT3VQVTE0dE80elBMVUNhMFgxY0dmaTZCOFJQX1QzcDBWU1VQd9IBxwFBVV95cUxNOEFEX1JsT0hqMHNVMlA2RE1ocmN3UUhNckVRcUlvNGxsS09UZVIyVzJGNWpFRXZRUEVvenhGbXBjY0xfNDk3d0JDMERaMHNqV010Q05pWFNadVpjenVLaC1lbVpjNUVkU1dJa2YyREZkQWNldmlsSmZoVmpCaVhQZXFMdVgtTGFta2NFWHE0OVI2eC1ERzhCZ00zWXNmTXNQUFd5ek5mMzVYcHRhRUEzNER5cl9OTGVWWUxDLXd0OWNsWEtyUmI0?oc=5",
-   "time": "2026-10-21T09:21:57+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "New MyKad security features, transboundary haze measures among topics in Dewan Rakyat",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMnVMNWpvLS1OWHhmUWVxYXVtV2VuVUJCMEJ0RzBzM1AxbjBKb0JMdE56M0FEZjRKeGdxVnViVndrRkhfbUc5ZFA3bVlfSkJqYUZucGxFekUySDZDY1lLQmoxM1VqNWxzeG1NY3hRTldmb3lyN3dSY3RhM0E4ZlZwRW1jb3h4UmNRbENxT1FQeHlSLWdkM0t2WmVKSGs1dV9JWGZxNkRueHVRZmVkeFc2QmlzdlFOX3J6U09xT2xiWGZqcS1fdmpIZUg0b2NfNzZxUjdhMWhrRThWd9IB3wFBVV95cUxOa1FzYjJwSnE4WElqTllRYVROS1k5R295d2ZLX2hsZGJoTjQtSWRDQWRzUklmZXJKR1Bwc3h4d2VTZlpiUDQtWFVaQm9JckN2QXY4RE5LTS04TjUtUG9UNmtzR0pqaVMwd09IUG1icGszMlM3WjIzTjExdzBqUkw1ZG5jeTZia0F5WW1NbjdzUDExRjdOQTJ4Q2Frd2phbjZHV3RxRks0ZFFrRC14ZGctOEVoei05VWFnb29nc0pvZEQ0VE9INlhQUVBtVm1LVENwZlV4TVgzOXgzbk1tZ2tr?oc=5",
-   "time": "2026-10-21T09:14:51+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Haze in Malaysia: 22 areas still at ‘Unhealthy’ air quality levels",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZGdhaHNHSmZ2eDZqSGFxZzc1dno4TnpFM3ZldFVHbDV4MTltaUxLRExCY2dIMnJudVZyNlFURUd1Z24wal9ZQkswSk42cDE4OEdmUWpISjV3VUZVaWJXY0dLREdTZXA5OVV6UUp0am0wLUx6NEt5VXJFVzY2YWszb1NpUmxDMHZVTmtFX2R5UmdEQzNGbFl6a1k4bnVBanEwUWxTRVRmeHNWbmQ3X1gtV2d0aU1rb0tvMWhVS1ZB0gHDAUFVX3lxTE9ENFdlVmh5eUlZWXhRMnFYMm04SE1aWEgyUkVaWE1od09heEl4NEJ2V3RLYkxaYnJUSGU5MnJjSGhjSkRHSDlRYlQ2eGMxY21SbmpZX3cyUUR6dWhOTHJjbFdLRmd1WWFHeUY5UXR3dllGR09FbG1SOEtBSkx2Y1Vqbm1NREdWaERMMFppN2hGV1RselhFWWRtOHpBeHJmbVc5TE5TcEdlQTlfOG1IOHhkV0tZUVhsQ0REcDA2LTVyZjJWVQ?oc=5",
-   "time": "2026-10-21T09:09:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Malaysia expects tourism fallout from Indonesia haze",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTnltSVVETkQzNXAxVHBqdDN2dGduTGpxS2RreXVIQUhRTEZrN0JGN0VWOEVRcFlWR1pxU0pJOVg1c2pubWliNVRSbWh3cldVOU9vNEpYMFQtZFBNbHMzZFJTMlJCRnVQaGcyaVE1ZFVNRHV0cTRNSTQ2Q2VTTEZLUVZjZnN6cFlvY2FsM21KbkdodXMwbWRNYXl3?oc=5",
-   "time": "2026-10-21T08:45:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Vibes",
-   "title": "Haze leaves 22 areas with unhealthy air as cloud seeding targets Johor",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUWhhLUk3R01yREJ5bVVpVktoX1hXdkdRb0RHajMxLTllck96cFdfS3lRTzBaMFE1ZEFISmFhU0lSdGh5NjVfZ2ZJbXBnQXIyY0otbkxzZUdMR0ZQMmt5S1J2WXNkdzhRZXJGbFVfVVVNZUVRMEhPVDZJYTFTLTZzWW1iNnEwWDA1MjFxdE5lNUNqb0R3SDZZeVVyYjBUZUROaFhmSDRoNERUdFBaUTFBZE95N2s0X2s?oc=5",
-   "time": "2026-10-21T08:33:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Malaysian Reserve",
-   "title": "Haze raises risk of medical insurance premium hikes in 2027",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRzNLZ1hwb0FsOHdnOU9ROXgtYWMweF92V1V5ZmlTTG1HanZCQ014UVZPdHBzakt3RHp0aWNCOGtBb2dwRjNYZXAzTmpKMTJyYlp4NVRtOGItTy0tUDZpQTNSRkpBNDFXdlJYZ3BUbjRRaUh4LTFWTEhPa2JKN19oZ0c5eDk5T0ZnX0luNkFyWHYyX0QyS1Q4UDB5UC0yRHhfMzhVbGJB?oc=5",
-   "time": "2026-10-21T08:29:32+08:00",
    "summary": ""
   }
  ]
