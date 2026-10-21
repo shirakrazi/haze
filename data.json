@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-21T10:00:00+08:00",
+ "updated": "2026-10-21T11:00:00+08:00",
  "psi": {
   "west": 131,
   "east": 97,
   "central": 116,
-  "south": 89,
-  "north": 83
+  "south": 88,
+  "north": 82
  },
  "pm25": {
-  "west": 86,
-  "east": 61,
-  "central": 71,
-  "south": 51,
-  "north": 56
+  "west": 82,
+  "east": 53,
+  "central": 67,
+  "south": 46,
+  "north": 33
  },
  "hist": [
-  {
-   "t": "2026-10-19T01:00:00+08:00",
-   "psi": {
-    "west": 155,
-    "east": 117,
-    "central": 126,
-    "south": 113,
-    "north": 100
-   }
-  },
   {
    "t": "2026-10-19T02:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 89,
     "north": 83
    }
+  },
+  {
+   "t": "2026-10-21T11:00:00+08:00",
+   "psi": {
+    "west": 131,
+    "east": 97,
+    "central": 116,
+    "south": 88,
+    "north": 82
+   }
   }
  ],
- "newsUpdated": "2026-10-21T10:08:05+08:00",
+ "newsUpdated": "2026-10-21T11:07:37+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,6 +507,27 @@
    "pinned": true
   },
   {
+   "source": "NST Online",
+   "title": "Former Indonesian minister hits back at Syed Saddiq over 'Asean outcast' remark on haze",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYU92RkN0Tm1CS3FBVlIyd2VELTVzb3IzZXFkVmFITmFRQmZzOXpaZ0lWZVBCRTRXWDNhVTloc2VBbFNGdUVfLVY3ZC1UX3RFcFNJQTI3cUNUWEFrTEJCSDNQa0pjR2VUSThwX3lMc282MldKVmVldDBNbHAyaV8ySTBhejIxZHZEOW5PWFlzNGx1WlhudHotSnlaSWoyVXdta2tsUDVKaGtYX2VwQU1YUUs3bWE2ZGxxdFHSAb8BQVVfeXFMUHZsOG9ya21Sd1pfRkFEZlQ0aHBpdmFaYm5iZHZHZVRlTnR5dmRRSUxvMkt2WXlSVkpmS1NLeXJzMGlsMlRKejVIQ0kycjdJamtTZTlhNVN1Y0JqOTIwT0U4RUM0bllxZUxEXy1mMFNYNVM0dVhmaGRfakIwQlozOF85d2NTalNFM0ZSMUlGMlNKX1ZoMHc0OWs5S0FER29EamRBRjdOR1pwZHpoaDlvVkxDZGtuS2tkRnN0LUZRQms?oc=5",
+   "time": "2026-10-21T10:45:45+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "Singapore Releases N95 Mask Stockpile as Haze Drives Demand",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHFGaVJwVzFQVXFBQ1JJTGp5WjJRSHNjVkJaOUZ4Nm54OV9oR1lWbzlWYW0yRnMwNlVFdDV2Ry1zTnRSZjZZdzM5YUZablVIbVVEdzdJR2xoSk9rQ0NzckNrMzJvT2ZISGZTUFl2UkNDV1gtb1BKLUxOQkxFV0tYcXhuNGhRVUFIanhpWnNDdnYyT1BzUllB?oc=5",
+   "time": "2026-10-21T10:14:23+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "New MyKad, haze among topics in Dewan Rakyat on Wednesday",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xU2RaeVNqYnFtaVdvMmFhV0wwZ2JJWGNKMlhNVC1jalB2R0ZIM2RRWVQtRkk2MkFTUEpZX3h1N3RjZnhaeXVSUW1sM3BmREFH?oc=5",
+   "time": "2026-10-21T10:09:38+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Online Citizen",
    "title": "MOM issues new haze guidelines for employers to adjust outdoor work based on hourly PM2.5 readings",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY0JkMllGelJJd1ZqWjRXaDJvOFN6NnNKQnRpWl9IRkxtaDI0T1JXdnU5blowZk5rcXptNFprWHl1R1UtVHg5WG9JZ2E1dDQ0QjdIQ1A0MFVNMDBZUXZOdVJqN21HaWh6SUlqT2I3SGh4WEU5dzkycWFEZHEyOUNOXzlNSkJqVnRDY0E2R011RlZ5YVNYNkdTTGViZXdVT2hFaVQyYXlITzhWdUVuQ3dDckNBRTE4czF6ZFNTd1YzeGNhNjBKRDN6NG55dnp0NEpSbDZIWkN1SnpXbTNO?oc=5",
@@ -514,10 +535,24 @@
    "summary": ""
   },
   {
+   "source": "The Vibes",
+   "title": "Budget 2027 debate resumes as MPs seek answers on MyKad security, haze and semiconductor jobs",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTXA1VHY2QV9zRXlVc01HLXJOU2MyeG5rNEhENFVpNk5oNGtURE5QOHJlTE9SX3JtdEZfa01OSndoS1lLcmVwaFU2YkswLTZ4aFlOLU9UWmhhQ3Jaby0tcXBkVnJfQUg3eHBLT0h1YlVoZ2h0YlVaZ2JtWTZVYTFSMW9qeVltLXA4QU5mcWlBalFTeG40M0N3SjdFZ2RwU3FnM0JNNXNVTUlzVS0yaDF2NXowQ0dWX1dMNkI1NkFCSUw1RFFNNUpieFVZaU1NZHlzd25XbA?oc=5",
+   "time": "2026-10-21T09:53:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "AsiaOne.com",
    "title": "Haze watch Oct 21: PM2.5 levels normal in north, east and south Singapore",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOGhCNmM5bXhSUE9iYkpaVUFwQXdyYWwxVGYteW5VT1l0SEU1N3JhV0FEaFVOYmQzUlA4UE5uYjFCNTRJWEplVGlVS0NqTUxDNkJvQ3dKMGk1eUF0SDFfeFZ6dnpNS0RrTW45WTdrN3liRVEzSVJQVGdGZFJTWWt0eElvVXFJWkU?oc=5",
    "time": "2026-10-21T09:37:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Why won't the rain wash away Malaysia's haze? Experts explain what's keeping the smoke coming",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1hLVWFHTHJ4MUNoV0JiX3ZUT2tpQlVQV21QWkhtYU1OeVN3dUdsc0lGWUQ2bjNWcFFFMGlsTklVSXFUYlBxYXh0SGFPSUxHWmdRb01RLXQ0OTR1bW9WSmZRRm9rMjRSMDJOYjY4NnVQclQzcU0yUi0xTE1BQnduOHZzQUdGR2RqVjBHUGUxVy1HYlBrLXh0MnJhRlNDRE4zUTZiTlo1UTFqQkk0MC1FS3pzVTI?oc=5",
+   "time": "2026-10-21T09:24:14+08:00",
    "summary": ""
   },
   {
@@ -531,7 +566,7 @@
    "source": "Malay Mail",
    "title": "New MyKad security features, transboundary haze measures among topics in Dewan Rakyat",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMnVMNWpvLS1OWHhmUWVxYXVtV2VuVUJCMEJ0RzBzM1AxbjBKb0JMdE56M0FEZjRKeGdxVnViVndrRkhfbUc5ZFA3bVlfSkJqYUZucGxFekUySDZDY1lLQmoxM1VqNWxzeG1NY3hRTldmb3lyN3dSY3RhM0E4ZlZwRW1jb3h4UmNRbENxT1FQeHlSLWdkM0t2WmVKSGs1dV9JWGZxNkRueHVRZmVkeFc2QmlzdlFOX3J6U09xT2xiWGZqcS1fdmpIZUg0b2NfNzZxUjdhMWhrRThWd9IB3wFBVV95cUxOa1FzYjJwSnE4WElqTllRYVROS1k5R295d2ZLX2hsZGJoTjQtSWRDQWRzUklmZXJKR1Bwc3h4d2VTZlpiUDQtWFVaQm9JckN2QXY4RE5LTS04TjUtUG9UNmtzR0pqaVMwd09IUG1icGszMlM3WjIzTjExdzBqUkw1ZG5jeTZia0F5WW1NbjdzUDExRjdOQTJ4Q2Frd2phbjZHV3RxRks0ZFFrRC14ZGctOEVoei05VWFnb29nc0pvZEQ0VE9INlhQUVBtVm1LVENwZlV4TVgzOXgzbk1tZ2tr?oc=5",
-   "time": "2026-10-21T09:13:46+08:00",
+   "time": "2026-10-21T09:14:51+08:00",
    "summary": ""
   },
   {
@@ -560,41 +595,6 @@
    "title": "Haze raises risk of medical insurance premium hikes in 2027",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRzNLZ1hwb0FsOHdnOU9ROXgtYWMweF92V1V5ZmlTTG1HanZCQ014UVZPdHBzakt3RHp0aWNCOGtBb2dwRjNYZXAzTmpKMTJyYlp4NVRtOGItTy0tUDZpQTNSRkpBNDFXdlJYZ3BUbjRRaUh4LTFWTEhPa2JKN19oZ0c5eDk5T0ZnX0luNkFyWHYyX0QyS1Q4UDB5UC0yRHhfMzhVbGJB?oc=5",
    "time": "2026-10-21T08:29:32+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Asia Insurance Review",
-   "title": "Singapore: Allianz introduces special haze benefit for policyholders",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWHlmbDFPY2N1MXNrYkpUSDViX2ZST2pOMHhqU25BOXBLdUs0bF9JN3RjWWxnWUE4b0tpNlhjWU9wY1lVdWFpcXlOSVQ1aFAxQVZJblJ2Y3ZQaG8taFFPNHkxQ0JDSEJVQzU1NWdJeU9VQjljS2I5bWJpbVJQcGhEdWxSY0lNNnJGTk9YdEV6VHpYMGtsYWd6aG5fcTlrbkxVQmNQckgwU0RCczRNVmtvMllXUVNXRHdPOVRrTTJCMmpOeXlBNzJwLXZ1LTRTTXlCaEV5YkU1ZzVRMlhFUE9ZR3pINm5tdw?oc=5",
-   "time": "2026-10-21T08:00:47+08:00",
-   "summary": ""
-  },
-  {
-   "source": "BBC",
-   "title": "Borneo is burning - living on the frontline of Asia's toxic haze",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rWlRheXpiUjV3RmlFS0RYZXMwN0ExNmlKUWNhYl9ySEQ5MG4zbFlfbTE5T0ZZMndWNnN2WGdLazBjdTFpTVFwcl9FY0g4MmtnVGJ2T3RWMGhWSFE?oc=5",
-   "time": "2026-10-21T07:51:43+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Free Malaysia Today",
-   "title": "Ex-Indonesian minister slams Syed Saddiq over ‘Asean outcast’ remark on haze",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYXJBeXU1NFpTR0xTTndpVjU0blVQU3BQWU02c0VDZ2tvLXN1ay0ySUhzSVNVNWhLYUczNVF2SDljSTd5LXNaVVZmWXB6ckNuUEJkOVVnM3Y2UzgtdmhtNEQ2Y1Vud2FRSUVBLTlsS1lVRXpEUjdSQmo0NWV1OEoyaVVYTWtLRUJJNnJtSzloY0dpTjViTFRCa3c2MWxmcUExR2hJY20tV1prZVJYdVpVX2t1VXViYVdYb19UZDc5OXJFZFdCclB6NnBCVlBudEtD?oc=5",
-   "time": "2026-10-21T07:27:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Air quality in Singapore sees slight improvement; 1-hour PM2.5 readings elevated in two regions",
-   "url": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-21-6476941",
-   "time": "2026-10-21T07:10:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "BBC",
-   "title": "Asia Specific | The Asean diplomacy behind the Indonesian haze",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkNTlqVFp0U3gxX1VEeXFuY09GVFpORDMtVVo4NExoTFJIZnRvUm9sQjBLX1VXZS1qNVhVeWZFb3pORmVYY2NuYmNfRjg0MTFF?oc=5",
-   "time": "2026-10-21T07:05:38+08:00",
    "summary": ""
   }
  ]
