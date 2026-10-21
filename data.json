@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-21T17:00:00+08:00",
+ "updated": "2026-10-21T18:00:00+08:00",
  "psi": {
-  "west": 122,
+  "west": 123,
   "east": 92,
   "central": 109,
   "south": 87,
   "north": 80
  },
  "pm25": {
-  "west": 74,
-  "east": 47,
-  "central": 57,
-  "south": 56,
-  "north": 29
+  "west": 88,
+  "east": 56,
+  "central": 61,
+  "south": 47,
+  "north": 31
  },
  "hist": [
-  {
-   "t": "2026-10-19T09:00:00+08:00",
-   "psi": {
-    "west": 132,
-    "east": 101,
-    "central": 110,
-    "south": 96,
-    "north": 87
-   }
-  },
   {
    "t": "2026-10-19T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 87,
     "north": 80
    }
+  },
+  {
+   "t": "2026-10-21T18:00:00+08:00",
+   "psi": {
+    "west": 123,
+    "east": 92,
+    "central": 109,
+    "south": 87,
+    "north": 80
+   }
   }
  ],
- "newsUpdated": "2026-10-21T17:08:38+08:00",
+ "newsUpdated": "2026-10-21T18:09:56+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Haze hits pets too: Cats suffer asthma attacks, dogs need oxygen, say Malaysian vets, Malaysia News",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVklFY2ltQ3RGaWxLNWtCdktBaXBFdnNvVWJIOWVBbDlJbDJqRzJxdGd0V09VZGtQLXR4Ql80VVRXUWpsWktaNlV2RjNmeG1BclZyVVBQSDRvMVhjbTBEaEJmQ29wc2VPRlBtYTRPd2Z2UEF3X2pXRkg2ek0wNUl2cm84V0xPUlhKZGhQcFlKeHRUV3NUUDNEclhTR0ZOSzBjX190YnJfN3p6cXpQRk5WTEo3Mm8?oc=5",
+   "time": "2026-10-21T17:42:34+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Business Times",
+   "title": "Haze clouds Indonesia's growth, but economists see breathing room for Malaysia and Singapore",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbzRTdmJMeU85ZHhXZXF5NlRPT2lsOWNiT2gxZmxFdUF0MUVVQVVTcWhHcDFpSWdKSjliMDBOc1BXYWFOVnJ1Z0hsOU1WVGdNdWhHakd5a1FkcnRzelRpZXpPX3ZtTlBzRU5CM0dVQkY4czd1dUFlM1YybWo5YjhaejlweEpMZi1weG5jRzNhNFBmOFgxYnNYYkRGSUFBUmQ1d1VzUWVBUzVQenJSb05NMElCdVhTS0xmZDFZSFFBLU9JVjRwd3RvcW9JZElTUkVXSkE?oc=5",
+   "time": "2026-10-21T17:28:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Deep Dive: How Singapore can turn up the heat on haze-linked companies",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVU02d1FxS2Jic2VMNTZLX1JQWnktcFkyMW4yLWVEZkZlTXMwVVZHaHZCS0Nrd1dneTF5b2VTNWhkTllzMXppb2JMY25wSUdTTlpXaE9SY292QjJFZ3Y3cjRvcWlGODVhNFVzT2Y5Rm9IdnoxSXZIR1NNWl9PNVkweTlMSGF6cEhURVJieVFoTmFOZlpJQ1RlemU2UVVSczZTclNWWnRwd0hNZGZLWkE?oc=5",
+   "time": "2026-10-21T17:23:22+08:00",
+   "summary": ""
   },
   {
    "source": "Awani International",
@@ -574,27 +595,6 @@
    "title": "Anger builds as Indonesian wildfires burned nearly 2 million hectares and send toxic haze across region",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLW0xaDBRWmQ0MXYxSG45SU5ZUzE1c2VqdXJnYzE0QXppV2tkaFJKYTJnZUE1ZHRkRERmN05NT19URkpjRzJYcU9aWW1UT2ZqVzJYSHBocVk0RDlhcHNjeThVSXlJMTlsakJSVUt0NER5TURtZzdmejExZXJpTGVjVDdpcE1ZRWpMc1BpcEM0eXZ3Sjdac1BiV1VWdXIwN3ZWQUxkc0Y5WEdDdmt4S044WFktZVNJOGduY0NBZVU4S2QxNXpCS0pDRDItMGlCOFdud1NkLW5tQWI?oc=5",
    "time": "2026-10-21T15:10:22+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "From dance to clean-air shelters: How South-east Asians are turning haze anger into action",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORzNfWHBhaUJzVTFGaVhZWEFXOU5lQzJwUFNIRk9mX3lGSEtZUjFwXzNiajFsZlRtRW5qaDJkVnlWZ084aGVPRVZDN1ZqS09jbHRUTlVBaFdNQ2N3XzJEYjlCUTJOaHZfQUpxbDNLcXI3TnZXZnQ3MnEtVjZWckJGRlJMenR6QmFQVnA3X3k3ZEVwNzhEUGlJb1U5cXNXbldxajl5NG5pU3JkX3FlNEs4dWlhSVUwaHc5U2NvWGtFT3FTd1RvaXo0UFZ0OA?oc=5",
-   "time": "2026-10-21T15:05:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Online Citizen",
-   "title": "Indonesia tightens weather modification safety rules after dry ice falls on homes during haze operations",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNWk4RzFfTDVvNktGMVRVT0FXdFhpTkZCNUNrR2NFcEEtbkZlUUI4SkRhTHRZVHBTMnc2NWpMWDhacTdzQmp6dk9yTkM1am5GdDNER3kxTC1obUsyc1h6QTNUa0tiNjBLN3hISmgyRU9PbXZycGFmSktHVDNZNF8wUllGRENock1FeFUxakhMa24wWk5ycGpKdmYzM3lVcXdoNnRkUFhSQWdrMy1adUhlTTNTbEtwMGdTU3htX2ljeWtoREJNUWNxak11cnZidXJEZFJxUzFmZ1BZNkRmSFVBdWs4bw?oc=5",
-   "time": "2026-10-21T15:03:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "TTG Asia",
-   "title": "Forest fires and haze disrupt tourism operations across Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNEJhUXNYQXRGUHhud2sxQ2RWcmNGZzRpSFRqYU1oLTZVd2Q5NXkzWDR1RHhDVmRWQ0pjZjRpdUhVbmp6RmxoMVFwNGx1aFgtbjlrLVQ1NTFUMmVZNHk0enhUX3p0M2JOdXpNeTkyODgtSXJuWkJjOXAtVGE2S1Z3ZUpjUXFuZDdMbkY0OUZEVHkyOXA0TWZUOFhaSkdXZlp1R3pj?oc=5",
-   "time": "2026-10-21T14:43:25+08:00",
    "summary": ""
   }
  ]
