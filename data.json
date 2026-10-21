@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-21T16:00:00+08:00",
+ "updated": "2026-10-21T17:00:00+08:00",
  "psi": {
   "west": 122,
-  "east": 93,
-  "central": 110,
-  "south": 86,
-  "north": 79
+  "east": 92,
+  "central": 109,
+  "south": 87,
+  "north": 80
  },
  "pm25": {
-  "west": 69,
-  "east": 44,
-  "central": 58,
-  "south": 55,
-  "north": 28
+  "west": 74,
+  "east": 47,
+  "central": 57,
+  "south": 56,
+  "north": 29
  },
  "hist": [
-  {
-   "t": "2026-10-19T07:00:00+08:00",
-   "psi": {
-    "west": 136,
-    "east": 105,
-    "central": 115,
-    "south": 102,
-    "north": 90
-   }
-  },
   {
    "t": "2026-10-19T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 86,
     "north": 79
    }
+  },
+  {
+   "t": "2026-10-21T17:00:00+08:00",
+   "psi": {
+    "west": 122,
+    "east": 92,
+    "central": 109,
+    "south": 87,
+    "north": 80
+   }
   }
  ],
- "newsUpdated": "2026-10-21T16:08:06+08:00",
+ "newsUpdated": "2026-10-21T17:08:38+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Awani International",
+   "title": "Haze chokes Malaysian capital as forest fires from neighbouring Indonesia persist",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXhWempoRHZnSUhlRmtFV19JR2RYblR6M3NyLTBLZHBQeGsyMHE0QjlTUUVxdVppMHp0dUVKXzBHRUJYRGhheGJvNEhkSFFPQkQyT28xMDdwTkRNTlk4WGlPRlF6aDFZSDNPS2NmbDJ0a0k3RmRHcmdGUkxDYVhCUUNVUUY2SUpHNUhldHhWWWxHWFNZc3hjQy1jQkhDWV9aOEFqcXdNUS1nMFI5X3doX3U2ajVMbVlfMHhWMVBwYw?oc=5",
+   "time": "2026-10-21T17:03:36+08:00",
+   "summary": ""
   },
   {
    "source": "Reuters",
@@ -525,6 +532,13 @@
    "title": "‘National disaster’: Greenpeace targets Indonesia’s Prabowo over haze crisis on second anniversary of presidency",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX3pXSjQyRW9FZGVDSlBPaWR1SXQ5azI0Unp0V280ZGF1cVg1S2d1WDFjLW45ZVE1bWloTS10WktRUDdGT2R5VlFVQTR5UExpMFBDNFlxcVFQX09WbmFNd3lzVkczbmZCQkhzTVZ0ZXdWanJCUF9mSlBBVmlreXhFdUJiWmtQWk0tNXBTTGM4MGVRRGY1M3BtaA?oc=5",
    "time": "2026-10-21T15:54:59+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Air quality in Singapore improves; 1-hour PM2.5 readings normal in most regions",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNGRhQzJCVFhFejA2RV91MW9WMFl4RWlUN0lMc1RYQkhLNmM3ZkJjbXZRdVg0Y2V4VFY0d0lfS2F1RFl5cEx3ZF8zeWFyeUNtV2FDYnNXdUg3RFBZNjRNUzlGa0E1TjV6dVpjeGFab0gzRmhxVFZBTlpndFdYdXZfeWgtY2otd2VTb2lfVFJLNEp3UGZodnRRZ3ctRDdEY1E?oc=5",
+   "time": "2026-10-21T15:50:44+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Forest fires and haze disrupt tourism operations across Indonesia",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNEJhUXNYQXRGUHhud2sxQ2RWcmNGZzRpSFRqYU1oLTZVd2Q5NXkzWDR1RHhDVmRWQ0pjZjRpdUhVbmp6RmxoMVFwNGx1aFgtbjlrLVQ1NTFUMmVZNHk0enhUX3p0M2JOdXpNeTkyODgtSXJuWkJjOXAtVGE2S1Z3ZUpjUXFuZDdMbkY0OUZEVHkyOXA0TWZUOFhaSkdXZlp1R3pj?oc=5",
    "time": "2026-10-21T14:43:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Greenpeace activists in Indonesia climb iconic statue in haze protest",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQk52R2dqOE4wbGFLbjhaNWwyZlhtS0JBekFlekoyOE02ZFRmaDJBVjhDVGdheFo2bHNuVmJ0Sy1ZRjk3NHBZNGo1TTBrdUEtd1NORV9MUkhIMXAtT2F4bkxWWnZRSElVYWgyU3RuSFE2eFZPM3o0S2VzQV9qLVhvMkxWZDVQenhkN2tJSEthY1ZOSWc0Rkl1VTRheElWV0hXNXo3OENIdXFuT1AwM05pN2EzMDJrTlU?oc=5",
-   "time": "2026-10-21T14:41:22+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Malaysia, Indonesia explore proposed MoU to tackle transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2hjV29vTzNUdDhjaXpoRHN0RmswcEI4aDk4N1RNNXJ6XzUxeUg2YVlKNUhfdTVyZVN4ZlhYNUxicE9RZU40QUVWVXlhdEJCMGIxUmNOMHhVel83QURibk12Y0pVWGRJT1pCbF9HX3pnQnpBMmljQXo4YVJJb3RtaFZyM2R1b3pZV09OekE3MXBEamI2N0ItdzJ6NE1aMFR1YlJfUDJKODNVdDNpRUtN?oc=5",
-   "time": "2026-10-21T14:40:00+08:00",
    "summary": ""
   }
  ]
