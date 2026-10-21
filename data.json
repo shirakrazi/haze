@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-22T02:00:00+08:00",
+ "updated": "2026-10-22T03:00:00+08:00",
  "psi": {
-  "west": 119,
+  "west": 118,
   "east": 88,
   "central": 102,
   "south": 87,
-  "north": 77
+  "north": 76
  },
  "pm25": {
-  "west": 33,
-  "east": 24,
+  "west": 32,
+  "east": 27,
   "central": 35,
-  "south": 29,
-  "north": 33
+  "south": 27,
+  "north": 29
  },
  "hist": [
-  {
-   "t": "2026-10-19T18:00:00+08:00",
-   "psi": {
-    "west": 114,
-    "east": 91,
-    "central": 105,
-    "south": 88,
-    "north": 89
-   }
-  },
   {
    "t": "2026-10-19T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 87,
     "north": 77
    }
+  },
+  {
+   "t": "2026-10-22T03:00:00+08:00",
+   "psi": {
+    "west": 118,
+    "east": 88,
+    "central": 102,
+    "south": 87,
+    "north": 76
+   }
   }
  ],
- "newsUpdated": "2026-10-22T02:02:01+08:00",
+ "newsUpdated": "2026-10-22T03:07:19+08:00",
  "news": [
   {
    "source": "CNA",
@@ -511,6 +511,13 @@
    "title": "Allianz offers haze benefit as Singapore faces wider insurance risks",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVnI3dEZaaDBzVUx4bkphRVBBX09kOThKM0VLWnRVWjFmSHpXdi1hR2thc1FJNHpzTVd4Rkt5S1ZXSF9EaU1Ha0ZFeFZlS2E3dF95d0hsLTZnM0JfQnZIdGMyQmxTb1BBNWVJQ2FLX1N4czlXX1JsaTBYdXNwRFFrOHc0bGpKak0tanl4dW0wSkItWTN5YWxUTEVmMk4tdHRhdDM4VlZ5VlI4N19xNm5JOFNDcUthWlNvaEdQdDhwelRLLUxTOXhFeF90TlVFNXUtaVF6SC1R?oc=5",
    "time": "2026-10-22T01:54:10+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Thred Website",
+   "title": "Southeast Asia faces worst transboundary haze crisis in a decade",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS1ZKRXV1OVN2eEtfYUljZTVfdFhIQXZrcGpxRXBtWWNHNHk3UkNBX2lKOW5kMUthYUt4SktoWG1DZmNJd2U5V0VyeE5la2JMb19YbWVwUGsxM1Nfby1hdnJGV0ZvdV9OUk5iNTNRc2lRY0VHQjVtSHhzOER2X095Z1ZoUXFubWI5U3FzaE9kaVFwX2lX?oc=5",
+   "time": "2026-10-22T01:26:31+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "MP Sends Message To Prabowo On Haze In Javanese",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iYl9ZNS1IOVhEMVItSmg2aVZOQXlISVRtMzh1ZjhENWk5UDdvNW82Y0tKUmdxR2hDUmpOdVVvdDhQVkZZejFNODhwRVFLU0RGMW5ab1hhX0FXRkRfV1VDUmpHalA?oc=5",
    "time": "2026-10-21T20:43:12+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "PM2.5 in normal to elevated bands on Oct 21, haze could worsen from Thursday, Singapore News",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdG1UTGNIZ0tmX1A0YTRCeFZTbmVDVFZXdVFzSml6SEduc2FCVW1FX0kyYjdOZW4xMHc2MEdaMllXNkZMVWFFUWdPZVR2cTVOZS12YXFKOWJPaWtIRWFJY0VSZktDOGdKUkhKQWUwRHo0LTNOdEpwNjBxQ04tZVB2NmRYSzViUDBwQTFwSkU3Z1RhcDQ?oc=5",
-   "time": "2026-10-21T20:15:58+08:00",
    "summary": ""
   }
  ]
