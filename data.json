@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-21T18:00:00+08:00",
+ "updated": "2026-10-21T19:00:00+08:00",
  "psi": {
   "west": 123,
   "east": 92,
-  "central": 109,
+  "central": 108,
   "south": 87,
   "north": 80
  },
  "pm25": {
-  "west": 88,
-  "east": 56,
+  "west": 92,
+  "east": 49,
   "central": 61,
-  "south": 47,
-  "north": 31
+  "south": 51,
+  "north": 34
  },
  "hist": [
-  {
-   "t": "2026-10-19T10:00:00+08:00",
-   "psi": {
-    "west": 129,
-    "east": 99,
-    "central": 108,
-    "south": 94,
-    "north": 86
-   }
-  },
   {
    "t": "2026-10-19T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 87,
     "north": 80
    }
+  },
+  {
+   "t": "2026-10-21T19:00:00+08:00",
+   "psi": {
+    "west": 123,
+    "east": 92,
+    "central": 108,
+    "south": 87,
+    "north": 80
+   }
   }
  ],
- "newsUpdated": "2026-10-21T18:09:56+08:00",
+ "newsUpdated": "2026-10-21T19:12:54+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,55 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "planb.sg",
+   "title": "TikTok Creator Slammed For 'Tone-Deaf' Video About Fleeing Singapore's Haze",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORmlJeE9IMTRQaktNU1R6R2t0V0FfMlFmNjZ2WXNsSzV0MlJhaDQyVlhaUjdlenVEQzVTeFF0XzdDZFIwMVRtaEluQmdSYnJySTA1N0dBSWR2dmtmX1d4VG82TVNDMWcwRElDb2lZclgzNWQxQU9ZVmlaSDRpempfbWdXRUtxZHpFcGxMeEFOMm9VNHBJWXc1ZWhQa0dud1hl?oc=5",
+   "time": "2026-10-21T18:51:56+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Air quality in Singapore unhealthy in west and central; 1-hour PM2.5 readings elevated in three regions",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNGRhQzJCVFhFejA2RV91MW9WMFl4RWlUN0lMc1RYQkhLNmM3ZkJjbXZRdVg0Y2V4VFY0d0lfS2F1RFl5cEx3ZF8zeWFyeUNtV2FDYnNXdUg3RFBZNjRNUzlGa0E1TjV6dVpjeGFab0gzRmhxVFZBTlpndFdYdXZfeWgtY2otd2VTb2lfVFJLNEp3UGZodnRRZ3ctRDdEY1E?oc=5",
+   "time": "2026-10-21T18:50:23+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "CNA938 Rewind - #HazeHealth: How could the haze worsen or improve? What are the signs to look out for? #SGToday",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMy1GVzNuVDN6Vkg2dks4VlcyNTNEbFAySS00WlNxMnRFU2pibkJ4ZTUzZnRxREdHbHZ0ckZEUTdfWjJkS2RfUUtydEVTT1N1cmRtRk5qbEV5UldJNDBQR0J2Rk9TRXRXTUVGcDBmandmRWVnQk1jNG5WVmQ5cjBRNUVoNE9SbXo1b3h3SEVadnhpbUk4d0cyV2tvM1FRZmljQlZmeDJtc0xRRXg2X3luY0JGU1g2QlJ5anZ4TkVlcnVEOVYtRUtlei1wZlA2YmJBcUE?oc=5",
+   "time": "2026-10-21T18:31:49+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "Indonesia Sets up 477 'Oxygen Houses' in Haze Relief Effort",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmYteENPbzNBTmdFWnQ0UG13U0FnWm55LXVFWkRkejlIbnl5aS02eG50TEdoUFZCVEhLLTB6dGZfeml6RFU2RXhiSVQ5RUM1ZGNkekNLaFVVbHREVDh0MXVIbGpyS2hOdW55Z1RlajhzM3BuWURGb1FNRzE5YXcxUzZQZGd1bkhBQ24yRnZRYTlZZERN?oc=5",
+   "time": "2026-10-21T18:30:37+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Sabak Bernam MP speaks Javanese in parliament, calls on Prabowo to end haze",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHF2eGFtZEltTEdERlhnZ1dESG56MjhfTzVnaFcxQWxUUmRHV2pBSFZYcnJLS3Zya1pUakVtOHJUZmp4ZnFpeFhjWlRjTmE2cFo5ZUctTXRkY2FSWmtwc3ZnczNqbWFsMUhiUi1HV0pSelFyaE92eWFVd09ZcjFtMnZFWW1ia2hGendtQlZ1WFZYZHBHeUZDcWlKUGVxUUJLeVJlTUcwdjgxM3dteHItMkZianA0emPSAbwBQVVfeXFMTTVBeDlFdVozaUUyalhUNGt4b2JtQS1FR2NJZFJkcmVKOFIzRURFVloxV0JKTk9sWFA3LUg5R1lCQjN1cFZTSEhsbjRxcml4dXItTnRIRjRpZ05XNk9CUjBOeWJZbFh5MU1FNkk2cC1CTmJxa0xEbzVNN3NWZC1PSGlOOEl4R01jeWF1REhpZUctWmRCMlByQ1VsRTBIM1JiQ3k4OUhBcTV5VUNQd1VhTnJvd2dZYzduMzJTNno?oc=5",
+   "time": "2026-10-21T18:24:07+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Up to 15% increase in respiratory or eye-related vet visits in Singapore during haze",
+   "url": "https://www.straitstimes.com/singapore/up-to-15-increase-in-respiratory-or-eye-related-vet-visits-in-singapore-during-haze",
+   "time": "2026-10-21T18:20:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Indonesia Business Post",
+   "title": "Singapore restricts APP's green certification over haze-linked suppliers",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWZ5ZG5xc29HVGxEdmw0Nk1ZdkMtNjZ5VGQxNXcxVDdlOEdndW1vV21sbVdaWkc3SWVmbl81NnpzWHFxR1VFcUFldHZadWkwT3ZPQUZ4MklyNE8zSE52TENjMncwbS1GZFZjSmZWcVM5eHZtYlhSR1U5RVE1ZFQyZHVwMU9OTzllSlFnZXo4d3hhVEM4OVBPend1ZlVjbE16Wk1ZYWNXZUR6NVFieU5yYkhsb21NY1ZncXVPMW5UX3oyN1lXQjFF?oc=5",
+   "time": "2026-10-21T18:12:47+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne.com",
@@ -537,8 +586,8 @@
   {
    "source": "Reuters",
    "title": "Haze grips Malaysia's Kuala Lumpur as Indonesian wildfires continue",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjQ0pHVFNRVktnZ2dEMV9sdkRFaFZQa1Z4QklsQk5XVVkyMlZuci10elNxcTQ5ZDZTOWlRNG4xSE1oRWFCNldfMUVPZDVaelRpYzRqaDlyLWEtQ3NKV24xU2NzR3NOc0J0d2tSR0JpOEpDQU9aTnhBR1dDUWwydw?oc=5",
-   "time": "2026-10-21T16:04:10+08:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xai1IaTIwa09oZ0dXaGNoYW9IU25ZU1pRTWZfLXM0dnQwckVud09kUEl5ek1BLW5KalI5a3hWbmo2VUVROTdnRFlTR0hIS3RqZDNrTU1yU3IxdlVqYXJrelpuVElkcnc?oc=5",
+   "time": "2026-10-21T16:11:15+08:00",
    "summary": ""
   },
   {
@@ -546,55 +595,6 @@
    "title": "Greenpeace scales Jakarta landmark to slam Indonesia’s Prabowo over haze crisis on second anniversary of presidency",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX1VoWG5IX3Q0bWhUanFUOE9LNHMycVk1V0p5Q2xxbGl3WFVCeXFuSnAxVGkweGF0OVhKUnY1NEF4NUpSMDlNM2plWjJwOVJUTzhGMjlqMG9Xc0p5VkhYaWQtMUlfSzNYcUp1U2dCbzRDeklMU2NpYlY3OF9NRnFkYmd2OXNLWGNFa2JpWU9hZjNEdTNoZE5IWDBpTUt5cEhTYTI2TmFWcUZQUU1wTzRPdlllWldVcGt2SVNIazlBanpKeU5oeVpDbGRobmhaOS1JQ0VOd2M5VzkzZDdGRGx2TnQ5bWhVVjZqYVlveHdyVTRVa2RHYmfSAfsBQVVfeXFMTWpzTUxMNVdEV21YdHc5YVpVV1hCbEw0YjFnRzEtTEV5RTEzQUN6RTFVY21HdmFSMnJMYkxwS19RMmNpbUl6dkZ2Q2FPeGhoRkVBVXQyNktnZ24xbERqRkxObW44SDd2YWJZLU5kUkVtNWM1VzRJT3YxTk50Z1RTT21NNjdiSjVKOWJDcDRaazc0TXNaRU5jNWpYN1I3MWVzM2ZvNFhSemR5dVVpS3pidmY2RFp3bnVzdW41YkFvTTdCX0RNeGw4LW5QU3BOSzZoN1diaVlUR3RRVXdZM29fZVJ4alVWWk1fTG16eGktdHlJOE9rQ3FDTHZJNHc?oc=5",
    "time": "2026-10-21T16:00:53+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Yahoo",
-   "title": "‘National disaster’: Greenpeace targets Indonesia’s Prabowo over haze crisis on second anniversary of presidency",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX3pXSjQyRW9FZGVDSlBPaWR1SXQ5azI0Unp0V280ZGF1cVg1S2d1WDFjLW45ZVE1bWloTS10WktRUDdGT2R5VlFVQTR5UExpMFBDNFlxcVFQX09WbmFNd3lzVkczbmZCQkhzTVZ0ZXdWanJCUF9mSlBBVmlreXhFdUJiWmtQWk0tNXBTTGM4MGVRRGY1M3BtaA?oc=5",
-   "time": "2026-10-21T15:54:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Air quality in Singapore improves; 1-hour PM2.5 readings normal in most regions",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNGRhQzJCVFhFejA2RV91MW9WMFl4RWlUN0lMc1RYQkhLNmM3ZkJjbXZRdVg0Y2V4VFY0d0lfS2F1RFl5cEx3ZF8zeWFyeUNtV2FDYnNXdUg3RFBZNjRNUzlGa0E1TjV6dVpjeGFab0gzRmhxVFZBTlpndFdYdXZfeWgtY2otd2VTb2lfVFJLNEp3UGZodnRRZ3ctRDdEY1E?oc=5",
-   "time": "2026-10-21T15:50:44+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Malaysia Respects Other Nations' Sovereignty in Haze Issue",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUhOZnJRNHA0djVjbHZfRDhMcXRSVTFxUllHN2VMYkZRcDFMTE52Nks5UW5tTXhkQVV3YWJhSVBfdHM0RVhCUkY3b2YycVBjS0RtdVAyQ2VKNU1UY09tY0R6V3MzbmNzVjZleE0yV1RYNzZTbDVqMzlndEZZdGsydlN2Q3ZSX3RQMXBUNzd3aVpwZjFB?oc=5",
-   "time": "2026-10-21T15:48:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Malaysian Reserve",
-   "title": "Govt weighs legislation to tackle transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaTRJOGJXR1ZsSW53U2gtVVQycHVldGJOOElsVFV0eEhyVC15OU1aLTl3SllmeHhkM2NnSzUzZEVnLUlKc1lfS2szNHNvSVFjTDJtMkZWOXZKaGlQNS1nVXN6RGdpS1dOZVFhUTEyTndoWDRYc2xnZTVlRGRwdU9kSG5LWnVlMC1sVjhPOHBGbko4SVJXeFZuamJyWUg?oc=5",
-   "time": "2026-10-21T15:25:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Does Singapore’s tougher stance on haze mark an inflection point?",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTEg1VFQ1MDBLQ1ZSb0o0al9rUFQyMFM3TmJKZ1lvcjBCSzRfWGRFUU1wdzRSelFJdEFBMlhLRFBaX0FBaXlKT0ptazNXWFl2RGtuQk1EaTVkVmoxQVZMdk1UZ1h4bWVueVNyT0xCUHlBcVZ1Y2FKUEFHYXducW04b2U2OURWbEdCelRSTDRINzkyczUzTlFNNk40OHhpRkpEcXVXZGVHNTZjNElGOVFTb3MtalRaeDhXUFllRzh3VkzSAcABQVVfeXFMTzBoS296N2ppZUZaYVQwNXNZcVkyVV9KVWtmRks3alB3eWY5MnJTajJfSWdiX3RoakluOHZxVlNMc3l1Wm56dnRjcUdqS1ZVVk0zVXM5RkxuM1BiQWtKQnFXNDhNb2V6dDB4Y3NvcGZHR1BpUVVmOEY5WUN0TF9JR0hFTmI1czhLYjVTVXZsejF5ZS1JV3ZuNDI5MWZOR1VkWlF3anp6enFEdzZMT1h2TEZWSThrNlFCZ1hxbUFSa2tG?oc=5",
-   "time": "2026-10-21T15:22:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "bernama",
-   "title": "Malaysia’s Cloud-seeding Experience Could Help Indonesia Tackle Haze",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FQzlZdDg0UGNJdzA4dW9jc0lEYi05QTF2aUJxeFdqTjQ3dGVqTnpCOUZ3bEpPOGh0WmFJdmRFQ2ZoRVhWTkMyOUtPZjNuUkNsaFh4Vnd2VDNkcFdlY0lvVHVR?oc=5",
-   "time": "2026-10-21T15:12:52+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Anger builds as Indonesian wildfires burned nearly 2 million hectares and send toxic haze across region",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLW0xaDBRWmQ0MXYxSG45SU5ZUzE1c2VqdXJnYzE0QXppV2tkaFJKYTJnZUE1ZHRkRERmN05NT19URkpjRzJYcU9aWW1UT2ZqVzJYSHBocVk0RDlhcHNjeThVSXlJMTlsakJSVUt0NER5TURtZzdmejExZXJpTGVjVDdpcE1ZRWpMc1BpcEM0eXZ3Sjdac1BiV1VWdXIwN3ZWQUxkc0Y5WEdDdmt4S044WFktZVNJOGduY0NBZVU4S2QxNXpCS0pDRDItMGlCOFdud1NkLW5tQWI?oc=5",
-   "time": "2026-10-21T15:10:22+08:00",
    "summary": ""
   }
  ]
