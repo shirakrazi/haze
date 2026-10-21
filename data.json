@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-21T22:00:00+08:00",
+ "updated": "2026-10-21T23:00:00+08:00",
  "psi": {
-  "west": 124,
-  "east": 91,
+  "west": 123,
+  "east": 90,
   "central": 106,
   "south": 88,
-  "north": 80
+  "north": 79
  },
  "pm25": {
-  "west": 73,
-  "east": 44,
-  "central": 58,
-  "south": 49,
-  "north": 43
+  "west": 68,
+  "east": 34,
+  "central": 54,
+  "south": 27,
+  "north": 28
  },
  "hist": [
-  {
-   "t": "2026-10-19T13:00:00+08:00",
-   "psi": {
-    "west": 118,
-    "east": 96,
-    "central": 103,
-    "south": 90,
-    "north": 85
-   }
-  },
   {
    "t": "2026-10-19T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 88,
     "north": 80
    }
+  },
+  {
+   "t": "2026-10-21T23:00:00+08:00",
+   "psi": {
+    "west": 123,
+    "east": 90,
+    "central": 106,
+    "south": 88,
+    "north": 79
+   }
   }
  ],
- "newsUpdated": "2026-10-21T22:12:32+08:00",
+ "newsUpdated": "2026-10-21T23:12:42+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Haze in Singapore: Solar panel operators report around 15% drop in output on a daily average",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaVAxWVV4TnlaYXpPMjVFRzdvMkVyb3JxTEpEZXFMNTE4T2MwOVgyaEFnWTF3Vnp3WF9SSFJnWGp6aTAzM3NQRXoyV2gtR2dhM0FJazVtYlFGT3BHbmJQUS1tTUFjcWJZd1d0ajJtQ05hVkMyR2JXX0dWMHhoalhsUXo0dmN5clpZZHlySU1BX3p2aGd5cFdnUGRCTTNPWHd1dUNHS2R3TmxudEV3QVZ5QXdlRXNFNUFXNURMU08xdFBIYy1pYldpTTZjQQ?oc=5",
+   "time": "2026-10-21T22:51:04+08:00",
+   "summary": ""
   },
   {
    "source": "Free Malaysia Today",
@@ -588,13 +595,6 @@
    "title": "Banks and courts must act alongside lawmakers to stem transboundary haze",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNWFYSEhKSVRlNmg2VGdGYS0tU3JTUWFaU1VkazFRRXZBVTh0bVVhcWVURHBFQmZoam5zYm5aSnloN2VjeEs3cWJnZVNmb0VBYk1oVjNaYUFsZmlLbzRhN2g2cV9LRk02cTVBc3p3QTM4S3ZzR2l4cE5HN0h1NTdMTmktVzY4SS1SSlVqQ3BjTC1lZl9Sd3BzUk95OUpKOGh6dnJhbjQ1bUN0UDlteTlsRkxrTHNmdUctTWFWUFE5TFpJTWtS?oc=5",
    "time": "2026-10-21T18:45:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bangkok Post",
-   "title": "President berates countries that ‘insult’ Indonesia over toxic haze",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGJhVmpqek52MS14eGZKLWlPUGlGMWJIS0pEMTdGSlJ6YWlwTDcyZzh5TFVBZEJtVGoxSm5xbGZjeENSaTRUWjZfT0l2RzlMSlFmNzlISWc4NVlybzhnc0t6RDFHU3A5M1h1Q3MyNzZsOW5XX3gydW15WWZMTXVGYlh4a29WVVhyTTNTQjBzSFJ1dG1QTFpUYmNCRkNadXl5cm1KS1hCUDZpZw?oc=5",
-   "time": "2026-10-21T18:45:00+08:00",
    "summary": ""
   }
  ]
