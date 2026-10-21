@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-21T12:00:00+08:00",
+ "updated": "2026-10-21T13:00:00+08:00",
  "psi": {
-  "west": 129,
-  "east": 97,
-  "central": 115,
+  "west": 127,
+  "east": 96,
+  "central": 113,
   "south": 87,
-  "north": 83
+  "north": 82
  },
  "pm25": {
-  "west": 67,
-  "east": 48,
-  "central": 56,
-  "south": 51,
-  "north": 59
+  "west": 55,
+  "east": 45,
+  "central": 46,
+  "south": 53,
+  "north": 17
  },
  "hist": [
-  {
-   "t": "2026-10-19T03:00:00+08:00",
-   "psi": {
-    "west": 148,
-    "east": 113,
-    "central": 123,
-    "south": 109,
-    "north": 96
-   }
-  },
   {
    "t": "2026-10-19T04:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 87,
     "north": 83
    }
+  },
+  {
+   "t": "2026-10-21T13:00:00+08:00",
+   "psi": {
+    "west": 127,
+    "east": 96,
+    "central": 113,
+    "south": 87,
+    "north": 82
+   }
   }
  ],
- "newsUpdated": "2026-10-21T12:07:01+08:00",
+ "newsUpdated": "2026-10-21T13:07:40+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Builders in S’pore take steps to protect workers from haze as some projects face delays",
+   "url": "https://www.straitstimes.com/singapore/housing/builders-reduce-workers-exposure-to-haze-take-steps-to-seek-time-extensions-for-construction-delays",
+   "time": "2026-10-21T13:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Indonesian haze threatens tiny bugs that power palm oil output",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xZm93eTZTdzhtbG5ZcnhVNWVpNEhBYS1UcVMxRWJMLUE0TmhmVzVFVVVOb1hwTUpGTzFITFdOck0wNVJBbkM4ODRLdV84Q0Ez?oc=5",
+   "time": "2026-10-21T12:46:59+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Indonesian government responds to viral Greenpeace banners criticising haze response",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdXNRZXh6emJLczlXZ1hyN3VnbVdiTWxTREdHRnlYNjRwWUduZ1pnS2xJNWNpUlpWbEtBQUhvM3JQRVRGbFdjcXNaQUwyVkh6dnZ0NG1QaDRPaXJFV1ZPalZGZzlya2JYd2U3OEQ3NnpfVkNLd0V0czlIQnZtNGt3bzJhN3pOZ2daRnNuRnlSbWwwRWNGNGkzYzJOZnFXcjZFazJsN3N1OVNwcjNHUGRNMzNRNHdpZW1jdF8wVzRFWmpHd1pE?oc=5",
+   "time": "2026-10-21T12:45:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Transboundary haze law possible but enforcement a challenge, Parliament told",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWTh1Q2h1YjNkYmg2dmRpSVloYXlLRG9kOUlUUEEtTFg0TUxfdmxiVDhjNzdEZ2FJZHdYdTVFTUtVRmpJb3BIQ0o1ZnNDT2J4NWozWjNVeDA2c3NJLUJQMTZvTVlXSlZFTGw5ZGdfUTNCZ2ZFYUNTdGtQSnhZWHpPMXhVVXRTRVVhXzZ5SGRpZ0ZfdkltWGdMVUdKNi1MQ0tkQ00yak16TEg5Rl9nUnJlRTRya04tYmczcnQ4T2JHc2FMUnc?oc=5",
+   "time": "2026-10-21T12:12:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "SAYS",
+   "title": "Government Rules Out Diplomatic Action Against Jakarta As Regional Haze Worsens",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV0FyMERXemZyMXpYX3hFUTJGOU5NYWhrd1doOWp5XzBRQjR3TjFVSVhCXzZDYi1zM01IcWJzV1pGY0lGekc0bFdSd0NNLXJNVGlKbk15Mi00a1AtRzJwZWJ1Zk93REV5Q3NHY3BrMkFMdl9RTk0xTUcyeXJBQjBwZ21B?oc=5",
+   "time": "2026-10-21T12:06:00+08:00",
+   "summary": ""
   },
   {
    "source": "www.tabla.com.sg",
@@ -518,6 +553,13 @@
    "title": "Indonesia Haze Threatens Tiny Bugs That Power Palm Oil Output",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0pTc1JBa29zaklOQk9DeGR6UGkxN0UzS29QcmEtM3JmeVN3ajk1aW9iNHpiSzhVeWdMbkFFTTJPcXd0WVRFeWoxc3lON2VLUmxLaUVnMW5TUVU1enU5eFIxYk54VkV5cG1CNTlhQjlSbHlPaHcwM2lmT3B5bERFM1FqLTh4eXp1UzVXRnJydExLbmE4QVBSTHE4LU55U2MyWlNxRDhkbVdOQ1JxZHphdHJR?oc=5",
    "time": "2026-10-21T11:32:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Singapore Business Review",
+   "title": "First Resources commits to cooperate amidst haze probe",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdERQVTBqLTdJbU1zN2dJdlN2Q3Z5X1hGLUFvVmVScUFnbkladlJQNEJQUkhSNWdLSnltTXZDa011M3VKempOQVZVODZDVk1pOGUybGJQaklNaWlmUFVtSExReWg2ZFZaWEUzVWV4V0laVklzVGR3d3owcGpjdGNOcVZMdHZmc2tUQmtlVXZYS05tQQ?oc=5",
+   "time": "2026-10-21T11:31:09+08:00",
    "summary": ""
   },
   {
@@ -542,59 +584,17 @@
    "summary": ""
   },
   {
+   "source": "Malay Mail",
+   "title": "Singapore braces for up to two days of unhealthy air from Kalimantan haze",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObWxQTEJjQ0RyMmdSTVQxLVFLaUdLem1kYmdGc2xYa2JTZ0kxNk0xX0hZLXpWMzdMVnJ5QkJYWTRxY0NVVXBYUEdZOExQX3lBcElOcWdHWmdOMFMyX1F4RWRadmtDeW1aNTc4dVhYMXo1d2h5Yng3c3hZN1lvQk1STVVFWWd2MWdna0g3LVZXZFRYVHVHWXZJZkpNMHJia0FNOGNxYzl2Q3VYYUlFY0ZCdkZMdEJhOW83ZVdnZVJWUmtVVkZHdHNNR3JjQUXSAdIBQVVfeXFMUDhVUG9MQ281dzZHblctZWdYZTJ6ei02ck10NlNvd1ZqSjFkVVNoWHVpQWZULW4wNi1CVUpHbm1vemlrWW5Wb2d6VU9GS05HUGZPQzVPZTRVbEh6azNUdjN4QWNfMVgwNzBNb2FfbzNaaDhTMGJtUUJjbG1sM0N3ZXl3UGYtMUNrU1o2ZnF0NGZJWEhLX0hxM0k0aVAycGJZMG9uUlJReGMyOTBpNGJabWhhY1VSOFJRSmZaVTdHdkJiSlpSSlRlY0FuSDdkV2RNTC13?oc=5",
+   "time": "2026-10-21T10:50:43+08:00",
+   "summary": ""
+  },
+  {
    "source": "NST Online",
    "title": "Former Indonesian minister hits back at Syed Saddiq over 'Asean outcast' remark on haze",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYU92RkN0Tm1CS3FBVlIyd2VELTVzb3IzZXFkVmFITmFRQmZzOXpaZ0lWZVBCRTRXWDNhVTloc2VBbFNGdUVfLVY3ZC1UX3RFcFNJQTI3cUNUWEFrTEJCSDNQa0pjR2VUSThwX3lMc282MldKVmVldDBNbHAyaV8ySTBhejIxZHZEOW5PWFlzNGx1WlhudHotSnlaSWoyVXdta2tsUDVKaGtYX2VwQU1YUUs3bWE2ZGxxdFHSAb8BQVVfeXFMUHZsOG9ya21Sd1pfRkFEZlQ0aHBpdmFaYm5iZHZHZVRlTnR5dmRRSUxvMkt2WXlSVkpmS1NLeXJzMGlsMlRKejVIQ0kycjdJamtTZTlhNVN1Y0JqOTIwT0U4RUM0bllxZUxEXy1mMFNYNVM0dVhmaGRfakIwQlozOF85d2NTalNFM0ZSMUlGMlNKX1ZoMHc0OWs5S0FER29EamRBRjdOR1pwZHpoaDlvVkxDZGtuS2tkRnN0LUZRQms?oc=5",
    "time": "2026-10-21T10:45:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Singapore Releases N95 Mask Stockpile as Haze Drives Demand",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHFGaVJwVzFQVXFBQ1JJTGp5WjJRSHNjVkJaOUZ4Nm54OV9oR1lWbzlWYW0yRnMwNlVFdDV2Ry1zTnRSZjZZdzM5YUZablVIbVVEdzdJR2xoSk9rQ0NzckNrMzJvT2ZISGZTUFl2UkNDV1gtb1BKLUxOQkxFV0tYcXhuNGhRVUFIanhpWnNDdnYyT1BzUllB?oc=5",
-   "time": "2026-10-21T10:14:23+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Malaysia",
-   "title": "New MyKad, haze among topics in Dewan Rakyat on Wednesday",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xU2RaeVNqYnFtaVdvMmFhV0wwZ2JJWGNKMlhNVC1jalB2R0ZIM2RRWVQtRkk2MkFTUEpZX3h1N3RjZnhaeXVSUW1sM3BmREFH?oc=5",
-   "time": "2026-10-21T10:09:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Online Citizen",
-   "title": "MOM issues new haze guidelines for employers to adjust outdoor work based on hourly PM2.5 readings",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY0JkMllGelJJd1ZqWjRXaDJvOFN6NnNKQnRpWl9IRkxtaDI0T1JXdnU5blowZk5rcXptNFprWHl1R1UtVHg5WG9JZ2E1dDQ0QjdIQ1A0MFVNMDBZUXZOdVJqN21HaWh6SUlqT2I3SGh4WEU5dzkycWFEZHEyOUNOXzlNSkJqVnRDY0E2R011RlZ5YVNYNkdTTGViZXdVT2hFaVQyYXlITzhWdUVuQ3dDckNBRTE4czF6ZFNTd1YzeGNhNjBKRDN6NG55dnp0NEpSbDZIWkN1SnpXbTNO?oc=5",
-   "time": "2026-10-21T10:05:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Honeycombers",
-   "title": "Indoor activities in Singapore: Yes, you can still have fun while you escape the haze!",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84N1lhZlo0aERjSi1VTDN0aDhoRGxGN0dKSkNwR0dnYkFWTm1MZm03U1hXUklCd0oweVRWLWVoVHA0eXMybWNJd2VXWm1SanB5aGh1VzVSOGhCQ0Jvc3pOTno0MkRRWWVqakdqVm1pWDBZRDJn?oc=5",
-   "time": "2026-10-21T10:00:52+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Vibes",
-   "title": "Budget 2027 debate resumes as MPs seek answers on MyKad security, haze and semiconductor jobs",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTXA1VHY2QV9zRXlVc01HLXJOU2MyeG5rNEhENFVpNk5oNGtURE5QOHJlTE9SX3JtdEZfa01OSndoS1lLcmVwaFU2YkswLTZ4aFlOLU9UWmhhQ3Jaby0tcXBkVnJfQUg3eHBLT0h1YlVoZ2h0YlVaZ2JtWTZVYTFSMW9qeVltLXA4QU5mcWlBalFTeG40M0N3SjdFZ2RwU3FnM0JNNXNVTUlzVS0yaDF2NXowQ0dWX1dMNkI1NkFCSUw1RFFNNUpieFVZaU1NZHlzd25XbA?oc=5",
-   "time": "2026-10-21T09:53:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Haze watch Oct 21: PM2.5 levels normal in north, east and south Singapore",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOGhCNmM5bXhSUE9iYkpaVUFwQXdyYWwxVGYteW5VT1l0SEU1N3JhV0FEaFVOYmQzUlA4UE5uYjFCNTRJWEplVGlVS0NqTUxDNkJvQ3dKMGk1eUF0SDFfeFZ6dnpNS0RrTW45WTdrN3liRVEzSVJQVGdGZFJTWWt0eElvVXFJWkU?oc=5",
-   "time": "2026-10-21T09:37:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Why won't the rain wash away Malaysia's haze? Experts explain what's keeping the smoke coming",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1hLVWFHTHJ4MUNoV0JiX3ZUT2tpQlVQV21QWkhtYU1OeVN3dUdsc0lGWUQ2bjNWcFFFMGlsTklVSXFUYlBxYXh0SGFPSUxHWmdRb01RLXQ0OTR1bW9WSmZRRm9rMjRSMDJOYjY4NnVQclQzcU0yUi0xTE1BQnduOHZzQUdGR2RqVjBHUGUxVy1HYlBrLXh0MnJhRlNDRE4zUTZiTlo1UTFqQkk0MC1FS3pzVTI?oc=5",
-   "time": "2026-10-21T09:24:14+08:00",
    "summary": ""
   }
  ]
