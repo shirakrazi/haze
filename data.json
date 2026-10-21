@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-21T13:00:00+08:00",
+ "updated": "2026-10-21T14:00:00+08:00",
  "psi": {
-  "west": 127,
-  "east": 96,
-  "central": 113,
+  "west": 125,
+  "east": 95,
+  "central": 112,
   "south": 87,
-  "north": 82
+  "north": 81
  },
  "pm25": {
-  "west": 55,
-  "east": 45,
-  "central": 46,
-  "south": 53,
-  "north": 17
+  "west": 63,
+  "east": 40,
+  "central": 49,
+  "south": 39,
+  "north": 14
  },
  "hist": [
-  {
-   "t": "2026-10-19T04:00:00+08:00",
-   "psi": {
-    "west": 144,
-    "east": 112,
-    "central": 121,
-    "south": 107,
-    "north": 95
-   }
-  },
   {
    "t": "2026-10-19T05:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 87,
     "north": 82
    }
+  },
+  {
+   "t": "2026-10-21T14:00:00+08:00",
+   "psi": {
+    "west": 125,
+    "east": 95,
+    "central": 112,
+    "south": 87,
+    "north": 81
+   }
   }
  ],
- "newsUpdated": "2026-10-21T13:07:40+08:00",
+ "newsUpdated": "2026-10-21T14:13:00+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,48 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Retail News Asia",
+   "title": "Singapore Names 7 Indonesian Firms over Toxic Haze",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13WDBORERtQnRFTVFKMlNiV1FiTk1zZDczMHlUNUQzYXRRblRudGJnaWpwdVRSMXRodXhnMzdiNzlXamRNb3ZWZjEzMVlRcjJzUmhRd1RveGhmUWRyR08tQzNRVGgxX0lRcXdiTEJlVVY1Q1FKVkttQTRNbFJBVVU?oc=5",
+   "time": "2026-10-21T13:56:33+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Malaysia may introduce transboundary haze law, says deputy minister",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3htRnlCOU11RGlvQnhYaDFZdzZWRFFsX3RVSlh2a1JmYVhUTTEtWEZNWWkteGpGYm1qWVhTOXAtSEJyV1dac19jRkhJQTQ3OUVzNng1WjZ3TmF3c05kOGVwaFM5SGRGOTZNNUJuR2dxRWZFc2VONm52ZVFrWjNJUU8xUGx2bFY5SWpNRlJQbWRlb0VuTjljS1ItV3h2dGdYeXNIVGNhY1BPN2dtaFRiLWxJckNsOHNY0gG-AUFVX3lxTE1ObHg0UUlvSVUyckRlbllhUkJhd0tIdnBPaDNucDJ5YmNtNnYxcS1PSUNYOUZxRGJOVEg2a0R6c0swX1FUZm9TN1J6LU1TcW9vSnZ4LVhCRG5XcERJcDB5TWwxYWZVemlUWHB3QXVtWHNManM0UGQyZkR1a084ZnZCZWZSTkhwSXAxanlqVGZhNWczNzZvamhHaUFteEpMLWJYcFRMcThxM21yQllMSzZRUlhjUzFTX0huS3dTcGc?oc=5",
+   "time": "2026-10-21T13:49:25+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Air quality in Singapore sees improvement; 1-hour PM2.5 readings normal islandwide",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15LTE4dDdRNThfSGtqRE1jd25HX0pJRHE1UWhOeEZmSnhjbVNSUVM2c09JTFdDOXpmUzJqSW4wczhjNW9xeVYxZlZOVkhWQzVwenNELUpRVFJTY2lqTFpzOGk0WkJOZm85TFJSejBFbUVXdDlaNnFEaDV3?oc=5",
+   "time": "2026-10-21T13:35:15+08:00",
+   "summary": ""
+  },
+  {
+   "source": "www.planb.sg",
+   "title": "Ex-Indonesian Minister Questions Singapore's Role In Haze Crisis, Divides Online Opinion",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOel81VVlMN2xSejNKY2pCYXIxZXFJZkpCbjh0SkY1STluTXdoTXREaWpHaDMxZlZGVGI4REhHQ0VDWjVDeEN2bzhzUEpLck8tN25sb2VwdXRiblFWdWF4NU9wbTVVXzE1cC1NUmdfYi1TWU1ZemtvdVdqVzRwNmNVYVJyc0RtbGRtUDdiOWFzYkZxY1poYmllTmxQeTJkVW1zY2I2T19PZ21KZklQWXo2NVZ4VQ?oc=5",
+   "time": "2026-10-21T13:28:17+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Vibes",
+   "title": "Govt seeks haze law to hold polluters accountable as diplomacy falls short",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbmhwMndWbXZLRHN1dXZrT0Jid25McXI1Q1MzNm9FeU1vY1hNYk1zR0VuVUxMek1oUmVOUzhVMUxRWU9QUDJQaHRDMVlCWlJ4dEtsTXdQMTZpb2J1RlhkSFE1MXJkMFotZDQtc2lKOTllQTBBZ1pxU2lrRkNXNTRWT28ySTdDc2Y1SWdGZzIzWXJlclg5QTRiNFVLU0pETzgyVkRWREVlZFoweEVuOVNKcW1vZ2lWcl8yZm1HdEVOeXRka0JUaGZtX0xB?oc=5",
+   "time": "2026-10-21T13:17:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Indonesia haze threatens tiny bugs that power palm oil output",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObEFzR3BGcXJxVDRpenNGNEpiVG9GXzZqVGpqSlRocjd1QXF6Y3RWa1FFd0Q5NnQwa1pkdWxJU0pwVFJFZG83bjF0Y3VuNGVkaU9CQWRTSjVKWm1leGpYRGNWSnpJcTdXbnZRcGFfQm9BQVdzTkM5QWJ5YU1xRWtrMVB0NHItS0pXWTRJZ2NVaC1kdElkUnVnM1ZnbnU1QlBETjI5MWFB?oc=5",
+   "time": "2026-10-21T13:13:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -528,6 +570,13 @@
    "summary": ""
   },
   {
+   "source": "The Edge Malaysia",
+   "title": "Malaysia set for tourism fallout from Indonesian haze",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxc1VSellzOVB6UGo3UmMzOWU4c0lURlZpTHQ1YXd3VE9HQ0VwUzdVay1HT3I0MUtHMEp5eTlKN0NoV3daaXlvSEhHLXlqRVg3?oc=5",
+   "time": "2026-10-21T12:31:40+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Star",
    "title": "Transboundary haze law possible but enforcement a challenge, Parliament told",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWTh1Q2h1YjNkYmg2dmRpSVloYXlLRG9kOUlUUEEtTFg0TUxfdmxiVDhjNzdEZ2FJZHdYdTVFTUtVRmpJb3BIQ0o1ZnNDT2J4NWozWjNVeDA2c3NJLUJQMTZvTVlXSlZFTGw5ZGdfUTNCZ2ZFYUNTdGtQSnhZWHpPMXhVVXRTRVVhXzZ5SGRpZ0ZfdkltWGdMVUdKNi1MQ0tkQ00yak16TEg5Rl9nUnJlRTRya04tYmczcnQ4T2JHc2FMUnc?oc=5",
@@ -542,59 +591,10 @@
    "summary": ""
   },
   {
-   "source": "www.tabla.com.sg",
-   "title": "Indonesia Accepts Help To Fight Fires Causing Haze",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb3VFQWVSc29oOVUtWDQ0YTlxUFVoMUhWSG1YaXY4aThHTnBaYzVkM0FSeVctQnV6LTdha0ltOEgtcUEteTlqMUJuMVpBQVYxanZKZm9ERDE4STVJZU9QcXlENHZKTF91cWNLX1JweG5tMUZyRExhZjlMTURyQXVHNGl6X1Q1WkF2NzE4enJDRnQ?oc=5",
-   "time": "2026-10-21T11:46:43+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bloomberg.com",
-   "title": "Indonesia Haze Threatens Tiny Bugs That Power Palm Oil Output",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0pTc1JBa29zaklOQk9DeGR6UGkxN0UzS29QcmEtM3JmeVN3ajk1aW9iNHpiSzhVeWdMbkFFTTJPcXd0WVRFeWoxc3lON2VLUmxLaUVnMW5TUVU1enU5eFIxYk54VkV5cG1CNTlhQjlSbHlPaHcwM2lmT3B5bERFM1FqLTh4eXp1UzVXRnJydExLbmE4QVBSTHE4LU55U2MyWlNxRDhkbVdOQ1JxZHphdHJR?oc=5",
-   "time": "2026-10-21T11:32:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Singapore Business Review",
-   "title": "First Resources commits to cooperate amidst haze probe",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdERQVTBqLTdJbU1zN2dJdlN2Q3Z5X1hGLUFvVmVScUFnbkladlJQNEJQUkhSNWdLSnltTXZDa011M3VKempOQVZVODZDVk1pOGUybGJQaklNaWlmUFVtSExReWg2ZFZaWEUzVWV4V0laVklzVGR3d3owcGpjdGNOcVZMdHZmc2tUQmtlVXZYS05tQQ?oc=5",
-   "time": "2026-10-21T11:31:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Air quality in Singapore sees slight improvement; 1-hour PM2.5 readings elevated in two regions",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15LTE4dDdRNThfSGtqRE1jd25HX0pJRHE1UWhOeEZmSnhjbVNSUVM2c09JTFdDOXpmUzJqSW4wczhjNW9xeVYxZlZOVkhWQzVwenNELUpRVFJTY2lqTFpzOGk0WkJOZm85TFJSejBFbUVXdDlaNnFEaDV3?oc=5",
-   "time": "2026-10-21T11:30:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Indonesian anger builds over wildfires, toxic haze",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNjhrSC13eGNqQ2M0UXJ4NzN4YmY5RV9Bcmo2YlE1dnluUTVUWmhoLWlzMTB5czZlY1lCeGhyNWk4Smh6LUsxQm00SkY0WlYzQkR5Z2lyV1dGV0Fsb2VfWHI3YXR3LWN6LXB5WVdtc2dxRnFWNGZWSWtSemtWN3FJaUliRm43c1FtdFlHVzU2bzYxbXM?oc=5",
-   "time": "2026-10-21T11:13:54+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Singapore releases N95 mask stockpile amid haze-driven demand, urges public not to hoard",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQzNJbkphbDVQVzd0NTh4QVFMOUE3amEtZlBfWVdZeEtMaHVHaS1SQVljUmxIaVdQa3RhY250UFE4V0NHdHlqUi1fRGFwdkdSM2xYaVpHajJpbUpQWTB0RzQzV1lWRW1ydno1YzZJdXp6SHNzc2h0ZmZjaFhLUlU5T0JRS013bGg5dGNIUWIzMEtnSlJSZmRNczFVbmNLYldXR0NoNnlvcUVnY3hiVUJYNHczSnhIZkdqeTBvQWJBa0p2RjVwRzNma0ZvTVRKS09qZVRlV2UzNlUxb0k1WU1Z0gHkAUFVX3lxTE9iM1Rsa1hVM1N4UTNRc2hKV3ZyTFBSUW92OVlqczdQdVRvcHJVMTJheEVLY1pMa1o0d1hsUU1RMDlzV0lfLTRXWWJpazRmT1ZWenpYS3h4X1Qxb1FFdnFyUUhJU01sdnBUU3ZrenZaVjU3eHBVaHFLUE5NQWM0ZFBjVU1iRlRITXB2UEJDanFMM2h1aG9kYWdWVURiVTFrTThpaHVvQTF0bmJ6UjNuS3ZISEhRYVBQTnMweVRLY1liUnN5dkE1UHJWMV9saWtHOUFPczRob2pLX3FvLTd3eV9BMEF0Ug?oc=5",
-   "time": "2026-10-21T11:11:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Singapore braces for up to two days of unhealthy air from Kalimantan haze",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObWxQTEJjQ0RyMmdSTVQxLVFLaUdLem1kYmdGc2xYa2JTZ0kxNk0xX0hZLXpWMzdMVnJ5QkJYWTRxY0NVVXBYUEdZOExQX3lBcElOcWdHWmdOMFMyX1F4RWRadmtDeW1aNTc4dVhYMXo1d2h5Yng3c3hZN1lvQk1STVVFWWd2MWdna0g3LVZXZFRYVHVHWXZJZkpNMHJia0FNOGNxYzl2Q3VYYUlFY0ZCdkZMdEJhOW83ZVdnZVJWUmtVVkZHdHNNR3JjQUXSAdIBQVVfeXFMUDhVUG9MQ281dzZHblctZWdYZTJ6ei02ck10NlNvd1ZqSjFkVVNoWHVpQWZULW4wNi1CVUpHbm1vemlrWW5Wb2d6VU9GS05HUGZPQzVPZTRVbEh6azNUdjN4QWNfMVgwNzBNb2FfbzNaaDhTMGJtUUJjbG1sM0N3ZXl3UGYtMUNrU1o2ZnF0NGZJWEhLX0hxM0k0aVAycGJZMG9uUlJReGMyOTBpNGJabWhhY1VSOFJRSmZaVTdHdkJiSlpSSlRlY0FuSDdkV2RNTC13?oc=5",
-   "time": "2026-10-21T10:50:43+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Former Indonesian minister hits back at Syed Saddiq over 'Asean outcast' remark on haze",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYU92RkN0Tm1CS3FBVlIyd2VELTVzb3IzZXFkVmFITmFRQmZzOXpaZ0lWZVBCRTRXWDNhVTloc2VBbFNGdUVfLVY3ZC1UX3RFcFNJQTI3cUNUWEFrTEJCSDNQa0pjR2VUSThwX3lMc282MldKVmVldDBNbHAyaV8ySTBhejIxZHZEOW5PWFlzNGx1WlhudHotSnlaSWoyVXdta2tsUDVKaGtYX2VwQU1YUUs3bWE2ZGxxdFHSAb8BQVVfeXFMUHZsOG9ya21Sd1pfRkFEZlQ0aHBpdmFaYm5iZHZHZVRlTnR5dmRRSUxvMkt2WXlSVkpmS1NLeXJzMGlsMlRKejVIQ0kycjdJamtTZTlhNVN1Y0JqOTIwT0U4RUM0bllxZUxEXy1mMFNYNVM0dVhmaGRfakIwQlozOF85d2NTalNFM0ZSMUlGMlNKX1ZoMHc0OWs5S0FER29EamRBRjdOR1pwZHpoaDlvVkxDZGtuS2tkRnN0LUZRQms?oc=5",
-   "time": "2026-10-21T10:45:45+08:00",
+   "source": "Vietnam Investment Review - VIR",
+   "title": "Allianz Insurance Singapore provides 50 dollar haze medical reimbursement",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN01DQTVEWF9wVU8wQ3NzR3FUMW83LV8wa2I0b0hDOHZta0xsdTl2OXEzSTlnNWpqTkdJZW5JNE9FS1gwNmk4UTdfUkJqWUJEYnZpT2hoS3VvMHhuR1A0RGpWbXJGQlZYN09HczBVU3l6VGRvOGFqaFUzZmNQZ2JPNElFZ0lxaEcxUDZ3aGd5LWE5NFBqVER5ZXplQnFOTEt4Q2hfR25oTQ?oc=5",
+   "time": "2026-10-21T11:59:07+08:00",
    "summary": ""
   }
  ]
