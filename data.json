@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T01:00:00+08:00",
+ "updated": "2026-10-23T02:00:00+08:00",
  "psi": {
   "west": 86,
   "east": 72,
@@ -8,23 +8,13 @@
   "north": 71
  },
  "pm25": {
-  "west": 42,
-  "east": 22,
-  "central": 38,
-  "south": 29,
-  "north": 34
+  "west": 37,
+  "east": 25,
+  "central": 37,
+  "south": 23,
+  "north": 31
  },
  "hist": [
-  {
-   "t": "2026-10-20T19:00:00+08:00",
-   "psi": {
-    "west": 140,
-    "east": 106,
-    "central": 122,
-    "south": 103,
-    "north": 85
-   }
-  },
   {
    "t": "2026-10-20T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 70,
     "north": 71
    }
+  },
+  {
+   "t": "2026-10-23T02:00:00+08:00",
+   "psi": {
+    "west": 86,
+    "east": 72,
+    "central": 80,
+    "south": 70,
+    "north": 71
+   }
   }
  ],
- "newsUpdated": "2026-10-23T01:07:51+08:00",
+ "newsUpdated": "2026-10-23T02:07:12+08:00",
  "news": [
   {
    "source": "CNA",
@@ -511,6 +511,13 @@
    "title": "TSH Resources says 274 hotspots detected within estate boundaries were outside operational areas",
    "url": "https://www.channelnewsasia.com/singapore/tsh-resources-hotspots-sgx-questions-haze-6483271",
    "time": "2026-10-23T00:18:40+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Post Register",
+   "title": "Indonesia Haze",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX29qcFhGeUQzVm9vcllaczdHSkN2RTVpT2V4SkFLd1BETW1WX3F2SGoza0dGUVNoMHJmd05GQzlnOENUVWZBTVNOR01lZUFNb1I1bm9BS2lOVFlwMWd0eFM0X1VET281alVlNzhVWGpPdF8tNHhLZXZjckRSVUZJcHBXaFdkYjNGa3JxYU1BbUtaZG84Y3pkSjNRVlBkX1hIRXlSZw?oc=5",
+   "time": "2026-10-22T23:58:15+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Southeast Asia’s toxic haze spurs calls for legal action against polluters",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHNvek1kckhXanEtZU9vdERuX2haVGkwcU1ZaU92S3NEMHZJNXV6RXhzUUpQaWM0Wm1DbmlydnNjeUNzLXZOYTU2RGo4MEdJY0phMUtNQ21Wb05PQWgtaTNDWlFnQkczbTNaaW5oT2QwZFdnbFRtUklRQXZnRk1aeGZMZDlQWjZTalNQVUR2TlQ5SzJXUU5GS1YtUG4xVlBuOUg2ME5UZmNRaENZTFVNLXB2ZW9UMllXTHfSAb8BQVVfeXFMT1VHMnVzcU1kUUJvcFdvZ3RzYlNfN3FQUFZrN2tiVEV2cG1kSzZCOVh4MEtXYk1XMmFwVnZhd0tXTU9MOHQ5akpiQ3piVUVSNmJ5ZGZQdDI3dkp2UkdGZzdfRnRWLXNmMm1HY3Z6TUFRWVlwcXpJenFmY0pfeEhpelFkRkM1WHppWXp3T1ZUZGQ3TWp5aUNJLVhNQnFsNDJ5RHZYeXJxMzFaMFN5RkRXZkg1d3B6LUU0YzZEUUZBenM?oc=5",
    "time": "2026-10-22T19:51:42+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Indonesia haze: why Jakarta won’t declare wildfires a national disaster",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWV9Zc05GYzZMWE5WbTFKTHJYeW1XRGdjUkM5ZnNlVW9mS3BnTXpnVmVoVTFkSC1USlJQcDZoY1k3WHozWDZMSjN6cG1nY1c5X2JUcjZxdmRVU1JjTnZQaTQ0OTdCWHc5RTZYeGNHQ3VmVWR6OUpUYXA3ZGpXS1Q0RVRxNTM5azVWR1hpMzZqZlVCN09aSWF6X1JVdWoxeHA3eHp5czE0NlJkNmVUa3A0ZGVGcGRlMzUyR0RELXFUYU_SAcABQVVfeXFMTmM0VW93UUFJZjFqcFV4Q1JJb2c1SzE2WkdkSVZkNnYzTmdpbnI2cno2QnY0blg5bU5QdVdwR1NwWk9HMW9pQkVnRlFKX1JsRUVGQlJOa2wxdnAzQXNIWE9YbkoweU9NYm9MenkyOGk3WkI2OFZiWVh2NGdLRThXSnIzXy1HNEM3bWVnX3ktaEtTYTVRTThFX2dWN3VXU0Rwb3Q2TlA3QkdhdEV0ejdqQjc3ekt2YU9vS09mS1ppYVNH?oc=5",
-   "time": "2026-10-22T19:48:35+08:00",
    "summary": ""
   }
  ]
