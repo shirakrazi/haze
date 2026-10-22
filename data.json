@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-22T20:00:00+08:00",
+ "updated": "2026-10-22T21:00:00+08:00",
  "psi": {
-  "west": 89,
-  "east": 74,
-  "central": 82,
-  "south": 72,
+  "west": 88,
+  "east": 73,
+  "central": 81,
+  "south": 71,
   "north": 71
  },
  "pm25": {
-  "west": 54,
-  "east": 41,
-  "central": 47,
-  "south": 42,
-  "north": 29
+  "west": 70,
+  "east": 36,
+  "central": 46,
+  "south": 38,
+  "north": 28
  },
  "hist": [
-  {
-   "t": "2026-10-20T13:00:00+08:00",
-   "psi": {
-    "west": 133,
-    "east": 103,
-    "central": 121,
-    "south": 103,
-    "north": 90
-   }
-  },
   {
    "t": "2026-10-20T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 72,
     "north": 71
    }
+  },
+  {
+   "t": "2026-10-22T21:00:00+08:00",
+   "psi": {
+    "west": 88,
+    "east": 73,
+    "central": 81,
+    "south": 71,
+    "north": 71
+   }
   }
  ],
- "newsUpdated": "2026-10-22T20:12:47+08:00",
+ "newsUpdated": "2026-10-22T21:09:25+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "BNPB: Dry Ice Is for Haze Dispersal, Not Extinguishing Forest Fires",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjV2WHF0VGFfMGU1RjZ0UG9TQ09KanZfOURjWWFHQ1dRVVNaTXlRMUdnYUZLUVd1TjNPNVFPMGNsaUxtN1Y4Wl9Iel92WkRpcFZEMlhHWV9QYmxCbXNXQkk4VXdPZHVycVBfRHZ3NDA4MEJBdlo1SnEyU3JBOFFtVUhzdndlT3JnbmNuNmNyMllsNEExVENzR3UwVEp1d0k?oc=5",
+   "time": "2026-10-22T20:42:39+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Field Notes From Palembang: Record haze, no masks: Where living dangerously is the new norm",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRmUtU1ZCZ1BVQ3E1R25EOHh0T3M0WVVZc3VYRzVUNjR4MndIbFZqalhuWEItTVd4cVNYSGFJNjRWZ2tTTFdRSzFXZHlCT3VoM294NTNTNjBaVVIyaHNoblVMbFg4U2pRMjdqRGxldGZoaUtlaW51VVk1S0FFdVRPa2t1VnpHMzhua2ZhUHJNWmtXeDltQ08tR09GclE0Z0JQaEFzVmFXMVZja3U0NjVyazF6dlo3clZLOWRMY0d2dDRGd085Mkd3ZEkwTmtuQXliYjByT0k0MHBpLWJGa3czd2ljM2p4QQ?oc=5",
+   "time": "2026-10-22T20:38:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Deep Dive: How Singapore can turn up the heat on haze-linked companies",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVU02d1FxS2Jic2VMNTZLX1JQWnktcFkyMW4yLWVEZkZlTXMwVVZHaHZCS0Nrd1dneTF5b2VTNWhkTllzMXppb2JMY25wSUdTTlpXaE9SY292QjJFZ3Y3cjRvcWlGODVhNFVzT2Y5Rm9IdnoxSXZIR1NNWl9PNVkweTlMSGF6cEhURVJieVFoTmFOZlpJQ1RlemU2UVVSczZTclNWWnRwd0hNZGZLWkE?oc=5",
+   "time": "2026-10-22T20:25:45+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "Kadin Responds to Neighboring Countries' Haze Complaints",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVVRCNk1CRW42WGJzTzEwMWFTeFVhb2FPckd0dHNYREhEMkt2QWhWMHp5TGVSa1UxSFlabFIxME9leFE1SXFJam8tVkxsVVlQRDVLdzJVQ08xci1CSWV5X2NsRDJjaTZOeE1ldU80RWUzeTladUFWd0xteW5qNE9aZTBhVGdjbENUMGw2c0JEMGJtZw?oc=5",
+   "time": "2026-10-22T20:06:56+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne.com",
@@ -521,6 +549,13 @@
    "summary": ""
   },
   {
+   "source": "South China Morning Post",
+   "title": "Indonesia haze: why Jakarta won’t declare wildfires a national disaster",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWV9Zc05GYzZMWE5WbTFKTHJYeW1XRGdjUkM5ZnNlVW9mS3BnTXpnVmVoVTFkSC1USlJQcDZoY1k3WHozWDZMSjN6cG1nY1c5X2JUcjZxdmRVU1JjTnZQaTQ0OTdCWHc5RTZYeGNHQ3VmVWR6OUpUYXA3ZGpXS1Q0RVRxNTM5azVWR1hpMzZqZlVCN09aSWF6X1JVdWoxeHA3eHp5czE0NlJkNmVUa3A0ZGVGcGRlMzUyR0RELXFUYU_SAcABQVVfeXFMTmM0VW93UUFJZjFqcFV4Q1JJb2c1SzE2WkdkSVZkNnYzTmdpbnI2cno2QnY0blg5bU5QdVdwR1NwWk9HMW9pQkVnRlFKX1JsRUVGQlJOa2wxdnAzQXNIWE9YbkoweU9NYm9MenkyOGk3WkI2OFZiWVh2NGdLRThXSnIzXy1HNEM3bWVnX3ktaEtTYTVRTThFX2dWN3VXU0Rwb3Q2TlA3QkdhdEV0ejdqQjc3ekt2YU9vS09mS1ppYVNH?oc=5",
+   "time": "2026-10-22T19:48:35+08:00",
+   "summary": ""
+  },
+  {
    "source": "NST Online",
    "title": "Fires rage, haze spreads as Indonesians pray for rain",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa1hWZThVdkF0ZTNSMWJuME5zWFptc3JpQXhteEZsNnktLTJuTjNydXp0dTdwQ3BTVFpYWWNSMEQ0Y0plQ3NaZWtjWjJoYXJsLVVheEdTZkU2TU9KUlFiaDBhd3pCZjY5YzJNM1ZyZU9Zdk1nNTRqNUNQNGxKMnNhVXFBcG5vOXpUNUxwWTZkclc5X09ITFZObE1XVV8wd9IBowFBVV95cUxPMlpLOGRCcWFKNmJXbzA3Yk9FLURUUmpjRXJNY19XSTRUZ2o2T3laRWlvM0NDa2lGaUh6aXFiVjBVTVcycU1ESF9NVWZLYlB6N01Jd1B2Sk5rcnJTR1BiTEdYbjVNZWRHdVNxWV84a2RFYWNqcmQtdlM1ZV9ZbmpZeDhLelJ1Z3VRU0ZQbXhuamhUTENOSHhjaUhILWNNeGNtZVpz?oc=5",
@@ -532,13 +567,6 @@
    "title": "Record haze, no masks: Where living dangerously is the new norm",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON19pZmt3UmxMTWxkc2JIQTI3V0Y4Wk9BQ29ZRzFqX1pnZzAtZzZjLTQwbVZKSzN1WlE4cE1IWGt1aFZiUnItenlyYmhPdTFPMTRzME1xbjQ5OFdnQnlkckFTZjdNdVBncldRbVU4OE14SzVNbFpXSWdlaXBmR2VVVWVPUjNYTVZCWGExU1AtNzF0dHB2NmgxUFdnNmlNaVg5cUtDZWRB?oc=5",
    "time": "2026-10-22T19:30:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Deep Dive: How Singapore can turn up the heat on haze-linked companies",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVU02d1FxS2Jic2VMNTZLX1JQWnktcFkyMW4yLWVEZkZlTXMwVVZHaHZCS0Nrd1dneTF5b2VTNWhkTllzMXppb2JMY25wSUdTTlpXaE9SY292QjJFZ3Y3cjRvcWlGODVhNFVzT2Y5Rm9IdnoxSXZIR1NNWl9PNVkweTlMSGF6cEhURVJieVFoTmFOZlpJQ1RlemU2UVVSczZTclNWWnRwd0hNZGZLWkE?oc=5",
-   "time": "2026-10-22T18:55:42+08:00",
    "summary": ""
   },
   {
@@ -567,34 +595,6 @@
    "title": "Haze Situation Update (22 October 2026)",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaHRIZEw3LTRYZG8wQ2EwZHEzeUhXLXFPbjNsQzhiQWQ3Z3c5MXo1VnpReEVJaGFrR2R5TWhnSzczVkp3VFlYcmVxUmlJQmtzNGZIaDY2ZUpNYkdqYUo1TGo0OFYyR2VncVkzbXZNczkwZ0gtNGtwMkJCWWJ2eEpuel9XMGI3bGJYc2NnNFYtT0RwQQ?oc=5",
    "time": "2026-10-22T18:25:43+08:00",
-   "summary": ""
-  },
-  {
-   "source": "KLSE Screener",
-   "title": "TSH Resources denies involvement in Indonesia haze, reports 274 hotspots",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdmh1QjRqZWJWRDdzcFI1dnE1WGtxNjVyendfU1lzR0FIcVB0bnVEX0M1cHl3Z1UxOHJybDlZLXQ2Yk9rUlQ0ZEIwN0tDUV9fZWZfQ1NpSWMzVGQtaE9jTW91eHJORzRCSVhPQTRZUHgteW5LM0FzR1VpZGZlajJvS0EtcWpLX3FuWkhXcDVtd2c4U3h4aTVORy1VSWdDTVpzT091bi1TQUJFWkhIZXRha01TNU4xb1lMNVJDd3pR?oc=5",
-   "time": "2026-10-22T18:14:24+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Indonesia haze: why Jakarta won’t declare wildfires a national disaster",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWV9Zc05GYzZMWE5WbTFKTHJYeW1XRGdjUkM5ZnNlVW9mS3BnTXpnVmVoVTFkSC1USlJQcDZoY1k3WHozWDZMSjN6cG1nY1c5X2JUcjZxdmRVU1JjTnZQaTQ0OTdCWHc5RTZYeGNHQ3VmVWR6OUpUYXA3ZGpXS1Q0RVRxNTM5azVWR1hpMzZqZlVCN09aSWF6X1JVdWoxeHA3eHp5czE0NlJkNmVUa3A0ZGVGcGRlMzUyR0RELXFUYU8?oc=5",
-   "time": "2026-10-22T18:00:43+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Sun Malaysia",
-   "title": "Malaysia urges Indonesia to take stern, effective action against transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM2NKU2wxUGNlWW1KSjZ2LWJsLWdKWDB3aTdDZGczeXVBcDlTSmpMRjRLcXV0aEFROFllOWdZbEl3a0NJU1RiZ3BFaXhWV0FENk0wN3FKWlFfOGFMc3NkSV83QzNMUjFJTGN2NS1WaGxNUDRjbDZzajJjMTU5cm5Hb1h6U1hKUXJua1hxdTNlMV9RWWpIVE8tYllFRmRBTnc1akFtMWFibmFxYndaanFKU3lWaFp4SVd0NFBXNGJtd2phQVR6eHJGckhsaVNSYlk?oc=5",
-   "time": "2026-10-22T17:59:56+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "Syed Saddiq hits back at Indonesian ex-minister's haze accusations, says he'll not shield polluters in M'sia",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PZGkzOXdVWFRJVVUxb2pwQmx3TU4tVW1zdVFSVkN6WmJhTDRMZWJ6TmM1VGtDMjdMTXA2VXZTNnNTbExuUUx5UmV5Z2tzbmd6aXZrUmxmX0FDdTJlRFo4RWNLT1dFZVpoVHpZS3duU0J3X0gzTDBDeE1xeXo?oc=5",
-   "time": "2026-10-22T17:47:11+08:00",
    "summary": ""
   }
  ]
