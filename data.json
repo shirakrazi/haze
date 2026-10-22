@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-23T06:00:00+08:00",
+ "updated": "2026-10-23T07:00:00+08:00",
  "psi": {
-  "west": 89,
+  "west": 90,
   "east": 71,
   "central": 79,
-  "south": 68,
+  "south": 67,
   "north": 68
  },
  "pm25": {
-  "west": 53,
-  "east": 27,
-  "central": 29,
-  "south": 26,
-  "north": 18
+  "west": 52,
+  "east": 31,
+  "central": 30,
+  "south": 20,
+  "north": 26
  },
  "hist": [
-  {
-   "t": "2026-10-21T01:00:00+08:00",
-   "psi": {
-    "west": 138,
-    "east": 103,
-    "central": 121,
-    "south": 97,
-    "north": 85
-   }
-  },
   {
    "t": "2026-10-21T02:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 68
    }
+  },
+  {
+   "t": "2026-10-23T07:00:00+08:00",
+   "psi": {
+    "west": 90,
+    "east": 71,
+    "central": 79,
+    "south": 67,
+    "north": 68
+   }
   }
  ],
- "newsUpdated": "2026-10-23T06:06:55+08:00",
+ "newsUpdated": "2026-10-23T07:07:30+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze eases in Singapore as residents wake up to improved air quality",
+   "url": "https://www.straitstimes.com/singapore/haze-eases-in-singapore-as-residents-wake-up-to-improved-air-quality",
+   "time": "2026-10-23T06:16:55+08:00",
+   "summary": ""
   },
   {
    "source": "Financial Times",
@@ -588,13 +595,6 @@
    "title": "DW News. . Months of wildfires have blanketed parts of Indonesia with thick haze. In Pontianak, a city in West Kalimantan on the island of Borneo, students took to the streets in protest. Demonstratorss accused the government of failing to address the health an",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYTJ2RHQ1MGFGT2d6SHAyUkdvMFgzYzdGWU5rZ01udHFRQlFibmV2OGtVTURXWUxvNGhfd3ZhaHFLMGhJZHNpeXB3M2U5QmNWUVJKd3lhOE5Lc3doMS12NUlaV2NoUVdULUZaVzVydEtsc1dJeFF1SjVPd1Vjejh4V2lHd0I0cjB2bXpWWERHRGwzb1d5RS0wckVQdGplWVZDOUhNbDdQQ09BdlJPa2JIVnpEMHVQN1FMaXNkMk41YTM5N0hWTHBRaWgzYU1TNDAzZGY2UGRmOFdqNktPQnZKRFhR?oc=5",
    "time": "2026-10-22T22:00:43+08:00",
-   "summary": ""
-  },
-  {
-   "source": "https://www.misslobang.com/",
-   "title": "Free Haze Masks Second Wave From 23 October: All Singaporeans 60 and Above Now Qualify",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmM1RU41V1o4cktvekt4YlJhTmZGdXY4NzFEc1VmZkY4QWJyVTczT1l6SEphTlNiLUpBRXJzRloyYXVSMGhXVFJmZ01hREtFQV9FeDdkeXR1OElBUE5YbTc0cG84b2FCS1V0QWo2Q0FIeE9wUWwtd1FCb2M5dklNN2RFNUZBWmpRUmNjZGhzMA?oc=5",
-   "time": "2026-10-22T21:55:35+08:00",
    "summary": ""
   }
  ]
