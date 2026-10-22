@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-22T12:00:00+08:00",
+ "updated": "2026-10-22T13:00:00+08:00",
  "psi": {
-  "west": 103,
-  "east": 79,
-  "central": 90,
-  "south": 80,
+  "west": 102,
+  "east": 78,
+  "central": 89,
+  "south": 79,
   "north": 72
  },
  "pm25": {
-  "west": 45,
-  "east": 29,
-  "central": 37,
-  "south": 19,
-  "north": 27
+  "west": 38,
+  "east": 28,
+  "central": 34,
+  "south": 22,
+  "north": 19
  },
  "hist": [
-  {
-   "t": "2026-10-20T06:00:00+08:00",
-   "psi": {
-    "west": 124,
-    "east": 99,
-    "central": 114,
-    "south": 95,
-    "north": 89
-   }
-  },
   {
    "t": "2026-10-20T07:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 80,
     "north": 72
    }
+  },
+  {
+   "t": "2026-10-22T13:00:00+08:00",
+   "psi": {
+    "west": 102,
+    "east": 78,
+    "central": 89,
+    "south": 79,
+    "north": 72
+   }
   }
  ],
- "newsUpdated": "2026-10-22T12:44:19+08:00",
+ "newsUpdated": "2026-10-22T13:07:58+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,24 @@
    "pinned": true
   },
   {
+   "source": "Mothership",
+   "title": "Ex-trade minister calls on S'pore to scrutinise S'pore companies that control land concessions linked to haze",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb20xN3RDbFAzM3FtMjBCRVNnY2p4MW1lM0p0WkxZWGdBYlRDcXdXN2NqeGJVbnZkMVU5N2c0YWU3WDA2UXVneVo2UUlwXy1DektnaVJXajFMREJFV19UZklGNFZVZ0JWVmJPeklVN1pfdUlYWjZoRkRvRzYtRnQ5SXJtUGtPbmpOdTJJM2phci15ZFZMaGpsR1JpUlVnekgtZU12a0tjQ3FHT0dpbi1ESVlOa1p4QWlObGl3MC1ZemZGMEZoOEx5N29qblU1NmxwN3VBMA?oc=5",
+   "time": "2026-10-22T12:43:46+08:00",
+   "summary": ""
+  },
+  {
    "source": "The New York Times",
    "title": "Video: Toxic Haze From Wildfires Brings Anger and Grief in Indonesia",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS1J1QW8tS1B6WVN2bm9qbXg2Z3ZJSkZ4MU1qSWtxTmNYalRJdXkzd1F6elNWMmt5YngyUXdNNDRPaHNDcFlUODhkWS1hS3VuZjc5SnVLR2Y1Yzk2Q0w4VlkwY0poZ2VxTjRfRDJ0YWxfQmlnSS1xNHBlSEE1UmRINlpPSS1FRjl6RGFrNm1DcktRVzlxWjI4bmxfTUM?oc=5",
    "time": "2026-10-22T12:33:18+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Malaysians can check haze forecasts up to five days ahead using MyCMAQ",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTREXzZmVFlKOWRJQkh5NVNZeGhUTXVQdE9HaGI5cVlsWm85VXExeDR5RW9ieEZVb09UdGdhc2Iwb1BWWmh1MTFQTTZRaUU5M3g2bXk3OTJMN0hxTmNVZ1dpLUNDY0UzVjhiSDIzTjNEck9xVUFJTEIyUUpQYVNDalRXaTRHdGFpOElUZTQ3UUxEUzNONWpQX05TZko3eGV4NWhBcTFKcFhRLU1Zd1A5OW5oY1N0Z9IBuwFBVV95cUxPTlF0TjdCZmZMMmJUaC1JOVhqbUZzd015cHJrZ1BqYzdVU0NmeWt1WTJBOXdIalItbS1GR3JQRnRVVk9XcVBfUlM3YzlKYjhhNE02akxzbklTWkVMcmk1bjFvZHVlQ3U0bm4zSVdFdnZheC1iTzh5alhjS3VVTUR0RUo0TXhyWnNBX2ZPMmVDaWtSM1c2QWdzZ2p5RG9raV9iMW04aTd4MDlYVW16TW42MmpVVmh3M2UwaXB3?oc=5",
+   "time": "2026-10-22T12:23:37+08:00",
    "summary": ""
   },
   {
@@ -532,6 +546,13 @@
    "title": "Syed Saddiq: Prosecute Any Company Behind Haze, Regardless Of Nationality",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1A5WDgyendjR2VwOVFrYjJ4aFdLRnc4dm1KNXctSHlHSG8xdTAyaDFBS0dWcDJiVlNhM1FMWnNGajRaa2RIRmJwVmtDQ285NXRURF9LVnVZLUJtSkVZQmszNjFxV1lEX29jRWI5TkZXRUhNNk11aHhvWlJyb2JfWVR1MVVlTmZmajBBSWp1YmlWcHk4OW4xZWZydV9lT0tJM0p0THVlOXVfSjgtQmRPcFlCaEZCcUdybmc?oc=5",
    "time": "2026-10-22T11:20:31+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Fintech Singapore",
+   "title": "Allianz Singapore Offers Up to S$50 for Haze-Related Medical Treatment",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqamYtRHlGeWgzX0t6OHprMTZBTjJtYXE1MFN6bzVaUzRjLU5EWll2V2FjTGxidEVYcTR1RElPcmJDYTRBODh0NmdrSG9TMGxZNjJSM0NtZGdlRERMWXVJSnM0X1lwZnJwQ0xQOVdwcF83NjlodVBZamFsdw?oc=5",
+   "time": "2026-10-22T11:12:08+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "Malaysia & Indonesia discuss MoU to tackle forest fires and transboundary haze",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOFZTT3dRQ25ETzJTbC13cE9VOW5QS0FJT0ZoNThSdHE4THJYZVZQcDktTUpfS0p3VUdQeEZvRDNVdEZwQmZ5cGM5MHgxNzRzNnNwbjN1X1c0TWZrRUtBXzdoYlVCUWVCeXdiNlFDaF9ZeHJBTW9Pd2ZaUHBfeDRpV1J4X2ZVVkkyT05WaVFYM0hjMnRZYWYydmRrN0owd2RGOU5lYnNVODEtZ3RiX1VFN2xHNA?oc=5",
    "time": "2026-10-22T09:07:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze: 16 areas with unhealthy API readings as of 8am",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRnRTbHdRc3BUbTNQY1pvMFBySDRoQThXX1ViRUhBMGYzV3BENDZVZmExQmhpZXdGeVpzeVBmc2NlQ1REUmxXa0FQNjR4ZkJ0b09TWk1uOUx3bXE0bm9Zc1ZjYTEtcU5uTV9CV2NiaVQ4Sk1hMnNyN3I1Y2ptRERmcDNQTXhwclRGQTRIZlhnTlZlQl9tbFhPc0FxeFl1OWNqVUxn?oc=5",
-   "time": "2026-10-22T09:01:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Asia News Network",
-   "title": "EXPLAINER: Why is it difficult to identify companies linked to Indonesia's forest fires, and how can Singapore’s haze law be strengthened?",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZUJuSktaZGRnZ1dINE9qRi1ERW1HeWZRTjBhVlA4dDdORWJSSm45MUt5Wi1oZ29yVjBOMHYzampuMDg2Wmw2ekxfek5laWdUTFR6ZVpLUm8wcVJpRjZsenFUMGVsUGVhbnREN1FNSlZJTVU5Rk5IWGd2MXpVbm13cThxOXNoSFZwQ3FZeE5UckZHM1V5VWZCY0xlMEg4VmV6SUdRSDhQcjMyN1RtRklBUGRZd2pyYUFqLVRieWp4SkJYMGhudnNSREQxVXQzVVVDenk3M3Q2em9rZFkxWWliWElhV1NwX3laMjVJVzR3VzU?oc=5",
-   "time": "2026-10-22T08:54:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Prabowo warns regional critics Indonesia won’t be ‘insulted’ over haze",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNGVlZzQycUZ4NEVxMnJNZTFoQjY2OG1fY3FZdi1ndXhRVEt6TjJiM0RLNEhTUHJpWXhwbDlCQ093LVdETHA3VDlIenpZYl9IUEhsUkFXV0FRUUpsdzV2Y1BiVk5BaHAyVDJoOGJxVTEzdnRxSFI0TlRHRm5FTlllT19VNnBGUkM0cVM5QmVGQXhQd0RUaXVKc29scjgxVkh2S09FNkloOTNtTnJ3OXIxaHo4VV9WOUx2V05JRExQUGRjcEFTem0zVw?oc=5",
-   "time": "2026-10-22T08:54:00+08:00",
    "summary": ""
   }
  ]
