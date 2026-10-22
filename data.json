@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-23T00:00:00+08:00",
+ "updated": "2026-10-23T01:00:00+08:00",
  "psi": {
   "west": 86,
   "east": 72,
-  "central": 79,
-  "south": 71,
+  "central": 80,
+  "south": 70,
   "north": 71
  },
  "pm25": {
-  "west": 48,
-  "east": 15,
-  "central": 37,
-  "south": 31,
-  "north": 31
+  "west": 42,
+  "east": 22,
+  "central": 38,
+  "south": 29,
+  "north": 34
  },
  "hist": [
-  {
-   "t": "2026-10-20T16:00:00+08:00",
-   "psi": {
-    "west": 139,
-    "east": 106,
-    "central": 123,
-    "south": 104,
-    "north": 89
-   }
-  },
   {
    "t": "2026-10-20T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 71,
     "north": 71
    }
+  },
+  {
+   "t": "2026-10-23T01:00:00+08:00",
+   "psi": {
+    "west": 86,
+    "east": 72,
+    "central": 80,
+    "south": 70,
+    "north": 71
+   }
   }
  ],
- "newsUpdated": "2026-10-23T00:08:38+08:00",
+ "newsUpdated": "2026-10-23T01:07:51+08:00",
  "news": [
   {
    "source": "CNA",
@@ -508,16 +508,23 @@
   },
   {
    "source": "CNA",
-   "title": "24-hour PSI in good to moderate range across Singapore for first time since Oct 5",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iTEdxMXVPQkI1S1IxSFBQUWhKbVo0aTl1SGQ0bzNDazJFVEFXWGZfLVVRd3ByV01qMzh5azJ4UkxydXN2SkZmdC1pYktCcVhKMEhkZmtqcWpUZWhzc2FDZ1RyRWRrUzE3N0ZBd2Z4VkZPTUNEWm5HV1BB?oc=5",
-   "time": "2026-10-22T23:07:14+08:00",
+   "title": "TSH Resources says 274 hotspots detected within estate boundaries were outside operational areas",
+   "url": "https://www.channelnewsasia.com/singapore/tsh-resources-hotspots-sgx-questions-haze-6483271",
+   "time": "2026-10-23T00:18:40+08:00",
    "summary": ""
   },
   {
    "source": "The Guardian",
    "title": "Indonesian students clash with police as protests over toxic haze escalate – video",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUtYX3diM05vVS15WGF6NnJuSG44VTI2Q0kzWm9WaHd4MnFLVHRoWTR3ZURuRFJGT0gweFppUzhWRGJlZWZFUURmb1c4cGVNS3dmT1NqOG9TSmpld19faGhZSGtDSmJqal9oT3I1cTdsQjFQWUdnZ3ZiTDY3RFNUZ3o1ZExMSFl6ZlpzdVRvNFFGbkV3d2R1ZFM3eUFPa3pzRjBjZEliUTRtS3BIWlE?oc=5",
-   "time": "2026-10-22T23:04:00+08:00",
+   "time": "2026-10-22T23:30:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "24-hour PSI in good to moderate range across Singapore for first time since Oct 5",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iTEdxMXVPQkI1S1IxSFBQUWhKbVo0aTl1SGQ0bzNDazJFVEFXWGZfLVVRd3ByV01qMzh5azJ4UkxydXN2SkZmdC1pYktCcVhKMEhkZmtqcWpUZWhzc2FDZ1RyRWRrUzE3N0ZBd2Z4VkZPTUNEWm5HV1BB?oc=5",
+   "time": "2026-10-22T23:07:14+08:00",
    "summary": ""
   },
   {
@@ -532,13 +539,6 @@
    "title": "Regional cooperation key to lasting solution on haze, says ex-AICHR chair",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSjdrdktvT2FyOWFHN1VjOUtWZFUwMW42bUxVRnFfczd6THNCQ0ZBRXZIc0IzVWNqeUZob05lcW9yRFlueVNrdjhMNHpNTVd5bEJrQndHbFIzU01SOHJWLUlMVHRFZzhEUVNla0M2bk9XaFQwMDNfemhMRFpwaWY2ZHB4MUI5cHJPSGF2SVYydEFuZFdQcVVmM0JGVlVQME9YQUxVY2ZkVUNJUHFrQVNrOUFkaE10Z3hHS2VIcXNwRXV3T0JISXlMOUxxU1Rhdw?oc=5",
    "time": "2026-10-22T23:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Seniors aged 60 and older eligible for second mask distribution from Oct 23",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnUxQ2tpZzlDb2padlFyR3VRdHVSd1lVZG5jaEJrdFA1SlB5eVRzaVhZVlItSDNsSVhTMWo0OC11WWVOUmtZd1gwdnd3cUt3ZFJmQVNnYWZrNjVWNzJpVU9FT0xacnRvd0d5NGlrZk10c2NyNTM5NTIxT3FkSDh3amdCR0d6dGVqYTVKbjA5blI3RXFSZC1nWUwtZ2dMcUhLMG5YRm9pRlRMS1BkbDFudFhJN2FxMFhSczdfbXNyNk43dElkUGc?oc=5",
-   "time": "2026-10-22T22:42:28+08:00",
    "summary": ""
   },
   {
