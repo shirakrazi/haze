@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-22T21:00:00+08:00",
+ "updated": "2026-10-22T22:00:00+08:00",
  "psi": {
-  "west": 88,
+  "west": 87,
   "east": 73,
-  "central": 81,
+  "central": 80,
   "south": 71,
-  "north": 71
+  "north": 70
  },
  "pm25": {
-  "west": 70,
-  "east": 36,
+  "west": 56,
+  "east": 32,
   "central": 46,
-  "south": 38,
-  "north": 28
+  "south": 35,
+  "north": 30
  },
  "hist": [
-  {
-   "t": "2026-10-20T14:00:00+08:00",
-   "psi": {
-    "west": 136,
-    "east": 104,
-    "central": 122,
-    "south": 103,
-    "north": 89
-   }
-  },
   {
    "t": "2026-10-20T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 71,
     "north": 71
    }
+  },
+  {
+   "t": "2026-10-22T22:00:00+08:00",
+   "psi": {
+    "west": 87,
+    "east": 73,
+    "central": 80,
+    "south": 71,
+    "north": 70
+   }
   }
  ],
- "newsUpdated": "2026-10-22T21:09:25+08:00",
+ "newsUpdated": "2026-10-22T22:09:10+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Deep Dive: How Singapore can turn up the heat on haze-linked companies",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVU02d1FxS2Jic2VMNTZLX1JQWnktcFkyMW4yLWVEZkZlTXMwVVZHaHZCS0Nrd1dneTF5b2VTNWhkTllzMXppb2JMY25wSUdTTlpXaE9SY292QjJFZ3Y3cjRvcWlGODVhNFVzT2Y5Rm9IdnoxSXZIR1NNWl9PNVkweTlMSGF6cEhURVJieVFoTmFOZlpJQ1RlemU2UVVSczZTclNWWnRwd0hNZGZLWkE?oc=5",
+   "time": "2026-10-22T21:55:45+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "24-hour PSI in good to moderate range across Singapore for first time since Oct 5",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iTEdxMXVPQkI1S1IxSFBQUWhKbVo0aTl1SGQ0bzNDazJFVEFXWGZfLVVRd3ByV01qMzh5azJ4UkxydXN2SkZmdC1pYktCcVhKMEhkZmtqcWpUZWhzc2FDZ1RyRWRrUzE3N0ZBd2Z4VkZPTUNEWm5HV1BB?oc=5",
+   "time": "2026-10-22T21:39:11+08:00",
+   "summary": ""
   },
   {
    "source": "Tempo.co English",
@@ -518,13 +532,6 @@
    "title": "Field Notes From Palembang: Record haze, no masks: Where living dangerously is the new norm",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRmUtU1ZCZ1BVQ3E1R25EOHh0T3M0WVVZc3VYRzVUNjR4MndIbFZqalhuWEItTVd4cVNYSGFJNjRWZ2tTTFdRSzFXZHlCT3VoM294NTNTNjBaVVIyaHNoblVMbFg4U2pRMjdqRGxldGZoaUtlaW51VVk1S0FFdVRPa2t1VnpHMzhua2ZhUHJNWmtXeDltQ08tR09GclE0Z0JQaEFzVmFXMVZja3U0NjVyazF6dlo3clZLOWRMY0d2dDRGd085Mkd3ZEkwTmtuQXliYjByT0k0MHBpLWJGa3czd2ljM2p4QQ?oc=5",
    "time": "2026-10-22T20:38:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Deep Dive: How Singapore can turn up the heat on haze-linked companies",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVU02d1FxS2Jic2VMNTZLX1JQWnktcFkyMW4yLWVEZkZlTXMwVVZHaHZCS0Nrd1dneTF5b2VTNWhkTllzMXppb2JMY25wSUdTTlpXaE9SY292QjJFZ3Y3cjRvcWlGODVhNFVzT2Y5Rm9IdnoxSXZIR1NNWl9PNVkweTlMSGF6cEhURVJieVFoTmFOZlpJQ1RlemU2UVVSczZTclNWWnRwd0hNZGZLWkE?oc=5",
-   "time": "2026-10-22T20:25:45+08:00",
    "summary": ""
   },
   {
@@ -556,6 +563,13 @@
    "summary": ""
   },
   {
+   "source": "Al Jazeera",
+   "title": "Southeast Asia’s toxic haze spurs calls for legal action against polluters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHNvek1kckhXanEtZU9vdERuX2haVGkwcU1ZaU92S3NEMHZJNXV6RXhzUUpQaWM0Wm1DbmlydnNjeUNzLXZOYTU2RGo4MEdJY0phMUtNQ21Wb05PQWgtaTNDWlFnQkczbTNaaW5oT2QwZFdnbFRtUklRQXZnRk1aeGZMZDlQWjZTalNQVUR2TlQ5SzJXUU5GS1YtUG4xVlBuOUg2ME5UZmNRaENZTFVNLXB2ZW9UMllXTHfSAb8BQVVfeXFMT1VHMnVzcU1kUUJvcFdvZ3RzYlNfN3FQUFZrN2tiVEV2cG1kSzZCOVh4MEtXYk1XMmFwVnZhd0tXTU9MOHQ5akpiQ3piVUVSNmJ5ZGZQdDI3dkp2UkdGZzdfRnRWLXNmMm1HY3Z6TUFRWVlwcXpJenFmY0pfeEhpelFkRkM1WHppWXp3T1ZUZGQ3TWp5aUNJLVhNQnFsNDJ5RHZYeXJxMzFaMFN5RkRXZkg1d3B6LUU0YzZEUUZBenM?oc=5",
+   "time": "2026-10-22T19:45:48+08:00",
+   "summary": ""
+  },
+  {
    "source": "NST Online",
    "title": "Fires rage, haze spreads as Indonesians pray for rain",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa1hWZThVdkF0ZTNSMWJuME5zWFptc3JpQXhteEZsNnktLTJuTjNydXp0dTdwQ3BTVFpYWWNSMEQ0Y0plQ3NaZWtjWjJoYXJsLVVheEdTZkU2TU9KUlFiaDBhd3pCZjY5YzJNM1ZyZU9Zdk1nNTRqNUNQNGxKMnNhVXFBcG5vOXpUNUxwWTZkclc5X09ITFZObE1XVV8wd9IBowFBVV95cUxPMlpLOGRCcWFKNmJXbzA3Yk9FLURUUmpjRXJNY19XSTRUZ2o2T3laRWlvM0NDa2lGaUh6aXFiVjBVTVcycU1ESF9NVWZLYlB6N01Jd1B2Sk5rcnJTR1BiTEdYbjVNZWRHdVNxWV84a2RFYWNqcmQtdlM1ZV9ZbmpZeDhLelJ1Z3VRU0ZQbXhuamhUTENOSHhjaUhILWNNeGNtZVpz?oc=5",
@@ -577,24 +591,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "24-hour PSI in good to moderate range across Singapore for first time since Oct 5",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iTEdxMXVPQkI1S1IxSFBQUWhKbVo0aTl1SGQ0bzNDazJFVEFXWGZfLVVRd3ByV01qMzh5azJ4UkxydXN2SkZmdC1pYktCcVhKMEhkZmtqcWpUZWhzc2FDZ1RyRWRrUzE3N0ZBd2Z4VkZPTUNEWm5HV1BB?oc=5",
-   "time": "2026-10-22T18:44:30+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Edge Malaysia",
    "title": "TSH Resources responds to SGX queries over Indonesian fires, haze, denies operational links",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NNkpVdjRob3dlbTFVeDVCVzZUR1lUTjM4SFVVT1U4cEdJQ0ZoUi1kQURfbm10X3QzUG8zNDB5ODZRS1V4TlpPZjlNWHF1bnNa?oc=5",
    "time": "2026-10-22T18:43:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "National Environment Agency (NEA)",
-   "title": "Haze Situation Update (22 October 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaHRIZEw3LTRYZG8wQ2EwZHEzeUhXLXFPbjNsQzhiQWQ3Z3c5MXo1VnpReEVJaGFrR2R5TWhnSzczVkp3VFlYcmVxUmlJQmtzNGZIaDY2ZUpNYkdqYUo1TGo0OFYyR2VncVkzbXZNczkwZ0gtNGtwMkJCWWJ2eEpuel9XMGI3bGJYc2NnNFYtT0RwQQ?oc=5",
-   "time": "2026-10-22T18:25:43+08:00",
    "summary": ""
   }
  ]
