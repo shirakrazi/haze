@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-23T04:00:00+08:00",
+ "updated": "2026-10-23T05:00:00+08:00",
  "psi": {
   "west": 88,
   "east": 72,
-  "central": 80,
+  "central": 79,
   "south": 69,
-  "north": 70
+  "north": 69
  },
  "pm25": {
-  "west": 45,
+  "west": 48,
   "east": 28,
-  "central": 39,
-  "south": 22,
-  "north": 14
+  "central": 32,
+  "south": 18,
+  "north": 15
  },
  "hist": [
-  {
-   "t": "2026-10-20T22:00:00+08:00",
-   "psi": {
-    "west": 141,
-    "east": 106,
-    "central": 122,
-    "south": 100,
-    "north": 86
-   }
-  },
   {
    "t": "2026-10-21T00:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 69,
     "north": 70
    }
+  },
+  {
+   "t": "2026-10-23T05:00:00+08:00",
+   "psi": {
+    "west": 88,
+    "east": 72,
+    "central": 79,
+    "south": 69,
+    "north": 69
+   }
   }
  ],
- "newsUpdated": "2026-10-23T04:07:54+08:00",
+ "newsUpdated": "2026-10-23T05:07:55+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Financial Times",
+   "title": "Singapore goes after companies over toxic haze",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQREhsRWJJNHJuR09ORjZBU3hERDhlNzcwcV9GMlZVUmVUcV9CYklVSFJFSlJYT291LTBubWNQRnJyZjZZOHJDMW1JeW1aNWxYM3ZvZjF2eTdrbzBxTVZkcy1rZjNXbG1ka2FrMEE1SXhGcm1pTlNsRFRQelRGZFM4cVZZZGQ?oc=5",
+   "time": "2026-10-23T05:00:05+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "A look back at South-east Asia’s strongest fire and haze episodes",
+   "url": "https://www.straitstimes.com/singapore/environment/a-look-back-at-the-strongest-fire-and-haze-episodes-faced-by-se-asia",
+   "time": "2026-10-23T05:00:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Sun Malaysia",
@@ -570,31 +584,17 @@
    "summary": ""
   },
   {
-   "source": "NST Online",
-   "title": "Indonesia channels US$68mil to tackle fires, haze",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTUNQZXBTMUNnVTRyME9pampDMkdTX3ZjS0NJdTlncDJxLVVELS1RRS0xUFpGeFVCLXBzVlhSUnpFc0VlNElfM0RkbU96U1owQlJ2TDd1T05EUkp3aGJCbWpBdmF3eGJERFM1cmpTSHhfVFJrVG1rZExDRkhMQ3I3SjhIMk5FaDlWRlNLcEVEUnExM3FLZnRDNzhoRFVUdlZmUFHSAaIBQVVfeXFMT01DUGVwUzFDZ1U0cjBPaWpqQzJHU192Y0tDSXU5Z3AycS1VRC0tUUUtMVBaRnhVQi1wc1ZYUlJ6RXNFZTRJXzNEZG1PelNaMEJSdkw3dU9ORFJKd2hiQm1qQXZhd3hiRERTNXJqU0h4X1RSa1Rta2RMQ0ZITENyN0o4SDJORWg5VkZTS3BFRFJxMTNxS2Z0Qzc4aERVVHZWZlBR?oc=5",
-   "time": "2026-10-22T21:24:54+08:00",
+   "source": "Facebook",
+   "title": "DW News. . Months of wildfires have blanketed parts of Indonesia with thick haze. In Pontianak, a city in West Kalimantan on the island of Borneo, students took to the streets in protest. Demonstratorss accused the government of failing to address the health an",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYTJ2RHQ1MGFGT2d6SHAyUkdvMFgzYzdGWU5rZ01udHFRQlFibmV2OGtVTURXWUxvNGhfd3ZhaHFLMGhJZHNpeXB3M2U5QmNWUVJKd3lhOE5Lc3doMS12NUlaV2NoUVdULUZaVzVydEtsc1dJeFF1SjVPd1Vjejh4V2lHd0I0cjB2bXpWWERHRGwzb1d5RS0wckVQdGplWVZDOUhNbDdQQ09BdlJPa2JIVnpEMHVQN1FMaXNkMk41YTM5N0hWTHBRaWgzYU1TNDAzZGY2UGRmOFdqNktPQnZKRFhR?oc=5",
+   "time": "2026-10-22T22:00:43+08:00",
    "summary": ""
   },
   {
-   "source": "Tempo.co English",
-   "title": "BNPB: Dry Ice Is for Haze Dispersal, Not Extinguishing Forest Fires",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjV2WHF0VGFfMGU1RjZ0UG9TQ09KanZfOURjWWFHQ1dRVVNaTXlRMUdnYUZLUVd1TjNPNVFPMGNsaUxtN1Y4Wl9Iel92WkRpcFZEMlhHWV9QYmxCbXNXQkk4VXdPZHVycVBfRHZ3NDA4MEJBdlo1SnEyU3JBOFFtVUhzdndlT3JnbmNuNmNyMllsNEExVENzR3UwVEp1d0k?oc=5",
-   "time": "2026-10-22T20:42:39+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Field Notes From Palembang: Record haze, no masks: Where living dangerously is the new norm",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRmUtU1ZCZ1BVQ3E1R25EOHh0T3M0WVVZc3VYRzVUNjR4MndIbFZqalhuWEItTVd4cVNYSGFJNjRWZ2tTTFdRSzFXZHlCT3VoM294NTNTNjBaVVIyaHNoblVMbFg4U2pRMjdqRGxldGZoaUtlaW51VVk1S0FFdVRPa2t1VnpHMzhua2ZhUHJNWmtXeDltQ08tR09GclE0Z0JQaEFzVmFXMVZja3U0NjVyazF6dlo3clZLOWRMY0d2dDRGd085Mkd3ZEkwTmtuQXliYjByT0k0MHBpLWJGa3czd2ljM2p4QQ?oc=5",
-   "time": "2026-10-22T20:38:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Kadin Responds to Neighboring Countries' Haze Complaints",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVVRCNk1CRW42WGJzTzEwMWFTeFVhb2FPckd0dHNYREhEMkt2QWhWMHp5TGVSa1UxSFlabFIxME9leFE1SXFJam8tVkxsVVlQRDVLdzJVQ08xci1CSWV5X2NsRDJjaTZOeE1ldU80RWUzeTladUFWd0xteW5qNE9aZTBhVGdjbENUMGw2c0JEMGJtZw?oc=5",
-   "time": "2026-10-22T20:06:56+08:00",
+   "source": "https://www.misslobang.com/",
+   "title": "Free Haze Masks Second Wave From 23 October: All Singaporeans 60 and Above Now Qualify",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmM1RU41V1o4cktvekt4YlJhTmZGdXY4NzFEc1VmZkY4QWJyVTczT1l6SEphTlNiLUpBRXJzRloyYXVSMGhXVFJmZ01hREtFQV9FeDdkeXR1OElBUE5YbTc0cG84b2FCS1V0QWo2Q0FIeE9wUWwtd1FCb2M5dklNN2RFNUZBWmpRUmNjZGhzMA?oc=5",
+   "time": "2026-10-22T21:55:35+08:00",
    "summary": ""
   }
  ]
