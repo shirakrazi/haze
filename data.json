@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-22T09:00:00+08:00",
+ "updated": "2026-10-22T11:00:00+08:00",
  "psi": {
-  "west": 107,
-  "east": 82,
-  "central": 93,
-  "south": 84,
-  "north": 74
+  "west": 104,
+  "east": 79,
+  "central": 90,
+  "south": 82,
+  "north": 73
  },
  "pm25": {
-  "west": 47,
-  "east": 43,
-  "central": 40,
-  "south": 22,
-  "north": 36
+  "west": 39,
+  "east": 31,
+  "central": 38,
+  "south": 30,
+  "north": 40
  },
  "hist": [
-  {
-   "t": "2026-10-20T04:00:00+08:00",
-   "psi": {
-    "west": 121,
-    "east": 99,
-    "central": 114,
-    "south": 95,
-    "north": 88
-   }
-  },
   {
    "t": "2026-10-20T05:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 84,
     "north": 74
    }
+  },
+  {
+   "t": "2026-10-22T11:00:00+08:00",
+   "psi": {
+    "west": 104,
+    "east": 79,
+    "central": 90,
+    "south": 82,
+    "north": 73
+   }
   }
  ],
- "newsUpdated": "2026-10-22T09:08:52+08:00",
+ "newsUpdated": "2026-10-22T11:07:19+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,52 @@
    "pinned": true
   },
   {
+   "source": "The Online Citizen",
+   "title": "Listed firms causing transboundary haze may face legal and financial penalties: Chee Hong Tat",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaksyRHJIQUk5eHlOOWtDamFwWnlKY3hzV2RDWllGSmNsUTVZd0dCLVJ4YjVQTVpEa3ZVMDFwQzJZcVJmQ2NUUWIyaExaX2FZTlNSU1ZuNVU0cGNSUlQ0bHk5bmpLUy14Q0VIeG5IMjRjQ2VIaU5HS3owYW1hLUhwQlNiempMeHZfNWVEOEFQT1ViYlBBNjI2VVprajF3RDdXMXo4eU9fVGttdW4xTW5GQW1mc1hfeXJHZEtNM0ZqdFJ0VjU3YzVvODhRQnhaMG0xMzA0?oc=5",
+   "time": "2026-10-22T11:04:17+08:00",
+   "summary": ""
+  },
+  {
+   "source": "planb.sg",
+   "title": "Syed Saddiq Hits Back at Former Indonesian Minister Over Haze Dispute",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYlV4Ylg2MEtvMzRFc1VNZVBVeW5EbmRkaUZPdkVudENEV1dIZWg2NVZlMkNSQ0FPWTZmRHM2b2xvMXBBZ2ZESl93R1B4TFpxOGRtbkd6b0w2dEMySXRlQzJoV05sVi0ydlZROEJ5S29oakRTSGo0MXJJaUFOcmpYNWlYQzVZeTU0YlpkYm15bm9oemE5SXR1cXBycw?oc=5",
+   "time": "2026-10-22T10:09:11+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Asia News Network",
+   "title": "From dance to clean-air shelters: How Southeast Asians are turning haze anger into action",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDlpbFZDYWprOG4xbWlZc1d4ZE5RZlJfMXpfSW5jcEdzeG1FeUp6RHZNa2x3TE1YRVBDdGZsRWlCWUJuYUxmY3REVmZkZW5VWDd4SUlJSjdDUTlTakViamtteU95Wi1aRkExQnF1VnFhVHVseHpPd2d4MlY1VjFkcDJGSTBhdEVEVlJwd3luRzVUT2d5dmNsV1R2SlVENlZ5dlZkRV9VWXA5S19YLXZERnVyWW0?oc=5",
+   "time": "2026-10-22T09:40:05+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Human Resources Online",
+   "title": "Malaysia & Indonesia discuss MoU to tackle forest fires and transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOFZTT3dRQ25ETzJTbC13cE9VOW5QS0FJT0ZoNThSdHE4THJYZVZQcDktTUpfS0p3VUdQeEZvRDNVdEZwQmZ5cGM5MHgxNzRzNnNwbjN1X1c0TWZrRUtBXzdoYlVCUWVCeXdiNlFDaF9ZeHJBTW9Pd2ZaUHBfeDRpV1J4X2ZVVkkyT05WaVFYM0hjMnRZYWYydmRrN0owd2RGOU5lYnNVODEtZ3RiX1VFN2xHNA?oc=5",
+   "time": "2026-10-22T09:07:41+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Haze: 16 areas with unhealthy API readings as of 8am",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRnRTbHdRc3BUbTNQY1pvMFBySDRoQThXX1ViRUhBMGYzV3BENDZVZmExQmhpZXdGeVpzeVBmc2NlQ1REUmxXa0FQNjR4ZkJ0b09TWk1uOUx3bXE0bm9Zc1ZjYTEtcU5uTV9CV2NiaVQ4Sk1hMnNyN3I1Y2ptRERmcDNQTXhwclRGQTRIZlhnTlZlQl9tbFhPc0FxeFl1OWNqVUxn?oc=5",
+   "time": "2026-10-22T09:01:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "Asia News Network",
    "title": "EXPLAINER: Why is it difficult to identify companies linked to Indonesia's forest fires, and how can Singapore’s haze law be strengthened?",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZUJuSktaZGRnZ1dINE9qRi1ERW1HeWZRTjBhVlA4dDdORWJSSm45MUt5Wi1oZ29yVjBOMHYzampuMDg2Wmw2ekxfek5laWdUTFR6ZVpLUm8wcVJpRjZsenFUMGVsUGVhbnREN1FNSlZJTVU5Rk5IWGd2MXpVbm13cThxOXNoSFZwQ3FZeE5UckZHM1V5VWZCY0xlMEg4VmV6SUdRSDhQcjMyN1RtRklBUGRZd2pyYUFqLVRieWp4SkJYMGhudnNSREQxVXQzVVVDenk3M3Q2em9rZFkxWWliWElhV1NwX3laMjVJVzR3VzU?oc=5",
    "time": "2026-10-22T08:54:18+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Prabowo warns regional critics Indonesia won’t be ‘insulted’ over haze",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNGVlZzQycUZ4NEVxMnJNZTFoQjY2OG1fY3FZdi1ndXhRVEt6TjJiM0RLNEhTUHJpWXhwbDlCQ093LVdETHA3VDlIenpZYl9IUEhsUkFXV0FRUUpsdzV2Y1BiVk5BaHAyVDJoOGJxVTEzdnRxSFI0TlRHRm5FTlllT19VNnBGUkM0cVM5QmVGQXhQd0RUaXVKc29scjgxVkh2S09FNkloOTNtTnJ3OXIxaHo4VV9WOUx2V05JRExQUGRjcEFTem0zVw?oc=5",
+   "time": "2026-10-22T08:54:00+08:00",
    "summary": ""
   },
   {
@@ -535,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "The Star",
+   "title": "Haze law hits burning question",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbHhUWk9kdXlJSTh3aWtrWGxKa0pQUDI2QVlsUzVWWkYzdFpFUkRvajRSMzRYSTlXSjhOZ0FZbVFUZEZ3czJsTTF0TlpGTUVjX1hCVGE3RlJyVFRCcTQ4QTRUTDlMYVN4SFliZ1M3VmlWOHdtdkVoc042M2dBNjZLZGVyUHh4WVE?oc=5",
+   "time": "2026-10-22T08:20:13+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Jakarta Post",
    "title": "Airlines, passengers bear cost of haze-hit flights",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcGR3M3FwcGZQU3JZRE9wNGUwcFhTRHFXR3BxY2hia2VGbkNIRXltNEQ3Nlo3ZHJsNE81S1FKa3ByblFvbnd5MUZ3MGZCNEpsWUk2emVXWTRELUswS2NkYjNRSF9OczduUl9kUkI1NUxuNEJxdmdHWDJvNlpZTzkxYTFJdDI2cVNYTTlnRVFIem1EUno3QUx1UVJGM0FjLUI5YVE?oc=5",
@@ -546,55 +595,6 @@
    "title": "TikTok Creator Slammed For 'Tone-Deaf' Video About Fleeing Singapore's Haze",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORmlJeE9IMTRQaktNU1R6R2t0V0FfMlFmNjZ2WXNsSzV0MlJhaDQyVlhaUjdlenVEQzVTeFF0XzdDZFIwMVRtaEluQmdSYnJySTA1N0dBSWR2dmtmX1d4VG82TVNDMWcwRElDb2lZclgzNWQxQU9ZVmlaSDRpempfbWdXRUtxZHpFcGxMeEFOMm9VNHBJWXc1ZWhQa0dud1hl?oc=5",
    "time": "2026-10-22T06:51:56+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze in Singapore: Air quality improves overnight with ‘normal’ PM2.5 readings across the island",
-   "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-improves-overnight-with-normal-pm2-5-readings-across-the-island",
-   "time": "2026-10-22T06:05:14+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze in Singapore: Air quality improves with ‘normal’ PM2.5 readings across the island",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeVBTOGg1UmRVRllYejloTkp2WFE2bVh4bWFycGlmUlkwenpyX01aWEZlaXlNWk1MdVFJTDRnUDAtcjhOUzZNX29SdkpLczZfUGNmdTE4OW91TzFxYmM0aDlHV3RrS25qTkRZb09HMzFFWldINmJZNXhsY0pBVmx6M2l2ZU9yWGc5RHRCV3NnamlobHExR3ZIUjNJU2ZMZ0QyeEVuenFDM1BLWVNuZ3lwTFZOVVNJdzBBQ1ZtTHkyeVVFMmJPem5BaTlkN20?oc=5",
-   "time": "2026-10-22T06:05:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Baim Wong backs Syed Saddiq's stance on haze",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMzNoUmFFdjVlczQtMjV1RFFxY2kxRzV6X3BzRWdrZnpYRDhzWXR6bFhQZ1dQdkg3eWZadlFpbC1SMlloRnhEa25KYjc4ZkZfMWhoSG1ya2kzOXlHRjQtVnNkOTdpLXFnbzhROV9FRzI2a1R3MUxrdjdjLUs0MmdDMUlySG9ZV1V5cUxHT2NjRUp3OUN1Zk8wX1ZzcmlSb011YUHSAaIBQVVfeXFMTzMzaFJhRXY1ZXM0LTI1dURRcWNpMUc1el9wc0Vna2Z6WEQ4c1l0emxYUGdXUHZIN3lmWnZRaWwtUjJZaEZ4RGtuSmI3OGZGXzFoaEhtcmtpMzl5R0Y0LVZzZDk3aS1xZ284UTlfRUcyNmtUdzFMa3Y3Yy1LNDJnQzFJckhvWVdVeXFMR09jY0VKdzlDdWZPMF9Wc3JpUm9NdWFB?oc=5",
-   "time": "2026-10-22T06:00:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Singapore Business Review",
-   "title": "Allianz Singapore offers $39 haze-related medical cover",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPakFzcDdfSUVwZG56MVNIY3AzMHd1TnR1T2VlN2NUZG9QMkljN0w0eUNFZ2FSRjVWTFNXUlljMjRtQ0ZFblgxSnY5dVlEQlJodHgxcThPQ2lRVXNveXNTcE5IYWRKYlJiT0FSVWNHeUoyYkxKb2lDWnBxSzNNOWxIYjNxOEhiNUdSenh2RE1NanFFQQ?oc=5",
-   "time": "2026-10-22T06:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Insurance Business",
-   "title": "Allianz offers haze benefit as Singapore faces wider insurance risks",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVnI3dEZaaDBzVUx4bkphRVBBX09kOThKM0VLWnRVWjFmSHpXdi1hR2thc1FJNHpzTVd4Rkt5S1ZXSF9EaU1Ha0ZFeFZlS2E3dF95d0hsLTZnM0JfQnZIdGMyQmxTb1BBNWVJQ2FLX1N4czlXX1JsaTBYdXNwRFFrOHc0bGpKak0tanl4dW0wSkItWTN5YWxUTEVmMk4tdHRhdDM4VlZ5VlI4N19xNm5JOFNDcUthWlNvaEdQdDhwelRLLUxTOXhFeF90TlVFNXUtaVF6SC1R?oc=5",
-   "time": "2026-10-22T02:04:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Thred Website",
-   "title": "Southeast Asia faces worst transboundary haze crisis in a decade",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS1ZKRXV1OVN2eEtfYUljZTVfdFhIQXZrcGpxRXBtWWNHNHk3UkNBX2lKOW5kMUthYUt4SktoWG1DZmNJd2U5V0VyeE5la2JMb19YbWVwUGsxM1Nfby1hdnJGV0ZvdV9OUk5iNTNRc2lRY0VHQjVtSHhzOER2X095Z1ZoUXFubWI5U3FzaE9kaVFwX2lX?oc=5",
-   "time": "2026-10-22T01:26:31+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "'This is not Malaysia vs Indonesia', Syed Saddiq says amid haze row",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObW0wMmlFd1pJTHJvSzQyemRLdHlIUVV4Z2duQkk0T19VS1d1UmxjU1hfWmVTc08tS29LenRqa3BPdU9wa2NBdVFMWE8xQXMyQTRCU09XTnRpS2ZpVEtYVWZSNWg4QXVIWjFWSGdyQVE4cWRTdXd4NFdfeVVfN1VUcFN3b0ctbWxKWWxxQVh3Sl83TW0tMUVYMjJoR1RWVXNJbTZoZzFKc1BCc1HSAbABQVVfeXFMT3ZVdXZua1JoN0VCODAyMGRiclNsbjhQS2xPSEJKcDFiR3YyWmprYmFaRjB1Wkx2NURQczFQaDVfN0dFdEJPcktGQWE2TjdTNmswai0tcUluSXJtSmQzVHB6b3MwZWhfWnpuWktRVTRXLVpES0pPU21IM1BHc0dKTjJUWW4ybW0tNVNKaVg3ZnVVMjNucVRGbHlteXBvVTJjbzRuUlJYandPNU4yMDQ1R3Q?oc=5",
-   "time": "2026-10-21T23:52:39+08:00",
    "summary": ""
   }
  ]
