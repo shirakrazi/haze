@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-22T17:00:00+08:00",
+ "updated": "2026-10-22T18:00:00+08:00",
  "psi": {
-  "west": 96,
-  "east": 75,
-  "central": 84,
-  "south": 74,
+  "west": 94,
+  "east": 74,
+  "central": 83,
+  "south": 73,
   "north": 71
  },
  "pm25": {
-  "west": 39,
-  "east": 32,
-  "central": 33,
-  "south": 29,
-  "north": 23
+  "west": 46,
+  "east": 33,
+  "central": 35,
+  "south": 31,
+  "north": 29
  },
  "hist": [
-  {
-   "t": "2026-10-20T10:00:00+08:00",
-   "psi": {
-    "west": 126,
-    "east": 99,
-    "central": 115,
-    "south": 98,
-    "north": 89
-   }
-  },
   {
    "t": "2026-10-20T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 74,
     "north": 71
    }
+  },
+  {
+   "t": "2026-10-22T18:00:00+08:00",
+   "psi": {
+    "west": 94,
+    "east": 74,
+    "central": 83,
+    "south": 73,
+    "north": 71
+   }
   }
  ],
- "newsUpdated": "2026-10-22T17:39:12+08:00",
+ "newsUpdated": "2026-10-22T18:08:15+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,24 @@
    "pinned": true
   },
   {
+   "source": "Mothership",
+   "title": "Syed Saddiq hits back at Indonesian ex-minister's haze accusations, says he'll not shield polluters in M'sia",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PZGkzOXdVWFRJVVUxb2pwQmx3TU4tVW1zdVFSVkN6WmJhTDRMZWJ6TmM1VGtDMjdMTXA2VXZTNnNTbExuUUx5UmV5Z2tzbmd6aXZrUmxmX0FDdTJlRFo4RWNLT1dFZVpoVHpZS3duU0J3X0gzTDBDeE1xeXo?oc=5",
+   "time": "2026-10-22T17:47:11+08:00",
+   "summary": ""
+  },
+  {
    "source": "AsiaOne.com",
    "title": "Indonesia's fire hotspots ease but rain still not enough, official says, Asia News",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUpaaURrVWdhNk42MUxjM1VLdm5HMnhFT1VNRzBVdlRCLU82WW1MV3pOMFRCd3hLekhCV09qUkFtTmpvUUE2YmR6Zk8wcTYxMENOVDRVZVZmSjJkUXdRYWFkMVZCX2pEQUFnRGpFMjN0RzNtYVFmTTJMbHdybXozanRENnRIQTlob2o0N0xoU1ZUUVl2QmhmenpB?oc=5",
    "time": "2026-10-22T17:34:41+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Haze: Science diplomacy, sustainable Asean fund among measures planned as El Niño set to persist until mid-2027 — minister",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qamxGMWR4QVNlSGlnQWUyTHowbnVFVmF0OEVWMWEyME5POF9YaUpfdzVDLU9vdl8zeDRRMlRqUVl6eDhRcll4eEcxbU9VOHc3?oc=5",
+   "time": "2026-10-22T17:34:16+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Only 22% of eligible Singaporeans have collected haze masks: Haze Task Force, Singapore News",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTzRiUVJzVzBSVDhtZGxNMUhaWWtMQVlGVEdaWlJDcXBQSzdENWJmNk5LdS1qcVllX3k2VEs4R3JjMjRoRVZqTEhMVjByV1F2aFFzb1RsY3RmeXhtbklDY3A1T2c5SXEtMldPZXlRYnBXMW1EOHg3S0RwZnF4MktCQjdNVnEtM3pmU0Z1ejBEanZtUXNlbW5SS3R5dWRrYzh5dmc?oc=5",
    "time": "2026-10-22T16:26:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Newswav",
-   "title": "Malaysia urges Indonesia to take firm action against transboundary haze - Arthur",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnN0V3dfSXpLajB0R1R4NFBlVlhOWlJhU0U2QVNPdjl4bWpqaEVhajNXRkNfOXFDVjVqaFQ2T3pBWDZZNG5uZ01OZzdsbDZLWXFJeUdBZEQ2Y21fbWlxY2Q4enhWUENzQWdWWHdjY2FPYzc5MlBuXzh3eTZvSXlJYXBMdFRRZGJIWGZYa1VUbHJ6MUR0M1JSdHNaSlI1c1lwTWJlU3E0dXhDUVhQdHZ0UUl3R2d1ckE?oc=5",
-   "time": "2026-10-22T16:24:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Haze hits vegetable imports into Singapore, shrinking produce and pushing up prices",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQVdkM1BoMjNfZFptNWdSX3Mzb01wT3NZenVsTlNtRE5YZnBaeDh3OHh4N2ZULUJ1emdmUFplZVlNOHdwQmtKN2NQS0dXTlNFZkV0clU3eHh0cUdmblYyMUNCNzVNajcwQzFZMEU0V0NyOHgxRGNEOUlnN1FnQ2twb2NzUUQ0bzNkNk9HV1RWVmNMTkF2VUhLdVdPTzRvWDl1V0kzZDB3N1RlQ0tmbFloOHhPTkM1SkE?oc=5",
-   "time": "2026-10-22T16:20:39+08:00",
    "summary": ""
   }
  ]
