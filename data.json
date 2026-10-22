@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-22T22:00:00+08:00",
+ "updated": "2026-10-23T00:00:00+08:00",
  "psi": {
-  "west": 87,
-  "east": 73,
-  "central": 80,
+  "west": 86,
+  "east": 72,
+  "central": 79,
   "south": 71,
-  "north": 70
+  "north": 71
  },
  "pm25": {
-  "west": 56,
-  "east": 32,
-  "central": 46,
-  "south": 35,
-  "north": 30
+  "west": 48,
+  "east": 15,
+  "central": 37,
+  "south": 31,
+  "north": 31
  },
  "hist": [
-  {
-   "t": "2026-10-20T15:00:00+08:00",
-   "psi": {
-    "west": 138,
-    "east": 105,
-    "central": 123,
-    "south": 104,
-    "north": 89
-   }
-  },
   {
    "t": "2026-10-20T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 71,
     "north": 70
    }
+  },
+  {
+   "t": "2026-10-23T00:00:00+08:00",
+   "psi": {
+    "west": 86,
+    "east": 72,
+    "central": 79,
+    "south": 71,
+    "north": 71
+   }
   }
  ],
- "newsUpdated": "2026-10-22T22:40:46+08:00",
+ "newsUpdated": "2026-10-23T00:08:38+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,6 +507,41 @@
    "pinned": true
   },
   {
+   "source": "CNA",
+   "title": "24-hour PSI in good to moderate range across Singapore for first time since Oct 5",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iTEdxMXVPQkI1S1IxSFBQUWhKbVo0aTl1SGQ0bzNDazJFVEFXWGZfLVVRd3ByV01qMzh5azJ4UkxydXN2SkZmdC1pYktCcVhKMEhkZmtqcWpUZWhzc2FDZ1RyRWRrUzE3N0ZBd2Z4VkZPTUNEWm5HV1BB?oc=5",
+   "time": "2026-10-22T23:07:14+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Guardian",
+   "title": "Indonesian students clash with police as protests over toxic haze escalate – video",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUtYX3diM05vVS15WGF6NnJuSG44VTI2Q0kzWm9WaHd4MnFLVHRoWTR3ZURuRFJGT0gweFppUzhWRGJlZWZFUURmb1c4cGVNS3dmT1NqOG9TSmpld19faGhZSGtDSmJqal9oT3I1cTdsQjFQWUdnZ3ZiTDY3RFNUZ3o1ZExMSFl6ZlpzdVRvNFFGbkV3d2R1ZFM3eUFPa3pzRjBjZEliUTRtS3BIWlE?oc=5",
+   "time": "2026-10-22T23:04:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Home cleaning services receiving up to 20% more inquiries",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdy1tUjFWN21sZzh6Zk5nX0ZUYV8tNTBTMm1HUWltak93SjVDaWZFbUt4SUI0NmVOVkF2bzlmc1lFZmxJWVpmR2xTdmVFX2JNOXVBWlJMaUJEMGl0eFBtVmlicjd0VlJNcGZSMjRmS05zekF1MF94QnRwdm9KVjAycVExVUxxSVhZT0ozbTRxLVBqY2Fod2ZPNWtmYXdKTjRacEhmNk83MjZsWGhROUZUdGNrR0M?oc=5",
+   "time": "2026-10-22T23:01:22+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Free Malaysia Today",
+   "title": "Regional cooperation key to lasting solution on haze, says ex-AICHR chair",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSjdrdktvT2FyOWFHN1VjOUtWZFUwMW42bUxVRnFfczd6THNCQ0ZBRXZIc0IzVWNqeUZob05lcW9yRFlueVNrdjhMNHpNTVd5bEJrQndHbFIzU01SOHJWLUlMVHRFZzhEUVNla0M2bk9XaFQwMDNfemhMRFpwaWY2ZHB4MUI5cHJPSGF2SVYydEFuZFdQcVVmM0JGVlVQME9YQUxVY2ZkVUNJUHFrQVNrOUFkaE10Z3hHS2VIcXNwRXV3T0JISXlMOUxxU1Rhdw?oc=5",
+   "time": "2026-10-22T23:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Seniors aged 60 and older eligible for second mask distribution from Oct 23",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnUxQ2tpZzlDb2padlFyR3VRdHVSd1lVZG5jaEJrdFA1SlB5eVRzaVhZVlItSDNsSVhTMWo0OC11WWVOUmtZd1gwdnd3cUt3ZFJmQVNnYWZrNjVWNzJpVU9FT0xacnRvd0d5NGlrZk10c2NyNTM5NTIxT3FkSDh3amdCR0d6dGVqYTVKbjA5blI3RXFSZC1nWUwtZ2dMcUhLMG5YRm9pRlRMS1BkbDFudFhJN2FxMFhSczdfbXNyNk43dElkUGc?oc=5",
+   "time": "2026-10-22T22:42:28+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Business Times",
    "title": "TSH Resources reports 274 hot spots within estate boundaries after SGX queries over haze",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3FSVEU5ejI1LTBsM0c2bU1vNmYxWU40NDZJanFyYXhNb0w3S0cyUWsxdDc5SnpTT0s2anpMaU9TeWE3NG1qalREYUhacnhtMHBaaWFKcVRqOThhQk5JMkVkRFhyRWxyNGdLTXI3SmFCeUZpbW1WWUZoSTZEVG16c29uTG9tOVVvWlpRY1IxdkxhYnQ0SHVjSjZ0bjVEc00zUG5Gem8xNHBmUHNKcFBrNUJ3UTZBaDJCWUJySWFfSFVib1hHODBrbUxEWQ?oc=5",
@@ -514,17 +549,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Deep Dive: How Singapore can turn up the heat on haze-linked companies",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVU02d1FxS2Jic2VMNTZLX1JQWnktcFkyMW4yLWVEZkZlTXMwVVZHaHZCS0Nrd1dneTF5b2VTNWhkTllzMXppb2JMY25wSUdTTlpXaE9SY292QjJFZ3Y3cjRvcWlGODVhNFVzT2Y5Rm9IdnoxSXZIR1NNWl9PNVkweTlMSGF6cEhURVJieVFoTmFOZlpJQ1RlemU2UVVSczZTclNWWnRwd0hNZGZLWkE?oc=5",
-   "time": "2026-10-22T21:55:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "24-hour PSI in good to moderate range across Singapore for first time since Oct 5",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iTEdxMXVPQkI1S1IxSFBQUWhKbVo0aTl1SGQ0bzNDazJFVEFXWGZfLVVRd3ByV01qMzh5azJ4UkxydXN2SkZmdC1pYktCcVhKMEhkZmtqcWpUZWhzc2FDZ1RyRWRrUzE3N0ZBd2Z4VkZPTUNEWm5HV1BB?oc=5",
-   "time": "2026-10-22T21:39:11+08:00",
+   "source": "NST Online",
+   "title": "Indonesia channels US$68mil to tackle fires, haze",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTUNQZXBTMUNnVTRyME9pampDMkdTX3ZjS0NJdTlncDJxLVVELS1RRS0xUFpGeFVCLXBzVlhSUnpFc0VlNElfM0RkbU96U1owQlJ2TDd1T05EUkp3aGJCbWpBdmF3eGJERFM1cmpTSHhfVFJrVG1rZExDRkhMQ3I3SjhIMk5FaDlWRlNLcEVEUnExM3FLZnRDNzhoRFVUdlZmUFHSAaIBQVVfeXFMT01DUGVwUzFDZ1U0cjBPaWpqQzJHU192Y0tDSXU5Z3AycS1VRC0tUUUtMVBaRnhVQi1wc1ZYUlJ6RXNFZTRJXzNEZG1PelNaMEJSdkw3dU9ORFJKd2hiQm1qQXZhd3hiRERTNXJqU0h4X1RSa1Rta2RMQ0ZITENyN0o4SDJORWg5VkZTS3BFRFJxMTNxS2Z0Qzc4aERVVHZWZlBR?oc=5",
+   "time": "2026-10-22T21:24:54+08:00",
    "summary": ""
   },
   {
@@ -556,10 +584,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Indonesia is dropping dry ice to fight haze. But does it work?",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZl81U2F3b0xINWdkd2Y4ZTNnMF9LcTd6T3lkcFFiMkQtX0pvOW5qZ3E2QVNPTzZBUDVwRndNSGU4YUtkWC1CRllXZC0yZmszaDVfNGVWMmgxXzk1Y044UWo0X3ZUcUMzY3ZTNXM4SjVDYUhOeG1Rb1N0dlN0R19BbVYtbHl2R0NDTjZLRGtmaWZpVFlnUmxySzltSFkxUQ?oc=5",
-   "time": "2026-10-22T19:53:23+08:00",
+   "source": "Al Jazeera",
+   "title": "Southeast Asia’s toxic haze spurs calls for legal action against polluters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHNvek1kckhXanEtZU9vdERuX2haVGkwcU1ZaU92S3NEMHZJNXV6RXhzUUpQaWM0Wm1DbmlydnNjeUNzLXZOYTU2RGo4MEdJY0phMUtNQ21Wb05PQWgtaTNDWlFnQkczbTNaaW5oT2QwZFdnbFRtUklRQXZnRk1aeGZMZDlQWjZTalNQVUR2TlQ5SzJXUU5GS1YtUG4xVlBuOUg2ME5UZmNRaENZTFVNLXB2ZW9UMllXTHfSAb8BQVVfeXFMT1VHMnVzcU1kUUJvcFdvZ3RzYlNfN3FQUFZrN2tiVEV2cG1kSzZCOVh4MEtXYk1XMmFwVnZhd0tXTU9MOHQ5akpiQ3piVUVSNmJ5ZGZQdDI3dkp2UkdGZzdfRnRWLXNmMm1HY3Z6TUFRWVlwcXpJenFmY0pfeEhpelFkRkM1WHppWXp3T1ZUZGQ3TWp5aUNJLVhNQnFsNDJ5RHZYeXJxMzFaMFN5RkRXZkg1d3B6LUU0YzZEUUZBenM?oc=5",
+   "time": "2026-10-22T19:51:42+08:00",
    "summary": ""
   },
   {
@@ -567,34 +595,6 @@
    "title": "Indonesia haze: why Jakarta won’t declare wildfires a national disaster",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWV9Zc05GYzZMWE5WbTFKTHJYeW1XRGdjUkM5ZnNlVW9mS3BnTXpnVmVoVTFkSC1USlJQcDZoY1k3WHozWDZMSjN6cG1nY1c5X2JUcjZxdmRVU1JjTnZQaTQ0OTdCWHc5RTZYeGNHQ3VmVWR6OUpUYXA3ZGpXS1Q0RVRxNTM5azVWR1hpMzZqZlVCN09aSWF6X1JVdWoxeHA3eHp5czE0NlJkNmVUa3A0ZGVGcGRlMzUyR0RELXFUYU_SAcABQVVfeXFMTmM0VW93UUFJZjFqcFV4Q1JJb2c1SzE2WkdkSVZkNnYzTmdpbnI2cno2QnY0blg5bU5QdVdwR1NwWk9HMW9pQkVnRlFKX1JsRUVGQlJOa2wxdnAzQXNIWE9YbkoweU9NYm9MenkyOGk3WkI2OFZiWVh2NGdLRThXSnIzXy1HNEM3bWVnX3ktaEtTYTVRTThFX2dWN3VXU0Rwb3Q2TlA3QkdhdEV0ejdqQjc3ekt2YU9vS09mS1ppYVNH?oc=5",
    "time": "2026-10-22T19:48:35+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Southeast Asia’s toxic haze spurs calls for legal action against polluters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHNvek1kckhXanEtZU9vdERuX2haVGkwcU1ZaU92S3NEMHZJNXV6RXhzUUpQaWM0Wm1DbmlydnNjeUNzLXZOYTU2RGo4MEdJY0phMUtNQ21Wb05PQWgtaTNDWlFnQkczbTNaaW5oT2QwZFdnbFRtUklRQXZnRk1aeGZMZDlQWjZTalNQVUR2TlQ5SzJXUU5GS1YtUG4xVlBuOUg2ME5UZmNRaENZTFVNLXB2ZW9UMllXTHfSAb8BQVVfeXFMT1VHMnVzcU1kUUJvcFdvZ3RzYlNfN3FQUFZrN2tiVEV2cG1kSzZCOVh4MEtXYk1XMmFwVnZhd0tXTU9MOHQ5akpiQ3piVUVSNmJ5ZGZQdDI3dkp2UkdGZzdfRnRWLXNmMm1HY3Z6TUFRWVlwcXpJenFmY0pfeEhpelFkRkM1WHppWXp3T1ZUZGQ3TWp5aUNJLVhNQnFsNDJ5RHZYeXJxMzFaMFN5RkRXZkg1d3B6LUU0YzZEUUZBenM?oc=5",
-   "time": "2026-10-22T19:45:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Fires rage, haze spreads as Indonesians pray for rain",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa1hWZThVdkF0ZTNSMWJuME5zWFptc3JpQXhteEZsNnktLTJuTjNydXp0dTdwQ3BTVFpYWWNSMEQ0Y0plQ3NaZWtjWjJoYXJsLVVheEdTZkU2TU9KUlFiaDBhd3pCZjY5YzJNM1ZyZU9Zdk1nNTRqNUNQNGxKMnNhVXFBcG5vOXpUNUxwWTZkclc5X09ITFZObE1XVV8wd9IBowFBVV95cUxPMlpLOGRCcWFKNmJXbzA3Yk9FLURUUmpjRXJNY19XSTRUZ2o2T3laRWlvM0NDa2lGaUh6aXFiVjBVTVcycU1ESF9NVWZLYlB6N01Jd1B2Sk5rcnJTR1BiTEdYbjVNZWRHdVNxWV84a2RFYWNqcmQtdlM1ZV9ZbmpZeDhLelJ1Z3VRU0ZQbXhuamhUTENOSHhjaUhILWNNeGNtZVpz?oc=5",
-   "time": "2026-10-22T19:38:27+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Record haze, no masks: Where living dangerously is the new norm",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON19pZmt3UmxMTWxkc2JIQTI3V0Y4Wk9BQ29ZRzFqX1pnZzAtZzZjLTQwbVZKSzN1WlE4cE1IWGt1aFZiUnItenlyYmhPdTFPMTRzME1xbjQ5OFdnQnlkckFTZjdNdVBncldRbVU4OE14SzVNbFpXSWdlaXBmR2VVVWVPUjNYTVZCWGExU1AtNzF0dHB2NmgxUFdnNmlNaVg5cUtDZWRB?oc=5",
-   "time": "2026-10-22T19:30:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Shelters, NParks, Mandai Wildlife Group take haze-relief measures to protect animals",
-   "url": "https://www.straitstimes.com/singapore/environment/shelters-nparks-mandai-wildlife-group-take-haze-relief-measures-to-protect-animals",
-   "time": "2026-10-22T18:50:00+08:00",
    "summary": ""
   }
  ]
