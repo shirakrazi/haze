@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-22T16:00:00+08:00",
+ "updated": "2026-10-22T17:00:00+08:00",
  "psi": {
-  "west": 97,
-  "east": 76,
-  "central": 85,
-  "south": 75,
+  "west": 96,
+  "east": 75,
+  "central": 84,
+  "south": 74,
   "north": 71
  },
  "pm25": {
-  "west": 38,
-  "east": 31,
-  "central": 30,
-  "south": 27,
-  "north": 25
+  "west": 39,
+  "east": 32,
+  "central": 33,
+  "south": 29,
+  "north": 23
  },
  "hist": [
-  {
-   "t": "2026-10-20T09:00:00+08:00",
-   "psi": {
-    "west": 125,
-    "east": 98,
-    "central": 114,
-    "south": 97,
-    "north": 89
-   }
-  },
   {
    "t": "2026-10-20T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 75,
     "north": 71
    }
+  },
+  {
+   "t": "2026-10-22T17:00:00+08:00",
+   "psi": {
+    "west": 96,
+    "east": 75,
+    "central": 84,
+    "south": 74,
+    "north": 71
+   }
   }
  ],
- "newsUpdated": "2026-10-22T16:09:47+08:00",
+ "newsUpdated": "2026-10-22T17:07:41+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,66 @@
    "pinned": true
   },
   {
+   "source": "Reuters",
+   "title": "Indonesia's fire hotspots ease but rain still not enough, official says",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcDltV2V5blpScEg4aEdVOEhMZkxlazBiejNGdmJudXZLaUNyalZNRldnc0lPaE9SS3JkWlQxdzA2Q0tLMWx6RlBQZ1dubGlTTng4NG01TmhiYXZidzJPMXRzblpGeVFlbWNFN3JWVzB1N0pzREFZaGkwaHNER1FmSzUzMXBOSXc5SGF1c3EzOHI5VGRBNVp6LUdseUxQRVp2UXpKWXZmbEYtYTB1N1p5SXUwLUhLd1lhLTNzTU5Rbw?oc=5",
+   "time": "2026-10-22T16:34:09+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Aliran",
+   "title": "Time for serious action to clear the haze",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc0RJdDN6ekdVS0lmQ05mbEk4OU5GSGV0ZzVWX2JZSzJxeUJuTTFxVzFNcFdETGRvYjFBRnR4RGt1VXZmakVfRHlTYWhRTVByTnhvdFFfZnNWdmg1TUx6MlNhTFRlSXpfNWtzNjEyVm9ybnBQREZ6R3Rwc29uX3dwOTNoM2ZBT0ZOQ0xHdQ?oc=5",
+   "time": "2026-10-22T16:32:36+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Wake Up Singapore",
+   "title": "Indonesia Drops 3.2 Tonnes of Dry Ice to Fight Wildfire Haze Affecting Singapore and Southeast Asia",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jMV91Zk12TUo1NjV6eEJtNEh6SmdCbFctbktweU00VE50VWUyUzdCem1OaWExTTcwMnJyZFk5b1MxcGstd0lRb3dNSUhPVlBDSllkck9NLU56bE0wOEdJ?oc=5",
+   "time": "2026-10-22T16:30:22+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Only 22% of eligible Singaporeans have collected haze masks: Haze Task Force, Singapore News",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTzRiUVJzVzBSVDhtZGxNMUhaWWtMQVlGVEdaWlJDcXBQSzdENWJmNk5LdS1qcVllX3k2VEs4R3JjMjRoRVZqTEhMVjByV1F2aFFzb1RsY3RmeXhtbklDY3A1T2c5SXEtMldPZXlRYnBXMW1EOHg3S0RwZnF4MktCQjdNVnEtM3pmU0Z1ejBEanZtUXNlbW5SS3R5dWRrYzh5dmc?oc=5",
+   "time": "2026-10-22T16:26:18+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Newswav",
+   "title": "Malaysia urges Indonesia to take firm action against transboundary haze - Arthur",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnN0V3dfSXpLajB0R1R4NFBlVlhOWlJhU0U2QVNPdjl4bWpqaEVhajNXRkNfOXFDVjVqaFQ2T3pBWDZZNG5uZ01OZzdsbDZLWXFJeUdBZEQ2Y21fbWlxY2Q4enhWUENzQWdWWHdjY2FPYzc5MlBuXzh3eTZvSXlJYXBMdFRRZGJIWGZYa1VUbHJ6MUR0M1JSdHNaSlI1c1lwTWJlU3E0dXhDUVhQdHZ0UUl3R2d1ckE?oc=5",
+   "time": "2026-10-22T16:24:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Haze hits vegetable imports into Singapore, shrinking produce and pushing up prices",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQVdkM1BoMjNfZFptNWdSX3Mzb01wT3NZenVsTlNtRE5YZnBaeDh3OHh4N2ZULUJ1emdmUFplZVlNOHdwQmtKN2NQS0dXTlNFZkV0clU3eHh0cUdmblYyMUNCNzVNajcwQzFZMEU0V0NyOHgxRGNEOUlnN1FnQ2twb2NzUUQ0bzNkNk9HV1RWVmNMTkF2VUhLdVdPTzRvWDl1V0kzZDB3N1RlQ0tmbFloOHhPTkM1SkE?oc=5",
+   "time": "2026-10-22T16:20:39+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Indonesians turn to eco-art as haze sparks anger and diplomatic tension",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNenBkQVlyY3NsQU4xUFgtY0djSG9nRXg0dkhnMTlVVDNIeWszZWwwZkFGU3g0V1kxTERzYXA5ekFRN1RBVHRTcnd3Z1dJZ21NdmxzVjlJdGdVaUlQdVJRaHFKZWc3bkNkeXpoRWxWN0kzMl83NUkzaDZfMnJHem1NT3BMSlpFNThaOTZhWDNQbVBkTHV0MjJPdDlVQzVzU09nVWtMVGpzek4wTzY5MHpJUFpSa1BqNGt2QWhKVHNLaUZxWXY0Z0NEZExIMA?oc=5",
+   "time": "2026-10-22T15:59:54+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Online Citizen",
    "title": "Malaysian MP speaks Javanese to urge Prabowo to tackle haze, saying Indonesian leaders may not understand Malay language",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTGRrNTNZYzdtbFE0Tm5oVTNQTFhWalBEUWl4Y3E2VFd5emNxaDFJNTU3U3hYd2xJbnN6emlGTzZZTXByX0ZwWjVMczZHWHQzNTR6WmFiZmNjMDJ5bDFVa1VqNnRMY2hlVDU4czZWYUxfRHg0dkcyQ0F1R0hlOWdZOVRRcGVkVGoxSk5Wd1pGTjRzOWJnbGplalhkVVU1RUxCOGFQWDFzMHN3d2gzcS1kR0Fta0RDQ2psb3Z5aVpycl9yZG40RXNKNFFyUmNBTUJqanZXaWpNdjF0THJ3elFQc1h5OG96X3hFY2RlRFVKdFlMczQzb21JZVl5bllVTEE?oc=5",
    "time": "2026-10-22T15:59:24+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "Singapore Hands Out Free Masks For Citizens As Air Quality Worsens",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRDg1MEZoT2RPb1NvTUFGbm5TLWtYTlZpenphVGVRRm1nUDg5YkJfU2R0TVdWWVBKV0ZpeUE0aGJ4VHd4QzVWajE4Ni1uUlpaajlCZVk1Z0RSc2h5bVkwSTl0aDFBRVJmSTBFS2g1R1ZEUTJ5WVFFOFFTbm5sZy05VXdLR3BGYTA0WTd0ZTc5bzJOajJzcTY4UDF1WHpNWkR1cmN2eEw2VF9lWk1tVlJTNg?oc=5",
+   "time": "2026-10-22T15:58:04+08:00",
    "summary": ""
   },
   {
@@ -539,62 +595,6 @@
    "title": "Singapore's western region not in unhealthy, very unhealthy PSI range for first time since Oct 5",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaDhVYm5VQ3pHcE5MeDBibUFiQWVGODRVZV9ucFZZTXJ2T00wZVloUmRMMkQzYkJqQ0lMSFhSY2NqNF9SZ1pkN1BIN0FpVnQ0R1p2ZU5VcnJzeThmZDZ3NmNFaTc3SHV5LW02bnZFaDlBQjVhTUZwaXZyTEJKb3VhOVFkalZGWHdudERGRU1pSHRLWnM?oc=5",
    "time": "2026-10-22T15:22:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Air quality improves to good to moderate range across Singapore after 18 days of unhealthy air",
-   "url": "https://www.straitstimes.com/singapore/air-quality-improves-to-good-to-moderate-range-across-singapore-after-18-days-of-unhealthy-air",
-   "time": "2026-10-22T15:06:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Malaysian MP Pleads in Javanese for Prabowo to End Haze",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbkJEUVVJS1JBb2YxQW10VUlCN1NuUGpRV09uSEszTHduNWdHeGdWLVJoak5TVnJQWFQ4OWNfY0oxT25SM1premxiSnZKLUtYM1ZQZWducEd0U0xCNkJtOW1yM1R2X1dEemh2cnA3akV3NkR3UE9zMG1QZmVuN1V0YWtTUzBTSEFUSzhhWXRFajFYdw?oc=5",
-   "time": "2026-10-22T15:03:40+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Smaller produce, higher prices: Haze hits vegetable imports into Singapore",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQVdkM1BoMjNfZFptNWdSX3Mzb01wT3NZenVsTlNtRE5YZnBaeDh3OHh4N2ZULUJ1emdmUFplZVlNOHdwQmtKN2NQS0dXTlNFZkV0clU3eHh0cUdmblYyMUNCNzVNajcwQzFZMEU0V0NyOHgxRGNEOUlnN1FnQ2twb2NzUUQ0bzNkNk9HV1RWVmNMTkF2VUhLdVdPTzRvWDl1V0kzZDB3N1RlQ0tmbFloOHhPTkM1SkE?oc=5",
-   "time": "2026-10-22T15:02:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "UA.NEWS",
-   "title": "Singapore lowered the age for receiving haze masks to 60 — Channel NewsAsia",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdjJTckxtZmlKQTd1bUhLTTQtOWhUVDM3aE1VTmRzM1oxN0pwM0tWWFBIS0xzMWNQZUpRLThMdnR0WEM3YWp2eW1PakdyXzF0bGhIdHRaSzlUNjctSVlKTmxBcFhLdG9KUFNlOGtSeGNBd1VZaEVSbE5MalkxRGJ5WFZqSVdrNFNfUXRXV21fWF9qZmt2OGFNRUhsNDNKbDRLeHFORXVjc1E?oc=5",
-   "time": "2026-10-22T14:30:39+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "S'porean TikToker vlogs about 'escaping the haze' on trip overseas, slammed for being insensitive",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMOHF3RW83aHRFR1M0NTR2ZjRaVHp1ZlZESFdlQ1ZHWkVYVW1yY2NmN3gzY3VCRFMxa2djTm9URXY2RnB0cWxINm1DSEFLVnY5M0FOSnNqX2hPMlRjWGw5RDFVYy1MdkU?oc=5",
-   "time": "2026-10-22T14:29:07+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Eco-Business",
-   "title": "Haze victims in Malaysia and Singapore can take polluters to court in Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV24yNmdKeFo1czZVMl85ZjBvM1VCWkpQWVJLTGpBX3d0bUtIVTFFRExJR0RGVGUxQzJHNlI3eXZSUUE2WnQtdDJPMVQzUXlzVjJKNExWSzRpazJkZXd4S21hT3ZCYko5T1JDUS1wTm1MeW12TzF5V1k2YTJLUG5VdnB6dEpfd0tHc0NxSHVlc1JuRmwwUzNDSTU5QUNfSGZvR1RKWUd2RHVLNHlYSlFNNHRjVk5rVm9k?oc=5",
-   "time": "2026-10-22T14:26:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Why can’t Singapore’s anti-haze law get Indonesian companies to stop the fires?",
-   "url": "https://www.straitstimes.com/singapore/why-cant-singapores-anti-haze-law-get-indonesian-companies-to-stop-the-fires",
-   "time": "2026-10-22T14:15:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Singaporeans aged 60 and above can collect masks from Oct 23 to guard against haze: Grace Fu",
-   "url": "https://www.straitstimes.com/singapore/environment/singaporeans-60-and-above-can-collect-masks-from-oct-23-to-guard-against-haze-grace-fu",
-   "time": "2026-10-22T14:00:00+08:00",
    "summary": ""
   }
  ]
