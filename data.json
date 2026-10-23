@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-23T13:00:00+08:00",
+ "updated": "2026-10-23T14:00:00+08:00",
  "psi": {
-  "west": 94,
-  "east": 77,
-  "central": 83,
-  "south": 77,
-  "north": 69
+  "west": 96,
+  "east": 79,
+  "central": 87,
+  "south": 80,
+  "north": 72
  },
  "pm25": {
-  "west": 72,
-  "east": 82,
-  "central": 77,
-  "south": 84,
-  "north": 56
+  "west": 83,
+  "east": 81,
+  "central": 99,
+  "south": 76,
+  "north": 89
  },
  "hist": [
-  {
-   "t": "2026-10-21T09:00:00+08:00",
-   "psi": {
-    "west": 132,
-    "east": 97,
-    "central": 116,
-    "south": 89,
-    "north": 83
-   }
-  },
   {
    "t": "2026-10-21T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 77,
     "north": 69
    }
+  },
+  {
+   "t": "2026-10-23T14:00:00+08:00",
+   "psi": {
+    "west": 96,
+    "east": 79,
+    "central": 87,
+    "south": 80,
+    "north": 72
+   }
   }
  ],
- "newsUpdated": "2026-10-23T13:23:54+08:00",
+ "newsUpdated": "2026-10-23T14:09:43+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,17 @@
    "pinned": true
   },
   {
+   "source": "AsiaOne.com",
+   "title": "Winds bring haze back to Singapore: Hourly PM2.5 in elevated band islandwide",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOG5DdV81cHoxVkNOZWJxMmZkdmYxYjlHQnYwRmx5b0N5cU04Nk1WUmtZRHlORktfQTEySlIzYTdwSW1oQXVOM3BKdmlBS3VBMmZqQzJqNHFueFNnaXZJeU1Tdkl2VUpZcjdYSEFIM3pnczVnSkptS0FlQ05ZZXAyUkhoREdWUVhO?oc=5",
+   "time": "2026-10-23T13:44:51+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Singapore haze: PM2.5 readings elevated in all regions; air quality remains in good to moderate range across country",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Fa0M5eEJxRllMNjVpb0prZUNITjVSS3NhcktGN0RMSENjVUlnOTJ6VFdTaTUzc3Z0UGZqT01pQzI2eUdwUFplYkdRblp6MXdqSEloZ3JRWFNZeWJ3TDZyMHFWRU51LUxYQ2c0RnhZeDN3R3VINm5FYmRR?oc=5",
-   "time": "2026-10-23T13:07:14+08:00",
+   "time": "2026-10-23T13:19:02+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Haze crisis debate heats up ahead of ASEAN summit",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0JPRVhZVkZRTUxaRmlXOEk0bkMtc2pHektleTNZUUFiN01FZlNQWERaM19LOTVhRC1mM3RybFZZOEpHZVZ6SV9IUHVIRmZsVWl3VGswZGlXRUIzeGFuT1lZVVVWR0NGMFp6UW1KU1AwMEpEUHlYUlo2cVdYcWk5cw?oc=5",
    "time": "2026-10-23T08:37:07+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "New model to predict haze events in advance, alert M’sians",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekFpV3djZ0Zlcm5wb0R6eV9QazFGS3hGQkM4TDR2X0hiTVdSYVMxNW53N3A5bWJLZkZXVVRWLXdOSTQxd1ZjZTlVc2s5R1pLblpNdnhEZVh5YzV3dUNrR2xHUmxaX3pFWVJPcFJDdU4xTXEyaUZlWU11TVFVOHJEY0w1aU50a2Z3OThqZFlibXZjVF9pbjFQanFUU1hQc0JmRWt5b2lqa3FZZw?oc=5",
-   "time": "2026-10-23T08:29:21+08:00",
    "summary": ""
   }
  ]
