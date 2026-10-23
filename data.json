@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-23T21:00:00+08:00",
+ "updated": "2026-10-23T22:00:00+08:00",
  "psi": {
-  "west": 110,
-  "east": 95,
-  "central": 110,
-  "south": 94,
-  "north": 92
+  "west": 112,
+  "east": 97,
+  "central": 112,
+  "south": 95,
+  "north": 95
  },
  "pm25": {
-  "west": 83,
-  "east": 78,
-  "central": 104,
-  "south": 71,
-  "north": 87
+  "west": 90,
+  "east": 75,
+  "central": 96,
+  "south": 67,
+  "north": 89
  },
  "hist": [
-  {
-   "t": "2026-10-21T17:00:00+08:00",
-   "psi": {
-    "west": 122,
-    "east": 92,
-    "central": 109,
-    "south": 87,
-    "north": 80
-   }
-  },
   {
    "t": "2026-10-21T18:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 94,
     "north": 92
    }
+  },
+  {
+   "t": "2026-10-23T22:00:00+08:00",
+   "psi": {
+    "west": 112,
+    "east": 97,
+    "central": 112,
+    "south": 95,
+    "north": 95
+   }
   }
  ],
- "newsUpdated": "2026-10-23T21:17:21+08:00",
+ "newsUpdated": "2026-10-23T22:12:40+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Mothership",
+   "title": "NEA serves legal notices to 10 S’pore-based companies over possible transboundary haze link",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMU9PNlFmRVBJLWJ0b2sxck9BNk8wejBndy1UaXJzY0NTRUkyUXhibFBaT3hZMGZkbzV4QkVaMi1qSGk2RFZhTnduNEtfX1EzYUp2SGxhdzRZRHdBbXlaTXBXbHhYbUFhbEV0cWNWYlNNM2NVSGg2Wk54NVY1bzZuaXB4U0didw?oc=5",
+   "time": "2026-10-23T22:00:33+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "NEA issues notices to 10 Singapore-registered companies in haze probe",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVnZySjZldFV0UkVuVnA1WTJCNmd4S2VkdzB6bVFuNkkxdk1CQjlFWHdWZ1JGaWlBOUU5QUExM1kyOEZIc0JUVzE2OEJ5TE5QTHhCX1pvaXZYYWU2Sk9jYXRhU2wyVHBrbkFqRURMeGJQeUVfN1FLd0FCMWlaRXFScmpMVURNQQ?oc=5",
+   "time": "2026-10-23T21:37:03+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yahoo News Canada",
+   "title": "Southeast Asia's worst haze in over a decade sparks student protests",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lSEdTdWIzUU9oMURvX0JJeWhaM0Y2Z0JHWWxBdFFQSjB6NkR3U0FWQzc0cmE1eG1HbXFiUE0xQlFyakhTMldVUGl3dXIwMWlqT21ZMzNIdlRyNzF1RGtRRFNNMFd4c19aa1hPN0xuZmlOVVpGdDgwdFg2QWM?oc=5",
+   "time": "2026-10-23T21:33:23+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Business Times",
+   "title": "NEA issues notices to 10 Singapore-based companies, including Wilmar and APP, over haze",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQmlxeERUYy1ZOVM2b1pBdFowaUdjb09JTTRvRElrVXQ4ZTdVbHJxeXVia2M2eHFSX3JBU1lLQ2loX2dKaHFQSzA5Y05mdy1VWmZlcnA1MWstREVzdUZiUEJleVFSUFFkUXJoWXNScnZYdnczVVAtbksxX0dkUkwyVVV6U01SY1VCY3BDOHpYRkxzVmdHSktXMm0ySmhzTFZnaFRLVzJiWjF4M3NCVXRpZ1ZpVkhfeWQ3b1FzSEZnNlNZaU0?oc=5",
+   "time": "2026-10-23T21:23:00+08:00",
+   "summary": ""
   },
   {
    "source": "Mothership",
@@ -567,34 +595,6 @@
    "title": "Indonesia Haze Protests",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlZFTFNtQ1BpVUktTldpQm9QZDdNTDN4b2J5bWZadjZBMVhtRTNlZ1dsYXlIZDhiZlBFQkpxX3NmOXNXVXRiUXIwZDVfZVJraENXS2N3Y3NaUGxjaWNqb3VtVzZsM21LWEMydERZbHB6S0UzUWtrQ2VmVWNDWUI5R2hkM1VtQjMxM01XVW1TZFdVZzFKZm1fd2VlaDJPV3pxM1dnUEZsLVIyemllVTdhaA?oc=5",
    "time": "2026-10-23T20:39:42+08:00",
-   "summary": ""
-  },
-  {
-   "source": "www.chelmsfordcitynews.co.uk",
-   "title": "Students demonstrate in Indonesia after toxic haze hits Southeast Asian nations",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOEswcmxtQm5tU19SY2FvVkRxTENEZ0U4b3lURW56S3RYY2RHYWhmbkJ0WHBfeXdhT1ZvQTNIUEFMUWNjNTU4N2VyejE0REs4T0xyWnlOZjM0Z2J4YWxtZDR5MnRxZ2lnaHBleU1jekhwdFAyOWx3OThrRGlHdS1CWUF0NVVILVRmbjFPdUVzMWtwR3U2N1dmeS1DTG9zLVhuX1FfNHR2Qnp4LS1fZG1kdkFYRTNhZmwxNDNOSGtONzVXZ201LWhxWFNlZw?oc=5",
-   "time": "2026-10-23T20:22:16+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bozeman Daily Chronicle",
-   "title": "Southeast Asia's worst haze in over a decade sparks student protests",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWXlHdjM0R0s4aWdEM2YyY3JLUzZVX2dGMmV4RWRRSThEWXV1QmJ0R202MF9PN1RNeDNjS1NvWjQ2RjhiRV9wQUFzWnJGcUJSV29IckhHeWxPcE1TeUUxNHBvbFhXSXFGb25pc1Y1LTlRZmZ0bjRDc2pSM0k1elNweXRFclpreGdfTThvR3JpY2FnMEExVFRVSWFLcEU4SGVTMmppT1lOZEV1NDZQazhRUklOSHR4WFc4TzgwTW5WaEM0VFhWbjh2LU4wdW04d1czc2E2TTAwa0dqbXhxXzRmb3Z2VG0yTWlQVWhwTzlGNFRTZVdwbUF3R1hvWERLTDB6bk9uYg?oc=5",
-   "time": "2026-10-23T19:24:44+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "PM2.5 elevated islandwide, smoke haze may affect Singapore again on Saturday",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0hyTFR6WWlXdGp4OXNyRkIxVmV3eDYtOGVGandINFl4ampyZnZheDVCM0ZnWDRaTUtrWHpuQjFtaEk0aFR0WktkSWhkZFdQS2FXVm1IOFZlMGFLeHNsbnhybHRuRDl5VmhWTHV3ZEhmb2FCNlhiS1o1d3EwTVltci1LaDlFRWllUnp1NmZlVHJDa2pJ?oc=5",
-   "time": "2026-10-23T19:04:01+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "Issue 217: Time to face palm oil’s transboundary problem",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkNzNENnT0FXSWdwY1AycWsta2VkLWgtSGtKRnNMdUFEVVJTclJoOFBTSGlvVlhsVmtOMGpBTXpOOGpsSlpWSHlaSGZZVE1WeVM4TlgtaHJLYURPbVh2eVBONWNYNWpHd3VtNGd4YWlrM3pXSG91blpCeElGLTZZRDhjQ2NGUkQ2b1F4UGY5cGZGek1kZTVpb1dfOW9sT0llYThIM0V2REtjZExjWlE?oc=5",
-   "time": "2026-10-23T19:00:00+08:00",
    "summary": ""
   }
  ]
