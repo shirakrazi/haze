@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-23T22:00:00+08:00",
+ "updated": "2026-10-23T23:00:00+08:00",
  "psi": {
-  "west": 112,
-  "east": 97,
-  "central": 112,
-  "south": 95,
-  "north": 95
+  "west": 116,
+  "east": 99,
+  "central": 115,
+  "south": 97,
+  "north": 96
  },
  "pm25": {
-  "west": 90,
-  "east": 75,
-  "central": 96,
-  "south": 67,
-  "north": 89
+  "west": 137,
+  "east": 71,
+  "central": 106,
+  "south": 60,
+  "north": 69
  },
  "hist": [
-  {
-   "t": "2026-10-21T18:00:00+08:00",
-   "psi": {
-    "west": 123,
-    "east": 92,
-    "central": 109,
-    "south": 87,
-    "north": 80
-   }
-  },
   {
    "t": "2026-10-21T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 95,
     "north": 95
    }
+  },
+  {
+   "t": "2026-10-23T23:00:00+08:00",
+   "psi": {
+    "west": 116,
+    "east": 99,
+    "central": 115,
+    "south": 97,
+    "north": 96
+   }
   }
  ],
- "newsUpdated": "2026-10-23T22:12:40+08:00",
+ "newsUpdated": "2026-10-23T23:08:56+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "news - Mongabay",
+   "title": "Indonesians allege social media posts on wildfires and haze are being censored",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWd2Z3V5VDdIMVV3aVZnc0x0SzVtNFJ6d1p5b1dQRldMZW43bTFHNVVzaVdrNGJlQWJjZ2VOLWdubDNsZFRsVHoxOThpZ0lQNEFIdm1xdlhQS2VabU42aVdJQkhQRzJUdWU2Z1cwMnNldXJhajhMcl9vRVVBMDFhVWtWRi1BVWVhbERZaDQwbVVNc2dRbGpsUmo5SXJ3VzZvQjZSMnJiX25JTm9KSzJFNFQyY9IBuAFBVV95cUxQWW1lcThaT1NQWDRQN3A4aGhMT1ZQUS1IeDhtLVpEeFAwZDNfbmxKaGpKYVBJckg0dmlqRE5ackF6ZEZaOXAxLU94cC1jOWxBZHRyRmV2dGFaaC1wNldrLXZvREtOaHFyQ0VNekd0LTRoMll5ZXNab04zdlVuZ3BCQkpuSklSeUV6R3BYeWcwREs1ZG4tMWZIRTdQMjUwTFN0RE92T1VPZ3VJbmhSVjF2dWpfbWNGN0dw?oc=5",
+   "time": "2026-10-23T22:37:17+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "NEA issues notices to 10 Singapore-based firms for first time under haze law",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2k2akhmcVVfdzVKZmJ4ajlmNldZaW9uYVhURmNPM0FhWFZ3VnB3X3VkalJEdEZVUGlkbmJCUk1obEVQUGxDa3NlV0hoNUxIUU1oXy1xTS0yVUd0M3Q1UHNPbTJwZGEzX1B3M3YzNkVCby0ybkN4enpTQTVVTEVudFFLZjgxeXZ6MDVZRlo2ZGp3YS1XWUY4dUdjYTBSejZqa3c?oc=5",
+   "time": "2026-10-23T22:36:57+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Haze in Singapore: Community centres bring in more volunteers for mask distribution",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2FIZVpncWVUYVk5Wi1UWUUwNXpablp4dTBKcnluYV82WXNLNkhCRVZjeUp1WklyU0Q2RmFYall1Ym0ta2h6dTlSMmRaWU1YQmJGcTM2Sk05VWRuVXFWUmNKWDNRcUpsUWJURGl3VDRaN1MzYmY3bWExS0RJUDVJVnVFLWN3WGdQS3k1NGdFM0djQW9sYTM5QlNmbFBzQVgxTmUzTWF1UllMY1B3WXNKWUs3UVJQcWJqMjlsZWRnSXJhZw?oc=5",
+   "time": "2026-10-23T22:36:23+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Southeast Asia haze: 10 Singapore firms ordered to give details of links to Indonesian plantations",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa3ExRmRJY2owNm1PSE1vamN6dkFFY0d3TnBuczRiUHFmbW5saXFQRHJZVENuWDlHSm9vN2dIUkExYzhDOVRXRWJlV0pLZVJjVkhsYVFybWhfREM5OHFad2VNM3hiS2xPYXc4am8xQlFtRjN4X0NWUnY0Ykx2MHQzTkRkRHBxQ2dtRkc5WHVWam1mOHlDZlhMQ3NoOEFlbjJ6SUh6QzVKRDB1ZXFiX3dieTNVMEQ3eGVVVnJzLXZBSktDTVBFMWw1TUxzNm1LTDQ?oc=5",
+   "time": "2026-10-23T22:31:21+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yahoo News Singapore",
+   "title": "Thousands of Indonesian students protest over haze and demand emergency declared",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc24yWjZfX3hHMUFlbERad3prNFcycHJFNmFmbzlhc3B2QXJ1ZHc2eDZNUWR2V2ZtemRGMTRlMXdFZ0pqNl8wREVybWtxUUdmMFphTTRuQXZ6aTVaQ3JGQnEtRXl6TDI3cmZWYjd4SXBnWXdUb19qU2lJNV9CdkNpckVhVUQya3FaMWxR?oc=5",
+   "time": "2026-10-23T22:25:41+08:00",
+   "summary": ""
   },
   {
    "source": "Mothership",
@@ -542,24 +577,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "NEA issues notices to 10 Singapore-based firms for first time under haze law",
-   "url": "https://www.channelnewsasia.com/singapore/nea-haze-notices-companies-transboundary-pollution-6486086",
-   "time": "2026-10-23T21:09:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "AsiaOne.com",
    "title": "Singapore sets up expert panel to scrutinise firms with potential links to smoke haze caused by Indonesia fires",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYnFKMXowUW1ReG1vNUM0amRURHhNRmNLMFpWd3ZKYVFvVXQzQ3lUZ2hrZ0hvbFpCZFRwaGktV3BHTzJpSDdoZXkzMGtvTTVKZkxrdkYyWXhfek91TDRabGE1X3FzajlVTDROZkFkQjlJUVpTT3llOVA2MkFkWjJFcHBZWUpqM3ZTTDFZSktUU2E0dw?oc=5",
    "time": "2026-10-23T21:06:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Southeast Asia haze: US$13.2m in aid for West Kalimantan to be disbursed in 2 phases",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNFpNcm8wNTluLUstcWplN3laRWc4eTFmWmRQazh1bmJrYlBZNkJoM2RyRHpNSHAzMC13WTBGZGFma011UVVLcU1CelNvNm1vWF94Q19hMFJfZjJaNm5iTW90bnJZeVZldi1Uc1o1Sm5nYWVnekU3bmRxWmdJUUx2LUI0T1dNb1pxVmdXVTJ3eTA0Y0s1aWd6cHM3SFJlZk43eHR0RFNneHhFaXFyNUNEdnV0VnVCVF9NZzk1OQ?oc=5",
-   "time": "2026-10-23T21:01:11+08:00",
    "summary": ""
   },
   {
@@ -570,31 +591,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore to set up specialist panel to investigate firms potentially linked to transboundary haze",
-   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-specialist-panel-investigation-minlaw-6486146",
-   "time": "2026-10-23T21:00:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Straits Times",
    "title": "NEA issues legal notices under haze law to 10 Singapore-based companies including Asia Pulp & Paper",
    "url": "https://www.straitstimes.com/singapore/environment/nea-issues-legal-notices-under-haze-law-to-10-singapore-based-companies-including-asia-pulp-paper",
    "time": "2026-10-23T21:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "Davinder Singh Chambers appointed adviser to government on haze-linked company probes",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcjB3MWQ5UHBPQ2ZDdFBsUHhBVk9lRGxVcTFCVDUxNEgyb09Ia0lfY21pMV9GNU5LOEsxamxJTXNEYzc3b003U0hwNHBkR3pSdkNxd0dqT1BiNU9UV0ZxckhRc2ZlaDZDVGE0VGx5a0xUZVR3bUlCZE1vVWlaTWhrRWxjRWFEV1JpemQzQWpNbHZlY0tzbFBwcVN0VkpVNXRmek1jNFFBUGZxeTRhS0N1eG14N05oUEs4dGxjaGhiVUZheEVTUUl6ejZLN3VTbVZsTmxz?oc=5",
-   "time": "2026-10-23T21:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Post Register",
-   "title": "Indonesia Haze Protests",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlZFTFNtQ1BpVUktTldpQm9QZDdNTDN4b2J5bWZadjZBMVhtRTNlZ1dsYXlIZDhiZlBFQkpxX3NmOXNXVXRiUXIwZDVfZVJraENXS2N3Y3NaUGxjaWNqb3VtVzZsM21LWEMydERZbHB6S0UzUWtrQ2VmVWNDWUI5R2hkM1VtQjMxM01XVW1TZFdVZzFKZm1fd2VlaDJPV3pxM1dnUEZsLVIyemllVTdhaA?oc=5",
-   "time": "2026-10-23T20:39:42+08:00",
    "summary": ""
   }
  ]
