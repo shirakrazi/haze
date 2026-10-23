@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-23T19:00:00+08:00",
+ "updated": "2026-10-23T20:00:00+08:00",
  "psi": {
-  "west": 109,
-  "east": 91,
-  "central": 105,
-  "south": 91,
-  "north": 87
+  "west": 110,
+  "east": 93,
+  "central": 107,
+  "south": 92,
+  "north": 89
  },
  "pm25": {
   "west": 69,
-  "east": 86,
-  "central": 92,
-  "south": 76,
-  "north": 68
+  "east": 79,
+  "central": 107,
+  "south": 74,
+  "north": 71
  },
  "hist": [
-  {
-   "t": "2026-10-21T15:00:00+08:00",
-   "psi": {
-    "west": 123,
-    "east": 93,
-    "central": 111,
-    "south": 86,
-    "north": 80
-   }
-  },
   {
    "t": "2026-10-21T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 91,
     "north": 87
    }
+  },
+  {
+   "t": "2026-10-23T20:00:00+08:00",
+   "psi": {
+    "west": 110,
+    "east": 93,
+    "central": 107,
+    "south": 92,
+    "north": 89
+   }
   }
  ],
- "newsUpdated": "2026-10-23T19:13:42+08:00",
+ "newsUpdated": "2026-10-23T20:17:30+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "PM2.5 elevated islandwide, smoke haze may affect Singapore again on Saturday",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0hyTFR6WWlXdGp4OXNyRkIxVmV3eDYtOGVGandINFl4ampyZnZheDVCM0ZnWDRaTUtrWHpuQjFtaEk0aFR0WktkSWhkZFdQS2FXVm1IOFZlMGFLeHNsbnhybHRuRDl5VmhWTHV3ZEhmb2FCNlhiS1o1d3EwTVltci1LaDlFRWllUnp1NmZlVHJDa2pJ?oc=5",
+   "time": "2026-10-23T19:04:01+08:00",
+   "summary": ""
   },
   {
    "source": "The Business Times",
@@ -588,13 +595,6 @@
    "title": "‘Uncle didn’t even know about the haze’: Uni student, 25, spends $5k of his savings giving out free N95 masks to needy",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRWlyQy1ZWVdsS2cwSzJrMlFna3Jvdy1CMENDZzh2ckJMQ040TXpsb2RZeXBITnNyVGF6NVpKTTVfVlBSazNJRUI5MVJiRVRhOFFrTGpnclowSEFNSXBDNUxydnVzdTE0RWJLRVpzNFZRN0V5ZEtqaWJQX3lhYV96ODlLc2lrVXZWNXJpREFTSUREdVJHb0ZqcHh2Vzg1cDQ3RUtUSzZJenkwVk8tYU53Zm14Z2Vfa25peGR0a3NwTWMwLU9uVW9IaGZzYTZHQQ?oc=5",
    "time": "2026-10-23T15:04:10+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Indonesia’s haze crisis sparks regional tensions ahead of ASEAN summit",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVjcyWm5ndFd2dnNqN293RFhaWngzdi1GaFVCemxuMXk0YjVKTG5PcnRIb3JSYko3U3JmS0JzTGRuTEJCMmZUVW9aWFYxUlNieUJsTFhVODhvcV9KY0xfZnZxZ0k4Zm5HMjIyU3RDZmp6WEEtRGhrTGw5UXJodHpzb1NUVGZHWTB5MjFHTHNxR21FT0RlelpYQ3N2d09sUnBTQnJ1b0t5WkY2RnhCcTkxLXpkT2wtSndFblpwUEp3S0lLREt2REpvNHZlRTg?oc=5",
-   "time": "2026-10-23T14:37:00+08:00",
    "summary": ""
   }
  ]
