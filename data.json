@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-23T15:00:00+08:00",
+ "updated": "2026-10-23T16:00:00+08:00",
  "psi": {
-  "west": 99,
-  "east": 82,
-  "central": 91,
-  "south": 83,
-  "north": 76
+  "west": 103,
+  "east": 84,
+  "central": 95,
+  "south": 85,
+  "north": 79
  },
  "pm25": {
-  "west": 103,
-  "east": 83,
-  "central": 111,
-  "south": 79,
-  "north": 87
+  "west": 111,
+  "east": 85,
+  "central": 124,
+  "south": 69,
+  "north": 99
  },
  "hist": [
-  {
-   "t": "2026-10-21T11:00:00+08:00",
-   "psi": {
-    "west": 131,
-    "east": 97,
-    "central": 116,
-    "south": 88,
-    "north": 82
-   }
-  },
   {
    "t": "2026-10-21T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 83,
     "north": 76
    }
+  },
+  {
+   "t": "2026-10-23T16:00:00+08:00",
+   "psi": {
+    "west": 103,
+    "east": 84,
+    "central": 95,
+    "south": 85,
+    "north": 79
+   }
   }
  ],
- "newsUpdated": "2026-10-23T15:09:27+08:00",
+ "newsUpdated": "2026-10-23T16:07:39+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "The Singapore connections to the Indonesian companies causing the haze",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12LTZsQnVNSE9BeElxVzd1STh4U3VXMm1xbjRUaGtBUXkyTE56WDZZS0N4Mnd6SGZXZG5vamRrREYzOGpTYjRmelMyNnlBRkozMnVkb0xzS2x1bU82RXc?oc=5",
+   "time": "2026-10-23T15:38:17+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Borneo Post",
+   "title": "TSH denies haze link to Indonesia estates",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNGswYVo1SnF0bTltb1B4UG5GdVIydVUzVkw5cVVBWW5maGxIUTNPU3huQTV1bmhUTGQ5UzJyQ25nWXVUYjJFM25VNkNoNHMycmVSSUpibUdwS2JFSmpGS3l1SVU0UkFINGZQRnkzMlRodHJfRV8tM3lnbXpMckZzQWU4bjVYcmEyaEJV?oc=5",
+   "time": "2026-10-23T15:32:32+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Haze chokes Central Kalimantan even as number of hotspots goes down",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeENCN0t1elNqOFJzRERRZHo3M3d0Rk5BSmUwVGVHNF9nd3lYRGdXZjRKYXVDTWJ4UXRkbUdTZ1ZyYlgtbFg1NFU0UXplUS1jX2NqS3FuZGlSOUhKSk1aYVJTVy00WWpNVmFqZWJ2eXZnN2FiVFpIeVJWZnQ3bVVCVWprbE9JR2xMb2MyYlZEWWNnQmRfVXV0cV91SnNHWUlJMEhDemRvaE15ckJQ?oc=5",
+   "time": "2026-10-23T15:24:39+08:00",
+   "summary": ""
   },
   {
    "source": "Stomp",
@@ -528,17 +549,17 @@
    "summary": ""
   },
   {
+   "source": "Nanyang Technological University - NTU Singapore",
+   "title": "Repeated Year After Year: Indonesia’s Toxic Haze Traps Southeast Asia",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTFJzallkTktHNENaS1BJRlhPSTFxenVCYjBuRV9uV1BlMFZTU2hqVjBtY3ZQWGFtcWlkaUlsVVZneVl1bC1SSGJ0WWlTLURVcFZrZUdTMnpnQjBsYTdlalpoQnVzVEgtOXhsVy0wdmpMQl9zdjRoTVVSZHZmVGwzNkVyLUZSTFVQSTZGMEpfazBaQTFKRGFsNFF2ZG9VVTcyV1ZnYkpKRkNSemdkUkNwdFVFQXVSaXRpMjJiQQ?oc=5",
+   "time": "2026-10-23T13:39:06+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Singapore haze: PM2.5 readings elevated in all regions; air quality remains in good to moderate range across country",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Fa0M5eEJxRllMNjVpb0prZUNITjVSS3NhcktGN0RMSENjVUlnOTJ6VFdTaTUzc3Z0UGZqT01pQzI2eUdwUFplYkdRblp6MXdqSEloZ3JRWFNZeWJ3TDZyMHFWRU51LUxYQ2c0RnhZeDN3R3VINm5FYmRR?oc=5",
    "time": "2026-10-23T13:19:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "The Singapore connections to the Indonesian companies causing the haze",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12LTZsQnVNSE9BeElxVzd1STh4U3VXMm1xbjRUaGtBUXkyTE56WDZZS0N4Mnd6SGZXZG5vamRrREYzOGpTYjRmelMyNnlBRkozMnVkb0xzS2x1bU82RXc?oc=5",
-   "time": "2026-10-23T12:55:51+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "Getting haze-induced pimples? Skincare dos and don’ts to fight facial irritation",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM2ROalEwYWpfVzhuQlFIVWFEZlJGZlFpMzZLeDNvWmd6YjBRb1Y4aURBdWhEd1BNU3ptNEpuaFQ0NHJ1MVlTdndoN3o2aVphbWhKeVhYWk1BVmhKaU5tMWhfakdUQ054RjN3RGFlRFJ6MmF3YWZOY0dVT2dwbG9ha1QzdDRVd3hWTXVDZmRscEtpWm04eHBEbUZfVDhvN083ZmZuazU4NUtkSTU1cWow?oc=5",
    "time": "2026-10-23T12:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "‘We’re breathing in the smoke even as we sleep’: Living with haze in Sumatra",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNHN1NG9ZdW0yNzVxSzF3YVQxblJMeUgzWV93NUtKNHNGamtOTkk2dkNTVkpXZWtTNEZDTUd5RHdqTDcwWnptVTl4dE12MjIyQU1mRUxTWmE3TlZ2ZnpyVUpIMEtoekFlekZvODRDaDBhZVl5UWo1SDE4cWlpX0JoMkxISk9fVjFFYVpzWWtrU09wMEFkZ3loS1otenRuNkhhaUtmeFlwb0xrUTlUTXJKUXJidW1Pc3JSN1lBRXNrcXJGZl9ZbVFtT3BxRUFiZGRT?oc=5",
-   "time": "2026-10-23T11:43:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ANTARA News",
-   "title": "Indonesias haze-linked respiratory cases fall to 3,000 a day: Govt",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTTVmQXZUWHU1UEVxdkN0VTlncWdyT3NFYmxQNm1YRE92MzJhQ21iS1MyRUNlWk1Va2duQXZkSkItNHVkZ1BYMEd1dE9UU1RMaG81Mmo1RWMzcUNmX0w4NUNYTThyTjRRRmJ0RjN0b3hWWm96cHY3YjFydGs0cGZjV05fYmR4cmZhR1BTYTg0ZzMtT180Tk5XVXAtdFNRaUQ1V0JYctIBqgFBVV95cUxQc3ZCalBkWXhDTVBGQ2ZJaFVra2R1SUR0Y0ptVXUtNGgtMXZTbnlpZWprZDV4R2RwRWlnRWJPYk4yeXE4Q3lzdS1uMzdjNmp1YkhEdDlGZ0ZYdWxtTGNWZll2TkJlV3VtZWxpeHZVcURxUTdUV05JZ0NaVFRKd2REVzc2WEoza0hTazk5eHV3RDQ3QUZid1BISmdEdDVzMTRpQkpBVlVEVUo5dw?oc=5",
-   "time": "2026-10-23T11:15:47+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Asia News Network",
-   "title": "Record haze, no masks: Where living dangerously is the new norm in Indonesia’s Palembang",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR1daTUl3WVpzLVo5b1VHWnZNaDlZZTFVb3MtUFFlTU9Mc2V3OGI3M1FkdGdsTnhjTXp1RmJYcW0xX0tlMjBNSG41azdXMlR2dkJyVzRNSG5NTE1CSnQ1Sm55ZG5YS3ZZY3E2MERnT2VyS2tINTlKWkJpZjRlaW1NUW4ySENxRm5ZNzhUWjR3UlY1blRLV1JwVmtTdklYb2pOTFc4REtIcnpLb3FKZEtBLQ?oc=5",
-   "time": "2026-10-23T10:37:55+08:00",
    "summary": ""
   }
  ]
