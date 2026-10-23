@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-23T14:00:00+08:00",
+ "updated": "2026-10-23T15:00:00+08:00",
  "psi": {
-  "west": 96,
-  "east": 79,
-  "central": 87,
-  "south": 80,
-  "north": 72
+  "west": 99,
+  "east": 82,
+  "central": 91,
+  "south": 83,
+  "north": 76
  },
  "pm25": {
-  "west": 83,
-  "east": 81,
-  "central": 99,
-  "south": 76,
-  "north": 89
+  "west": 103,
+  "east": 83,
+  "central": 111,
+  "south": 79,
+  "north": 87
  },
  "hist": [
-  {
-   "t": "2026-10-21T10:00:00+08:00",
-   "psi": {
-    "west": 131,
-    "east": 97,
-    "central": 116,
-    "south": 89,
-    "north": 83
-   }
-  },
   {
    "t": "2026-10-21T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 80,
     "north": 72
    }
+  },
+  {
+   "t": "2026-10-23T15:00:00+08:00",
+   "psi": {
+    "west": 99,
+    "east": 82,
+    "central": 91,
+    "south": 83,
+    "north": 76
+   }
   }
  ],
- "newsUpdated": "2026-10-23T14:09:43+08:00",
+ "newsUpdated": "2026-10-23T15:09:27+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Stomp",
+   "title": "‘Uncle didn’t even know about the haze’: Uni student, 25, spends $5k of his savings giving out free N95 masks to needy",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRWlyQy1ZWVdsS2cwSzJrMlFna3Jvdy1CMENDZzh2ckJMQ040TXpsb2RZeXBITnNyVGF6NVpKTTVfVlBSazNJRUI5MVJiRVRhOFFrTGpnclowSEFNSXBDNUxydnVzdTE0RWJLRVpzNFZRN0V5ZEtqaWJQX3lhYV96ODlLc2lrVXZWNXJpREFTSUREdVJHb0ZqcHh2Vzg1cDQ3RUtUSzZJenkwVk8tYU53Zm14Z2Vfa25peGR0a3NwTWMwLU9uVW9IaGZzYTZHQQ?oc=5",
+   "time": "2026-10-23T15:04:10+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Indonesia’s haze crisis sparks regional tensions ahead of ASEAN summit",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVjcyWm5ndFd2dnNqN293RFhaWngzdi1GaFVCemxuMXk0YjVKTG5PcnRIb3JSYko3U3JmS0JzTGRuTEJCMmZUVW9aWFYxUlNieUJsTFhVODhvcV9KY0xfZnZxZ0k4Zm5HMjIyU3RDZmp6WEEtRGhrTGw5UXJodHpzb1NUVGZHWTB5MjFHTHNxR21FT0RlelpYQ3N2d09sUnBTQnJ1b0t5WkY2RnhCcTkxLXpkT2wtSndFblpwUEp3S0lLREt2REpvNHZlRTg?oc=5",
+   "time": "2026-10-23T14:37:00+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne.com",
@@ -581,20 +595,6 @@
    "title": "Record haze, no masks: Where living dangerously is the new norm in Indonesia’s Palembang",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR1daTUl3WVpzLVo5b1VHWnZNaDlZZTFVb3MtUFFlTU9Mc2V3OGI3M1FkdGdsTnhjTXp1RmJYcW0xX0tlMjBNSG41azdXMlR2dkJyVzRNSG5NTE1CSnQ1Sm55ZG5YS3ZZY3E2MERnT2VyS2tINTlKWkJpZjRlaW1NUW4ySENxRm5ZNzhUWjR3UlY1blRLV1JwVmtTdklYb2pOTFc4REtIcnpLb3FKZEtBLQ?oc=5",
    "time": "2026-10-23T10:37:55+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "BTH: Haze health risks may linger after skies clear [WATCH]",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFU5ZzVwS2V0eTd4eGNrR3NYSGlSeHZhdHNnaXluZFk5eDZIOXd4bEV0b3hXdEpvZ0RTcW40YmtveGt0TlFNeldwVmdQQVNTcElSNUloM2xiT3U3dTYyTFBmWF94Z1I5UnpELWFHNFdJTGR1VDB1TzhPcU5sVWZ2bmNSVEE1MEhfV0ZLQThsN0Z4YTZkTG4tTlhodnNBRlF0N2czWTJnRGloQzlzN0tGcNIBsAFBVV95cUxQWFU5ZzVwS2V0eTd4eGNrR3NYSGlSeHZhdHNnaXluZFk5eDZIOXd4bEV0b3hXdEpvZ0RTcW40YmtveGt0TlFNeldwVmdQQVNTcElSNUloM2xiT3U3dTYyTFBmWF94Z1I5UnpELWFHNFdJTGR1VDB1TzhPcU5sVWZ2bmNSVEE1MEhfV0ZLQThsN0Z4YTZkTG4tTlhodnNBRlF0N2czWTJnRGloQzlzN0tGcA?oc=5",
-   "time": "2026-10-23T10:00:20+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Asia News Network",
-   "title": "Haze crisis debate heats up ahead of ASEAN summit",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0JPRVhZVkZRTUxaRmlXOEk0bkMtc2pHektleTNZUUFiN01FZlNQWERaM19LOTVhRC1mM3RybFZZOEpHZVZ6SV9IUHVIRmZsVWl3VGswZGlXRUIzeGFuT1lZVVVWR0NGMFp6UW1KU1AwMEpEUHlYUlo2cVdYcWk5cw?oc=5",
-   "time": "2026-10-23T08:37:07+08:00",
    "summary": ""
   }
  ]
