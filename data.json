@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-23T20:00:00+08:00",
+ "updated": "2026-10-23T21:00:00+08:00",
  "psi": {
   "west": 110,
-  "east": 93,
-  "central": 107,
-  "south": 92,
-  "north": 89
+  "east": 95,
+  "central": 110,
+  "south": 94,
+  "north": 92
  },
  "pm25": {
-  "west": 69,
-  "east": 79,
-  "central": 107,
-  "south": 74,
-  "north": 71
+  "west": 83,
+  "east": 78,
+  "central": 104,
+  "south": 71,
+  "north": 87
  },
  "hist": [
-  {
-   "t": "2026-10-21T16:00:00+08:00",
-   "psi": {
-    "west": 122,
-    "east": 93,
-    "central": 110,
-    "south": 86,
-    "north": 79
-   }
-  },
   {
    "t": "2026-10-21T17:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 92,
     "north": 89
    }
+  },
+  {
+   "t": "2026-10-23T21:00:00+08:00",
+   "psi": {
+    "west": 110,
+    "east": 95,
+    "central": 110,
+    "south": 94,
+    "north": 92
+   }
   }
  ],
- "newsUpdated": "2026-10-23T20:17:30+08:00",
+ "newsUpdated": "2026-10-23T21:17:21+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,83 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Mothership",
+   "title": "S'pore govt to create specialist panel to investigate companies likely linked to transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZEh5VVhqRHAxT0lrNlJTQnlhWk96eGlILXR3eWwyT3drV1BRMmtFTmZja3NOV19RdEJzQlFTZS1zYTl5QmJjV1dObmRveFhHbENGUWJVLUtVQlZOdFQ2R1N6dU1nZ0RZTnpXdUI2dmI0Mk1GcUZ6RVotekZkNWxHX3F3LThzX2hBX0xFQWFsTTdZQmtCT1ZweUNxTmV4UG1Ub0VIWHlyV1o5cmxnNmdldUVmLXJqWktjYkZZbTgxT0hoLVA3cHBoRQ?oc=5",
+   "time": "2026-10-23T21:10:01+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "NEA issues notices to 10 Singapore-based firms for first time under haze law",
+   "url": "https://www.channelnewsasia.com/singapore/nea-haze-notices-companies-transboundary-pollution-6486086",
+   "time": "2026-10-23T21:09:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Singapore sets up expert panel to scrutinise firms with potential links to smoke haze caused by Indonesia fires",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYnFKMXowUW1ReG1vNUM0amRURHhNRmNLMFpWd3ZKYVFvVXQzQ3lUZ2hrZ0hvbFpCZFRwaGktV3BHTzJpSDdoZXkzMGtvTTVKZkxrdkYyWXhfek91TDRabGE1X3FzajlVTDROZkFkQjlJUVpTT3llOVA2MkFkWjJFcHBZWUpqM3ZTTDFZSktUU2E0dw?oc=5",
+   "time": "2026-10-23T21:06:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Southeast Asia haze: US$13.2m in aid for West Kalimantan to be disbursed in 2 phases",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNFpNcm8wNTluLUstcWplN3laRWc4eTFmWmRQazh1bmJrYlBZNkJoM2RyRHpNSHAzMC13WTBGZGFma011UVVLcU1CelNvNm1vWF94Q19hMFJfZjJaNm5iTW90bnJZeVZldi1Uc1o1Sm5nYWVnekU3bmRxWmdJUUx2LUI0T1dNb1pxVmdXVTJ3eTA0Y0s1aWd6cHM3SFJlZk43eHR0RFNneHhFaXFyNUNEdnV0VnVCVF9NZzk1OQ?oc=5",
+   "time": "2026-10-23T21:01:11+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Singapore will form panel of experts to help investigations into haze-linked firms",
+   "url": "https://www.straitstimes.com/singapore/environment/singapore-will-form-panel-of-experts-to-help-investigations-into-haze-linked-firms",
+   "time": "2026-10-23T21:00:14+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore to set up specialist panel to investigate firms potentially linked to transboundary haze",
+   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-specialist-panel-investigation-minlaw-6486146",
+   "time": "2026-10-23T21:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "NEA issues legal notices under haze law to 10 Singapore-based companies including Asia Pulp & Paper",
+   "url": "https://www.straitstimes.com/singapore/environment/nea-issues-legal-notices-under-haze-law-to-10-singapore-based-companies-including-asia-pulp-paper",
+   "time": "2026-10-23T21:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Business Times",
+   "title": "Davinder Singh Chambers appointed adviser to government on haze-linked company probes",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcjB3MWQ5UHBPQ2ZDdFBsUHhBVk9lRGxVcTFCVDUxNEgyb09Ia0lfY21pMV9GNU5LOEsxamxJTXNEYzc3b003U0hwNHBkR3pSdkNxd0dqT1BiNU9UV0ZxckhRc2ZlaDZDVGE0VGx5a0xUZVR3bUlCZE1vVWlaTWhrRWxjRWFEV1JpemQzQWpNbHZlY0tzbFBwcVN0VkpVNXRmek1jNFFBUGZxeTRhS0N1eG14N05oUEs4dGxjaGhiVUZheEVTUUl6ejZLN3VTbVZsTmxz?oc=5",
+   "time": "2026-10-23T21:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Post Register",
+   "title": "Indonesia Haze Protests",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlZFTFNtQ1BpVUktTldpQm9QZDdNTDN4b2J5bWZadjZBMVhtRTNlZ1dsYXlIZDhiZlBFQkpxX3NmOXNXVXRiUXIwZDVfZVJraENXS2N3Y3NaUGxjaWNqb3VtVzZsM21LWEMydERZbHB6S0UzUWtrQ2VmVWNDWUI5R2hkM1VtQjMxM01XVW1TZFdVZzFKZm1fd2VlaDJPV3pxM1dnUEZsLVIyemllVTdhaA?oc=5",
+   "time": "2026-10-23T20:39:42+08:00",
+   "summary": ""
+  },
+  {
+   "source": "www.chelmsfordcitynews.co.uk",
+   "title": "Students demonstrate in Indonesia after toxic haze hits Southeast Asian nations",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOEswcmxtQm5tU19SY2FvVkRxTENEZ0U4b3lURW56S3RYY2RHYWhmbkJ0WHBfeXdhT1ZvQTNIUEFMUWNjNTU4N2VyejE0REs4T0xyWnlOZjM0Z2J4YWxtZDR5MnRxZ2lnaHBleU1jekhwdFAyOWx3OThrRGlHdS1CWUF0NVVILVRmbjFPdUVzMWtwR3U2N1dmeS1DTG9zLVhuX1FfNHR2Qnp4LS1fZG1kdkFYRTNhZmwxNDNOSGtONzVXZ201LWhxWFNlZw?oc=5",
+   "time": "2026-10-23T20:22:16+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Bozeman Daily Chronicle",
+   "title": "Southeast Asia's worst haze in over a decade sparks student protests",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWXlHdjM0R0s4aWdEM2YyY3JLUzZVX2dGMmV4RWRRSThEWXV1QmJ0R202MF9PN1RNeDNjS1NvWjQ2RjhiRV9wQUFzWnJGcUJSV29IckhHeWxPcE1TeUUxNHBvbFhXSXFGb25pc1Y1LTlRZmZ0bjRDc2pSM0k1elNweXRFclpreGdfTThvR3JpY2FnMEExVFRVSWFLcEU4SGVTMmppT1lOZEV1NDZQazhRUklOSHR4WFc4TzgwTW5WaEM0VFhWbjh2LU4wdW04d1czc2E2TTAwa0dqbXhxXzRmb3Z2VG0yTWlQVWhwTzlGNFRTZVdwbUF3R1hvWERLTDB6bk9uYg?oc=5",
+   "time": "2026-10-23T19:24:44+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne.com",
@@ -518,83 +595,6 @@
    "title": "Issue 217: Time to face palm oil’s transboundary problem",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkNzNENnT0FXSWdwY1AycWsta2VkLWgtSGtKRnNMdUFEVVJTclJoOFBTSGlvVlhsVmtOMGpBTXpOOGpsSlpWSHlaSGZZVE1WeVM4TlgtaHJLYURPbVh2eVBONWNYNWpHd3VtNGd4YWlrM3pXSG91blpCeElGLTZZRDhjQ2NGUkQ2b1F4UGY5cGZGek1kZTVpb1dfOW9sT0llYThIM0V2REtjZExjWlE?oc=5",
    "time": "2026-10-23T19:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Post Register",
-   "title": "Indonesia Haze Protest",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb3NEOWJkZUlxZ2VhX2lseVRfRHBMbXpZMzN1anhsUUNnTUlEaDJGWU1FdHNldXY1V0JtVS0yRFFlWWZ6bzhjdktUY0ZLMlFYdG5fYmVsVXg0akFySkwySFFUVGI3bTUwMFh5bGwyLXQ3UGlYc0lqdW5pcU8xS29TU1NWZ2R0cXF6UUNuMU1aX2t3WlVybER0V0w4dlpkSDN2UXlLa2hmSUt4MTN6cGU4?oc=5",
-   "time": "2026-10-23T18:34:33+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Rakyat Post",
-   "title": "Prabowo Threatens To Expose Haze Culprits, Social Media Users Say: We Want To Know!",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcUU2RnB0VnpLQlRoQmJTazEtalZiY3JmakVLbzU4LXRGc1M4Ymc4X2paWDNrQjdoUldhVUI1bjNEZWNTTHdCdEIybE1KUWFkcmtMS2hSSzByV3R3SV8tQzFVMFlFbEJsX1NERXZtQVVSZjctSVZqMVdoN0RfZ2dFSjdRMnFmejQxdzY3NFk3ZEJXaUd2aG9icks4bUE2bjZpa2QxNjNaT0dDRElXN0FjOE0zVlJvZk4tVXZZc3JKWFBvR3FnN1E?oc=5",
-   "time": "2026-10-23T18:28:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "National Environment Agency (NEA)",
-   "title": "Haze Situation Update (23 October 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmx3N2dfalpXNmZWbmNhQVRhYVZheXphVDlQTHBRS2M4SmtIUFBlY01Zb001SVNaS0U1RXZCUEZSM3dFQlB0Y3k2X2I2UXBRb3MwU2JqWUQteTZKTHBXbmJFS3JkWkZiWUloRHNtQmF2UW85UWd4Q1hWV3lTYjN1Skk3cUNDTDFadjg4OXQ1UkhkUQ?oc=5",
-   "time": "2026-10-23T18:16:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Jakarta Globe",
-   "title": "Thick Haze Chokes Central Kalimantan City as Residents Seek National Disaster Status",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXdxMy1xNTJBaGRCX1U3YjJIaGRQT2VDYlhfTEcwM3FZdDgzazRHS09WMmM2a1R0SXVCZ281TVhsYXNIS1hHRHV4cHhGeUJQekhqeUhqUFNOVnpIM0pfNUlOU0hHM1lBa2t4b2MzUHJBU2psRldDOUY0LXBqdmI1eEhtLTVRWVlRb0pGQ3pNbDlYNnMzaW1ac3gxRkRHRDlfRzVqbmlRT05RZW1oSXU5UUEwUQ?oc=5",
-   "time": "2026-10-23T17:56:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Over 500,000 N95 masks, air purifiers: DBS unveils $1m haze aid for vulnerable seniors, migrant workers",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVBWSFZoOWFVMHJSUDRDQk1FQlJibzRObFliNEJsYjl1RGE1bkhqemY4bVBEamtDeElOS1RKcnlrYzEycnJTa0p0ekp3OE5wN2J6cUVkM0lELWw2VEV6Z2hNYmdiNTllb2M0TUNlNkZjdDdpX1BZNTE1ZGtWX2xQTHVQNENCN1dKQi10NDlDN19hbnhjRWtNdw?oc=5",
-   "time": "2026-10-23T17:35:50+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality in west hits unhealthy range as PM2.5 readings rise islandwide",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Fa0M5eEJxRllMNjVpb0prZUNITjVSS3NhcktGN0RMSENjVUlnOTJ6VFdTaTUzc3Z0UGZqT01pQzI2eUdwUFplYkdRblp6MXdqSEloZ3JRWFNZeWJ3TDZyMHFWRU51LUxYQ2c0RnhZeDN3R3VINm5FYmRR?oc=5",
-   "time": "2026-10-23T16:15:03+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Skift",
-   "title": "Southeast Asia’s Haze Lands on Malaysia’s Already Flat Tourism Year",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSDFhSEpraTdfdF83VUZGUU04NFlsc2xXREJuT2taWHF4VEh1aVJGOG9EdlA3TVgwRS1BVUNzckVRcU9Ta1U1VkhhZVEzR3lEbm5LTFNpTFJjazM3aUR6eEdEX3FTZUU3WVpsUHd6TV95UDdTMDdBazNyei1UMEQ0N2dqNXd0U3I2bThaNWFJV0N2TndqNWNXQWQwWQ?oc=5",
-   "time": "2026-10-23T16:08:56+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "The Singapore connections to the Indonesian companies causing the haze",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12LTZsQnVNSE9BeElxVzd1STh4U3VXMm1xbjRUaGtBUXkyTE56WDZZS0N4Mnd6SGZXZG5vamRrREYzOGpTYjRmelMyNnlBRkozMnVkb0xzS2x1bU82RXc?oc=5",
-   "time": "2026-10-23T15:38:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Borneo Post",
-   "title": "TSH denies haze link to Indonesia estates",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNGswYVo1SnF0bTltb1B4UG5GdVIydVUzVkw5cVVBWW5maGxIUTNPU3huQTV1bmhUTGQ5UzJyQ25nWXVUYjJFM25VNkNoNHMycmVSSUpibUdwS2JFSmpGS3l1SVU0UkFINGZQRnkzMlRodHJfRV8tM3lnbXpMckZzQWU4bjVYcmEyaEJV?oc=5",
-   "time": "2026-10-23T15:32:32+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Haze chokes Central Kalimantan even as number of hotspots goes down",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeENCN0t1elNqOFJzRERRZHo3M3d0Rk5BSmUwVGVHNF9nd3lYRGdXZjRKYXVDTWJ4UXRkbUdTZ1ZyYlgtbFg1NFU0UXplUS1jX2NqS3FuZGlSOUhKSk1aYVJTVy00WWpNVmFqZWJ2eXZnN2FiVFpIeVJWZnQ3bVVCVWprbE9JR2xMb2MyYlZEWWNnQmRfVXV0cV91SnNHWUlJMEhDemRvaE15ckJQ?oc=5",
-   "time": "2026-10-23T15:24:39+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Stomp",
-   "title": "‘Uncle didn’t even know about the haze’: Uni student, 25, spends $5k of his savings giving out free N95 masks to needy",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRWlyQy1ZWVdsS2cwSzJrMlFna3Jvdy1CMENDZzh2ckJMQ040TXpsb2RZeXBITnNyVGF6NVpKTTVfVlBSazNJRUI5MVJiRVRhOFFrTGpnclowSEFNSXBDNUxydnVzdTE0RWJLRVpzNFZRN0V5ZEtqaWJQX3lhYV96ODlLc2lrVXZWNXJpREFTSUREdVJHb0ZqcHh2Vzg1cDQ3RUtUSzZJenkwVk8tYU53Zm14Z2Vfa25peGR0a3NwTWMwLU9uVW9IaGZzYTZHQQ?oc=5",
-   "time": "2026-10-23T15:04:10+08:00",
    "summary": ""
   }
  ]
