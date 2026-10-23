@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-23T23:00:00+08:00",
+ "updated": "2026-10-24T00:00:00+08:00",
  "psi": {
-  "west": 116,
-  "east": 99,
-  "central": 115,
-  "south": 97,
-  "north": 96
+  "west": 120,
+  "east": 103,
+  "central": 117,
+  "south": 98,
+  "north": 98
  },
  "pm25": {
-  "west": 137,
-  "east": 71,
-  "central": 106,
-  "south": 60,
-  "north": 69
+  "west": 146,
+  "east": 77,
+  "central": 92,
+  "south": 66,
+  "north": 74
  },
  "hist": [
-  {
-   "t": "2026-10-21T19:00:00+08:00",
-   "psi": {
-    "west": 123,
-    "east": 92,
-    "central": 108,
-    "south": 87,
-    "north": 80
-   }
-  },
   {
    "t": "2026-10-21T21:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 97,
     "north": 96
    }
+  },
+  {
+   "t": "2026-10-24T00:00:00+08:00",
+   "psi": {
+    "west": 120,
+    "east": 103,
+    "central": 117,
+    "south": 98,
+    "north": 98
+   }
   }
  ],
- "newsUpdated": "2026-10-23T23:08:56+08:00",
+ "newsUpdated": "2026-10-24T00:09:27+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Peninsula Qatar",
+   "title": "Singapore investigates domestic firms linked to Indonesian forest fires and haze",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORWRJOFRtTDdTS3MzX1QtY3Z6NS00QkZHdFdQVmx4MkkwMVpKXzFWRHNza1ZaLWhodGVkNlVxVmlmWkhGRTVYZk8wZVdoV2VQN2lVNmd6a05waTExaVlvSndsV2JXeE4zMVZXS3Q0LUxuMk1jbkI5VVQxcGhlb215UlhjczMwMUw4RXRyZWhSNk9Va3JBVG5YV2NQaGw3ZXlKeFFna2RqMmR2N0ZIUnp5VVl3Y3hVa3dLMUQxbmt4cHdmRzUtUkJQSA?oc=5",
+   "time": "2026-10-24T00:02:25+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality in west and central hits unhealthy range as PM2.5 readings rise islandwide",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Fa0M5eEJxRllMNjVpb0prZUNITjVSS3NhcktGN0RMSENjVUlnOTJ6VFdTaTUzc3Z0UGZqT01pQzI2eUdwUFplYkdRblp6MXdqSEloZ3JRWFNZeWJ3TDZyMHFWRU51LUxYQ2c0RnhZeDN3R3VINm5FYmRR?oc=5",
+   "time": "2026-10-23T23:36:07+08:00",
+   "summary": ""
   },
   {
    "source": "news - Mongabay",
@@ -525,13 +539,6 @@
    "title": "Haze in Singapore: Community centres bring in more volunteers for mask distribution",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2FIZVpncWVUYVk5Wi1UWUUwNXpablp4dTBKcnluYV82WXNLNkhCRVZjeUp1WklyU0Q2RmFYall1Ym0ta2h6dTlSMmRaWU1YQmJGcTM2Sk05VWRuVXFWUmNKWDNRcUpsUWJURGl3VDRaN1MzYmY3bWExS0RJUDVJVnVFLWN3WGdQS3k1NGdFM0djQW9sYTM5QlNmbFBzQVgxTmUzTWF1UllMY1B3WXNKWUs3UVJQcWJqMjlsZWRnSXJhZw?oc=5",
    "time": "2026-10-23T22:36:23+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Southeast Asia haze: 10 Singapore firms ordered to give details of links to Indonesian plantations",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa3ExRmRJY2owNm1PSE1vamN6dkFFY0d3TnBuczRiUHFmbW5saXFQRHJZVENuWDlHSm9vN2dIUkExYzhDOVRXRWJlV0pLZVJjVkhsYVFybWhfREM5OHFad2VNM3hiS2xPYXc4am8xQlFtRjN4X0NWUnY0Ykx2MHQzTkRkRHBxQ2dtRkc5WHVWam1mOHlDZlhMQ3NoOEFlbjJ6SUh6QzVKRDB1ZXFiX3dieTNVMEQ3eGVVVnJzLXZBSktDTVBFMWw1TUxzNm1LTDQ?oc=5",
-   "time": "2026-10-23T22:31:21+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Singapore will form panel of experts to help investigations into haze-linked firms",
    "url": "https://www.straitstimes.com/singapore/environment/singapore-will-form-panel-of-experts-to-help-investigations-into-haze-linked-firms",
    "time": "2026-10-23T21:00:14+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "NEA issues legal notices under haze law to 10 Singapore-based companies including Asia Pulp & Paper",
-   "url": "https://www.straitstimes.com/singapore/environment/nea-issues-legal-notices-under-haze-law-to-10-singapore-based-companies-including-asia-pulp-paper",
-   "time": "2026-10-23T21:00:00+08:00",
    "summary": ""
   }
  ]
