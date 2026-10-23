@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-24T06:00:00+08:00",
+ "updated": "2026-10-24T07:00:00+08:00",
  "psi": {
-  "west": 139,
-  "east": 115,
-  "central": 130,
-  "south": 112,
-  "north": 112
+  "west": 142,
+  "east": 117,
+  "central": 133,
+  "south": 115,
+  "north": 115
  },
  "pm25": {
-  "west": 115,
-  "east": 72,
-  "central": 81,
-  "south": 76,
-  "north": 75
+  "west": 107,
+  "east": 68,
+  "central": 94,
+  "south": 78,
+  "north": 79
  },
  "hist": [
-  {
-   "t": "2026-10-22T03:00:00+08:00",
-   "psi": {
-    "west": 118,
-    "east": 88,
-    "central": 102,
-    "south": 87,
-    "north": 76
-   }
-  },
   {
    "t": "2026-10-22T04:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 112,
     "north": 112
    }
+  },
+  {
+   "t": "2026-10-24T07:00:00+08:00",
+   "psi": {
+    "west": 142,
+    "east": 117,
+    "central": 133,
+    "south": 115,
+    "north": 115
+   }
   }
  ],
- "newsUpdated": "2026-10-24T06:09:40+08:00",
+ "newsUpdated": "2026-10-24T07:07:16+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,17 @@
    "pinned": true
   },
   {
+   "source": "CNA",
+   "title": "Haze worsens overnight as air quality turns unhealthy across Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83UkFkLTJzVVN5QW4yc0g3V184LUEwR1N2OUlhb0RfMnVUb3BJTmEtS2ZteUpUSkJzOUJiR3llUHR0ZllTX1pNTHhXRkRTc3dpaVNRcVd1TUpDUHNHMTlQMjFaLU84aUw3WnU0azVUYklRZGs3YmVqdm1B?oc=5",
+   "time": "2026-10-24T06:31:49+08:00",
+   "summary": ""
+  },
+  {
    "source": "Channels Television",
    "title": "Indonesia’s Haze Crisis Raises Accountability Demands On Corporate Firms",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZmtRODNrTDVKSlJpV2JpMDFSWmhPRFZ1d3gyaFJldGxGVmFVNFNySXRtZTNJTFJ0UnAtTmRpYk56My1tQWdNSTl6alBvNkRFbWY1MG14bUk0TEJ4VVRRN1gxb1NaSDZDa2NUalBNUWVEOG9OY3NZU3NTaHZBQ2pMdS05M3BTcDB3Q0JwZVJKVXl3eHZUaU8wSWFwalVNUVo4SF9HcWluRHNSZU5MVlY4?oc=5",
-   "time": "2026-10-24T04:53:27+08:00",
+   "time": "2026-10-24T05:37:20+08:00",
    "summary": ""
   },
   {
@@ -581,13 +588,6 @@
    "title": "NEA issues notices to 10 Singapore-based firms for first time under haze law",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2k2akhmcVVfdzVKZmJ4ajlmNldZaW9uYVhURmNPM0FhWFZ3VnB3X3VkalJEdEZVUGlkbmJCUk1obEVQUGxDa3NlV0hoNUxIUU1oXy1xTS0yVUd0M3Q1UHNPbTJwZGEzX1B3M3YzNkVCby0ybkN4enpTQTVVTEVudFFLZjgxeXZ6MDVZRlo2ZGp3YS1XWUY4dUdjYTBSejZqa3c?oc=5",
    "time": "2026-10-23T22:36:57+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Haze in Singapore: Community centres bring in more volunteers for mask distribution",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2FIZVpncWVUYVk5Wi1UWUUwNXpablp4dTBKcnluYV82WXNLNkhCRVZjeUp1WklyU0Q2RmFYall1Ym0ta2h6dTlSMmRaWU1YQmJGcTM2Sk05VWRuVXFWUmNKWDNRcUpsUWJURGl3VDRaN1MzYmY3bWExS0RJUDVJVnVFLWN3WGdQS3k1NGdFM0djQW9sYTM5QlNmbFBzQVgxTmUzTWF1UllMY1B3WXNKWUs3UVJQcWJqMjlsZWRnSXJhZw?oc=5",
-   "time": "2026-10-23T22:36:23+08:00",
    "summary": ""
   },
   {
