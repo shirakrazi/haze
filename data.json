@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-24T01:00:00+08:00",
+ "updated": "2026-10-24T02:00:00+08:00",
  "psi": {
-  "west": 124,
-  "east": 105,
-  "central": 119,
-  "south": 102,
-  "north": 100
+  "west": 128,
+  "east": 107,
+  "central": 121,
+  "south": 104,
+  "north": 103
  },
  "pm25": {
-  "west": 132,
-  "east": 71,
-  "central": 86,
-  "south": 84,
-  "north": 71
+  "west": 129,
+  "east": 77,
+  "central": 90,
+  "south": 68,
+  "north": 70
  },
  "hist": [
-  {
-   "t": "2026-10-21T22:00:00+08:00",
-   "psi": {
-    "west": 124,
-    "east": 91,
-    "central": 106,
-    "south": 88,
-    "north": 80
-   }
-  },
   {
    "t": "2026-10-21T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 102,
     "north": 100
    }
+  },
+  {
+   "t": "2026-10-24T02:00:00+08:00",
+   "psi": {
+    "west": 128,
+    "east": 107,
+    "central": 121,
+    "south": 104,
+    "north": 103
+   }
   }
  ],
- "newsUpdated": "2026-10-24T01:07:38+08:00",
+ "newsUpdated": "2026-10-24T02:08:11+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Eurasia Review",
+   "title": "ASEAN’s Haze Accountability Challenge – OpEd",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUJuNU80OVBhdmsxbDhRbDlSdXlLN1ZNQmJaa25sUnJYVHM5TklUUU54SmFhUjVDSFlKWkdzd0JXMjVjT1NrdW1WZGo5TUQzMUVOZks1VFljbkFOQ2RBMG9BaXVYSk9NSkF2S3paeUJHR3QzWldSVWlFaFBrV1V4RGFvQ1JlNFd1?oc=5",
+   "time": "2026-10-24T01:37:33+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Singapore widens haze probe to local firms linked to Indonesian fires",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSmZqaVBKUlU1UmthZXZKdW5WU01IaFJoYlVOSDJjSDJCRHJBalR5WF8tTjRGazdjcUxfZWZPbmdfWjNseEJxT2VKQjNnT1ViNjVUNWh1ZzJLZ3VEMHNJUmo4WWpyYXNMVVZIMkJCb0hUOGtkOVY3YWUyOEhONEhXX0ZfREQxbDdyQVBxWnhtaEtuZE9jdklzakpKXzl1V01BM1RyY1NCeEE2R1pwTF9KLTE5Q1V3emF0TDUzQzdCanFVNXpnMlpIX9IBuwFBVV95cUxNcnFDVlRmNUdKRU9sSlJwMjhEMnVteXp3aHZpRmMzcG8waUxwX0ZHdDZJQ3lqLTF0UWNKNDhHaVloMGExSDRpLWd4bjZTN0ptR2lUanZPLWRzY1BsUklhRVJTX3UzemdnMGN6ZFJYSWk4SzdBMWxFbEpweTZ2Tlk4Nzlzd2U2RXFzcUkyUDI2dHNTbWtMOEJCWGpId2JkcHFRcHYxZi03YWlONHNndFMzTDMyRHQ0U3J6cDQ0?oc=5",
+   "time": "2026-10-24T01:16:23+08:00",
+   "summary": ""
   },
   {
    "source": "The Peninsula Qatar",
@@ -521,10 +535,10 @@
    "summary": ""
   },
   {
-   "source": "KMVU FOX 26 Medford",
-   "title": "Singapore widens haze probe to local firms linked to Indonesian fires",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWTlqRlF6b2YwclpVRWlhZDY0WklnNEx5bl94WUpwd2ctVGp0SlhZaU9ZSVh2TkpIMVRCdFM1V1Vlb2NjN1ppM19BMTVpclNlWElhRXlobHhQbEk1WExHank3b3dYNk9qLUJ5X3pSLWlHZTJSajRqMnF4MFZNSEpublZpTW9IYmtWVm5vU1l1MngycFNWMk41bnJVYkQ5UGUwdTczSWdnc1ZBT3VPdHdESDd0czM5SWZnS2RETjRKVS1sQlZfYXBxaF9IaFBDYmhIaTRkdlR2RkVjNDFjUFQ1OVZzRlhURlNvaXlrTUxGY1pIdUky?oc=5",
-   "time": "2026-10-23T23:21:52+08:00",
+   "source": "The Killeen Daily Herald",
+   "title": "Southeast Asia's worst haze in over a decade sparks student protests",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQzhyR1lHbi14Z01pendtemVDbUlCbURRdGg5akhUSm1VNGo5MVlYRkZYSXQ5VXVVazJadjcyelVNTFJWeWhON0FQNEEwVnFZMGs1aERGQ3JQNjBieGdMN2g3WjBidXNMN2dJS2FTRUxEd0hiLUh6ZEdmbmNxcm1NNXdKN1pLS1BHbUJvQk50MnhvSDQ5NlRCR19Jb3htUjI4NG95UlhCeVo5clRQMUdkMGVWdG9Pa3pkbXpTc1NYN09IM2dWdWRpYkdZYklvMzdpQUhZU1RGRkhSdEkwLU9qRElB?oc=5",
+   "time": "2026-10-23T22:42:09+08:00",
    "summary": ""
   },
   {
@@ -570,13 +584,6 @@
    "summary": ""
   },
   {
-   "source": "Yahoo News Canada",
-   "title": "Southeast Asia's worst haze in over a decade sparks student protests",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lSEdTdWIzUU9oMURvX0JJeWhaM0Y2Z0JHWWxBdFFQSjB6NkR3U0FWQzc0cmE1eG1HbXFiUE0xQlFyakhTMldVUGl3dXIwMWlqT21ZMzNIdlRyNzF1RGtRRFNNMFd4c19aa1hPN0xuZmlOVVpGdDgwdFg2QWM?oc=5",
-   "time": "2026-10-23T21:33:23+08:00",
-   "summary": ""
-  },
-  {
    "source": "Mothership",
    "title": "S'pore govt to create specialist panel to investigate companies likely linked to transboundary haze",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZEh5VVhqRHAxT0lrNlJTQnlhWk96eGlILXR3eWwyT3drV1BRMmtFTmZja3NOV19RdEJzQlFTZS1zYTl5QmJjV1dObmRveFhHbENGUWJVLUtVQlZOdFQ2R1N6dU1nZ0RZTnpXdUI2dmI0Mk1GcUZ6RVotekZkNWxHX3F3LThzX2hBX0xFQWFsTTdZQmtCT1ZweUNxTmV4UG1Ub0VIWHlyV1o5cmxnNmdldUVmLXJqWktjYkZZbTgxT0hoLVA3cHBoRQ?oc=5",
@@ -588,13 +595,6 @@
    "title": "NEA issues notices to 10 Singapore-based companies, including Wilmar and APP, over haze",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQmlxeERUYy1ZOVM2b1pBdFowaUdjb09JTTRvRElrVXQ4ZTdVbHJxeXVia2M2eHFSX3JBU1lLQ2loX2dKaHFQSzA5Y05mdy1VWmZlcnA1MWstREVzdUZiUEJleVFSUFFkUXJoWXNScnZYdnczVVAtbksxX0dkUkwyVVV6U01SY1VCY3BDOHpYRkxzVmdHSktXMm0ySmhzTFZnaFRLVzJiWjF4M3NCVXRpZ1ZpVkhfeWQ3b1FzSEZnNlNZaU0?oc=5",
    "time": "2026-10-23T21:23:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Singapore sets up expert panel to scrutinise firms with potential links to smoke haze caused by Indonesia fires",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYnFKMXowUW1ReG1vNUM0amRURHhNRmNLMFpWd3ZKYVFvVXQzQ3lUZ2hrZ0hvbFpCZFRwaGktV3BHTzJpSDdoZXkzMGtvTTVKZkxrdkYyWXhfek91TDRabGE1X3FzajlVTDROZkFkQjlJUVpTT3llOVA2MkFkWjJFcHBZWUpqM3ZTTDFZSktUU2E0dw?oc=5",
-   "time": "2026-10-23T21:06:00+08:00",
    "summary": ""
   }
  ]
