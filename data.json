@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-23T07:00:00+08:00",
+ "updated": "2026-10-23T08:00:00+08:00",
  "psi": {
   "west": 90,
-  "east": 71,
+  "east": 72,
   "central": 79,
-  "south": 67,
-  "north": 68
+  "south": 68,
+  "north": 67
  },
  "pm25": {
   "west": 52,
-  "east": 31,
-  "central": 30,
-  "south": 20,
-  "north": 26
+  "east": 30,
+  "central": 39,
+  "south": 31,
+  "north": 25
  },
  "hist": [
-  {
-   "t": "2026-10-21T02:00:00+08:00",
-   "psi": {
-    "west": 137,
-    "east": 101,
-    "central": 120,
-    "south": 95,
-    "north": 85
-   }
-  },
   {
    "t": "2026-10-21T03:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 68
    }
+  },
+  {
+   "t": "2026-10-23T08:00:00+08:00",
+   "psi": {
+    "west": 90,
+    "east": 72,
+    "central": 79,
+    "south": 68,
+    "north": 67
+   }
   }
  ],
- "newsUpdated": "2026-10-23T07:07:30+08:00",
+ "newsUpdated": "2026-10-23T08:07:19+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "‘We’re breathing in the smoke even as we sleep’: Living with haze in Sumatra",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbHJyMWdvbGpHd05HN2p6WjBSVElWRTg4SmlCNUpWM0o0dVJrS0kwS3l4ZGRBMXQ3c3ZJQXZ0cVg4ZldNZU50ZkFYaHl2aDIxel9iMTlUc2Z1ZjUyMGhPTFRzcFNaR29hZVFyZmNLYXVNTXA2QVhvanpUVWJPUzlFcXpNMFpINDl1QUlRMEQtZVczd0g2N0tjbGE2RC1qeFg4SVZVRHJ2R3lYLXJrWHlqVjBoSk0?oc=5",
+   "time": "2026-10-23T08:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "24-hour PSI readings remain at good to moderate level across Singapore",
+   "url": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-23-6484486",
+   "time": "2026-10-23T07:11:42+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Asian Golf Industry Federation",
+   "title": "Tournament Falls Foul of Worsening Haze",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xYzVkWXViNjEzNE9iVEZxanJ2WngzOGI2SzZOVlhxU09fTDdTWkJWRERDXzB1WWVOSmIyWFdnX3ZTWUFYUnJiUmdKN05yb05LNU9xWDZjZFlEeHI1c0Q3Ry1MV2t3bVE1ZC1QNThkS0RxTzJN?oc=5",
+   "time": "2026-10-23T06:57:11+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Guardian",
+   "title": "Indonesian students clash with police as protests over toxic haze escalate – video",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUtYX3diM05vVS15WGF6NnJuSG44VTI2Q0kzWm9WaHd4MnFLVHRoWTR3ZURuRFJGT0gweFppUzhWRGJlZWZFUURmb1c4cGVNS3dmT1NqOG9TSmpld19faGhZSGtDSmJqal9oT3I1cTdsQjFQWUdnZ3ZiTDY3RFNUZ3o1ZExMSFl6ZlpzdVRvNFFGbkV3d2R1ZFM3eUFPa3pzRjBjZEliUTRtS3BIWlE?oc=5",
+   "time": "2026-10-23T06:19:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -556,13 +584,6 @@
    "summary": ""
   },
   {
-   "source": "The Guardian",
-   "title": "Indonesian students clash with police as protests over toxic haze escalate – video",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUtYX3diM05vVS15WGF6NnJuSG44VTI2Q0kzWm9WaHd4MnFLVHRoWTR3ZURuRFJGT0gweFppUzhWRGJlZWZFUURmb1c4cGVNS3dmT1NqOG9TSmpld19faGhZSGtDSmJqal9oT3I1cTdsQjFQWUdnZ3ZiTDY3RFNUZ3o1ZExMSFl6ZlpzdVRvNFFGbkV3d2R1ZFM3eUFPa3pzRjBjZEliUTRtS3BIWlE?oc=5",
-   "time": "2026-10-22T23:30:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "CNA",
    "title": "24-hour PSI in good to moderate range across Singapore for first time since Oct 5",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iTEdxMXVPQkI1S1IxSFBQUWhKbVo0aTl1SGQ0bzNDazJFVEFXWGZfLVVRd3ByV01qMzh5azJ4UkxydXN2SkZmdC1pYktCcVhKMEhkZmtqcWpUZWhzc2FDZ1RyRWRrUzE3N0ZBd2Z4VkZPTUNEWm5HV1BB?oc=5",
@@ -570,31 +591,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore haze: Home cleaning services receiving up to 20% more inquiries",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdy1tUjFWN21sZzh6Zk5nX0ZUYV8tNTBTMm1HUWltak93SjVDaWZFbUt4SUI0NmVOVkF2bzlmc1lFZmxJWVpmR2xTdmVFX2JNOXVBWlJMaUJEMGl0eFBtVmlicjd0VlJNcGZSMjRmS05zekF1MF94QnRwdm9KVjAycVExVUxxSVhZT0ozbTRxLVBqY2Fod2ZPNWtmYXdKTjRacEhmNk83MjZsWGhROUZUdGNrR0M?oc=5",
-   "time": "2026-10-22T23:01:22+08:00",
-   "summary": ""
-  },
-  {
    "source": "Free Malaysia Today",
    "title": "Regional cooperation key to lasting solution on haze, says ex-AICHR chair",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSjdrdktvT2FyOWFHN1VjOUtWZFUwMW42bUxVRnFfczd6THNCQ0ZBRXZIc0IzVWNqeUZob05lcW9yRFlueVNrdjhMNHpNTVd5bEJrQndHbFIzU01SOHJWLUlMVHRFZzhEUVNla0M2bk9XaFQwMDNfemhMRFpwaWY2ZHB4MUI5cHJPSGF2SVYydEFuZFdQcVVmM0JGVlVQME9YQUxVY2ZkVUNJUHFrQVNrOUFkaE10Z3hHS2VIcXNwRXV3T0JISXlMOUxxU1Rhdw?oc=5",
    "time": "2026-10-22T23:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "TSH Resources reports 274 hot spots within estate boundaries after SGX queries over haze",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3FSVEU5ejI1LTBsM0c2bU1vNmYxWU40NDZJanFyYXhNb0w3S0cyUWsxdDc5SnpTT0s2anpMaU9TeWE3NG1qalREYUhacnhtMHBaaWFKcVRqOThhQk5JMkVkRFhyRWxyNGdLTXI3SmFCeUZpbW1WWUZoSTZEVG16c29uTG9tOVVvWlpRY1IxdkxhYnQ0SHVjSjZ0bjVEc00zUG5Gem8xNHBmUHNKcFBrNUJ3UTZBaDJCWUJySWFfSFVib1hHODBrbUxEWQ?oc=5",
-   "time": "2026-10-22T22:23:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Facebook",
-   "title": "DW News. . Months of wildfires have blanketed parts of Indonesia with thick haze. In Pontianak, a city in West Kalimantan on the island of Borneo, students took to the streets in protest. Demonstratorss accused the government of failing to address the health an",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYTJ2RHQ1MGFGT2d6SHAyUkdvMFgzYzdGWU5rZ01udHFRQlFibmV2OGtVTURXWUxvNGhfd3ZhaHFLMGhJZHNpeXB3M2U5QmNWUVJKd3lhOE5Lc3doMS12NUlaV2NoUVdULUZaVzVydEtsc1dJeFF1SjVPd1Vjejh4V2lHd0I0cjB2bXpWWERHRGwzb1d5RS0wckVQdGplWVZDOUhNbDdQQ09BdlJPa2JIVnpEMHVQN1FMaXNkMk41YTM5N0hWTHBRaWgzYU1TNDAzZGY2UGRmOFdqNktPQnZKRFhR?oc=5",
-   "time": "2026-10-22T22:00:43+08:00",
    "summary": ""
   }
  ]
