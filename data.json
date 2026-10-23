@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-23T18:00:00+08:00",
+ "updated": "2026-10-23T19:00:00+08:00",
  "psi": {
-  "west": 108,
-  "east": 89,
-  "central": 102,
-  "south": 89,
-  "north": 85
+  "west": 109,
+  "east": 91,
+  "central": 105,
+  "south": 91,
+  "north": 87
  },
  "pm25": {
-  "west": 92,
-  "east": 80,
-  "central": 98,
-  "south": 70,
-  "north": 80
+  "west": 69,
+  "east": 86,
+  "central": 92,
+  "south": 76,
+  "north": 68
  },
  "hist": [
-  {
-   "t": "2026-10-21T14:00:00+08:00",
-   "psi": {
-    "west": 125,
-    "east": 95,
-    "central": 112,
-    "south": 87,
-    "north": 81
-   }
-  },
   {
    "t": "2026-10-21T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 89,
     "north": 85
    }
+  },
+  {
+   "t": "2026-10-23T19:00:00+08:00",
+   "psi": {
+    "west": 109,
+    "east": 91,
+    "central": 105,
+    "south": 91,
+    "north": 87
+   }
   }
  ],
- "newsUpdated": "2026-10-23T18:23:15+08:00",
+ "newsUpdated": "2026-10-23T19:13:42+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Business Times",
+   "title": "Issue 217: Time to face palm oil’s transboundary problem",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkNzNENnT0FXSWdwY1AycWsta2VkLWgtSGtKRnNMdUFEVVJTclJoOFBTSGlvVlhsVmtOMGpBTXpOOGpsSlpWSHlaSGZZVE1WeVM4TlgtaHJLYURPbVh2eVBONWNYNWpHd3VtNGd4YWlrM3pXSG91blpCeElGLTZZRDhjQ2NGUkQ2b1F4UGY5cGZGek1kZTVpb1dfOW9sT0llYThIM0V2REtjZExjWlE?oc=5",
+   "time": "2026-10-23T19:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Post Register",
+   "title": "Indonesia Haze Protest",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb3NEOWJkZUlxZ2VhX2lseVRfRHBMbXpZMzN1anhsUUNnTUlEaDJGWU1FdHNldXY1V0JtVS0yRFFlWWZ6bzhjdktUY0ZLMlFYdG5fYmVsVXg0akFySkwySFFUVGI3bTUwMFh5bGwyLXQ3UGlYc0lqdW5pcU8xS29TU1NWZ2R0cXF6UUNuMU1aX2t3WlVybER0V0w4dlpkSDN2UXlLa2hmSUt4MTN6cGU4?oc=5",
+   "time": "2026-10-23T18:34:33+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Rakyat Post",
+   "title": "Prabowo Threatens To Expose Haze Culprits, Social Media Users Say: We Want To Know!",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcUU2RnB0VnpLQlRoQmJTazEtalZiY3JmakVLbzU4LXRGc1M4Ymc4X2paWDNrQjdoUldhVUI1bjNEZWNTTHdCdEIybE1KUWFkcmtMS2hSSzByV3R3SV8tQzFVMFlFbEJsX1NERXZtQVVSZjctSVZqMVdoN0RfZ2dFSjdRMnFmejQxdzY3NFk3ZEJXaUd2aG9icks4bUE2bjZpa2QxNjNaT0dDRElXN0FjOE0zVlJvZk4tVXZZc3JKWFBvR3FnN1E?oc=5",
+   "time": "2026-10-23T18:28:11+08:00",
+   "summary": ""
   },
   {
    "source": "National Environment Agency (NEA)",
@@ -574,27 +595,6 @@
    "title": "Indonesia’s haze crisis sparks regional tensions ahead of ASEAN summit",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVjcyWm5ndFd2dnNqN293RFhaWngzdi1GaFVCemxuMXk0YjVKTG5PcnRIb3JSYko3U3JmS0JzTGRuTEJCMmZUVW9aWFYxUlNieUJsTFhVODhvcV9KY0xfZnZxZ0k4Zm5HMjIyU3RDZmp6WEEtRGhrTGw5UXJodHpzb1NUVGZHWTB5MjFHTHNxR21FT0RlelpYQ3N2d09sUnBTQnJ1b0t5WkY2RnhCcTkxLXpkT2wtSndFblpwUEp3S0lLREt2REpvNHZlRTg?oc=5",
    "time": "2026-10-23T14:37:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Winds bring haze back to Singapore: Hourly PM2.5 in elevated band islandwide",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOG5DdV81cHoxVkNOZWJxMmZkdmYxYjlHQnYwRmx5b0N5cU04Nk1WUmtZRHlORktfQTEySlIzYTdwSW1oQXVOM3BKdmlBS3VBMmZqQzJqNHFueFNnaXZJeU1Tdkl2VUpZcjdYSEFIM3pnczVnSkptS0FlQ05ZZXAyUkhoREdWUVhO?oc=5",
-   "time": "2026-10-23T13:44:51+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Nanyang Technological University - NTU Singapore",
-   "title": "Repeated Year After Year: Indonesia’s Toxic Haze Traps Southeast Asia",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTFJzallkTktHNENaS1BJRlhPSTFxenVCYjBuRV9uV1BlMFZTU2hqVjBtY3ZQWGFtcWlkaUlsVVZneVl1bC1SSGJ0WWlTLURVcFZrZUdTMnpnQjBsYTdlalpoQnVzVEgtOXhsVy0wdmpMQl9zdjRoTVVSZHZmVGwzNkVyLUZSTFVQSTZGMEpfazBaQTFKRGFsNFF2ZG9VVTcyV1ZnYkpKRkNSemdkUkNwdFVFQXVSaXRpMjJiQQ?oc=5",
-   "time": "2026-10-23T13:39:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "www.jom.media",
-   "title": "#215: The haze redux, and visiting a sheep farm and slaughterhouse in Johor",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV1JHWDFFMlZZUElaTmRFdV9oNWxpV2pscktJbTZYTTl0SHZmX2o5aGNydXZEVi1NY09KTms1YzdOZmhhZWxCMHBkNk5RWjdETmZNRmJIRHNVN29vWUp3MmE2QWxQNGpnX2otcUJPd1QtNEpIS19RWEJXR3c3MFhyUHRXQmpMMk9BWGJRZEY5bF9PUUpiSFE?oc=5",
-   "time": "2026-10-23T12:24:13+08:00",
    "summary": ""
   }
  ]
