@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-23T09:00:00+08:00",
+ "updated": "2026-10-23T10:00:00+08:00",
  "psi": {
   "west": 90,
-  "east": 71,
+  "east": 72,
   "central": 79,
-  "south": 69,
-  "north": 67
+  "south": 70,
+  "north": 66
  },
  "pm25": {
-  "west": 44,
-  "east": 36,
-  "central": 41,
-  "south": 38,
-  "north": 25
+  "west": 56,
+  "east": 42,
+  "central": 46,
+  "south": 46,
+  "north": 31
  },
  "hist": [
-  {
-   "t": "2026-10-21T04:00:00+08:00",
-   "psi": {
-    "west": 135,
-    "east": 98,
-    "central": 118,
-    "south": 93,
-    "north": 84
-   }
-  },
   {
    "t": "2026-10-21T05:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 69,
     "north": 67
    }
+  },
+  {
+   "t": "2026-10-23T10:00:00+08:00",
+   "psi": {
+    "west": 90,
+    "east": 72,
+    "central": 79,
+    "south": 70,
+    "north": 66
+   }
   }
  ],
- "newsUpdated": "2026-10-23T09:07:20+08:00",
+ "newsUpdated": "2026-10-23T10:07:52+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze causes drop in hotel bookings in Johor",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWExOS255NnVKdXFtS3dBZDUwTWZKaUlIWVpOYURvXzdxVnFWZlBOMF9HM2JaaV9rcXZUZkx4eHBKNmkyVG9OdnlodVZZa0QxNFRzQkJsQkY3NEswSVZXS1E3WGhxVWhfZ3R2amlvazVyZDRxaVVoS3U2YU5Jd2lUNjFKbTBjRENsdkVxX0tB?oc=5",
+   "time": "2026-10-23T09:45:00+08:00",
+   "summary": ""
   },
   {
    "source": "Asia News Network",
@@ -553,13 +560,6 @@
    "title": "Singapore goes after companies over toxic haze",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQREhsRWJJNHJuR09ORjZBU3hERDhlNzcwcV9GMlZVUmVUcV9CYklVSFJFSlJYT291LTBubWNQRnJyZjZZOHJDMW1JeW1aNWxYM3ZvZjF2eTdrbzBxTVZkcy1rZjNXbG1ka2FrMEE1SXhGcm1pTlNsRFRQelRGZFM4cVZZZGQ?oc=5",
    "time": "2026-10-23T05:00:05+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "A look back at South-east Asia’s strongest fire and haze episodes",
-   "url": "https://www.straitstimes.com/singapore/environment/a-look-back-at-the-strongest-fire-and-haze-episodes-faced-by-se-asia",
-   "time": "2026-10-23T05:00:00+08:00",
    "summary": ""
   },
   {
