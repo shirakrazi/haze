@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-23T17:00:00+08:00",
+ "updated": "2026-10-23T18:00:00+08:00",
  "psi": {
-  "west": 106,
-  "east": 87,
-  "central": 99,
-  "south": 87,
-  "north": 83
+  "west": 108,
+  "east": 89,
+  "central": 102,
+  "south": 89,
+  "north": 85
  },
  "pm25": {
-  "west": 107,
-  "east": 81,
-  "central": 109,
-  "south": 77,
-  "north": 98
+  "west": 92,
+  "east": 80,
+  "central": 98,
+  "south": 70,
+  "north": 80
  },
  "hist": [
-  {
-   "t": "2026-10-21T13:00:00+08:00",
-   "psi": {
-    "west": 127,
-    "east": 96,
-    "central": 113,
-    "south": 87,
-    "north": 82
-   }
-  },
   {
    "t": "2026-10-21T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 87,
     "north": 83
    }
+  },
+  {
+   "t": "2026-10-23T18:00:00+08:00",
+   "psi": {
+    "west": 108,
+    "east": 89,
+    "central": 102,
+    "south": 89,
+    "north": 85
+   }
   }
  ],
- "newsUpdated": "2026-10-23T17:08:07+08:00",
+ "newsUpdated": "2026-10-23T18:07:32+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Jakarta Globe",
+   "title": "Thick Haze Chokes Central Kalimantan City as Residents Seek National Disaster Status",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXdxMy1xNTJBaGRCX1U3YjJIaGRQT2VDYlhfTEcwM3FZdDgzazRHS09WMmM2a1R0SXVCZ281TVhsYXNIS1hHRHV4cHhGeUJQekhqeUhqUFNOVnpIM0pfNUlOU0hHM1lBa2t4b2MzUHJBU2psRldDOUY0LXBqdmI1eEhtLTVRWVlRb0pGQ3pNbDlYNnMzaW1ac3gxRkRHRDlfRzVqbmlRT05RZW1oSXU5UUEwUQ?oc=5",
+   "time": "2026-10-23T17:56:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Over 500,000 N95 masks, air purifiers: DBS unveils $1m haze aid for vulnerable seniors, migrant workers",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVBWSFZoOWFVMHJSUDRDQk1FQlJibzRObFliNEJsYjl1RGE1bkhqemY4bVBEamtDeElOS1RKcnlrYzEycnJTa0p0ekp3OE5wN2J6cUVkM0lELWw2VEV6Z2hNYmdiNTllb2M0TUNlNkZjdDdpX1BZNTE1ZGtWX2xQTHVQNENCN1dKQi10NDlDN19hbnhjRWtNdw?oc=5",
+   "time": "2026-10-23T17:35:50+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -581,20 +595,6 @@
    "title": "AI tracking, no-burn policies: How SGX-listed plantation firms are responding to haze",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS29oMVJrZmpZNHcxUGNtNkVuNTg2NDFkOGEwcG1lTkpYNEpuZHdQSlkxa1B6RF9VWXpnNXJWOG9VXzhpaE9mX2QtNll4cDZkd0YyN3JDUjc4ekJsUVFyODBFNDQzQXpFcFk2bjRlWWExZjRlSzlfOWJqXzBaTHdKUl9FdmxfNW9uVnRDV3k2SUhJenowMm9IWTkweHZZVEFvZ2NtZmtxSHgtWDVOWlFTT1NrTVRXMUtuZkJBZDhWUWY0UTlLM29NNnpKZw?oc=5",
    "time": "2026-10-23T12:23:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Singapore Business Review",
-   "title": "TSH responds to SGX haze queries, cites no fires",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1eVJUNlhibzIxUW1VOTR6NmN2WkRrU3RYck90dnBnNjhMZnlueXYwTDcwdGRfZ0JNUTZfODRKZ1J0TWlVelJReXVFUUNHbmhEZDlaa1M4Q2xvMTFrSzU3c1VkTEYzRlduSHQzcFhuRmduU0diTE1J?oc=5",
-   "time": "2026-10-23T12:14:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "How PM2.5 in haze affects the human body",
-   "url": "https://www.straitstimes.com/singapore/health/how-pm2-5-in-haze-affects-the-human-body",
-   "time": "2026-10-23T12:00:00+08:00",
    "summary": ""
   }
  ]
