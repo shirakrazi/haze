@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-24T05:00:00+08:00",
+ "updated": "2026-10-24T06:00:00+08:00",
  "psi": {
-  "west": 137,
-  "east": 113,
-  "central": 128,
-  "south": 110,
-  "north": 110
+  "west": 139,
+  "east": 115,
+  "central": 130,
+  "south": 112,
+  "north": 112
  },
  "pm25": {
-  "west": 117,
-  "east": 76,
-  "central": 79,
-  "south": 67,
-  "north": 70
+  "west": 115,
+  "east": 72,
+  "central": 81,
+  "south": 76,
+  "north": 75
  },
  "hist": [
-  {
-   "t": "2026-10-22T02:00:00+08:00",
-   "psi": {
-    "west": 119,
-    "east": 88,
-    "central": 102,
-    "south": 87,
-    "north": 77
-   }
-  },
   {
    "t": "2026-10-22T03:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 110,
     "north": 110
    }
+  },
+  {
+   "t": "2026-10-24T06:00:00+08:00",
+   "psi": {
+    "west": 139,
+    "east": 115,
+    "central": 130,
+    "south": 112,
+    "north": 112
+   }
   }
  ],
- "newsUpdated": "2026-10-24T05:07:36+08:00",
+ "newsUpdated": "2026-10-24T06:09:40+08:00",
  "news": [
   {
    "source": "CNA",
@@ -518,6 +518,13 @@
    "title": "Singapore widens haze probe to local firms linked to Indonesian fires",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWmx6OGtQX0xfMzEwbnNRXzhkUmVJRV9ST3ROenQwTzdkZGdmOEM4c0p2OXVQaEtIdTNQX1hJb2FmZV85MWgyUFBGWU1EOEpvd2UzanNWMTRfcTJsd2VfMmFuQm1tbDZIRkdLcFByNWJfZG1weXh4dVhUQ1NHZTdRWlBuUHhnVjNVZjJUNEtRellIaUZkWmxGTnNEbU5BMExtWjBJ?oc=5",
    "time": "2026-10-24T03:17:41+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Manila Times",
+   "title": "Southeast Asia's worst haze in over a decade sparks student protests",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVWQ4eE1mREtGS2NnMGlWTWk4YTN4ejJaLTNKVHZOVVNOZU0tMmtFbGZIMEdTdjNYTGlUOHZUV3pVOUNpcURSQTF5SExqY3A5UTR0aVlfU0g0bmdWZ1pfamhUQXBKdThSSmk0T2NBcEk1Q1JVSWRpVlp1ZkM5bGo0cXlCckQ3Sm5yMFU5bGZ2ZFZRWFJ5VlRjRFhkb2RpT2dPR1lHWi1XeTIzeUg1aXJub3ZYMUVjb1JHOGlXXy1XZXlNUdIBwgFBVV95cUxNVWQ4eE1mREtGS2NnMGlWTWk4YTN4ejJaLTNKVHZOVVNOZU0tMmtFbGZIMEdTdjNYTGlUOHZUV3pVOUNpcURSQTF5SExqY3A5UTR0aVlfU0g0bmdWZ1pfamhUQXBKdThSSmk0T2NBcEk1Q1JVSWRpVlp1ZkM5bGo0cXlCckQ3Sm5yMFU5bGZ2ZFZRWFJ5VlRjRFhkb2RpT2dPR1lHWi1XeTIzeUg1aXJub3ZYMUVjb1JHOGlXXy1XZXlNUQ?oc=5",
+   "time": "2026-10-24T02:59:00+08:00",
    "summary": ""
   },
   {
@@ -560,13 +567,6 @@
    "title": "Singapore Takes Action On 10 Companies Including Wilmar And TSH As Haze Probe Widens",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRVM0cGluQm1YMW94MHA4MHlkZWtnWV8zYTdzM051eExnNFM5SDY2ZDlTUTZnV1JneWw3ZWdtc1hUeFZrR21iTnRSejNzb1Qxd3cyaXc0MUVld3F5U2NDLUU2ZElzS0JVQXNwb3h2M2NPaXRzQVVISXZiQmtkQ0k4STNncmtFWmwxUFc2VVJ4d2ExaXhGWmVnZVVIVzBualNmLW1Kd0JSbjlnbEtlc0lCUnBwQ013cnNpRzBPMWdhZWFhTUJxV1dlNA?oc=5",
    "time": "2026-10-23T22:43:51+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Killeen Daily Herald",
-   "title": "Southeast Asia's worst haze in over a decade sparks student protests",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQzhyR1lHbi14Z01pendtemVDbUlCbURRdGg5akhUSm1VNGo5MVlYRkZYSXQ5VXVVazJadjcyelVNTFJWeWhON0FQNEEwVnFZMGs1aERGQ3JQNjBieGdMN2g3WjBidXNMN2dJS2FTRUxEd0hiLUh6ZEdmbmNxcm1NNXdKN1pLS1BHbUJvQk50MnhvSDQ5NlRCR19Jb3htUjI4NG95UlhCeVo5clRQMUdkMGVWdG9Pa3pkbXpTc1NYN09IM2dWdWRpYkdZYklvMzdpQUhZU1RGRkhSdEkwLU9qRElB?oc=5",
-   "time": "2026-10-23T22:42:09+08:00",
    "summary": ""
   },
   {
