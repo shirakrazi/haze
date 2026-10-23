@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-24T00:00:00+08:00",
+ "updated": "2026-10-24T01:00:00+08:00",
  "psi": {
-  "west": 120,
-  "east": 103,
-  "central": 117,
-  "south": 98,
-  "north": 98
+  "west": 124,
+  "east": 105,
+  "central": 119,
+  "south": 102,
+  "north": 100
  },
  "pm25": {
-  "west": 146,
-  "east": 77,
-  "central": 92,
-  "south": 66,
-  "north": 74
+  "west": 132,
+  "east": 71,
+  "central": 86,
+  "south": 84,
+  "north": 71
  },
  "hist": [
-  {
-   "t": "2026-10-21T21:00:00+08:00",
-   "psi": {
-    "west": 124,
-    "east": 91,
-    "central": 107,
-    "south": 88,
-    "north": 80
-   }
-  },
   {
    "t": "2026-10-21T22:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 98,
     "north": 98
    }
+  },
+  {
+   "t": "2026-10-24T01:00:00+08:00",
+   "psi": {
+    "west": 124,
+    "east": 105,
+    "central": 119,
+    "south": 102,
+    "north": 100
+   }
   }
  ],
- "newsUpdated": "2026-10-24T00:09:27+08:00",
+ "newsUpdated": "2026-10-24T01:07:38+08:00",
  "news": [
   {
    "source": "CNA",
@@ -518,6 +518,13 @@
    "title": "Singapore haze: Air quality in west and central hits unhealthy range as PM2.5 readings rise islandwide",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Fa0M5eEJxRllMNjVpb0prZUNITjVSS3NhcktGN0RMSENjVUlnOTJ6VFdTaTUzc3Z0UGZqT01pQzI2eUdwUFplYkdRblp6MXdqSEloZ3JRWFNZeWJ3TDZyMHFWRU51LUxYQ2c0RnhZeDN3R3VINm5FYmRR?oc=5",
    "time": "2026-10-23T23:36:07+08:00",
+   "summary": ""
+  },
+  {
+   "source": "KMVU FOX 26 Medford",
+   "title": "Singapore widens haze probe to local firms linked to Indonesian fires",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWTlqRlF6b2YwclpVRWlhZDY0WklnNEx5bl94WUpwd2ctVGp0SlhZaU9ZSVh2TkpIMVRCdFM1V1Vlb2NjN1ppM19BMTVpclNlWElhRXlobHhQbEk1WExHank3b3dYNk9qLUJ5X3pSLWlHZTJSajRqMnF4MFZNSEpublZpTW9IYmtWVm5vU1l1MngycFNWMk41bnJVYkQ5UGUwdTczSWdnc1ZBT3VPdHdESDd0czM5SWZnS2RETjRKVS1sQlZfYXBxaF9IaFBDYmhIaTRkdlR2RkVjNDFjUFQ1OVZzRlhURlNvaXlrTUxGY1pIdUky?oc=5",
+   "time": "2026-10-23T23:21:52+08:00",
    "summary": ""
   },
   {
@@ -570,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "Mothership",
+   "title": "S'pore govt to create specialist panel to investigate companies likely linked to transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZEh5VVhqRHAxT0lrNlJTQnlhWk96eGlILXR3eWwyT3drV1BRMmtFTmZja3NOV19RdEJzQlFTZS1zYTl5QmJjV1dObmRveFhHbENGUWJVLUtVQlZOdFQ2R1N6dU1nZ0RZTnpXdUI2dmI0Mk1GcUZ6RVotekZkNWxHX3F3LThzX2hBX0xFQWFsTTdZQmtCT1ZweUNxTmV4UG1Ub0VIWHlyV1o5cmxnNmdldUVmLXJqWktjYkZZbTgxT0hoLVA3cHBoRQ?oc=5",
+   "time": "2026-10-23T21:28:04+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Business Times",
    "title": "NEA issues notices to 10 Singapore-based companies, including Wilmar and APP, over haze",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQmlxeERUYy1ZOVM2b1pBdFowaUdjb09JTTRvRElrVXQ4ZTdVbHJxeXVia2M2eHFSX3JBU1lLQ2loX2dKaHFQSzA5Y05mdy1VWmZlcnA1MWstREVzdUZiUEJleVFSUFFkUXJoWXNScnZYdnczVVAtbksxX0dkUkwyVVV6U01SY1VCY3BDOHpYRkxzVmdHSktXMm0ySmhzTFZnaFRLVzJiWjF4M3NCVXRpZ1ZpVkhfeWQ3b1FzSEZnNlNZaU0?oc=5",
@@ -577,24 +591,10 @@
    "summary": ""
   },
   {
-   "source": "Mothership",
-   "title": "S'pore govt to create specialist panel to investigate companies likely linked to transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZEh5VVhqRHAxT0lrNlJTQnlhWk96eGlILXR3eWwyT3drV1BRMmtFTmZja3NOV19RdEJzQlFTZS1zYTl5QmJjV1dObmRveFhHbENGUWJVLUtVQlZOdFQ2R1N6dU1nZ0RZTnpXdUI2dmI0Mk1GcUZ6RVotekZkNWxHX3F3LThzX2hBX0xFQWFsTTdZQmtCT1ZweUNxTmV4UG1Ub0VIWHlyV1o5cmxnNmdldUVmLXJqWktjYkZZbTgxT0hoLVA3cHBoRQ?oc=5",
-   "time": "2026-10-23T21:10:01+08:00",
-   "summary": ""
-  },
-  {
    "source": "AsiaOne.com",
    "title": "Singapore sets up expert panel to scrutinise firms with potential links to smoke haze caused by Indonesia fires",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYnFKMXowUW1ReG1vNUM0amRURHhNRmNLMFpWd3ZKYVFvVXQzQ3lUZ2hrZ0hvbFpCZFRwaGktV3BHTzJpSDdoZXkzMGtvTTVKZkxrdkYyWXhfek91TDRabGE1X3FzajlVTDROZkFkQjlJUVpTT3llOVA2MkFkWjJFcHBZWUpqM3ZTTDFZSktUU2E0dw?oc=5",
    "time": "2026-10-23T21:06:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Singapore will form panel of experts to help investigations into haze-linked firms",
-   "url": "https://www.straitstimes.com/singapore/environment/singapore-will-form-panel-of-experts-to-help-investigations-into-haze-linked-firms",
-   "time": "2026-10-23T21:00:14+08:00",
    "summary": ""
   }
  ]
