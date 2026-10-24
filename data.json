@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-24T11:00:00+08:00",
+ "updated": "2026-10-24T12:00:00+08:00",
  "psi": {
-  "west": 150,
+  "west": 152,
   "east": 122,
   "central": 140,
-  "south": 117,
-  "north": 124
+  "south": 116,
+  "north": 125
  },
  "pm25": {
-  "west": 109,
-  "east": 67,
-  "central": 77,
-  "south": 53,
-  "north": 94
+  "west": 106,
+  "east": 53,
+  "central": 54,
+  "south": 37,
+  "north": 83
  },
  "hist": [
-  {
-   "t": "2026-10-22T09:00:00+08:00",
-   "psi": {
-    "west": 107,
-    "east": 82,
-    "central": 93,
-    "south": 84,
-    "north": 74
-   }
-  },
   {
    "t": "2026-10-22T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 117,
     "north": 124
    }
+  },
+  {
+   "t": "2026-10-24T12:00:00+08:00",
+   "psi": {
+    "west": 152,
+    "east": 122,
+    "central": 140,
+    "south": 116,
+    "north": 125
+   }
   }
  ],
- "newsUpdated": "2026-10-24T11:06:52+08:00",
+ "newsUpdated": "2026-10-24T12:07:21+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Star",
+   "title": "Fires at Papua food estate worsen haze pollution, raise environmental concerns",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMzZyRWgtMV9yR1FUc3hsd2UxLW9XRjJjUEtvakZYWXVJaFFLbzMtQ0RmbjhrZmZTV1Etb0NGeERHSk1ROERYcUFDdF9fa0dFYjVhMVZSSU1JazZCVVNuVlV1NE95S3M5bGFhSjdGcHozbjY4NnFtLVZNUGM4M0hlV21xWExCR0lRMHBTTWNFc25DRGJvUDc2dnk1Rnhoc0JWdnFRVUloX2d2S0g2Y29iZE0zSmhNbGVhak1xNEJwbE9lUzBRLVozak1XblBBamtRY1c1QUdyUQ?oc=5",
+   "time": "2026-10-24T11:52:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Singapore to form expert panel to investigate firms linked to haze",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMV82VFIzdTFTdUxjVmtScFlSMDQxU0ZTQ2xPWnpLeGQyMFVQQkpLUDNIeWRuenFTVFNxOHduM2dKUl9QQ0dua09WTDM2V0JkV1d0SUhfY29zMVNMdjVjaDhQWDlob3hrYURPbmsyNDVCbGtCM0VqVnlwQk45YUdJbURjcFkyN2J2aVBKNU5QVHNRTDNBNXRTc180V2h1a002d21GY044YzNTVDFRdmdTUDFBT0pVek5uNHBJNVA1Um9yZWxlai1Wcw?oc=5",
+   "time": "2026-10-24T11:47:00+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne.com",
@@ -563,13 +577,6 @@
    "summary": ""
   },
   {
-   "source": "The Star",
-   "title": "NGO: Malaysia must step up haze enforcement",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ0JxWnh6Y3JJSUtfcktFM1lvQmQ5SlNNdmJCVjVkVnRqalBDMGdaVlRmWloyVjNmc29XNkFCREhwT3pYc0gyNnZWejJhelllb21tYnJ6dmYwRWp5NlpRMEtsU2VLR2tHUTF0U1B2ZG9FbXNsVGVUWnM1YTVhNnl1am1RMG9rYzNzNWliSm5hMmNjLXBhcWZF?oc=5",
-   "time": "2026-10-24T08:19:24+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Peninsula Qatar",
    "title": "Singapore probes domestic firms linked to Indonesian forest fires and haze",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHZWaUtVNTNWdDE3b3NBNjdsZEttbzl3RDhqX21lM2dVQkhVbXh3ckFVMEFMb2xEeEY0TnpmbWxuT2Rmd1VqUllVNzdXempFS04zQU1HWGgzTHVRdHpCN0lPcDVGdnp0R1dnODR2NUFQdDBWSmJvMXdWbENmTVE1Q3dFMWN2al9mRHdFZE82Mi0yemttNGRJRC1sOTcxbmVESGItYmc1eWlHQV9sX3ZGbWFSNlRxZ0tueFlPaHF1cGd4Mm54Tmw3RA?oc=5",
@@ -588,13 +595,6 @@
    "title": "Haze in Singapore: Air quality back in the unhealthy range",
    "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-back-in-the-unhealthy-range",
    "time": "2026-10-24T07:11:21+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Haze can irritate skin and eyes, not just lungs, experts warn",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQllwTTVtaFZLVlVBdEtSUG1Xa21VSEpINDB6RG8yRXVlbE1BWC1hY01KVUhoMWRNQjFXa0FDQW1qQTJibHFEMnlHQ1VPV3dVYk1EVmlralFsNjRUSFk4eHZuX2xfSl9ibExLLVA0QVBOSVh6MmxlbVVNWVNORWE5YWFyVG90ZXBvTXpJY0N2cXRXZ0VjWV9lVjBOa0lvdm0tZTl6VzlGWk12TF9YZWdNcEpvRlpfQnV50gG-AUFVX3lxTE9teEVxbTBpN2dOSmtGTmlXWUlOVFNqZ0pIdWJEbll4VG0wN2pBUEdBZ2liSnU1ZFBGM0lvYjJzM0hjNG55akNSdlNfZ1l6d3lTYTM0UFlCeG52cVNGdVZON2JwRnRqRFdBQ05xcTczQllHVldEUjNUVmdTUVh2TkpwYzducDJHU3hmbEhXa1lhT0hPakU0MFpkTVE1SWJWT213TVk4NmRWdXVySDB0N2Ntc3QwcV9vYzlZTURaa2c?oc=5",
-   "time": "2026-10-24T07:04:17+08:00",
    "summary": ""
   }
  ]
