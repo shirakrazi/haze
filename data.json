@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-24T19:00:00+08:00",
+ "updated": "2026-10-24T20:00:00+08:00",
  "psi": {
-  "west": 152,
-  "east": 114,
-  "central": 126,
+  "west": 153,
+  "east": 113,
+  "central": 124,
   "south": 108,
   "north": 115
  },
  "pm25": {
-  "west": 94,
-  "east": 67,
-  "central": 72,
-  "south": 59,
-  "north": 49
+  "west": 98,
+  "east": 75,
+  "central": 69,
+  "south": 67,
+  "north": 67
  },
  "hist": [
-  {
-   "t": "2026-10-22T19:00:00+08:00",
-   "psi": {
-    "west": 92,
-    "east": 74,
-    "central": 82,
-    "south": 72,
-    "north": 71
-   }
-  },
   {
    "t": "2026-10-22T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 108,
     "north": 115
    }
+  },
+  {
+   "t": "2026-10-24T20:00:00+08:00",
+   "psi": {
+    "west": 153,
+    "east": 113,
+    "central": 124,
+    "south": 108,
+    "north": 115
+   }
   }
  ],
- "newsUpdated": "2026-10-24T19:07:42+08:00",
+ "newsUpdated": "2026-10-24T20:07:27+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Malaysia's Johor schools to reopen on Oct 26 after weeks of haze-related closures",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYmN1MEZCLUVvM01OSHZieDZFZllUNXBObnlSWE9udGg2YTIwN25DZVFBLXBLdExscDJrem1ieVFYWDYzdVhsXzJPazJOZE1ld0NkU2hvODUtNWdHb1JsUGhXS204NW9sSG50MDRWdnM0VzAwLUtRRWMxX2podFZLdDVadW1xVHEwcUUyY0d0QVJfVmxJU2o4MTdxZzlwZzJ6aTlZT09KclU3dlNnbmd3SDBpV0hIOVk?oc=5",
+   "time": "2026-10-24T19:10:19+08:00",
+   "summary": ""
   },
   {
    "source": "Mothership",
@@ -528,10 +535,45 @@
    "summary": ""
   },
   {
+   "source": "AsiaOne.com",
+   "title": "Showers bring PM2.5 back to normal band in 4 regions; haze outlook likely to improve from Monday",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLS10Szd5U19FVENoSEJVSWZXVXlMNGd3Q0JkYWFtM0pDTjJFM0F1aGVRV3dFV1lEZHpZcTlyN3BTVTk0SmRwTWswQ3JOSHJKUk5LMlVWaVJuREdZbkVhSDdNZDMyZHc4ZWJyLTBZM0ZrTXY2blpNSm1kckRhN2MzYnBJaXlybHpuWnV6NlBn?oc=5",
+   "time": "2026-10-24T18:55:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "Wilmar Among Three Companies Agree To Cooperate With Singapore’s Haze Investigation",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaW5Yb2dCbmtZTWZjTUctNGtrMFlSbnZ4NHBkSldUUzRiMnoxMjYzQ3RyaUJqazljRXZPRzFncWNlSFE3YU5MZ0JqT2ZWSzJrQTlobm5haWp2N0xZRVRhY2k0MUNvc3hhQ1U0NHYzZ01UaFV4bXJoZW1NZmU1TDFOb0pTVjFIXzZhelZ2cTdtQlpPbDJBMDZxaEtfemo1RFlfUTEzOWVTaGtlb21ScmJWT1hkVm1aWTlrcEVDU20wbVZTelNMQVE?oc=5",
+   "time": "2026-10-24T18:53:29+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Indonesia is dropping dry ice to fight haze. But does it work?",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZl81U2F3b0xINWdkd2Y4ZTNnMF9LcTd6T3lkcFFiMkQtX0pvOW5qZ3E2QVNPTzZBUDVwRndNSGU4YUtkWC1CRllXZC0yZmszaDVfNGVWMmgxXzk1Y044UWo0X3ZUcUMzY3ZTNXM4SjVDYUhOeG1Rb1N0dlN0R19BbVYtbHl2R0NDTjZLRGtmaWZpVFlnUmxySzltSFkxUQ?oc=5",
+   "time": "2026-10-24T18:43:54+08:00",
+   "summary": ""
+  },
+  {
+   "source": "UA.NEWS",
+   "title": "Three companies to comply with NEA haze requirements — CNA",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRE5OMGdyVy16Q2taOUlNWGFzclg3NGtqVUN2Y096aUE1M3lna1dBQnZYZ3NUeWxQX3VPQVZ0VWs4b0RwS2lTQjlDRjhMa0ZmV3BWRTZJRnE3THJNdEJRLUs2RnR0SWdHZWV3R0FRWUZSSVA1aUNTTUN0bWlBUE1rSW81d1BVYWlqa1Rnak1HaHptSHNwT0NFQkNVVVczR2pkMExhMmdReE5zeXY3X3l0UHlqaTJZVUE?oc=5",
+   "time": "2026-10-24T18:32:52+08:00",
+   "summary": ""
+  },
+  {
    "source": "Focus Malaysia",
    "title": "NEA serves haze notices on 20 companies over Indonesian fires",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb2ZyUUhnVV85cll3WTAzTnUwcnU2RkxqazlaQjRFU09PdHFOWkpiUjZjVzU2VUFtTTZjTmtiLU1aS1lNYUpNT0lVWU12Yk0tYmhqaUhraFJkZnc3TnZ1bjRGVFZsLU9iSjYyVjVYMFZteTFlX3NSSG4tZUt5NzliX1Y4LXZLV1g1YmowdThXb2M?oc=5",
    "time": "2026-10-24T18:25:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Indonesia cuts gas to Singapore amid Borneo, Sumatra wildfire haze",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0ZZWHVkNE91TDczY0tyNFVlNE9wT29EY3FQUW9wcWZtOVBNZ0gwS3FNTG1MMmxTTnFoSW5WY01INlFqNWRwWDRfRDg1MUVYdGVDSkZ5aEZXRW1iZklqWlV5OTNPVlk4bXdzck4yUDN2M2hxWXJLaVp1UEh5QVg3SGFDU1hzcndSMnhReU9Eb1RNQ2hMN3FzWDFjazBnOFBvNWpfM19KbzBkTy1tVTJnaml6STJpSVdVdzh3amltS1o3QdIBwgFBVV95cUxPVWtqQTRlZ1RQd0ZsaTNxZklTQUFqQTVpRk5kSXNqOHY0UjV1YktTalhrZVpSVldPa29jYjdwam1wb3VNaVhGa1hxT1lISS1fR2I0UlhDWk5lTXIyZVBOeDJyUVhJOXpDcG1BczY0UXNSOHN0b0pVcGtxRS1DeERfYmxadkRvdk1jczJVMFVyQUhXRHJ4YmZ4aXp2VDZUV3ozS0NVX3A2dWRjSjRmd2Z5VU45NlhnME1QTXdwZFdyRkFaQQ?oc=5",
+   "time": "2026-10-24T18:21:42+08:00",
    "summary": ""
   },
   {
@@ -553,48 +595,6 @@
    "title": "Who protects workers from the haze?",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd0p3QTJGY09jU3U3OHJLTXlLMnJQWW5LNGNhYjJKYjFmbXBsTk1iLWUyVHJXZXBwaW1GZXFKYTV1VDJtNlg0TGlPSFpZY2FmNXc4MDFaR2RkVEZzSllBd19TNWw5aFlyLWl6bGVDWW55Z1JUSENId041RTJ0aXNNc2dLaw?oc=5",
    "time": "2026-10-24T17:34:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Johor schools to reopen on Monday as haze improves",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDBOZVlVMXdDYy1VMXZGWXNwQjFOdFZBWFlEcDNLQ3VNbndacWFCVnd3Nk9uYkNpeW82S2NMQ2ZaOHVId1BESGVRd2F2NENDaGt6MHdMcXpHczBIRnlISzdPeDlMM3h1OUJ3clZ1VmRzUFlZZDNMc1h1YWVlODZ1aWhjdEYxOFQ4cGZhQmIyOHdyQkZDUTdma21IcGpyWEnSAZ8BQVVfeXFMUFgwTmVZVTF3Q2MtVTF2RllzcEIxTnRWQVhZRHAzS0N1TW53WnFhQlZ3dzZPbmJDaXlvNktjTENmWjh1SHdQREhlUXdhdjRDQ2hrejB3THF6R3MwSEZ5SEs3T3g5TDN4dTlCd3JWdVZkc1BZWWQzTHNYdWFlZTg2dWloY3RGMThUOHBmYUJiMjh3ckJGQ1E3ZmttSHBqclhJ?oc=5",
-   "time": "2026-10-24T17:22:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NEA.gov.sg",
-   "title": "Haze Situation Update (24 October 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUDd0UGFMeG8yWnBmTno4alBSWXV2dVJmOXQ1Tlo0Vllrem9SWThZMXc3OEZsRFJKWTdsX1Y5MHlPdmtRbG1GOGctaFVlekRzQUZTU3hkb3BoT1ZCeVNzOHFRTnRZeDJpZFJnM2lNVjJPMnRGUF9FTTBfazNGR0ppZVFGLXdYMUY2TXN1SkEtUXpqQQ?oc=5",
-   "time": "2026-10-24T17:20:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Yahoo",
-   "title": "Wilmar, Bumitama and First Resources fall in line on Singapore’s haze probe, seven still silent",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOenNWOXJPaDlUYWFYUXZiWVpSS3dNb3FTN0NuTDR0R1dNRFFlS1RhbS01b1ZvUXo2Y25FbWo0eHdQaFoyY1NoUElKS0duSzFSUVJNWkJHMDd5MXVTTzB2QlEzdXFWODNWYnFyM3d4TlJUNUdxdUt6ZHdBVC1EWmNidFpnZF9NQnVyLXdV?oc=5",
-   "time": "2026-10-24T17:11:49+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Want to escape the haze in Malaysia? Here are some clean air havens you can visit",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFNPVmZNdHhGbEV0RVpvNzJBTlZxRTQzd2pZeXEtZnZIb09ZbFhzbFByMHFkMzdycS1XSlVPMnBiSmlRMlhZUWNDWGtLczZSLUc0TVg0bFd4Z3NPR04tUE9idDdQN1lDSUhEd1RNZklDUzZMT0NqeDl0bVNGSVE3c0VMbF9rX1Brd1psYVQ5WjFYWFQ1cUtzamU2RDNhRDRCNlJsbGZ5TzJtakZ0dEZhMVc5YnZYR2NielJ6ZmRWak16WWRhUHVibVdDZkhLRldo?oc=5",
-   "time": "2026-10-24T17:05:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "3 Singapore companies say they will cooperate with authorities after receiving notices under haze law",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQkdiazZYREJKbXJwaG9pdmhtRWlYeUVnTWNhYWVPRnVkc2ZTeUN4WGNMZGpZeEUyTEVxNHNibG9KbWZORFY1Y25QWHBPbG9VWkQzcW9aYktmOEpsRklWYnJpSUhKSVl1SXNJMU15aFFtNEU2UzZzbHBqWFRTRHdJTy0tSFRzSDJJQ1dSaVUxU3Z5d1VyMnM1SHJDRnM4YXA1Q25rVkZFZzYxTVhoOW91OEwwY2VjUjlpa2JJQ2xB?oc=5",
-   "time": "2026-10-24T17:04:08+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Malaysia",
-   "title": "Johor schools to reopen on Monday as haze situation improves",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5panhGNjFheU96SDFhYXZ5Z0dYc2JzQmEwR3dCcnZRNjZSbmZzTEpQV3dqTTBwcTkzakViOHdZRXN6MEtDQmdNeFVzT3JZMzho?oc=5",
-   "time": "2026-10-24T16:46:25+08:00",
    "summary": ""
   }
  ]
