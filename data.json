@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-24T09:00:00+08:00",
+ "updated": "2026-10-24T10:00:00+08:00",
  "psi": {
-  "west": 146,
-  "east": 120,
-  "central": 138,
-  "south": 117,
-  "north": 119
+  "west": 148,
+  "east": 121,
+  "central": 140,
+  "south": 118,
+  "north": 121
  },
  "pm25": {
-  "west": 94,
-  "east": 74,
-  "central": 97,
-  "south": 66,
-  "north": 76
+  "west": 97,
+  "east": 71,
+  "central": 92,
+  "south": 70,
+  "north": 84
  },
  "hist": [
-  {
-   "t": "2026-10-22T06:00:00+08:00",
-   "psi": {
-    "west": 112,
-    "east": 85,
-    "central": 98,
-    "south": 85,
-    "north": 75
-   }
-  },
   {
    "t": "2026-10-22T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 117,
     "north": 119
    }
+  },
+  {
+   "t": "2026-10-24T10:00:00+08:00",
+   "psi": {
+    "west": 148,
+    "east": 121,
+    "central": 140,
+    "south": 118,
+    "north": 121
+   }
   }
  ],
- "newsUpdated": "2026-10-24T09:07:30+08:00",
+ "newsUpdated": "2026-10-24T10:07:15+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,6 +507,34 @@
    "pinned": true
   },
   {
+   "source": "The Straits Times",
+   "title": "Visitors mask up, change plans amid the haze; some tour operators see dip in bookings",
+   "url": "https://www.straitstimes.com/singapore/visitors-mask-up-change-plans-amid-the-haze-some-tour-operators-see-dip-in-bookings",
+   "time": "2026-10-24T10:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "NEA issues notices to 10 Singapore-based firms for first time under haze law",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2k2akhmcVVfdzVKZmJ4ajlmNldZaW9uYVhURmNPM0FhWFZ3VnB3X3VkalJEdEZVUGlkbmJCUk1obEVQUGxDa3NlV0hoNUxIUU1oXy1xTS0yVUd0M3Q1UHNPbTJwZGEzX1B3M3YzNkVCby0ybkN4enpTQTVVTEVudFFLZjgxeXZ6MDVZRlo2ZGp3YS1XWUY4dUdjYTBSejZqa3c?oc=5",
+   "time": "2026-10-24T09:13:57+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Haze worsens overnight as air quality turns unhealthy across Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83UkFkLTJzVVN5QW4yc0g3V184LUEwR1N2OUlhb0RfMnVUb3BJTmEtS2ZteUpUSkJzOUJiR3llUHR0ZllTX1pNTHhXRkRTc3dpaVNRcVd1TUpDUHNHMTlQMjFaLU84aUw3WnU0azVUYklRZGs3YmVqdm1B?oc=5",
+   "time": "2026-10-24T09:13:03+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Haze: Expedite enactment of comprehensive Clean Air Act, says Lee Lam Thye",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMFFidTJLdERvb3REakF6d1hXYXVYdHhtSkNwOHRabjg1RElKMGpMR3dqMzZhVWdhZUt5bFJqdHB0b0FXaDRaM3BQSWp5enp2amhNU21TYnByZ0hYMVh0WTBBSlVoYWpfdXdGVmJpVko5TFVRNEg3WFBEc2FhWFUxeURJaTVjc2plQVNfMlNpWVZWMEwyN05SbnNsdHJ1dGpzOENTMU1lNi1CWEJQR1lmSEpDRGhJY0VvVmJfWExidw?oc=5",
+   "time": "2026-10-24T08:46:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Star",
    "title": "NGO: Malaysia must step up haze enforcement",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ0JxWnh6Y3JJSUtfcktFM1lvQmQ5SlNNdmJCVjVkVnRqalBDMGdaVlRmWloyVjNmc29XNkFCREhwT3pYc0gyNnZWejJhelllb21tYnJ6dmYwRWp5NlpRMEtsU2VLR2tHUTF0U1B2ZG9FbXNsVGVUWnM1YTVhNnl1am1RMG9rYzNzNWliSm5hMmNjLXBhcWZF?oc=5",
@@ -514,10 +542,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Haze worsens overnight as air quality turns unhealthy across Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83UkFkLTJzVVN5QW4yc0g3V184LUEwR1N2OUlhb0RfMnVUb3BJTmEtS2ZteUpUSkJzOUJiR3llUHR0ZllTX1pNTHhXRkRTc3dpaVNRcVd1TUpDUHNHMTlQMjFaLU84aUw3WnU0azVUYklRZGs3YmVqdm1B?oc=5",
-   "time": "2026-10-24T08:12:39+08:00",
+   "source": "The Peninsula Qatar",
+   "title": "Singapore probes domestic firms linked to Indonesian forest fires and haze",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHZWaUtVNTNWdDE3b3NBNjdsZEttbzl3RDhqX21lM2dVQkhVbXh3ckFVMEFMb2xEeEY0TnpmbWxuT2Rmd1VqUllVNzdXempFS04zQU1HWGgzTHVRdHpCN0lPcDVGdnp0R1dnODR2NUFQdDBWSmJvMXdWbENmTVE1Q3dFMWN2al9mRHdFZE82Mi0yemttNGRJRC1sOTcxbmVESGItYmc1eWlHQV9sX3ZGbWFSNlRxZ0tueFlPaHF1cGd4Mm54Tmw3RA?oc=5",
+   "time": "2026-10-24T08:00:00+08:00",
    "summary": ""
   },
   {
@@ -567,34 +595,6 @@
    "title": "Southeast Asia's worst haze in over a decade sparks student protests",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVWQ4eE1mREtGS2NnMGlWTWk4YTN4ejJaLTNKVHZOVVNOZU0tMmtFbGZIMEdTdjNYTGlUOHZUV3pVOUNpcURSQTF5SExqY3A5UTR0aVlfU0g0bmdWZ1pfamhUQXBKdThSSmk0T2NBcEk1Q1JVSWRpVlp1ZkM5bGo0cXlCckQ3Sm5yMFU5bGZ2ZFZRWFJ5VlRjRFhkb2RpT2dPR1lHWi1XeTIzeUg1aXJub3ZYMUVjb1JHOGlXXy1XZXlNUdIBwgFBVV95cUxNVWQ4eE1mREtGS2NnMGlWTWk4YTN4ejJaLTNKVHZOVVNOZU0tMmtFbGZIMEdTdjNYTGlUOHZUV3pVOUNpcURSQTF5SExqY3A5UTR0aVlfU0g0bmdWZ1pfamhUQXBKdThSSmk0T2NBcEk1Q1JVSWRpVlp1ZkM5bGo0cXlCckQ3Sm5yMFU5bGZ2ZFZRWFJ5VlRjRFhkb2RpT2dPR1lHWi1XeTIzeUg1aXJub3ZYMUVjb1JHOGlXXy1XZXlNUQ?oc=5",
    "time": "2026-10-24T02:59:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Eurasia Review",
-   "title": "ASEAN’s Haze Accountability Challenge – OpEd",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUJuNU80OVBhdmsxbDhRbDlSdXlLN1ZNQmJaa25sUnJYVHM5TklUUU54SmFhUjVDSFlKWkdzd0JXMjVjT1NrdW1WZGo5TUQzMUVOZks1VFljbkFOQ2RBMG9BaXVYSk9NSkF2S3paeUJHR3QzWldSVWlFaFBrV1V4RGFvQ1JlNFd1?oc=5",
-   "time": "2026-10-24T01:37:33+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ANTARA News",
-   "title": "Indonesia urges residents to avoid outdoor activities amid haze",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQTBEcGtPVUIyeHlidjByTVJpTU1HbFFSZEhNN1VZMEtNdzNTQlFoSl9sT2xmVEk0VFNRa20yMkZLY2ZlMGZnTV9aajdPM1BGZmVRX0VVZTV1SmJFQUNPUUVEVjRYdHdzY1ZmT3ktSm1wMnZQQldHZUFCV3QyekQ4S0MwYTJFeVJtZmtVMUJGWjN5SllsdVhoWlp6ZDlFRE1kbFFUTW1Fc2PSAagBQVVfeXFMT0EwRHBrT1VCMnh5YnYwck1SaU1NR2xRUmRITTdVWTBLTXczU0JRaEpfbE9sZlRJNFRTUWttMjJGS2NmZTBmZ01fWmo3TzNQRmZlUV9FVWU1dUpiRUFDT1FFRFY0WHR3c2NWZk95LUptcDJ2UEJXR2VBQld0MnpEOEtDMGEyRXlSbWZrVTFCRlozeUpZbHVYaFpaemQ5RURNZGxRVE1tRXNj?oc=5",
-   "time": "2026-10-24T00:31:10+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Peninsula Qatar",
-   "title": "Singapore investigates domestic firms linked to Indonesian forest fires and haze",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORWRJOFRtTDdTS3MzX1QtY3Z6NS00QkZHdFdQVmx4MkkwMVpKXzFWRHNza1ZaLWhodGVkNlVxVmlmWkhGRTVYZk8wZVdoV2VQN2lVNmd6a05waTExaVlvSndsV2JXeE4zMVZXS3Q0LUxuMk1jbkI5VVQxcGhlb215UlhjczMwMUw4RXRyZWhSNk9Va3JBVG5YV2NQaGw3ZXlKeFFna2RqMmR2N0ZIUnp5VVl3Y3hVa3dLMUQxbmt4cHdmRzUtUkJQSA?oc=5",
-   "time": "2026-10-24T00:02:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality in west and central hits unhealthy range as PM2.5 readings rise islandwide",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Fa0M5eEJxRllMNjVpb0prZUNITjVSS3NhcktGN0RMSENjVUlnOTJ6VFdTaTUzc3Z0UGZqT01pQzI2eUdwUFplYkdRblp6MXdqSEloZ3JRWFNZeWJ3TDZyMHFWRU51LUxYQ2c0RnhZeDN3R3VINm5FYmRR?oc=5",
-   "time": "2026-10-23T23:36:07+08:00",
    "summary": ""
   }
  ]
