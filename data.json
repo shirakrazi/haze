@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-25T06:00:00+08:00",
+ "updated": "2026-10-25T07:00:00+08:00",
  "psi": {
-  "west": 142,
+  "west": 140,
   "east": 112,
-  "central": 116,
-  "south": 105,
-  "north": 112
+  "central": 115,
+  "south": 104,
+  "north": 111
  },
  "pm25": {
-  "west": 78,
-  "east": 68,
-  "central": 70,
-  "south": 58,
-  "north": 68
+  "west": 62,
+  "east": 61,
+  "central": 54,
+  "south": 44,
+  "north": 55
  },
  "hist": [
-  {
-   "t": "2026-10-23T05:00:00+08:00",
-   "psi": {
-    "west": 88,
-    "east": 72,
-    "central": 79,
-    "south": 69,
-    "north": 69
-   }
-  },
   {
    "t": "2026-10-23T06:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 105,
     "north": 112
    }
+  },
+  {
+   "t": "2026-10-25T07:00:00+08:00",
+   "psi": {
+    "west": 140,
+    "east": 112,
+    "central": 115,
+    "south": 104,
+    "north": 111
+   }
   }
  ],
- "newsUpdated": "2026-10-25T06:07:13+08:00",
+ "newsUpdated": "2026-10-25T07:06:58+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,31 @@
    "pinned": true
   },
   {
+   "source": "DollarsAndSense.sg",
+   "title": "7 SGX-Listed Palm Oil Companies In Focus As Haze Highlights Why Corporate Governance Matters Beyond Profits",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRnFVSHRsYlpFSnRDWjlmQ1M1MUVUMVZpOFd3ZWVUMEpROHRPZUI2UnlUUDF4cm04Y0tiT0RzY0RUUkFUdzE5NU80MlN3dF9xLW8xNzRRTTJybFdlczdOLXljNnpFaTgyMFJ6TmlTTW1kV2t3WEdvWm02emstMlNRLW5SaDU4LThqb2NR?oc=5",
+   "time": "2026-10-25T07:03:07+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality unhealthy, PM2.5 readings elevated across country",
+   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-air-quality-unhealthy-pm25-readings-elevated-across-country-6489876",
+   "time": "2026-10-25T06:59:54+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Is indoor air safer? 7 things to know and ways to stay protected in this prolonged haze season",
    "url": "https://www.channelnewsasia.com/cna-insider/insider/haze-indoor-air-expired-n95-masks-air-purifiers-protect-6488636",
    "time": "2026-10-25T06:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Malaysian Reserve",
+   "title": "Singapore expands haze investigation to 10 locally based firms",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEFDbUdQWXp2d2pybnJ5YjkydkpTWlpqT1daUDd1MHQ3cWJaUlNjUWE5WktqMUlWMkZIbnRSOS00UEhQQXl2TzJBQW56MEx5d1BiWDJCREpnUUxNdm0zdmRRZ3VxT29UMV83WGRnNjhIaW94UXBtalNoSFdycHJXM1JqRkxmbmRCRjNad3BZYlFZSy1wSzgyQVpvWmRYTzFpQ1RVd1l0RXRBQQ?oc=5",
+   "time": "2026-10-25T04:46:17+08:00",
    "summary": ""
   },
   {
@@ -556,13 +577,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Haze worsens overnight as air quality turns unhealthy across Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83UkFkLTJzVVN5QW4yc0g3V184LUEwR1N2OUlhb0RfMnVUb3BJTmEtS2ZteUpUSkJzOUJiR3llUHR0ZllTX1pNTHhXRkRTc3dpaVNRcVd1TUpDUHNHMTlQMjFaLU84aUw3WnU0azVUYklRZGs3YmVqdm1B?oc=5",
-   "time": "2026-10-24T21:33:46+08:00",
-   "summary": ""
-  },
-  {
    "source": "Post Register",
    "title": "Indonesia Haze",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOamU1YkpsbWVDdFB4LUZOaklZdVE4NWxfcDBaZGdxVHJxQzFWOFREVlFzMGdrbDR1QVo3bnE3R2w4X3BIR1o1ZmhKVXlyVmRvRmVCNWtvN0NiRC0wbjg5Q1FhaEVhNktlc3V6RGRTaC1XamphMXZEZlY4a3Y0N1lYeGlKR1ZpelFuemFXUmUwTjBnVWpvcElYNjNmS29fQzI3TTFhVQ?oc=5",
@@ -581,20 +595,6 @@
    "title": "Singapore Haze Hits Tour Bookings as Air Quality Worsens",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZG5JV3dYNjdRMHlKXy03QzNHMHBzbHEtMW9hWGdKbWJhTmk3VjF4Sm56akUwRUxkRlJTTEMtY181Mi1DaFRaQ0paQ051MFduZ3lrYmNnWDVMSkxCbl9fRUpFZ3FSZzk4cmlPdjUwb2JERDUtTC1YQnU5M0g2dTFNZXpNSWE3TFlyMVBpVzNvR08?oc=5",
    "time": "2026-10-24T20:12:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Korea Times",
-   "title": "'How is it possible?': Students protest Indonesian haze",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRWVBQ0M3ek9RdDRQOGRJRDNuRGdOcFNxQm9sT1RaLW1DRnVlQUJveE5fVC1KSzhOTkpKajZjXzFPU3VGWjdnakZJRUlWZzkyVkJ6dGpQUjZQUkdHWlNvQzRGZkdYMUh2amdYb2JiS3RNaENqOFdDT1dqT2REUW5BZU93cC14YjhTSVlrQlJtOVUtR29tbVRORi1lRmxjbDVh0gGgAUFVX3lxTFBFZUFDQzd6T1F0NFA4ZElEM25EZ05wU3FCb2xPVFotbUNGdWVBQm94Tl9ULUpLOE5OSkpqNmNfMU9TdUZaN2dqRklFSVZnOTJWQnp0alBSNlBSR0daU29DNEZmR1gxSHZqZ1hvYmJLdE1oQ2o4V0NPV2pPZERRbkFlT3dwLXhiOFNJWWtCUm05VS1Hb21tVE5GLWVGbGNsNWE?oc=5",
-   "time": "2026-10-24T19:42:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Magzter",
-   "title": "NEA issues legal notices under haze law to 10 S’pore-based firms | The Straits Times - newspaper",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEd5S3RHTk9vNlNEd3ltdW5ncUhKbm1ZbGdfb0x6cXdxeFZoUW95cWF3aVZWdnJ0RlNvWGJSUjBMMmRhUTM2Z2Z4alZyX1BCYWo5ci1pc0gxNk1rdDdTVmV6aVV4WFdCbUpkLWl6QmZOUTdOZzFTT1Foc2lJSXZlMkYzZFliUWRQVmx3dXFrSEN6Z3ZXX0h6eFFZamNDUzFrVHk2TnJ5ZUl6VW44Y0w2czc1Y1F1aDJ2d1U1bjF0Zw?oc=5",
-   "time": "2026-10-24T19:25:49+08:00",
    "summary": ""
   }
  ]
