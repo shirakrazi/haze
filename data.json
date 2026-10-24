@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-24T15:00:00+08:00",
+ "updated": "2026-10-24T16:00:00+08:00",
  "psi": {
-  "west": 152,
-  "east": 118,
-  "central": 135,
-  "south": 111,
-  "north": 123
+  "west": 151,
+  "east": 116,
+  "central": 132,
+  "south": 110,
+  "north": 121
  },
  "pm25": {
-  "west": 76,
-  "east": 53,
-  "central": 64,
-  "south": 37,
-  "north": 49
+  "west": 93,
+  "east": 52,
+  "central": 49,
+  "south": 38,
+  "north": 39
  },
  "hist": [
-  {
-   "t": "2026-10-22T14:00:00+08:00",
-   "psi": {
-    "west": 101,
-    "east": 77,
-    "central": 88,
-    "south": 78,
-    "north": 72
-   }
-  },
   {
    "t": "2026-10-22T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 111,
     "north": 123
    }
+  },
+  {
+   "t": "2026-10-24T16:00:00+08:00",
+   "psi": {
+    "west": 151,
+    "east": 116,
+    "central": 132,
+    "south": 110,
+    "north": 121
+   }
   }
  ],
- "newsUpdated": "2026-10-24T15:07:53+08:00",
+ "newsUpdated": "2026-10-24T16:08:46+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Latest news from Azerbaijan",
+   "title": "Haze drives air quality down across Singapore",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zekhZVjFOSk96UUpyaFMxMS05dmtIVmpPREZRcDQzdGhBYVoyZ09BRnctWERURG9MdkswbXlXX3phTjN0NnBZcEtIS2YyOUY1TmtLa1hiUzVBaWFZQmhjS1M1d1dkWXhtdE1oa0lNc0lYYVRm?oc=5",
+   "time": "2026-10-24T15:50:30+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Haze: Malaysia ready to seek Gulf assistance to help Indonesia fight forest fires",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXlLamdhS0gtNHJsVE9RdVJEZnlLcDdGZjZVc2JsVlpWWjE4ZGlIUWZHR3YxN0w1UUI0RFdVRHJrY0w4TENNbnpwTW9TNGNCYXAzS3F1WHZYNmNLc0tONlI2UG5LUE9VclBKRlFzVFZoT3hxMmllcWtUSTZyVV9PTWNEREFtY1hMNmpPeG9aQk9RcXM4Z19TMTVnVU9hdjRKZVdsbVdEMHl3TzVSTXhPTmN1bHp6bVBtMlROdHRvTUfSAcABQVVfeXFMT1F5S2pnYUtILTRybFRPUXVSRGZ5S3A3RmY2VXNibFZaVloxOGRpSFFmR0d2MTdMNVFCNERXVURya2NMOExDTW56cE1vUzRjQmFwM0txdVh2WDZjS3NLTjZSNlBuS1BPVXJQSkZRc1RWaE94cTJpZXFrVEk2clVfT01jRERBbWNYTDZqT3hvWkJPUXFzOGdfUzE1Z1VPYXY0SmVXbG1XRDB5d081Uk14T05jdWx6em1QbTJUTnR0b01H?oc=5",
+   "time": "2026-10-24T14:04:02+08:00",
+   "summary": ""
   },
   {
    "source": "Malay Mail",
@@ -521,6 +535,20 @@
    "summary": ""
   },
   {
+   "source": "The Straits Times",
+   "title": "‘How is it possible?’: Students in Kalimantan protest against Indonesian haze",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakREcEp3QmtQQjByb2M5TmhQbUVMNkpRV2ZuV0YxVDViMzJLTGROeHNjTE1sLWwxd3BDU2hHVHFhY1JFbi1lekRKVmpweVU3MFAwRXdTemJ3b21vaXZuU0VfWWlRWk5oY2ZreWhnV0huTTZsVkk3U1BaNGVwR2ZzaWc1Wm9wU3pTQ3dJZEEwR3RTaFFwWVd6Tk9IeGNJVDRLV3JaS2h4MHlMNGZfOTBYNmI0VkFRU1hfbGU4amNKclFrdDdjSWR3?oc=5",
+   "time": "2026-10-24T13:35:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "'How is it possible?': Students protest Indonesian haze",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzNJYjlnSmo4cHNsQnNhMkI5MHcySXlWOVJKSDhER3o3bmNUODhfNEVaNTU5T1hLU09TTnRrcmtYOWxUSWFYckR2Y1F1QllPbDY2Um95ZU91bGNkTkw5NmoyVjlKZGIxdWdWSllxc0o1blhkOFpLLXk5YW9aNzF1UC1QNUdrdVlZRVZpUWljWGppYV9TY3hXSlhMQjlzY1B2OTVsVUQta9IBpwFBVV95cUxPUzNJYjlnSmo4cHNsQnNhMkI5MHcySXlWOVJKSDhER3o3bmNUODhfNEVaNTU5T1hLU09TTnRrcmtYOWxUSWFYckR2Y1F1QllPbDY2Um95ZU91bGNkTkw5NmoyVjlKZGIxdWdWSllxc0o1blhkOFpLLXk5YW9aNzF1UC1QNUdrdVlZRVZpUWljWGppYV9TY3hXSlhMQjlzY1B2OTVsVUQtaw?oc=5",
+   "time": "2026-10-24T13:10:10+08:00",
+   "summary": ""
+  },
+  {
    "source": "Free Malaysia Today",
    "title": "Students protest haze in Indonesia’s Palangkaraya",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3hENWpqVlF0S2xzQ05GalBNUE84RnZDUmVLOXo4QkJaSlRmTmpnZjhKajZWSC1Xb212VEVNeHJ0RjRfaklNM2VXaVpseF9ENjRwSVJfSmRGZGNpUWN6Um44UHpjckpPeHpPbS12Mms0V3g2RjNVRVloTk9sLWl4TW5FMEw1eUhhQ29sMUtPRUF5Y1NMcFY4VXlyMU0?oc=5",
@@ -532,13 +560,6 @@
    "title": "Singapore Air Quality Deteriorates As Haze Spreads From Indonesia",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEsxSGo2R3NfTkRSN1NscHdrT1NPYnB0RkFJbFRzRFR1Q0o5d3Fob2liSF9TOVdQZDZiSkFCaUZGbG1zX2tfLXVMMVV2T2FpZ1UzS2d0U1hCblZpOEttVWp4TDBfMjBnWGlDdXEtWTlJLTBxcE1YNWlLUU5XazNYd2tfb1luNW4tMzhTXzRvZFNhc2Y2MDcwUHEtY2FZLWh3bDdvdF9pUnVjYUxHQmtz?oc=5",
    "time": "2026-10-24T12:51:55+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Arab News PK",
-   "title": "‘How is it possible?’: Students protest Indonesian haze",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZlNKZWFjYVQ3RDdvSlQxZWJCTnR0Z0IwTlBZRWdrUkhPRlRGTDBCUFhoUUU2SDlpb2w3YjNqUVpWVjdNeEoyXzZMU3dlZjA2eHRqUkhNYTJXcjNZVEFZbFJ3a1Y2SjRvNjB4NnQxOC1yWHFoRFQyejNhNkNNalhrbEZ5Sm1tQTQwYllSN2NkMjk2QlU?oc=5",
-   "time": "2026-10-24T12:42:41+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "Hazy start to the weekend as PSI reaches unhealthy levels in Singapore; thundery showers expected later",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrTXhiRVlvRi1kcnpoRWdic3RUcTBFdTlGNFZCaVk4VzRtblNzRnM1Z1RHbnFUSWZzT2NpNUFvd2JrWWFCejVzV2dmVTlISUZHT3BqNVJhb2FxdGZQVS1YZjM4YXJfYjRDSTIwZkNmNm0?oc=5",
    "time": "2026-10-24T10:50:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Haze creeps back: Seremban and Johor's Larkin log highest API readings at 169, Malaysia News",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzZKRERfZjFkdkk3VzlpeDhPWWFMZTJlTEV2Ul9QVkZJRkd1Q0JSUEd1MkhQaHpQM0JxeDlodlFFZ3htTGZ1NFFLYVpHQnktdzliV2htdElLWm5WY3VxV2N0RDVHd0c4cWRnS2s4U1VqYWx0ekp3cnNsaUZoMWtPNlBkV1ZrTnNFTmhmbk1vRjc4cWhEYThRY2tXUGlqa2xBMmkxb1VvY00?oc=5",
-   "time": "2026-10-24T10:38:44+08:00",
-   "summary": ""
-  },
-  {
-   "source": "毎日新聞",
-   "title": "Southeast Asia's worst haze in over a decade sparks student protests",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51clF3VWtNYnBneWNZeGVUcDRMUHhJX0tJT2lncGF0Z3NiNGxpMGR6aFFfM2YxRHBDSDFzYmtfR1A5SFZDc3FFenB1N3lpZEw4MjBWZi1PVEZsR2U0OTV2UTZtX3Q3aGhNTHF3MDh5WU5ndw?oc=5",
-   "time": "2026-10-24T10:34:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze: Unhealthy API in 19 areas nationwide as of 10am",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTVUwQlc3djFMMnFBdmVUdC1SdWNKbW0tbzRUcnVURU51MHIxVEtpclB6ODUwc3JMOEpHbjh0UW1jLVh1TU9yM2NaeGw3cGhDT2RCYjJMZllaVFU5d2x4bE9QMjlJYmhxOVVJbWtpVkgwVXg3QVdzQUFyYjRtd2xiQV9pTnZZVGlzYUdfWE9jQ2RHSFpFYVdJUFR0NEo1ODAwaDU1Vw?oc=5",
-   "time": "2026-10-24T10:33:00+08:00",
    "summary": ""
   }
  ]
