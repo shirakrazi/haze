@@ -496,7 +496,7 @@
    }
   }
  ],
- "newsUpdated": "2026-10-25T07:06:58+08:00",
+ "newsUpdated": "2026-10-25T07:43:56+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,24 @@
    "pinned": true
   },
   {
+   "source": "The Straits Times",
+   "title": "Haze in Singapore: Air quality improves as PM2.5 readings in 3 regions return to ‘normal’",
+   "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-improves-as-pm2-5-readings-in-3-regions-return-to-normal",
+   "time": "2026-10-25T07:14:52+08:00",
+   "summary": ""
+  },
+  {
    "source": "DollarsAndSense.sg",
    "title": "7 SGX-Listed Palm Oil Companies In Focus As Haze Highlights Why Corporate Governance Matters Beyond Profits",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRnFVSHRsYlpFSnRDWjlmQ1M1MUVUMVZpOFd3ZWVUMEpROHRPZUI2UnlUUDF4cm04Y0tiT0RzY0RUUkFUdzE5NU80MlN3dF9xLW8xNzRRTTJybFdlczdOLXljNnpFaTgyMFJ6TmlTTW1kV2t3WEdvWm02emstMlNRLW5SaDU4LThqb2NR?oc=5",
-   "time": "2026-10-25T07:03:07+08:00",
+   "time": "2026-10-25T07:03:45+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Borneo Bulletin",
+   "title": "Five Singapore firms cooperate in haze probe",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2VBVDB5LUxRSTVUM3NxbGZHb25CWUYyUm1WaFVfTGFERkFyS2trNlRYNV9KMVlxbVdqUjFnUWtBR0pLUW41R2tUbHYyWS1NR2tQbi00dVJkaUpiMUNZYTMzbHZMMUF4Uk15a3Vmd05qem9rbDllcWw2eUYzQ3VrWg?oc=5",
+   "time": "2026-10-25T07:03:24+08:00",
    "summary": ""
   },
   {
@@ -518,6 +532,13 @@
    "title": "Singapore haze: Air quality unhealthy, PM2.5 readings elevated across country",
    "url": "https://www.channelnewsasia.com/singapore/singapore-haze-air-quality-unhealthy-pm25-readings-elevated-across-country-6489876",
    "time": "2026-10-25T06:59:54+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality unhealthy across country; PM2.5 readings elevated in two regions",
+   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-air-quality-unhealthy-across-country-pm25-readings-elevated-in-two-regions-6489876",
+   "time": "2026-10-25T06:59:00+08:00",
    "summary": ""
   },
   {
@@ -563,13 +584,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore's tap water safe to drink despite haze, says Grace Fu",
-   "url": "https://www.channelnewsasia.com/singapore/tap-water-safe-drink-haze-6488996",
-   "time": "2026-10-24T22:39:37+08:00",
-   "summary": ""
-  },
-  {
    "source": "Eurasia Business News",
    "title": "Indonesia Cuts Gas Exports to Singapore as Domestic Demand and Haze Tensions Rise",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXZRbFdFN2NxZ0NXOFUyOENkWmVVZnRDY3hWejYwTENjU3lMNkpnZHdnZEMyMXNMTHBZZ1l2TEJfWjRTNldEcGJLeE1Gc1E4bDc2M0x2U2w3RVRnWE1GazhHcGhsM1l2bEtDak1YV2JSRVpWX0RueUU1cVZZOXNsQXZyenNPekxFQlVzWm0tMzlDaDdnR2IzQXhWNFpWOUNmOTJ3MTFhQ3I2RktrQU5aNWc5MEVMd0I5TVYtTkhVbVV0bG8?oc=5",
@@ -581,20 +595,6 @@
    "title": "Indonesia Haze",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOamU1YkpsbWVDdFB4LUZOaklZdVE4NWxfcDBaZGdxVHJxQzFWOFREVlFzMGdrbDR1QVo3bnE3R2w4X3BIR1o1ZmhKVXlyVmRvRmVCNWtvN0NiRC0wbjg5Q1FhaEVhNktlc3V6RGRTaC1XamphMXZEZlY4a3Y0N1lYeGlKR1ZpelFuemFXUmUwTjBnVWpvcElYNjNmS29fQzI3TTFhVQ?oc=5",
    "time": "2026-10-24T20:27:50+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Cambodianess",
-   "title": "ASEAN Has Had 24 Years to Stop the Haze. What Is It Waiting For?",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVWlJRGxrQ21IcElrUDdMVFFocFBfR0oyWWUtZ3VFZ3dWOGF3SzhzNXpTb28xNm96S3h5YWFWRmVJcEhKajkwQmc5VU5KaWY5ODBaXzdSWFFEdVJvNFNUOExJT1M4MThvbF9iNzJ1VTYycTZlVFB0NFo2RktPUF9vMzRVTFExTGw0ak15RzNUaHZlTHlqdGcwMHhPTQ?oc=5",
-   "time": "2026-10-24T20:19:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "FTN news",
-   "title": "Singapore Haze Hits Tour Bookings as Air Quality Worsens",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZG5JV3dYNjdRMHlKXy03QzNHMHBzbHEtMW9hWGdKbWJhTmk3VjF4Sm56akUwRUxkRlJTTEMtY181Mi1DaFRaQ0paQ051MFduZ3lrYmNnWDVMSkxCbl9fRUpFZ3FSZzk4cmlPdjUwb2JERDUtTC1YQnU5M0g2dTFNZXpNSWE3TFlyMVBpVzNvR08?oc=5",
-   "time": "2026-10-24T20:12:02+08:00",
    "summary": ""
   }
  ]
