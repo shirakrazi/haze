@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-24T13:00:00+08:00",
+ "updated": "2026-10-24T14:00:00+08:00",
  "psi": {
   "west": 153,
-  "east": 120,
-  "central": 139,
-  "south": 114,
-  "north": 126
+  "east": 119,
+  "central": 137,
+  "south": 113,
+  "north": 125
  },
  "pm25": {
-  "west": 98,
-  "east": 51,
-  "central": 51,
-  "south": 38,
-  "north": 71
+  "west": 88,
+  "east": 56,
+  "central": 53,
+  "south": 52,
+  "north": 65
  },
  "hist": [
-  {
-   "t": "2026-10-22T12:00:00+08:00",
-   "psi": {
-    "west": 103,
-    "east": 79,
-    "central": 90,
-    "south": 80,
-    "north": 72
-   }
-  },
   {
    "t": "2026-10-22T13:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 114,
     "north": 126
    }
+  },
+  {
+   "t": "2026-10-24T14:00:00+08:00",
+   "psi": {
+    "west": 153,
+    "east": 119,
+    "central": 137,
+    "south": 113,
+    "north": 125
+   }
   }
  ],
- "newsUpdated": "2026-10-24T13:07:12+08:00",
+ "newsUpdated": "2026-10-24T14:07:20+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,24 @@
    "pinned": true
   },
   {
+   "source": "The Straits Times",
+   "title": "‘How is it possible?’: Students in Kalimantan protest Indonesian haze",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdE91M0lsTmRLbnpmamowSXFUdmFXVWxTN3h1OUVINVpJYlhpSWZzUU9zbm5KNktOUF93X3V1QkZpNEttM1o2TlRFUGJDVFlQcFJuUkVOcjRoWDBuTTctVlI2YldIaU4zd29wREkzdTZ5TWo1RTRNTmxnd3BJM2FHbDR6b1N3Zi05U0J5ZjNPbUEzZ196Ry1DdnFyb1dRUEJPTEdmbjJkeDQ4VTg?oc=5",
+   "time": "2026-10-24T13:35:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "Free Malaysia Today",
    "title": "Students protest haze in Indonesia’s Palangkaraya",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3hENWpqVlF0S2xzQ05GalBNUE84RnZDUmVLOXo4QkJaSlRmTmpnZjhKajZWSC1Xb212VEVNeHJ0RjRfaklNM2VXaVpseF9ENjRwSVJfSmRGZGNpUWN6Um44UHpjckpPeHpPbS12Mms0V3g2RjNVRVloTk9sLWl4TW5FMEw1eUhhQ29sMUtPRUF5Y1NMcFY4VXlyMU0?oc=5",
    "time": "2026-10-24T12:57:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Arab News PK",
+   "title": "‘How is it possible?’: Students protest Indonesian haze",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZlNKZWFjYVQ3RDdvSlQxZWJCTnR0Z0IwTlBZRWdrUkhPRlRGTDBCUFhoUUU2SDlpb2w3YjNqUVpWVjdNeEoyXzZMU3dlZjA2eHRqUkhNYTJXcjNZVEFZbFJ3a1Y2SjRvNjB4NnQxOC1yWHFoRFQyejNhNkNNalhrbEZ5Sm1tQTQwYllSN2NkMjk2QlU?oc=5",
+   "time": "2026-10-24T12:42:41+08:00",
    "summary": ""
   },
   {
@@ -563,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "The Star",
+   "title": "Haze: Unhealthy API in 19 areas nationwide as of 10am",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTVUwQlc3djFMMnFBdmVUdC1SdWNKbW0tbzRUcnVURU51MHIxVEtpclB6ODUwc3JMOEpHbjh0UW1jLVh1TU9yM2NaeGw3cGhDT2RCYjJMZllaVFU5d2x4bE9QMjlJYmhxOVVJbWtpVkgwVXg3QVdzQUFyYjRtd2xiQV9pTnZZVGlzYUdfWE9jQ2RHSFpFYVdJUFR0NEo1ODAwaDU1Vw?oc=5",
+   "time": "2026-10-24T10:33:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Edge Malaysia",
    "title": "Singapore issues notices to 10 local firms over possible links to transboundary haze",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qQ2dtNDlPWjFFX2taSENYcDF5dmYtMWtfal9XRkZ0UW9GalZxcXR0clN0S1FiWGZXbDQ1dm9WUTJLU0FtNzNneWw0WndtWmdu?oc=5",
@@ -574,27 +595,6 @@
    "title": "Visitors mask up, change plans amid the haze; some tour operators see dip in bookings",
    "url": "https://www.straitstimes.com/singapore/visitors-mask-up-change-plans-amid-the-haze-some-tour-operators-see-dip-in-bookings",
    "time": "2026-10-24T10:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Singapore turns to its own palm oil and forestry firms in Indonesia as South-east Asian haze probe grows",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTU5XckU2NlBtWE5mQVRlM1R1SjNLWW5sWHZBUC1HbHAxLVdhcVl3N3JMam5CcDduV0swYW9kQlNjMTcwU3h2MDc0cEtDTkZqMFRlTnRId0tabEZRZ0xPcHZ4MlM1Ulg4WXBsSEYyNHBrbDE1cFdfQnhDdzlzbWNfOTRfeklPdjZQemZ5M0JqQmZwMmw5endDUFdVUE5jVWJDbmtBSUZmRkVUdG10QUxXdmhpQTZZanpDcDUxNThUdVM0MWNoTmYxLU01UWdUWHpVTGVLT0JoNWZQMmJIdUZnX2JBaTk0UGd6bnljQnJtaGx6Y2FTdmfSAfsBQVVfeXFMUHNXLTJoRWpIb0ZsS1dJT1poVnNfdVlycmxpZlFjRU4zLVdPRWF1VEZhcWZjWDVOVlNaR1Y4U2hRUVRYTXpGbnZpaFpqeWxGU0xsTWhVeERVamRGbkxDVU1XVTBiZWdRbGoxU3VJZ3RWUGlCMjJVMW1ENWpnUldHMDVIWmpXWHpMN3dxUVNQaUhtR0x4RkJjalF6YkdNcDVVd3hpOFpkN0JmdE5HQ1JQaThvbVhXa0dfNmRFQ1JXZUhiYjRxc25Mb1R1NTl6ZFhrSmV3Wm5BUDgtenlqaWlKTW1DeXlIZmhwXzF5SElzaUxGeVFHSm5vQnp4dmc?oc=5",
-   "time": "2026-10-24T09:48:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "NEA issues notices to 10 Singapore-based firms for first time under haze law",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2k2akhmcVVfdzVKZmJ4ajlmNldZaW9uYVhURmNPM0FhWFZ3VnB3X3VkalJEdEZVUGlkbmJCUk1obEVQUGxDa3NlV0hoNUxIUU1oXy1xTS0yVUd0M3Q1UHNPbTJwZGEzX1B3M3YzNkVCby0ybkN4enpTQTVVTEVudFFLZjgxeXZ6MDVZRlo2ZGp3YS1XWUY4dUdjYTBSejZqa3c?oc=5",
-   "time": "2026-10-24T09:13:57+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze: Expedite enactment of comprehensive Clean Air Act, says Lee Lam Thye",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMFFidTJLdERvb3REakF6d1hXYXVYdHhtSkNwOHRabjg1RElKMGpMR3dqMzZhVWdhZUt5bFJqdHB0b0FXaDRaM3BQSWp5enp2amhNU21TYnByZ0hYMVh0WTBBSlVoYWpfdXdGVmJpVko5TFVRNEg3WFBEc2FhWFUxeURJaTVjc2plQVNfMlNpWVZWMEwyN05SbnNsdHJ1dGpzOENTMU1lNi1CWEJQR1lmSEpDRGhJY0VvVmJfWExidw?oc=5",
-   "time": "2026-10-24T08:46:00+08:00",
    "summary": ""
   }
  ]
