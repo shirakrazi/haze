@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-24T18:00:00+08:00",
+ "updated": "2026-10-24T19:00:00+08:00",
  "psi": {
-  "west": 151,
+  "west": 152,
   "east": 114,
-  "central": 127,
-  "south": 109,
-  "north": 116
+  "central": 126,
+  "south": 108,
+  "north": 115
  },
  "pm25": {
-  "west": 93,
-  "east": 58,
-  "central": 52,
-  "south": 88,
-  "north": 37
+  "west": 94,
+  "east": 67,
+  "central": 72,
+  "south": 59,
+  "north": 49
  },
  "hist": [
-  {
-   "t": "2026-10-22T18:00:00+08:00",
-   "psi": {
-    "west": 94,
-    "east": 74,
-    "central": 83,
-    "south": 73,
-    "north": 71
-   }
-  },
   {
    "t": "2026-10-22T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 109,
     "north": 116
    }
+  },
+  {
+   "t": "2026-10-24T19:00:00+08:00",
+   "psi": {
+    "west": 152,
+    "east": 114,
+    "central": 126,
+    "south": 108,
+    "north": 115
+   }
   }
  ],
- "newsUpdated": "2026-10-24T18:07:06+08:00",
+ "newsUpdated": "2026-10-24T19:07:42+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Mothership",
+   "title": "5 of 10 S'pore-based firms served legal notices over haze links say they will cooperate with NEA",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UbU04X25XU0xYNDc1SC1weXYxWDZVTkJ3RERnUmhmWGdZdnozZkF5SmpBbWxXSl81Z19XSmR5UWl2M2E4SGI1WjVLeXNMak5Ic25sdktjMklBUDFVRjFOYm5CdjN0NXhKOHZGTV9nM2VUVHhPSFdKTg?oc=5",
+   "time": "2026-10-24T19:05:26+08:00",
+   "summary": ""
+  },
+  {
+   "source": "East Asia Forum",
+   "title": "Can ASEAN enforce its way out of the haze crisis?",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUFNRUWRnbnNXRjlfSE1jakVkNzlmMG5JSm4tV0htZTZLUFhzMS1waFNGVGtRUUt5ZFBtOUpPa00wUHNLMG9lNk5ITW5NTGJVOVRrZ1M3YUZValdPcnVkQzhyNmR1RUFFQmFNYTd4YVZCbXozQTd1Q0k3Vnk4SE5saTROdEJzcFVpSVV2b1NSaw?oc=5",
+   "time": "2026-10-24T19:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "EWTN News",
+   "title": "Franciscans call for solidarity as haze from Indonesian fires blankets Southeast Asia",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWV6ZjBMX3NQcjlYYVJDYnZNYU16cldxMUJTR1l0aWVGeWRtWlZrSWtoeU43Y051cjVENUdDQm90eVpQcGVDQ3c4NEgxWXJENXcxOThIVzRtbW4zWVRPNEt6VkNRazdMMUpuSE05NEdrQ043c0xzNEFpcmNSTlBTNXdkZXBiUzVhbThwUXZ2NkVsV2htVHpBTzFrU25oQXV5QzBCYzBnVGt1Y01yU3hlMGh5dV9iaHBld25QeEdnR2o1TlR1dTZXaQ?oc=5",
+   "time": "2026-10-24T19:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Focus Malaysia",
+   "title": "NEA serves haze notices on 20 companies over Indonesian fires",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb2ZyUUhnVV85cll3WTAzTnUwcnU2RkxqazlaQjRFU09PdHFOWkpiUjZjVzU2VUFtTTZjTmtiLU1aS1lNYUpNT0lVWU12Yk0tYmhqaUhraFJkZnc3TnZ1bjRGVFZsLU9iSjYyVjVYMFZteTFlX3NSSG4tZUt5NzliX1Y4LXZLV1g1YmowdThXb2M?oc=5",
+   "time": "2026-10-24T18:25:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Three Singapore-registered companies say they will comply with NEA's haze notices",
+   "url": "https://www.channelnewsasia.com/singapore/nea-bumitama-agri-first-resources-wilmar-international-haze-6488716",
+   "time": "2026-10-24T18:09:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -518,6 +553,13 @@
    "title": "Who protects workers from the haze?",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd0p3QTJGY09jU3U3OHJLTXlLMnJQWW5LNGNhYjJKYjFmbXBsTk1iLWUyVHJXZXBwaW1GZXFKYTV1VDJtNlg0TGlPSFpZY2FmNXc4MDFaR2RkVEZzSllBd19TNWw5aFlyLWl6bGVDWW55Z1JUSENId041RTJ0aXNNc2dLaw?oc=5",
    "time": "2026-10-24T17:34:11+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Johor schools to reopen on Monday as haze improves",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDBOZVlVMXdDYy1VMXZGWXNwQjFOdFZBWFlEcDNLQ3VNbndacWFCVnd3Nk9uYkNpeW82S2NMQ2ZaOHVId1BESGVRd2F2NENDaGt6MHdMcXpHczBIRnlISzdPeDlMM3h1OUJ3clZ1VmRzUFlZZDNMc1h1YWVlODZ1aWhjdEYxOFQ4cGZhQmIyOHdyQkZDUTdma21IcGpyWEnSAZ8BQVVfeXFMUFgwTmVZVTF3Q2MtVTF2RllzcEIxTnRWQVhZRHAzS0N1TW53WnFhQlZ3dzZPbmJDaXlvNktjTENmWjh1SHdQREhlUXdhdjRDQ2hrejB3THF6R3MwSEZ5SEs3T3g5TDN4dTlCd3JWdVZkc1BZWWQzTHNYdWFlZTg2dWloY3RGMThUOHBmYUJiMjh3ckJGQ1E3ZmttSHBqclhJ?oc=5",
+   "time": "2026-10-24T17:22:09+08:00",
    "summary": ""
   },
   {
@@ -553,48 +595,6 @@
    "title": "Johor schools to reopen on Monday as haze situation improves",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5panhGNjFheU96SDFhYXZ5Z0dYc2JzQmEwR3dCcnZRNjZSbmZzTEpQV3dqTTBwcTkzakViOHdZRXN6MEtDQmdNeFVzT3JZMzho?oc=5",
    "time": "2026-10-24T16:46:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Haze spreads to five Sarawak spots while Klang Valley air improves slightly",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY0N5cUZldEhmdFI3MUpEWGxvNlVGdDQ5dkV5N0xweHF6YVN6eEJRNVQ1UXJ5ZlZhb3ZNTWFGSGlZWHhEcXNUdFNLSnRFRlNKUE1HeE9hQnFabVM5TW9WMHpfenptaVl2MmloQU1kdDhOaVJFSFN4bng4b08wRE1WUUhHdlJCQXk3TW8yU1JVQl9fWFkwbGxBdzJtYllGczRsT2pGWUFpR21zMlRzOE5Pc2lOM1Iwb2VNVWltNUd4Z3hySlJaY1FWV0NoSUVsQdIB0wFBVV95cUxQQ21SdkdGakREcWI3c2FteFZZWjZ5V2xZWjF5OEQ1alk4OHEtUHNNRHJTVy1TYmQxRElQWjNmcWgxdFJRV2VRM0hPblVHZGZQRkt5bkR6N3Rmd1hQWTNJUWc0bnZKcUtfSnhVeTN1QTk1VTFFSlp3eHFSY2hzd0dQUHBwa1dpbDkzMDdvNjNvd0dBc0NqMk5yUVRORnpjNlc0am1DNWNTYVdJQVRtbXRkc0hCTWljUDBQVHF0LU9mejJNbWhGNkhvMHhrWUsxOHdSUHI0?oc=5",
-   "time": "2026-10-24T16:44:35+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "3 S’pore firms to cooperate with authorities after haze law notices",
-   "url": "https://www.straitstimes.com/singapore/3-spore-companies-say-they-will-cooperate-with-authorities-after-receiving-notices-under-haze-law",
-   "time": "2026-10-24T16:28:53+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Yahoo News Singapore",
-   "title": "3 S’pore companies say they will cooperate with authorities after receiving notices under haze law",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTUdCQ3JXLUNLQk5KQ0haQ0tIZENpQldBVXhKb3R1TWNKR2ZTMkNNaEpOaUhkWTVjaktReGFOZXRXbjNnM20wNkx4S1VPRmVWbmc2LURRR3ZrX3FuY0Nob2ZueG10SUh5bl90SWlvQ3hJdk40UzRTTEdYR08yTXdaTkdOTF9Hdw?oc=5",
-   "time": "2026-10-24T16:28:53+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Forest Fire Haze Continues to Shroud Central Kalimantan",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRlJTQUg2Z1pRVkEwM0RteXZ5eXZTN1EtckN4aHpjcGk5SVRIeXhLcFpMYmduZUpoY2hJbHdXN2w3ZEpCRUNneVRYVlI2bVAxUjdYSHRhY1ZxdUROUGFyUW5uZ1RNSmNSREJmOFhfbXROdFc3LVJzUkx5elgzSjFZS1lOdGFvaHpKRGl4ZXU3VkhRZw?oc=5",
-   "time": "2026-10-24T16:20:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Latest news from Azerbaijan",
-   "title": "Haze drives air quality down across Singapore",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zekhZVjFOSk96UUpyaFMxMS05dmtIVmpPREZRcDQzdGhBYVoyZ09BRnctWERURG9MdkswbXlXX3phTjN0NnBZcEtIS2YyOUY1TmtLa1hiUzVBaWFZQmhjS1M1d1dkWXhtdE1oa0lNc0lYYVRm?oc=5",
-   "time": "2026-10-24T15:50:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Haze: Malaysia ready to seek Gulf assistance to help Indonesia fight forest fires",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXlLamdhS0gtNHJsVE9RdVJEZnlLcDdGZjZVc2JsVlpWWjE4ZGlIUWZHR3YxN0w1UUI0RFdVRHJrY0w4TENNbnpwTW9TNGNCYXAzS3F1WHZYNmNLc0tONlI2UG5LUE9VclBKRlFzVFZoT3hxMmllcWtUSTZyVV9PTWNEREFtY1hMNmpPeG9aQk9RcXM4Z19TMTVnVU9hdjRKZVdsbVdEMHl3TzVSTXhPTmN1bHp6bVBtMlROdHRvTUfSAcABQVVfeXFMT1F5S2pnYUtILTRybFRPUXVSRGZ5S3A3RmY2VXNibFZaVloxOGRpSFFmR0d2MTdMNVFCNERXVURya2NMOExDTW56cE1vUzRjQmFwM0txdVh2WDZjS3NLTjZSNlBuS1BPVXJQSkZRc1RWaE94cTJpZXFrVEk2clVfT01jRERBbWNYTDZqT3hvWkJPUXFzOGdfUzE1Z1VPYXY0SmVXbG1XRDB5d081Uk14T05jdWx6em1QbTJUTnR0b01H?oc=5",
-   "time": "2026-10-24T14:04:02+08:00",
    "summary": ""
   }
  ]
