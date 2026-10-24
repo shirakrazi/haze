@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-24T07:00:00+08:00",
+ "updated": "2026-10-24T08:00:00+08:00",
  "psi": {
-  "west": 142,
-  "east": 117,
-  "central": 133,
-  "south": 115,
-  "north": 115
+  "west": 144,
+  "east": 118,
+  "central": 135,
+  "south": 116,
+  "north": 117
  },
  "pm25": {
-  "west": 107,
-  "east": 68,
-  "central": 94,
-  "south": 78,
-  "north": 79
+  "west": 106,
+  "east": 74,
+  "central": 99,
+  "south": 56,
+  "north": 76
  },
  "hist": [
-  {
-   "t": "2026-10-22T04:00:00+08:00",
-   "psi": {
-    "west": 116,
-    "east": 87,
-    "central": 100,
-    "south": 86,
-    "north": 75
-   }
-  },
   {
    "t": "2026-10-22T05:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 115,
     "north": 115
    }
+  },
+  {
+   "t": "2026-10-24T08:00:00+08:00",
+   "psi": {
+    "west": 144,
+    "east": 118,
+    "central": 135,
+    "south": 116,
+    "north": 117
+   }
   }
  ],
- "newsUpdated": "2026-10-24T07:07:16+08:00",
+ "newsUpdated": "2026-10-24T08:07:24+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Smart Investor",
+   "title": "Top Stock Market Highlights of the Week: Haze Probe on Plantation Stocks, EQDP, Keppel REIT, iFAST and Getty Images",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ2p4em9wbkFsS3RWTDBfZ1ZLaDQxSDY3SVgycWMyRUhMWDY5VmV3azhuczdvZ1dtWGxMZnhCSkoyZlQ2c0VVUzlsX0h5YUtSSk03dGhRUFpwaW9UY0JSUWF0ZzlLRmZZRGI1V3JUaUZ4UXJQaS1mQUVsQzFneDJ2LV9NWVdWLUd2Mk9IbEJlajFFOVU1U0NwTV9fX21KTlN0bTFtRW1CZW5KWVRnOTBrVVZmUF9vOGFYbXp1clpmRjZseEpxLXBGeVZRemU3cXpja3ExOHFFTEE3SnRN?oc=5",
+   "time": "2026-10-24T07:30:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze in Singapore: Air quality back in the unhealthy range",
+   "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-back-in-the-unhealthy-range",
+   "time": "2026-10-24T07:11:21+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yahoo",
+   "title": "Experts say all high-risk groups vulnerable to haze, including those with medical conditions",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbUZxeDJpNFZqbTNkQVNqQ0Z6cnpEZi1IbDlFa0NrM0tCdXBPZFVwdjhvN3AzSDBqV3VBWUpSZTVXQWkwNDRfeVVyYWRWZjFzdF8wY1oyQUpOSGVsY0FaUXpVRi1RWlN2N1VvY2hrdS1uUVpJcUVyVzNVUmxhWTRRNlR3Q3JqVEFKUWc?oc=5",
+   "time": "2026-10-24T07:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yahoo",
+   "title": "Haze can irritate skin and eyes, not just lungs, experts warn",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kY1RWR19vclBsS0o2bEZPb0daQ0NwbE5Md18zX1hWLU5tdXljd2plNkxWdl84aVNoR1FUZkZ2aVc5X3FvQ3dOZDJNSG5hdjJVQnN2ZHVBNlBYREdLNVZLX0JaSWc4cTBzSEoyNzFpWXN0c1FBeEltbXBjWkgxMVU?oc=5",
+   "time": "2026-10-24T07:00:00+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -567,34 +595,6 @@
    "title": "Singapore’s NEA Issues Notices To 10 Firms Over Possible Links To Transboundary Haze",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4aE9DbTNYTEJWTnRlZGRvN2QtZXFWODNRbzBsQkZNWjhyZXNLZVhQMDc1TE9pWGlpZS1HQUY1ekc2MXBmcXgwVXhqaTlxSDMwRnNrWk5RNTg3UmdLY1FyUkhR?oc=5",
    "time": "2026-10-23T23:35:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "BusinessToday Malaysia",
-   "title": "Singapore Takes Action On 10 Companies Including Wilmar And TSH As Haze Probe Widens",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRVM0cGluQm1YMW94MHA4MHlkZWtnWV8zYTdzM051eExnNFM5SDY2ZDlTUTZnV1JneWw3ZWdtc1hUeFZrR21iTnRSejNzb1Qxd3cyaXc0MUVld3F5U2NDLUU2ZElzS0JVQXNwb3h2M2NPaXRzQVVISXZiQmtkQ0k4STNncmtFWmwxUFc2VVJ4d2ExaXhGWmVnZVVIVzBualNmLW1Kd0JSbjlnbEtlc0lCUnBwQ013cnNpRzBPMWdhZWFhTUJxV1dlNA?oc=5",
-   "time": "2026-10-23T22:43:51+08:00",
-   "summary": ""
-  },
-  {
-   "source": "news - Mongabay",
-   "title": "Indonesians allege social media posts on wildfires and haze are being censored",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWd2Z3V5VDdIMVV3aVZnc0x0SzVtNFJ6d1p5b1dQRldMZW43bTFHNVVzaVdrNGJlQWJjZ2VOLWdubDNsZFRsVHoxOThpZ0lQNEFIdm1xdlhQS2VabU42aVdJQkhQRzJUdWU2Z1cwMnNldXJhajhMcl9vRVVBMDFhVWtWRi1BVWVhbERZaDQwbVVNc2dRbGpsUmo5SXJ3VzZvQjZSMnJiX25JTm9KSzJFNFQyY9IBuAFBVV95cUxQWW1lcThaT1NQWDRQN3A4aGhMT1ZQUS1IeDhtLVpEeFAwZDNfbmxKaGpKYVBJckg0dmlqRE5ackF6ZEZaOXAxLU94cC1jOWxBZHRyRmV2dGFaaC1wNldrLXZvREtOaHFyQ0VNekd0LTRoMll5ZXNab04zdlVuZ3BCQkpuSklSeUV6R3BYeWcwREs1ZG4tMWZIRTdQMjUwTFN0RE92T1VPZ3VJbmhSVjF2dWpfbWNGN0dw?oc=5",
-   "time": "2026-10-23T22:37:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "NEA issues notices to 10 Singapore-based firms for first time under haze law",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2k2akhmcVVfdzVKZmJ4ajlmNldZaW9uYVhURmNPM0FhWFZ3VnB3X3VkalJEdEZVUGlkbmJCUk1obEVQUGxDa3NlV0hoNUxIUU1oXy1xTS0yVUd0M3Q1UHNPbTJwZGEzX1B3M3YzNkVCby0ybkN4enpTQTVVTEVudFFLZjgxeXZ6MDVZRlo2ZGp3YS1XWUY4dUdjYTBSejZqa3c?oc=5",
-   "time": "2026-10-23T22:36:57+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Yahoo News Singapore",
-   "title": "Thousands of Indonesian students protest over haze and demand emergency declared",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc24yWjZfX3hHMUFlbERad3prNFcycHJFNmFmbzlhc3B2QXJ1ZHc2eDZNUWR2V2ZtemRGMTRlMXdFZ0pqNl8wREVybWtxUUdmMFphTTRuQXZ6aTVaQ3JGQnEtRXl6TDI3cmZWYjd4SXBnWXdUb19qU2lJNV9CdkNpckVhVUQya3FaMWxR?oc=5",
-   "time": "2026-10-23T22:25:41+08:00",
    "summary": ""
   }
  ]
