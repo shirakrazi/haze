@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-24T16:00:00+08:00",
+ "updated": "2026-10-24T17:00:00+08:00",
  "psi": {
   "west": 151,
-  "east": 116,
-  "central": 132,
-  "south": 110,
-  "north": 121
+  "east": 115,
+  "central": 129,
+  "south": 108,
+  "north": 118
  },
  "pm25": {
-  "west": 93,
-  "east": 52,
-  "central": 49,
-  "south": 38,
-  "north": 39
+  "west": 97,
+  "east": 53,
+  "central": 43,
+  "south": 50,
+  "north": 33
  },
  "hist": [
-  {
-   "t": "2026-10-22T16:00:00+08:00",
-   "psi": {
-    "west": 97,
-    "east": 76,
-    "central": 85,
-    "south": 75,
-    "north": 71
-   }
-  },
   {
    "t": "2026-10-22T17:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 110,
     "north": 121
    }
+  },
+  {
+   "t": "2026-10-24T17:00:00+08:00",
+   "psi": {
+    "west": 151,
+    "east": 115,
+    "central": 129,
+    "south": 108,
+    "north": 118
+   }
   }
  ],
- "newsUpdated": "2026-10-24T16:08:46+08:00",
+ "newsUpdated": "2026-10-24T17:07:27+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,48 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Want to escape the haze in Malaysia? Here are some clean air havens you can visit",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFNPVmZNdHhGbEV0RVpvNzJBTlZxRTQzd2pZeXEtZnZIb09ZbFhzbFByMHFkMzdycS1XSlVPMnBiSmlRMlhZUWNDWGtLczZSLUc0TVg0bFd4Z3NPR04tUE9idDdQN1lDSUhEd1RNZklDUzZMT0NqeDl0bVNGSVE3c0VMbF9rX1Brd1psYVQ5WjFYWFQ1cUtzamU2RDNhRDRCNlJsbGZ5TzJtakZ0dEZhMVc5YnZYR2NielJ6ZmRWak16WWRhUHVibVdDZkhLRldo?oc=5",
+   "time": "2026-10-24T17:05:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Johor schools to reopen on Monday as haze situation improves",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5panhGNjFheU96SDFhYXZ5Z0dYc2JzQmEwR3dCcnZRNjZSbmZzTEpQV3dqTTBwcTkzakViOHdZRXN6MEtDQmdNeFVzT3JZMzho?oc=5",
+   "time": "2026-10-24T16:46:25+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "3 S’pore firms to cooperate with authorities after haze law notices",
+   "url": "https://www.straitstimes.com/singapore/3-spore-companies-say-they-will-cooperate-with-authorities-after-receiving-notices-under-haze-law",
+   "time": "2026-10-24T16:28:53+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yahoo News Singapore",
+   "title": "3 S’pore companies say they will cooperate with authorities after receiving notices under haze law",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTUdCQ3JXLUNLQk5KQ0haQ0tIZENpQldBVXhKb3R1TWNKR2ZTMkNNaEpOaUhkWTVjaktReGFOZXRXbjNnM20wNkx4S1VPRmVWbmc2LURRR3ZrX3FuY0Nob2ZueG10SUh5bl90SWlvQ3hJdk40UzRTTEdYR08yTXdaTkdOTF9Hdw?oc=5",
+   "time": "2026-10-24T16:28:53+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "Forest Fire Haze Continues to Shroud Central Kalimantan",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRlJTQUg2Z1pRVkEwM0RteXZ5eXZTN1EtckN4aHpjcGk5SVRIeXhLcFpMYmduZUpoY2hJbHdXN2w3ZEpCRUNneVRYVlI2bVAxUjdYSHRhY1ZxdUROUGFyUW5uZ1RNSmNSREJmOFhfbXROdFc3LVJzUkx5elgzSjFZS1lOdGFvaHpKRGl4ZXU3VkhRZw?oc=5",
+   "time": "2026-10-24T16:20:45+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze in Malaysia: All Johor schools to reopen on Oct 26 as conditions improve",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYkxvQkMxTUh0azExRy1JX0pfcFlsb0haLWRYS04zLXFKalJRN1A0d0lvMVBYdlczY3o4UzlScUtMNnc0RU9WUXdFQ0xmeF9uQ3VzOE1kWDRUV2NMb25aZWptb05tc0pSclJfOUxOTU9vQW42aDc5Q29UNE1UVGYtZmJUUWViRkFUMGpaeVIzWGV4TWdOalIwSXV5dXJQV2dTRzU1eVRaVnNVTnIyZGptRFptNTNEd1dwV2c?oc=5",
+   "time": "2026-10-24T16:20:00+08:00",
+   "summary": ""
   },
   {
    "source": "Latest news from Azerbaijan",
@@ -525,20 +567,6 @@
    "title": "‘The officials are morons’: Haze that reached Malaysia now has Indonesian students protesting in central Kalimantan",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcWZsSXBDdWVpcWxhNFU1NHY2UWpZeDVqbDVjcFYzOUtBdmRGdkw3aTl0SzBMMEtoMjFoS2k4UGJjOV9JcEhyZjI5alJPM0ZVV0g5Q0EzbnltSXdzLTQtUlExSHBLLTlNTzh0QlhxQmduMmVmUEZGdVBKUENxeFZlQ2Vib2pvMUc5QTJlUW1UUXdoOWYwQ3BlR1k0d2x0eF90TEI0WTV0eE9RbklaaEdnSWFGOHFsMUtkNnpzS2pkZHl5cFlCenBvcWJXcVVqRFFEYlY0VUdhRmQ0X0prd3lveDRhWF91anhfR0ZZWVI4MVFEd2Vjd3F6U21aV28zeThz0gGAAkFVX3lxTFBxZmxJcEN1ZWlxbGE0VTU0djZRall4NWpsNWNwVjM5S0F2ZEZ2TDdpOXRLMEwwS2gyMWhLaThQYmM5X0lwSHJmMjlqUk8zRlVXSDlDQTNueW1Jd3MtNC1SUTFIcEstOU1POHRCWHFCZ24yZWZQRkZ1UEpQQ3F4VmVDZWJvam8xRzlBMmVRbVRRd2g5ZjBDcGVHWTR3bHR4X3RMQjRZNXR4T1FuSVpoR2dJYUY4cWwxS2Q2enNLamRkeXlwWUJ6cG9xYldxVWpEUURiVjRVR2FGZDRfSmt3eW94NGFYX3VqeF9HRllZUjgxUUR3ZWN3cXpTbVpXbzN5OHM?oc=5",
    "time": "2026-10-24T13:46:31+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "‘How is it possible?’: Students in Kalimantan protest Indonesian haze",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdE91M0lsTmRLbnpmamowSXFUdmFXVWxTN3h1OUVINVpJYlhpSWZzUU9zbm5KNktOUF93X3V1QkZpNEttM1o2TlRFUGJDVFlQcFJuUkVOcjRoWDBuTTctVlI2YldIaU4zd29wREkzdTZ5TWo1RTRNTmxnd3BJM2FHbDR6b1N3Zi05U0J5ZjNPbUEzZ196Ry1DdnFyb1dRUEJPTEdmbjJkeDQ4VTg?oc=5",
-   "time": "2026-10-24T13:35:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "‘How is it possible?’: Students in Kalimantan protest against Indonesian haze",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakREcEp3QmtQQjByb2M5TmhQbUVMNkpRV2ZuV0YxVDViMzJLTGROeHNjTE1sLWwxd3BDU2hHVHFhY1JFbi1lekRKVmpweVU3MFAwRXdTemJ3b21vaXZuU0VfWWlRWk5oY2ZreWhnV0huTTZsVkk3U1BaNGVwR2ZzaWc1Wm9wU3pTQ3dJZEEwR3RTaFFwWVd6Tk9IeGNJVDRLV3JaS2h4MHlMNGZfOTBYNmI0VkFRU1hfbGU4amNKclFrdDdjSWR3?oc=5",
-   "time": "2026-10-24T13:35:00+08:00",
    "summary": ""
   },
   {
@@ -567,34 +595,6 @@
    "title": "Haze worsens overnight as air quality turns unhealthy across Singapore",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83UkFkLTJzVVN5QW4yc0g3V184LUEwR1N2OUlhb0RfMnVUb3BJTmEtS2ZteUpUSkJzOUJiR3llUHR0ZllTX1pNTHhXRkRTc3dpaVNRcVd1TUpDUHNHMTlQMjFaLU84aUw3WnU0azVUYklRZGs3YmVqdm1B?oc=5",
    "time": "2026-10-24T12:32:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Fires at Papua food estate worsen haze pollution, raise environmental concerns",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMzZyRWgtMV9yR1FUc3hsd2UxLW9XRjJjUEtvakZYWXVJaFFLbzMtQ0RmbjhrZmZTV1Etb0NGeERHSk1ROERYcUFDdF9fa0dFYjVhMVZSSU1JazZCVVNuVlV1NE95S3M5bGFhSjdGcHozbjY4NnFtLVZNUGM4M0hlV21xWExCR0lRMHBTTWNFc25DRGJvUDc2dnk1Rnhoc0JWdnFRVUloX2d2S0g2Y29iZE0zSmhNbGVhak1xNEJwbE9lUzBRLVozak1XblBBamtRY1c1QUdyUQ?oc=5",
-   "time": "2026-10-24T11:52:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Singapore to form expert panel to investigate firms linked to haze",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMV82VFIzdTFTdUxjVmtScFlSMDQxU0ZTQ2xPWnpLeGQyMFVQQkpLUDNIeWRuenFTVFNxOHduM2dKUl9QQ0dua09WTDM2V0JkV1d0SUhfY29zMVNMdjVjaDhQWDlob3hrYURPbmsyNDVCbGtCM0VqVnlwQk45YUdJbURjcFkyN2J2aVBKNU5QVHNRTDNBNXRTc180V2h1a002d21GY044YzNTVDFRdmdTUDFBT0pVek5uNHBJNVA1Um9yZWxlai1Wcw?oc=5",
-   "time": "2026-10-24T11:47:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bloomberg.com",
-   "title": "Singapore Expands Haze Investigation to 10 Locally Based Firms",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd1hvdzdJMm5nYThaQkhXa3E0Rkt4WnZuWkJqZ2NnME1CRXFJbF9tcEI3Ymxlblg3d2Utc3NDcjZBSWRuLVY0ekhBSXI2ZkZ2S0pDcUhBeGxZSnlXblQ0NE82VkRza0pwTnVRWEZpN0dvVXFlMUtVQ2VkNkFzZHBBSDV4WW5td0Jsc3g1SnFaN1ZSSEZ1dGtKdi1SY0cyMHpVLXdTcmI2aHJJVkpKSDlTaTlQOA?oc=5",
-   "time": "2026-10-24T11:20:42+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Hazy start to the weekend as PSI reaches unhealthy levels in Singapore; thundery showers expected later",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrTXhiRVlvRi1kcnpoRWdic3RUcTBFdTlGNFZCaVk4VzRtblNzRnM1Z1RHbnFUSWZzT2NpNUFvd2JrWWFCejVzV2dmVTlISUZHT3BqNVJhb2FxdGZQVS1YZjM4YXJfYjRDSTIwZkNmNm0?oc=5",
-   "time": "2026-10-24T10:50:00+08:00",
    "summary": ""
   }
  ]
