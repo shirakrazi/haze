@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-24T14:00:00+08:00",
+ "updated": "2026-10-24T15:00:00+08:00",
  "psi": {
-  "west": 153,
-  "east": 119,
-  "central": 137,
-  "south": 113,
-  "north": 125
+  "west": 152,
+  "east": 118,
+  "central": 135,
+  "south": 111,
+  "north": 123
  },
  "pm25": {
-  "west": 88,
-  "east": 56,
-  "central": 53,
-  "south": 52,
-  "north": 65
+  "west": 76,
+  "east": 53,
+  "central": 64,
+  "south": 37,
+  "north": 49
  },
  "hist": [
-  {
-   "t": "2026-10-22T13:00:00+08:00",
-   "psi": {
-    "west": 102,
-    "east": 78,
-    "central": 89,
-    "south": 79,
-    "north": 72
-   }
-  },
   {
    "t": "2026-10-22T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 113,
     "north": 125
    }
+  },
+  {
+   "t": "2026-10-24T15:00:00+08:00",
+   "psi": {
+    "west": 152,
+    "east": 118,
+    "central": 135,
+    "south": 111,
+    "north": 123
+   }
   }
  ],
- "newsUpdated": "2026-10-24T14:07:20+08:00",
+ "newsUpdated": "2026-10-24T15:07:53+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Malay Mail",
+   "title": "‘The officials are morons’: Haze that reached Malaysia now has Indonesian students protesting in central Kalimantan",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcWZsSXBDdWVpcWxhNFU1NHY2UWpZeDVqbDVjcFYzOUtBdmRGdkw3aTl0SzBMMEtoMjFoS2k4UGJjOV9JcEhyZjI5alJPM0ZVV0g5Q0EzbnltSXdzLTQtUlExSHBLLTlNTzh0QlhxQmduMmVmUEZGdVBKUENxeFZlQ2Vib2pvMUc5QTJlUW1UUXdoOWYwQ3BlR1k0d2x0eF90TEI0WTV0eE9RbklaaEdnSWFGOHFsMUtkNnpzS2pkZHl5cFlCenBvcWJXcVVqRFFEYlY0VUdhRmQ0X0prd3lveDRhWF91anhfR0ZZWVI4MVFEd2Vjd3F6U21aV28zeThz0gGAAkFVX3lxTFBxZmxJcEN1ZWlxbGE0VTU0djZRall4NWpsNWNwVjM5S0F2ZEZ2TDdpOXRLMEwwS2gyMWhLaThQYmM5X0lwSHJmMjlqUk8zRlVXSDlDQTNueW1Jd3MtNC1SUTFIcEstOU1POHRCWHFCZ24yZWZQRkZ1UEpQQ3F4VmVDZWJvam8xRzlBMmVRbVRRd2g5ZjBDcGVHWTR3bHR4X3RMQjRZNXR4T1FuSVpoR2dJYUY4cWwxS2Q2enNLamRkeXlwWUJ6cG9xYldxVWpEUURiVjRVR2FGZDRfSmt3eW94NGFYX3VqeF9HRllZUjgxUUR3ZWN3cXpTbVpXbzN5OHM?oc=5",
+   "time": "2026-10-24T13:46:31+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -518,6 +525,13 @@
    "title": "Students protest haze in Indonesia’s Palangkaraya",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3hENWpqVlF0S2xzQ05GalBNUE84RnZDUmVLOXo4QkJaSlRmTmpnZjhKajZWSC1Xb212VEVNeHJ0RjRfaklNM2VXaVpseF9ENjRwSVJfSmRGZGNpUWN6Um44UHpjckpPeHpPbS12Mms0V3g2RjNVRVloTk9sLWl4TW5FMEw1eUhhQ29sMUtPRUF5Y1NMcFY4VXlyMU0?oc=5",
    "time": "2026-10-24T12:57:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "Singapore Air Quality Deteriorates As Haze Spreads From Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEsxSGo2R3NfTkRSN1NscHdrT1NPYnB0RkFJbFRzRFR1Q0o5d3Fob2liSF9TOVdQZDZiSkFCaUZGbG1zX2tfLXVMMVV2T2FpZ1UzS2d0U1hCblZpOEttVWp4TDBfMjBnWGlDdXEtWTlJLTBxcE1YNWlLUU5XazNYd2tfb1luNW4tMzhTXzRvZFNhc2Y2MDcwUHEtY2FZLWh3bDdvdF9pUnVjYUxHQmtz?oc=5",
+   "time": "2026-10-24T12:51:55+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Haze: Unhealthy API in 19 areas nationwide as of 10am",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTVUwQlc3djFMMnFBdmVUdC1SdWNKbW0tbzRUcnVURU51MHIxVEtpclB6ODUwc3JMOEpHbjh0UW1jLVh1TU9yM2NaeGw3cGhDT2RCYjJMZllaVFU5d2x4bE9QMjlJYmhxOVVJbWtpVkgwVXg3QVdzQUFyYjRtd2xiQV9pTnZZVGlzYUdfWE9jQ2RHSFpFYVdJUFR0NEo1ODAwaDU1Vw?oc=5",
    "time": "2026-10-24T10:33:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Malaysia",
-   "title": "Singapore issues notices to 10 local firms over possible links to transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qQ2dtNDlPWjFFX2taSENYcDF5dmYtMWtfal9XRkZ0UW9GalZxcXR0clN0S1FiWGZXbDQ1dm9WUTJLU0FtNzNneWw0WndtWmdu?oc=5",
-   "time": "2026-10-24T10:13:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Visitors mask up, change plans amid the haze; some tour operators see dip in bookings",
-   "url": "https://www.straitstimes.com/singapore/visitors-mask-up-change-plans-amid-the-haze-some-tour-operators-see-dip-in-bookings",
-   "time": "2026-10-24T10:00:00+08:00",
    "summary": ""
   }
  ]
