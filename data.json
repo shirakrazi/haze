@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-24T23:00:00+08:00",
+ "updated": "2026-10-25T00:00:00+08:00",
  "psi": {
-  "west": 152,
+  "west": 150,
   "east": 113,
   "central": 120,
   "south": 108,
   "north": 113
  },
  "pm25": {
-  "west": 93,
-  "east": 66,
-  "central": 79,
-  "south": 61,
-  "north": 69
+  "west": 92,
+  "east": 63,
+  "central": 76,
+  "south": 62,
+  "north": 63
  },
  "hist": [
-  {
-   "t": "2026-10-23T00:00:00+08:00",
-   "psi": {
-    "west": 86,
-    "east": 72,
-    "central": 79,
-    "south": 71,
-    "north": 71
-   }
-  },
   {
    "t": "2026-10-23T01:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 108,
     "north": 113
    }
+  },
+  {
+   "t": "2026-10-25T00:00:00+08:00",
+   "psi": {
+    "west": 150,
+    "east": 113,
+    "central": 120,
+    "south": 108,
+    "north": 113
+   }
   }
  ],
- "newsUpdated": "2026-10-24T23:07:22+08:00",
+ "newsUpdated": "2026-10-25T00:07:29+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Who owns the 10 S’pore firms targeted by the haze law?",
+   "url": "https://www.straitstimes.com/singapore/who-owns-the-10-spore-firms-targeted-by-the-haze-law",
+   "time": "2026-10-24T23:57:38+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -587,13 +594,6 @@
    "source": "East Asia Forum",
    "title": "Can ASEAN enforce its way out of the haze crisis?",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUFNRUWRnbnNXRjlfSE1jakVkNzlmMG5JSm4tV0htZTZLUFhzMS1waFNGVGtRUUt5ZFBtOUpPa00wUHNLMG9lNk5ITW5NTGJVOVRrZ1M3YUZValdPcnVkQzhyNmR1RUFFQmFNYTd4YVZCbXozQTd1Q0k3Vnk4SE5saTROdEJzcFVpSVV2b1NSaw?oc=5",
-   "time": "2026-10-24T19:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "EWTN News",
-   "title": "Franciscans call for solidarity as haze from Indonesian fires blankets Southeast Asia",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWV6ZjBMX3NQcjlYYVJDYnZNYU16cldxMUJTR1l0aWVGeWRtWlZrSWtoeU43Y051cjVENUdDQm90eVpQcGVDQ3c4NEgxWXJENXcxOThIVzRtbW4zWVRPNEt6VkNRazdMMUpuSE05NEdrQ043c0xzNEFpcmNSTlBTNXdkZXBiUzVhbThwUXZ2NkVsV2htVHpBTzFrU25oQXV5QzBCYzBnVGt1Y01yU3hlMGh5dV9iaHBld25QeEdnR2o1TlR1dTZXaQ?oc=5",
    "time": "2026-10-24T19:00:00+08:00",
    "summary": ""
   }
