@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-24T12:00:00+08:00",
+ "updated": "2026-10-24T13:00:00+08:00",
  "psi": {
-  "west": 152,
-  "east": 122,
-  "central": 140,
-  "south": 116,
-  "north": 125
+  "west": 153,
+  "east": 120,
+  "central": 139,
+  "south": 114,
+  "north": 126
  },
  "pm25": {
-  "west": 106,
-  "east": 53,
-  "central": 54,
-  "south": 37,
-  "north": 83
+  "west": 98,
+  "east": 51,
+  "central": 51,
+  "south": 38,
+  "north": 71
  },
  "hist": [
-  {
-   "t": "2026-10-22T11:00:00+08:00",
-   "psi": {
-    "west": 104,
-    "east": 79,
-    "central": 90,
-    "south": 82,
-    "north": 73
-   }
-  },
   {
    "t": "2026-10-22T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 116,
     "north": 125
    }
+  },
+  {
+   "t": "2026-10-24T13:00:00+08:00",
+   "psi": {
+    "west": 153,
+    "east": 120,
+    "central": 139,
+    "south": 114,
+    "north": 126
+   }
   }
  ],
- "newsUpdated": "2026-10-24T12:07:21+08:00",
+ "newsUpdated": "2026-10-24T13:07:12+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Free Malaysia Today",
+   "title": "Students protest haze in Indonesia’s Palangkaraya",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3hENWpqVlF0S2xzQ05GalBNUE84RnZDUmVLOXo4QkJaSlRmTmpnZjhKajZWSC1Xb212VEVNeHJ0RjRfaklNM2VXaVpseF9ENjRwSVJfSmRGZGNpUWN6Um44UHpjckpPeHpPbS12Mms0V3g2RjNVRVloTk9sLWl4TW5FMEw1eUhhQ29sMUtPRUF5Y1NMcFY4VXlyMU0?oc=5",
+   "time": "2026-10-24T12:57:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Haze worsens overnight as air quality turns unhealthy across Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83UkFkLTJzVVN5QW4yc0g3V184LUEwR1N2OUlhb0RfMnVUb3BJTmEtS2ZteUpUSkJzOUJiR3llUHR0ZllTX1pNTHhXRkRTc3dpaVNRcVd1TUpDUHNHMTlQMjFaLU84aUw3WnU0azVUYklRZGs3YmVqdm1B?oc=5",
+   "time": "2026-10-24T12:32:06+08:00",
+   "summary": ""
   },
   {
    "source": "The Star",
@@ -518,6 +532,13 @@
    "title": "Singapore to form expert panel to investigate firms linked to haze",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMV82VFIzdTFTdUxjVmtScFlSMDQxU0ZTQ2xPWnpLeGQyMFVQQkpLUDNIeWRuenFTVFNxOHduM2dKUl9QQ0dua09WTDM2V0JkV1d0SUhfY29zMVNMdjVjaDhQWDlob3hrYURPbmsyNDVCbGtCM0VqVnlwQk45YUdJbURjcFkyN2J2aVBKNU5QVHNRTDNBNXRTc180V2h1a002d21GY044YzNTVDFRdmdTUDFBT0pVek5uNHBJNVA1Um9yZWxlai1Wcw?oc=5",
    "time": "2026-10-24T11:47:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Bloomberg.com",
+   "title": "Singapore Expands Haze Investigation to 10 Locally Based Firms",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd1hvdzdJMm5nYThaQkhXa3E0Rkt4WnZuWkJqZ2NnME1CRXFJbF9tcEI3Ymxlblg3d2Utc3NDcjZBSWRuLVY0ekhBSXI2ZkZ2S0pDcUhBeGxZSnlXblQ0NE82VkRza0pwTnVRWEZpN0dvVXFlMUtVQ2VkNkFzZHBBSDV4WW5td0Jsc3g1SnFaN1ZSSEZ1dGtKdi1SY0cyMHpVLXdTcmI2aHJJVkpKSDlTaTlQOA?oc=5",
+   "time": "2026-10-24T11:20:42+08:00",
    "summary": ""
   },
   {
@@ -535,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "毎日新聞",
+   "title": "Southeast Asia's worst haze in over a decade sparks student protests",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51clF3VWtNYnBneWNZeGVUcDRMUHhJX0tJT2lncGF0Z3NiNGxpMGR6aFFfM2YxRHBDSDFzYmtfR1A5SFZDc3FFenB1N3lpZEw4MjBWZi1PVEZsR2U0OTV2UTZtX3Q3aGhNTHF3MDh5WU5ndw?oc=5",
+   "time": "2026-10-24T10:34:38+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Edge Malaysia",
    "title": "Singapore issues notices to 10 local firms over possible links to transboundary haze",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qQ2dtNDlPWjFFX2taSENYcDF5dmYtMWtfal9XRkZ0UW9GalZxcXR0clN0S1FiWGZXbDQ1dm9WUTJLU0FtNzNneWw0WndtWmdu?oc=5",
@@ -549,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "Malay Mail",
+   "title": "Singapore turns to its own palm oil and forestry firms in Indonesia as South-east Asian haze probe grows",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTU5XckU2NlBtWE5mQVRlM1R1SjNLWW5sWHZBUC1HbHAxLVdhcVl3N3JMam5CcDduV0swYW9kQlNjMTcwU3h2MDc0cEtDTkZqMFRlTnRId0tabEZRZ0xPcHZ4MlM1Ulg4WXBsSEYyNHBrbDE1cFdfQnhDdzlzbWNfOTRfeklPdjZQemZ5M0JqQmZwMmw5endDUFdVUE5jVWJDbmtBSUZmRkVUdG10QUxXdmhpQTZZanpDcDUxNThUdVM0MWNoTmYxLU01UWdUWHpVTGVLT0JoNWZQMmJIdUZnX2JBaTk0UGd6bnljQnJtaGx6Y2FTdmfSAfsBQVVfeXFMUHNXLTJoRWpIb0ZsS1dJT1poVnNfdVlycmxpZlFjRU4zLVdPRWF1VEZhcWZjWDVOVlNaR1Y4U2hRUVRYTXpGbnZpaFpqeWxGU0xsTWhVeERVamRGbkxDVU1XVTBiZWdRbGoxU3VJZ3RWUGlCMjJVMW1ENWpnUldHMDVIWmpXWHpMN3dxUVNQaUhtR0x4RkJjalF6YkdNcDVVd3hpOFpkN0JmdE5HQ1JQaThvbVhXa0dfNmRFQ1JXZUhiYjRxc25Mb1R1NTl6ZFhrSmV3Wm5BUDgtenlqaWlKTW1DeXlIZmhwXzF5SElzaUxGeVFHSm5vQnp4dmc?oc=5",
+   "time": "2026-10-24T09:48:59+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "NEA issues notices to 10 Singapore-based firms for first time under haze law",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2k2akhmcVVfdzVKZmJ4ajlmNldZaW9uYVhURmNPM0FhWFZ3VnB3X3VkalJEdEZVUGlkbmJCUk1obEVQUGxDa3NlV0hoNUxIUU1oXy1xTS0yVUd0M3Q1UHNPbTJwZGEzX1B3M3YzNkVCby0ybkN4enpTQTVVTEVudFFLZjgxeXZ6MDVZRlo2ZGp3YS1XWUY4dUdjYTBSejZqa3c?oc=5",
@@ -556,45 +591,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Haze worsens overnight as air quality turns unhealthy across Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83UkFkLTJzVVN5QW4yc0g3V184LUEwR1N2OUlhb0RfMnVUb3BJTmEtS2ZteUpUSkJzOUJiR3llUHR0ZllTX1pNTHhXRkRTc3dpaVNRcVd1TUpDUHNHMTlQMjFaLU84aUw3WnU0azVUYklRZGs3YmVqdm1B?oc=5",
-   "time": "2026-10-24T09:13:03+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Singapore turns to its own palm oil and forestry firms in Indonesia as South-east Asian haze probe grows",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTU5XckU2NlBtWE5mQVRlM1R1SjNLWW5sWHZBUC1HbHAxLVdhcVl3N3JMam5CcDduV0swYW9kQlNjMTcwU3h2MDc0cEtDTkZqMFRlTnRId0tabEZRZ0xPcHZ4MlM1Ulg4WXBsSEYyNHBrbDE1cFdfQnhDdzlzbWNfOTRfeklPdjZQemZ5M0JqQmZwMmw5endDUFdVUE5jVWJDbmtBSUZmRkVUdG10QUxXdmhpQTZZanpDcDUxNThUdVM0MWNoTmYxLU01UWdUWHpVTGVLT0JoNWZQMmJIdUZnX2JBaTk0UGd6bnljQnJtaGx6Y2FTdmfSAfsBQVVfeXFMUHNXLTJoRWpIb0ZsS1dJT1poVnNfdVlycmxpZlFjRU4zLVdPRWF1VEZhcWZjWDVOVlNaR1Y4U2hRUVRYTXpGbnZpaFpqeWxGU0xsTWhVeERVamRGbkxDVU1XVTBiZWdRbGoxU3VJZ3RWUGlCMjJVMW1ENWpnUldHMDVIWmpXWHpMN3dxUVNQaUhtR0x4RkJjalF6YkdNcDVVd3hpOFpkN0JmdE5HQ1JQaThvbVhXa0dfNmRFQ1JXZUhiYjRxc25Mb1R1NTl6ZFhrSmV3Wm5BUDgtenlqaWlKTW1DeXlIZmhwXzF5SElzaUxGeVFHSm5vQnp4dmc?oc=5",
-   "time": "2026-10-24T09:09:26+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Star",
    "title": "Haze: Expedite enactment of comprehensive Clean Air Act, says Lee Lam Thye",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMFFidTJLdERvb3REakF6d1hXYXVYdHhtSkNwOHRabjg1RElKMGpMR3dqMzZhVWdhZUt5bFJqdHB0b0FXaDRaM3BQSWp5enp2amhNU21TYnByZ0hYMVh0WTBBSlVoYWpfdXdGVmJpVko5TFVRNEg3WFBEc2FhWFUxeURJaTVjc2plQVNfMlNpWVZWMEwyN05SbnNsdHJ1dGpzOENTMU1lNi1CWEJQR1lmSEpDRGhJY0VvVmJfWExidw?oc=5",
    "time": "2026-10-24T08:46:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Peninsula Qatar",
-   "title": "Singapore probes domestic firms linked to Indonesian forest fires and haze",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHZWaUtVNTNWdDE3b3NBNjdsZEttbzl3RDhqX21lM2dVQkhVbXh3ckFVMEFMb2xEeEY0TnpmbWxuT2Rmd1VqUllVNzdXempFS04zQU1HWGgzTHVRdHpCN0lPcDVGdnp0R1dnODR2NUFQdDBWSmJvMXdWbENmTVE1Q3dFMWN2al9mRHdFZE82Mi0yemttNGRJRC1sOTcxbmVESGItYmc1eWlHQV9sX3ZGbWFSNlRxZ0tueFlPaHF1cGd4Mm54Tmw3RA?oc=5",
-   "time": "2026-10-24T08:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Smart Investor",
-   "title": "Top Stock Market Highlights of the Week: Haze Probe on Plantation Stocks, EQDP, Keppel REIT, iFAST and Getty Images",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ2p4em9wbkFsS3RWTDBfZ1ZLaDQxSDY3SVgycWMyRUhMWDY5VmV3azhuczdvZ1dtWGxMZnhCSkoyZlQ2c0VVUzlsX0h5YUtSSk03dGhRUFpwaW9UY0JSUWF0ZzlLRmZZRGI1V3JUaUZ4UXJQaS1mQUVsQzFneDJ2LV9NWVdWLUd2Mk9IbEJlajFFOVU1U0NwTV9fX21KTlN0bTFtRW1CZW5KWVRnOTBrVVZmUF9vOGFYbXp1clpmRjZseEpxLXBGeVZRemU3cXpja3ExOHFFTEE3SnRN?oc=5",
-   "time": "2026-10-24T07:30:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze in Singapore: Air quality back in the unhealthy range",
-   "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-back-in-the-unhealthy-range",
-   "time": "2026-10-24T07:11:21+08:00",
    "summary": ""
   }
  ]
