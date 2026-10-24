@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-25T05:00:00+08:00",
+ "updated": "2026-10-25T06:00:00+08:00",
  "psi": {
-  "west": 144,
+  "west": 142,
   "east": 112,
-  "central": 117,
-  "south": 106,
+  "central": 116,
+  "south": 105,
   "north": 112
  },
  "pm25": {
-  "west": 96,
-  "east": 70,
-  "central": 71,
-  "south": 73,
-  "north": 73
+  "west": 78,
+  "east": 68,
+  "central": 70,
+  "south": 58,
+  "north": 68
  },
  "hist": [
-  {
-   "t": "2026-10-23T04:00:00+08:00",
-   "psi": {
-    "west": 88,
-    "east": 72,
-    "central": 80,
-    "south": 69,
-    "north": 70
-   }
-  },
   {
    "t": "2026-10-23T05:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 106,
     "north": 112
    }
+  },
+  {
+   "t": "2026-10-25T06:00:00+08:00",
+   "psi": {
+    "west": 142,
+    "east": 112,
+    "central": 116,
+    "south": 105,
+    "north": 112
+   }
   }
  ],
- "newsUpdated": "2026-10-25T05:37:14+08:00",
+ "newsUpdated": "2026-10-25T06:07:13+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Is indoor air safer? 7 things to know and ways to stay protected in this prolonged haze season",
+   "url": "https://www.channelnewsasia.com/cna-insider/insider/haze-indoor-air-expired-n95-masks-air-purifiers-protect-6488636",
+   "time": "2026-10-25T06:00:00+08:00",
+   "summary": ""
   },
   {
    "source": "Post Register",
@@ -588,13 +595,6 @@
    "title": "NEA issues legal notices under haze law to 10 S’pore-based firms | The Straits Times - newspaper",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEd5S3RHTk9vNlNEd3ltdW5ncUhKbm1ZbGdfb0x6cXdxeFZoUW95cWF3aVZWdnJ0RlNvWGJSUjBMMmRhUTM2Z2Z4alZyX1BCYWo5ci1pc0gxNk1rdDdTVmV6aVV4WFdCbUpkLWl6QmZOUTdOZzFTT1Foc2lJSXZlMkYzZFliUWRQVmx3dXFrSEN6Z3ZXX0h6eFFZamNDUzFrVHk2TnJ5ZUl6VW44Y0w2czc1Y1F1aDJ2d1U1bjF0Zw?oc=5",
    "time": "2026-10-24T19:25:49+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Malaysia's Johor schools to reopen on Oct 26 after weeks of haze-related closures",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYmN1MEZCLUVvM01OSHZieDZFZllUNXBObnlSWE9udGg2YTIwN25DZVFBLXBLdExscDJrem1ieVFYWDYzdVhsXzJPazJOZE1ld0NkU2hvODUtNWdHb1JsUGhXS204NW9sSG50MDRWdnM0VzAwLUtRRWMxX2podFZLdDVadW1xVHEwcUUyY0d0QVJfVmxJU2o4MTdxZzlwZzJ6aTlZT09KclU3dlNnbmd3SDBpV0hIOVk?oc=5",
-   "time": "2026-10-24T19:10:19+08:00",
    "summary": ""
   }
  ]
