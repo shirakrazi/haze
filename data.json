@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-25T21:00:00+08:00",
+ "updated": "2026-10-25T22:00:00+08:00",
  "psi": {
-  "west": 103,
-  "east": 96,
-  "central": 95,
-  "south": 88,
-  "north": 90
+  "west": 101,
+  "east": 94,
+  "central": 93,
+  "south": 87,
+  "north": 88
  },
  "pm25": {
-  "west": 55,
-  "east": 34,
-  "central": 41,
-  "south": 32,
-  "north": 24
+  "west": 45,
+  "east": 37,
+  "central": 42,
+  "south": 40,
+  "north": 28
  },
  "hist": [
-  {
-   "t": "2026-10-23T20:00:00+08:00",
-   "psi": {
-    "west": 110,
-    "east": 93,
-    "central": 107,
-    "south": 92,
-    "north": 89
-   }
-  },
   {
    "t": "2026-10-23T21:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 88,
     "north": 90
    }
+  },
+  {
+   "t": "2026-10-25T22:00:00+08:00",
+   "psi": {
+    "west": 101,
+    "east": 94,
+    "central": 93,
+    "south": 87,
+    "north": 88
+   }
   }
  ],
- "newsUpdated": "2026-10-25T21:07:32+08:00",
+ "newsUpdated": "2026-10-25T22:07:24+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Mothership",
+   "title": "After 11 years, Asia Pulp & Paper has been named again over links to haze fires. What is it & what's the S'pore connection?",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1N05KZ1JiY0hQZ3QtN3NSTTd5bmNDV2RFSFBkdEM0aTVNay11cVNyLWROczIzb1ZKVjVjckd2OF9zckh4SnpuVVJHR2NtWXo3TGNTd2pCNFdoR1lvLU1sdTlSM0N0OTdYZVlONg?oc=5",
+   "time": "2026-10-25T21:19:30+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -545,7 +552,14 @@
    "source": "The Independent Singapore",
    "title": "‘Declare a national emergency’: Indonesian students protest as wildfire haze blankets Palangkaraya",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXJ6aS1PU2c2Q2JWVlU5U0F4dUtkZDR0U3ZWZXZHenFpLWp3MlAyWG9wWHY0cU53bE9qS3FkZm1VeFZiLXE0Z2lWb1ZWNG9WU2VySHczQ2hhLXZMLXpmYzJxVDA1bXVvbEpXQWNnUnZ2ckVIeUJyc1g2YjJWaTdSdTg0cmNvNUNfdVNRdVB2MjlqcUMtWEdjdG9PdG1MTVBoTk5uMTdSZDIxZXRfa3E4akpiZm9xQm1yV0ZqY013?oc=5",
-   "time": "2026-10-25T18:52:30+08:00",
+   "time": "2026-10-25T18:53:34+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Haze: Johor schools to reopen in phases, starting with exam candidates",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUDhyN0ZyMkg1QTE1TnY1M3dyVGxPQ0Jiek5mZXFHV1U5WEh4bzVYY2dveEdmSDhHNncyWmFqTDNtOF8wY0p5bGZoQUtyOVBxVEdLSGZ4VWtyLWQ3MXFaZkpOVVFhRnE2azllRzJNdGQ4dTN3eTJnZjJEV2hVVkRjMUhlcEpSajFPTDJUS2JzSmpmSjhWNjd0XzJITEV5NGhfdXNvZ0ZzcUZEYXRNWEJSdGV6Q1pVd1hYVXBVNHdEdDJicEhT0gHKAUFVX3lxTE9hUzZ3QWpDZXY5RHFmbDA3ZnNmclRRNnBlX1BOYm1vS2xrTTcySzJwMGJ6ek9FODZzajdPQjZBcXQ3VldLb1pjamlOdHlVYzkwWVd3RFAzTjEwN0JsOGJIMkluSzNSbDJVUWpyVzNpZXNiMF9HU19nc09TNXYwRVpLOTlSSHFnR1lQdGtGU0tDU3VucGo4NTIya0JBRDdzNktxYXV4RmZIVTZYQnV5OFcwb0NSeC0wRHN5Y1Q1dU9lY21ueG1TdkxFcGc?oc=5",
+   "time": "2026-10-25T18:22:54+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Singapore haze: Air quality improves as 24-hour PSI readings in two regions drop out of unhealthy band",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzRQQXBTUFdaWS03TVFCaTV5QmJ2RHB3cDNvOGkteEVZREQxMnpNNHR4MFdWV1hISUNNNFhKcXlmcjBIdTBRMkl4UVZ3SWg3dWxJZm1zM0Z4cDB0RDdRaGtOT1NrWmFROG9KME9HbzZyZHg2VnFodmF3LVRlYXZQQnFnWnYtbWFOUVE?oc=5",
    "time": "2026-10-25T15:44:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "BusinessToday Malaysia",
-   "title": "Singapore Air Quality Remains Mixed As Haze Affects Three Regions",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZl9Zd3lvbmlOWmZuRW82cThmaTF6ZjJORGhmSWlJd3RtRTJKSm9tUzUyWnRId0VhSzFEODJ4d0RZdUR5WlFDTGVVZXhhWDk3ekt2cm41WEJKNGpwMzdfTi1USExOSzNxSkN1akE2UEctZFFFSV9DQWVuZGIwVlBUQzBXbExMeG1EUDNVd0hBYlhtdWJOM3o0Sy0xNkd0LXFpbDI3bUd0VFB6UHItSGxr?oc=5",
-   "time": "2026-10-25T14:46:58+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality remains unhealthy in three regions; PM2.5 readings normal across country",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUGgtNjBpdjdCWms1TTMwa05VcTY0bDVQSk5ybFN0MVBzU0htWXJGRkVDaGhoTU5UQ0hfY1hqeHd4d0h3aWZhRWlGT01VM0dwYkZpUnF0dTdwLTFNd3JMd3EyUGVDcE1ockRDZ191NUdqMzh6RUJZLWI3elNsVHFzRmhGcUJMa2JDUUdNd3B1VVhxTElKLUtHanBUTDktY3ZFM0ROU04wMkl5Mk0tUTNLS1I4M1VGcWV3M2hUU29EQ2xWcUlXYnBpaHd0WjBWS1R6MEZSNDNxczF5ZUQwS3ZCMg?oc=5",
-   "time": "2026-10-25T14:42:41+08:00",
    "summary": ""
   }
  ]
