@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-26T06:00:00+08:00",
+ "updated": "2026-10-26T07:00:00+08:00",
  "psi": {
-  "west": 77,
-  "east": 78,
-  "central": 75,
-  "south": 72,
-  "north": 71
+  "west": 76,
+  "east": 76,
+  "central": 73,
+  "south": 71,
+  "north": 69
  },
  "pm25": {
-  "west": 27,
-  "east": 28,
-  "central": 21,
-  "south": 29,
-  "north": 20
+  "west": 33,
+  "east": 24,
+  "central": 26,
+  "south": 20,
+  "north": 22
  },
  "hist": [
-  {
-   "t": "2026-10-24T05:00:00+08:00",
-   "psi": {
-    "west": 137,
-    "east": 113,
-    "central": 128,
-    "south": 110,
-    "north": 110
-   }
-  },
   {
    "t": "2026-10-24T06:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 72,
     "north": 71
    }
+  },
+  {
+   "t": "2026-10-26T07:00:00+08:00",
+   "psi": {
+    "west": 76,
+    "east": 76,
+    "central": 73,
+    "south": 71,
+    "north": 69
+   }
   }
  ],
- "newsUpdated": "2026-10-26T06:07:33+08:00",
+ "newsUpdated": "2026-10-26T07:07:42+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze in Singapore: Normal PM2.5 readings and good to moderate 24-hour PSI islandwide",
+   "url": "https://www.straitstimes.com/singapore/environment/haze-in-singapore-normal-pm2-5-readings-and-good-to-moderate-24-hour-psi-islandwide",
+   "time": "2026-10-26T06:10:49+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Seoul Economic Daily",
+   "title": "Haze From Indonesian Fires Guts Southeast Asia Tourism",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYV83MzRaelczRkRKZHU2ak0xVXFyVVBYVHIzclo5WFhnN3IwbVVCX0ROZDRQdDJCNFZ6RDdNT1BESUJKX2Y1S1psTWtsX3pCSTBxVVI4MWh4QTV3WG1VekQ0LWFiN3B2eFNPcnZnSlM0UE9sTS1aeG1WSWlfcFR0VEJEb1lvSUFNREFrRGY2MTgydWQ2VS1lREpLY1dWdmc0WnZQOA?oc=5",
+   "time": "2026-10-26T06:00:51+08:00",
+   "summary": ""
   },
   {
    "source": "Borneo Post",
@@ -581,20 +595,6 @@
    "title": "Haze: Johor schools to reopen in phases, starting with exam candidates",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUDhyN0ZyMkg1QTE1TnY1M3dyVGxPQ0Jiek5mZXFHV1U5WEh4bzVYY2dveEdmSDhHNncyWmFqTDNtOF8wY0p5bGZoQUtyOVBxVEdLSGZ4VWtyLWQ3MXFaZkpOVVFhRnE2azllRzJNdGQ4dTN3eTJnZjJEV2hVVkRjMUhlcEpSajFPTDJUS2JzSmpmSjhWNjd0XzJITEV5NGhfdXNvZ0ZzcUZEYXRNWEJSdGV6Q1pVd1hYVXBVNHdEdDJicEhT0gHKAUFVX3lxTE9hUzZ3QWpDZXY5RHFmbDA3ZnNmclRRNnBlX1BOYm1vS2xrTTcySzJwMGJ6ek9FODZzajdPQjZBcXQ3VldLb1pjamlOdHlVYzkwWVd3RFAzTjEwN0JsOGJIMkluSzNSbDJVUWpyVzNpZXNiMF9HU19nc09TNXYwRVpLOTlSSHFnR1lQdGtGU0tDU3VucGo4NTIya0JBRDdzNktxYXV4RmZIVTZYQnV5OFcwb0NSeC0wRHN5Y1Q1dU9lY21ueG1TdkxFcGc?oc=5",
    "time": "2026-10-25T18:22:54+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Haze: Johor schools to reopen in phases, exam candidates first",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaTdLb1VtcEF3ZXR2MENFNnVxZjZ2TUFvbGZhLVpPZk1ma1loWXpoSzdGLWM0VHpNQkYxaTZBOFdKYU9SNGoxdmZsV0FQR1JjUE4wM2ZFVzM0MWE3cTR1UUI4QWxLS1VndEwxaFJyVTdNZ0VuWnpDSUZZcTdlbWIxNl9rRWNGVGJ4V1p6REJNclotV3FwQy01bXZhenhDVmVnMG1CSEtDY2NiWjF4Ni10ZdIBsAFBVV95cUxPaTdLb1VtcEF3ZXR2MENFNnVxZjZ2TUFvbGZhLVpPZk1ma1loWXpoSzdGLWM0VHpNQkYxaTZBOFdKYU9SNGoxdmZsV0FQR1JjUE4wM2ZFVzM0MWE3cTR1UUI4QWxLS1VndEwxaFJyVTdNZ0VuWnpDSUZZcTdlbWIxNl9rRWNGVGJ4V1p6REJNclotV3FwQy01bXZhenhDVmVnMG1CSEtDY2NiWjF4Ni10ZQ?oc=5",
-   "time": "2026-10-25T18:18:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "Over 75,000 Indonesian toddlers suffering from acute respiratory infections brought on by haze",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IVFJ1dUNlSkxmUDFhTTY5YW9iY1dmNlcyZkxlM0IyVzI1Zld1LVVBa1QtRnRwMjM5Q1d3S1ZEYVk1UFRfZFRIdkJET0VfQ05vMUczS2hpdTFUU0pCeC00cHdOemhFMnlSNVZSMmlB?oc=5",
-   "time": "2026-10-25T17:48:57+08:00",
    "summary": ""
   }
  ]
