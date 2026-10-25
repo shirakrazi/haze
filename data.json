@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-25T10:00:00+08:00",
+ "updated": "2026-10-25T11:00:00+08:00",
  "psi": {
-  "west": 132,
-  "east": 109,
-  "central": 109,
-  "south": 100,
-  "north": 107
+  "west": 129,
+  "east": 107,
+  "central": 106,
+  "south": 98,
+  "north": 104
  },
  "pm25": {
-  "west": 31,
-  "east": 48,
-  "central": 44,
-  "south": 37,
-  "north": 48
+  "west": 33,
+  "east": 39,
+  "central": 27,
+  "south": 20,
+  "north": 38
  },
  "hist": [
-  {
-   "t": "2026-10-23T09:00:00+08:00",
-   "psi": {
-    "west": 90,
-    "east": 71,
-    "central": 79,
-    "south": 69,
-    "north": 67
-   }
-  },
   {
    "t": "2026-10-23T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 100,
     "north": 107
    }
+  },
+  {
+   "t": "2026-10-25T11:00:00+08:00",
+   "psi": {
+    "west": 129,
+    "east": 107,
+    "central": 106,
+    "south": 98,
+    "north": 104
+   }
   }
  ],
- "newsUpdated": "2026-10-25T10:07:06+08:00",
+ "newsUpdated": "2026-10-25T11:07:04+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality remains unhealthy in most regions; PM2.5 readings normal across country",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQWNNTS01dFhIS2tOMlY2Tld6WXdDRnlpZUhYXzBvbDZ4M0FUc081OUtxZkZ4SWp6RGRRcnBzZU5TTlNjeG80dHdyYXNSWXFUOUgtdVByU3RHdFNjbUpwNk41VjNtLTREVWNyZkpmSndlMEFTNGVRSUxUWkpySXA4TnplbXI2a2NiVk1zaXNPenhfSFdLRGU1T1JobGoyWXZxRktlUnV0bUZmUUE2enZDQWZEX3M2dmEyTktYbXZPYnZ0aGQzZWVzSkc5NC1OTWs2bTMtQ2tPVHRhTWlhQ3RN?oc=5",
+   "time": "2026-10-25T10:06:26+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne.com",
@@ -567,13 +574,6 @@
    "title": "Singapore haze: Air quality unhealthy, PM2.5 readings elevated across country",
    "url": "https://www.channelnewsasia.com/singapore/singapore-haze-air-quality-unhealthy-pm25-readings-elevated-across-country-6489876",
    "time": "2026-10-25T06:59:54+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality unhealthy across country; PM2.5 readings elevated in two regions",
-   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-air-quality-unhealthy-across-country-pm25-readings-elevated-in-two-regions-6489876",
-   "time": "2026-10-25T06:59:00+08:00",
    "summary": ""
   },
   {
