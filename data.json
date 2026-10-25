@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-25T16:00:00+08:00",
+ "updated": "2026-10-25T17:00:00+08:00",
  "psi": {
-  "west": 116,
-  "east": 104,
-  "central": 101,
-  "south": 96,
-  "north": 96
+  "west": 112,
+  "east": 103,
+  "central": 100,
+  "south": 95,
+  "north": 95
  },
  "pm25": {
-  "west": 20,
-  "east": 37,
+  "west": 11,
+  "east": 26,
   "central": 34,
-  "south": 31,
-  "north": 24
+  "south": 24,
+  "north": 25
  },
  "hist": [
-  {
-   "t": "2026-10-23T15:00:00+08:00",
-   "psi": {
-    "west": 99,
-    "east": 82,
-    "central": 91,
-    "south": 83,
-    "north": 76
-   }
-  },
   {
    "t": "2026-10-23T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 96,
     "north": 96
    }
+  },
+  {
+   "t": "2026-10-25T17:00:00+08:00",
+   "psi": {
+    "west": 112,
+    "east": 103,
+    "central": 100,
+    "south": 95,
+    "north": 95
+   }
   }
  ],
- "newsUpdated": "2026-10-25T16:07:12+08:00",
+ "newsUpdated": "2026-10-25T17:07:16+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Star",
+   "title": "Haze: 27 schools in Tebedu to be closed on Oct 26",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXlZLWVVR0NMODBZNnhGdXZCcWV1b2R2WmplTTlLZF9DM0pnc1dYWDlheTdQZ2dBemVXNWowWHhmSkpsMW8xRDZ1Vm9aMExCTU9USlRDd2FjWlIzYy1lNUQzanJDU18wYTNQNWRTVDRCdzRIN1A3OEQxUXBrLTNOX0JVNS1ScU9RZTd6aE14ZmVXUXlDSVA2Q2JqUmdxVTA?oc=5",
+   "time": "2026-10-25T16:26:00+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -588,13 +595,6 @@
    "title": "Haze: 11 areas record unhealthy API readings at 11am, Serian highest",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzdkdFBkUXNOX0dxcmFLd0tvaDFVY1VRVU5oWU1rLWdQbnI4b2IzMTU1blV6a3JweGtzYWR0YjAtaENXRTZNdmEwbnBUWmtaQWZaTFRHVGp0ZGppOWt2RE9ZTjBsTTN5Sjl3NnpmLWVPMHd5cGVqLUhjTlRReGFwWDN2R2xJRTBFNHdnYzI2TkJOWTBHako3ZDV4Q1pjbDlHRXVIZXUzYUZTeFE3Z3UySGgxTnhFSFU?oc=5",
    "time": "2026-10-25T11:35:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality remains unhealthy in most regions; PM2.5 readings normal across country",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQWNNTS01dFhIS2tOMlY2Tld6WXdDRnlpZUhYXzBvbDZ4M0FUc081OUtxZkZ4SWp6RGRRcnBzZU5TTlNjeG80dHdyYXNSWXFUOUgtdVByU3RHdFNjbUpwNk41VjNtLTREVWNyZkpmSndlMEFTNGVRSUxUWkpySXA4TnplbXI2a2NiVk1zaXNPenhfSFdLRGU1T1JobGoyWXZxRktlUnV0bUZmUUE2enZDQWZEX3M2dmEyTktYbXZPYnZ0aGQzZWVzSkc5NC1OTWs2bTMtQ2tPVHRhTWlhQ3RN?oc=5",
-   "time": "2026-10-25T11:28:51+08:00",
    "summary": ""
   }
  ]
