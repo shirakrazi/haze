@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-25T22:00:00+08:00",
+ "updated": "2026-10-25T23:00:00+08:00",
  "psi": {
-  "west": 101,
-  "east": 94,
-  "central": 93,
-  "south": 87,
-  "north": 88
+  "west": 98,
+  "east": 92,
+  "central": 91,
+  "south": 86,
+  "north": 86
  },
  "pm25": {
-  "west": 45,
-  "east": 37,
-  "central": 42,
-  "south": 40,
-  "north": 28
+  "west": 46,
+  "east": 38,
+  "central": 40,
+  "south": 32,
+  "north": 33
  },
  "hist": [
-  {
-   "t": "2026-10-23T21:00:00+08:00",
-   "psi": {
-    "west": 110,
-    "east": 95,
-    "central": 110,
-    "south": 94,
-    "north": 92
-   }
-  },
   {
    "t": "2026-10-23T22:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 87,
     "north": 88
    }
+  },
+  {
+   "t": "2026-10-25T23:00:00+08:00",
+   "psi": {
+    "west": 98,
+    "east": 92,
+    "central": 91,
+    "south": 86,
+    "north": 86
+   }
   }
  ],
- "newsUpdated": "2026-10-25T22:07:24+08:00",
+ "newsUpdated": "2026-10-25T23:07:47+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "NEA.gov.sg",
+   "title": "Haze Situation Update (25 October 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkxRRWFyMFBEMl9ONUc2RHJETThkUXRxQVQxU1ZDd1BtSWlwcmRJRHNyYWRVMFhmbzhLSGQweHNpREhRaW9BOWk4SmJTQkZQcXg5WFZBVHRBX2h3ZVVQSmh2R29pWFpSU0hLT2dsZTJCeEtwYU85QW9fY29KN1JKZng3UTNqOWx2Q2YxUEc1b1VOZw?oc=5",
+   "time": "2026-10-25T21:25:50+08:00",
+   "summary": ""
   },
   {
    "source": "Mothership",
@@ -532,13 +539,6 @@
    "title": "Haze: Eight areas record unhealthy API readings as of 6pm, Oct 25",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWNfSmI3YlRJbk5xb3ZlcVdpb2hMMFdaWDFydk5JRzlzTWRXMHhra05RLUpHelFpa1RaRXRaeTZKSVFGX1dCOVNFVDJONEk1WlZZOVF4ZlF1WUMyLW9DZVFXUmFBTFMxVlZrOFE5X3BrbTE1amc5RHkwQUZXNWVQRGxCeVF1MkV3MG54MDlidWtBQXNleEVrYnhHclIwZnhDd3c0WFJ3TFg5a3ZZQ0gwSUNqWQ?oc=5",
    "time": "2026-10-25T19:21:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NEA.gov.sg",
-   "title": "Haze Situation Update (25 October 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkxRRWFyMFBEMl9ONUc2RHJETThkUXRxQVQxU1ZDd1BtSWlwcmRJRHNyYWRVMFhmbzhLSGQweHNpREhRaW9BOWk4SmJTQkZQcXg5WFZBVHRBX2h3ZVVQSmh2R29pWFpSU0hLT2dsZTJCeEtwYU85QW9fY29KN1JKZng3UTNqOWx2Q2YxUEc1b1VOZw?oc=5",
-   "time": "2026-10-25T19:19:16+08:00",
    "summary": ""
   },
   {
