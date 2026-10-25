@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-25T13:00:00+08:00",
+ "updated": "2026-10-25T14:00:00+08:00",
  "psi": {
-  "west": 124,
+  "west": 121,
   "east": 106,
-  "central": 104,
+  "central": 103,
   "south": 97,
-  "north": 99
+  "north": 98
  },
  "pm25": {
-  "west": 52,
-  "east": 46,
-  "central": 32,
-  "south": 30,
-  "north": 34
+  "west": 24,
+  "east": 47,
+  "central": 34,
+  "south": 51,
+  "north": 32
  },
  "hist": [
-  {
-   "t": "2026-10-23T12:00:00+08:00",
-   "psi": {
-    "west": 92,
-    "east": 74,
-    "central": 81,
-    "south": 75,
-    "north": 67
-   }
-  },
   {
    "t": "2026-10-23T13:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 97,
     "north": 99
    }
+  },
+  {
+   "t": "2026-10-25T14:00:00+08:00",
+   "psi": {
+    "west": 121,
+    "east": 106,
+    "central": 103,
+    "south": 97,
+    "north": 98
+   }
   }
  ],
- "newsUpdated": "2026-10-25T13:07:05+08:00",
+ "newsUpdated": "2026-10-25T14:07:54+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality remains unhealthy in three regions; PM2.5 readings normal across country",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUGgtNjBpdjdCWms1TTMwa05VcTY0bDVQSk5ybFN0MVBzU0htWXJGRkVDaGhoTU5UQ0hfY1hqeHd4d0h3aWZhRWlGT01VM0dwYkZpUnF0dTdwLTFNd3JMd3EyUGVDcE1ockRDZ191NUdqMzh6RUJZLWI3elNsVHFzRmhGcUJMa2JDUUdNd3B1VVhxTElKLUtHanBUTDktY3ZFM0ROU04wMkl5Mk0tUTNLS1I4M1VGcWV3M2hUU29EQ2xWcUlXYnBpaHd0WjBWS1R6MEZSNDNxczF5ZUQwS3ZCMg?oc=5",
+   "time": "2026-10-25T13:21:53+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Zahid: Malaysia reaffirms commitment to assist Indonesia in tackling transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYXhzX090eWtoQktmbVM5b0FzV09uamRNVU9LRHpfWHcwUmplOTB6MU9qNnJtUlN1U2FSa3F6ZDI0VjJNX1ZoU1k5S3JxeVhhTE8yYUZ4ckIzbmFMMjVxeHZEd3VzQVpPekFSQWNhX1ZrdElrTjR0U3FYTnRqVDJsRWlLWTlRT3p2elE4Q3dneGlhY3c2OGZmdGQzaE5xN3Faamtxek9MSW1QVlNLcjNwT09UdllocUNMOXF2R3ZmdHhuNGRIT0tqUTlOVm1yQjVjVElIMUloRVBnUXlD0gHiAUFVX3lxTE1fX3RlWTJCVE5rQWZwZHdJemlWT3ZMbjlKallrWUtmVnQ2RUZVNXhRZ2NfZC1EeWFtUXdTODVRbVFpTkIzR3EyT19yRGhwY0pwTUo3RUlkaWJJaHdDOExnOE1WSnBIT3hMaGlBNzd1UjZYRk1uc2NJdEJnSHVWbGNoNW9BLUhmblg1NjljMUFXa3RGV3RKYk1kNEVNZktBRHFCY01zaUozbkhsZTUtNlZXWGhzQ2ozR0ZyQ242SVJ4NGNFTGxoSjZYMVNPeG93STZrNVdxX0RTR1dmeC1Ed3JTV0E?oc=5",
+   "time": "2026-10-25T12:26:52+08:00",
+   "summary": ""
   },
   {
    "source": "The Edge Malaysia",
@@ -525,6 +539,34 @@
    "title": "Haze anger fuels calls in Malaysia to boycott products and pursue polluters",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT2NocDQ2OVQ5M1ZYbEhVT1d1aEZkdlRlWEVyY1RCTjh6bHJWSEx0UmRKSG5CNHp5Nk9ydjlDZjdjcnZuRWFjdnJlLWRxU2RUSl9FOGNfZGw3d0xWTW1Uc2NodUJ6c090WUpKZ1cyOF9vX0dQMmR0aFBleXVBT3d5MkFxYUx0T1VMNDZLcGptUWw0RFNvMkNUckVXakllaldoTXc1ZjNma0ZINDhBcWk1UGxSYzFGTnRuVGxBSkE0X2pCQzFqTFNqdg?oc=5",
    "time": "2026-10-25T12:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Sun Malaysia",
+   "title": "Cabinet discusses Malaysia’s assistance to Indonesia over transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWlIzVTlOa1ZyT2wtWEV4Tkp3a3o5UF81UlY2M3BkekptY0J5STVmTU1QMzExb200WHlxbERic2J2UUd1V3VKN3VtbkZyeENMM3lWZmJ6Um82WWF3U0JQMGxvMVp4TTcxYlZDeXc2S0o1VHVBdk1Hc2F2THAwNWxUY3ZELUdDNm01OUFVZjAtOEQxOWlhVzl3OV9oaW56UHpK?oc=5",
+   "time": "2026-10-25T11:58:23+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Serian top of the haze chart at API 194 as of 10am as 12 areas turn unhealthy",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmxrY0I2b251SmdTUEpMMmtqU0RrWlp0blpjRjNQLTFUazJpcmhEUEFUaE5IcjFuZUtUbHBoNDNHUllCTjNHYXNENHh1aFNaQjI1RklQSWxvWkxSR0h2Y20wQms0bFNNVm5xLS14b3F1aDZKeDE1LUU3VWFOUDZ2TjI2dks3d1NZWHhVRGVjSk13VldpRFItNW9XNjJJNzY4RnZlQ05GVzFQZEQ0SWNVdmYwUjhRNzVEVFNvVTJiYnRYNXhoQnB4cDExemdZTFdG0gHWAUFVX3lxTFAtd09tOVdLWUdsd2k4VWQ4UGRybEdPLUNvel9kWENOekJTVWx4XzVYd2ZYcTBlX2JLdm5xSzdRenVBandhemlTblp0Zzc5NUQ4cTJIUjNDQmJHVk1sdENYVVNDc3FxWUNpWm9jNXdqVXV6a2NPX0xSbkYwTkZYd3RhMGNZU282cElwVy1vUVgxdi1uRVhfdDQ2eUttNHRlRGVYNTNUVHBHajhLTDhkUTlVMzdrV1NNRFF3YlVxNUkwLThVX2RYM191Q3ZkekVnZTg4Vkd0SFE?oc=5",
+   "time": "2026-10-25T11:55:58+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Jakarta Post",
+   "title": "Students protest Central Kalimantan haze",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNclphWFdELThZbFU0bjNmTUZ3cjc4ZzR6UDBZYzBfVmVJUFpXYWI1SWU4azBZVWd4T0hmZlhOeTd4b1RXbksxbF9sUE53NkxHLU50ejdJcmRGaTFYTHYyajlMNC10a3VLOXZuaWQ3bjNFZ00yZWk5UkxKN1d4My1SYUU5MVVVWWxuN1h6c0hlc2FVMVR0cXl6YXVzdURILW1QcE1BbDU3eXZCTklVSVl6Tmk1X0FYdUZOWWNrYmpjTzFrM0tJNk45bnE3NjhuM2dH?oc=5",
+   "time": "2026-10-25T11:48:38+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Haze: 11 areas record unhealthy API readings at 11am, Serian highest",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzdkdFBkUXNOX0dxcmFLd0tvaDFVY1VRVU5oWU1rLWdQbnI4b2IzMTU1blV6a3JweGtzYWR0YjAtaENXRTZNdmEwbnBUWmtaQWZaTFRHVGp0ZGppOWt2RE9ZTjBsTTN5Sjl3NnpmLWVPMHd5cGVqLUhjTlRReGFwWDN2R2xJRTBFNHdnYzI2TkJOWTBHako3ZDV4Q1pjbDlHRXVIZXUzYUZTeFE3Z3UySGgxTnhFSFU?oc=5",
+   "time": "2026-10-25T11:35:00+08:00",
    "summary": ""
   },
   {
@@ -553,48 +595,6 @@
    "title": "PM2.5 normal on Sunday morning; haze likely to ease from Monday, Singapore News",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96YjR1Q2hqYU56S0V3RGhMcGgySmpYRzF1N1hkUEsxYmpQQUhWenV3ZWF0NEJ5NVcxaF9UQmM5elpNVGgwV0MzZGpCNnhVY0t4Qi1sSXBxOC1TVlpqeTU0T3BkbTA0eHlQMm4zc1ZGMkhBaGo2RmpBdA?oc=5",
    "time": "2026-10-25T09:48:08+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bloomberg.com",
-   "title": "Singapore Expands Haze Investigation to 10 Locally Based Firms",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd1hvdzdJMm5nYThaQkhXa3E0Rkt4WnZuWkJqZ2NnME1CRXFJbF9tcEI3Ymxlblg3d2Utc3NDcjZBSWRuLVY0ekhBSXI2ZkZ2S0pDcUhBeGxZSnlXblQ0NE82VkRza0pwTnVRWEZpN0dvVXFlMUtVQ2VkNkFzZHBBSDV4WW5td0Jsc3g1SnFaN1ZSSEZ1dGtKdi1SY0cyMHpVLXdTcmI2aHJJVkpKSDlTaTlQOA?oc=5",
-   "time": "2026-10-25T09:43:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Haze spreads to 5 Sarawak spots while Klang Valley air improves slightly, Malaysia News",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHlRNFB6T2xZLWM0U2liMU92Mjg1MElvOWEyWWVoampzRnYxaU1FYkNid01xdHF6VWFpSGl6SV9xeEZZUjFoay11WVFFMjNoR2VtZDhvOEQyNk5odHJVTVlJaXA0b1A5dVlvbDNPeFdIUUl3QzRkZV9IQXlzNzBZeFZTZUk2VGRXTjY1MDloQ1lTUlNTcXQ2dU1JWWpOYThScHZUOQ?oc=5",
-   "time": "2026-10-25T09:28:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality remains unhealthy across country; PM2.5 readings normal in all regions",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcXNReDI3UklVZ2swcTYweUdnblNMMnZSeElHaHYxZlQ2ZFNTR1lBc0FNOWEwVUp4VVpyekRIa1B0VzRoTFVkb3JqMjB6TEdOb3FxeW1jRmlSbkdpc0tWWnZhaG5LQVNTSkptZHktX1R3Tmw1YUN5d2s3QzVYdFlLdEtEaTBId1ZfalhtRUE5aHBtSTdJUG5YNTE5T0RCUGJKclp5X2J5c19HcHFNZUZiNTFod3FVMkhSSW1qNlZ3NkRFa0hsQjZIMERLb3BYeW9HLWNjU3lhS09Mc2MxNFE?oc=5",
-   "time": "2026-10-25T09:22:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "UA.NEWS",
-   "title": "Air quality in Singapore remains unhealthy — Channel NewsAsia",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzg0QmJ5NzBnSG1yWkpiWXFuRHplVmY2MGtlUDRCMVlRMDBOdjNSQTZWREVLRUJtRnBYdFczRU1hLW5pQnZiZV9saXRPZ3ZDd05mS1ZMZGtNR0ZrWTdEd25TMzhvbFgtYWwxSFBNYk5sUGZHbWh0aWU4b3Y3cERrUGN4bEhobml1ZWtDRlV6RXpTNU95VzBvNVlxVmw5WXRndWZr?oc=5",
-   "time": "2026-10-25T09:20:33+08:00",
-   "summary": ""
-  },
-  {
-   "source": "DollarsAndSense.sg",
-   "title": "7 SGX-Listed Palm Oil Companies In Focus As Haze Highlights Why Corporate Governance Matters Beyond Profits",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRnFVSHRsYlpFSnRDWjlmQ1M1MUVUMVZpOFd3ZWVUMEpROHRPZUI2UnlUUDF4cm04Y0tiT0RzY0RUUkFUdzE5NU80MlN3dF9xLW8xNzRRTTJybFdlczdOLXljNnpFaTgyMFJ6TmlTTW1kV2t3WEdvWm02emstMlNRLW5SaDU4LThqb2NR?oc=5",
-   "time": "2026-10-25T07:16:46+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze in Singapore: Air quality improves as PM2.5 readings in 3 regions return to ‘normal’",
-   "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-improves-as-pm2-5-readings-in-3-regions-return-to-normal",
-   "time": "2026-10-25T07:14:52+08:00",
    "summary": ""
   }
  ]
