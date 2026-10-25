@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-25T09:00:00+08:00",
+ "updated": "2026-10-25T10:00:00+08:00",
  "psi": {
-  "west": 135,
-  "east": 110,
-  "central": 111,
-  "south": 102,
-  "north": 108
+  "west": 132,
+  "east": 109,
+  "central": 109,
+  "south": 100,
+  "north": 107
  },
  "pm25": {
-  "west": 28,
-  "east": 45,
-  "central": 49,
-  "south": 40,
-  "north": 47
+  "west": 31,
+  "east": 48,
+  "central": 44,
+  "south": 37,
+  "north": 48
  },
  "hist": [
-  {
-   "t": "2026-10-23T08:00:00+08:00",
-   "psi": {
-    "west": 90,
-    "east": 72,
-    "central": 79,
-    "south": 68,
-    "north": 67
-   }
-  },
   {
    "t": "2026-10-23T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 102,
     "north": 108
    }
+  },
+  {
+   "t": "2026-10-25T10:00:00+08:00",
+   "psi": {
+    "west": 132,
+    "east": 109,
+    "central": 109,
+    "south": 100,
+    "north": 107
+   }
   }
  ],
- "newsUpdated": "2026-10-25T09:39:53+08:00",
+ "newsUpdated": "2026-10-25T10:07:06+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "PM2.5 normal on Sunday morning; haze likely to ease from Monday, Singapore News",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96YjR1Q2hqYU56S0V3RGhMcGgySmpYRzF1N1hkUEsxYmpQQUhWenV3ZWF0NEJ5NVcxaF9UQmM5elpNVGgwV0MzZGpCNnhVY0t4Qi1sSXBxOC1TVlpqeTU0T3BkbTA0eHlQMm4zc1ZGMkhBaGo2RmpBdA?oc=5",
+   "time": "2026-10-25T09:48:08+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne.com",
@@ -517,7 +524,7 @@
    "source": "CNA",
    "title": "Singapore haze: Air quality remains unhealthy across country; PM2.5 readings normal in all regions",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcXNReDI3UklVZ2swcTYweUdnblNMMnZSeElHaHYxZlQ2ZFNTR1lBc0FNOWEwVUp4VVpyekRIa1B0VzRoTFVkb3JqMjB6TEdOb3FxeW1jRmlSbkdpc0tWWnZhaG5LQVNTSkptZHktX1R3Tmw1YUN5d2s3QzVYdFlLdEtEaTBId1ZfalhtRUE5aHBtSTdJUG5YNTE5T0RCUGJKclp5X2J5c19HcHFNZUZiNTFod3FVMkhSSW1qNlZ3NkRFa0hsQjZIMERLb3BYeW9HLWNjU3lhS09Mc2MxNFE?oc=5",
-   "time": "2026-10-25T08:09:30+08:00",
+   "time": "2026-10-25T09:22:18+08:00",
    "summary": ""
   },
   {
@@ -546,6 +553,13 @@
    "title": "Five Singapore firms cooperate in haze probe",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2VBVDB5LUxRSTVUM3NxbGZHb25CWUYyUm1WaFVfTGFERkFyS2trNlRYNV9KMVlxbVdqUjFnUWtBR0pLUW41R2tUbHYyWS1NR2tQbi00dVJkaUpiMUNZYTMzbHZMMUF4Uk15a3Vmd05qem9rbDllcWw2eUYzQ3VrWg?oc=5",
    "time": "2026-10-25T07:03:24+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malaysiakini",
+   "title": "Sabak Bernam MP clears the air on viral Javanese haze appeal",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX3VGQVlVNkFxRC00cmpoZVowSkZjUjNPNGhxMHVnSDVaeVNRSVQteFBvRkZnMEtSV2g4UVFuek1UZmJFd1MwcS1LMU9PUXR1Zlp6elQ3Szd5RUI0MUJZRkJWa1ItQUhJbm5OejRYaERDNnpXMkswZWJLYnN2UktnaDFIMXRyRFRNN0l2dE9zd292NS1qZFRHcXlSM0s3OE4yczMw?oc=5",
+   "time": "2026-10-25T07:00:00+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Who owns the 10 S’pore firms targeted by the haze law?",
    "url": "https://www.straitstimes.com/singapore/who-owns-the-10-spore-firms-targeted-by-the-haze-law",
    "time": "2026-10-24T23:57:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Yahoo News Singapore",
-   "title": "Who owns the 10 Singapore firms targeted by the haze law?",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4eExxMTFjRVU0UDN2Z3owR1hlSC13UGVKT1FNS2kwdG4yYW91MFpFczFldThkR2xFWEVTdm03akZkRXlQclVBbU5pWGVqS3U4VnY2RVlObFhQTUh0T1dNTUwzLU9DSC0xemxYX3kwTjdtb2s3LUNN?oc=5",
-   "time": "2026-10-24T23:57:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "UA.NEWS",
-   "title": "Minister Fu: Singapore tap water safe despite haze — Channel NewsAsia",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS1F4SUpJRlU2T2xvcHN1dFoxV2UtazVwSk5QMHEzWUhyOGZic0VKcHV0S0dMQjE4ZXVBV1VFMF9waklpaXRHTnY2U1JLSng2ZGE1TzNTUnN4TWMwcGRrVzFuanoyX0V0WlB6aGRvSzNmQ3dYNUhoNW9peFpwVW94RHVlZFFzUEFNZnJVMFY3MEhhM3VwTFhtNlUyWDNxdHdCcUdfbTlsdjJlbGJSYWpBREln?oc=5",
-   "time": "2026-10-24T23:06:32+08:00",
    "summary": ""
   }
  ]
