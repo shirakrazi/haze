@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-25T20:00:00+08:00",
+ "updated": "2026-10-25T21:00:00+08:00",
  "psi": {
-  "west": 105,
-  "east": 98,
-  "central": 96,
-  "south": 90,
-  "north": 92
+  "west": 103,
+  "east": 96,
+  "central": 95,
+  "south": 88,
+  "north": 90
  },
  "pm25": {
-  "west": 60,
-  "east": 38,
-  "central": 34,
-  "south": 39,
-  "north": 26
+  "west": 55,
+  "east": 34,
+  "central": 41,
+  "south": 32,
+  "north": 24
  },
  "hist": [
-  {
-   "t": "2026-10-23T19:00:00+08:00",
-   "psi": {
-    "west": 109,
-    "east": 91,
-    "central": 105,
-    "south": 91,
-    "north": 87
-   }
-  },
   {
    "t": "2026-10-23T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 90,
     "north": 92
    }
+  },
+  {
+   "t": "2026-10-25T21:00:00+08:00",
+   "psi": {
+    "west": 103,
+    "east": 96,
+    "central": 95,
+    "south": 88,
+    "north": 90
+   }
   }
  ],
- "newsUpdated": "2026-10-25T20:08:56+08:00",
+ "newsUpdated": "2026-10-25T21:07:32+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Southeast Asia haze: Indonesia steps up firefighting efforts at Way Kambas National Park in Sumatra",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYjhCTjFsamtEZ2ZhN293dG1wdHdCaV91cTJmaDhkbmVhbnVOWGZ4cnVmcWZTNVVXRzFWUWVqRG1hY3l5R1I3TkFSSDM5cjVMekNjc0hteEZjN1BlMWJjM0pLU0hfTV84aGFoU1l4SVRIM0JNVWxTbHBKSUpmb1p3eGpYcUd3cjQ0TnRESkEtVURiam9XcEVDRFVSTlZGZDdOdE5oZnNpMDU4bGVDVUlWSTJWZXhWWERVQlR5NE45SXVKY3JneDZKeFRVa2FhRkFTNVJiSmc5Q0s?oc=5",
+   "time": "2026-10-25T20:43:36+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -525,6 +532,13 @@
    "title": "Haze Situation Update (25 October 2026)",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkxRRWFyMFBEMl9ONUc2RHJETThkUXRxQVQxU1ZDd1BtSWlwcmRJRHNyYWRVMFhmbzhLSGQweHNpREhRaW9BOWk4SmJTQkZQcXg5WFZBVHRBX2h3ZVVQSmh2R29pWFpSU0hLT2dsZTJCeEtwYU85QW9fY29KN1JKZng3UTNqOWx2Q2YxUEc1b1VOZw?oc=5",
    "time": "2026-10-25T19:19:16+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Haze: Eight areas nationwide record unhealthy API as of 6pm, Serian highest at 192",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZTZDU3prem5HQml1RFZkczhfdDMzQjZfRFdWYnJoN1RCbHg1SlVkNXdSU0lkRTNueG1CZ0tkeWFkaWtiSHFqMzkzZWRyMElrLWZHQ0szaGhzRnNIQXZqMEpoeDhCY1RJblhKc19ERnljemhQNDQ3WmthRW1zUWFQQmxEMzhUWThlSDlra0Zqckh2TVVKNTBVOVhJOFE3bXZwTUlKcFdmUW1XZ1VuQl9QRDFkRVN2elVkbWh5TEtWMnNXRHFGYzNPeGdDVks3QWRVQ21zZ9IB2gFBVV95cUxObG9vWXNsdGJkVVFVcEJkeEY1cExNSF8tY0lpQVRFdDg3VDYzMktZNVlpWEFRSHNZb0RMN29wbWQ5dmF5TFhSV2s3aGRERzZLU1h2YkpVdXJzNVk1UmRraGI2RVNGdURZdVgzVzJVRlRyT2NsOG9iRTZBLUJGekdRQXF3cURmemVOdzZ3TWNfYjVwN2ZKY2IySGZMc3REeGRsaTRnSzRSTW9YQ2h4N2g5eXQ5UzN1S0ZXWUpSejdJZGdwRVYyU0NMY2llRDdDZktWZ1QwcXJSTjMxdw?oc=5",
+   "time": "2026-10-25T19:02:35+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Singapore haze: Air quality remains unhealthy in three regions; PM2.5 readings normal across country",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUGgtNjBpdjdCWms1TTMwa05VcTY0bDVQSk5ybFN0MVBzU0htWXJGRkVDaGhoTU5UQ0hfY1hqeHd4d0h3aWZhRWlGT01VM0dwYkZpUnF0dTdwLTFNd3JMd3EyUGVDcE1ockRDZ191NUdqMzh6RUJZLWI3elNsVHFzRmhGcUJMa2JDUUdNd3B1VVhxTElKLUtHanBUTDktY3ZFM0ROU04wMkl5Mk0tUTNLS1I4M1VGcWV3M2hUU29EQ2xWcUlXYnBpaHd0WjBWS1R6MEZSNDNxczF5ZUQwS3ZCMg?oc=5",
    "time": "2026-10-25T14:42:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Borneo Post",
-   "title": "Indonesia cuts natural gas exports to Singapore amid regional haze dispute",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYlFCU1pyV3dZUkZjZkdNcU91ZzZqdVBaS3FrWlBlUGVadV9feGRwM3hBMHpNNUFrWlRWR2JPU0ZWWDBJaEc3cmljRldTRFkzTXBQdWhLU1FHTW43UU9aanR2cmtMNHE5WUxFSHZyMUxiTXhTYU56bHZfQ0RjTlBoN0xhUGxsUHk5S3pBTXpHV3FUSW1VNWU3Vi1RX1RfeE4wSktFN3AwRnY5S3RHRVB1eUJVN0IyQWM?oc=5",
-   "time": "2026-10-25T14:01:52+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Malaysian Reserve",
-   "title": "Malaysia remains committed to offer of aid to Indonesia to tackle haze",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSFRoUEpURmtCQ1JRQnRFWWNZTE1HMmxzcjd1V2tyRVB4SjlxV0J2R3MyS0lVV1pBdWNicVdNcC1ZM3EzdXV3R2Fhc3NxVk1oc1FXLXVJTEtvTlVEVFJINlRfcjdhb0ItNV82cXhJWDE2Z1o2eW9jbzJlekZQM0Y2cWRSVGU3NllzUHFKVUZqd3FGQm5SY1BoMHVXV2FVcXp1b3l6N1BvUTcwQWZ2UllzRGZST1lfYkxNUEE?oc=5",
-   "time": "2026-10-25T13:36:49+08:00",
    "summary": ""
   }
  ]
