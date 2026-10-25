@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-25T19:00:00+08:00",
+ "updated": "2026-10-25T20:00:00+08:00",
  "psi": {
-  "west": 107,
-  "east": 99,
-  "central": 97,
-  "south": 91,
-  "north": 94
+  "west": 105,
+  "east": 98,
+  "central": 96,
+  "south": 90,
+  "north": 92
  },
  "pm25": {
-  "west": 46,
-  "east": 40,
-  "central": 41,
+  "west": 60,
+  "east": 38,
+  "central": 34,
   "south": 39,
-  "north": 25
+  "north": 26
  },
  "hist": [
-  {
-   "t": "2026-10-23T18:00:00+08:00",
-   "psi": {
-    "west": 108,
-    "east": 89,
-    "central": 102,
-    "south": 89,
-    "north": 85
-   }
-  },
   {
    "t": "2026-10-23T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 91,
     "north": 94
    }
+  },
+  {
+   "t": "2026-10-25T20:00:00+08:00",
+   "psi": {
+    "west": 105,
+    "east": 98,
+    "central": 96,
+    "south": 90,
+    "north": 92
+   }
   }
  ],
- "newsUpdated": "2026-10-25T19:07:33+08:00",
+ "newsUpdated": "2026-10-25T20:08:56+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,38 @@
    "pinned": true
   },
   {
+   "source": "The Straits Times",
+   "title": "PSI forecast to be in ‘good to moderate’ range on Oct 26; showers over S’pore may reduce haze",
+   "url": "https://www.straitstimes.com/singapore/psi-forecast-to-be-in-good-to-moderate-range-on-oct-26-showers-over-spore-may-reduce-haze",
+   "time": "2026-10-25T20:03:35+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Haze: Eight areas record unhealthy API readings as of 6pm, Oct 25",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWNfSmI3YlRJbk5xb3ZlcVdpb2hMMFdaWDFydk5JRzlzTWRXMHhra05RLUpHelFpa1RaRXRaeTZKSVFGX1dCOVNFVDJONEk1WlZZOVF4ZlF1WUMyLW9DZVFXUmFBTFMxVlZrOFE5X3BrbTE1amc5RHkwQUZXNWVQRGxCeVF1MkV3MG54MDlidWtBQXNleEVrYnhHclIwZnhDd3c0WFJ3TFg5a3ZZQ0gwSUNqWQ?oc=5",
+   "time": "2026-10-25T19:21:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NEA.gov.sg",
+   "title": "Haze Situation Update (25 October 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkxRRWFyMFBEMl9ONUc2RHJETThkUXRxQVQxU1ZDd1BtSWlwcmRJRHNyYWRVMFhmbzhLSGQweHNpREhRaW9BOWk4SmJTQkZQcXg5WFZBVHRBX2h3ZVVQSmh2R29pWFpSU0hLT2dsZTJCeEtwYU85QW9fY29KN1JKZng3UTNqOWx2Q2YxUEc1b1VOZw?oc=5",
+   "time": "2026-10-25T19:19:16+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Independent Singapore",
    "title": "‘Declare a national emergency’: Indonesian students protest as wildfire haze blankets Palangkaraya",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXJ6aS1PU2c2Q2JWVlU5U0F4dUtkZDR0U3ZWZXZHenFpLWp3MlAyWG9wWHY0cU53bE9qS3FkZm1VeFZiLXE0Z2lWb1ZWNG9WU2VySHczQ2hhLXZMLXpmYzJxVDA1bXVvbEpXQWNnUnZ2ckVIeUJyc1g2YjJWaTdSdTg0cmNvNUNfdVNRdVB2MjlqcUMtWEdjdG9PdG1MTVBoTk5uMTdSZDIxZXRfa3E4akpiZm9xQm1yV0ZqY013?oc=5",
    "time": "2026-10-25T18:52:30+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Haze: Johor schools to reopen in phases, exam candidates first",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaTdLb1VtcEF3ZXR2MENFNnVxZjZ2TUFvbGZhLVpPZk1ma1loWXpoSzdGLWM0VHpNQkYxaTZBOFdKYU9SNGoxdmZsV0FQR1JjUE4wM2ZFVzM0MWE3cTR1UUI4QWxLS1VndEwxaFJyVTdNZ0VuWnpDSUZZcTdlbWIxNl9rRWNGVGJ4V1p6REJNclotV3FwQy01bXZhenhDVmVnMG1CSEtDY2NiWjF4Ni10ZdIBsAFBVV95cUxPaTdLb1VtcEF3ZXR2MENFNnVxZjZ2TUFvbGZhLVpPZk1ma1loWXpoSzdGLWM0VHpNQkYxaTZBOFdKYU9SNGoxdmZsV0FQR1JjUE4wM2ZFVzM0MWE3cTR1UUI4QWxLS1VndEwxaFJyVTdNZ0VuWnpDSUZZcTdlbWIxNl9rRWNGVGJ4V1p6REJNclotV3FwQy01bXZhenhDVmVnMG1CSEtDY2NiWjF4Ni10ZQ?oc=5",
+   "time": "2026-10-25T18:18:17+08:00",
    "summary": ""
   },
   {
@@ -528,13 +556,6 @@
    "summary": ""
   },
   {
-   "source": "The Edge Malaysia",
-   "title": "Haze: Johor schools to reopen in phases, exam candidates first",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hWUtMOTF0aFk5RFlfenIwd2RwSDE3QXpwNlRTdTRkZ3JrRXlDYXpLZzNjcm13UVQ0bi1FanI1bnUzd0NVYU00MnFHZks0V1BH?oc=5",
-   "time": "2026-10-25T17:26:14+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Star",
    "title": "Haze: 27 schools in Tebedu to be closed on Oct 26",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXlZLWVVR0NMODBZNnhGdXZCcWV1b2R2WmplTTlLZF9DM0pnc1dYWDlheTdQZ2dBemVXNWowWHhmSkpsMW8xRDZ1Vm9aMExCTU9USlRDd2FjWlIzYy1lNUQzanJDU18wYTNQNWRTVDRCdzRIN1A3OEQxUXBrLTNOX0JVNS1ScU9RZTd6aE14ZmVXUXlDSVA2Q2JqUmdxVTA?oc=5",
@@ -549,6 +570,13 @@
    "summary": ""
   },
   {
+   "source": "BusinessToday Malaysia",
+   "title": "Singapore Air Quality Remains Mixed As Haze Affects Three Regions",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZl9Zd3lvbmlOWmZuRW82cThmaTF6ZjJORGhmSWlJd3RtRTJKSm9tUzUyWnRId0VhSzFEODJ4d0RZdUR5WlFDTGVVZXhhWDk3ekt2cm41WEJKNGpwMzdfTi1USExOSzNxSkN1akE2UEctZFFFSV9DQWVuZGIwVlBUQzBXbExMeG1EUDNVd0hBYlhtdWJOM3o0Sy0xNkd0LXFpbDI3bUd0VFB6UHItSGxr?oc=5",
+   "time": "2026-10-25T14:46:58+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Singapore haze: Air quality remains unhealthy in three regions; PM2.5 readings normal across country",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUGgtNjBpdjdCWms1TTMwa05VcTY0bDVQSk5ybFN0MVBzU0htWXJGRkVDaGhoTU5UQ0hfY1hqeHd4d0h3aWZhRWlGT01VM0dwYkZpUnF0dTdwLTFNd3JMd3EyUGVDcE1ockRDZ191NUdqMzh6RUJZLWI3elNsVHFzRmhGcUJMa2JDUUdNd3B1VVhxTElKLUtHanBUTDktY3ZFM0ROU04wMkl5Mk0tUTNLS1I4M1VGcWV3M2hUU29EQ2xWcUlXYnBpaHd0WjBWS1R6MEZSNDNxczF5ZUQwS3ZCMg?oc=5",
@@ -556,45 +584,17 @@
    "summary": ""
   },
   {
+   "source": "Borneo Post",
+   "title": "Indonesia cuts natural gas exports to Singapore amid regional haze dispute",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYlFCU1pyV3dZUkZjZkdNcU91ZzZqdVBaS3FrWlBlUGVadV9feGRwM3hBMHpNNUFrWlRWR2JPU0ZWWDBJaEc3cmljRldTRFkzTXBQdWhLU1FHTW43UU9aanR2cmtMNHE5WUxFSHZyMUxiTXhTYU56bHZfQ0RjTlBoN0xhUGxsUHk5S3pBTXpHV3FUSW1VNWU3Vi1RX1RfeE4wSktFN3AwRnY5S3RHRVB1eUJVN0IyQWM?oc=5",
+   "time": "2026-10-25T14:01:52+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Malaysian Reserve",
    "title": "Malaysia remains committed to offer of aid to Indonesia to tackle haze",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSFRoUEpURmtCQ1JRQnRFWWNZTE1HMmxzcjd1V2tyRVB4SjlxV0J2R3MyS0lVV1pBdWNicVdNcC1ZM3EzdXV3R2Fhc3NxVk1oc1FXLXVJTEtvTlVEVFJINlRfcjdhb0ItNV82cXhJWDE2Z1o2eW9jbzJlekZQM0Y2cWRSVGU3NllzUHFKVUZqd3FGQm5SY1BoMHVXV2FVcXp1b3l6N1BvUTcwQWZ2UllzRGZST1lfYkxNUEE?oc=5",
    "time": "2026-10-25T13:36:49+08:00",
-   "summary": ""
-  },
-  {
-   "source": "BusinessToday Malaysia",
-   "title": "Malaysia Open To Assist Indonesia In Tackling Haze, As Govt Awaits Response",
-   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxONHBBZHd6a2M3X2xrWThTWXBWRHVNN1JfaTJIRWJlOHJ0R2FpNlRUSk1lUEJGbjd2VDRCYlNTcEhWSUlJeEJsd2pfTkNaR2tqWDBoTjQwNVQzeGRlWmk3UGFPbWxxNTc0emRQbWxsVFg3LU1LTzAwMWVnb0d5cE9VQ3JtbUd0UDVIeUpIOUtSMm5EWUlNdk1mMVROdWUzYnphaUdDYUFBTms2UWxfRmRDcC03UE1wZDNDMVRPdFo2RE1BazV5SkdQU1hka1FRLXo2OWk4SDRfQ1M1NEt0SU52aW51Qy1ya2ZmVW5LU3hSQ1lHRHZPQWkxTm9OUDJaVnJPMVVhNFExNTJBZ1M3MEw4RXA1bDVNX2QxUTEwZXNsRUZNMnJkeHYyM01TVkZJSUc3MFE5TWRqaVdOYThZS3pFdFQ5cHdaYl9QdHhnU2s1Y0VxY0Z4ZjhSNA?oc=5",
-   "time": "2026-10-25T13:08:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Zahid: Malaysia reaffirms commitment to assist Indonesia in tackling transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYXhzX090eWtoQktmbVM5b0FzV09uamRNVU9LRHpfWHcwUmplOTB6MU9qNnJtUlN1U2FSa3F6ZDI0VjJNX1ZoU1k5S3JxeVhhTE8yYUZ4ckIzbmFMMjVxeHZEd3VzQVpPekFSQWNhX1ZrdElrTjR0U3FYTnRqVDJsRWlLWTlRT3p2elE4Q3dneGlhY3c2OGZmdGQzaE5xN3Faamtxek9MSW1QVlNLcjNwT09UdllocUNMOXF2R3ZmdHhuNGRIT0tqUTlOVm1yQjVjVElIMUloRVBnUXlD0gHiAUFVX3lxTE1fX3RlWTJCVE5rQWZwZHdJemlWT3ZMbjlKallrWUtmVnQ2RUZVNXhRZ2NfZC1EeWFtUXdTODVRbVFpTkIzR3EyT19yRGhwY0pwTUo3RUlkaWJJaHdDOExnOE1WSnBIT3hMaGlBNzd1UjZYRk1uc2NJdEJnSHVWbGNoNW9BLUhmblg1NjljMUFXa3RGV3RKYk1kNEVNZktBRHFCY01zaUozbkhsZTUtNlZXWGhzQ2ozR0ZyQ242SVJ4NGNFTGxoSjZYMVNPeG93STZrNVdxX0RTR1dmeC1Ed3JTV0E?oc=5",
-   "time": "2026-10-25T12:26:52+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Malaysia",
-   "title": "Malaysia remains committed to offer of aid to Indonesia to tackle haze — Ahmad Zahid",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUWXNfdTFNYzllUEFQSmNmd2ktU0lTZnFucEZCOEFXNzRhNGVwMGVsRW9TZVNFeXlqc2tMLTdNdTdUYW1uVnhWOUlTUHE1YjhS?oc=5",
-   "time": "2026-10-25T12:08:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Malaysia",
-   "title": "Malaysia remains committed to offerring aid to Indonesia to tackle haze — Ahmad Zahid",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YQ0tHX1VfMG1pLWFsWlg5ZDFqbTFURXlTalF6TDVQcGloLXRtajk1UktweUgzRTk0cXJhSTRJeVRqSUdGU25uQjVrdTQzeURhZi1F?oc=5",
-   "time": "2026-10-25T12:08:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze anger fuels calls in Malaysia to boycott products and pursue polluters",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT2NocDQ2OVQ5M1ZYbEhVT1d1aEZkdlRlWEVyY1RCTjh6bHJWSEx0UmRKSG5CNHp5Nk9ydjlDZjdjcnZuRWFjdnJlLWRxU2RUSl9FOGNfZGw3d0xWTW1Uc2NodUJ6c090WUpKZ1cyOF9vX0dQMmR0aFBleXVBT3d5MkFxYUx0T1VMNDZLcGptUWw0RFNvMkNUckVXakllaldoTXc1ZjNma0ZINDhBcWk1UGxSYzFGTnRuVGxBSkE0X2pCQzFqTFNqdg?oc=5",
-   "time": "2026-10-25T12:00:00+08:00",
    "summary": ""
   }
  ]
