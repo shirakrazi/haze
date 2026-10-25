@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-25T18:00:00+08:00",
+ "updated": "2026-10-25T19:00:00+08:00",
  "psi": {
-  "west": 109,
-  "east": 102,
-  "central": 99,
-  "south": 92,
-  "north": 95
+  "west": 107,
+  "east": 99,
+  "central": 97,
+  "south": 91,
+  "north": 94
  },
  "pm25": {
-  "west": 22,
-  "east": 28,
-  "central": 31,
-  "south": 28,
-  "north": 23
+  "west": 46,
+  "east": 40,
+  "central": 41,
+  "south": 39,
+  "north": 25
  },
  "hist": [
-  {
-   "t": "2026-10-23T17:00:00+08:00",
-   "psi": {
-    "west": 106,
-    "east": 87,
-    "central": 99,
-    "south": 87,
-    "north": 83
-   }
-  },
   {
    "t": "2026-10-23T18:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 92,
     "north": 95
    }
+  },
+  {
+   "t": "2026-10-25T19:00:00+08:00",
+   "psi": {
+    "west": 107,
+    "east": 99,
+    "central": 97,
+    "south": 91,
+    "north": 94
+   }
   }
  ],
- "newsUpdated": "2026-10-25T18:07:24+08:00",
+ "newsUpdated": "2026-10-25T19:07:33+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,24 @@
    "pinned": true
   },
   {
+   "source": "The Independent Singapore",
+   "title": "‘Declare a national emergency’: Indonesian students protest as wildfire haze blankets Palangkaraya",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXJ6aS1PU2c2Q2JWVlU5U0F4dUtkZDR0U3ZWZXZHenFpLWp3MlAyWG9wWHY0cU53bE9qS3FkZm1VeFZiLXE0Z2lWb1ZWNG9WU2VySHczQ2hhLXZMLXpmYzJxVDA1bXVvbEpXQWNnUnZ2ckVIeUJyc1g2YjJWaTdSdTg0cmNvNUNfdVNRdVB2MjlqcUMtWEdjdG9PdG1MTVBoTk5uMTdSZDIxZXRfa3E4akpiZm9xQm1yV0ZqY013?oc=5",
+   "time": "2026-10-25T18:52:30+08:00",
+   "summary": ""
+  },
+  {
    "source": "Mothership",
    "title": "Over 75,000 Indonesian toddlers suffering from acute respiratory infections brought on by haze",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IVFJ1dUNlSkxmUDFhTTY5YW9iY1dmNlcyZkxlM0IyVzI1Zld1LVVBa1QtRnRwMjM5Q1d3S1ZEYVk1UFRfZFRIdkJET0VfQ05vMUczS2hpdTFUU0pCeC00cHdOemhFMnlSNVZSMmlB?oc=5",
    "time": "2026-10-25T17:48:57+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Haze: 27 schools in Tebedu to close tomorrow, says Sarawak Education Dept",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUViTm4zUWFNcGRORlNsMGZEaUpGRDdNNlVqQzJCemE1ZWpoVlRNYUV0bXZlaDZ4XzU0YmdlYnpNTWhzVHZrWkRtVnN0aktjRi1UakxGQnVkWWttUE5IeTRtWm5NOHBhRW85VVN3UEN0cGFXN3hqQjFWNjJLRW16eTBGMEtObFIwMi1IQjVZZ01mUDdVc2llXzYtWk1pUU9xWHp2aFVMVXBiaFhQQXVQeFhOakJyYWNrVlFOVzE4M3p2NnVyTTBRNkdUNkhTQdIBzgFBVV95cUxPaUViTm4zUWFNcGRORlNsMGZEaUpGRDdNNlVqQzJCemE1ZWpoVlRNYUV0bXZlaDZ4XzU0YmdlYnpNTWhzVHZrWkRtVnN0aktjRi1UakxGQnVkWWttUE5IeTRtWm5NOHBhRW85VVN3UEN0cGFXN3hqQjFWNjJLRW16eTBGMEtObFIwMi1IQjVZZ01mUDdVc2llXzYtWk1pUU9xWHp2aFVMVXBiaFhQQXVQeFhOakJyYWNrVlFOVzE4M3p2NnVyTTBRNkdUNkhTQQ?oc=5",
+   "time": "2026-10-25T17:38:27+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Haze anger fuels calls in Malaysia to boycott products and pursue polluters",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT2NocDQ2OVQ5M1ZYbEhVT1d1aEZkdlRlWEVyY1RCTjh6bHJWSEx0UmRKSG5CNHp5Nk9ydjlDZjdjcnZuRWFjdnJlLWRxU2RUSl9FOGNfZGw3d0xWTW1Uc2NodUJ6c090WUpKZ1cyOF9vX0dQMmR0aFBleXVBT3d5MkFxYUx0T1VMNDZLcGptUWw0RFNvMkNUckVXakllaldoTXc1ZjNma0ZINDhBcWk1UGxSYzFGTnRuVGxBSkE0X2pCQzFqTFNqdg?oc=5",
    "time": "2026-10-25T12:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Sun Malaysia",
-   "title": "Cabinet discusses Malaysia’s assistance to Indonesia over transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWlIzVTlOa1ZyT2wtWEV4Tkp3a3o5UF81UlY2M3BkekptY0J5STVmTU1QMzExb200WHlxbERic2J2UUd1V3VKN3VtbkZyeENMM3lWZmJ6Um82WWF3U0JQMGxvMVp4TTcxYlZDeXc2S0o1VHVBdk1Hc2F2THAwNWxUY3ZELUdDNm01OUFVZjAtOEQxOWlhVzl3OV9oaW56UHpK?oc=5",
-   "time": "2026-10-25T11:58:23+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Serian top of the haze chart at API 194 as of 10am as 12 areas turn unhealthy",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmxrY0I2b251SmdTUEpMMmtqU0RrWlp0blpjRjNQLTFUazJpcmhEUEFUaE5IcjFuZUtUbHBoNDNHUllCTjNHYXNENHh1aFNaQjI1RklQSWxvWkxSR0h2Y20wQms0bFNNVm5xLS14b3F1aDZKeDE1LUU3VWFOUDZ2TjI2dks3d1NZWHhVRGVjSk13VldpRFItNW9XNjJJNzY4RnZlQ05GVzFQZEQ0SWNVdmYwUjhRNzVEVFNvVTJiYnRYNXhoQnB4cDExemdZTFdG0gHWAUFVX3lxTFAtd09tOVdLWUdsd2k4VWQ4UGRybEdPLUNvel9kWENOekJTVWx4XzVYd2ZYcTBlX2JLdm5xSzdRenVBandhemlTblp0Zzc5NUQ4cTJIUjNDQmJHVk1sdENYVVNDc3FxWUNpWm9jNXdqVXV6a2NPX0xSbkYwTkZYd3RhMGNZU282cElwVy1vUVgxdi1uRVhfdDQ2eUttNHRlRGVYNTNUVHBHajhLTDhkUTlVMzdrV1NNRFF3YlVxNUkwLThVX2RYM191Q3ZkekVnZTg4Vkd0SFE?oc=5",
-   "time": "2026-10-25T11:55:58+08:00",
    "summary": ""
   }
  ]
