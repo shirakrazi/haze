@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-25T08:00:00+08:00",
+ "updated": "2026-10-25T09:00:00+08:00",
  "psi": {
-  "west": 138,
-  "east": 111,
-  "central": 113,
-  "south": 103,
-  "north": 109
+  "west": 135,
+  "east": 110,
+  "central": 111,
+  "south": 102,
+  "north": 108
  },
  "pm25": {
-  "west": 55,
-  "east": 48,
-  "central": 52,
-  "south": 43,
-  "north": 45
+  "west": 28,
+  "east": 45,
+  "central": 49,
+  "south": 40,
+  "north": 47
  },
  "hist": [
-  {
-   "t": "2026-10-23T07:00:00+08:00",
-   "psi": {
-    "west": 90,
-    "east": 71,
-    "central": 79,
-    "south": 67,
-    "north": 68
-   }
-  },
   {
    "t": "2026-10-23T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 103,
     "north": 109
    }
+  },
+  {
+   "t": "2026-10-25T09:00:00+08:00",
+   "psi": {
+    "west": 135,
+    "east": 110,
+    "central": 111,
+    "south": 102,
+    "north": 108
+   }
   }
  ],
- "newsUpdated": "2026-10-25T08:07:07+08:00",
+ "newsUpdated": "2026-10-25T09:07:41+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,24 @@
    "pinned": true
   },
   {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality remains unhealthy across country; PM2.5 readings normal in all regions",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcXNReDI3UklVZ2swcTYweUdnblNMMnZSeElHaHYxZlQ2ZFNTR1lBc0FNOWEwVUp4VVpyekRIa1B0VzRoTFVkb3JqMjB6TEdOb3FxeW1jRmlSbkdpc0tWWnZhaG5LQVNTSkptZHktX1R3Tmw1YUN5d2s3QzVYdFlLdEtEaTBId1ZfalhtRUE5aHBtSTdJUG5YNTE5T0RCUGJKclp5X2J5c19HcHFNZUZiNTFod3FVMkhSSW1qNlZ3NkRFa0hsQjZIMERLb3BYeW9HLWNjU3lhS09Mc2MxNFE?oc=5",
+   "time": "2026-10-25T08:09:30+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "Haze in Singapore: Air quality improves as PM2.5 readings in 3 regions return to ‘normal’",
    "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-improves-as-pm2-5-readings-in-3-regions-return-to-normal",
    "time": "2026-10-25T07:14:52+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze in Singapore: PM2.5 readings return to normal but PSI remains in unhealthy range across the island",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa2RqWW9MNmQwS1J6UFZBd2htQjQ5Z01mZ1NNSW5ZeTRWVV9BZE9xcVJVcFRrVkExczZiNVE1d1MzVl95Y1RlTXVYWnM1THBmNFB1RG1xdmZGVm9KbnhIVTNsZ3hMNlRGdlp4Q1ltYTl6X3hneUhsN1pwNHJqOWNaYnBoRklJRkdyOVpRTUN5NU55ZktWYk9YYUhTUUN5bVMwOVVva0pqeWpsVDNXQUZaeE9ob1lna0FBV3hvZjZBQXgyQnc?oc=5",
+   "time": "2026-10-25T07:14:00+08:00",
    "summary": ""
   },
   {
@@ -539,13 +553,6 @@
    "title": "Singapore haze: Air quality unhealthy across country; PM2.5 readings elevated in two regions",
    "url": "https://www.channelnewsasia.com/singapore/singapore-haze-air-quality-unhealthy-across-country-pm25-readings-elevated-in-two-regions-6489876",
    "time": "2026-10-25T06:59:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Is indoor air safer? 7 things to know and ways to stay protected in this prolonged haze season",
-   "url": "https://www.channelnewsasia.com/cna-insider/insider/haze-indoor-air-expired-n95-masks-air-purifiers-protect-6488636",
-   "time": "2026-10-25T06:00:00+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Indonesia Cuts Gas Exports to Singapore as Domestic Demand and Haze Tensions Rise",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXZRbFdFN2NxZ0NXOFUyOENkWmVVZnRDY3hWejYwTENjU3lMNkpnZHdnZEMyMXNMTHBZZ1l2TEJfWjRTNldEcGJLeE1Gc1E4bDc2M0x2U2w3RVRnWE1GazhHcGhsM1l2bEtDak1YV2JSRVpWX0RueUU1cVZZOXNsQXZyenNPekxFQlVzWm0tMzlDaDdnR2IzQXhWNFpWOUNmOTJ3MTFhQ3I2RktrQU5aNWc5MEVMd0I5TVYtTkhVbVV0bG8?oc=5",
    "time": "2026-10-24T22:15:28+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Post Register",
-   "title": "Indonesia Haze",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOamU1YkpsbWVDdFB4LUZOaklZdVE4NWxfcDBaZGdxVHJxQzFWOFREVlFzMGdrbDR1QVo3bnE3R2w4X3BIR1o1ZmhKVXlyVmRvRmVCNWtvN0NiRC0wbjg5Q1FhaEVhNktlc3V6RGRTaC1XamphMXZEZlY4a3Y0N1lYeGlKR1ZpelFuemFXUmUwTjBnVWpvcElYNjNmS29fQzI3TTFhVQ?oc=5",
-   "time": "2026-10-24T20:27:50+08:00",
    "summary": ""
   }
  ]
