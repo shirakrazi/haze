@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-25T14:00:00+08:00",
+ "updated": "2026-10-25T15:00:00+08:00",
  "psi": {
-  "west": 121,
-  "east": 106,
-  "central": 103,
-  "south": 97,
-  "north": 98
+  "west": 119,
+  "east": 105,
+  "central": 102,
+  "south": 96,
+  "north": 97
  },
  "pm25": {
-  "west": 24,
-  "east": 47,
-  "central": 34,
-  "south": 51,
-  "north": 32
+  "west": 20,
+  "east": 26,
+  "central": 27,
+  "south": 30,
+  "north": 22
  },
  "hist": [
-  {
-   "t": "2026-10-23T13:00:00+08:00",
-   "psi": {
-    "west": 94,
-    "east": 77,
-    "central": 83,
-    "south": 77,
-    "north": 69
-   }
-  },
   {
    "t": "2026-10-23T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 97,
     "north": 98
    }
+  },
+  {
+   "t": "2026-10-25T15:00:00+08:00",
+   "psi": {
+    "west": 119,
+    "east": 105,
+    "central": 102,
+    "south": 96,
+    "north": 97
+   }
   }
  ],
- "newsUpdated": "2026-10-25T14:53:43+08:00",
+ "newsUpdated": "2026-10-25T15:07:35+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,6 +507,13 @@
    "pinned": true
   },
   {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality remains unhealthy in three regions; PM2.5 readings normal across country",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUGgtNjBpdjdCWms1TTMwa05VcTY0bDVQSk5ybFN0MVBzU0htWXJGRkVDaGhoTU5UQ0hfY1hqeHd4d0h3aWZhRWlGT01VM0dwYkZpUnF0dTdwLTFNd3JMd3EyUGVDcE1ockRDZ191NUdqMzh6RUJZLWI3elNsVHFzRmhGcUJMa2JDUUdNd3B1VVhxTElKLUtHanBUTDktY3ZFM0ROU04wMkl5Mk0tUTNLS1I4M1VGcWV3M2hUU29EQ2xWcUlXYnBpaHd0WjBWS1R6MEZSNDNxczF5ZUQwS3ZCMg?oc=5",
+   "time": "2026-10-25T14:42:41+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Malaysian Reserve",
    "title": "Malaysia remains committed to offer of aid to Indonesia to tackle haze",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSFRoUEpURmtCQ1JRQnRFWWNZTE1HMmxzcjd1V2tyRVB4SjlxV0J2R3MyS0lVV1pBdWNicVdNcC1ZM3EzdXV3R2Fhc3NxVk1oc1FXLXVJTEtvTlVEVFJINlRfcjdhb0ItNV82cXhJWDE2Z1o2eW9jbzJlekZQM0Y2cWRSVGU3NllzUHFKVUZqd3FGQm5SY1BoMHVXV2FVcXp1b3l6N1BvUTcwQWZ2UllzRGZST1lfYkxNUEE?oc=5",
@@ -514,10 +521,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality remains unhealthy in three regions; PM2.5 readings normal across country",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUGgtNjBpdjdCWms1TTMwa05VcTY0bDVQSk5ybFN0MVBzU0htWXJGRkVDaGhoTU5UQ0hfY1hqeHd4d0h3aWZhRWlGT01VM0dwYkZpUnF0dTdwLTFNd3JMd3EyUGVDcE1ockRDZ191NUdqMzh6RUJZLWI3elNsVHFzRmhGcUJMa2JDUUdNd3B1VVhxTElKLUtHanBUTDktY3ZFM0ROU04wMkl5Mk0tUTNLS1I4M1VGcWV3M2hUU29EQ2xWcUlXYnBpaHd0WjBWS1R6MEZSNDNxczF5ZUQwS3ZCMg?oc=5",
-   "time": "2026-10-25T13:21:53+08:00",
+   "source": "BusinessToday Malaysia",
+   "title": "Malaysia Open To Assist Indonesia In Tackling Haze, As Govt Awaits Response",
+   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxONHBBZHd6a2M3X2xrWThTWXBWRHVNN1JfaTJIRWJlOHJ0R2FpNlRUSk1lUEJGbjd2VDRCYlNTcEhWSUlJeEJsd2pfTkNaR2tqWDBoTjQwNVQzeGRlWmk3UGFPbWxxNTc0emRQbWxsVFg3LU1LTzAwMWVnb0d5cE9VQ3JtbUd0UDVIeUpIOUtSMm5EWUlNdk1mMVROdWUzYnphaUdDYUFBTms2UWxfRmRDcC03UE1wZDNDMVRPdFo2RE1BazV5SkdQU1hka1FRLXo2OWk4SDRfQ1M1NEt0SU52aW51Qy1ya2ZmVW5LU3hSQ1lHRHZPQWkxTm9OUDJaVnJPMVVhNFExNTJBZ1M3MEw4RXA1bDVNX2QxUTEwZXNsRUZNMnJkeHYyM01TVkZJSUc3MFE5TWRqaVdOYThZS3pFdFQ5cHdaYl9QdHhnU2s1Y0VxY0Z4ZjhSNA?oc=5",
+   "time": "2026-10-25T13:08:09+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Zahid: Indonesia struggles with haze relief due to cloudless skies, low visibility",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWDZ5SVlsUG9kYmR0U2xlUmNGYTJFdEFOQ0FhdkpkSmw2M2tQTWdRSWg1SUpZSFhKOS1PS3NKdE90aDN5bk9EVmZzYU5CcEFKQ0lpTkFwMHZjOGg0MUctbW9ocnpVWnpLQXpET0tHNGZLTkIyZFZYN0FMSmFkQTZWTEtncmxMYUtWR3p6bHVHTDhrQTZQdnU4dTFTMkdCanlUaTBNcnk0R2J2c0FHenNrRVBRNGl2aW9pZ1BCOGNleTYtQnZWZHdBRnRB?oc=5",
    "time": "2026-10-25T11:18:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Indonesia cuts natural gas exports to Singapore amid regional haze dispute",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTFBTT3VJWW02TTFlNmpvU1BDNXFGWXpsNU9uNW94dGdvc1E0bGg3YzNjczZQd3ZfZ01nMFhwZ2U0cDBVOXpfZ0MwTU9PY1BjaVR6dlhfVzFubXV5QjgxUXpvNDVzd2dSaDd3VVhMUTJ2Q0dfa09qQkFqZjZTOFlnQUM5NEQzU1FnSldqU2ZIZkxHNnJsazJjU0I5M1B4QXJyUTc2aUtyeXA5RGgySnlUc2FfLWp4emM1VTk5SXVXLVlnLVlHSm9zSW5ZZUMwZ9IB0wFBVV95cUxPVjVMQjdJVXpkRk9Gd2FTenZVLVpjNWk5RFNwaTJzSHlsczFLa1hIRTZfZzNSeGxEaFVPeWI2bmZRWlN4T1RLa2w0bjV2Q3h5ak1jcWNHcU9oVVdrVmdVNkpXN0VQTEJrZ21RT1FncTA2anB6WnFidWpweGk5LW1QOEFBN3lNYnFhcWtTT0paWk5KdVAxVG5SdmMtbTdVR0R5bV9CQjdZUUlRcWM3dGtRbXlXLS15NXNPcS1IQnNOTDFuS2Nabk5Pb0tqMzJkM2psaW9r?oc=5",
-   "time": "2026-10-25T10:34:28+08:00",
    "summary": ""
   }
  ]
