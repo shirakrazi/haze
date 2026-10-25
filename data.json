@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-25T15:00:00+08:00",
+ "updated": "2026-10-25T16:00:00+08:00",
  "psi": {
-  "west": 119,
-  "east": 105,
-  "central": 102,
+  "west": 116,
+  "east": 104,
+  "central": 101,
   "south": 96,
-  "north": 97
+  "north": 96
  },
  "pm25": {
   "west": 20,
-  "east": 26,
-  "central": 27,
-  "south": 30,
-  "north": 22
+  "east": 37,
+  "central": 34,
+  "south": 31,
+  "north": 24
  },
  "hist": [
-  {
-   "t": "2026-10-23T14:00:00+08:00",
-   "psi": {
-    "west": 96,
-    "east": 79,
-    "central": 87,
-    "south": 80,
-    "north": 72
-   }
-  },
   {
    "t": "2026-10-23T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 96,
     "north": 97
    }
+  },
+  {
+   "t": "2026-10-25T16:00:00+08:00",
+   "psi": {
+    "west": 116,
+    "east": 104,
+    "central": 101,
+    "south": 96,
+    "north": 96
+   }
   }
  ],
- "newsUpdated": "2026-10-25T15:07:35+08:00",
+ "newsUpdated": "2026-10-25T16:07:12+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality improves as 24-hour PSI readings in two regions drop out of unhealthy band",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzRQQXBTUFdaWS03TVFCaTV5QmJ2RHB3cDNvOGkteEVZREQxMnpNNHR4MFdWV1hISUNNNFhKcXlmcjBIdTBRMkl4UVZ3SWg3dWxJZm1zM0Z4cDB0RDdRaGtOT1NrWmFROG9KME9HbzZyZHg2VnFodmF3LVRlYXZQQnFnWnYtbWFOUVE?oc=5",
+   "time": "2026-10-25T15:44:11+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -588,13 +595,6 @@
    "title": "Singapore haze: Air quality remains unhealthy in most regions; PM2.5 readings normal across country",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQWNNTS01dFhIS2tOMlY2Tld6WXdDRnlpZUhYXzBvbDZ4M0FUc081OUtxZkZ4SWp6RGRRcnBzZU5TTlNjeG80dHdyYXNSWXFUOUgtdVByU3RHdFNjbUpwNk41VjNtLTREVWNyZkpmSndlMEFTNGVRSUxUWkpySXA4TnplbXI2a2NiVk1zaXNPenhfSFdLRGU1T1JobGoyWXZxRktlUnV0bUZmUUE2enZDQWZEX3M2dmEyTktYbXZPYnZ0aGQzZWVzSkc5NC1OTWs2bTMtQ2tPVHRhTWlhQ3RN?oc=5",
    "time": "2026-10-25T11:28:51+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Zahid: Indonesia struggles with haze relief due to cloudless skies, low visibility",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWDZ5SVlsUG9kYmR0U2xlUmNGYTJFdEFOQ0FhdkpkSmw2M2tQTWdRSWg1SUpZSFhKOS1PS3NKdE90aDN5bk9EVmZzYU5CcEFKQ0lpTkFwMHZjOGg0MUctbW9ocnpVWnpLQXpET0tHNGZLTkIyZFZYN0FMSmFkQTZWTEtncmxMYUtWR3p6bHVHTDhrQTZQdnU4dTFTMkdCanlUaTBNcnk0R2J2c0FHenNrRVBRNGl2aW9pZ1BCOGNleTYtQnZWZHdBRnRB?oc=5",
-   "time": "2026-10-25T11:18:00+08:00",
    "summary": ""
   }
  ]
