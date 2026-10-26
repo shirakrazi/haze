@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-26T08:00:00+08:00",
+ "updated": "2026-10-26T09:00:00+08:00",
  "psi": {
   "west": 74,
-  "east": 75,
-  "central": 72,
-  "south": 70,
+  "east": 74,
+  "central": 71,
+  "south": 69,
   "north": 68
  },
  "pm25": {
-  "west": 32,
-  "east": 26,
-  "central": 26,
-  "south": 25,
-  "north": 24
+  "west": 22,
+  "east": 25,
+  "central": 28,
+  "south": 23,
+  "north": 30
  },
  "hist": [
-  {
-   "t": "2026-10-24T07:00:00+08:00",
-   "psi": {
-    "west": 142,
-    "east": 117,
-    "central": 133,
-    "south": 115,
-    "north": 115
-   }
-  },
   {
    "t": "2026-10-24T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 70,
     "north": 68
    }
+  },
+  {
+   "t": "2026-10-26T09:00:00+08:00",
+   "psi": {
+    "west": 74,
+    "east": 74,
+    "central": 71,
+    "south": 69,
+    "north": 68
+   }
   }
  ],
- "newsUpdated": "2026-10-26T08:07:43+08:00",
+ "newsUpdated": "2026-10-26T09:07:30+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Lowy Institute",
+   "title": "ASEAN haze: the tech is ready, the enforcement isn’t",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQME5HZ2s1dmRPa0ctRnZ5dnBJWmtkbzBWcFVLOVVFWWdvekg4dU93Q3o2bUdBS3duOEJDcldEcDRmYTV0WnZGRmhvMlVFTE1UMmhYVmV0cHhjVXpDQzNhdVJPeU5nSGJkcDc5QXRvWEo1ZkhSalExbHB1NlQ0Z291ZWR2MTRyWHFnb29CMXRqUEI1dUV5V3VQRldmNzE?oc=5",
+   "time": "2026-10-26T09:01:54+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality continues to improve; PM2.5 readings remain normal in all regions",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1pndXBNb1cyNkpaMjZOVjFldTUtN01oQkRrZjBJbGdIb3hHUU5VUWFjMXV0OUlOODJWQjc3ZUZrWUV0Qloybk41aTl1MERMbS1nYk5aRVpTNTF1ZVpDVHlNVV9ZT2oxZktFVUVlcjZ0LW1YNUJCYkRNQU5nMXZpTWc1UjVDTjhCQXBlUQ?oc=5",
+   "time": "2026-10-26T08:35:04+08:00",
+   "summary": ""
   },
   {
    "source": "The Star",
@@ -581,20 +595,6 @@
    "title": "PSI forecast to be in ‘good to moderate’ range on Oct 26; showers over S’pore may reduce haze",
    "url": "https://www.straitstimes.com/singapore/psi-forecast-to-be-in-good-to-moderate-range-on-oct-26-showers-over-spore-may-reduce-haze",
    "time": "2026-10-25T20:03:35+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze: Eight areas record unhealthy API readings as of 6pm, Oct 25",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWNfSmI3YlRJbk5xb3ZlcVdpb2hMMFdaWDFydk5JRzlzTWRXMHhra05RLUpHelFpa1RaRXRaeTZKSVFGX1dCOVNFVDJONEk1WlZZOVF4ZlF1WUMyLW9DZVFXUmFBTFMxVlZrOFE5X3BrbTE1amc5RHkwQUZXNWVQRGxCeVF1MkV3MG54MDlidWtBQXNleEVrYnhHclIwZnhDd3c0WFJ3TFg5a3ZZQ0gwSUNqWQ?oc=5",
-   "time": "2026-10-25T19:21:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Haze: Eight areas nationwide record unhealthy API as of 6pm, Serian highest at 192",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZTZDU3prem5HQml1RFZkczhfdDMzQjZfRFdWYnJoN1RCbHg1SlVkNXdSU0lkRTNueG1CZ0tkeWFkaWtiSHFqMzkzZWRyMElrLWZHQ0szaGhzRnNIQXZqMEpoeDhCY1RJblhKc19ERnljemhQNDQ3WmthRW1zUWFQQmxEMzhUWThlSDlra0Zqckh2TVVKNTBVOVhJOFE3bXZwTUlKcFdmUW1XZ1VuQl9QRDFkRVN2elVkbWh5TEtWMnNXRHFGYzNPeGdDVks3QWRVQ21zZ9IB2gFBVV95cUxObG9vWXNsdGJkVVFVcEJkeEY1cExNSF8tY0lpQVRFdDg3VDYzMktZNVlpWEFRSHNZb0RMN29wbWQ5dmF5TFhSV2s3aGRERzZLU1h2YkpVdXJzNVk1UmRraGI2RVNGdURZdVgzVzJVRlRyT2NsOG9iRTZBLUJGekdRQXF3cURmemVOdzZ3TWNfYjVwN2ZKY2IySGZMc3REeGRsaTRnSzRSTW9YQ2h4N2g5eXQ5UzN1S0ZXWUpSejdJZGdwRVYyU0NMY2llRDdDZktWZ1QwcXJSTjMxdw?oc=5",
-   "time": "2026-10-25T19:02:35+08:00",
    "summary": ""
   }
  ]
