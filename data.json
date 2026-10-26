@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-26T19:00:00+08:00",
+ "updated": "2026-10-26T20:00:00+08:00",
  "psi": {
-  "west": 74,
-  "east": 70,
+  "west": 73,
+  "east": 69,
   "central": 70,
-  "south": 66,
+  "south": 65,
   "north": 68
  },
  "pm25": {
-  "west": 47,
-  "east": 25,
-  "central": 29,
-  "south": 23,
-  "north": 36
+  "west": 46,
+  "east": 18,
+  "central": 31,
+  "south": 20,
+  "north": 25
  },
  "hist": [
-  {
-   "t": "2026-10-24T18:00:00+08:00",
-   "psi": {
-    "west": 151,
-    "east": 114,
-    "central": 127,
-    "south": 109,
-    "north": 116
-   }
-  },
   {
    "t": "2026-10-24T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 66,
     "north": 68
    }
+  },
+  {
+   "t": "2026-10-26T20:00:00+08:00",
+   "psi": {
+    "west": 73,
+    "east": 69,
+    "central": 70,
+    "south": 65,
+    "north": 68
+   }
   }
  ],
- "newsUpdated": "2026-10-26T19:08:05+08:00",
+ "newsUpdated": "2026-10-26T20:08:17+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,24 @@
    "pinned": true
   },
   {
+   "source": "planb.sg",
+   "title": "Netizens Criticise Indonesia's Gas Export Cuts to Singapore Amid Haze Tensions",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzJyYy1rUkFWUnhuNzR4LXo4WldQQXFQTWh3blZQRF80QlZaZk5Pc2FUOVFxYnZ0YmNZYzcyck1xaW1ZUFlVT1ZVaDdzZ21xd3U5djdaUzFJTGtaV1ZJZUhMbERIZS05R0MwSVl5eGZLOWtaenBIeW9pTjdLeEd1SENjdkZSQ1pVTC1QVEUxMUxLOUtEQkFLOF83NzdNRXMxajRkdmdwWQ?oc=5",
+   "time": "2026-10-26T19:39:43+08:00",
+   "summary": ""
+  },
+  {
    "source": "AsiaOne.com",
    "title": "Likelihood of smoke haze affecting Singapore low, suppressed till Thursday: NEA",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nMEg1Y1VuLXE3bW1UaFBnWHdtSGxQNnJUdTVsa1ZWd3RzME1IQzVCLTBDN3pvZ3VZcEZ3Sk56dWxLU2hBSmFUazdPRXU0N1pnUDVGeXV6bFFhMUQ3TU01cmNNTXRPa3dyc1YtcmFheFlRLXVmQVdHYQ?oc=5",
    "time": "2026-10-26T18:47:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Likelihood of haze affecting Singapore low on Tuesday",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1pndXBNb1cyNkpaMjZOVjFldTUtN01oQkRrZjBJbGdIb3hHUU5VUWFjMXV0OUlOODJWQjc3ZUZrWUV0Qloybk41aTl1MERMbS1nYk5aRVpTNTF1ZVpDVHlNVV9ZT2oxZktFVUVlcjZ0LW1YNUJCYkRNQU5nMXZpTWc1UjVDTjhCQXBlUQ?oc=5",
+   "time": "2026-10-26T18:45:03+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "What to know about the 10 Singapore-based companies issued notices over transboundary haze",
    "url": "https://www.channelnewsasia.com/singapore/10-singapore-companies-transboundary-haze-pollution-act-nea-6492316",
    "time": "2026-10-26T16:43:12+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Online Citizen",
-   "title": "Grace Fu says tap water safe amid haze as reactions to lab video split online",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0g4cmZoTHFfcWFhNEhHSmZUU2ZwRTJYakxfMUhhcmV3Tl9KMUVMRUp1bjAzYWgzOW5taFNGdGxDcGRaVjNNV1ZnQVREcTEweFp0T1p2M1F5d3l0dmE1OHpnVDd5NHN4WlhZeUVDeXJaTHdvTjNfcHdQbGNyLVIyMDR3U1Q5V29xTmhNV0lxbDZRQ1kxcDZkQVRSUUwtQXF0cjJhRk9CZkhfV2tWNkZwV3dOZERUUWlrQUtaU1c4OA?oc=5",
-   "time": "2026-10-26T16:13:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality continues to improve; PM2.5 readings remain normal in all regions",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1pndXBNb1cyNkpaMjZOVjFldTUtN01oQkRrZjBJbGdIb3hHUU5VUWFjMXV0OUlOODJWQjc3ZUZrWUV0Qloybk41aTl1MERMbS1nYk5aRVpTNTF1ZVpDVHlNVV9ZT2oxZktFVUVlcjZ0LW1YNUJCYkRNQU5nMXZpTWc1UjVDTjhCQXBlUQ?oc=5",
-   "time": "2026-10-26T16:06:56+08:00",
    "summary": ""
   }
  ]
