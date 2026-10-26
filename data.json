@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-26T20:00:00+08:00",
+ "updated": "2026-10-26T21:00:00+08:00",
  "psi": {
   "west": 73,
-  "east": 69,
-  "central": 70,
-  "south": 65,
-  "north": 68
+  "east": 68,
+  "central": 69,
+  "south": 64,
+  "north": 67
  },
  "pm25": {
-  "west": 46,
-  "east": 18,
-  "central": 31,
-  "south": 20,
-  "north": 25
+  "west": 50,
+  "east": 15,
+  "central": 25,
+  "south": 17,
+  "north": 10
  },
  "hist": [
-  {
-   "t": "2026-10-24T19:00:00+08:00",
-   "psi": {
-    "west": 152,
-    "east": 114,
-    "central": 126,
-    "south": 108,
-    "north": 115
-   }
-  },
   {
    "t": "2026-10-24T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 65,
     "north": 68
    }
+  },
+  {
+   "t": "2026-10-26T21:00:00+08:00",
+   "psi": {
+    "west": 73,
+    "east": 68,
+    "central": 69,
+    "south": 64,
+    "north": 67
+   }
   }
  ],
- "newsUpdated": "2026-10-26T20:08:17+08:00",
+ "newsUpdated": "2026-10-26T21:14:16+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Kompas.id",
+   "title": "Singapore's haze eases",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdFd0QnVwYlk2aDZwMXJHTGtuc0lQNkdKWElVM19vazg4OHMxTk9KNUlGcUQzUnZUZnNxZmMzbnN3NU1GbUViUHptbl96VEFrOVpQaGE5XzZ3NkVOd1F5ZmI5YUwtbE00NVdLYmU1S0pWYlBjSE1KY0ZTUmZCWjZ2bjRn?oc=5",
+   "time": "2026-10-26T20:48:02+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Kompas.id",
+   "title": "Still Shrouded in Haze from Forest and Land Fires, the 2026 Foreign Workers' Work Program in Central Kalimantan Has Been Postponed.",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkRlZE1WZ01ydTFfbzlCNDltWVA4M1hjeEVuZU9GT3VzNWJBMFhMT0J4RVBxSzZQR2pGcFJzRGFFZ1JoYTFvQ3M0aG8xWjByajRNblR1SEp2aDFOcEMzV216RE5aNzdkaC1XMlhMeGpTTmNnWW5fWUpnVEIwZFNMTFoxRG85NDdXQUd2REpRN1paVFV4WU00cjcweXpId2Rwald6SUczTnhQLVQyU21EX1NHQWZrS2h3eGNZcFljLXVubFJ3cHhfczRn?oc=5",
+   "time": "2026-10-26T20:23:08+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Malaysia to push for Asean haze framework at Manila meeting",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONXR0M19JSlRDdzBqcWNSMlV5MTJzWFlPb3o5UjFobnFzNXEwNmpuZFRaMTBONGExNWJ2aXZpT1R1QjY4cDNIVS1yS1ppWDYybGZKSm5LVk5pMDY0RDVLY0FpblM0ZC0zVENCcWlYZmhlTXQ0YVIzUFJsMDBhaUU4Q3dINDVxYnBBNXNLN2ZCQnZGdnFIVTRLUFhQQm95VFhGcXZHRkVzUS0xQTRuTG1zekZ4MVnSAacBQVVfeXFMTXBaekJqU3JHdFZzUXFJc3pCc2Q5eWFfRl9NdWRhRVZBQlFtb18wcHdoSHYtVzBaVGNHWTdjczN4VTh5dzdwLW5RUk9aQmpiRnY3LXhXUk9MYWw0Wm9GQ0NINEJTcTEwYnhOUTc5ZkJsMzcxd3FHbVctOXBJUUcycVl5ZGJhdGlFdWxYYVBmdzREbG0wRlAzcWt5bWQyQ0w3akNETlQ4QjQ?oc=5",
+   "time": "2026-10-26T19:52:17+08:00",
+   "summary": ""
   },
   {
    "source": "planb.sg",
@@ -556,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "Kuwait Times",
+   "title": "Malaysia’s Johor reopens schools as haze from Indonesian fires eases",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeU5VS1U3cDhRNlBmQWRLOTdXQ1hhb3p0eWJpOGU2ZUg3SGR3WlpHZjVsclhCaGs3OWF5WEx6M1EyM1hjZm5QRTRNQ19NNWZkOVZPb2tieldfYzQ5MmhFLWx1QXZYd2dKWHdjNk9GdnR2VlQ3QlV1bFk3cW1UMjJaNXk0NTJFQ19CVWx4bDFlS293OEdQQ0FNM3pXWVFQdGFaclhfU0tCZDR5S3dfeDVIdGp30gG2AUFVX3lxTE1yajktVjFrR3N3cGZlXy1rS1d6VW0xVkdDWExZalVuT29mS3hiVU9oaWlWRGpSMjY1ZGF0Tnd2X2FSLVVVX0VpRHdmWTc2eFpHYzAzQnNHR1Z1U0Z2VHBnVjE2LWJfTzlHRXFVQlFmaUFHM3lIczlCTHlGLXZ4eWFra0hjUkxua0owODRCd2trUjdiOVNyYXlPeGRHUXVQbGpnb2I5ZkhRZ21UZmprLXo1VGpKMXVB?oc=5",
+   "time": "2026-10-26T17:41:12+08:00",
+   "summary": ""
+  },
+  {
    "source": "Tempo.co English",
    "title": "Global Figures Speak Out on Haze: DiCaprio, Greta Thunberg Included",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZHg4NXg5Uk1wMDEwWHZjVlJtczdWOXFmcER4RWtMcjlJaE9XWTZleExEcVYzV2JndXFPY25JWnByX05XTlRHVlkyeGNkd25jUW00MDZiOFZrbW03VXh4SmE1M0Y1QkZEblBXQ0E3RUZXUmtxZTYxMU1mX0IyeEhkbWhkNkhOMGQ4OEJVcE5JZkh0Q1phSm5lX19qNFZ5NmM?oc=5",
@@ -567,34 +595,6 @@
    "title": "Haze eases as Northeast Monsoon set to begin",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnVYUFg3bWxpZHVEaWNGZjRYV0hwVG4wbnR0M2NJa3RWZGU3akQ3aUFPMEdzclVSMEd3eEVhakMxUjMxdWpRT3BJdGtNTkNLRHZYZ25Qc3daWmwzM0FUcERoLVkyb3dGOUJJQ05uNDJ6Z1dmeXlSSjdrSzY3V2dxNVpPdnJKR1h4dW51Y01CM1Y4d0HSAZgBQVVfeXFMTVlTTVZmOTQxbkNhX3cyc2NGZmhPRFJDTFlfSUlaRS00ZnJTZ19uLXVxSDJkdlZldzFVOVEwS1BwM3pEQ2tHdU5hNDRSTHM3R25nSEEwNUFNa3ROYXRZU0tqdURGVWY5NEgwMnktQ0dWMEY3cTQtY2pqbW1WVktsaVJUVDQ4NjM1Nk00XzM0SWZPS3NlX1lWbmI?oc=5",
    "time": "2026-10-26T17:06:10+08:00",
-   "summary": ""
-  },
-  {
-   "source": "RTL Today",
-   "title": "Full operations expected to resume Wednesday: Malaysia's Johor reopens schools as haze eases",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc29SeDRYLWZ2SkFXXzNxOF9OUHRwaDBPdFdiLTJId0FsMGpmd1ZLZFpuUWRWbVBDdzFUdmdxNElFQWFnMGtDWGx3aWs2RjVCbTY2ZkkzbFRWSmREd0pDUFVPSUhSakJCaWREeVBVdjNQYjFISzVobHNhZVJiMWMzNG1qZUliSUZqVUFZVXB0S3Y3UQ?oc=5",
-   "time": "2026-10-26T17:05:55+08:00",
-   "summary": ""
-  },
-  {
-   "source": "SportPlus.sg",
-   "title": "Garmin Run Singapore 2026 Concludes With Unbroken Spirit at Marina Barrage Amid Regional Haze Challenge",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY0NMazdFTWlLNE1mRXM3eFlFZ0xobUVzMk5yaXkyT05peEs4czdkQ2d2RVhzQngyYm04RUNTVmZvUWZ3U25nVUlNYXhZZGhoSlk4Rk1nRVZFSjI2ZkZPSmZTLUdXWG1fZG4wZTIwek52NzZ5ODhmWnlsa2YwUU9zUEtxWlpnZ2d0LXBqeFN0aS1CYlNGSXAybDBiOVFLekZEQnYyMlZxbmZZRFBiX1hxY1JJUjNaYjNYTmNWeHR0dmpWOHgwb1JubGlFdHYzWmc1SXJQenJ3?oc=5",
-   "time": "2026-10-26T16:56:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "VOI.ID",
-   "title": "Smoke haze, Kemendikdasmen postpones TKA 2026 in Central Kalimantan until November",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBEUzVCOUJKNVFrVm5aSnpGWHN2aXNaX1phLXVzTk90MnFKVjBBbWZsQXlLeHlPWGtHZkl2a1BKeEcwQdIBQkFVX3lxTFBEUzVCOUJKNVFrVm5aSnpGWHN2aXNaX1phLXVzTk90MnFKVjBBbWZsQXlLeHlPWGtHZkl2a1BKeEcwQQ?oc=5",
-   "time": "2026-10-26T16:54:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "What to know about the 10 Singapore-based companies issued notices over transboundary haze",
-   "url": "https://www.channelnewsasia.com/singapore/10-singapore-companies-transboundary-haze-pollution-act-nea-6492316",
-   "time": "2026-10-26T16:43:12+08:00",
    "summary": ""
   }
  ]
