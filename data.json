@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-26T18:00:00+08:00",
+ "updated": "2026-10-26T19:00:00+08:00",
  "psi": {
   "west": 74,
-  "east": 71,
-  "central": 71,
-  "south": 67,
-  "north": 67
+  "east": 70,
+  "central": 70,
+  "south": 66,
+  "north": 68
  },
  "pm25": {
-  "west": 40,
-  "east": 38,
+  "west": 47,
+  "east": 25,
   "central": 29,
-  "south": 28,
-  "north": 35
+  "south": 23,
+  "north": 36
  },
  "hist": [
-  {
-   "t": "2026-10-24T17:00:00+08:00",
-   "psi": {
-    "west": 151,
-    "east": 115,
-    "central": 129,
-    "south": 108,
-    "north": 118
-   }
-  },
   {
    "t": "2026-10-24T18:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 67
    }
+  },
+  {
+   "t": "2026-10-26T19:00:00+08:00",
+   "psi": {
+    "west": 74,
+    "east": 70,
+    "central": 70,
+    "south": 66,
+    "north": 68
+   }
   }
  ],
- "newsUpdated": "2026-10-26T18:08:22+08:00",
+ "newsUpdated": "2026-10-26T19:08:05+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,17 +507,38 @@
    "pinned": true
   },
   {
+   "source": "AsiaOne.com",
+   "title": "Likelihood of smoke haze affecting Singapore low, suppressed till Thursday: NEA",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nMEg1Y1VuLXE3bW1UaFBnWHdtSGxQNnJUdTVsa1ZWd3RzME1IQzVCLTBDN3pvZ3VZcEZ3Sk56dWxLU2hBSmFUazdPRXU0N1pnUDVGeXV6bFFhMUQ3TU01cmNNTXRPa3dyc1YtcmFheFlRLXVmQVdHYQ?oc=5",
+   "time": "2026-10-26T18:47:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Aliran",
+   "title": "Don’t make families and small businesses bear the cost of haze alone",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclNNWXQwclBFVkRKblZyVldsYUpFRmtpUGlWcllQZ2o2T1VZZzZQWTVkNnpfbTV0TUxWQW0yc3c2Sk1XM1B4M0x5VG5obDVPdFZqM2x3MXhSdVBrcGNsVm9BV2x5UHFnNEJTUmYwTHZwTGNncmNwc0tnUzR4Q0FIMmtVWTBnQmdKY2pZeG5ESHE2NVVuc0ktOUtsVHhxQzZDNzljblRXYmpiN1k?oc=5",
+   "time": "2026-10-26T18:24:21+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NEA.gov.sg",
+   "title": "Haze Situation Update (26 October 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSV9xczF2NllRZDhCSzZHTlBEWUE3bHBiMVpubG5rREVYS283Y0NqZ2RuUk9yX1BOWXoyWHpVYXFzWklxSm5CcThiQ0RpMkVzeVQzdWxpQS1tSUVxZ2FXa0JiNkFWU3VvcVFoTzQtbnZmUi1ET25QX0QxMnQ0aUVfbHdmUWJCdzAtQ3NVUVNaREFfdw?oc=5",
+   "time": "2026-10-26T18:21:53+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Macau Business",
+   "title": "Malaysia’s Johor reopens schools as haze eases",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vR05OVllQX2RiV0NUTmN0bW8zdDlOVXVuTlVweVdqbDd4aFUwZVBacU1ydUJXTXhiYko4Q201WXZHSW1LSlFYUlVMY0lIcXVGS29XckhMYTJxWFZDVkszWjF3amFxS2lwQjJhRnVSS3J4Zmtrdlh4RnJrRm4?oc=5",
+   "time": "2026-10-26T18:12:02+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Star",
    "title": "Haze: Serian highest among four unhealthy API areas at 5pm, Oct 26",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEY4TElEYzlFRzM4R2plT3lZdlNvYm03ckN3WU1VN202ZDUwcC12SjI3WUJIQ25KNHl6c3VmanNjbGtyOTF3MDhjUDdMMnJfaXVxWjhZYlk4OW1vcXB2YXpoZEVoM0M2RmlvX2tNdTA4d21LMWdqcWUyN3c4ZmhIamM3d0dVR05nUzdjTTduQm55MDdTYjg2QnVpR0c5QkJnU3NjOG5fVUVkWDZlWXpTTVp1NWY?oc=5",
    "time": "2026-10-26T17:42:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ASHARQ AL-AWSAT English",
-   "title": "Malaysia's Johor Reopens Schools as Haze Eases",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0szZ2wtOHVUWG1SR0tjeU5qTGJvQTR0NllFa191S2hEbEFwc2dQQmc2SDA2TnMtVTU4a3NlVTYzTFVFdXJxOVU4dDFmcVpBZ01pUV9KYlBnVno0LWIwTWh2TVNmOFFPaEFDb3pyUlNZaUZSdF9oelFnZTdxVzQyNk5teEx1RVFhWUswVkhWemY?oc=5",
-   "time": "2026-10-26T17:40:13+08:00",
    "summary": ""
   },
   {
@@ -563,38 +584,17 @@
    "summary": ""
   },
   {
+   "source": "The Online Citizen",
+   "title": "Grace Fu says tap water safe amid haze as reactions to lab video split online",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0g4cmZoTHFfcWFhNEhHSmZUU2ZwRTJYakxfMUhhcmV3Tl9KMUVMRUp1bjAzYWgzOW5taFNGdGxDcGRaVjNNV1ZnQVREcTEweFp0T1p2M1F5d3l0dmE1OHpnVDd5NHN4WlhZeUVDeXJaTHdvTjNfcHdQbGNyLVIyMDR3U1Q5V29xTmhNV0lxbDZRQ1kxcDZkQVRSUUwtQXF0cjJhRk9CZkhfV2tWNkZwV3dOZERUUWlrQUtaU1c4OA?oc=5",
+   "time": "2026-10-26T16:13:48+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Singapore haze: Air quality continues to improve; PM2.5 readings remain normal in all regions",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1pndXBNb1cyNkpaMjZOVjFldTUtN01oQkRrZjBJbGdIb3hHUU5VUWFjMXV0OUlOODJWQjc3ZUZrWUV0Qloybk41aTl1MERMbS1nYk5aRVpTNTF1ZVpDVHlNVV9ZT2oxZktFVUVlcjZ0LW1YNUJCYkRNQU5nMXZpTWc1UjVDTjhCQXBlUQ?oc=5",
    "time": "2026-10-26T16:06:56+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Australian",
-   "title": "Indonesia cuts gas exports to Singapore amid wildfire haze row",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNM2RhUGNTYVFpeXpoOERueU1jbGZ0cnQzMDZ1ZFpvQllKd1M4OUNqR1JsNWtlN0Y0cndUVnF0ZnZVNUFscWtLV2o1OVpHYTIzaEM3Y1ZWZkpXOE1xdDJGaWFkSFlDSkZBVzVhWUZXY0hhLVBVTjRFY1p6NWp0TDhvQlM3aHljS3hrQzRGSDZRVlQxSlZkM2VONEJXNl9NQmF6RERrNjVISVlaUEZNM1p5UDYwZk1wRlg3azVTd2hvVUJrbWU3ZW83V1ZpeUVkM3lBZ2tBdGNubTB1aFRpOHhwSUlxdlY1b3RQSGNLY3lrcXFNczNCU1pLNmJ3Snc?oc=5",
-   "time": "2026-10-26T15:54:40+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "DBS commits S$1 million to haze relief efforts for seniors, migrant workers in Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHg2NTV3NHZjajBzWURXM0gwM2xfNXNOZU5VaEN0VzAzc3ljQy1McGZXRVZxbTRnTEhMOVA1SndGRE51Um9pNTdKcWJrQ0ZVV0s2WDFyUERzV3BqWHB1bXVKaDRXdW9oREZ2YTg1YWNIUGF5eDhhRFdnczgyTGF3NHVYTTF2WTdXQl9pQ0FCeVpTNWh4b0VhTHBNam5jWHI5STFCVE5uenNkQVlGaEJBMi1Weld0Rk82bWlv?oc=5",
-   "time": "2026-10-26T14:56:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Singapore Haze Eases as PSI Stays in Normal Range",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRjV4TnJ4WFpKSDlxRUNGazg4R0RDUzRNakYxRE96Y0JndXFsVU1CWEdVTzNPOE1rSGJJYUxqd2p4RkJkUWtNOFFlVThnYm9GS213SEJxd25YVVQ3akM5bGJrQkNLUUtDS3JYNEN2NGc4aDdmaVRYVVBGX25VMDQwanNNbmhaeEJhZ1E?oc=5",
-   "time": "2026-10-26T14:35:24+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "All 10 S’pore-based firms acknowledge NEA notices on haze law; majority say they will cooperate",
-   "url": "https://www.straitstimes.com/singapore/all-10-spore-based-firms-acknowledge-nea-notices-on-haze-law-majority-say-they-will-cooperate",
-   "time": "2026-10-26T14:34:59+08:00",
    "summary": ""
   }
  ]
