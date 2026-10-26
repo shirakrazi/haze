@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-26T13:00:00+08:00",
+ "updated": "2026-10-26T14:00:00+08:00",
  "psi": {
   "west": 72,
   "east": 71,
-  "central": 71,
+  "central": 70,
   "south": 67,
-  "north": 67
+  "north": 66
  },
  "pm25": {
   "west": 26,
-  "east": 23,
-  "central": 28,
-  "south": 21,
-  "north": 29
+  "east": 31,
+  "central": 26,
+  "south": 32,
+  "north": 24
  },
  "hist": [
-  {
-   "t": "2026-10-24T12:00:00+08:00",
-   "psi": {
-    "west": 152,
-    "east": 122,
-    "central": 140,
-    "south": 116,
-    "north": 125
-   }
-  },
   {
    "t": "2026-10-24T13:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 67
    }
+  },
+  {
+   "t": "2026-10-26T14:00:00+08:00",
+   "psi": {
+    "west": 72,
+    "east": 71,
+    "central": 70,
+    "south": 67,
+    "north": 66
+   }
   }
  ],
- "newsUpdated": "2026-10-26T13:08:55+08:00",
+ "newsUpdated": "2026-10-26T14:13:51+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "아시아경제",
+   "title": "\"Travel Bookings Plunge 80%...\" Haze Blankets Southeast Asia, Dealing a Direct Blow to Tourism Industry",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUQTAyZzVabTFiUjUyTjBtLTFQcmhLQUJCemxRVWxKQU9GejRFZWxwcUd0TmxibWVpX3V2dkZxZDNkOUd6ak1ZLVFhMTdFajE1ZEdDNWctOUhfeHU2OE9RXzI5dnR4QW9ZTDZ5ZGFNejJZMUhmbF9B?oc=5",
+   "time": "2026-10-26T13:46:35+08:00",
+   "summary": ""
+  },
+  {
+   "source": "www.planb.sg",
+   "title": "Netizens Criticise Indonesia's Gas Export Cuts to Singapore Amid Haze Tensions",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzJyYy1rUkFWUnhuNzR4LXo4WldQQXFQTWh3blZQRF80QlZaZk5Pc2FUOVFxYnZ0YmNZYzcyck1xaW1ZUFlVT1ZVaDdzZ21xd3U5djdaUzFJTGtaV1ZJZUhMbERIZS05R0MwSVl5eGZLOWtaenBIeW9pTjdLeEd1SENjdkZSQ1pVTC1QVEUxMUxLOUtEQkFLOF83NzdNRXMxajRkdmdwWQ?oc=5",
+   "time": "2026-10-26T13:39:43+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Malaysian Reserve",
+   "title": "TSH Resources' units get Singapore haze notices a day after group said none had been issued",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2RhVXBvSllNT1pCV0ZfS2VCV2p2dE03STFlNFJRVU9XdEthekNkTmRVUE50MHNTNnpMRTZ0aktnV3N0Z0NBZl9qamdmRHZGazVJOGVEczRjV0laLVNqOUZKeS1felRhenVEeFVQWGxFc19yLVZ1M2RrQmVaOXVoZUNLRkZhdGVTc3RYZ3EwR2dwNXFROGJWZWdTSkpqSFNqbktoT2JMTUE0bndKQXhtRDkxLURGVlJEZktMVEZ6RkMzZ2RuRkN5Uk51d2VXZXc?oc=5",
+   "time": "2026-10-26T13:36:05+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yahoo News Singapore",
+   "title": "Indonesia cuts gas exports to Singapore amid row over haze",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVdKYS04bGZ6UUhrWlRXMXdZUUdJNWJQZm10Vk5McjZHWWVQaHJoOEE1NG9WaDRQZmNGWUR2SEFmMXU3QktkSUgteThLVlVpTmdybkt3aVpTQS1CUVNMRkw0UlZVVnRKSTY5dUlNcGVldXZRYzJ6dkpqMU1qQjdYWlhvbw?oc=5",
+   "time": "2026-10-26T12:22:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "First Resources, Bumitama Agri shares fall after receiving NEA notices over haze",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWXdfSU1JTWdlYkd6ZjJpZ3hnbWNqdU9Ra2xMTThqZ0tpWHFhYVYxM3JSaGRhWWFCYkMzbWhZbHJhMTg4Q01JbGEwbkNXMUNEbmRJZnI3cWJwVk5QMzB4ZVVrZkpBNjhpT1ZpekRrd3d2T3VBVVhZR2VHX2o3cmo1UzNYT0kwQy1JS2dCVVhKSnVjWWc5a0d6WHZMVDFaTWJEXzhKVUxVRWo5VEZiOFRlaDlVWjNhV1pObGtVbVZIbVFhRVlIaG1MMjhTSGRKalQ1Z0lrLXlRNjB0Qjl6dno0?oc=5",
+   "time": "2026-10-26T12:19:00+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -560,41 +595,6 @@
    "title": "Who profits from the haze?",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fT21LNHFBRDlLODZCNGJjZzJOb1JoSjRwaDFyclZIYl9VYWx1Ylo0M2s4YXNWSnRjbzRvZVQyNmktTmlyTk1YcW11WVJsckZjV1dBNmk0M0pIRC0yeEo4ZFFIeEREREZlZ00zVmp3WkhlYmV2LUlOUA?oc=5",
    "time": "2026-10-26T10:02:04+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "PM2.5 normal, PSI moderate across Singapore; clearer skies until Wednesday",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb1E2UjdFcFRyNWpJYW05cG00TVpvamU4cGpwV0FKMGxaU1F4OGViN2ZZZDRDNk80QU1yazIwQkdnanRjTnFxNUpKclh5MkFGaGphWmlmODlialNMWHdQWW5yU0dIVXdNOFhvR0dTNU5mazBKSmlxdnlUT1kzc0NkaHJTTzh1RWlC?oc=5",
-   "time": "2026-10-26T09:47:47+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Singapore’s toxic haze probe expands to 10 palm oil, forestry firms",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRnhIVExwdnl3ZzVueU0zTWVPSVVXZVVpS1Bnd0NzcGJmWWxTbm1uUVplTVotdnAya1NycFZlVS1DZmtIWXRuQlpUTGxGTzQzUTR2d1JSR3BuX0RjTWFSY0ZaS3RiNFhjR1BrQ3FVblR3Wm53dkxuQW9LbXl6b1F6NVBuam9xYml1Y3VYV0ZmTEs0elVMWC1ibE5fU1c0QWtWM1owZ3JDQlAwOUVvSUNrT1JLU1pHLUU4eFJSMHNGcWR3QdIBwgFBVV95cUxNZWtPRXBrNXByZkJ2T1I5a0U1WXNyR0hWWXJWRFNJMko1UWdVY1llV25DaW85ZkROZHkxUWk5QWVjb00ydDF3LWprT3gxbnYtWktRTG01ZndORHQ2M2c3TlJRTVdvTkV2d29BWDdTMGFNSHRlVm82dUNkVDBBYjZac082d0I3ZDE3azlyY3FQUGhNQWxHN0JoT3NXNUZXX2I3aU54anlJR3dHSm8xOWQyUmVKZWl0cUs4TDZ4ZGxaN242UQ?oc=5",
-   "time": "2026-10-26T09:45:49+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Your aircon isn’t cleaning your air, and bowls of water won’t either: What haze does indoors, Malaysia News",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUDFabF9ZYjNMN3hzU0ZOYjQxY2JFbXVDLTdGZTY1Qmg2enUtbV9XYnhlWS16OUh0b0dpRXN3TktwUmhHU3l6U1dBNnZiR2R5anJtN0dfNmpJTVZmY3dfYVRtZzhWanBiUVhGZ1dxcnBmOEFwTjcyMUozUk9lQlFyLTU2WWh2bk9HVzlOb1FJcC1mRXoxUjdqb1VzQ3lXcjFTMVVEcHNiWjNQaWkzdkowajlqQUdKdngyUEE?oc=5",
-   "time": "2026-10-26T09:40:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Malaysian Reserve",
-   "title": "Haze: Seven areas in Sarawak record unhealthy API readings, Serian highest",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZWhHeUhlLXF4ZUEtb0l6ekoxelo1eUx4b0xmSmd6TXM2c3dyb1g4bWJwQzhtU3hYeGpkQTRXYkZzS3BOcUp3VzNJbTZhT0pobXk1elB0ZFN2d0ZRU0RCTElGYWNBd1hZcUl2eFlEaFlvMzgwVTlWdFpDTWVfVXVGVExSMkxSdTZiek52LWpicS1nQVBqckw5X09iYTlyUnZvSTIzOUFtSTNWLVhtOTJDRG1KNzVMTDZPbmRiOQ?oc=5",
-   "time": "2026-10-26T09:39:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Yahoo",
-   "title": "No hazardous readings nationwide, but haze keeps seven Sarawak areas in unhealthy zone",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTTlWRlA5Qm9kTXFlSXlKdVNRUjF0elFGNEVRVDdQQkNoZkhuWkhWampUa25HUWFyMFNZWXNnVmE1eE5fN0lPamtRWWdINGUyRG5jd2VHRmxlSVJhQ0FoUkhYWWpzdU1tS1pmazBabzBJejdyR1luUW1ZWl9JLTZpVDFCR0xYODBYVHZoRg?oc=5",
-   "time": "2026-10-26T09:37:00+08:00",
    "summary": ""
   }
  ]
