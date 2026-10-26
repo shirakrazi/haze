@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-26T21:00:00+08:00",
+ "updated": "2026-10-26T22:00:00+08:00",
  "psi": {
   "west": 73,
-  "east": 68,
-  "central": 69,
-  "south": 64,
-  "north": 67
+  "east": 67,
+  "central": 68,
+  "south": 63,
+  "north": 66
  },
  "pm25": {
-  "west": 50,
+  "west": 38,
   "east": 15,
-  "central": 25,
+  "central": 21,
   "south": 17,
-  "north": 10
+  "north": 9
  },
  "hist": [
-  {
-   "t": "2026-10-24T20:00:00+08:00",
-   "psi": {
-    "west": 153,
-    "east": 113,
-    "central": 124,
-    "south": 108,
-    "north": 115
-   }
-  },
   {
    "t": "2026-10-24T21:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 64,
     "north": 67
    }
+  },
+  {
+   "t": "2026-10-26T22:00:00+08:00",
+   "psi": {
+    "west": 73,
+    "east": 67,
+    "central": 68,
+    "south": 63,
+    "north": 66
+   }
   }
  ],
- "newsUpdated": "2026-10-26T21:14:16+08:00",
+ "newsUpdated": "2026-10-26T22:26:11+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "athleticsillustrated.com",
+   "title": "The haze season that called off Southeast Asia’s races",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzNJVDl4X1F2bHFyUHNpdXdRZzQxNVNWUjkxanVJSDNwTnFPbS1FcFhhWkpNQXV3dXRjZ2I0dEFKbWFPQnVJdzZZanhYTWRqLTgtVDhGRHliNDE0MjByeDJ2UFpqT1ZLNmc5eVEwV3ZVa0VyQkE2TnZmMzJyUEgzWEJWMEI2YjJvX0hHN0VGOC0?oc=5",
+   "time": "2026-10-26T22:22:07+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Likelihood of haze affecting Singapore low on Tuesday",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1pndXBNb1cyNkpaMjZOVjFldTUtN01oQkRrZjBJbGdIb3hHUU5VUWFjMXV0OUlOODJWQjc3ZUZrWUV0Qloybk41aTl1MERMbS1nYk5aRVpTNTF1ZVpDVHlNVV9ZT2oxZktFVUVlcjZ0LW1YNUJCYkRNQU5nMXZpTWc1UjVDTjhCQXBlUQ?oc=5",
+   "time": "2026-10-26T22:09:55+08:00",
+   "summary": ""
   },
   {
    "source": "Kompas.id",
@@ -539,13 +553,6 @@
    "title": "Likelihood of smoke haze affecting Singapore low, suppressed till Thursday: NEA",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nMEg1Y1VuLXE3bW1UaFBnWHdtSGxQNnJUdTVsa1ZWd3RzME1IQzVCLTBDN3pvZ3VZcEZ3Sk56dWxLU2hBSmFUazdPRXU0N1pnUDVGeXV6bFFhMUQ3TU01cmNNTXRPa3dyc1YtcmFheFlRLXVmQVdHYQ?oc=5",
    "time": "2026-10-26T18:47:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Likelihood of haze affecting Singapore low on Tuesday",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1pndXBNb1cyNkpaMjZOVjFldTUtN01oQkRrZjBJbGdIb3hHUU5VUWFjMXV0OUlOODJWQjc3ZUZrWUV0Qloybk41aTl1MERMbS1nYk5aRVpTNTF1ZVpDVHlNVV9ZT2oxZktFVUVlcjZ0LW1YNUJCYkRNQU5nMXZpTWc1UjVDTjhCQXBlUQ?oc=5",
-   "time": "2026-10-26T18:45:03+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Global Figures Speak Out on Haze: DiCaprio, Greta Thunberg Included",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZHg4NXg5Uk1wMDEwWHZjVlJtczdWOXFmcER4RWtMcjlJaE9XWTZleExEcVYzV2JndXFPY25JWnByX05XTlRHVlkyeGNkd25jUW00MDZiOFZrbW03VXh4SmE1M0Y1QkZEblBXQ0E3RUZXUmtxZTYxMU1mX0IyeEhkbWhkNkhOMGQ4OEJVcE5JZkh0Q1phSm5lX19qNFZ5NmM?oc=5",
    "time": "2026-10-26T17:26:19+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Haze eases as Northeast Monsoon set to begin",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnVYUFg3bWxpZHVEaWNGZjRYV0hwVG4wbnR0M2NJa3RWZGU3akQ3aUFPMEdzclVSMEd3eEVhakMxUjMxdWpRT3BJdGtNTkNLRHZYZ25Qc3daWmwzM0FUcERoLVkyb3dGOUJJQ05uNDJ6Z1dmeXlSSjdrSzY3V2dxNVpPdnJKR1h4dW51Y01CM1Y4d0HSAZgBQVVfeXFMTVlTTVZmOTQxbkNhX3cyc2NGZmhPRFJDTFlfSUlaRS00ZnJTZ19uLXVxSDJkdlZldzFVOVEwS1BwM3pEQ2tHdU5hNDRSTHM3R25nSEEwNUFNa3ROYXRZU0tqdURGVWY5NEgwMnktQ0dWMEY3cTQtY2pqbW1WVktsaVJUVDQ4NjM1Nk00XzM0SWZPS3NlX1lWbmI?oc=5",
-   "time": "2026-10-26T17:06:10+08:00",
    "summary": ""
   }
  ]
