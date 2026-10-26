@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-26T14:00:00+08:00",
+ "updated": "2026-10-26T15:00:00+08:00",
  "psi": {
   "west": 72,
   "east": 71,
-  "central": 70,
+  "central": 71,
   "south": 67,
   "north": 66
  },
  "pm25": {
-  "west": 26,
-  "east": 31,
-  "central": 26,
-  "south": 32,
+  "west": 19,
+  "east": 28,
+  "central": 35,
+  "south": 31,
   "north": 24
  },
  "hist": [
-  {
-   "t": "2026-10-24T13:00:00+08:00",
-   "psi": {
-    "west": 153,
-    "east": 120,
-    "central": 139,
-    "south": 114,
-    "north": 126
-   }
-  },
   {
    "t": "2026-10-24T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 66
    }
+  },
+  {
+   "t": "2026-10-26T15:00:00+08:00",
+   "psi": {
+    "west": 72,
+    "east": 71,
+    "central": 71,
+    "south": 67,
+    "north": 66
+   }
   }
  ],
- "newsUpdated": "2026-10-26T14:13:51+08:00",
+ "newsUpdated": "2026-10-26T15:15:17+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Business Times",
+   "title": "DBS commits S$1 million to haze relief efforts for seniors, migrant workers in Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHg2NTV3NHZjajBzWURXM0gwM2xfNXNOZU5VaEN0VzAzc3ljQy1McGZXRVZxbTRnTEhMOVA1SndGRE51Um9pNTdKcWJrQ0ZVV0s2WDFyUERzV3BqWHB1bXVKaDRXdW9oREZ2YTg1YWNIUGF5eDhhRFdnczgyTGF3NHVYTTF2WTdXQl9pQ0FCeVpTNWh4b0VhTHBNam5jWHI5STFCVE5uenNkQVlGaEJBMi1Weld0Rk82bWlv?oc=5",
+   "time": "2026-10-26T14:56:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "Singapore Haze Eases as PSI Stays in Normal Range",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRjV4TnJ4WFpKSDlxRUNGazg4R0RDUzRNakYxRE96Y0JndXFsVU1CWEdVTzNPOE1rSGJJYUxqd2p4RkJkUWtNOFFlVThnYm9GS213SEJxd25YVVQ3akM5bGJrQkNLUUtDS3JYNEN2NGc4aDdmaVRYVVBGX25VMDQwanNNbmhaeEJhZ1E?oc=5",
+   "time": "2026-10-26T14:35:24+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "All 10 S’pore-based firms acknowledge NEA notices on haze law; majority say they will cooperate",
+   "url": "https://www.straitstimes.com/singapore/all-10-spore-based-firms-acknowledge-nea-notices-on-haze-law-majority-say-they-will-cooperate",
+   "time": "2026-10-26T14:34:59+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Free Malaysia Today",
+   "title": "Indonesian NGO plans legal action against M’sian, S’porean firms over haze",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY3g1RWRNX29PV1NQVU1pOW1CVGxMaVV1RzNJb255cDRRTjVTeGlKSHR4dnJqRFp3czJCMHhfenh5bDZiTk1NblppQmk2N04wN3F2c09SOXBKN0hrYWdGdzJLdzlpOWJRRTdva0RQOWlIQWhFbVFqM0pnTWlpXzhGZVd1YlZiUmNZVlB2U0JzRHl3aTNHN0g3WFIwc1FkTktsMF9YUTM4QVNjSXVJTkp2dkVWcXQwN3h3WmFHM3FGT0phRWktaGNPRC1GcFJRYXM?oc=5",
+   "time": "2026-10-26T14:29:32+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality continues to improve; PM2.5 readings remain normal in all regions",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1pndXBNb1cyNkpaMjZOVjFldTUtN01oQkRrZjBJbGdIb3hHUU5VUWFjMXV0OUlOODJWQjc3ZUZrWUV0Qloybk41aTl1MERMbS1nYk5aRVpTNTF1ZVpDVHlNVV9ZT2oxZktFVUVlcjZ0LW1YNUJCYkRNQU5nMXZpTWc1UjVDTjhCQXBlUQ?oc=5",
+   "time": "2026-10-26T14:23:07+08:00",
+   "summary": ""
   },
   {
    "source": "아시아경제",
@@ -542,10 +577,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality continues to improve; PM2.5 readings remain normal in all regions",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1pndXBNb1cyNkpaMjZOVjFldTUtN01oQkRrZjBJbGdIb3hHUU5VUWFjMXV0OUlOODJWQjc3ZUZrWUV0Qloybk41aTl1MERMbS1nYk5aRVpTNTF1ZVpDVHlNVV9ZT2oxZktFVUVlcjZ0LW1YNUJCYkRNQU5nMXZpTWc1UjVDTjhCQXBlUQ?oc=5",
-   "time": "2026-10-26T11:43:54+08:00",
+   "source": "Newswav",
+   "title": "Malaysia’s skies turn brighter after a month of severe haze - eatpraylove_malaysia",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObTh1UU1TT2h2QXJoT1l2STBzc1ZZNnFkZDM4VGk1UTVFcjlSM0doNXlxSkpKQlpDUXp4TTlRZ0xsYnBDbnFwRFNDdVlNZTY3aHh2UjdWZFpnOEQwaHd4LUl0Y0RXZWx4UmxHU0FudkdqNmxLX05FMW1vTDAyWEdheW1vNW5oUnpJUHViSlpWTld6cjI0WGxNeUpFY0U5YnZkYTloRk5kRGVpRUswLWpLNGV6a0k?oc=5",
+   "time": "2026-10-26T11:52:31+08:00",
    "summary": ""
   },
   {
@@ -556,45 +591,10 @@
    "summary": ""
   },
   {
-   "source": "Singapore Business Review",
-   "title": "Gov’t forms haze probe panel, appoints legal adviser",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GTG90aDZTcHJWZF9iV2ZCYWVaVkJ4c0RMVURhNGZMd1p4ekdURXlxMTU0TENfRjRsa3VNWEdGaUZjaDltZnVoVjV6Mk42bDFRZlJFQkhJT3BvLXVtX0xYS0NsM3FndTU2MWNGV2Qxa2ljTjB0d2phZ1lqeXk1QjA?oc=5",
-   "time": "2026-10-26T10:57:01+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Cambodianess",
-   "title": "From Malaysia and Singapore to Ho Chi Minh City, Haze Is Back in the Picture",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNTI3WnRCS3RyUVVVYTJodHJuNnBtNEFxbms0QTRVY2xNZzl6WXlWaTdaSURleXBQRGNlN1FDdGZMNGlndy1qVDcxVGlaWS1BZ1NGOVd5UWd0RXV4U2JQTTd2Q3JtdFpYNGl5T1FjNEhVcExwODVYSTZOdk10RzN4TmZ1aGo3R3hKTFlsQUk1YnVVZldzMHlzeWN5QTRJdkFSMEVCRGFSUmwzM01U?oc=5",
-   "time": "2026-10-26T10:56:14+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Asia News Network",
-   "title": "Want to escape the haze in Malaysia? Here are some clean air havens you can visit",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTJoYjJBN0JBUm1mbzNCUTFIaEFCWFhlUmJNa3VGX0Q5WU9XeWtuVzR6RWoycng5OE1kRFBVcjFMNnZrUkhvLWRxVTMxYzRqOHZXLWJ0cFlSY2lUMDdOWUJyMDFLcGh6YXlpRUR6M3E4czJLd0lHaGp4em5sUElUSl9xTVowUjdrQ1o1NXkxLXN5UmVWaUlUYVpXM3JuMElHNklrZU9YbGgzQQ?oc=5",
-   "time": "2026-10-26T10:44:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Singapore Business Review",
-   "title": "NEA issues haze-related notices to 10 Singapore agribusiness firms",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY3ZmWjNpNjFibHVjb01pOGkyWl9iMnlMQW8zand1NVlDNmI5cmdxTTVkVGZZOWNCUFBnMk11Q21aMVZ6Nzh3RGxTZkdoWFVTV1l1Q25MX0pkNDBHYTBtVmlTTWVacklwN2JVQ25DV0FGdnlYZXNzTU03NUJNeUo3a0tnRl9EZVpwVUNHQklkTXlMNEhia3NuZERIVHVremFaNnc?oc=5",
-   "time": "2026-10-26T10:40:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "BusinessToday Malaysia",
-   "title": "TSH Resources Confirms Singapore Units Receiving Notices From NEA Over Haze Issue",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONUtnWU9QZGpkaWxEN2FxcFA4VTVFRzUzQ0tTY1VVN1VmMVBBTXJ6UUpiUXBENk5FN05Ebk1wWGhQX2lNS19QVWlBOGxWWjdqN3NiSGJvTXFHRUhNUGRGNzJUQzQxODE4MHIyUWxpMVFPSXZadGlld1dMNnpyb2RSSGtFSS1nQkF3U1hnVUJjQUdXdXg4ZHJqTHhMWFl2U1d2YzdZRjBhcjUxeGJzZGJrcy1oZ1E4QlA4MmtxXy1qa3cyb3NW?oc=5",
-   "time": "2026-10-26T10:16:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Malaysian Reserve",
-   "title": "Who profits from the haze?",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fT21LNHFBRDlLODZCNGJjZzJOb1JoSjRwaDFyclZIYl9VYWx1Ylo0M2s4YXNWSnRjbzRvZVQyNmktTmlyTk1YcW11WVJsckZjV1dBNmk0M0pIRC0yeEo4ZFFIeEREREZlZ00zVmp3WkhlYmV2LUlOUA?oc=5",
-   "time": "2026-10-26T10:02:04+08:00",
+   "source": "Minichart",
+   "title": "Maybank Keeps BUY on Raffles Medical with SGD1.09 Target as Haze Lifts Patient Visits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOXFsT0wweW9VZkJpU0hrWmFNRDdQYW5ybjZzMVhrZTdaNEVYLU9RSmFzSnd4blZSR3hIM2RBbkZ6ZTIxYkdsbk5EQmhPeXlnaHdyVVFKUVRxY0pseDNPRVU1Q3ZuSVdkTjdmMHoyNlBkY2FEREVaZVppTlo5SzExdk9kbGUwdW1JXzEzcGJ0UEg3MFdlbnltYXZFRGNYSkJLWXo5YU10QTFxQTNZaFpITFJUZlEyQXZXSnJxRGhMSWN2eG44?oc=5",
+   "time": "2026-10-26T11:03:00+08:00",
    "summary": ""
   }
  ]
