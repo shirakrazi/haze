@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-26T11:00:00+08:00",
+ "updated": "2026-10-26T12:00:00+08:00",
  "psi": {
-  "west": 74,
-  "east": 73,
-  "central": 70,
+  "west": 73,
+  "east": 72,
+  "central": 71,
   "south": 68,
   "north": 67
  },
  "pm25": {
-  "west": 29,
-  "east": 31,
-  "central": 31,
-  "south": 14,
-  "north": 37
+  "west": 20,
+  "east": 33,
+  "central": 34,
+  "south": 17,
+  "north": 30
  },
  "hist": [
-  {
-   "t": "2026-10-24T10:00:00+08:00",
-   "psi": {
-    "west": 148,
-    "east": 121,
-    "central": 140,
-    "south": 118,
-    "north": 121
-   }
-  },
   {
    "t": "2026-10-24T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 67
    }
+  },
+  {
+   "t": "2026-10-26T12:00:00+08:00",
+   "psi": {
+    "west": 73,
+    "east": 72,
+    "central": 71,
+    "south": 68,
+    "north": 67
+   }
   }
  ],
- "newsUpdated": "2026-10-26T11:21:52+08:00",
+ "newsUpdated": "2026-10-26T12:07:15+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Air quality continues to improve; PM2.5 readings remain normal in all regions",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1pndXBNb1cyNkpaMjZOVjFldTUtN01oQkRrZjBJbGdIb3hHUU5VUWFjMXV0OUlOODJWQjc3ZUZrWUV0Qloybk41aTl1MERMbS1nYk5aRVpTNTF1ZVpDVHlNVV9ZT2oxZktFVUVlcjZ0LW1YNUJCYkRNQU5nMXZpTWc1UjVDTjhCQXBlUQ?oc=5",
+   "time": "2026-10-26T11:43:54+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Singapore issues haze pollution notices to two TSH Resources units",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1RoSW1oTUhhSTR2MXZVZ2I3V0VZTEpkYWttWGJNdkMwcDN6VTlRSDNsci12bGsxbnE2clpwWW41TVI3X05fUzJRZTRPYkVITXczMWUzc3ZaRG85X0NZVzVyaVVLbjlCalhCajNOQkkxekZQMEhMTVNTOHgzZHJrR3B2R2FoS2xKazNhcWVhTHFWNmt1d2RqZnNvdEVHck9mNUVtSjlvV0lBb1pXWFZZM0lsVUpBaVdmczJRR2FB0gHDAUFVX3lxTE5DdFhCVUxKTUtHSTlaRzlPeW5ObkhuOUg3Rlo3WjdHcVhEV2tMZFprUnY3Mm5lbnRrUlNDdGNnYi1BT19KRk4xS3puOFdEc3JseURHZGpaT21xUXotLXctMFRxWEJJeGxMcmliWXY4VlJSZ1VvY0taaWxBMEJmeEJsWVhPV0FwNlBxRFJIVzU4YmRLTU9NMC1NQWZiUk4xd1kxRXZjQmdGczFkd3EyUFJPSnVQSXNCYnVTTTVHYXJ5YXRxQQ?oc=5",
+   "time": "2026-10-26T11:28:34+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Singapore Business Review",
+   "title": "Gov’t forms haze probe panel, appoints legal adviser",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GTG90aDZTcHJWZF9iV2ZCYWVaVkJ4c0RMVURhNGZMd1p4ekdURXlxMTU0TENfRjRsa3VNWEdGaUZjaDltZnVoVjV6Mk42bDFRZlJFQkhJT3BvLXVtX0xYS0NsM3FndTU2MWNGV2Qxa2ljTjB0d2phZ1lqeXk1QjA?oc=5",
+   "time": "2026-10-26T10:57:01+08:00",
+   "summary": ""
   },
   {
    "source": "Cambodianess",
@@ -532,13 +553,6 @@
    "title": "TSH Resources Confirms Singapore Units Receiving Notices From NEA Over Haze Issue",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONUtnWU9QZGpkaWxEN2FxcFA4VTVFRzUzQ0tTY1VVN1VmMVBBTXJ6UUpiUXBENk5FN05Ebk1wWGhQX2lNS19QVWlBOGxWWjdqN3NiSGJvTXFHRUhNUGRGNzJUQzQxODE4MHIyUWxpMVFPSXZadGlld1dMNnpyb2RSSGtFSS1nQkF3U1hnVUJjQUdXdXg4ZHJqTHhMWFl2U1d2YzdZRjBhcjUxeGJzZGJrcy1oZ1E4QlA4MmtxXy1qa3cyb3NW?oc=5",
    "time": "2026-10-26T10:16:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Air quality continues to improve; PM2.5 readings remain normal in all regions",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1pndXBNb1cyNkpaMjZOVjFldTUtN01oQkRrZjBJbGdIb3hHUU5VUWFjMXV0OUlOODJWQjc3ZUZrWUV0Qloybk41aTl1MERMbS1nYk5aRVpTNTF1ZVpDVHlNVV9ZT2oxZktFVUVlcjZ0LW1YNUJCYkRNQU5nMXZpTWc1UjVDTjhCQXBlUQ?oc=5",
-   "time": "2026-10-26T10:10:04+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "No hazardous readings nationwide, but haze keeps seven Sarawak areas in unhealthy zone",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTTlWRlA5Qm9kTXFlSXlKdVNRUjF0elFGNEVRVDdQQkNoZkhuWkhWampUa25HUWFyMFNZWXNnVmE1eE5fN0lPamtRWWdINGUyRG5jd2VHRmxlSVJhQ0FoUkhYWWpzdU1tS1pmazBabzBJejdyR1luUW1ZWl9JLTZpVDFCR0xYODBYVHZoRg?oc=5",
    "time": "2026-10-26T09:37:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Asia News Network",
-   "title": "askST: Why has ASEAN struggled to tackle haze and what can countries do about it?",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV0FzU3N0THpKZ2NvT1VlcEpEMThQWTk0MktCV09rUi0yMEZKQVM4Tkl4dFhHeWVGMll1OUhlVDNSSFJCTHlPNWNUV3VjMEd1OXRTX21MWkhOVFFiWWtvQjVGb1JFMUtLbEQ0ZGp3dUhBcHFCNEZBdzNXaFFmQkgtbENhMVlFUWs5X1lacXFnQkFweXJ6b3RFdGJrMUI4aUtkNzVMYmJBMm8?oc=5",
-   "time": "2026-10-26T09:29:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Newswav",
-   "title": "Serian records Malaysia’s worst air pollution reading at 173 as haze persists in Sarawak",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbVUxcC0tRWZGRkI5SXV1RUxIRjlGUVVSdTRsRk5IR09LR3o1WWRxT2lVMGt4S1hNZURLUzlLNnVZcG9aOTk5VjhSUHQ5alpKZnQ1QWk0OXhnUHBaQ1JISDh0VU5FRkhLaG5nVHlqZmttUDFBUEE1NHF5Y1lVTWZzSkhHY0hPNDZuYzdEdVU4bjBLRnJBZ05WYjNTN1hCeWhTQXA2ZGJpYldxMlRocEpBRlZvWFRzZ0U?oc=5",
-   "time": "2026-10-26T09:04:00+08:00",
    "summary": ""
   }
  ]
