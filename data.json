@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-26T09:00:00+08:00",
+ "updated": "2026-10-26T10:00:00+08:00",
  "psi": {
   "west": 74,
-  "east": 74,
-  "central": 71,
-  "south": 69,
-  "north": 68
+  "east": 73,
+  "central": 70,
+  "south": 68,
+  "north": 67
  },
  "pm25": {
-  "west": 22,
-  "east": 25,
+  "west": 31,
+  "east": 28,
   "central": 28,
-  "south": 23,
-  "north": 30
+  "south": 19,
+  "north": 33
  },
  "hist": [
-  {
-   "t": "2026-10-24T08:00:00+08:00",
-   "psi": {
-    "west": 144,
-    "east": 118,
-    "central": 135,
-    "south": 116,
-    "north": 117
-   }
-  },
   {
    "t": "2026-10-24T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 69,
     "north": 68
    }
+  },
+  {
+   "t": "2026-10-26T10:00:00+08:00",
+   "psi": {
+    "west": 74,
+    "east": 73,
+    "central": 70,
+    "south": 68,
+    "north": 67
+   }
   }
  ],
- "newsUpdated": "2026-10-26T09:07:30+08:00",
+ "newsUpdated": "2026-10-26T10:07:35+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,62 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "PM2.5 normal, PSI moderate across Singapore; clearer skies until Wednesday",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb1E2UjdFcFRyNWpJYW05cG00TVpvamU4cGpwV0FKMGxaU1F4OGViN2ZZZDRDNk80QU1yazIwQkdnanRjTnFxNUpKclh5MkFGaGphWmlmODlialNMWHdQWW5yU0dIVXdNOFhvR0dTNU5mazBKSmlxdnlUT1kzc0NkaHJTTzh1RWlC?oc=5",
+   "time": "2026-10-26T09:47:47+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Singapore’s toxic haze probe expands to 10 palm oil, forestry firms",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRnhIVExwdnl3ZzVueU0zTWVPSVVXZVVpS1Bnd0NzcGJmWWxTbm1uUVplTVotdnAya1NycFZlVS1DZmtIWXRuQlpUTGxGTzQzUTR2d1JSR3BuX0RjTWFSY0ZaS3RiNFhjR1BrQ3FVblR3Wm53dkxuQW9LbXl6b1F6NVBuam9xYml1Y3VYV0ZmTEs0elVMWC1ibE5fU1c0QWtWM1owZ3JDQlAwOUVvSUNrT1JLU1pHLUU4eFJSMHNGcWR3QdIBwgFBVV95cUxNZWtPRXBrNXByZkJ2T1I5a0U1WXNyR0hWWXJWRFNJMko1UWdVY1llV25DaW85ZkROZHkxUWk5QWVjb00ydDF3LWprT3gxbnYtWktRTG01ZndORHQ2M2c3TlJRTVdvTkV2d29BWDdTMGFNSHRlVm82dUNkVDBBYjZac082d0I3ZDE3azlyY3FQUGhNQWxHN0JoT3NXNUZXX2I3aU54anlJR3dHSm8xOWQyUmVKZWl0cUs4TDZ4ZGxaN242UQ?oc=5",
+   "time": "2026-10-26T09:45:49+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Your aircon isn’t cleaning your air, and bowls of water won’t either: What haze does indoors, Malaysia News",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUDFabF9ZYjNMN3hzU0ZOYjQxY2JFbXVDLTdGZTY1Qmg2enUtbV9XYnhlWS16OUh0b0dpRXN3TktwUmhHU3l6U1dBNnZiR2R5anJtN0dfNmpJTVZmY3dfYVRtZzhWanBiUVhGZ1dxcnBmOEFwTjcyMUozUk9lQlFyLTU2WWh2bk9HVzlOb1FJcC1mRXoxUjdqb1VzQ3lXcjFTMVVEcHNiWjNQaWkzdkowajlqQUdKdngyUEE?oc=5",
+   "time": "2026-10-26T09:40:06+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yahoo",
+   "title": "No hazardous readings nationwide, but haze keeps seven Sarawak areas in unhealthy zone",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTTlWRlA5Qm9kTXFlSXlKdVNRUjF0elFGNEVRVDdQQkNoZkhuWkhWampUa25HUWFyMFNZWXNnVmE1eE5fN0lPamtRWWdINGUyRG5jd2VHRmxlSVJhQ0FoUkhYWWpzdU1tS1pmazBabzBJejdyR1luUW1ZWl9JLTZpVDFCR0xYODBYVHZoRg?oc=5",
+   "time": "2026-10-26T09:37:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Asia News Network",
+   "title": "askST: Why has ASEAN struggled to tackle haze and what can countries do about it?",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV0FzU3N0THpKZ2NvT1VlcEpEMThQWTk0MktCV09rUi0yMEZKQVM4Tkl4dFhHeWVGMll1OUhlVDNSSFJCTHlPNWNUV3VjMEd1OXRTX21MWkhOVFFiWWtvQjVGb1JFMUtLbEQ0ZGp3dUhBcHFCNEZBdzNXaFFmQkgtbENhMVlFUWs5X1lacXFnQkFweXJ6b3RFdGJrMUI4aUtkNzVMYmJBMm8?oc=5",
+   "time": "2026-10-26T09:29:15+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Newswav",
+   "title": "Serian records Malaysia’s worst air pollution reading at 173 as haze persists in Sarawak",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbVUxcC0tRWZGRkI5SXV1RUxIRjlGUVVSdTRsRk5IR09LR3o1WWRxT2lVMGt4S1hNZURLUzlLNnVZcG9aOTk5VjhSUHQ5alpKZnQ1QWk0OXhnUHBaQ1JISDh0VU5FRkhLaG5nVHlqZmttUDFBUEE1NHF5Y1lVTWZzSkhHY0hPNDZuYzdEdVU4bjBLRnJBZ05WYjNTN1hCeWhTQXA2ZGJpYldxMlRocEpBRlZvWFRzZ0U?oc=5",
+   "time": "2026-10-26T09:04:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "Is The Haze Situation Improving? Here’s Today’s Data",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUFh0Q0xaczlhMUx1d3hEY1o3VzltLURWMDJMU1VQS0FvQzN6S3hJMEZiRzhIRUNlNFl5UmtTTFJwMTZuOVdjOWtyMGxXa2VjTWM1RlIyM0g0bXR3bnJCLXRYZDh2WnBOZHlZTmpPYWhNNzZaNWF4LUFLLTlBNTd5MGdKUndTSzJPZFJMS3o1MFlVLUg3T2dGZnpn?oc=5",
+   "time": "2026-10-26T09:03:06+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Asia News Network",
+   "title": "Smell of smoke, sting of insults: Malaysians target Indonesia with boycott of goods over haze",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUzdSWXl0V2k1djZtcEFtdnA4SVNvNDdHMjhwWjM0b3F3bU02YXZZNG5sVjBJdk1ENDRTSVFwUjFHV3pYZW1PSjBtV3JMUWQ3SFcwWWNiZ294Unpfa1Zjd1dNYjc0S01iMm55QXN5SkVmWF8xYjRLUnN5QXpGMktwbU9LcTBLSzZpWFVrWno4VDdyQVNZWjFTN3VtLTQ2dHN5NXJ2NHJBaDJIdmZkZWxBdy1feXlodEQ2?oc=5",
+   "time": "2026-10-26T09:02:52+08:00",
+   "summary": ""
   },
   {
    "source": "Lowy Institute",
@@ -521,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "AsiaOne.com",
+   "title": "Even as skies begin to clear, Malaysian eateries say the haze has already hurt business, Malaysia News",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2lMS24yT3NvdmQ1aVFhWkF0MHNSTWVTMDdkRk1HUnJra1JhdkNNNVdJTGoxeXVFT3o3MGREWXZyMEhvQmpta0Z0Nkp1VFJEckhqYmJBRnZmUF9xYlRZWnRrbWZCc2IxdWpGZjhLYjJZb0o1NnM0VXk5RF9ETkw5R2xqLUlxUGVOQ1dhc1NQV1FlcE9NSzdld05uYl9menBXZlFQcVI0dTlCSXBTVHc?oc=5",
+   "time": "2026-10-26T08:00:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Star",
    "title": "Haze relief soon but El Nino looms",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ0lNUGk2blQtbXlZYkZvd3R0RVl0MHk3TEJ6TjJJVTBsd0hHU0NpanMwaVZXb3VibXlTVVQzQTJXRDkxZ0FjRXFBd2c4VVF3b2x6ZDRjNURvcHVRbXExc1RDWFJXTWM2YklCZUFwWmpJU2VuNUt1M3FLNXVlNUNFZEdiNWlQMUM3WklBXw?oc=5",
@@ -528,73 +591,10 @@
    "summary": ""
   },
   {
-   "source": "Yahoo",
-   "title": "Your aircon isn’t cleaning your air, and bowls of water won’t either: What haze does indoors",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVTWUzSDUyV1JwbWhFU3diOTd0eU0zOTZ1Szl0dlJwb3plMU5SWm9DeUVIR1MtZlM4WlBQX1lWVFRQZHA3X0Z0SDBwX25OLVQxT0wyVlpxWnNjOE5ndnlCRjRBZ2k2RzkzRkd6ak1mUUluM29RdXRyT3Ewemo?oc=5",
-   "time": "2026-10-26T07:00:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Straits Times",
    "title": "Haze in Singapore: Normal PM2.5 readings and good to moderate 24-hour PSI islandwide",
    "url": "https://www.straitstimes.com/singapore/environment/haze-in-singapore-normal-pm2-5-readings-and-good-to-moderate-24-hour-psi-islandwide",
    "time": "2026-10-26T06:10:49+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Seoul Economic Daily",
-   "title": "Haze From Indonesian Fires Guts Southeast Asia Tourism",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYV83MzRaelczRkRKZHU2ak0xVXFyVVBYVHIzclo5WFhnN3IwbVVCX0ROZDRQdDJCNFZ6RDdNT1BESUJKX2Y1S1psTWtsX3pCSTBxVVI4MWh4QTV3WG1VekQ0LWFiN3B2eFNPcnZnSlM0UE9sTS1aeG1WSWlfcFR0VEJEb1lvSUFNREFrRGY2MTgydWQ2VS1lREpLY1dWdmc0WnZQOA?oc=5",
-   "time": "2026-10-26T06:00:51+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Borneo Post",
-   "title": "Southeast Asia’s annual haze: Indonesia must accept responsibility",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV1BSOG5sWXp3UGhxRDQwUDNNNU14X0k5NmpDTzJwcGJOOEtTbkZRVjZXa2M2M0ptdTd6djlpbGlTMldFaHVvTktqZklHVVN2NG5VOVJnR2lORENOX0JtSG5QNGtyZGY1aHVTZXRHaGM1WFY5dlBqNEhJSGp5VjBzQ09zRnJ2eG5NMFl3d3gybmxlWWhzQkNESXVJcU1DV3BNQ0RRdXgwLXZEUQ?oc=5",
-   "time": "2026-10-26T05:02:58+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "The Singapore connections to the Indonesian companies causing the haze",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12LTZsQnVNSE9BeElxVzd1STh4U3VXMm1xbjRUaGtBUXkyTE56WDZZS0N4Mnd6SGZXZG5vamRrREYzOGpTYjRmelMyNnlBRkozMnVkb0xzS2x1bU82RXc?oc=5",
-   "time": "2026-10-26T02:11:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NEA.gov.sg",
-   "title": "Haze Situation Update (25 October 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkxRRWFyMFBEMl9ONUc2RHJETThkUXRxQVQxU1ZDd1BtSWlwcmRJRHNyYWRVMFhmbzhLSGQweHNpREhRaW9BOWk4SmJTQkZQcXg5WFZBVHRBX2h3ZVVQSmh2R29pWFpSU0hLT2dsZTJCeEtwYU85QW9fY29KN1JKZng3UTNqOWx2Q2YxUEc1b1VOZw?oc=5",
-   "time": "2026-10-25T21:25:50+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "After 11 years, Asia Pulp & Paper has been named again over links to haze fires. What is it & what's the S'pore connection?",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1N05KZ1JiY0hQZ3QtN3NSTTd5bmNDV2RFSFBkdEM0aTVNay11cVNyLWROczIzb1ZKVjVjckd2OF9zckh4SnpuVVJHR2NtWXo3TGNTd2pCNFdoR1lvLU1sdTlSM0N0OTdYZVlONg?oc=5",
-   "time": "2026-10-25T21:19:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze: Clearer skies over Kuala Lumpur spark relief, excitement",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTh3cUZKVlIzd3I5Wlp5ZW1MRkEwTXdzMUtxRE9TMUhIUDN5T1ZoTDlORjZiclQ4bjR6aXhmNjJYbkNPY2l0ZjY0b2VvQnJ5c2R4OGV0bUtmLUxod0hncDFXTjY2TDVYMUMxQnNFakdkdzRJWDBWVHhfbV9jTUpVb05kTklDbi1IWWU4LWFGTnlNMV9qR2JtTDlEODhlWXNLTHZ4c2tPVW9jaVpIS2lN?oc=5",
-   "time": "2026-10-25T20:56:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Southeast Asia haze: Indonesia steps up firefighting efforts at Way Kambas National Park in Sumatra",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYjhCTjFsamtEZ2ZhN293dG1wdHdCaV91cTJmaDhkbmVhbnVOWGZ4cnVmcWZTNVVXRzFWUWVqRG1hY3l5R1I3TkFSSDM5cjVMekNjc0hteEZjN1BlMWJjM0pLU0hfTV84aGFoU1l4SVRIM0JNVWxTbHBKSUpmb1p3eGpYcUd3cjQ0TnRESkEtVURiam9XcEVDRFVSTlZGZDdOdE5oZnNpMDU4bGVDVUlWSTJWZXhWWERVQlR5NE45SXVKY3JneDZKeFRVa2FhRkFTNVJiSmc5Q0s?oc=5",
-   "time": "2026-10-25T20:43:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "PSI forecast to be in ‘good to moderate’ range on Oct 26; showers over S’pore may reduce haze",
-   "url": "https://www.straitstimes.com/singapore/psi-forecast-to-be-in-good-to-moderate-range-on-oct-26-showers-over-spore-may-reduce-haze",
-   "time": "2026-10-25T20:03:35+08:00",
    "summary": ""
   }
  ]
