@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-26T22:00:00+08:00",
+ "updated": "2026-10-26T23:00:00+08:00",
  "psi": {
-  "west": 73,
-  "east": 67,
-  "central": 68,
-  "south": 63,
-  "north": 66
+  "west": 72,
+  "east": 66,
+  "central": 67,
+  "south": 62,
+  "north": 65
  },
  "pm25": {
-  "west": 38,
-  "east": 15,
+  "west": 29,
+  "east": 16,
   "central": 21,
-  "south": 17,
-  "north": 9
+  "south": 18,
+  "north": 11
  },
  "hist": [
-  {
-   "t": "2026-10-24T21:00:00+08:00",
-   "psi": {
-    "west": 154,
-    "east": 113,
-    "central": 123,
-    "south": 108,
-    "north": 114
-   }
-  },
   {
    "t": "2026-10-24T22:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 63,
     "north": 66
    }
+  },
+  {
+   "t": "2026-10-26T23:00:00+08:00",
+   "psi": {
+    "west": 72,
+    "east": 66,
+    "central": 67,
+    "south": 62,
+    "north": 65
+   }
   }
  ],
- "newsUpdated": "2026-10-26T22:26:11+08:00",
+ "newsUpdated": "2026-10-26T23:15:47+08:00",
  "news": [
   {
    "source": "CNA",
@@ -556,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "AFP.com",
+   "title": "Malaysia's Johor reopens schools as haze eases",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQYWsyZHNGWE5EQ2tINUZGM0lqX2tvcW5IdVRUYWxRSFhocm8wbk9oSVE1N1lCSDhHbl9wcWx1RDNtX2c3QXFQTU10NA?oc=5",
+   "time": "2026-10-26T18:40:15+08:00",
+   "summary": ""
+  },
+  {
    "source": "Aliran",
    "title": "Don’t make families and small businesses bear the cost of haze alone",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclNNWXQwclBFVkRKblZyVldsYUpFRmtpUGlWcllQZ2o2T1VZZzZQWTVkNnpfbTV0TUxWQW0yc3c2Sk1XM1B4M0x5VG5obDVPdFZqM2x3MXhSdVBrcGNsVm9BV2x5UHFnNEJTUmYwTHZwTGNncmNwc0tnUzR4Q0FIMmtVWTBnQmdKY2pZeG5ESHE2NVVuc0ktOUtsVHhxQzZDNzljblRXYmpiN1k?oc=5",
@@ -567,13 +574,6 @@
    "title": "Haze Situation Update (26 October 2026)",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSV9xczF2NllRZDhCSzZHTlBEWUE3bHBiMVpubG5rREVYS283Y0NqZ2RuUk9yX1BOWXoyWHpVYXFzWklxSm5CcThiQ0RpMkVzeVQzdWxpQS1tSUVxZ2FXa0JiNkFWU3VvcVFoTzQtbnZmUi1ET25QX0QxMnQ0aUVfbHdmUWJCdzAtQ3NVUVNaREFfdw?oc=5",
    "time": "2026-10-26T18:21:53+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Macau Business",
-   "title": "Malaysia’s Johor reopens schools as haze eases",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vR05OVllQX2RiV0NUTmN0bW8zdDlOVXVuTlVweVdqbDd4aFUwZVBacU1ydUJXTXhiYko4Q201WXZHSW1LSlFYUlVMY0lIcXVGS29XckhMYTJxWFZDVkszWjF3amFxS2lwQjJhRnVSS3J4Zmtrdlh4RnJrRm4?oc=5",
-   "time": "2026-10-26T18:12:02+08:00",
    "summary": ""
   },
   {
