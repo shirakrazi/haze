@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-26T15:00:00+08:00",
+ "updated": "2026-10-26T16:00:00+08:00",
  "psi": {
   "west": 72,
-  "east": 71,
+  "east": 70,
   "central": 71,
-  "south": 67,
-  "north": 66
+  "south": 66,
+  "north": 67
  },
  "pm25": {
-  "west": 19,
-  "east": 28,
-  "central": 35,
-  "south": 31,
-  "north": 24
+  "west": 24,
+  "east": 27,
+  "central": 38,
+  "south": 27,
+  "north": 33
  },
  "hist": [
-  {
-   "t": "2026-10-24T14:00:00+08:00",
-   "psi": {
-    "west": 153,
-    "east": 119,
-    "central": 137,
-    "south": 113,
-    "north": 125
-   }
-  },
   {
    "t": "2026-10-24T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 66
    }
+  },
+  {
+   "t": "2026-10-26T16:00:00+08:00",
+   "psi": {
+    "west": 72,
+    "east": 70,
+    "central": 71,
+    "south": 66,
+    "north": 67
+   }
   }
  ],
- "newsUpdated": "2026-10-26T15:15:17+08:00",
+ "newsUpdated": "2026-10-26T16:11:12+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Australian",
+   "title": "Indonesia cuts gas exports to Singapore amid wildfire haze row",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNM2RhUGNTYVFpeXpoOERueU1jbGZ0cnQzMDZ1ZFpvQllKd1M4OUNqR1JsNWtlN0Y0cndUVnF0ZnZVNUFscWtLV2o1OVpHYTIzaEM3Y1ZWZkpXOE1xdDJGaWFkSFlDSkZBVzVhWUZXY0hhLVBVTjRFY1p6NWp0TDhvQlM3aHljS3hrQzRGSDZRVlQxSlZkM2VONEJXNl9NQmF6RERrNjVISVlaUEZNM1p5UDYwZk1wRlg3azVTd2hvVUJrbWU3ZW83V1ZpeUVkM3lBZ2tBdGNubTB1aFRpOHhwSUlxdlY1b3RQSGNLY3lrcXFNczNCU1pLNmJ3Snc?oc=5",
+   "time": "2026-10-26T15:10:18+08:00",
+   "summary": ""
   },
   {
    "source": "The Business Times",
@@ -549,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "NST Online",
+   "title": "Haze eases nationwide, six Sarawak areas remain unhealthy",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVV9RRUkxY1UzXzVrSkRfZmEzOGZfZXZJLVVGdHFsTTNkeUZhZFVfSzR0Y1pqRzk5ZHdHczRCUVJtYmNNSG00X01GdmFLdlNxS1FsYVhYT1B1ZHp4VTc5Y3liZHVwRl9LMHNJSnptc3Z2OW9BeF9kLXZFcHhTYkRwRTlScUpxTDJ6Qk95X1k5a1N1OXZmZEphM0VIS3pXTUQzeVE3dGxOejRfYUh4bmJCbdIBsAFBVV95cUxPVV9RRUkxY1UzXzVrSkRfZmEzOGZfZXZJLVVGdHFsTTNkeUZhZFVfSzR0Y1pqRzk5ZHdHczRCUVJtYmNNSG00X01GdmFLdlNxS1FsYVhYT1B1ZHp4VTc5Y3liZHVwRl9LMHNJSnptc3Z2OW9BeF9kLXZFcHhTYkRwRTlScUpxTDJ6Qk95X1k5a1N1OXZmZEphM0VIS3pXTUQzeVE3dGxOejRfYUh4bmJCbQ?oc=5",
+   "time": "2026-10-26T13:40:39+08:00",
+   "summary": ""
+  },
+  {
    "source": "www.planb.sg",
    "title": "Netizens Criticise Indonesia's Gas Export Cuts to Singapore Amid Haze Tensions",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzJyYy1rUkFWUnhuNzR4LXo4WldQQXFQTWh3blZQRF80QlZaZk5Pc2FUOVFxYnZ0YmNZYzcyck1xaW1ZUFlVT1ZVaDdzZ21xd3U5djdaUzFJTGtaV1ZJZUhMbERIZS05R0MwSVl5eGZLOWtaenBIeW9pTjdLeEd1SENjdkZSQ1pVTC1QVEUxMUxLOUtEQkFLOF83NzdNRXMxajRkdmdwWQ?oc=5",
@@ -581,20 +595,6 @@
    "title": "Malaysia’s skies turn brighter after a month of severe haze - eatpraylove_malaysia",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObTh1UU1TT2h2QXJoT1l2STBzc1ZZNnFkZDM4VGk1UTVFcjlSM0doNXlxSkpKQlpDUXp4TTlRZ0xsYnBDbnFwRFNDdVlNZTY3aHh2UjdWZFpnOEQwaHd4LUl0Y0RXZWx4UmxHU0FudkdqNmxLX05FMW1vTDAyWEdheW1vNW5oUnpJUHViSlpWTld6cjI0WGxNeUpFY0U5YnZkYTloRk5kRGVpRUswLWpLNGV6a0k?oc=5",
    "time": "2026-10-26T11:52:31+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Singapore issues haze pollution notices to two TSH Resources units",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1RoSW1oTUhhSTR2MXZVZ2I3V0VZTEpkYWttWGJNdkMwcDN6VTlRSDNsci12bGsxbnE2clpwWW41TVI3X05fUzJRZTRPYkVITXczMWUzc3ZaRG85X0NZVzVyaVVLbjlCalhCajNOQkkxekZQMEhMTVNTOHgzZHJrR3B2R2FoS2xKazNhcWVhTHFWNmt1d2RqZnNvdEVHck9mNUVtSjlvV0lBb1pXWFZZM0lsVUpBaVdmczJRR2FB0gHDAUFVX3lxTE5DdFhCVUxKTUtHSTlaRzlPeW5ObkhuOUg3Rlo3WjdHcVhEV2tMZFprUnY3Mm5lbnRrUlNDdGNnYi1BT19KRk4xS3puOFdEc3JseURHZGpaT21xUXotLXctMFRxWEJJeGxMcmliWXY4VlJSZ1VvY0taaWxBMEJmeEJsWVhPV0FwNlBxRFJIVzU4YmRLTU9NMC1NQWZiUk4xd1kxRXZjQmdGczFkd3EyUFJPSnVQSXNCYnVTTTVHYXJ5YXRxQQ?oc=5",
-   "time": "2026-10-26T11:28:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Minichart",
-   "title": "Maybank Keeps BUY on Raffles Medical with SGD1.09 Target as Haze Lifts Patient Visits",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOXFsT0wweW9VZkJpU0hrWmFNRDdQYW5ybjZzMVhrZTdaNEVYLU9RSmFzSnd4blZSR3hIM2RBbkZ6ZTIxYkdsbk5EQmhPeXlnaHdyVVFKUVRxY0pseDNPRVU1Q3ZuSVdkTjdmMHoyNlBkY2FEREVaZVppTlo5SzExdk9kbGUwdW1JXzEzcGJ0UEg3MFdlbnltYXZFRGNYSkJLWXo5YU10QTFxQTNZaFpITFJUZlEyQXZXSnJxRGhMSWN2eG44?oc=5",
-   "time": "2026-10-26T11:03:00+08:00",
    "summary": ""
   }
  ]
