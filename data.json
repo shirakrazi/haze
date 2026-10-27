@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T00:00:00+08:00",
+ "updated": "2026-10-28T02:00:00+08:00",
  "psi": {
-  "west": 73,
-  "east": 66,
-  "central": 68,
-  "south": 64,
-  "north": 68
+  "west": 74,
+  "east": 67,
+  "central": 70,
+  "south": 65,
+  "north": 70
  },
  "pm25": {
-  "west": 34,
-  "east": 42,
-  "central": 39,
-  "south": 18,
-  "north": 40
+  "west": 37,
+  "east": 27,
+  "central": 41,
+  "south": 34,
+  "north": 32
  },
  "hist": [
-  {
-   "t": "2026-10-26T00:00:00+08:00",
-   "psi": {
-    "west": 96,
-    "east": 91,
-    "central": 89,
-    "south": 84,
-    "north": 84
-   }
-  },
   {
    "t": "2026-10-26T01:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 64,
     "north": 68
    }
+  },
+  {
+   "t": "2026-10-28T02:00:00+08:00",
+   "psi": {
+    "west": 74,
+    "east": 67,
+    "central": 70,
+    "south": 65,
+    "north": 70
+   }
   }
  ],
- "newsUpdated": "2026-10-28T00:10:04+08:00",
+ "newsUpdated": "2026-10-28T02:07:41+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Firstpost",
+   "title": "'Don't Dare Us': Indonesia, Singapore Feud Turns Ugly Over Gas, Haze & Market Crash | Vantage",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM1lyeXVFQ0RmMXdwcjRBNTlhem1oaXpiS2pOMWhaS1JCU2s0d01uRGp6cG1QVXNwU0lkQ2stOTJqLWc2cnJHc2ZEN0JyTkpXQ0Z6V2hyQkhHUWNnZXdIeTRINmZia1EzSzV5VEF2dXlWRjNCVUxFcVBlcjBXbzBRcmE3V3RrazJwcXh6NWphVnhjcGdDTk1tSzU4UHliZWhfNnRrcFdwaGp1NVFDbTJpZGU0ZlRXWUhVcDJvaFVianhYTEYxZmFN0gHMAUFVX3lxTE1XTDQtdHdPaUFnb1BQMmUzSDQ0OXQtMVJ1R1JxZWh3alR1TVFjZUE4Qm5BTnUtc0dzNXIyY0VCSUlnaDlHbmZDX0lRZGFqaHc3c09iMFota3JPa1NOWFdHVGhDN3JQbTE1eUNDbHU5cDRGVjdsVFVDVklFRnM5NlBzT1JmNl9WZzJ5T3hqcWJTNG1yZXNnU2M2LXBFbUk1cDc1WVE1NGlkOTM0ZnExZklodVZEbjBKOXppUWRLTUpReTFtcWF3aEFZR216cg?oc=5",
+   "time": "2026-10-28T01:41:40+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Latest news from Azerbaijan",
+   "title": "Indonesia, Singapore agree to establish joint task force to combat forest fires and haze",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWkEtM0h6TVcxNWdCN3BKTUF0UWNHRVpfQjZVaE1Qajl3SDQxQ2d0Q2xIU29ZZURycU1RYkpVYWtPNkh2VTVZY3FIR3I1V2t2TjNQWkRQRDJhSEdWb2dHQWdtNC1BZWEtaXFBcmtGb2pPdmVCMzNISFhHMEZMVFJheVlTaVlVd2ZPWHhLNnNGeEt5UDMtT0Q1aHI5bUdrNHd1TnhtRkpmVWFRamZV?oc=5",
+   "time": "2026-10-28T01:02:05+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -581,20 +595,6 @@
    "title": "Singapore to Share Data on Haze-Linked Firms with Indonesia",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRGctN251UVRRNVh0Tk1GcFpKem8wQlh5NlhlU1JaTFcwLXJEc3FZa1BCODBSZ1lELXdTNWJKQWVwX1B1QmtGV1Q2R3g3aHBuZmpLc2E1Q2lPZzdMWmZJWGltRDRFb3R4RGNiRERvdWZ4Y05WS2tOZFhEajNvaWwwN0FRNDVpVm5TUnM2cGNkdVA?oc=5",
    "time": "2026-10-27T20:18:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "İlke Haber Ajansı",
-   "title": "Indonesia deploys oxygen bus as forest fire haze triggers health crisis",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3hOWmNRTXdDUXQ0cGdhYzBJSi1jbjl2d1BfYVc2Q08zZWpOdUlNX0pDRnoyRmowdFhHWUMyZTBnUmd1dW42bXZWTE1DNTNIaGNuOFRGY3F4YTZDWnhMbnVQSWpySzdSbjZJWHhVVlQzU1NtMlRxM2V5YU1tVThPNXZnZ08tZmVrLUU3V2NEZGZsNXZWVXE2bzBheEJkTXA3NkxVVllkQTN5Ni1mZmZN?oc=5",
-   "time": "2026-10-27T19:51:28+08:00",
-   "summary": ""
-  },
-  {
-   "source": "TradingView",
-   "title": "Singapore, Indonesia eye haze task force, reaffirm ties amid tensions, ministers say",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMHFhWS1lanJTenlRbW9WeXBpYnpxTU1TNU8tWWdIVy1TRFN2X2JEUDMxVVBxM2dJVHJTVmFsNWpZNkMwUFk3NVZzZEhjQ3F5RmhrS0JUSUpsWnJ0NUpzM2hadlJYY1JIbDRnZE55TUZ6Njl5MWx5NjVySzdiOFFyNHdod1RaLVhOcWh6eTFxb2VXOTk2TDVWV2h6T1pnUnVJcER4QnJnbU1CN0VaTlpRX29hN0JmRWJta0ZtSXNmTXdqRDdFQTE2cG94YlVpeHdGTUczcnNrZ2FIcm03WFdKQmJQYW1xQQ?oc=5",
-   "time": "2026-10-27T19:43:02+08:00",
    "summary": ""
   }
  ]
