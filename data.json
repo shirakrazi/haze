@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-27T17:00:00+08:00",
+ "updated": "2026-10-27T18:00:00+08:00",
  "psi": {
   "west": 76,
   "east": 62,
   "central": 65,
-  "south": 63,
+  "south": 62,
   "north": 65
  },
  "pm25": {
-  "west": 44,
-  "east": 27,
-  "central": 37,
-  "south": 18,
-  "north": 43
+  "west": 37,
+  "east": 25,
+  "central": 28,
+  "south": 19,
+  "north": 26
  },
  "hist": [
-  {
-   "t": "2026-10-25T17:00:00+08:00",
-   "psi": {
-    "west": 112,
-    "east": 103,
-    "central": 100,
-    "south": 95,
-    "north": 95
-   }
-  },
   {
    "t": "2026-10-25T18:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 63,
     "north": 65
    }
+  },
+  {
+   "t": "2026-10-27T18:00:00+08:00",
+   "psi": {
+    "west": 76,
+    "east": 62,
+    "central": 65,
+    "south": 62,
+    "north": 65
+   }
   }
  ],
- "newsUpdated": "2026-10-27T17:08:08+08:00",
+ "newsUpdated": "2026-10-27T18:08:26+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,59 @@
    "pinned": true
   },
   {
+   "source": "LinkedIn",
+   "title": "Is there a long-term solution to preventing transboundary haze?",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZkxCSzNzUHRxODJLakljR0R1N0RWR1VZNnppdnRWRHhXNXBvNTcwenhTMDBaTHZDODNpNmhwd0JfbjZ0NWg1S2d3NTNmaUltZk9WWE9GOWpTVHFiUU5CYWlsRm1TTTVBa3kxMEtwdElMV3lCUXZoYnlXRWluMHU3ZjhUNzcyb3pUZXQwNld2eFNKLVdFTEtJcHBCVEtQTDZfMkJaMUpB?oc=5",
+   "time": "2026-10-27T18:00:16+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Will haze, sustainability, be on Singapore’s agenda as incoming ASEAN chair?",
+   "url": "https://www.straitstimes.com/singapore/environment/will-haze-sustainability-be-on-singapores-agenda-as-incoming-asean-chair",
+   "time": "2026-10-27T18:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Singapore eyes stronger transboundary haze law to address enforcement gaps",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsZFJfWkVjckNZRXR0c0lmTnpuVXBHSjZkOERwcUJZb3ZHbFFkbEJsUk04dVVSNURxTm15cGJOVHNsQ3ljWkt6ZURHMEF6MWVh?oc=5",
+   "time": "2026-10-27T17:54:22+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Reuters",
+   "title": "Indonesia sends oxygen bus to aid residents choking on forest fire haze",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04N21EODRFdHRiNVR2OFl4N3c4RjlUemg0RERGMG4xSnRTbENnYlhYNjdIaXd4c3ZnOF9weC1vNDZrMXgyUXp3U0w1Z252Mm44eVV4TjJsTUZGc2ZfNkZGeElqNnkzVW5XaUFTUkF6b0s1SjdhQ0Z1bnJ4aEtndw?oc=5",
+   "time": "2026-10-27T17:49:12+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Air quality moderate across Singapore",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2U1aXRfUmpiOS13TV9DeHFCaTBiNVlHVVcwLUlZV21UcXdqTXYxbnpSdENzTXRDcW96aTZ6bGtGVV9lbzduaHd6Q0hLSEVEVXItVHpTYUEyT0VwNkRjeTVKV2NqdHlsMzJORm9FdGlkd1ZfbFU4U1NfQmtGQVJmRG1nbHNDV29fM0ZNYQ?oc=5",
+   "time": "2026-10-27T17:35:53+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Istana open house to be held on Nov 1 ahead of Deepavali, subject to haze conditions",
+   "url": "https://www.channelnewsasia.com/singapore/istana-open-house-nov-1-deepavali-haze-psi-6495846",
+   "time": "2026-10-27T17:16:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "JournalArta",
    "title": "Indonesia Sends Oxygen Bus as Wildfire Haze Hits Palangka Raya",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSUXBzbDJUS2pZNU5qLV9mcDd5WEdQZkVKTlpmTDI3MHlUMy14ak16bFN0NXVUZzhGcjh2cU9sbEh0QnRXUjNmN0tGSWFUWnNJdmVvd2szRUF4WTlCV0JnMFJLX0tlalVNYzk4Q21pbw?oc=5",
    "time": "2026-10-27T16:41:07+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Singapore to strengthen transboundary haze law",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11d0JxNlR0Z1RIM19BOGpEUWZ3RU12WkF2b3JLUGJ6YzNuTHJqWjI1OGVWOVFsTFV5NktmRjNHNWVGcjBWM25aNVNWbk1ycVJvYllESTFROENIWW5qblE?oc=5",
+   "time": "2026-10-27T16:25:21+08:00",
    "summary": ""
   },
   {
@@ -535,13 +584,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Air quality remains in good-to-moderate range; NEA says low likelihood of haze on Tuesday",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2U1aXRfUmpiOS13TV9DeHFCaTBiNVlHVVcwLUlZV21UcXdqTXYxbnpSdENzTXRDcW96aTZ6bGtGVV9lbzduaHd6Q0hLSEVEVXItVHpTYUEyT0VwNkRjeTVKV2NqdHlsMzJORm9FdGlkd1ZfbFU4U1NfQmtGQVJmRG1nbHNDV29fM0ZNYQ?oc=5",
-   "time": "2026-10-27T14:58:14+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Straits Times",
    "title": "Stronger haze law will tackle Singapore’s 2 main challenges for enforcement",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oMnlmMHlERHVfMDZxV084aEhMTS1QRTdacHk3cERmemNhTnBJalRBZm50S1ZUZDRfNXRBeFcwTzhNRFZmcFhxSXRVdkpNUkQwbUhXVzg1cXZvbTR3aEE?oc=5",
@@ -553,48 +595,6 @@
    "title": "Singapore seeks to strengthen haze law amid enforcement challenges",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWVRIREw5bWo2SDRVOTM2eFROUUlGVF9FNzBPMzJBN3d0UlVZM2ZZYXVKN2lscWszLUhMNGdYS05XMUJrVFBLaVEyNkVTOW5HV2wtZXBlVmtDR1AzVGdZZjV3MDVBcmhWeHR1U1I2QWZDbTZXQ1VfTWFyTzRabldodDYyNVc4YVZvQ3QzZDIyUHpDV1lIb2k5MkZNcG9TdXNRaDdfV0RCbGRvM2JDdXMtNWJ5QlFNazFkYVNzbURndy1LUUZpQVV6TQ?oc=5",
    "time": "2026-10-27T14:32:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Internazionale",
-   "title": "Indonesia sends oxygen bus to aid residents choking on forest fire haze",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSThSU2FyeHZ3dm1zU2swMW9ET05yT1BYZGdEVU9RX2MxalgwaHNWQTRUcXlOcGQxOWlfc1VKN3JrS0hQWFM1MjZvRlVmSmtoTVRyUXVPSFU5emVMOWlwZVdKZ0ZlbFI3dEJ5THV0ZkJ4eWRsZGJLSWI3UzlFc3oyUFpMUkFFbVFFTVlpVzdaanF1VTVrZThzNDdnY0hreG13ZHFtTVFXVnZaOFVZWVFXd3dfeWtjQnhMR3RlOGN5Yi16VXcyV0dvUXZHcHJjSTZ6?oc=5",
-   "time": "2026-10-27T14:27:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kompas.com",
-   "title": "Diplomacy Hindered by Haze",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05THRFU2tsVC1tQk8zbzF0VC13LTZyNFp5bHc4amx2Z2Rhb2dYTXRFLUxkVVdscXVxVlk2elMyTl9ReHRRZzl3ckw2WXhaYkkyU0dUNEtGbzhmX0pKS3VZaTU3VmJOMWlzcnJTSzRLYWs5ZXFVajlQZzVsT0dRYUk?oc=5",
-   "time": "2026-10-27T14:26:21+08:00",
-   "summary": ""
-  },
-  {
-   "source": "https://streamlinefeed.co.ke/",
-   "title": "Indonesia battles worst forest fires in a decade as toxic haze chokes Southeast Asia",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaWZwY1RGamJQSlJYRzlkM19YS2V5YjJRYktGbnVzWWcwWVdDSEtCMmttVzBGa01sX1NFdUgwaUlIdldQUTd5ZVpUaUZNSjdHZ3hmNEhkbk5NRVJpR3hXZjRuSEg2eExVQ2F1RWFLcTJJUnlKWTdQVklWSm9sbUcwX2hSbVFzcXZ3c0M0amp0V3hIUGYzanZMTnVuVTRpQTc0eGV4Ty1ZYTI5ZnB3U1pnY2NPdmxTSW5RUUE?oc=5",
-   "time": "2026-10-27T14:11:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze: MPOB reports show fires began outside Malaysian estates, says minister",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb0w4MzlHb180Yi1ZUGdRQ09wM0tESHp1ZGxjZU9DaW4zX3RjaWhzYS0wbElMV1hRZzMwU0FlUEdpZmc3T3J1YU5ocGw1ZzNYcEQtbnlLMmNVTmNRMmMyZmR6cjJzQVVWdnhTNHVWYnFoWUJzaE1EbXpEOGxKQWh3YXRSTTlvRTdfUGFaejQ4ODBEYkpHaVFfLVJIcnBuVFNsemFhem5rOE84WGhnV0MwTTAyRkowZmJxQnJway1QUU9IZw?oc=5",
-   "time": "2026-10-27T13:56:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Nikkei Asia",
-   "title": "Indonesia-Singapore spats escalate over haze, MSCI",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSUFzcGFja3pSV21yVzVzendBanZtWnZ0a281WkZOUjdRcFBzMEtkU2Zpd3BHYzdpWFJDR1pEczY4OTF3VTNHOUI3anFIYmRXVHM0dzRRZWlmemk3bFBkUF9NMXJrYW1NaHFZbnNvNWJPelozdFYwVVd1QmJaVnhBZGhKR3owQTNibnh6QXBKcFZYcUlNUFZnMzN5N1B3Vk5TVlRTNERJd1pCZw?oc=5",
-   "time": "2026-10-27T13:42:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore looking to strengthen haze law, may make amendments to address enforcement gaps: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZi1HcElWTzZsdENDMWdacTlMVnN2M0sxOHlxRS1ES01mRUhlTG83enl6UjFYeVZWcGRjY2dRaUJNUFVtWHRtekpCTzhQZTE2UnVFNlNHV0tBMElPeGs0ZFFqRTZwTTNiTmEydW1BVXJEM2NxX3hFV0ZLWnVDM1dGQ3dzbThKNzI0dEdNQ2pURWFUZFF2eXoxZXZ6NXhrYkxzLW9ZWkk1QVNub1k4YlE?oc=5",
-   "time": "2026-10-27T13:41:06+08:00",
    "summary": ""
   }
  ]
