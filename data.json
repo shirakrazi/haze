@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-27T23:00:00+08:00",
+ "updated": "2026-10-28T00:00:00+08:00",
  "psi": {
   "west": 73,
-  "east": 64,
-  "central": 67,
+  "east": 66,
+  "central": 68,
   "south": 64,
-  "north": 67
+  "north": 68
  },
  "pm25": {
-  "west": 27,
-  "east": 30,
-  "central": 38,
-  "south": 21,
-  "north": 44
+  "west": 34,
+  "east": 42,
+  "central": 39,
+  "south": 18,
+  "north": 40
  },
  "hist": [
-  {
-   "t": "2026-10-25T23:00:00+08:00",
-   "psi": {
-    "west": 98,
-    "east": 92,
-    "central": 91,
-    "south": 86,
-    "north": 86
-   }
-  },
   {
    "t": "2026-10-26T00:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 64,
     "north": 67
    }
+  },
+  {
+   "t": "2026-10-28T00:00:00+08:00",
+   "psi": {
+    "west": 73,
+    "east": 66,
+    "central": 68,
+    "south": 64,
+    "north": 68
+   }
   }
  ],
- "newsUpdated": "2026-10-27T23:59:03+08:00",
+ "newsUpdated": "2026-10-28T00:10:04+08:00",
  "news": [
   {
    "source": "CNA",
@@ -521,10 +521,10 @@
    "summary": ""
   },
   {
-   "source": "Midland Daily News",
+   "source": "The Manila Times",
    "title": "Singapore and Indonesia set up a task force to combat haze from illegal burning",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQjB5WXYwRFBySHlpVVNjTV9fdlVRYk1URDJURmsxYUkxN2ZSTkZaVzlZOVNTcDRfSzNxQ1dmODhZeDM4YWx4cjc5b3pWcWdKVk83V21mX3I2MHhyNE81eVExbndYVWc2N0tZRi14MWx6OTZ5M1c0VjJ4Vm1xMnlqR3BKcWh5Zy0wZEFtQ25HSXZESnN4UGl1bnE3SEd2ODl6dkxtSzBnZE0?oc=5",
-   "time": "2026-10-27T22:22:54+08:00",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ19qd1dfY2tnazlLY0pwcXJYT1k2YkxWMmp1UzktbEtvTmQzemYtLXp3MW1UVXdZdTJRR3FKMno2el9iQW13b0d6Vncyd2lWZ2VyLUlUbEVDS1ZSZHo1Umo4UHRYQ3lQU3NTYzBFQUp5TVF2ZGhwUHRDTUZZZG1vN1NPTDEwZVM4ZUZLdlRESDkzVFVqX25EbkpQSGM3QTZuYjhlZHRRQnNEY1lBcTdMRVpmcl9lVDRQM0JSYUZEcS1vNW9CMXdGWE9Sb0VydUFhUGMwQl9zM3JSRzI1V0Y3VkZOaE7SAeQBQVVfeXFMTmdfandXX2NrZ2s5S2NKcHFyWE9ZNmJMVjJqdVM5LWxLb05kM3pmLS16dzFtVFV3WXUyUUdxSjJ6NnpfYkFtd29HelZ3MndpVmdlci1JVGxFQ0tWUmR6NVJqOFB0WEN5UFNzU2MwRUFKeU1RdmRocFB0Q01GWWRtbzdTT0wxMGVTOGVGS3ZUREg5M1RVal9uRG5KUEhjN0E2bmI4ZWR0UUJzRGNZQXE3TEVaZnJfZVQ0UDNCUmFGRHEtbzVvQjF3RlhPUm9FcnVBYVBjMEJfczNyUkcyNVdGN1ZGTmhO?oc=5",
+   "time": "2026-10-27T22:29:00+08:00",
    "summary": ""
   },
   {
