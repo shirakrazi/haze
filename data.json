@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-27T16:00:00+08:00",
+ "updated": "2026-10-27T17:00:00+08:00",
  "psi": {
   "west": 76,
   "east": 62,
-  "central": 64,
+  "central": 65,
   "south": 63,
   "north": 65
  },
  "pm25": {
-  "west": 40,
-  "east": 35,
+  "west": 44,
+  "east": 27,
   "central": 37,
-  "south": 22,
-  "north": 66
+  "south": 18,
+  "north": 43
  },
  "hist": [
-  {
-   "t": "2026-10-25T16:00:00+08:00",
-   "psi": {
-    "west": 116,
-    "east": 104,
-    "central": 101,
-    "south": 96,
-    "north": 96
-   }
-  },
   {
    "t": "2026-10-25T17:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 63,
     "north": 65
    }
+  },
+  {
+   "t": "2026-10-27T17:00:00+08:00",
+   "psi": {
+    "west": 76,
+    "east": 62,
+    "central": 65,
+    "south": 63,
+    "north": 65
+   }
   }
  ],
- "newsUpdated": "2026-10-27T16:13:38+08:00",
+ "newsUpdated": "2026-10-27T17:08:08+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "JournalArta",
+   "title": "Indonesia Sends Oxygen Bus as Wildfire Haze Hits Palangka Raya",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSUXBzbDJUS2pZNU5qLV9mcDd5WEdQZkVKTlpmTDI3MHlUMy14ak16bFN0NXVUZzhGcjh2cU9sbEh0QnRXUjNmN0tGSWFUWnNJdmVvd2szRUF4WTlCV0JnMFJLX0tlalVNYzk4Q21pbw?oc=5",
+   "time": "2026-10-27T16:41:07+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BusinessWorld Online",
+   "title": "Singapore foreign minister heads to Indonesia amid tensions over gas and haze",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3YzSjZsU09JSHZPbDFJR2p5MjByblBrQ29jM3FqaHJHSUlYS1h2YXRxdnpQd01UcDJ4WnA1WGhKRmcyWG4yXzJsaHhXSTNUOHhSZ0xtUVZ3a1kzRGNlcndlUXNHWElCQnhDU3FWRlJhMEV2SWVzQjh3dGFGeXZKbHNJTGRFQm95aXJNeXB0SWJ3X1NJMkVQYWxLSmZMdjRfdC1pR1ZJSjJsQVhDY1gxU1ZVMmQ5Yy1oRUNWYU1vWFMtRDBYeGc?oc=5",
+   "time": "2026-10-27T16:13:49+08:00",
+   "summary": ""
   },
   {
    "source": "South China Morning Post",
@@ -556,6 +570,13 @@
    "summary": ""
   },
   {
+   "source": "https://streamlinefeed.co.ke/",
+   "title": "Indonesia battles worst forest fires in a decade as toxic haze chokes Southeast Asia",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaWZwY1RGamJQSlJYRzlkM19YS2V5YjJRYktGbnVzWWcwWVdDSEtCMmttVzBGa01sX1NFdUgwaUlIdldQUTd5ZVpUaUZNSjdHZ3hmNEhkbk5NRVJpR3hXZjRuSEg2eExVQ2F1RWFLcTJJUnlKWTdQVklWSm9sbUcwX2hSbVFzcXZ3c0M0amp0V3hIUGYzanZMTnVuVTRpQTc0eGV4Ty1ZYTI5ZnB3U1pnY2NPdmxTSW5RUUE?oc=5",
+   "time": "2026-10-27T14:11:38+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Star",
    "title": "Haze: MPOB reports show fires began outside Malaysian estates, says minister",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb0w4MzlHb180Yi1ZUGdRQ09wM0tESHp1ZGxjZU9DaW4zX3RjaWhzYS0wbElMV1hRZzMwU0FlUEdpZmc3T3J1YU5ocGw1ZzNYcEQtbnlLMmNVTmNRMmMyZmR6cjJzQVVWdnhTNHVWYnFoWUJzaE1EbXpEOGxKQWh3YXRSTTlvRTdfUGFaejQ4ODBEYkpHaVFfLVJIcnBuVFNsemFhem5rOE84WGhnV0MwTTAyRkowZmJxQnJway1QUU9IZw?oc=5",
@@ -574,27 +595,6 @@
    "title": "Singapore looking to strengthen haze law, may make amendments to address enforcement gaps: Grace Fu",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZi1HcElWTzZsdENDMWdacTlMVnN2M0sxOHlxRS1ES01mRUhlTG83enl6UjFYeVZWcGRjY2dRaUJNUFVtWHRtekpCTzhQZTE2UnVFNlNHV0tBMElPeGs0ZFFqRTZwTTNiTmEydW1BVXJEM2NxX3hFV0ZLWnVDM1dGQ3dzbThKNzI0dEdNQ2pURWFUZFF2eXoxZXZ6NXhrYkxzLW9ZWkk1QVNub1k4YlE?oc=5",
    "time": "2026-10-27T13:41:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Fintech Singapore",
-   "title": "DBS Commits S$1 Million to Help Seniors, Migrant Workers Amid Haze",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdXZESU9VeGgyTzFjSVk2cWQtSWFVVU1SZ004NEU2dTlmdVQ3WmpqcVRXTzl3NWZxVk1kUlh4VGpMU0VGRC1nTi1JUXpBNm5ydjhmdVMtanZxMS1jdHdjSHpsTVNWQWs2amN6eC15YTBEWkNXMmRzMklyb1QzVkV2UUxR?oc=5",
-   "time": "2026-10-27T13:39:55+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Singapore aims to strengthen haze law, may introduce new legislation where necessary: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOHBtOXVUeU5HcTAzTVZ5aXIzcEo0cE5faXI0NDl2UklPVlRKQlp3MXBhWlFSbmVQeVVhZk45ZXRNV1o1VGV4QzFrSjVpblE2NEVKM3pSaXptLW5PTHR4bzJMMFRIXzJ2OGRoYWlRWlRoQm93MHcwQkV1ZzFGY1J0bmN5UEdBQWlrbldkbGZR?oc=5",
-   "time": "2026-10-27T13:39:10+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "Singapore aims to tighten haze law amid hurdles in gathering evidence, securing cooperation: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWE9aUlFGM201V3FCblhRTUpJeU1VZ1BHN2tadGNrSmJfVFVKcG1ZZjNnS295VkVVd09oeGtZYXh6VkpTVEp3RnltaGE1Zldtc01vWXJvNk56eHdFN0tQRlV2WTFMckJqV3ZvcEVOREdDMjktRzA5WjF3MEhTVlFnbEw1blZCMzlQTnJvdFRjVnppYmltcGVhMDd6T2R2a0RnaHp2UGFiM0h3NUh1S0xyc1lrMTV0ekJUWDcxWU1PU2NmRDNPR3duUGU5andXcXA1dHc?oc=5",
-   "time": "2026-10-27T13:20:00+08:00",
    "summary": ""
   }
  ]
