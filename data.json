@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-27T18:00:00+08:00",
+ "updated": "2026-10-27T19:00:00+08:00",
  "psi": {
-  "west": 76,
+  "west": 75,
   "east": 62,
   "central": 65,
-  "south": 62,
-  "north": 65
+  "south": 63,
+  "north": 64
  },
  "pm25": {
-  "west": 37,
-  "east": 25,
-  "central": 28,
-  "south": 19,
-  "north": 26
+  "west": 29,
+  "east": 30,
+  "central": 34,
+  "south": 24,
+  "north": 21
  },
  "hist": [
-  {
-   "t": "2026-10-25T18:00:00+08:00",
-   "psi": {
-    "west": 109,
-    "east": 102,
-    "central": 99,
-    "south": 92,
-    "north": 95
-   }
-  },
   {
    "t": "2026-10-25T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 62,
     "north": 65
    }
+  },
+  {
+   "t": "2026-10-27T19:00:00+08:00",
+   "psi": {
+    "west": 75,
+    "east": 62,
+    "central": 65,
+    "south": 63,
+    "north": 64
+   }
   }
  ],
- "newsUpdated": "2026-10-27T18:08:26+08:00",
+ "newsUpdated": "2026-10-27T19:08:44+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Indonesia deploys 'oxygen bus' to help residents breathe amid choking haze",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQWw3Z0pGZ2RaelhFU285ZHJmSWRXTjhlLTh5cHVQaC04RWo1Z29HaHBqb3hKc0NnVEVweWc4TldfbElwMzc5VVRlWHpFSzNNMVI3a2VwRFdjNk5TZUpqUjlBS1Z2YnFJNFphWTQ1WUtsWmxscERpYkhDaHlmMG5KX3ZvMGJaNWFuRmdMTEtnVWgyZDdDekFBRnEzbzBWVUlEWnFXX3VDV0RrX1hWTjRXZlQwT0FfcEE?oc=5",
+   "time": "2026-10-27T19:03:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Unmasking the haze’s toxic cocktail",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWHotOVlYbVpqUnp6QnZ0c1NkUU1wV2ZfVW5rOWVSMl9PQW41UGhnVEhPeF9yYmZ6cVVtaF9CUGxkMXMxZUdsT1owZFZkNFZXeE5WQndTSzJhQXpVa3RodjNEbWJkY2NoV0U1NTdCMG5rYXY3S3E4UEo2ZlM3ZDMyZEt3?oc=5",
+   "time": "2026-10-27T18:30:00+08:00",
+   "summary": ""
   },
   {
    "source": "LinkedIn",
@@ -574,20 +588,6 @@
    "title": "Indonesia’s oxygen bus offers breather to residents choking on toxic haze",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUEVpRjl6YklkZ0dlX3RSQzRyMmhzSEJ1a3hzdW0xcEtnbXk2bmNpcVliQU03UUk1ZjlJT0k2TExXbUxiZnU1RDZFSVc0ZF9PVFYzLXNHTXRIWkEtMDNXbVhNWkJoTDNOOFNaRkZMOXdpY1A1ZTFONU9EcEJqcUt4RnVfVHdYT0lheTItQWJRUGtiZmFPR1NEcWQydFR5WktXR0JZSWpPRGJObmwwLWFfeU1TNHhpVmh4dFFVc0U5dWt0Z2Y3WTc00gHHAUFVX3lxTFBzQ1I3eWJidnczTzBfWWgtdE9RWUNYbzEtSEVfcHhNUm81S2FRVnVBaHI4clZYd0JRTFRPeUswNldpa2lsd1EtRnFoU09mcHBLemxwY0VpWHUxZXlLSzI3cU95bkVqVlMyakRDWFBuVzJfVmh1alJpdXdiRHJ6TzU4RHJZR05UTTgzblJMVjlhb3ViTWk4WkZGVE1mWFpEaHhzUmx2cjlLRzdiN3NIWnNtY1BYQ19lYjVHWXhHS3JlYVMtLWFWM28?oc=5",
    "time": "2026-10-27T15:32:10+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Could everyday products be linked to haze? Why sustainable sourcing remains a challenge",
-   "url": "https://www.channelnewsasia.com/singapore/haze-sustainable-sourcing-indonesia-palm-oil-pulp-paper-products-6495426",
-   "time": "2026-10-27T15:07:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Stronger haze law will tackle Singapore’s 2 main challenges for enforcement",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oMnlmMHlERHVfMDZxV084aEhMTS1QRTdacHk3cERmemNhTnBJalRBZm50S1ZUZDRfNXRBeFcwTzhNRFZmcFhxSXRVdkpNUkQwbUhXVzg1cXZvbTR3aEE?oc=5",
-   "time": "2026-10-27T14:57:34+08:00",
    "summary": ""
   },
   {
