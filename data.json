@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-27T09:00:00+08:00",
+ "updated": "2026-10-27T10:00:00+08:00",
  "psi": {
   "west": 71,
-  "east": 62,
+  "east": 61,
   "central": 65,
   "south": 62,
   "north": 62
  },
  "pm25": {
-  "west": 26,
-  "east": 19,
-  "central": 23,
-  "south": 22,
-  "north": 22
+  "west": 27,
+  "east": 22,
+  "central": 20,
+  "south": 34,
+  "north": 20
  },
  "hist": [
-  {
-   "t": "2026-10-25T09:00:00+08:00",
-   "psi": {
-    "west": 135,
-    "east": 110,
-    "central": 111,
-    "south": 102,
-    "north": 108
-   }
-  },
   {
    "t": "2026-10-25T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 62,
     "north": 62
    }
+  },
+  {
+   "t": "2026-10-27T10:00:00+08:00",
+   "psi": {
+    "west": 71,
+    "east": 61,
+    "central": 65,
+    "south": 62,
+    "north": 62
+   }
   }
  ],
- "newsUpdated": "2026-10-27T09:07:39+08:00",
+ "newsUpdated": "2026-10-27T10:08:40+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Fresher air in Malaysia again: Only Samalaju in Sarawak still unhealthy after months of haze",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaUE0TW10R0lLem00RzdUMFhzcnhyVTBXOHhwaXhvYkhGSlBZZEVPVDZabUtQZTE1X2NUSVctMk42WG81RGJJYTZBYmJQalZXcWR3SjVfQk1jMGI4Y29XbjlqVnQ3dDk5MTdHYmNlNXdCYWRBdGxvZ2YtM1ZJd2dSMkpFM0w0bGJhVmM4NHFEdm4zMTlxYXBVWHM1R2Vmd3c3RXRtY1lPMTVPTzlUTjgzUjRfcWhab19jQ0ptLVJkeDMxYlBLb2IwR0c1MVJtQkhoTUItLXN0NklzUEU5VGZNRllGY9IB6AFBVV95cUxPODMtRmdEcEZHcmRnWWUybklhYzRjWDExM2NwRlVHYTZTSWpEYmVNS2RvNUFITjBDaTlVQWVIeWVrb2J4NUNjaG1DYjJISEl4U0V3OHpya0loYTNIRWN3ZHg2aGdBd0JEUE16T2VCMEFZaGdhR3JkWHJMM0R6TVVwalhBVEYyM1N5Q0EyRWswNVRYYmo2VjlPeE1pMms3ZWh0dFFxRWVKZVZ1NUpCWFREM1VrMGVHa0dRNnlXOWxiRVhxWldocWVaUWkwcUFBR09hc0RGYUstTGEzU3BNVV9yYjR0QndyZ2xF?oc=5",
+   "time": "2026-10-27T09:59:45+08:00",
+   "summary": ""
+  },
+  {
+   "source": "DollarsAndSense.sg",
+   "title": "5 Post-PSLE Getaways From Singapore To Escape The Haze From Under $500 Per Person",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRG5iNkwwTUpySU51NHJNTnBnSl9lbk15bi1rZW1vbHNKaGRpMmVSUGVnMWJPbjJHeWlBWmV4LTEzM1FLT2pGMzhuV0VuaG5YdTctOHd5dnl6RTBVS1I1LUVtUXJyUFhNOW1DNTRjOUVSbms0em9lSkh3Z3BsdG5ZeHhHVVpSUkhmNUFuYm9BVjVkLWZqSnhvaXlwcGNMZXV2UkFRcFFyMHR3V3pp?oc=5",
+   "time": "2026-10-27T09:34:58+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Explainer: Are Malaysian-linked firms in trouble over Singapore's haze notices?",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1dEQUN4Y0ZiUVpFN3FIVDd3ZWI1YVN1TjM0V1RfV3lYRFIxcUwxZzRqWUlrNU0telhTUXVka3FIVEI4NV9oQUk4azJHbUNSQ3BtR2hTTUp2STlUVVRqRzZNWVVvU0U4MHh6LWcxcUFmRVdpSzg2c1VwWlg0aU5pS3UtdjFyTzRkN3lFbEdDbU04YmNJOE5lbzg3Skp6cVdsRlFadWx6SWh2N3p4LXFYaTJSQmpzaEhZblHSAb8BQVVfeXFMT0NtLWZhRkgzTjdkMUFXVFJvYko5SzJjMFdUNWVpYjBxXzB4V05wVE5halAxTFRnTENtVmF4cjM1cmZqcV9ERHJFVTdVMjNYb19IazJqX2tQUUNFakdtMi0zM3FkWnNHYjF4OG93Zi1QbGRCU3BLbDF3QWVpZ05HR0kzZTY2SDZHaHFXVzhmYmpET2pSSjByNFJWb3hxSmRsbXlxTHJLRy1Rb2pLZ0Y3MGJzS2N5dlV4MWN4VnQ3TFU?oc=5",
+   "time": "2026-10-27T09:06:05+08:00",
+   "summary": ""
   },
   {
    "source": "Kompas.com",
@@ -574,27 +595,6 @@
    "title": "The haze season that called off Southeast Asia’s races",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzNJVDl4X1F2bHFyUHNpdXdRZzQxNVNWUjkxanVJSDNwTnFPbS1FcFhhWkpNQXV3dXRjZ2I0dEFKbWFPQnVJdzZZanhYTWRqLTgtVDhGRHliNDE0MjByeDJ2UFpqT1ZLNmc5eVEwV3ZVa0VyQkE2TnZmMzJyUEgzWEJWMEI2YjJvX0hHN0VGOC0?oc=5",
    "time": "2026-10-26T22:22:07+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Likelihood of haze affecting Singapore low on Tuesday",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1pndXBNb1cyNkpaMjZOVjFldTUtN01oQkRrZjBJbGdIb3hHUU5VUWFjMXV0OUlOODJWQjc3ZUZrWUV0Qloybk41aTl1MERMbS1nYk5aRVpTNTF1ZVpDVHlNVV9ZT2oxZktFVUVlcjZ0LW1YNUJCYkRNQU5nMXZpTWc1UjVDTjhCQXBlUQ?oc=5",
-   "time": "2026-10-26T22:09:55+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kompas.id",
-   "title": "Singapore's haze eases",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdFd0QnVwYlk2aDZwMXJHTGtuc0lQNkdKWElVM19vazg4OHMxTk9KNUlGcUQzUnZUZnNxZmMzbnN3NU1GbUViUHptbl96VEFrOVpQaGE5XzZ3NkVOd1F5ZmI5YUwtbE00NVdLYmU1S0pWYlBjSE1KY0ZTUmZCWjZ2bjRn?oc=5",
-   "time": "2026-10-26T20:48:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kompas.id",
-   "title": "Still Shrouded in Haze from Forest and Land Fires, the 2026 Foreign Workers' Work Program in Central Kalimantan Has Been Postponed.",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkRlZE1WZ01ydTFfbzlCNDltWVA4M1hjeEVuZU9GT3VzNWJBMFhMT0J4RVBxSzZQR2pGcFJzRGFFZ1JoYTFvQ3M0aG8xWjByajRNblR1SEp2aDFOcEMzV216RE5aNzdkaC1XMlhMeGpTTmNnWW5fWUpnVEIwZFNMTFoxRG85NDdXQUd2REpRN1paVFV4WU00cjcweXpId2Rwald6SUczTnhQLVQyU21EX1NHQWZrS2h3eGNZcFljLXVubFJ3cHhfczRn?oc=5",
-   "time": "2026-10-26T20:23:08+08:00",
    "summary": ""
   }
  ]
