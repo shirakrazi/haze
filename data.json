@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-27T07:00:00+08:00",
+ "updated": "2026-10-27T08:00:00+08:00",
  "psi": {
   "west": 71,
   "east": 62,
-  "central": 66,
+  "central": 65,
   "south": 62,
   "north": 63
  },
  "pm25": {
-  "west": 29,
-  "east": 20,
-  "central": 18,
-  "south": 19,
+  "west": 28,
+  "east": 19,
+  "central": 20,
+  "south": 17,
   "north": 20
  },
  "hist": [
-  {
-   "t": "2026-10-25T07:00:00+08:00",
-   "psi": {
-    "west": 140,
-    "east": 112,
-    "central": 115,
-    "south": 104,
-    "north": 111
-   }
-  },
   {
    "t": "2026-10-25T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 62,
     "north": 63
    }
+  },
+  {
+   "t": "2026-10-27T08:00:00+08:00",
+   "psi": {
+    "west": 71,
+    "east": 62,
+    "central": 65,
+    "south": 62,
+    "north": 63
+   }
   }
  ],
- "newsUpdated": "2026-10-27T07:07:20+08:00",
+ "newsUpdated": "2026-10-27T08:07:49+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Air quality remains in good-to-moderate range; NEA says low likelihood of haze today",
+   "url": "https://www.channelnewsasia.com/singapore/haze-singapore-pm25-psi-oct-27-nea-6494531",
+   "time": "2026-10-27T07:25:47+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Domestic tourism stays strong despite haze",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1lpRkFXRElzVXJ4QnlQcTd0V08xelVSUWhfMWRtUVRkMVNLZ0oxeko2azFYSnhZaTdGbmV5RUQ0VXlaVk1jc1Y2RGVGbTB1OVpwQmpUMjNzc3NOQ3k3dWNYWk8wa0pKeGJzZm10czBEUHlSNC1JQmU0NUtoVlBOQkc1a0d4T3NibXNzY3g2NlRvLXlhNURz?oc=5",
+   "time": "2026-10-27T07:18:13+08:00",
+   "summary": ""
   },
   {
    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -581,20 +595,6 @@
    "title": "Likelihood of smoke haze affecting Singapore low, suppressed till Thursday: NEA",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nMEg1Y1VuLXE3bW1UaFBnWHdtSGxQNnJUdTVsa1ZWd3RzME1IQzVCLTBDN3pvZ3VZcEZ3Sk56dWxLU2hBSmFUazdPRXU0N1pnUDVGeXV6bFFhMUQ3TU01cmNNTXRPa3dyc1YtcmFheFlRLXVmQVdHYQ?oc=5",
    "time": "2026-10-26T18:47:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Newswav",
-   "title": "Haze situation improves as northeast monsoon expected to curb cross-border pollution",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2plRTJjdWVzVW16b1AzWURPZmVqS3hjeGUyeHBvT0ZPc01GLXlGeE1LR2FTNXpfbm9qUjVPVFhLOUc5WUVhek8xRC04U2EyTXNfS1doMkl2ZzJFeDdfMnBoOWFxbDljU1YzaDk2YUdSSFg1Smk1d0lCM2swUmdqQ0VjMzBvWjBJaDROT094VE9YY2dfS3hJUzl1ZUJHQ05GTG9tY2RvSHAtQjNqNVcyS0ZqVkhnZw?oc=5",
-   "time": "2026-10-26T18:44:47+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Aliran",
-   "title": "Don’t make families and small businesses bear the cost of haze alone",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclNNWXQwclBFVkRKblZyVldsYUpFRmtpUGlWcllQZ2o2T1VZZzZQWTVkNnpfbTV0TUxWQW0yc3c2Sk1XM1B4M0x5VG5obDVPdFZqM2x3MXhSdVBrcGNsVm9BV2x5UHFnNEJTUmYwTHZwTGNncmNwc0tnUzR4Q0FIMmtVWTBnQmdKY2pZeG5ESHE2NVVuc0ktOUtsVHhxQzZDNzljblRXYmpiN1k?oc=5",
-   "time": "2026-10-26T18:24:21+08:00",
    "summary": ""
   }
  ]
