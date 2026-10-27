@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-27T11:00:00+08:00",
+ "updated": "2026-10-27T12:00:00+08:00",
  "psi": {
   "west": 72,
   "east": 61,
   "central": 64,
-  "south": 63,
+  "south": 64,
   "north": 61
  },
  "pm25": {
   "west": 37,
-  "east": 24,
-  "central": 18,
-  "south": 28,
-  "north": 26
+  "east": 29,
+  "central": 26,
+  "south": 29,
+  "north": 27
  },
  "hist": [
-  {
-   "t": "2026-10-25T11:00:00+08:00",
-   "psi": {
-    "west": 129,
-    "east": 107,
-    "central": 106,
-    "south": 98,
-    "north": 104
-   }
-  },
   {
    "t": "2026-10-25T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 63,
     "north": 61
    }
+  },
+  {
+   "t": "2026-10-27T12:00:00+08:00",
+   "psi": {
+    "west": 72,
+    "east": 61,
+    "central": 64,
+    "south": 64,
+    "north": 61
+   }
   }
  ],
- "newsUpdated": "2026-10-27T11:07:28+08:00",
+ "newsUpdated": "2026-10-27T12:07:15+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,55 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "Haze Cancels 16 Domestic Flights at Palangka Raya Airport",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3E4UzN6RTdQcEZTcWxDQml4TDJLb3lfN2xiOUd5ZXNKYzNBRUV1UGlDY0VybkswUnllUGQzN05CUE11bEJGVmpfbEV5VGtubE9YaXEwNC12QlRUeVZYOGhXVHl1NDFra2ZjZk1hdHgyRkF0WTVrSWduSmtXaVlvdXZuSHJBUkR0TFFwU1JKQUJuSUV2?oc=5",
+   "time": "2026-10-27T12:01:09+08:00",
+   "summary": ""
+  },
+  {
+   "source": "VnExpress International",
+   "title": "Haze hits tourism across Southeast Asia, bookings down, trips canceled",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU3ozYWIwSVpibFV4WG1UeEt5a1UyNm9uTHp0WmFKWkF4SnFpTGVGSlg4UFNnYXJjQ2VMaE1ISk5QOWF4U3dMN2V6UTlDMjNsSlBxVndab1owQVR3eGRMOWh5a0Vtb1JZM1R5Qm9pZkRYZi1FNl9vUTB0Q1YxcTl2TS12NlJDS1hOZmNHTlVGMHVXYXVyVkhxYk9VVjBKX1h1a3VaeFdscHJuZ2JzODZuZ21MS0dQV0xi?oc=5",
+   "time": "2026-10-27T12:00:07+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Mothership",
+   "title": "Likelihood of haze affecting S'pore on Oct. 27 low, 24-hour PSI in good to moderate range: NEA",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa01TemU2ZU9SdmhQZkF1X1M0QUxKUm1NU2JLMTdiQ2djcjVteFd6VG0wYmJTUExYejNMazBpWU9ldXlQbTlwSW02aXBFeHZTaExrTzlXWE1JVFlvajZXSDFFQmgwMkE5aURKSXhac2Fjb0pKbHdaMnBmLTYtXzlaVkVB?oc=5",
+   "time": "2026-10-27T11:56:10+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore looking to strengthen haze law, may make amendments to address enforcement gaps: Grace Fu",
+   "url": "https://www.channelnewsasia.com/singapore/transboundary-haze-law-amendments-enforcement-gaps-grace-fu-6495226",
+   "time": "2026-10-27T11:41:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "S’pore aims to tighten haze law amid hurdles in gathering evidence, securing cooperation: Grace Fu",
+   "url": "https://www.straitstimes.com/singapore/environment/spore-aims-to-tighten-haze-law-amid-hurdles-in-gathering-evidence-securing-cooperation-grace-fu",
+   "time": "2026-10-27T11:39:11+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Free Malaysia Today",
+   "title": "Singapore’s top diplomat heads to Indonesia amid tensions over gas, haze",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSW5ucU9GdzA2ckQzbDJld0RJcGRUTVRUSVNyaVBlZ2VENjYzcDNPRkhsYXhGM0pFSWM2RGNDV2xBSVlGeDdXVzJBVUZXcFgwbW1UYWRRMXVfb2VsVmJ0ZDcyb2YtMmlvVGJPX2Y5Ym5VT1Y1RHRQY3FvVGVpaWtwSGg2Q3pGb2xJWm0zbmtZXzJ0ZHVzWlc1UU43LVVoRHE4NEJ5aFRsa1ZXT204YWlOMTR5aDluVWlSODZUcHJieWxOS2F1T1RiTHQ1aw?oc=5",
+   "time": "2026-10-27T11:34:14+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Letters | Solution to Asean haze starts with helping oil palm smallholders",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONmZLYldfcHFwYmx2MUtNTnV3endaVklQLTBBYnY5UjQ1aVFjS000eHUxTEFxU1R5bFE1RWNQV083RXhVYXNfeXZRR2I2YW1McHNmTWtXaE52elZqZlRQWmVlSUE5Q1dSSzBJdlFCaF9qbkRtaVQyV1V0c3BkZFRNeG5ZTWMwYk1LQ2FldWJTV2tVUUJ4d0J1WkFFcHdldTBPYjVZTkdUR2MzYk90cmdVQ1g4WDAyTGt4alBISl83UUxySllsZHlnSmpWR3JqdGw5cjdWM2dlU005QktN?oc=5",
+   "time": "2026-10-27T11:30:19+08:00",
+   "summary": ""
   },
   {
    "source": "India Today",
@@ -543,58 +592,9 @@
   },
   {
    "source": "Malay Mail",
-   "title": "Fresher air in Malaysia again: Only Samalaju in Sarawak still unhealthy after months of haze",
+   "title": "Fresh air in Malaysia again: Only Samalaju in Sarawak still unhealthy after months of haze",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaUE0TW10R0lLem00RzdUMFhzcnhyVTBXOHhwaXhvYkhGSlBZZEVPVDZabUtQZTE1X2NUSVctMk42WG81RGJJYTZBYmJQalZXcWR3SjVfQk1jMGI4Y29XbjlqVnQ3dDk5MTdHYmNlNXdCYWRBdGxvZ2YtM1ZJd2dSMkpFM0w0bGJhVmM4NHFEdm4zMTlxYXBVWHM1R2Vmd3c3RXRtY1lPMTVPTzlUTjgzUjRfcWhab19jQ0ptLVJkeDMxYlBLb2IwR0c1MVJtQkhoTUItLXN0NklzUEU5VGZNRllGY9IB6AFBVV95cUxPODMtRmdEcEZHcmRnWWUybklhYzRjWDExM2NwRlVHYTZTSWpEYmVNS2RvNUFITjBDaTlVQWVIeWVrb2J4NUNjaG1DYjJISEl4U0V3OHpya0loYTNIRWN3ZHg2aGdBd0JEUE16T2VCMEFZaGdhR3JkWHJMM0R6TVVwalhBVEYyM1N5Q0EyRWswNVRYYmo2VjlPeE1pMms3ZWh0dFFxRWVKZVZ1NUpCWFREM1VrMGVHa0dRNnlXOWxiRVhxWldocWVaUWkwcUFBR09hc0RGYUstTGEzU3BNVV9yYjR0QndyZ2xF?oc=5",
-   "time": "2026-10-27T10:01:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Regional haze cooperation must move beyond statements, says social activist",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa1dlNS0yOHVEU1ZMRmNyc0JMTy1DVzVGNmRtTnVHY3BEY21odU9VMXdicEF4eVF1ekQxeVVaTHBXYjlLVjRCc3UzYWhocFA0a2R1Q29KdnF5bEtnRjJHWGFVUE1jSnpTcXpTNE53aGgwLTlYcG9RWG93QzZJSTdLMHNpclM5SDRuM2R4cXQ2RGNYU1d0bTJJMFpjOF9fNzhQVGpWeHM1ZXF6bTIzNkpZcFllUDQzckZyRDJCYk82dTZJUQ?oc=5",
-   "time": "2026-10-27T09:50:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "DollarsAndSense.sg",
-   "title": "5 Post-PSLE Getaways From Singapore To Escape The Haze From Under $500 Per Person",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRG5iNkwwTUpySU51NHJNTnBnSl9lbk15bi1rZW1vbHNKaGRpMmVSUGVnMWJPbjJHeWlBWmV4LTEzM1FLT2pGMzhuV0VuaG5YdTctOHd5dnl6RTBVS1I1LUVtUXJyUFhNOW1DNTRjOUVSbms0em9lSkh3Z3BsdG5ZeHhHVVpSUkhmNUFuYm9BVjVkLWZqSnhvaXlwcGNMZXV2UkFRcFFyMHR3V3pp?oc=5",
-   "time": "2026-10-27T09:34:58+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Explainer: Are Malaysian-linked firms in trouble over Singapore's haze notices?",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1dEQUN4Y0ZiUVpFN3FIVDd3ZWI1YVN1TjM0V1RfV3lYRFIxcUwxZzRqWUlrNU0telhTUXVka3FIVEI4NV9oQUk4azJHbUNSQ3BtR2hTTUp2STlUVVRqRzZNWVVvU0U4MHh6LWcxcUFmRVdpSzg2c1VwWlg0aU5pS3UtdjFyTzRkN3lFbEdDbU04YmNJOE5lbzg3Skp6cVdsRlFadWx6SWh2N3p4LXFYaTJSQmpzaEhZblHSAb8BQVVfeXFMT0NtLWZhRkgzTjdkMUFXVFJvYko5SzJjMFdUNWVpYjBxXzB4V05wVE5halAxTFRnTENtVmF4cjM1cmZqcV9ERHJFVTdVMjNYb19IazJqX2tQUUNFakdtMi0zM3FkWnNHYjF4OG93Zi1QbGRCU3BLbDF3QWVpZ05HR0kzZTY2SDZHaHFXVzhmYmpET2pSSjByNFJWb3hxSmRsbXlxTHJLRy1Rb2pLZ0Y3MGJzS2N5dlV4MWN4VnQ3TFU?oc=5",
-   "time": "2026-10-27T09:06:05+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kompas.com",
-   "title": "Transboundary Haze: A Test of Indonesia-ASEAN Cooperation",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRmFzSTRPbEY5dGlfcWNvWkNOdGkwc1UwRUN0UHNyVGJOSF9rQ0hwZk9Wank1QWJfb1RoYzIyZEVjbk5LVlVla3hZNUtXcWd5eDJvZGgyQUNLbFFwYnFzdDV3dDdxTzdKeGtHcGd1dGo4SFV6cXMwYlU4RTJ0V3NsZ2ZXVldMeXRNM2RseGZTZVJHU2ZiaWlNYm5UVGZhY1A4SERybTVR?oc=5",
-   "time": "2026-10-27T08:11:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Air quality remains in good-to-moderate range; NEA says low likelihood of haze today",
-   "url": "https://www.channelnewsasia.com/singapore/haze-singapore-pm25-psi-oct-27-nea-6494531",
-   "time": "2026-10-27T07:25:47+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Domestic tourism stays strong despite haze",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1lpRkFXRElzVXJ4QnlQcTd0V08xelVSUWhfMWRtUVRkMVNLZ0oxeko2azFYSnhZaTdGbmV5RUQ0VXlaVk1jc1Y2RGVGbTB1OVpwQmpUMjNzc3NOQ3k3dWNYWk8wa0pKeGJzZm10czBEUHlSNC1JQmU0NUtoVlBOQkc1a0d4T3NibXNzY3g2NlRvLXlhNURz?oc=5",
-   "time": "2026-10-27T07:18:13+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "title": "How heatwaves can make smoke haze even worse - ABC Asia",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYTNqSTRGaDk5bVlhVUpsbEw3RlBjOURfSFVHQ1VsbzRzaTlIbTIxUUkxLTR3d3pJOFVhSTBVRk8wckJpOTRKZHdXbzZyZWtUUFBRUzVNd25qTE5abmt5RExSNVFoUkhDMmQxUEh4U2ZGSXBHTkNCQU1TMGhKNzFCMVNNOHR6NjI1UW5EZlFRZU5GVmp3RVVfYnNXMA?oc=5",
-   "time": "2026-10-27T06:27:57+08:00",
+   "time": "2026-10-27T10:04:45+08:00",
    "summary": ""
   }
  ]
