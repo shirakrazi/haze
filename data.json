@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T04:00:00+08:00",
+ "updated": "2026-10-28T05:00:00+08:00",
  "psi": {
-  "west": 75,
-  "east": 69,
-  "central": 71,
+  "west": 76,
+  "east": 70,
+  "central": 72,
   "south": 65,
   "north": 73
  },
  "pm25": {
-  "west": 39,
-  "east": 37,
-  "central": 37,
-  "south": 28,
-  "north": 43
+  "west": 41,
+  "east": 31,
+  "central": 40,
+  "south": 17,
+  "north": 33
  },
  "hist": [
-  {
-   "t": "2026-10-26T03:00:00+08:00",
-   "psi": {
-    "west": 86,
-    "east": 83,
-    "central": 81,
-    "south": 77,
-    "north": 78
-   }
-  },
   {
    "t": "2026-10-26T04:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 65,
     "north": 73
    }
+  },
+  {
+   "t": "2026-10-28T05:00:00+08:00",
+   "psi": {
+    "west": 76,
+    "east": 70,
+    "central": 72,
+    "south": 65,
+    "north": 73
+   }
   }
  ],
- "newsUpdated": "2026-10-28T04:09:44+08:00",
+ "newsUpdated": "2026-10-28T05:08:31+08:00",
  "news": [
   {
    "source": "CNA",
@@ -525,6 +525,13 @@
    "title": "Rain brings temporary relief as Southeast Asia battles fires and toxic haze",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0NQTjc3cERiRU9NdlZvVmoyTmRhc1JCaXYwUTBGRFdtOU03QnBWU01SVHdYdi0yQTVpMThrZTFFSlQ0Zlh1QXduU3BqZmswSmR1WWE5dWpmN3F6ZVUwNnFUbmRDV0pEczA5MUs5R3JKUjhkS1NjSUdwQ1E1OTdFY0JMUVVrQXlLVzRJMG1MUnlLZWt1WkMxN2VfT1FDb284TUxEQtIBqgFBVV95cUxNUktuWnBkQlhPV1FqeEc3WG1WLTI5SkZmZFI5aHpPNWcyT0htNUQ3THExdGhqTzFlbFZBWG9lRnJYX0NVUE1ZNkFmT19tSFlzcEFoUGRZdlpvSi1IdWV2cF90VkhIcjdhYU5rdElpWHYyWUpXV2V3eTB4SGhYeFAzai1IN2VNNThxU2lkOTVQeE1ndm0ySlpQb25kVzNLSlQ3SW9adjRQRU1RUQ?oc=5",
    "time": "2026-10-28T02:41:58+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Kuwait Times",
+   "title": "Indonesia, Singapore FMs meet amid spat over haze, gas",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbW4yRTk1UmdvVEN1QWJFYi0yWmdDR3BvNTZCNDg2RmtmQTBOdFp0SjItdWp3N3VLZ0xVQjV1OWhvTE9kaU1yYkxVMk1FRFAteHh3TG83MjVDV3E0aUZBYjV2UnFCbmRrMV9SdVJXRkI2QVoySFNmTWVwQXBNVlVGWU5nZHFkV2FrcFBTWXpJcmZNN3JQemlJd0hhUHFZeWZscHfSAaIBQVVfeXFMUG1uMkU5NVJnb1RDdUFiRWItMlpnQ0dwbzU2QjQ4NkZrZkEwTnRadEoyLXVqdzd1S2dMVUI1dTlob0xPZGlNcmJMVTJNRURQLXh4d0xvNzI1Q1dxNGlGQWI1dlJxQm5kazFfUnVSV0ZCNkFaMkhTZk1lcEFwTVZVRllOZ2RxZFdha3BQU1l6SXJmTTdyUHppSXdIYVBxWXlmbHB3?oc=5",
+   "time": "2026-10-28T02:26:00+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Foreign ministers of Singapore and Indonesia reaffirm close ties amid haze and gas supply disputes",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQalF2QklHb0tIcjN5cDZnV1QyRGtPVV9kazYtdVBKbjFuUkt2V3gzVmVGSUlDYWpVZkFBNHdrTjI0TFZSQlUtcExXekMxWTM2SDNaSXdiUmJKeW5Ocl83dWo0ODhNakhkd2M2Tk1zTzdqNllXdk1RY2VyUFNqdExGLXBJOEdTbHJrMWFUZFJZOFRxMjNPUURrcnBPN2wtYi0tSmNpd09qVENoalM3QXUwVExLeEpHRG1lWC1KYU9CZlNRVlVSZjJianNhNDJNLW5GYmhGdEdWZlM?oc=5",
    "time": "2026-10-27T20:54:43+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Singapore, Indonesia plan to create haze task force, share data amid tensions",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkJNdXdSS2I4MDZrMDNBWGRXZnhSamdrdXFJR2pSX3J2cU4yaHR5eTRmbHJ0bC11RVpwVkFmanJFRVpnTklMMFFVeExwUEx5a0MtLW9GclJnNnRSTVgwc2s5ZE9XMHlvbEVSNDlMdEZJbmlXWlBab1pyWjFPWTdTMlFPalhheDJmZzlZaHBDMzg4OVdBNnhZNEUwbFRzdUJHeV9tRVN6dUdjamViRU9hbW5DU2NtWmM1WkVwX1dpdjBpdnhRNkpOam1tUGhVUms?oc=5",
-   "time": "2026-10-27T20:52:04+08:00",
    "summary": ""
   }
  ]
