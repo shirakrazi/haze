@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-27T20:00:00+08:00",
+ "updated": "2026-10-27T21:00:00+08:00",
  "psi": {
-  "west": 75,
-  "east": 62,
+  "west": 73,
+  "east": 63,
   "central": 65,
   "south": 63,
   "north": 64
  },
  "pm25": {
-  "west": 34,
-  "east": 28,
-  "central": 35,
-  "south": 24,
-  "north": 21
+  "west": 25,
+  "east": 31,
+  "central": 31,
+  "south": 28,
+  "north": 22
  },
  "hist": [
-  {
-   "t": "2026-10-25T20:00:00+08:00",
-   "psi": {
-    "west": 105,
-    "east": 98,
-    "central": 96,
-    "south": 90,
-    "north": 92
-   }
-  },
   {
    "t": "2026-10-25T21:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 63,
     "north": 64
    }
+  },
+  {
+   "t": "2026-10-27T21:00:00+08:00",
+   "psi": {
+    "west": 73,
+    "east": 63,
+    "central": 65,
+    "south": 63,
+    "north": 64
+   }
   }
  ],
- "newsUpdated": "2026-10-27T20:27:40+08:00",
+ "newsUpdated": "2026-10-27T21:08:20+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,48 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Foreign ministers of Singapore and Indonesia reaffirm close ties amid haze and gas supply disputes",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQalF2QklHb0tIcjN5cDZnV1QyRGtPVV9kazYtdVBKbjFuUkt2V3gzVmVGSUlDYWpVZkFBNHdrTjI0TFZSQlUtcExXekMxWTM2SDNaSXdiUmJKeW5Ocl83dWo0ODhNakhkd2M2Tk1zTzdqNllXdk1RY2VyUFNqdExGLXBJOEdTbHJrMWFUZFJZOFRxMjNPUURrcnBPN2wtYi0tSmNpd09qVENoalM3QXUwVExLeEpHRG1lWC1KYU9CZlNRVlVSZjJianNhNDJNLW5GYmhGdEdWZlM?oc=5",
+   "time": "2026-10-27T20:54:43+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Singapore, Indonesia plan to create haze task force, share data amid tensions",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkJNdXdSS2I4MDZrMDNBWGRXZnhSamdrdXFJR2pSX3J2cU4yaHR5eTRmbHJ0bC11RVpwVkFmanJFRVpnTklMMFFVeExwUEx5a0MtLW9GclJnNnRSTVgwc2s5ZE9XMHlvbEVSNDlMdEZJbmlXWlBab1pyWjFPWTdTMlFPalhheDJmZzlZaHBDMzg4OVdBNnhZNEUwbFRzdUJHeV9tRVN6dUdjamViRU9hbW5DU2NtWmM1WkVwX1dpdjBpdnhRNkpOam1tUGhVUms?oc=5",
+   "time": "2026-10-27T20:52:04+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Singapore to strengthen transboundary haze law",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11d0JxNlR0Z1RIM19BOGpEUWZ3RU12WkF2b3JLUGJ6YzNuTHJqWjI1OGVWOVFsTFV5NktmRjNHNWVGcjBWM25aNVNWbk1ycVJvYllESTFROENIWW5qblE?oc=5",
+   "time": "2026-10-27T20:46:49+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Bernama",
+   "title": "Singapore Eyes Stronger Transboundary Haze Law To Address Enforcement Gaps",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FZWViekhCTVhiR19Bak9BdUQxTk43aUhlSVpHS3AydGF4eGl6VFZtTTF3Njc4clA2ZzVxbW1qUk1jLW5SdEJBQzRjbmptNGp3OWxIY2NreU9mTDd3VS1yRDZB?oc=5",
+   "time": "2026-10-27T20:37:03+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Indonesian, Singapore foreign ministers meet amid spat over haze, gas",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR2xLUVp5NFFVTkRFR1hCLWYzaEJON29KZXI1d3lRMVhleFdwYlVnY2VCSDBKMVVsZmFoM2dZOGdjNVBrUUloZjZpd3ZoXzV6UjNaNzZzTU5lckN6T3BlcVVFVnVCaXVkSGpSbkRoZjU0eDd2NGFmeW1vWGpKeThjcDRWMm4wUVQ2djViVUVyYlpiT3QyanlWc2lxTG9OUmpIcXdpZ0drWE80Z3NzaDZXQmZEbUtiMldSUEltV0xnX2lKYXo3NWZWVGF3?oc=5",
+   "time": "2026-10-27T20:30:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Jakarta Globe",
+   "title": "Singapore to Share Data on Haze-Linked Firms with Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRGctN251UVRRNVh0Tk1GcFpKem8wQlh5NlhlU1JaTFcwLXJEc3FZa1BCODBSZ1lELXdTNWJKQWVwX1B1QmtGV1Q2R3g3aHBuZmpLc2E1Q2lPZzdMWmZJWGltRDRFb3R4RGNiRERvdWZ4Y05WS2tOZFhEajNvaWwwN0FRNDVpVm5TUnM2cGNkdVA?oc=5",
+   "time": "2026-10-27T20:18:00+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -542,13 +584,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Indonesia sends oxygen bus to aid residents choking on forest fire haze",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1k2WkQ4QXFlVVdpYXRlWHdTVGdkcHVSbEl5WnVPd1o2Qi1iZFNJUV8tY1pqRG1JSTdoaTVCaHFnWlV4OTh6a3RfVnpXcDhxVGROMnJaQnR1aFlRbzctX0ZBdkowRFNxbk5WWHRmSkwtRUNZdUJWZHNxV0VzaGt3dkk0b3BkdWtzV1h6TjlHRkpIbXZHam1n?oc=5",
-   "time": "2026-10-27T19:08:15+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Straits Times",
    "title": "Unmasking the haze’s toxic cocktail",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWHotOVlYbVpqUnp6QnZ0c1NkUU1wV2ZfVW5rOWVSMl9PQW41UGhnVEhPeF9yYmZ6cVVtaF9CUGxkMXMxZUdsT1owZFZkNFZXeE5WQndTSzJhQXpVa3RodjNEbWJkY2NoV0U1NTdCMG5rYXY3S3E4UEo2ZlM3ZDMyZEt3?oc=5",
@@ -556,45 +591,10 @@
    "summary": ""
   },
   {
-   "source": "LinkedIn",
-   "title": "Is there a long-term solution to preventing transboundary haze?",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZkxCSzNzUHRxODJLakljR0R1N0RWR1VZNnppdnRWRHhXNXBvNTcwenhTMDBaTHZDODNpNmhwd0JfbjZ0NWg1S2d3NTNmaUltZk9WWE9GOWpTVHFiUU5CYWlsRm1TTTVBa3kxMEtwdElMV3lCUXZoYnlXRWluMHU3ZjhUNzcyb3pUZXQwNld2eFNKLVdFTEtJcHBCVEtQTDZfMkJaMUpB?oc=5",
-   "time": "2026-10-27T18:00:16+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Will haze, sustainability, be on Singapore’s agenda as incoming ASEAN chair?",
-   "url": "https://www.straitstimes.com/singapore/environment/will-haze-sustainability-be-on-singapores-agenda-as-incoming-asean-chair",
-   "time": "2026-10-27T18:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Malaysia",
-   "title": "Singapore eyes stronger transboundary haze law to address enforcement gaps",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsZFJfWkVjckNZRXR0c0lmTnpuVXBHSjZkOERwcUJZb3ZHbFFkbEJsUk04dVVSNURxTm15cGJOVHNsQ3ljWkt6ZURHMEF6MWVh?oc=5",
-   "time": "2026-10-27T17:54:22+08:00",
-   "summary": ""
-  },
-  {
-   "source": "JournalArta",
-   "title": "Indonesia Sends Oxygen Bus as Wildfire Haze Hits Palangka Raya",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSUXBzbDJUS2pZNU5qLV9mcDd5WEdQZkVKTlpmTDI3MHlUMy14ak16bFN0NXVUZzhGcjh2cU9sbEh0QnRXUjNmN0tGSWFUWnNJdmVvd2szRUF4WTlCV0JnMFJLX0tlalVNYzk4Q21pbw?oc=5",
-   "time": "2026-10-27T16:41:07+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Singapore to strengthen transboundary haze law",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11d0JxNlR0Z1RIM19BOGpEUWZ3RU12WkF2b3JLUGJ6YzNuTHJqWjI1OGVWOVFsTFV5NktmRjNHNWVGcjBWM25aNVNWbk1ycVJvYllESTFROENIWW5qblE?oc=5",
-   "time": "2026-10-27T16:25:21+08:00",
-   "summary": ""
-  },
-  {
-   "source": "BusinessWorld Online",
-   "title": "Singapore foreign minister heads to Indonesia amid tensions over gas and haze",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3YzSjZsU09JSHZPbDFJR2p5MjByblBrQ29jM3FqaHJHSUlYS1h2YXRxdnpQd01UcDJ4WnA1WGhKRmcyWG4yXzJsaHhXSTNUOHhSZ0xtUVZ3a1kzRGNlcndlUXNHWElCQnhDU3FWRlJhMEV2SWVzQjh3dGFGeXZKbHNJTGRFQm95aXJNeXB0SWJ3X1NJMkVQYWxLSmZMdjRfdC1pR1ZJSjJsQVhDY1gxU1ZVMmQ5Yy1oRUNWYU1vWFMtRDBYeGc?oc=5",
-   "time": "2026-10-27T16:13:49+08:00",
+   "source": "Reuters",
+   "title": "Indonesia sends oxygen bus to aid residents choking on forest fire haze",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yNTJVOEhTd0tJYmZ4SmFwZDBqWmM1RXp2MGxSNkpFU1lLa1RWS1kxRG1UV3ZUOWdGa05wQl9Bckw4V1RvZVNtS3hVbDZ1MmZHYUxrc2h6SnlrN25hWHB5aUtwdFBWUzQ?oc=5",
+   "time": "2026-10-27T18:07:30+08:00",
    "summary": ""
   }
  ]
