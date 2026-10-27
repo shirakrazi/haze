@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-27T12:00:00+08:00",
+ "updated": "2026-10-27T13:00:00+08:00",
  "psi": {
-  "west": 72,
+  "west": 73,
   "east": 61,
   "central": 64,
   "south": 64,
   "north": 61
  },
  "pm25": {
-  "west": 37,
-  "east": 29,
-  "central": 26,
-  "south": 29,
-  "north": 27
+  "west": 40,
+  "east": 33,
+  "central": 33,
+  "south": 31,
+  "north": 33
  },
  "hist": [
-  {
-   "t": "2026-10-25T12:00:00+08:00",
-   "psi": {
-    "west": 126,
-    "east": 107,
-    "central": 105,
-    "south": 97,
-    "north": 102
-   }
-  },
   {
    "t": "2026-10-25T13:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 64,
     "north": 61
    }
+  },
+  {
+   "t": "2026-10-27T13:00:00+08:00",
+   "psi": {
+    "west": 73,
+    "east": 61,
+    "central": 64,
+    "south": 64,
+    "north": 61
+   }
   }
  ],
- "newsUpdated": "2026-10-27T12:07:15+08:00",
+ "newsUpdated": "2026-10-27T13:09:12+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "planb.sg",
+   "title": "Rain Brings Hope of Haze Relief as Indonesian Firefighters Celebrate Downpour",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUDVQbjFwaURMT3lvcndVX0hkaTRyR1hKYlZxZm5YODRQYmpSWDhiMU9MdHFiZGQ0d2xzb21QYTRHcnd3dkJmZkU2d0MybmVWNFZWZW5Bb1poWWZnY0dkdElPQnVvbHBTZ2psbHEzVXltQV9hczdLa3ZqeHc1b3BFbmR1M25OQnVxMnBBOHBhSjdadk42cjRGUFVJbG0yRmFzQkViOWln?oc=5",
+   "time": "2026-10-27T12:39:13+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Singapore aims to tighten haze law amid hurdles in gathering evidence, securing cooperation: Minister",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbGRyYjZZdFhvc2xCNW5zLTVuZ1Z0Q2g4Tm1uZlVnQ0o1anAzLXBLWWVnTWZPbUZ1V3lxUndDUWRsczRITUlaaE9CNk94aWlWYllzV2FhUjBxMHZLWU9CM2d0NGd1Z3RtanVQTG9nTlVNLVdleDAxTHlpLVBqUE1SR2lEdjVZSTluX0xBOTVtalFzaTJKRFBPU3ZqdjZRSXlXQXFIRFZ3ZVBod0tSMUEwUjBwYjBtbW43RmN6YjNoREE5NDN0dklfLXVDTVk3cmx6ZDVXODFOR1laMGZxWXYyd3NzT3NJM1JMRVl4TjA5bTFKS0FZ?oc=5",
+   "time": "2026-10-27T12:11:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore looking to strengthen haze law and address 'enforcement gaps': Grace Fu",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMlRzUW5JRkx6dkhWZUJKMlVRNlhMZTByeUtrRjhZN3VXU2tDbnhlRFNvdVNBS2NoVlFXVDkyWElfam1tTE83MG5kS0hsWFVEMEoxMEY0N21TcHVsSzNScVgwSjBkeXRTXzZoTVh1cVVlZEZzVFhOY09QSVJFNi1lUV83azlkU1dnZWI1aWpwRDZKOHBoVHVpUDEzMHdIU0cxRnJjNFVIRlNabUxVQWhPNkVqZlo0alhzRFMwNVlwSQ?oc=5",
+   "time": "2026-10-27T12:04:59+08:00",
+   "summary": ""
   },
   {
    "source": "Tempo.co English",
@@ -556,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "Newswav",
+   "title": "Singapore FM heads to Indonesia amid tensions over gas, haze",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZHlWNWctdmJCWTQ5NXZ2bnBkOGZDX3dQSUpMVmhYSkkyMXc4bjE3Rnk5QVNtc3RFV3U0SEptTnJGdmFmUHRTOVoxQVpRRjVhYzRCUkx3Vy1pUjlwakZHZUttbjhQOU1XbVZ2QlBiU05FTzdHQlhRY2FOU2t0XzA0WkpFMnM1bjJScFpvTVBQbTYtMlpyamQ2N3dnak5FbkVWT0E?oc=5",
+   "time": "2026-10-27T11:05:39+08:00",
+   "summary": ""
+  },
+  {
    "source": "India Today",
    "title": "PSI vs AQI: Why does the same air receive different pollution scores",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFR4dUtyZDYzb2Y4WnhuZmZ1enE5RXNrdkdha0xGX2dWS3NsbGk1a2xmNEwxMHF4YnFiWHJpNlJ5ZExTRm5Cc0J0MjJfQnlQU1pxenFyRXNDS0tJQ2Rqc1VzSlJDMUhrZkR4NDZtVVpqbmZxZV91dVF6cW1uZjFOTjJhR2liVDJ2QnZGM2EtY1ZoZmJKYUV6OEtCdWZyRDMtVUpDVjZfRThPRC1JSmVoU2I4Sks1VW9mc1UyVlh4VkEwQdIBwgFBVV95cUxPZFR4dUtyZDYzb2Y4WnhuZmZ1enE5RXNrdkdha0xGX2dWS3NsbGk1a2xmNEwxMHF4YnFiWHJpNlJ5ZExTRm5Cc0J0MjJfQnlQU1pxenFyRXNDS0tJQ2Rqc1VzSlJDMUhrZkR4NDZtVVpqbmZxZV91dVF6cW1uZjFOTjJhR2liVDJ2QnZGM2EtY1ZoZmJKYUV6OEtCdWZyRDMtVUpDVjZfRThPRC1JSmVoU2I4Sks1VW9mc1UyVlh4VkEwQQ?oc=5",
@@ -563,38 +591,10 @@
    "summary": ""
   },
   {
-   "source": "Reuters",
+   "source": "Yahoo News Singapore",
    "title": "Singapore foreign minister heads to Indonesia amid tensions over gas and haze",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMVlVNnNSRTE4RVNoSVc4Q1g4UUd0WVlNZUcxeUJpNkdETU1SeG91blNPNnp1Ny1JajluazJUdDlScUdtX3lYY3Q1dWZsQllpOFVta3lUR1h1TUhfdm1hV1U1eTNlN0wwcEdBbnBzNXJoWFg1RHJ6cHVERmN1RmlwUzNvSll0cEwwbW9CbkhMV000N2tpSGxacWhUbkV1VUhLdm9GdmNtY0FDZlZwNWR6bHdZejU4YUhWS3poQzBTWQ?oc=5",
-   "time": "2026-10-27T10:40:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Singapore wakes up to fresher air as favourable winds keep PM2.5 at normal levels, PSI moderate",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4alFrbFo3RVpLemptLWNOc2Q4TzhsRjAtc2liUGh6NGN6cnZNdGtNM244THVXVHZaMlU0RXI3SlFlRHlRZW0yc1pZMzhMdFlTVTY2SDAtT3l6UFlyRE1CZ1MtVmlkUG56NWhVVkgxQjJ0SHluUmJUUw?oc=5",
-   "time": "2026-10-27T10:28:14+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "'I feel like crying': First rains bring relief to haze-hit Sumatra and Kalimantan as rainy season nears",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaEhzVW1ia1o5YjFYb0dIcEdNWFpKd0lEQWlwZGpkNmZhRGJ1anhHV1ZPX3VEMEI1MGJpZEdnaWpPME9XWktkaGlFMWM3NThGT0hRZFVBQkZOUW9tdFlNYVNXMDQwS3JuRkE2bVVJUmxRZExmcURYLVBaMkdsQ1A5UG1QSVZoY0N1LVdYdjVSNEgtd3RNZ0ZfQnNmRkswcE1oVEFLanRKLWpPTlE2bW5xbWpwaEhLc2ZkSVRsWVhwWFhYZ040MU1JSVJDNFBPRFF0NFVnS1RROGEzX1ZZcS1OOUhGRmVUTzhzSkp2ZzVtOXVCUEc1Z0VGekJ4NEg4UQ?oc=5",
-   "time": "2026-10-27T10:18:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Pinsent Masons",
-   "title": "Singapore haze advisory calls on employers to prioritise worker health and safety",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lMlJTR05BTjRGRFFFM0VVd3RTdlJ5a3RBT3BvNHk4YWF0OXFXaGdpb1NUaVlXb1h6Nkc4bDRYX1JJdGJWZjNvLXViYnZEOXhmUVRhVko5QUQtLTQ0bmp3VzQzSVRwNThETEJ6SzVMbEtjUWxL?oc=5",
-   "time": "2026-10-27T10:09:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Fresh air in Malaysia again: Only Samalaju in Sarawak still unhealthy after months of haze",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaUE0TW10R0lLem00RzdUMFhzcnhyVTBXOHhwaXhvYkhGSlBZZEVPVDZabUtQZTE1X2NUSVctMk42WG81RGJJYTZBYmJQalZXcWR3SjVfQk1jMGI4Y29XbjlqVnQ3dDk5MTdHYmNlNXdCYWRBdGxvZ2YtM1ZJd2dSMkpFM0w0bGJhVmM4NHFEdm4zMTlxYXBVWHM1R2Vmd3c3RXRtY1lPMTVPTzlUTjgzUjRfcWhab19jQ0ptLVJkeDMxYlBLb2IwR0c1MVJtQkhoTUItLXN0NklzUEU5VGZNRllGY9IB6AFBVV95cUxPODMtRmdEcEZHcmRnWWUybklhYzRjWDExM2NwRlVHYTZTSWpEYmVNS2RvNUFITjBDaTlVQWVIeWVrb2J4NUNjaG1DYjJISEl4U0V3OHpya0loYTNIRWN3ZHg2aGdBd0JEUE16T2VCMEFZaGdhR3JkWHJMM0R6TVVwalhBVEYyM1N5Q0EyRWswNVRYYmo2VjlPeE1pMms3ZWh0dFFxRWVKZVZ1NUpCWFREM1VrMGVHa0dRNnlXOWxiRVhxWldocWVaUWkwcUFBR09hc0RGYUstTGEzU3BNVV9yYjR0QndyZ2xF?oc=5",
-   "time": "2026-10-27T10:04:45+08:00",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbV9fQ041OWw2Zlhjdm55aFA4TzBaekFsaHRjUDAwWjk2RG9KTXNPMTAwVF9MeWFkUV9sU2szRURoazdlV21HZVJUam5PYng2RlBmeFV3N29XSWg4YjhVUi00Y3d1M3dObEdsRWZLZXpRZ05KMGNlcWhZUUpNN2E5emRzVngtWlVzQkVN?oc=5",
+   "time": "2026-10-27T10:51:00+08:00",
    "summary": ""
   }
  ]
