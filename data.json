@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-27T14:00:00+08:00",
+ "updated": "2026-10-27T15:00:00+08:00",
  "psi": {
-  "west": 74,
-  "east": 61,
+  "west": 75,
+  "east": 62,
   "central": 64,
-  "south": 64,
-  "north": 62
+  "south": 63,
+  "north": 63
  },
  "pm25": {
-  "west": 42,
-  "east": 30,
-  "central": 35,
-  "south": 28,
-  "north": 37
+  "west": 38,
+  "east": 39,
+  "central": 32,
+  "south": 23,
+  "north": 52
  },
  "hist": [
-  {
-   "t": "2026-10-25T14:00:00+08:00",
-   "psi": {
-    "west": 121,
-    "east": 106,
-    "central": 103,
-    "south": 97,
-    "north": 98
-   }
-  },
   {
    "t": "2026-10-25T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 64,
     "north": 62
    }
+  },
+  {
+   "t": "2026-10-27T15:00:00+08:00",
+   "psi": {
+    "west": 75,
+    "east": 62,
+    "central": 64,
+    "south": 63,
+    "north": 63
+   }
   }
  ],
- "newsUpdated": "2026-10-27T14:10:09+08:00",
+ "newsUpdated": "2026-10-27T15:09:00+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Air quality remains in good-to-moderate range; NEA says low likelihood of haze on Tuesday",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2U1aXRfUmpiOS13TV9DeHFCaTBiNVlHVVcwLUlZV21UcXdqTXYxbnpSdENzTXRDcW96aTZ6bGtGVV9lbzduaHd6Q0hLSEVEVXItVHpTYUEyT0VwNkRjeTVKV2NqdHlsMzJORm9FdGlkd1ZfbFU4U1NfQmtGQVJmRG1nbHNDV29fM0ZNYQ?oc=5",
+   "time": "2026-10-27T14:58:14+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Stronger haze law will tackle Singapore’s 2 main challenges for enforcement",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oMnlmMHlERHVfMDZxV084aEhMTS1QRTdacHk3cERmemNhTnBJalRBZm50S1ZUZDRfNXRBeFcwTzhNRFZmcFhxSXRVdkpNUkQwbUhXVzg1cXZvbTR3aEE?oc=5",
+   "time": "2026-10-27T14:57:34+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Singapore seeks to strengthen haze law amid enforcement challenges",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWVRIREw5bWo2SDRVOTM2eFROUUlGVF9FNzBPMzJBN3d0UlVZM2ZZYXVKN2lscWszLUhMNGdYS05XMUJrVFBLaVEyNkVTOW5HV2wtZXBlVmtDR1AzVGdZZjV3MDVBcmhWeHR1U1I2QWZDbTZXQ1VfTWFyTzRabldodDYyNVc4YVZvQ3QzZDIyUHpDV1lIb2k5MkZNcG9TdXNRaDdfV0RCbGRvM2JDdXMtNWJ5QlFNazFkYVNzbURndy1LUUZpQVV6TQ?oc=5",
+   "time": "2026-10-27T14:32:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Internazionale",
+   "title": "Indonesia sends oxygen bus to aid residents choking on forest fire haze",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSThSU2FyeHZ3dm1zU2swMW9ET05yT1BYZGdEVU9RX2MxalgwaHNWQTRUcXlOcGQxOWlfc1VKN3JrS0hQWFM1MjZvRlVmSmtoTVRyUXVPSFU5emVMOWlwZVdKZ0ZlbFI3dEJ5THV0ZkJ4eWRsZGJLSWI3UzlFc3oyUFpMUkFFbVFFTVlpVzdaanF1VTVrZThzNDdnY0hreG13ZHFtTVFXVnZaOFVZWVFXd3dfeWtjQnhMR3RlOGN5Yi16VXcyV0dvUXZHcHJjSTZ6?oc=5",
+   "time": "2026-10-27T14:27:11+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Kompas.com",
+   "title": "Diplomacy Hindered by Haze",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05THRFU2tsVC1tQk8zbzF0VC13LTZyNFp5bHc4amx2Z2Rhb2dYTXRFLUxkVVdscXVxVlk2elMyTl9ReHRRZzl3ckw2WXhaYkkyU0dUNEtGbzhmX0pKS3VZaTU3VmJOMWlzcnJTSzRLYWs5ZXFVajlQZzVsT0dRYUk?oc=5",
+   "time": "2026-10-27T14:26:21+08:00",
+   "summary": ""
   },
   {
    "source": "The Star",
@@ -542,59 +577,24 @@
    "summary": ""
   },
   {
+   "source": "The Business Times",
+   "title": "Singapore aims to tighten haze law amid hurdles in gathering evidence, securing cooperation: Grace Fu",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWE9aUlFGM201V3FCblhRTUpJeU1VZ1BHN2tadGNrSmJfVFVKcG1ZZjNnS295VkVVd09oeGtZYXh6VkpTVEp3RnltaGE1Zldtc01vWXJvNk56eHdFN0tQRlV2WTFMckJqV3ZvcEVOREdDMjktRzA5WjF3MEhTVlFnbEw1blZCMzlQTnJvdFRjVnppYmltcGVhMDd6T2R2a0RnaHp2UGFiM0h3NUh1S0xyc1lrMTV0ekJUWDcxWU1PU2NmRDNPR3duUGU5andXcXA1dHc?oc=5",
+   "time": "2026-10-27T13:20:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Inquirer.net",
+   "title": "Indonesia: First rains bring relief to haze-hit Sumatra and Kalimantan",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVkFxVGtKTnJvQlZJWDlTLTdZQ1EtN1NNQ0pOT3BZcUJuSnA4MmdQc0FDdkw1cm1teDZKSVlPbEdHRm1WdzRDX1lKODZfSnZhTkk2WlNpdFpBMjByMHN4S3hLTk5uNlNXZUhhQWx5Zl94X3lYNy0tTTRsd2VyUVl6UjZ3WV8zQnVjc21KQTJibXYtQTczM3R6d0NJOUptMlpXZFpMUTBiRzU5RXBTQjBn0gG0AUFVX3lxTE1Lc3JSQVdlTklhd1paZ1pjdmtqNnMyOXdqTkIzZl95X05LTjZiRWgyMUdaN2VmeXJDRkRVajhZbHdneFNUbm1kbWRTa1JzRlh6M2JpRXRkLTVvVEx1MG93dkNISEtMdXNyeXpwdVJUQmR2ZGIzcnIzLWs1cVdINVFER2g2SHU3UE8yZ2RXcXVKXzFjSnZkbmVoZ1FScUU1cjlOM2ExYTI1QjhkWUNtZG9iY015Zg?oc=5",
+   "time": "2026-10-27T12:58:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "Mothership",
    "title": "10 S'pore-based companies served notices by NEA over haze confirm they have received them",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uYm5DWnhLOVBaLXpVYUlBNGwxZTgtRjQ2aEdzdUlRQzh1NE1qZmU4eTcybTBJN2JFUzQxTXZMVXBMdU54el9VbGhtWUNBZnNhd3hobG03THRuQmN3b1llemIyMkVjTU1HTlpaaDNoaw?oc=5",
    "time": "2026-10-27T12:46:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "planb.sg",
-   "title": "Rain Brings Hope of Haze Relief as Indonesian Firefighters Celebrate Downpour",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUDVQbjFwaURMT3lvcndVX0hkaTRyR1hKYlZxZm5YODRQYmpSWDhiMU9MdHFiZGQ0d2xzb21QYTRHcnd3dkJmZkU2d0MybmVWNFZWZW5Bb1poWWZnY0dkdElPQnVvbHBTZ2psbHEzVXltQV9hczdLa3ZqeHc1b3BFbmR1M25OQnVxMnBBOHBhSjdadk42cjRGUFVJbG0yRmFzQkViOWln?oc=5",
-   "time": "2026-10-27T12:39:13+08:00",
-   "summary": ""
-  },
-  {
-   "source": "UA.NEWS",
-   "title": "Singapore considers strengthening law against transboundary haze — Channel NewsAsia",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjR3RE9lMUdNTmszV0RMOThkVnpvOUhNS0c2bVRvcHd3enRrU2cxNGo3Y0FTb0FYVWtocDNmSG4tOVphNk1qS25wX0xmRWsxUDc2b21oNk94MUxucHBsdGVvWU1vMG5KSnBPY1NNRmZEeTZCUVNQUWwxdzI4LThnSzJyXzNGTUpEa2Q2S2VadVFWREpvZkR3NjdsT2JJaTRBMTlvOWlZcWhRb0FsdXh5UnRtRWNfN0E?oc=5",
-   "time": "2026-10-27T12:15:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Singapore aims to tighten haze law amid hurdles in gathering evidence, securing cooperation: Minister",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbGRyYjZZdFhvc2xCNW5zLTVuZ1Z0Q2g4Tm1uZlVnQ0o1anAzLXBLWWVnTWZPbUZ1V3lxUndDUWRsczRITUlaaE9CNk94aWlWYllzV2FhUjBxMHZLWU9CM2d0NGd1Z3RtanVQTG9nTlVNLVdleDAxTHlpLVBqUE1SR2lEdjVZSTluX0xBOTVtalFzaTJKRFBPU3ZqdjZRSXlXQXFIRFZ3ZVBod0tSMUEwUjBwYjBtbW43RmN6YjNoREE5NDN0dklfLXVDTVk3cmx6ZDVXODFOR1laMGZxWXYyd3NzT3NJM1JMRVl4TjA5bTFKS0FZ?oc=5",
-   "time": "2026-10-27T12:11:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore looking to strengthen haze law and address 'enforcement gaps': Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMlRzUW5JRkx6dkhWZUJKMlVRNlhMZTByeUtrRjhZN3VXU2tDbnhlRFNvdVNBS2NoVlFXVDkyWElfam1tTE83MG5kS0hsWFVEMEoxMEY0N21TcHVsSzNScVgwSjBkeXRTXzZoTVh1cVVlZEZzVFhOY09QSVJFNi1lUV83azlkU1dnZWI1aWpwRDZKOHBoVHVpUDEzMHdIU0cxRnJjNFVIRlNabUxVQWhPNkVqZlo0alhzRFMwNVlwSQ?oc=5",
-   "time": "2026-10-27T12:04:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Haze Cancels 16 Domestic Flights at Palangka Raya Airport",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3E4UzN6RTdQcEZTcWxDQml4TDJLb3lfN2xiOUd5ZXNKYzNBRUV1UGlDY0VybkswUnllUGQzN05CUE11bEJGVmpfbEV5VGtubE9YaXEwNC12QlRUeVZYOGhXVHl1NDFra2ZjZk1hdHgyRkF0WTVrSWduSmtXaVlvdXZuSHJBUkR0TFFwU1JKQUJuSUV2?oc=5",
-   "time": "2026-10-27T12:01:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "VnExpress International",
-   "title": "Haze hits tourism across Southeast Asia, bookings down, trips canceled",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU3ozYWIwSVpibFV4WG1UeEt5a1UyNm9uTHp0WmFKWkF4SnFpTGVGSlg4UFNnYXJjQ2VMaE1ISk5QOWF4U3dMN2V6UTlDMjNsSlBxVndab1owQVR3eGRMOWh5a0Vtb1JZM1R5Qm9pZkRYZi1FNl9vUTB0Q1YxcTl2TS12NlJDS1hOZmNHTlVGMHVXYXVyVkhxYk9VVjBKX1h1a3VaeFdscHJuZ2JzODZuZ21MS0dQV0xi?oc=5",
-   "time": "2026-10-27T12:00:07+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "Likelihood of haze affecting S'pore on Oct. 27 low, 24-hour PSI in good to moderate range: NEA",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa01TemU2ZU9SdmhQZkF1X1M0QUxKUm1NU2JLMTdiQ2djcjVteFd6VG0wYmJTUExYejNMazBpWU9ldXlQbTlwSW02aXBFeHZTaExrTzlXWE1JVFlvajZXSDFFQmgwMkE5aURKSXhac2Fjb0pKbHdaMnBmLTYtXzlaVkVB?oc=5",
-   "time": "2026-10-27T11:56:10+08:00",
    "summary": ""
   }
  ]
