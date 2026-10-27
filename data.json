@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-27T21:00:00+08:00",
+ "updated": "2026-10-27T22:00:00+08:00",
  "psi": {
   "west": 73,
-  "east": 63,
-  "central": 65,
-  "south": 63,
-  "north": 64
+  "east": 64,
+  "central": 66,
+  "south": 64,
+  "north": 65
  },
  "pm25": {
-  "west": 25,
-  "east": 31,
-  "central": 31,
-  "south": 28,
-  "north": 22
+  "west": 23,
+  "east": 30,
+  "central": 32,
+  "south": 24,
+  "north": 28
  },
  "hist": [
-  {
-   "t": "2026-10-25T21:00:00+08:00",
-   "psi": {
-    "west": 103,
-    "east": 96,
-    "central": 95,
-    "south": 88,
-    "north": 90
-   }
-  },
   {
    "t": "2026-10-25T22:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 63,
     "north": 64
    }
+  },
+  {
+   "t": "2026-10-27T22:00:00+08:00",
+   "psi": {
+    "west": 73,
+    "east": 64,
+    "central": 66,
+    "south": 64,
+    "north": 65
+   }
   }
  ],
- "newsUpdated": "2026-10-27T21:08:20+08:00",
+ "newsUpdated": "2026-10-27T22:17:45+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Seattle Times",
+   "title": "Singapore and Indonesia set up a task force to combat haze from illegal burning",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDBJUjZjSnBQMVA5Y2toa0VxaFFNZFFQSWJSOXRJeWJYemR6R0NTbFB5VkNuY2pjYkNOSmJEY0NpTFNZYXZLUUVEbFpXRF9wcW9KYU5iMG5YRFZRd2ZZNEUzRHFER2x0d0EwdnkycHJzbTU3TVVyenRkRk0tVFJRRFpNWmlDQzBSU3I3OTVGdUdaM1FPVjA1RTI3REJ6MTE3MmNBXzA2UDJ5RHByelRBVEFDY05zQ3VSZzgtTFRkTQ?oc=5",
+   "time": "2026-10-27T22:07:25+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Singapore's 24-hour PSI forecast moderate; unfavourable winds on Thursday, Friday could bring smoke haze from Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMHlWODc4TjhlVE00TXJfMDV6ejZTTzNaWFA2LVlYakM2Wm00Vm9YTWdtQk1LN0NBdlRXc0JkNXJHYjdKdS1yYmkyX1lldUhESlZlRk9NLWJOeHI4VzB5OFRONVFEUGc1cmIxN0QxTlhjUUhzZW50QnQtdWdIYm9uejVadHBrdw?oc=5",
+   "time": "2026-10-27T21:55:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Malaysian Reserve",
+   "title": "Domestic tourism remains resilient despite haze disruptions",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHZvZ25TdmpQVHNCR1JwamlSc0cySHc5MW54Y2RhOXl5VlFIZWEzclhHM1A2MnN3NkpDRTJ4RGFDalpoajBKamZsZjE4U0lGNEhfUEpVd1U5RXVhQzhTVVJpQlV4d09HeEYyeGRfc2llUUJaTV9kTXc5UW4xME5UUm5CRkpNeWZqNEo4NVA3ejdEemU1a0sxX2RSUnhUUUxMRGtqY3h3?oc=5",
+   "time": "2026-10-27T21:34:30+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -574,27 +595,6 @@
    "title": "Singapore haze: Moderate air quality expected in Singapore on Wednesday",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2U1aXRfUmpiOS13TV9DeHFCaTBiNVlHVVcwLUlZV21UcXdqTXYxbnpSdENzTXRDcW96aTZ6bGtGVV9lbzduaHd6Q0hLSEVEVXItVHpTYUEyT0VwNkRjeTVKV2NqdHlsMzJORm9FdGlkd1ZfbFU4U1NfQmtGQVJmRG1nbHNDV29fM0ZNYQ?oc=5",
    "time": "2026-10-27T19:21:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "news - Mongabay",
-   "title": "‘Influence without enforcement’: Indonesia’s fires test Singapore’s anti-haze law",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHhEekpsNE04WWdqaGR5NU0xM0ZmRUNIRS1IWENidy10ZklVSjZqU005WUVUaFRfSDhjZHVud1N0bDNvckpCMk82N0VfeTBJeEZLLVdLUWxUczhEdXlxXzZiQWRpTGFZT05KSUYwRXJKaUtOeGhzdUNIVGsxcE1KVG9EUDM4dm83S2dWVU95WlZqMVhyb2FRVFY1bEdPSHBpRE10REZodFc5N19HYzU3ONIBtgFBVV95cUxOdFVXZDdFVlVDTnYwTGlsMXZZOVVRWVBTbS12TmUtdXEtT1JsUmZsN1RjWWRZMmZwMC10b2pjSFc0QTA0YXdrdk1YSW5YR3BMaXdacXNER2JYbVBCNjd0dW84cXpzT2J1QmppdU1aU0JMR0ZWT0VjYU1lSThKR3NpU2NYN0dIQkhLZFhDUEViVDNxWTRUOUZzNmF3aFVlTUlvT2xvMGhaUlFvMTl3TEwtQ1dkWnd5dw?oc=5",
-   "time": "2026-10-27T19:13:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Unmasking the haze’s toxic cocktail",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWHotOVlYbVpqUnp6QnZ0c1NkUU1wV2ZfVW5rOWVSMl9PQW41UGhnVEhPeF9yYmZ6cVVtaF9CUGxkMXMxZUdsT1owZFZkNFZXeE5WQndTSzJhQXpVa3RodjNEbWJkY2NoV0U1NTdCMG5rYXY3S3E4UEo2ZlM3ZDMyZEt3?oc=5",
-   "time": "2026-10-27T18:30:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Reuters",
-   "title": "Indonesia sends oxygen bus to aid residents choking on forest fire haze",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yNTJVOEhTd0tJYmZ4SmFwZDBqWmM1RXp2MGxSNkpFU1lLa1RWS1kxRG1UV3ZUOWdGa05wQl9Bckw4V1RvZVNtS3hVbDZ1MmZHYUxrc2h6SnlrN25hWHB5aUtwdFBWUzQ?oc=5",
-   "time": "2026-10-27T18:07:30+08:00",
    "summary": ""
   }
  ]
