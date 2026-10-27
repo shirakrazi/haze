@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-27T22:00:00+08:00",
+ "updated": "2026-10-27T23:00:00+08:00",
  "psi": {
   "west": 73,
   "east": 64,
-  "central": 66,
+  "central": 67,
   "south": 64,
-  "north": 65
+  "north": 67
  },
  "pm25": {
-  "west": 23,
+  "west": 27,
   "east": 30,
-  "central": 32,
-  "south": 24,
-  "north": 28
+  "central": 38,
+  "south": 21,
+  "north": 44
  },
  "hist": [
-  {
-   "t": "2026-10-25T22:00:00+08:00",
-   "psi": {
-    "west": 101,
-    "east": 94,
-    "central": 93,
-    "south": 87,
-    "north": 88
-   }
-  },
   {
    "t": "2026-10-25T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 64,
     "north": 65
    }
+  },
+  {
+   "t": "2026-10-27T23:00:00+08:00",
+   "psi": {
+    "west": 73,
+    "east": 64,
+    "central": 67,
+    "south": 64,
+    "north": 67
+   }
   }
  ],
- "newsUpdated": "2026-10-27T22:17:45+08:00",
+ "newsUpdated": "2026-10-27T23:07:46+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,17 @@
    "pinned": true
   },
   {
-   "source": "The Seattle Times",
+   "source": "CNA",
+   "title": "Singapore and Indonesia agree to set up joint task force to address transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUzEwMHFzVFU4RXl5ckx4MmJSVEpqQWxuWGdSdWcxQno3aDZ3eDJqVzJzanZqZ2pScm5qQ0RCa1pBelRGcHVHdHNiS0ZPeG5Qc09PSUdlRUU2S19iN2FYTVpNeFZzWU9QX253OVpXRVM0cThqT0FHX3ZobUxJQm5aU016T0xrV0lBMjhQRk9LUnAzSFlvblhUTW1GczEwVW9UYUJ2UmpDSk53YXZZQlctQks5X1hqYjBQSVNIajlzc0txZTQ5?oc=5",
+   "time": "2026-10-27T22:58:59+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Livingston Enterprise",
    "title": "Singapore and Indonesia set up a task force to combat haze from illegal burning",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDBJUjZjSnBQMVA5Y2toa0VxaFFNZFFQSWJSOXRJeWJYemR6R0NTbFB5VkNuY2pjYkNOSmJEY0NpTFNZYXZLUUVEbFpXRF9wcW9KYU5iMG5YRFZRd2ZZNEUzRHFER2x0d0EwdnkycHJzbTU3TVVyenRkRk0tVFJRRFpNWmlDQzBSU3I3OTVGdUdaM1FPVjA1RTI3REJ6MTE3MmNBXzA2UDJ5RHByelRBVEFDY05zQ3VSZzgtTFRkTQ?oc=5",
-   "time": "2026-10-27T22:07:25+08:00",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMlJldEJTRndPdnVzOU5ncTc1bjlHdVEybWduOXAxN3I3Y0pNdkhqWmxSbGVBTEh1ZVRsV01WQWlSYzhPY1QwWFJNbGhEbGFxZ05BTXNhcjdtaUpMeTI2NGloc1hrU2hnaG1VM1NlSF8zOTFkZ1ZUQnZrNFZFYTRydVVfZm5XRFRCaE9raDBDMHFXZDRyLWw0UzAtSXhFdjF4bHBjLUNsblJueWI1UFgxVUNobUVSdXNzSDF2VHJmNHFNWlBLbUc5M0hR?oc=5",
+   "time": "2026-10-27T22:12:00+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Singapore, Indonesia eye haze task force, reaffirm ties amid tensions, ministers say",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMHFhWS1lanJTenlRbW9WeXBpYnpxTU1TNU8tWWdIVy1TRFN2X2JEUDMxVVBxM2dJVHJTVmFsNWpZNkMwUFk3NVZzZEhjQ3F5RmhrS0JUSUpsWnJ0NUpzM2hadlJYY1JIbDRnZE55TUZ6Njl5MWx5NjVySzdiOFFyNHdod1RaLVhOcWh6eTFxb2VXOTk2TDVWV2h6T1pnUnVJcER4QnJnbU1CN0VaTlpRX29hN0JmRWJta0ZtSXNmTXdqRDdFQTE2cG94YlVpeHdGTUczcnNrZ2FIcm03WFdKQmJQYW1xQQ?oc=5",
    "time": "2026-10-27T19:43:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Moderate air quality expected in Singapore on Wednesday",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2U1aXRfUmpiOS13TV9DeHFCaTBiNVlHVVcwLUlZV21UcXdqTXYxbnpSdENzTXRDcW96aTZ6bGtGVV9lbzduaHd6Q0hLSEVEVXItVHpTYUEyT0VwNkRjeTVKV2NqdHlsMzJORm9FdGlkd1ZfbFU4U1NfQmtGQVJmRG1nbHNDV29fM0ZNYQ?oc=5",
-   "time": "2026-10-27T19:21:36+08:00",
    "summary": ""
   }
  ]
