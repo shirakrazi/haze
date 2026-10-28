@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T12:00:00+08:00",
+ "updated": "2026-10-28T13:00:00+08:00",
  "psi": {
-  "west": 79,
+  "west": 78,
   "east": 74,
   "central": 79,
   "south": 67,
-  "north": 79
+  "north": 78
  },
  "pm25": {
-  "west": 38,
+  "west": 35,
   "east": 26,
-  "central": 35,
-  "south": 32,
-  "north": 34
+  "central": 34,
+  "south": 24,
+  "north": 27
  },
  "hist": [
-  {
-   "t": "2026-10-26T11:00:00+08:00",
-   "psi": {
-    "west": 74,
-    "east": 73,
-    "central": 70,
-    "south": 68,
-    "north": 67
-   }
-  },
   {
    "t": "2026-10-26T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 79
    }
+  },
+  {
+   "t": "2026-10-28T13:00:00+08:00",
+   "psi": {
+    "west": 78,
+    "east": 74,
+    "central": 79,
+    "south": 67,
+    "north": 78
+   }
   }
  ],
- "newsUpdated": "2026-10-28T12:07:21+08:00",
+ "newsUpdated": "2026-10-28T13:07:40+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,31 @@
    "pinned": true
   },
   {
+   "source": "The Star",
+   "title": "Haze: No evidence linking M'sian firms to Kalimantan fires, says Arthur",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWmFXNnQ4NDFOcjNXQ0tDMnZQRGg5Q2xCTmtvcm9DSlFYY3phWmhWMTZxLThRZmJ2QzJCb0NaRVZwMi1lQ0RRQUd2WlgxSG8tYXM4VXFHQnM3V1I3Mm95UTNoT2xXLXdkOWF0WnEwWmlKeTVpTHYwVlM0WGZDLTNVbmQzZDQ2U21sUUxaVWQ4WWlFcUdhRzBzb2twYjREcFQ2clFkX01mZ0NyM3BfQ2p2TUlrU2t2dThXb0k5Rmln?oc=5",
+   "time": "2026-10-28T12:55:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore sees continued respite from haze, with air quality remaining moderate",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSGVkWVVCVW52ZVM2M19ETVE4NnN1ZXlrOFhWNXVJYzJvSlFLOHpRclhPalFwWGkzNjJJVFZUakw3N0dXa1hEMDhsU2JEc0NFY21xYnVZX0R6VXdNbTJWVlR6WExNdlJJR01lTkNWcVZqMU9IQUN1LUFJd1hxVXBPS2xoQlJ4aFh5OUZSN1BiclI0WTVPd2YwV3QxNnBJemtxcGp2dzMtUQ?oc=5",
+   "time": "2026-10-28T11:56:25+08:00",
+   "summary": ""
+  },
+  {
    "source": "Yahoo News Singapore",
    "title": "Runners swap streets for shopping malls as haze chokes Singapore",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMnF5d0VzQkE3eWFSazNSWnFSSTBiMWdFdk9qYmx1MHJqYlNDd04tb2pwWHVHTGlMd1k2Z3o1R3p4OEFIbUZUaHVjazVUNDRQQkdxYnBhbzBxRjI5bWdhaXJURTJYMkk2SXN3M1hkQU5PVUlJXzkzSFRlRndfdl91SXN3?oc=5",
    "time": "2026-10-28T11:26:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The West Australian",
+   "title": "Haze causes change of plans in Kuala Lumpur",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVGU5VWZaZ096V0staHdkamxiMnNsOE8zQ09zdGhzOXVXM3VKVmtuZ1ExWEpvOWNGajFSNENWZ3JwTE11bGg1NEFJVVdQUEZXeWxsUm43Ti1KX0V3SkM1bEoxdXRuUE1UMGRVUnlsQkZ3cTR0al8wWnVOWlJjNlBRSTVPenR0R3FRS1UyX9IBkgFBVV95cUxOQ0FQWlFQTXQxVjdyZXFFZWNydk4xbDJkOU84b1BKVFhCRF92Q2V2SEtHMzBxd2hQcnlVRTl3cjA2YW5KVFhKNDYwb2hzQk9oeFM1T1cxbDVVY2JtakpaRzRuemtvLWpJa3VJd1ZWYk5tUEJhNENBdEhDMDdDYmNGQkJqd1M3WXJUNzZhejFvNjJHZw?oc=5",
+   "time": "2026-10-28T11:23:00+08:00",
    "summary": ""
   },
   {
@@ -535,10 +556,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore sees continued respite from haze, with air quality remaining moderate",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSGVkWVVCVW52ZVM2M19ETVE4NnN1ZXlrOFhWNXVJYzJvSlFLOHpRclhPalFwWGkzNjJJVFZUakw3N0dXa1hEMDhsU2JEc0NFY21xYnVZX0R6VXdNbTJWVlR6WExNdlJJR01lTkNWcVZqMU9IQUN1LUFJd1hxVXBPS2xoQlJ4aFh5OUZSN1BiclI0WTVPd2YwV3QxNnBJemtxcGp2dzMtUQ?oc=5",
-   "time": "2026-10-28T10:10:48+08:00",
+   "source": "China Daily",
+   "title": "Singapore's F&B businesses struggle as haze continues",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xSnlaX0ZqblFKZXZ3RWVsSlJIekdMZWpORmZKTmVVV2xWc3BwUkU3aUgxMWdUZnFTWjhpTnpjc1NjTGFfd2VCQzhzZTVDai1yY28wczUwc3FnX2sxZTEyT2FfalhNTFNTLTJyaXdycnRIMUNoY010RHN4WHlfQQ?oc=5",
+   "time": "2026-10-28T10:16:37+08:00",
    "summary": ""
   },
   {
@@ -570,31 +591,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore haze: PM2.5 readings in normal band; air quality moderate across all regions",
-   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-moderate-air-quality-pm25-normal-oct-28-6498021",
-   "time": "2026-10-28T07:42:32+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Facebook",
-   "title": "OXYGEN BUS 🚎 LOOK: Residents affected by Indonesia’s forest fire haze receive oxygen from an \"oxygen bus\" from the government.�� Indonesia is currently experiencing its most intense wildfire since 2015. Courtesy: Arief Rahman Septian Prathama via Re",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGEzREEwVTY1OXg1ZkotX2ppM2dsLTdzZnJ0UE9fdkZrYjljOHhTUm5yak4xaDFsaDRHNllaWmVLaFlQNldZNlVCOEpVTGh2ZG5aT0lBcXN4ajY4ZzNIWC1BTmFSVi1mTXJRLTR3QVZiZEF5V0YyY3Q0TlROZmVERmhDRU90ZDRBQkNzbmEtT0VSdGFiczNXdWlGdndFZW5XRVJpeUo1RHJDbXlsUGVJYWFnMGlUZTM1cHNoOElZWHpaQ0VyRE9KR2VMb0laLUtQYVBZ?oc=5",
-   "time": "2026-10-28T07:01:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "Plantation stocks trading at ‘sizeable’ upside after haze-induced sell-off: OCBC",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVRKMkJJUzFCcm4wN1dSdGt1ZEVUN2xaWFRCUjY3ck01QTd1QmxRdXBnMlhVWHZWcDRmU2hKbFRxenJmdUNYN3lFdVJoT29vVm9kQlJDNzJfMXBxblR5U1VZU3E5MEFVbUdIYTBtYkxuY1VaelJpN0FqWWpfaHI1aWZLYWJ4QkhNRWxLdVRMNHNYaVNiUFF3cHBDaG1GUFZxb0VzYldrdzM4SE04WGZ3NEVhSzNCUmpjd2stVFBn?oc=5",
-   "time": "2026-10-28T07:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Daily Excelsior",
-   "title": "Singapore and Indonesia set up a task force to combat haze from illegal burning",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbDI4ejVnZXNIWXc5Mmg5bkpqdzRJeXp0Vi0tVFZjY2NONVlxM3FDdDlGQzdlYjU2ei12bXBfZmtIWlNVdkNkV0VOZHQ1N1MxN2hYNzB6SFFEaWltczF1UzJSX1VZNGUxT25weWxSd2hYVmRmLTFnSXNfYTRwQlY3UmFFNlZLMWVIN05BcVBmYXRTNEN2TFE2S2JuTW9ILWo3YmdrM19tYS11VzhkeExrNllIb1DSAbQBQVVfeXFMUGwyOHo1Z2VzSFl3OTJoOW5Kanc0SXl6dFYtLVRWY2NjTjVZcTNxQ3Q5RkM3ZWI1Nnotdm1wX2ZrSFpTVXZDZFdFTmR0NTdTMTdoWDcwekhRRGlpbXMxdVMyUl9VWTRlMU9ucHlsUndoWFZkZi0xZ0lzX2E0cEJWN1JhRTZWSzFlSDdOQXFQZmF0UzRDdkxRNktibk1vSC1qN2JnazNfbWEtdVc4ZHhMazZZSG9Q?oc=5",
-   "time": "2026-10-28T06:51:18+08:00",
+   "source": "联合早报",
+   "title": "Wednesday’s PSI expected to remain moderate as showers help improve regional air quality",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZWVpX0k3RXhtTWJFVXRXUC1rSTNjTjlYWmR1bVpvVWdtOWU3a0k1R2hDNXZ4MjJzZllrazhVUnRmZkFXeUJ2TGRzdXh4TUh3Z0JEZTdaZHJsdFROUm12TkRvYm5KX291dTM5UzFmMGI0NTBmaXlDNHFwZlpUWkRpT1FFc2ZfYmw4REZnNG1VS1U2WkM1MlBBSjNnMjRacXgyZVZwa0lxZGU2UVBudUp0U0o4bU5yLVNWMjd2dWxuRjFoczFPZTVFNWpMZm9feDNKTE5xRg?oc=5",
+   "time": "2026-10-28T08:02:46+08:00",
    "summary": ""
   }
  ]
