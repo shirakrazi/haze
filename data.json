@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T08:00:00+08:00",
+ "updated": "2026-10-28T09:00:00+08:00",
  "psi": {
-  "west": 77,
-  "east": 72,
-  "central": 76,
+  "west": 78,
+  "east": 73,
+  "central": 77,
   "south": 67,
-  "north": 76
+  "north": 77
  },
  "pm25": {
-  "west": 39,
-  "east": 29,
-  "central": 38,
-  "south": 32,
-  "north": 39
+  "west": 33,
+  "east": 38,
+  "central": 44,
+  "south": 29,
+  "north": 41
  },
  "hist": [
-  {
-   "t": "2026-10-26T07:00:00+08:00",
-   "psi": {
-    "west": 76,
-    "east": 76,
-    "central": 73,
-    "south": 71,
-    "north": 69
-   }
-  },
   {
    "t": "2026-10-26T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 76
    }
+  },
+  {
+   "t": "2026-10-28T09:00:00+08:00",
+   "psi": {
+    "west": 78,
+    "east": 73,
+    "central": 77,
+    "south": 67,
+    "north": 77
+   }
   }
  ],
- "newsUpdated": "2026-10-28T08:08:44+08:00",
+ "newsUpdated": "2026-10-28T09:07:37+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,24 @@
    "pinned": true
   },
   {
+   "source": "Global Times",
+   "title": "Indonesia, Singapore agree to form task force to tackle haze-linked wildfire firms",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3emZDbGlwcGVsYkdDMHhKMzZZbzVZVTJKV3pkOGljMUVHNC0xYTdaYk1HSTJkcXhoR1FUYlV4MXFmSGpvbXo1dk1QU0p4NkpFZ0Z4UEtRX0NpZ3RYWGRjSFNB?oc=5",
+   "time": "2026-10-28T08:37:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Singapore haze: PM2.5 readings in normal band; air quality moderate across all regions",
    "url": "https://www.channelnewsasia.com/singapore/singapore-haze-moderate-air-quality-pm25-normal-oct-28-6498021",
    "time": "2026-10-28T07:42:32+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: PM2.5 readings remain normal, air quality moderate across all regions",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSGVkWVVCVW52ZVM2M19ETVE4NnN1ZXlrOFhWNXVJYzJvSlFLOHpRclhPalFwWGkzNjJJVFZUakw3N0dXa1hEMDhsU2JEc0NFY21xYnVZX0R6VXdNbTJWVlR6WExNdlJJR01lTkNWcVZqMU9IQUN1LUFJd1hxVXBPS2xoQlJ4aFh5OUZSN1BiclI0WTVPd2YwV3QxNnBJemtxcGp2dzMtUQ?oc=5",
+   "time": "2026-10-28T07:42:00+08:00",
    "summary": ""
   },
   {
@@ -563,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "Greenpeace",
+   "title": "Indonesia’s protest ‘queens’ are a viral sensation. Here’s why their message on haze, climate and cost of living hits the spot",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYy1PVzZ0ZEIzT0FlbEJJeUNtSHhScjNrT0Q5eDJDc1A0NlVCdlZLSzdTaDVSSU1YZVVtdlZaZGs3Z2JtQ21mOG83RTJkeUZDZ1dDTHE0N0NmenNrNkZleUpGMXhKNmd0RW9BS1VvZ21mdjZLakJGM2twTG1BQS10cENlNFZUTEhrU013ZjJGTVRmN01NQ2Z0WEpZVmZpOU9yUkJNOEllMA?oc=5",
+   "time": "2026-10-28T02:09:36+08:00",
+   "summary": ""
+  },
+  {
    "source": "Firstpost",
    "title": "'Don't Dare Us': Indonesia, Singapore Feud Turns Ugly Over Gas, Haze & Market Crash | Vantage",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM1lyeXVFQ0RmMXdwcjRBNTlhem1oaXpiS2pOMWhaS1JCU2s0d01uRGp6cG1QVXNwU0lkQ2stOTJqLWc2cnJHc2ZEN0JyTkpXQ0Z6V2hyQkhHUWNnZXdIeTRINmZia1EzSzV5VEF2dXlWRjNCVUxFcVBlcjBXbzBRcmE3V3RrazJwcXh6NWphVnhjcGdDTk1tSzU4UHliZWhfNnRrcFdwaGp1NVFDbTJpZGU0ZlRXWUhVcDJvaFVianhYTEYxZmFN0gHMAUFVX3lxTE1XTDQtdHdPaUFnb1BQMmUzSDQ0OXQtMVJ1R1JxZWh3alR1TVFjZUE4Qm5BTnUtc0dzNXIyY0VCSUlnaDlHbmZDX0lRZGFqaHc3c09iMFota3JPa1NOWFdHVGhDN3JQbTE1eUNDbHU5cDRGVjdsVFVDVklFRnM5NlBzT1JmNl9WZzJ5T3hqcWJTNG1yZXNnU2M2LXBFbUk1cDc1WVE1NGlkOTM0ZnExZklodVZEbjBKOXppUWRLTUpReTFtcWF3aEFZR216cg?oc=5",
@@ -574,27 +595,6 @@
    "title": "Indonesia, Singapore agree to establish joint task force to combat forest fires and haze",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWkEtM0h6TVcxNWdCN3BKTUF0UWNHRVpfQjZVaE1Qajl3SDQxQ2d0Q2xIU29ZZURycU1RYkpVYWtPNkh2VTVZY3FIR3I1V2t2TjNQWkRQRDJhSEdWb2dHQWdtNC1BZWEtaXFBcmtGb2pPdmVCMzNISFhHMEZMVFJheVlTaVlVd2ZPWHhLNnNGeEt5UDMtT0Q1aHI5bUdrNHd1TnhtRkpmVWFRamZV?oc=5",
    "time": "2026-10-28T01:02:05+08:00",
-   "summary": ""
-  },
-  {
-   "source": "TRP | The Rakyat Post",
-   "title": "\"Never Happier To See Genting\": Malaysians Rejoice As Three-Month Haze Yields To Changing Wind",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdGltTzcyaGt5MXNGY01xMk9nLUpnTGtRaUk4d0JkWGh4WmxCeTNsTzRVU0lpOUJtR2JrZFJFcXlfVnVBWEFXRjJZaXA4SWFXbkQ1XzJPR2k3TE0xR3VQTFdrakFfb1JJNDNGdU5CelNycEN0SUFCRGZaUF90MHN2RVk0TDVncWFBM0QzTDVZUU45V2kyU3lyLTNXV2ZJN2tTUlNGdXFwMnFHZ3ZXRmJ2c0hubG9TRTB3N2NveGs5a0tzUE4tUDRGRVhhSk5FLURwUC1DVDJhVE1WcDNpSDZpcQ?oc=5",
-   "time": "2026-10-28T00:45:27+08:00",
-   "summary": ""
-  },
-  {
-   "source": "myMotherLode.com",
-   "title": "Singapore and Indonesia set up a task force to combat haze from illegal burning",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNjNFXzItNmV5RjU2b0E3SWhIazFxcTMxNWlaZXJjWGYwV2piaTZlZzBOSXBUaWVmeGRRWkJBT3NTazltRHozNnhjei0ybVlzcVBRa0J5Ukp3UmtJUjlvdDlibXZPYUVLbF8xSEVZS09GWmZkLWlOcVZLSnAxaWVleWwwcC1rVGx5bUxmV2I4eEtpelo1dnM1Q0VpMzd0YmNIMlVMVTR0ZkpvWHpoQ1VubHZ6Y2xmVEJwT1ZqRFRvbFdpbjh4Z2hfZ3A4blXSAcwBQVVfeXFMTTYzRV8yLTZleUY1Nm9BN0loSGsxcXEzMTVpWmVyY1hmMFdqYmk2ZWcwTklwVGllZnhkUVpCQU9zU2s5bUR6MzZ4Y3otMm1Zc3FQUWtCeVJKd1JrSVI5b3Q5Ym12T2FFS2xfMUhFWUtPRlpmZC1pTnFWS0pwMWllZXlsMHAta1RseW1MZldiOHhLaXpaNXZzNUNFaTM3dGJjSDJVTFU0dGZKb1h6aENVbmx2emNsZlRCcE9WakRUb2xXaW44eGdoX2dwOG5V?oc=5",
-   "time": "2026-10-28T00:37:20+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Haze in Singapore: Country looks to strengthen laws, hold companies accountable - Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWRqWEJQZ3NHVFZrZkdWaEYyOEkwaDBJeUlpMHZkVVllRzBUYzROQ2NpWXdxR1ZQZ29Xd1N4OEZPMHNrSVhIQndQM3pFaDNYdlU5MVRJdWpWcWk4QmFsQ2F2eGI0T0s2VkYxTVNnc3hEU3RDTGFKRWIxOVR6R1dVZU54WEg2SndubmQzZFpIRk5QdXdZMXhkdWkyTUlrQW5qMUNvdUh3OGlDMzFfaktmSkNkaFVPOE96azhObmVqZ01pc0hYanFRMg?oc=5",
-   "time": "2026-10-27T23:07:02+08:00",
    "summary": ""
   }
  ]
