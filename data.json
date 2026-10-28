@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T17:00:00+08:00",
+ "updated": "2026-10-28T18:00:00+08:00",
  "psi": {
-  "west": 78,
+  "west": 77,
   "east": 73,
   "central": 78,
-  "south": 66,
+  "south": 67,
   "north": 73
  },
  "pm25": {
   "west": 27,
-  "east": 26,
-  "central": 27,
-  "south": 26,
-  "north": 13
+  "east": 22,
+  "central": 25,
+  "south": 36,
+  "north": 15
  },
  "hist": [
-  {
-   "t": "2026-10-26T16:00:00+08:00",
-   "psi": {
-    "west": 72,
-    "east": 70,
-    "central": 71,
-    "south": 66,
-    "north": 67
-   }
-  },
   {
    "t": "2026-10-26T17:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 66,
     "north": 73
    }
+  },
+  {
+   "t": "2026-10-28T18:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 73,
+    "central": 78,
+    "south": 67,
+    "north": 73
+   }
   }
  ],
- "newsUpdated": "2026-10-28T17:07:51+08:00",
+ "newsUpdated": "2026-10-28T18:07:59+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Companies expected to cooperate with haze investigation: Shanmugam",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
+   "time": "2026-10-28T18:00:03+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Online Citizen",
+   "title": "Indonesia deploys mobile oxygen buses as forest-fire haze drives respiratory illnesses in Borneo",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNU4xaEo0YmgxbV9DQUxEUGctb1VGNDVJTEdKNHhYR2hRa2FBY1lNS3JHTTlrLW1abzJPLVpHY1YxU21wQS1WWnFiTFRzQ0JNVWE4TUdVMjdkRkNLUV9PZVg1MGxvUlNKS1BiZG82ci1qcjVDdVdfX25vSWtaSkdLT0dyVlU2NkFPOVNQbWIwVUEwZEVqS3RGQkpQbWpCeXp2bUVNRVk2NmVJSEZiM3JWTjJjdS13eG1sb3FvYldMdDNBYktPX2FOYzlMcWtwTVUwWkhMV21JcmI?oc=5",
+   "time": "2026-10-28T17:51:41+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Indonesia and Singapore agree to strengthen cooperation on regional haze",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM2F6Yy16U28zaS02aGdTM0hVUlo3YmZWTnhhSWdEMVZUV3NneUhKajVCdi1iaTMzWTdGZG0tVkJySVl6T19tZWtycDNFMXB0dVRRcUZFOUlGQUJrLVNha1BKSDJxMVhiMmhoZzYtLW5QOTZIenpuN0M5dWxJT2lEQkNnYVhpUXNDcDJBa1VDcDNyMldnVGY3ZmlTMzBIMU9iU3lVV0dtMzVPUUtseHlvb3lJSUUwQVBLTjZPTXpUc2p0M05rRkswU3pobElyV3Vl?oc=5",
+   "time": "2026-10-28T17:31:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Mothership",
+   "title": "IN FULL: Shanmugam's talking points to 10 haze-linked companies in closed-door meeting",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2cwYVpHUmh2YjZZYVZVTHJ3c25FQV9MdlRiME1ITUh2STRscXNORmVSQkdLZGZsRS1UeTJwT1JaU20weUlvRDdLbU0tRmIzRGxFQkdPOU92WXMxcmZZZlJERjJuelUwVmpxWUVOcDZzSHZZRVVsQi1jUGE1MHY4NA?oc=5",
+   "time": "2026-10-28T17:22:04+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Singapore haze law: Amendments will be made at next Parliament sitting",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mYWNkaDU3aGd6b2tySXJCVFpucXV0TnpPLXRnU2p2RUxqVHI3RVVhNXp4aG1iYktGR2ZObElQTWtvNnhfV1dvOERxeGg3M2VVS1FNU0lPd3lRUDBRX0E?oc=5",
+   "time": "2026-10-28T17:19:55+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -524,6 +559,13 @@
    "source": "AsiaOne.com",
    "title": "'Government taking this matter seriously and is determined to act': Shanmugam on haze situation",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYUNRdjJ1MFc0aktRSC1yNDk3cnB2NlNtYVU4dUk0bmxCbnU2ZFl2V3JQSzVqNXlYLWMxYzZ5R3YxR2lJMEpGUzU5Z0dJUXRwbzlVMC1KS05wdzBmMW9MUnRTTUNQOUZva2lBQ3RQSFlxdnVhMksyMlBsSzZaa1V5cTRqRFRKUQ?oc=5",
+   "time": "2026-10-28T17:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Business Times",
+   "title": "Shanmugam urges CEOs to let firms be assessed for haze links; government to table changes to haze law",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVnFkVkhURm1lNE11WGV1LW1xbHpBX3dqS0JNWDdqTHJXemM2OFk4VC1ObzJBU1dYaU9DaGNHSHNRd0Rta1NPYVgtbXp3UEhOZWw5Z25LUTJJbXBrUUxPM2RrVTRVV1QwWmF6U2o3a3puUWZjNTgxaEhqakxzQmxvN2NUeVJPMjBFMXFiUnA3LVhXTFltMDRyUE8xN0lNdmxOcmd2ZDNzV0pxdTRJdVBxNlRJdlhXZjY4SVM0UXZia0VzcU42dFl0U1N3?oc=5",
    "time": "2026-10-28T17:00:00+08:00",
    "summary": ""
   },
@@ -553,48 +595,6 @@
    "title": "Singapore Air Quality Stays Moderate: What to Expect Next",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXZ1X3U5aDRadzRBR2c3N25DUEVjdzE5c3gwN1dCeG1SemJ5cGhwbndvRVhySFNheVZJTXJEWEhSTGx0a3RwOVZkbm5yRU45UWI2Um1iMkVrTVhYbVlmc25odEQxYkVWcURpSmcwZUlwZEgtemVWQ3ZSWU9SSFVCNUk2VmhXODZZNjFzbk1pbjZYaXc?oc=5",
    "time": "2026-10-28T16:17:31+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze: FMM urges regional action to protect health, productivity",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQzE4cjBFNF8zbDg2UzExeUM1X3VuazlPb3I1S3J5OUlOTEUtMnZfeGJRNHp2LWhQT1prYklJRDNHY2NRa3gtb3NNSHZhUVdaZTBYRkgxV1htSFpOanBqU1o2VlpsWDV2QlNLWmNsb213T3pZWGZQdTFzbDRFXy1iYTBFTUoybnNrdDlqSVVuc1V1dXhselFyUHhRNHpUYk1lUzlyM0pmM0hzSmlZUmdiYw?oc=5",
-   "time": "2026-10-28T15:38:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "SGX RegCo issues fresh queries to listed agribusiness companies over Indonesia fires and haze",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ0trdzV1QU9FVHBQaEgzOElIYnZSZElocklxcWNEYXBOTjUtQnh0TDdxN19sQ1ZhdWQzalEwV2p5WE9HUEJETVJRcXdDYnMzMXdwQjg3Z1RWMnNKNEViUm5OZmNLZ0M5Q1h0bzZYanI3cWFiU3E2bVFJYXpoR2NTMW50WkJpVWlUMTZOY3paWjhXUVBScUhvRkhtajZPSGZEQTZlRjRDb3FtbVNwc25rejd4WnhiN1k4N1dGaEdhMDdoSGhLbENiR3Jpbw?oc=5",
-   "time": "2026-10-28T15:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Rain eases Indonesia's haze, but authorities warn fires could reignite",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUhXTTNONWlsdjBaQkFpSVQwWVBhYlUwWk9fRTNlS0VpZTd0REFQa2w2VF9DamdLOFpmU01hSGZXWnBNT2o0eVNKcURfWDROa28zWWFNZHd6UExHS25sSFVTWjhLak5Uc09FNFA4WmdMbVZqZzUtQndGSTAzc1Jfb2FrOA?oc=5",
-   "time": "2026-10-28T14:44:53+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Free Malaysia Today",
-   "title": "Putrajaya open to exploring compensation claims over haze, says minister",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa3Zyak1PUGhHeXpSc2VHYTJFTGRHaXlhWnU2WElxVHB5Zkk0Y09PY25XVXhpU2dYaDNZUmhuNjljZm8zdW9USEZLRGhHcjlpc0ZQdlk2RVUyeEpaSF9lN2xZeUhuU0xUQWZjQzAzNWtETjhVZmw4RkFhcDZ0cWhtdXZBUTd6QTZXelByZXByRUdEdDYzS0RjZXZCX042T1VHT3JxS0FVNndpVzh0M0pxXzV4VzJ0WHVGSklhZUtYTHpyZXh1Vk93UTJHUnU?oc=5",
-   "time": "2026-10-28T14:10:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "SGX RegCo seeks further disclosures from plantation firms, including links to haze notice recipients",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbWlSUkpqTUt2U25TMkJiX1J6Z3FEc0ZYQ21wR0NYYUthWjU5aDI3UUJ5TXd3R1RVTGZBU2FsREVrVG5QWnMxNk5iT0pyTURqVVNCSG5HTXBKSXB6UGU5UVN0UWttSkJBb21YbUxrQ3RaU2kxNFFDMS1QWkJ4SE1BUDdNQ21MSDJVV2RwZjFXTGJjQV9IMkpseDZEVGNWWlY5eWhzeEYtWHJzWkFQQ0FFQkdKWUdpTFZPYUoyb3c3YzhYYUEwbFJsbjJkNm9xcTQyZFpBa3NCSkx0UQ?oc=5",
-   "time": "2026-10-28T13:35:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Latest news from Azerbaijan",
-   "title": "Singapore plans tougher laws to hold companies accountable for transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMXRYd3hwWGNuXzRjU2c0bXM1WW9UOFE2MHFkclhlRlQta0I2Y1VRMGZGQnR6c3prQzZFb3J0WnhCZXlHYmFwZ3F0SUhRdG5jVUMyTG1UdnJ6S2k5RXl0VHE1LXFRZ3lES3NTYmlpUGtIYm1CbzFpZHRfWVZlSWFvOWRJNVVaVy1PSk8xNS1IWjZUbXAyUS1FTTRRSnU1bWZrem9qVw?oc=5",
-   "time": "2026-10-28T13:29:39+08:00",
    "summary": ""
   }
  ]
