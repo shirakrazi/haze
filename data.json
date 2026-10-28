@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T21:00:00+08:00",
+ "updated": "2026-10-28T22:00:00+08:00",
  "psi": {
   "west": 78,
   "east": 72,
   "central": 77,
-  "south": 67,
+  "south": 68,
   "north": 74
  },
  "pm25": {
-  "west": 38,
-  "east": 34,
-  "central": 31,
-  "south": 22,
-  "north": 33
+  "west": 30,
+  "east": 37,
+  "central": 24,
+  "south": 39,
+  "north": 29
  },
  "hist": [
-  {
-   "t": "2026-10-26T20:00:00+08:00",
-   "psi": {
-    "west": 73,
-    "east": 69,
-    "central": 70,
-    "south": 65,
-    "north": 68
-   }
-  },
   {
    "t": "2026-10-26T21:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 74
    }
+  },
+  {
+   "t": "2026-10-28T22:00:00+08:00",
+   "psi": {
+    "west": 78,
+    "east": 72,
+    "central": 77,
+    "south": 68,
+    "north": 74
+   }
   }
  ],
- "newsUpdated": "2026-10-28T21:23:36+08:00",
+ "newsUpdated": "2026-10-28T22:08:40+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,45 @@
    "pinned": true
   },
   {
+   "source": "AsiaOne.com",
+   "title": "Banks expected to take appropriate measures on firms linked to haze-related activities: MAS, Singapore News",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWl95MGp4MmtsTm5MR1BiTmlZOENzd3dQaVNfWmdkVm10U0NYMHN1VnMzTHRRSDFDWWp3cFlrM1EyczJmSG8wSlNqMjNGc2dGMW9PQlQyWVFKb3VjT1BObUpCT3kwa2MxVnJJWGk1cENYWnBmMnh4eUc0cHR3NGNEVGt2bjJJazZac1l4RlMwN25kV1BrSmkzYl9LRUhFOFZRU05aNl9pSXdYZkUzTFE?oc=5",
+   "time": "2026-10-28T22:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Thousands of protesters rally in Jakarta against haze, rising living costs",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnRBVF9yUDhQMEdFU01SbWN5LTB4U3JiN3ZUSkhwUFh1SXN2S1RDR29lUjExUDZWd3RjR1h5WHpscDBjR05tSFFfenJ6TTFEajVmTUxPNURXZjY3cndNaFY1X0Rkckdlb0gyOG94ZzdnMkh4YndIZ1JjWS1Wa3pqYmlXd09adkNmNUIzZjlfR0E4QjZuVFNfRHZKUDBDajBYdkYyZ3VSYWRfeGxFSThGREtJdnB0dw?oc=5",
+   "time": "2026-10-28T21:50:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Summoned to meeting with Singapore leaders, top honchos of 10 firms pledge to cooperate with haze probes",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOEN3Zy11aUkwaU5CSWlOWUVUV0xLb25zNTd3WjNGekVvN1YwbTh2M0R6S2VqUWV3TVBJY0RGM3g0bFVLUU50ejZ0WHBMNnRYQzFVUm50YUdaYUVCSkx4VFh3Y3c2cDVkdWVsQ1VUOHpHc2lUdDlaRFVZOFB3cUVZM3pfTGpsa1FfelMwdWVJRHlqdFJoNUlKVGhvZFc5SnQyOFhIRmtKa0NkczkzUWUwdUg2MDEtd2M1VzhJ?oc=5",
+   "time": "2026-10-28T21:46:06+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Business Times",
+   "title": "Singapore, Indonesia reach political commitment to address transboundary issues",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcTRhYnR3SWtIWHNsYzlFSkRNUWV2V3ZCX3ZtMnRTb0JnNFJzRmpMNVdoNUFKeFE2WXlkU1VtWWVYLUZkX085VnJmT0d4TGlSNXRRWldHUncwaVJ3RXZHZXlwME9MZUxyR09EN196NFFfZEo4YWVaTmFrSjcxN0xsVXJUMFhmcHRUNE9FN0JIYTlUOXlMWl9pSmhnemRqZDRFanpLanotWHc1TEpwUkpNaENBd2R6a0I3SzdXMDhBWkN2YUFSTTlJ?oc=5",
+   "time": "2026-10-28T21:27:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "10 firms under probe for haze-causing fires summoned to meet Singapore ministers",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcTVYcHFkal91ZFJ0OXdPbG5FRk5GSXF6alJMM0NNQ1JJTVZ6OTNSN2xDd3pUaEQ5aHY5XzMyQTd3NnRWYWdmSS1MeDd2RnQ1TWJTZS1oTG1WSUI0UU9GOWxhT2gxTS1mZG02Y3NiUXh3REFKU0dvRTJ0dHJkNVFKYVJOMWVqZkdRaXNMZV96bVgtZ01YNjZKbXFaQ1B1M2VPVGpJOHpIekxFb1pwZk84VUhwMTd3TG5HVG5VdA?oc=5",
    "time": "2026-10-28T21:08:45+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "PM Wong, Prabowo committed to ‘do what is necessary’ to tackle bilateral issues, including haze: Vivian Balakrishnan",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOekl1QkZYYWdTS2tvM0l2NHFXeTVKd3pTQ05wdExXTWRodTVseFB3UGluS2RzMXVjcUdjbV81WUt1TnZGOTVIR2R0RnNYR1dSRnNSSEpfUWM5bnJ1WHotaEE5WHpxdkJQWldTeEs4VmNaSUJ4UWpFRnVrdUtZbnJXWnhILXBBNVdiU0d4ek9SUVFLenhwcXVPVWpWNlN2eEh5X1llQktNNXF2ckU3SzlERjFB?oc=5",
+   "time": "2026-10-28T21:03:33+08:00",
    "summary": ""
   },
   {
@@ -535,13 +570,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "PM Wong, Prabowo committed to ‘do what is necessary’ to tackle bilateral issues, including haze: Vivian Balakrishnan",
-   "url": "https://www.channelnewsasia.com/singapore/vivian-balakrishnan-indonesia-high-level-talks-haze-commitment-6496126",
-   "time": "2026-10-28T19:53:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "Reuters",
    "title": "Singapore central bank tells banks to monitor customers' haze risks",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUDB3VktNT2FRaFR0VGpWa0R3aWpQSDdGcVFGbzZILThYTkNFM2xyRl9wWmFJMTFLRjlFUzh0SFhLWEZ6SE1DeUFQMUJEWGxSOHozTS1HQUsxRXVoZFNrUE1Fc3pyT1k4bU1TekR3Y3BDaVE3ajNZbGU3dnNkUEx3M05HLUJfZ0xubnF5R09CTnhLbTVyY3BybWgybkprd3dTZl90eElMTFQxOUVEYjE5Z19Wb2tSQkE?oc=5",
@@ -563,38 +591,10 @@
    "summary": ""
   },
   {
-   "source": "The Straits Times",
-   "title": "Haze in Malaysia: All schools in Selangor to open on Oct 29; use of face masks encouraged",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMFlRU1JzVXBEYTZMMEFUbXNSa0x4U2N1RTc1Y0ZFX2R0VWdiZzJ1V1NyZWJTQWYwd29lVU9CbXdkWUJsMDh4V0ViNWV5RWxYNnNMeW5fYXVteU5ibmk2YzR3SENvZE1lTFFiY2hUMlpST29NZVVXc0NNeUdJM09mRzNickE2blRhNnZiQU1JcEpma1NySV83OXdCV3d2NFF2SVlJaGEzdnNLNGJzOS01VjNTSTgzV3UtUVBKMmNVenlzRHNNQnVUcw?oc=5",
-   "time": "2026-10-28T18:53:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "Kompas.com",
    "title": "Dasco: Malaysia-Singapore Criticism on Haze Need Not Be Met with Offense",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejIyYXM5UlZveHhUSTRacGlnSU1rR25jZnRJVmkyaWkxNE55RHpKaE9ubGFKdHpsRGplVUNRT1JlcjlEekxXcDRkNHNzTF9SMWNmZXBINjlkT2F4cnAwdTJYeTJRY3J6NjRpdU03UmxLSFl4aTdaRjRnVGVuSWpRdEpWV0hoOEFWRm9pSnN6ZVB1akZzajItNkNKQ09rRWhOYUZ2b0ZvQmp4OTRyZFMyNlZHelVvSHh6ekc0?oc=5",
    "time": "2026-10-28T18:52:42+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Online Citizen",
-   "title": "Singapore to amend haze law at next Parliament sitting, making non-compliance an offence: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPREN5TDRhbGJLSk5vbkc1bC1lMHVfeXNqOGUxNWRiZkNRdEhrbFo3SlZpdFZsaE5nYnU2M0ZTUGlJb2VpMFBOZ1FDV1A5NE0yYmhtYUdhZ2hHQWo0QW9TajhCNmVlOHV3aklkVEw5aGpNSV9JQ0dBUlhscjRiUGktaDNTRU5nYkREb1pHMHJERE5QVEtzdlpBUlZPeGhqeWVJeUlaZG53UTcwZG1BeTVzOFJyX0g0MGdDbUpwQ0hoQ0JaOGhQWl9DMzJVTUl6Z0FxUHhCV0hyZ3A?oc=5",
-   "time": "2026-10-28T18:50:58+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Standard (HK)",
-   "title": "Haze drives Singapore runners from the streets to shopping malls",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUW1nUmdhSmp6LWM1VWxlamRKMW5Ld0VrLTlCV1hyd2lXMjhCTWdBVWYtSkJCN3l1bG1SdWJzdDZEcDRpRldCalBfdURCWkFpRHktV0VHV08yQkFTeEtNdE5iemlrYWh4UEVHWUE2Q2pkTklUMi05WmtGYmVXY09UQ1paWk5vWnVFSkpaOHJMdnpxYlJWVGYyQ0w5NGJ3RXFndWRGbVlHemRWVXk2cURHQWkxSlBpQ1JNeU5SODRHcGJkbm8?oc=5",
-   "time": "2026-10-28T18:47:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "'You know the Singapore Govt. We will do what is right': What Shanmugam told leaders of firms allegedly linked to haze",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckVxRHd3RUh4cWFRUkV6LWVjQnhBTktkX1ozVHJLWE1hR3gzMWZGLTY4SktXYURUMmZJUE1sYmdxLTItcVdCdWh1T3dyWnVHemg3SzlGdXNTRll0SS1STFpKUFJYZ1Q2X2FfcGNpVC1Yb0VYR2owdUJveWlfSF8zTDZjMHlsOEloQ0xwNE84MF9kdmRGUUNB?oc=5",
-   "time": "2026-10-28T18:45:38+08:00",
    "summary": ""
   }
  ]
