@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T07:00:00+08:00",
+ "updated": "2026-10-28T08:00:00+08:00",
  "psi": {
   "west": 77,
-  "east": 71,
-  "central": 75,
-  "south": 66,
-  "north": 75
+  "east": 72,
+  "central": 76,
+  "south": 67,
+  "north": 76
  },
  "pm25": {
-  "west": 40,
-  "east": 32,
-  "central": 40,
+  "west": 39,
+  "east": 29,
+  "central": 38,
   "south": 32,
-  "north": 34
+  "north": 39
  },
  "hist": [
-  {
-   "t": "2026-10-26T06:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 78,
-    "central": 75,
-    "south": 72,
-    "north": 71
-   }
-  },
   {
    "t": "2026-10-26T07:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 66,
     "north": 75
    }
+  },
+  {
+   "t": "2026-10-28T08:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 72,
+    "central": 76,
+    "south": 67,
+    "north": 76
+   }
   }
  ],
- "newsUpdated": "2026-10-28T07:54:35+08:00",
+ "newsUpdated": "2026-10-28T08:08:44+08:00",
  "news": [
   {
    "source": "CNA",
@@ -577,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "TRP | The Rakyat Post",
+   "title": "\"Never Happier To See Genting\": Malaysians Rejoice As Three-Month Haze Yields To Changing Wind",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdGltTzcyaGt5MXNGY01xMk9nLUpnTGtRaUk4d0JkWGh4WmxCeTNsTzRVU0lpOUJtR2JrZFJFcXlfVnVBWEFXRjJZaXA4SWFXbkQ1XzJPR2k3TE0xR3VQTFdrakFfb1JJNDNGdU5CelNycEN0SUFCRGZaUF90MHN2RVk0TDVncWFBM0QzTDVZUU45V2kyU3lyLTNXV2ZJN2tTUlNGdXFwMnFHZ3ZXRmJ2c0hubG9TRTB3N2NveGs5a0tzUE4tUDRGRVhhSk5FLURwUC1DVDJhVE1WcDNpSDZpcQ?oc=5",
+   "time": "2026-10-28T00:45:27+08:00",
+   "summary": ""
+  },
+  {
    "source": "myMotherLode.com",
    "title": "Singapore and Indonesia set up a task force to combat haze from illegal burning",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNjNFXzItNmV5RjU2b0E3SWhIazFxcTMxNWlaZXJjWGYwV2piaTZlZzBOSXBUaWVmeGRRWkJBT3NTazltRHozNnhjei0ybVlzcVBRa0J5Ukp3UmtJUjlvdDlibXZPYUVLbF8xSEVZS09GWmZkLWlOcVZLSnAxaWVleWwwcC1rVGx5bUxmV2I4eEtpelo1dnM1Q0VpMzd0YmNIMlVMVTR0ZkpvWHpoQ1VubHZ6Y2xmVEJwT1ZqRFRvbFdpbjh4Z2hfZ3A4blXSAcwBQVVfeXFMTTYzRV8yLTZleUY1Nm9BN0loSGsxcXEzMTVpWmVyY1hmMFdqYmk2ZWcwTklwVGllZnhkUVpCQU9zU2s5bUR6MzZ4Y3otMm1Zc3FQUWtCeVJKd1JrSVI5b3Q5Ym12T2FFS2xfMUhFWUtPRlpmZC1pTnFWS0pwMWllZXlsMHAta1RseW1MZldiOHhLaXpaNXZzNUNFaTM3dGJjSDJVTFU0dGZKb1h6aENVbmx2emNsZlRCcE9WakRUb2xXaW44eGdoX2dwOG5V?oc=5",
@@ -588,13 +595,6 @@
    "title": "Haze in Singapore: Country looks to strengthen laws, hold companies accountable - Grace Fu",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWRqWEJQZ3NHVFZrZkdWaEYyOEkwaDBJeUlpMHZkVVllRzBUYzROQ2NpWXdxR1ZQZ29Xd1N4OEZPMHNrSVhIQndQM3pFaDNYdlU5MVRJdWpWcWk4QmFsQ2F2eGI0T0s2VkYxTVNnc3hEU3RDTGFKRWIxOVR6R1dVZU54WEg2SndubmQzZFpIRk5QdXdZMXhkdWkyTUlrQW5qMUNvdUh3OGlDMzFfaktmSkNkaFVPOE96azhObmVqZ01pc0hYanFRMg?oc=5",
    "time": "2026-10-27T23:07:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "energynews.pro",
-   "title": "Indonesia and Singapore clash over gas, haze and the stock market",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOXVMYWsxM2VRNXV6OWgzaUZjeTVkNE5KWVEyeUJmTVhkSVB4b3hZbC1NR1NLbG9OZXRLMFFtLVN3TXVpV3FidEgwN0tfNmI0djBpZjd4X1lLM2Fzc19OSkJRa0FPZG0xSGNLUC03Y1pWblBRdndXdzIwQXV5amFEQVJnSVB5bnFvTmZVUGNoc2N4NjNH?oc=5",
-   "time": "2026-10-27T23:02:01+08:00",
    "summary": ""
   }
  ]
