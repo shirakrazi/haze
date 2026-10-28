@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T23:00:00+08:00",
+ "updated": "2026-10-29T00:00:00+08:00",
  "psi": {
   "west": 78,
   "east": 72,
   "central": 76,
   "south": 68,
-  "north": 73
+  "north": 72
  },
  "pm25": {
-  "west": 28,
-  "east": 27,
-  "central": 30,
-  "south": 23,
-  "north": 20
+  "west": 32,
+  "east": 30,
+  "central": 32,
+  "south": 13,
+  "north": 26
  },
  "hist": [
-  {
-   "t": "2026-10-26T22:00:00+08:00",
-   "psi": {
-    "west": 73,
-    "east": 67,
-    "central": 68,
-    "south": 63,
-    "north": 66
-   }
-  },
   {
    "t": "2026-10-26T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 73
    }
+  },
+  {
+   "t": "2026-10-29T00:00:00+08:00",
+   "psi": {
+    "west": 78,
+    "east": 72,
+    "central": 76,
+    "south": 68,
+    "north": 72
+   }
   }
  ],
- "newsUpdated": "2026-10-28T23:12:46+08:00",
+ "newsUpdated": "2026-10-29T00:08:56+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,9 +507,30 @@
    "pinned": true
   },
   {
+   "source": "Retail News Asia",
+   "title": "SGX RegCo Queries Agribusinesses over Links to 10 Haze-Hit Firms",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT3QxTDZKUEdBTGthdU1QdTlTSWdEbkctVjlYX0RoU0drcTU5N0pSWDdpSTZBejV5em1BZWhEbWZCNmlPOFpwMkdXN2tBcU45RTRLVExPMmlaV24tSXk4N3dMUUZVMEd2V2xqV25VRmIya0lQOUp6dXE1Szh2Rk5PLUJ6bkhFY2JGdjNYXzNyXzJMdw?oc=5",
+   "time": "2026-10-28T23:42:05+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Macau Business",
+   "title": "MBtv: Runners swap streets for shopping malls as haze chokes Singapore",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN01UZWk0VDIxMkhsY1BIZW5zVWNQd0tSeXRKOVZtWUM1SHBpeURBbG9yNkE3bnVpRmdfbzBIOFp5Ym83bm5FYlZfc2M4Y2FOVk9FMmh2ajRzZTRtc0htdFNoRktHSmE0ekhIRTRtTGNXR0V6U1RNNnRSN0ZjU0NqMDR5S09aT0RkaTVlNE5MeVkzUEppM2RUaGRNVHk?oc=5",
+   "time": "2026-10-28T23:15:57+08:00",
+   "summary": ""
+  },
+  {
    "source": "South China Morning Post",
    "title": "‘Not to find scapegoats’: Singapore ministers summon bosses of 10 firms over haze",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZHBPSThmZTdRanp0YzNvMnRyMXp2RElIU2ZQUHlzaGFTczl1Ty16eHFxeGF1d21NbVNTb3ZCYWI0ZmQ3OHVBNXBfb3hjdjZYVEFPd3pyaUI0UnVadGxwSjhHNWY5a1NBNUxsTEpWNzkxZm5YLXFxcnhDM2dob0xsc1BnMVRNd3BQTERGQ3YweF9mNE1DZmltMkxQTmh6STUyaUtlc1VUZEJZVkF0MDN4dlZjajVGcF9ubFhRY0dZVGpPdUJuQ282dGZFWC1YWHpPVkRFMVJfYXQxNE1VOFRNUFdLYVJ0bWV1VW9KX3ZYa2UzNTRnLXZ1VmZWODlFVUU?oc=5",
+   "time": "2026-10-28T22:51:30+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "‘Not to find scapegoats’: Singapore summons bosses of 10 firms over haze",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMTNtd014OWhtc1JPTERtV2pXMHNnQ2F0aUYtdDdqRVQ3dEZ6UVpwV2lSX2hTWnM2MXRZcWlvU2FRWF92Wkg1WGZTWGZidGttSW8wZ2x4RkZCWGNXbTNTQVRtSWxQQ256UGRvbFdWb2MxTHdqVjh2VzY1ektQS3NBV3VrV1hnRHJaR2t3MXc1XzVBcWRTbk1Md2dyWHRTRmJTVFJSeGRudW5FeWgya09UcDVlSFN0cm5BUDZfMnBqaUNMZFIxZk5JaHAwQXNsNnh1ejlvM9IB1AFBVV95cUxOOTA3VDFTRERUNi02T1V5cEZjckRoSzBpOUg2VDVhZ3JhbUNfQkJac2o4S2hjcnotUlZyVU1CMTUyUTRNN2VuQlJwY1dDU3ZOUEZYMDF5R3hnX1hIRzNSWE0yemx3MDU0ZHdsTzY3Yi1neVdSU1JOTC1SNndQSTR1dVVmZDltSGx1R00tcXNaRzJJb2dVdk55M0pzRkhIRTZzNjY1LXVVOUdaODNnMzNicDVmdmJQNkZsQjF3SFh2Tk1NNEl6dFREcHVlZDY5TVBGUlZvYw?oc=5",
    "time": "2026-10-28T22:51:30+08:00",
    "summary": ""
   },
@@ -549,6 +570,13 @@
    "summary": ""
   },
   {
+   "source": "Bilyonaryo Business",
+   "title": "Singapore warns banks to cut financing ties with firms linked to Indonesia haze",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcjh6dkttZW1yOTZmS2V3SDRaRVJhaWtITDF4MUI0cGZHWlo0X05ZZDM5VTF6MVR6RnVodThYT05nNnp0M3hsTW1jeFpQempTaG9BbGZPQ01HdUZiWktQcWREb2djaFl0YXR1UExQbDNkZklYVDZNRnQyc2x6WGg3X1VxUjJ1TGxZTFVZdXZrYnhLM3N3VE9Ua1JkZ05kdG56YkktdXp3?oc=5",
+   "time": "2026-10-28T21:27:26+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Business Times",
    "title": "Singapore, Indonesia reach political commitment to address transboundary issues",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcTRhYnR3SWtIWHNsYzlFSkRNUWV2V3ZCX3ZtMnRTb0JnNFJzRmpMNVdoNUFKeFE2WXlkU1VtWWVYLUZkX085VnJmT0d4TGlSNXRRWldHUncwaVJ3RXZHZXlwME9MZUxyR09EN196NFFfZEo4YWVaTmFrSjcxN0xsVXJUMFhmcHRUNE9FN0JIYTlUOXlMWl9pSmhnemRqZDRFanpLanotWHc1TEpwUkpNaENBd2R6a0I3SzdXMDhBWkN2YUFSTTlJ?oc=5",
@@ -567,34 +595,6 @@
    "title": "10 firms under probe for haze-causing fires summoned to meet Singapore ministers",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcTVYcHFkal91ZFJ0OXdPbG5FRk5GSXF6alJMM0NNQ1JJTVZ6OTNSN2xDd3pUaEQ5aHY5XzMyQTd3NnRWYWdmSS1MeDd2RnQ1TWJTZS1oTG1WSUI0UU9GOWxhT2gxTS1mZG02Y3NiUXh3REFKU0dvRTJ0dHJkNVFKYVJOMWVqZkdRaXNMZV96bVgtZ01YNjZKbXFaQ1B1M2VPVGpJOHpIekxFb1pwZk84VUhwMTd3TG5HVG5VdA?oc=5",
    "time": "2026-10-28T21:08:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Companies expected to cooperate with haze investigation: Shanmugam",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
-   "time": "2026-10-28T20:59:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Singapore, Indonesia to move quickly on joint haze task force, says Vivian Balakrishnan",
-   "url": "https://www.straitstimes.com/singapore/singapore-indonesia-to-move-quickly-on-joint-haze-task-force-says-vivian-balakrishnan",
-   "time": "2026-10-28T20:30:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "PM Wong, Prabowo have communicated, committed to 'do what is necessary' to tackle issues, including haze: Vivian Balakrishnan",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQVhBZV94TG1KYzJhb2hxdEFUaFdHSmljcmdidURvZ05nV2VfWTdRSi11V2RoYkdzS09FRnEwUE1lclgzcXpncmM3OE4zblA3dDRaV0ZtQVNQbG9rTnZMeWNZRUVrdm1uQnZIMTBhNVNYSm1hemhaTDRLRjR5eWJBZG9jZ20yTTgy?oc=5",
-   "time": "2026-10-28T20:18:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Reuters",
-   "title": "Singapore central bank tells banks to monitor customers' haze risks",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUDB3VktNT2FRaFR0VGpWa0R3aWpQSDdGcVFGbzZILThYTkNFM2xyRl9wWmFJMTFLRjlFUzh0SFhLWEZ6SE1DeUFQMUJEWGxSOHozTS1HQUsxRXVoZFNrUE1Fc3pyT1k4bU1TekR3Y3BDaVE3ajNZbGU3dnNkUEx3M05HLUJfZ0xubnF5R09CTnhLbTVyY3BybWgybkprd3dTZl90eElMTFQxOUVEYjE5Z19Wb2tSQkE?oc=5",
-   "time": "2026-10-28T19:50:36+08:00",
    "summary": ""
   }
  ]
