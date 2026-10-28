@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-29T05:00:00+08:00",
+ "updated": "2026-10-29T06:00:00+08:00",
  "psi": {
   "west": 77,
   "east": 72,
-  "central": 73,
+  "central": 72,
   "south": 68,
   "north": 72
  },
  "pm25": {
-  "west": 41,
-  "east": 39,
-  "central": 18,
-  "south": 35,
+  "west": 40,
+  "east": 35,
+  "central": 26,
+  "south": 32,
   "north": 38
  },
  "hist": [
-  {
-   "t": "2026-10-27T04:00:00+08:00",
-   "psi": {
-    "west": 71,
-    "east": 64,
-    "central": 67,
-    "south": 63,
-    "north": 63
-   }
-  },
   {
    "t": "2026-10-27T05:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 72
    }
+  },
+  {
+   "t": "2026-10-29T06:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 72,
+    "central": 72,
+    "south": 68,
+    "north": 72
+   }
   }
  ],
- "newsUpdated": "2026-10-29T05:08:32+08:00",
+ "newsUpdated": "2026-10-29T06:08:37+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Commentary: Why staying indoors may not be enough when haze hits",
+   "url": "https://www.channelnewsasia.com/commentary/haze-stay-indoors-psi-health-advisory-6496071",
+   "time": "2026-10-29T06:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Companies expected to cooperate with haze investigation: Shanmugam",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
+   "time": "2026-10-29T02:42:32+08:00",
+   "summary": ""
   },
   {
    "source": "Magzter",
@@ -581,20 +595,6 @@
    "title": "Summoned to meeting with Singapore leaders, top honchos of 10 firms pledge to cooperate with haze probes",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOEN3Zy11aUkwaU5CSWlOWUVUV0xLb25zNTd3WjNGekVvN1YwbTh2M0R6S2VqUWV3TVBJY0RGM3g0bFVLUU50ejZ0WHBMNnRYQzFVUm50YUdaYUVCSkx4VFh3Y3c2cDVkdWVsQ1VUOHpHc2lUdDlaRFVZOFB3cUVZM3pfTGpsa1FfelMwdWVJRHlqdFJoNUlKVGhvZFc5SnQyOFhIRmtKa0NkczkzUWUwdUg2MDEtd2M1VzhJ?oc=5",
    "time": "2026-10-28T21:46:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "Singapore, Indonesia reach political commitment to address transboundary issues",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcTRhYnR3SWtIWHNsYzlFSkRNUWV2V3ZCX3ZtMnRTb0JnNFJzRmpMNVdoNUFKeFE2WXlkU1VtWWVYLUZkX085VnJmT0d4TGlSNXRRWldHUncwaVJ3RXZHZXlwME9MZUxyR09EN196NFFfZEo4YWVaTmFrSjcxN0xsVXJUMFhmcHRUNE9FN0JIYTlUOXlMWl9pSmhnemRqZDRFanpLanotWHc1TEpwUkpNaENBd2R6a0I3SzdXMDhBWkN2YUFSTTlJ?oc=5",
-   "time": "2026-10-28T21:27:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Online Citizen",
-   "title": "Singapore govt holds rare meeting with 10 firms flagged over haze-linked fires, securing pledges of full cooperation",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZTRDbVBvNHVQU20zTFRzdXVRb3d2MzFsZERxTlYyTUt5Um5WWllLMGhmQUpzVmFqRzdxbHZfZ0VHMXVIMHI0R0RVaXdOMkZCd2hqcEJQeUJ1cE5udXRRWGZKREwtVEdSZ2FqTDZWbXYzdTdKejJILW1PT3FQTUVhWG9SaldZUmdSbFpvRFRoZ3dseWIwR2d6SExBb1YxS3k5X0pka1BQQmlBR1FqZWZQT3E5WXZndkpSVUhyX2RuTlo4NEstOHJRZVVqOExRd21WZFY0TExmbnpKa0JUMjNBcEdHbTZSRWdwaW1F?oc=5",
-   "time": "2026-10-28T21:19:08+08:00",
    "summary": ""
   }
  ]
