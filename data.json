@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T10:00:00+08:00",
+ "updated": "2026-10-28T11:00:00+08:00",
  "psi": {
-  "west": 78,
+  "west": 79,
   "east": 74,
-  "central": 78,
+  "central": 79,
   "south": 67,
   "north": 78
  },
  "pm25": {
-  "west": 44,
-  "east": 43,
-  "central": 44,
-  "south": 23,
-  "north": 43
+  "west": 39,
+  "east": 36,
+  "central": 37,
+  "south": 27,
+  "north": 40
  },
  "hist": [
-  {
-   "t": "2026-10-26T09:00:00+08:00",
-   "psi": {
-    "west": 74,
-    "east": 74,
-    "central": 71,
-    "south": 69,
-    "north": 68
-   }
-  },
   {
    "t": "2026-10-26T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 78
    }
+  },
+  {
+   "t": "2026-10-28T11:00:00+08:00",
+   "psi": {
+    "west": 79,
+    "east": 74,
+    "central": 79,
+    "south": 67,
+    "north": 78
+   }
   }
  ],
- "newsUpdated": "2026-10-28T10:09:16+08:00",
+ "newsUpdated": "2026-10-28T11:07:24+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Philippine Canadian Inquirer",
+   "title": "Indonesia deploys emergency oxygen shelters as wildfire haze sickens thousands",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUNmdFE3R1gwdGkzQ28zLURvRDk4TTRDRFFaSnBjTG1wWTEwZnhJc0xDbHQ2WXNwc05EanR2Ui1GV0U0Q0xkaF9oRXREZE84WV9nZWduSGdSNnZXSktHcHk1Nll2bXBBanJTNUJzTVpKWXYxNmRVaW9pSm0wZGpFc0tERVNIcUJyazJGU3dWeXl2Zk1oWVVsa3M2LTdXSDlzX3FOYmF2RjBmdUY1d09XeDZiU0tnYUhfZnJZ?oc=5",
+   "time": "2026-10-28T10:59:49+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore sees continued respite from haze, with air quality remaining moderate",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSGVkWVVCVW52ZVM2M19ETVE4NnN1ZXlrOFhWNXVJYzJvSlFLOHpRclhPalFwWGkzNjJJVFZUakw3N0dXa1hEMDhsU2JEc0NFY21xYnVZX0R6VXdNbTJWVlR6WExNdlJJR01lTkNWcVZqMU9IQUN1LUFJd1hxVXBPS2xoQlJ4aFh5OUZSN1BiclI0WTVPd2YwV3QxNnBJemtxcGp2dzMtUQ?oc=5",
+   "time": "2026-10-28T10:10:48+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Singapore Business Review",
+   "title": "Government weighs need to amend laws amidst haze investigation hurdles",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS1NNODFDb1NJazNUZGtYWEVnekRhMFV2aDZodUU2eHlHU1kyMXlyT19TNzJFZVpOVXZTQ24zdy1kQVhQb3ZpUGhBMklVWDk0anpfQUtZQkt3dUx1N3NCSGFFdXZfb004V0IzWnJwNExGVjg1M3ZGV2FrNjFJQU8tRlhpcUtYQUI0Zl96cmVDS1Nrel9tWVE?oc=5",
+   "time": "2026-10-28T10:01:11+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "PM2.5 normal, PSI moderate on Oct 28 morning; afternoon showers may keep haze at bay, Singapore News",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbExXekhGeUwzSGJubWU4MUVXbzdOMG9Ya0dQZ2RZc09MaFdQczhjRDlDZG92eFBxRmdhZG9jOHF3VWxGSF8xSWtEV1k5c3NEWFVxdG1zSFgtSmlVdmIyUE8tSXFEV2JlSkFvT2p5M2FCZnVJZ0tFT0tUSnlXZV8xWTkyWGVvTFdxdEc4?oc=5",
+   "time": "2026-10-28T09:59:05+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Singapore Business Review",
+   "title": "Singapore and Indonesia to form task force against haze-linked firms",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONm02emJqeDFMSHBZRDZTWUlvRnN6RE1uT2xoZ0Zmampka0U5cG4zWXVRSF9xUWNsVmxReXI4QXE4bkcxdkJJYmxaSTBRQlpjOUhZcUpHWmRQM1dGMENLRzllZDdLYVpSTWZqT29vZWNWd2tPZmxDNTJCUU1hT1NXVWJTc0s4RzhEM0VMS2FDbXdNOUdMek9KRWpyMUQxTERycl9QeA?oc=5",
+   "time": "2026-10-28T09:49:06+08:00",
+   "summary": ""
   },
   {
    "source": "Malaysiakini",
@@ -528,13 +563,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore haze: PM2.5 readings remain normal, air quality moderate across all regions",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSGVkWVVCVW52ZVM2M19ETVE4NnN1ZXlrOFhWNXVJYzJvSlFLOHpRclhPalFwWGkzNjJJVFZUakw3N0dXa1hEMDhsU2JEc0NFY21xYnVZX0R6VXdNbTJWVlR6WExNdlJJR01lTkNWcVZqMU9IQUN1LUFJd1hxVXBPS2xoQlJ4aFh5OUZSN1BiclI0WTVPd2YwV3QxNnBJemtxcGp2dzMtUQ?oc=5",
-   "time": "2026-10-28T07:42:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "Facebook",
    "title": "OXYGEN BUS 🚎 LOOK: Residents affected by Indonesia’s forest fire haze receive oxygen from an \"oxygen bus\" from the government.�� Indonesia is currently experiencing its most intense wildfire since 2015. Courtesy: Arief Rahman Septian Prathama via Re",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGEzREEwVTY1OXg1ZkotX2ppM2dsLTdzZnJ0UE9fdkZrYjljOHhTUm5yak4xaDFsaDRHNllaWmVLaFlQNldZNlVCOEpVTGh2ZG5aT0lBcXN4ajY4ZzNIWC1BTmFSVi1mTXJRLTR3QVZiZEF5V0YyY3Q0TlROZmVERmhDRU90ZDRBQkNzbmEtT0VSdGFiczNXdWlGdndFZW5XRVJpeUo1RHJDbXlsUGVJYWFnMGlUZTM1cHNoOElZWHpaQ0VyRE9KR2VMb0laLUtQYVBZ?oc=5",
@@ -549,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "Daily Excelsior",
+   "title": "Singapore and Indonesia set up a task force to combat haze from illegal burning",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbDI4ejVnZXNIWXc5Mmg5bkpqdzRJeXp0Vi0tVFZjY2NONVlxM3FDdDlGQzdlYjU2ei12bXBfZmtIWlNVdkNkV0VOZHQ1N1MxN2hYNzB6SFFEaWltczF1UzJSX1VZNGUxT25weWxSd2hYVmRmLTFnSXNfYTRwQlY3UmFFNlZLMWVIN05BcVBmYXRTNEN2TFE2S2JuTW9ILWo3YmdrM19tYS11VzhkeExrNllIb1DSAbQBQVVfeXFMUGwyOHo1Z2VzSFl3OTJoOW5Kanc0SXl6dFYtLVRWY2NjTjVZcTNxQ3Q5RkM3ZWI1Nnotdm1wX2ZrSFpTVXZDZFdFTmR0NTdTMTdoWDcwekhRRGlpbXMxdVMyUl9VWTRlMU9ucHlsUndoWFZkZi0xZ0lzX2E0cEJWN1JhRTZWSzFlSDdOQXFQZmF0UzRDdkxRNktibk1vSC1qN2JnazNfbWEtdVc4ZHhMazZZSG9Q?oc=5",
+   "time": "2026-10-28T06:51:18+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "Air quality continues to improve across Singapore",
    "url": "https://www.straitstimes.com/singapore/environment/air-quality-continues-to-improve-across-singapore",
@@ -560,41 +595,6 @@
    "title": "Singapore, Indonesia seek joint task force on haze",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYm90SWU0c3VzTVdiX0Q1ZEd3LTNRWk1DSHhjS3ZOYmxmXy1JUmtaWXUtQlZiek15YmQ3T1Awck95Q05US1NlVy01eE1DdTdlSTVoT1hYNzljZ1BvR3ZHekF0N1drQmZ5YUpZa2hRd1Y5YVpHNHItSkZWMVpyVVJMWFFHUktxbjQ?oc=5",
    "time": "2026-10-28T04:01:07+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mirage News",
-   "title": "Indonesia's Protest Queens Go Viral Over Haze, Climate and Costs",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPazRVQVV0Z1BDcUE1YmtnY19ScV95REFmQkt6MUduVVRvRG9GWl9KSTh1Q01yOHVPeGwyN2VWYjl3bUs0SEdIdFd5T3FhU0dzWmNEaEJGR3ZNdEdvZXlQN2wwcVpEekcxdFVqM3BXczZTNVBsZUV3dTl6LWdGWFNiNlNucWs3NUE?oc=5",
-   "time": "2026-10-28T02:42:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Rain brings temporary relief as Southeast Asia battles fires and toxic haze",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0NQTjc3cERiRU9NdlZvVmoyTmRhc1JCaXYwUTBGRFdtOU03QnBWU01SVHdYdi0yQTVpMThrZTFFSlQ0Zlh1QXduU3BqZmswSmR1WWE5dWpmN3F6ZVUwNnFUbmRDV0pEczA5MUs5R3JKUjhkS1NjSUdwQ1E1OTdFY0JMUVVrQXlLVzRJMG1MUnlLZWt1WkMxN2VfT1FDb284TUxEQtIBqgFBVV95cUxNUktuWnBkQlhPV1FqeEc3WG1WLTI5SkZmZFI5aHpPNWcyT0htNUQ3THExdGhqTzFlbFZBWG9lRnJYX0NVUE1ZNkFmT19tSFlzcEFoUGRZdlpvSi1IdWV2cF90VkhIcjdhYU5rdElpWHYyWUpXV2V3eTB4SGhYeFAzai1IN2VNNThxU2lkOTVQeE1ndm0ySlpQb25kVzNLSlQ3SW9adjRQRU1RUQ?oc=5",
-   "time": "2026-10-28T02:41:58+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kuwait Times",
-   "title": "Indonesia, Singapore FMs meet amid spat over haze, gas",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbW4yRTk1UmdvVEN1QWJFYi0yWmdDR3BvNTZCNDg2RmtmQTBOdFp0SjItdWp3N3VLZ0xVQjV1OWhvTE9kaU1yYkxVMk1FRFAteHh3TG83MjVDV3E0aUZBYjV2UnFCbmRrMV9SdVJXRkI2QVoySFNmTWVwQXBNVlVGWU5nZHFkV2FrcFBTWXpJcmZNN3JQemlJd0hhUHFZeWZscHfSAaIBQVVfeXFMUG1uMkU5NVJnb1RDdUFiRWItMlpnQ0dwbzU2QjQ4NkZrZkEwTnRadEoyLXVqdzd1S2dMVUI1dTlob0xPZGlNcmJMVTJNRURQLXh4d0xvNzI1Q1dxNGlGQWI1dlJxQm5kazFfUnVSV0ZCNkFaMkhTZk1lcEFwTVZVRllOZ2RxZFdha3BQU1l6SXJmTTdyUHppSXdIYVBxWXlmbHB3?oc=5",
-   "time": "2026-10-28T02:26:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Greenpeace",
-   "title": "Indonesia’s protest ‘queens’ are a viral sensation. Here’s why their message on haze, climate and cost of living hits the spot",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYy1PVzZ0ZEIzT0FlbEJJeUNtSHhScjNrT0Q5eDJDc1A0NlVCdlZLSzdTaDVSSU1YZVVtdlZaZGs3Z2JtQ21mOG83RTJkeUZDZ1dDTHE0N0NmenNrNkZleUpGMXhKNmd0RW9BS1VvZ21mdjZLakJGM2twTG1BQS10cENlNFZUTEhrU013ZjJGTVRmN01NQ2Z0WEpZVmZpOU9yUkJNOEllMA?oc=5",
-   "time": "2026-10-28T02:09:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Firstpost",
-   "title": "'Don't Dare Us': Indonesia, Singapore Feud Turns Ugly Over Gas, Haze & Market Crash | Vantage",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM1lyeXVFQ0RmMXdwcjRBNTlhem1oaXpiS2pOMWhaS1JCU2s0d01uRGp6cG1QVXNwU0lkQ2stOTJqLWc2cnJHc2ZEN0JyTkpXQ0Z6V2hyQkhHUWNnZXdIeTRINmZia1EzSzV5VEF2dXlWRjNCVUxFcVBlcjBXbzBRcmE3V3RrazJwcXh6NWphVnhjcGdDTk1tSzU4UHliZWhfNnRrcFdwaGp1NVFDbTJpZGU0ZlRXWUhVcDJvaFVianhYTEYxZmFN0gHMAUFVX3lxTE1XTDQtdHdPaUFnb1BQMmUzSDQ0OXQtMVJ1R1JxZWh3alR1TVFjZUE4Qm5BTnUtc0dzNXIyY0VCSUlnaDlHbmZDX0lRZGFqaHc3c09iMFota3JPa1NOWFdHVGhDN3JQbTE1eUNDbHU5cDRGVjdsVFVDVklFRnM5NlBzT1JmNl9WZzJ5T3hqcWJTNG1yZXNnU2M2LXBFbUk1cDc1WVE1NGlkOTM0ZnExZklodVZEbjBKOXppUWRLTUpReTFtcWF3aEFZR216cg?oc=5",
-   "time": "2026-10-28T01:41:40+08:00",
    "summary": ""
   }
  ]
