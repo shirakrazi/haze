@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T15:00:00+08:00",
+ "updated": "2026-10-28T16:00:00+08:00",
  "psi": {
-  "west": 79,
+  "west": 78,
   "east": 73,
   "central": 79,
   "south": 66,
-  "north": 77
+  "north": 75
  },
  "pm25": {
-  "west": 47,
+  "west": 32,
   "east": 32,
-  "central": 31,
-  "south": 13,
-  "north": 23
+  "central": 34,
+  "south": 22,
+  "north": 27
  },
  "hist": [
-  {
-   "t": "2026-10-26T14:00:00+08:00",
-   "psi": {
-    "west": 72,
-    "east": 71,
-    "central": 70,
-    "south": 67,
-    "north": 66
-   }
-  },
   {
    "t": "2026-10-26T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 66,
     "north": 77
    }
+  },
+  {
+   "t": "2026-10-28T16:00:00+08:00",
+   "psi": {
+    "west": 78,
+    "east": 73,
+    "central": 79,
+    "south": 66,
+    "north": 75
+   }
   }
  ],
- "newsUpdated": "2026-10-28T15:12:09+08:00",
+ "newsUpdated": "2026-10-28T16:08:06+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Star",
+   "title": "Haze: FMM urges regional action to protect health, productivity",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQzE4cjBFNF8zbDg2UzExeUM1X3VuazlPb3I1S3J5OUlOTEUtMnZfeGJRNHp2LWhQT1prYklJRDNHY2NRa3gtb3NNSHZhUVdaZTBYRkgxV1htSFpOanBqU1o2VlpsWDV2QlNLWmNsb213T3pZWGZQdTFzbDRFXy1iYTBFTUoybnNrdDlqSVVuc1V1dXhselFyUHhRNHpUYk1lUzlyM0pmM0hzSmlZUmdiYw?oc=5",
+   "time": "2026-10-28T15:38:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -588,13 +595,6 @@
    "title": "Indonesia deploys emergency oxygen shelters as wildfire haze sickens thousands",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUNmdFE3R1gwdGkzQ28zLURvRDk4TTRDRFFaSnBjTG1wWTEwZnhJc0xDbHQ2WXNwc05EanR2Ui1GV0U0Q0xkaF9oRXREZE84WV9nZWduSGdSNnZXSktHcHk1Nll2bXBBanJTNUJzTVpKWXYxNmRVaW9pSm0wZGpFc0tERVNIcUJyazJGU3dWeXl2Zk1oWVVsa3M2LTdXSDlzX3FOYmF2RjBmdUY1d09XeDZiU0tnYUhfZnJZ?oc=5",
    "time": "2026-10-28T10:59:49+08:00",
-   "summary": ""
-  },
-  {
-   "source": "chinadailyhk",
-   "title": "Indonesia, Singapore agree to form task force to tackle haze-linked wildfire firms",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15WVF0NnhPWDFHWnF6OERJT2dxOHUzczRnX2k2RHI5bE1yX2lRalJucVhHTmdhcGZpdmtmSWo4eGtIX0tJNnY4ZUZteDBjSW03cGtqU1A3LUg?oc=5",
-   "time": "2026-10-28T10:53:57+08:00",
    "summary": ""
   }
  ]
