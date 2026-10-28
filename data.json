@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-29T03:00:00+08:00",
+ "updated": "2026-10-29T04:00:00+08:00",
  "psi": {
   "west": 77,
-  "east": 72,
-  "central": 75,
+  "east": 71,
+  "central": 74,
   "south": 67,
-  "north": 72
+  "north": 71
  },
  "pm25": {
-  "west": 33,
-  "east": 35,
-  "central": 27,
-  "south": 34,
-  "north": 37
+  "west": 37,
+  "east": 32,
+  "central": 18,
+  "south": 37,
+  "north": 33
  },
  "hist": [
-  {
-   "t": "2026-10-27T02:00:00+08:00",
-   "psi": {
-    "west": 72,
-    "east": 65,
-    "central": 67,
-    "south": 63,
-    "north": 64
-   }
-  },
   {
    "t": "2026-10-27T03:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 72
    }
+  },
+  {
+   "t": "2026-10-29T04:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 71,
+    "central": 74,
+    "south": 67,
+    "north": 71
+   }
   }
  ],
- "newsUpdated": "2026-10-29T03:07:58+08:00",
+ "newsUpdated": "2026-10-29T04:08:04+08:00",
  "news": [
   {
    "source": "CNA",
@@ -542,6 +542,13 @@
    "summary": ""
   },
   {
+   "source": "Bilyonaryo Business",
+   "title": "Singapore warns banks to cut financing ties with firms linked to Indonesia haze",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcjh6dkttZW1yOTZmS2V3SDRaRVJhaWtITDF4MUI0cGZHWlo0X05ZZDM5VTF6MVR6RnVodThYT05nNnp0M3hsTW1jeFpQempTaG9BbGZPQ01HdUZiWktQcWREb2djaFl0YXR1UExQbDNkZklYVDZNRnQyc2x6WGg3X1VxUjJ1TGxZTFVZdXZrYnhLM3N3VE9Ua1JkZ05kdG56YkktdXp3?oc=5",
+   "time": "2026-10-28T22:46:55+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Singapore to introduce new laws to investigate companies linked to haze",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVjFWbXNIS19TWU1kQURaNEdKallqX1AtSmNJYWJCNGd2eERaYmpUNG5qbmJMbUF6WmRkWWxMUVJpREFvTDF1ZEVzR3BsdUQ5QnluNEpwTDlmd2VVbVJEWmNZMl9ncVNxYVZVYlNYWXlycnNwNHFtWXhseG00LVQ0SnZaX1hCU2pVQmE3VnJERTQzRzE2MmgyZkdDd3d6aUd1My1uT20zMExYYnpH?oc=5",
@@ -574,13 +581,6 @@
    "title": "Summoned to meeting with Singapore leaders, top honchos of 10 firms pledge to cooperate with haze probes",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOEN3Zy11aUkwaU5CSWlOWUVUV0xLb25zNTd3WjNGekVvN1YwbTh2M0R6S2VqUWV3TVBJY0RGM3g0bFVLUU50ejZ0WHBMNnRYQzFVUm50YUdaYUVCSkx4VFh3Y3c2cDVkdWVsQ1VUOHpHc2lUdDlaRFVZOFB3cUVZM3pfTGpsa1FfelMwdWVJRHlqdFJoNUlKVGhvZFc5SnQyOFhIRmtKa0NkczkzUWUwdUg2MDEtd2M1VzhJ?oc=5",
    "time": "2026-10-28T21:46:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bilyonaryo Business",
-   "title": "Singapore warns banks to cut financing ties with firms linked to Indonesia haze",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcjh6dkttZW1yOTZmS2V3SDRaRVJhaWtITDF4MUI0cGZHWlo0X05ZZDM5VTF6MVR6RnVodThYT05nNnp0M3hsTW1jeFpQempTaG9BbGZPQ01HdUZiWktQcWREb2djaFl0YXR1UExQbDNkZklYVDZNRnQyc2x6WGg3X1VxUjJ1TGxZTFVZdXZrYnhLM3N3VE9Ua1JkZ05kdG56YkktdXp3?oc=5",
-   "time": "2026-10-28T21:27:26+08:00",
    "summary": ""
   },
   {
