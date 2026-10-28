@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T16:00:00+08:00",
+ "updated": "2026-10-28T17:00:00+08:00",
  "psi": {
   "west": 78,
   "east": 73,
-  "central": 79,
+  "central": 78,
   "south": 66,
-  "north": 75
+  "north": 73
  },
  "pm25": {
-  "west": 32,
-  "east": 32,
-  "central": 34,
-  "south": 22,
-  "north": 27
+  "west": 27,
+  "east": 26,
+  "central": 27,
+  "south": 26,
+  "north": 13
  },
  "hist": [
-  {
-   "t": "2026-10-26T15:00:00+08:00",
-   "psi": {
-    "west": 72,
-    "east": 71,
-    "central": 71,
-    "south": 67,
-    "north": 66
-   }
-  },
   {
    "t": "2026-10-26T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 66,
     "north": 75
    }
+  },
+  {
+   "t": "2026-10-28T17:00:00+08:00",
+   "psi": {
+    "west": 78,
+    "east": 73,
+    "central": 78,
+    "south": 66,
+    "north": 73
+   }
   }
  ],
- "newsUpdated": "2026-10-28T16:08:06+08:00",
+ "newsUpdated": "2026-10-28T17:07:51+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,55 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Summoned to meeting with Singapore leaders, top honchos of 10 firms pledge to cooperate with haze probes",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbVNYeGlpLUlLNU1EbkllU01vcy1MUkZJZzdfc1A1U1JzN0RLMXRrbGxiTHktN29LWkxDcnJseVdzSkRyZWpUa0RveVFya3RDM05rdW1FendhY0k2RzlIYjA1R2Ixd3ZISHlZcGlnLUxtMllhM21UQ052cUZpMTk5SlZKc282ZWpfTFpFUk93eGNZU0c0THc?oc=5",
+   "time": "2026-10-28T17:00:02+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Govt to propose changes to haze law in Parliament; firms linked to fires must give up access to info",
+   "url": "https://www.straitstimes.com/singapore/govt-to-propose-changes-to-haze-law-in-parliament-firms-linked-to-fires-must-give-up-access-to-info",
+   "time": "2026-10-28T17:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "'Government taking this matter seriously and is determined to act': Shanmugam on haze situation",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYUNRdjJ1MFc0aktRSC1yNDk3cnB2NlNtYVU4dUk0bmxCbnU2ZFl2V3JQSzVqNXlYLWMxYzZ5R3YxR2lJMEpGUzU5Z0dJUXRwbzlVMC1KS05wdzBmMW9MUnRTTUNQOUZva2lBQ3RQSFlxdnVhMksyMlBsSzZaa1V5cTRqRFRKUQ?oc=5",
+   "time": "2026-10-28T17:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Latest news from Azerbaijan",
+   "title": "Indonesia, Singapore launch joint task force to tackle toxic haze",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN3dXTVBuMlZYQTFOcHlBSDdhRUxDaFN1eTBLQ1NPQ0lxRGVzT3dISmtrcWxYa0x3U0xBUzhBbk1BOEpYVklYNWY3NXFDZHdoQVhCRUV2VmxZcmdhN0p2c2NRR0hvcXFkdGl2ZGhvS2pjeWZVNEZpVXl4em1ZSENnRmpKWXgyMURfZG1faklB?oc=5",
+   "time": "2026-10-28T16:58:04+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Sun Malaysia",
+   "title": "Govt mulls dedicated fund to assist Malaysians affected by transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnA4OUZRWUZESG9BRUJpRGl5ZllxU3paSjNhWEFSdjNDeVdXUTUyaWRaTFFuUU9iU2xYbWRBTk5HbzFHUmFvelBVVlJQTHhQdzlOMURBc01GUEN5TzBCVnZVQy02emxYVGNzWFVYb0VpaXpMVk1wREhreDhUU2g3d2NBV3dvYnBSSVc4Z0o5TWFzbUVPY3JVS0FmdFV3LVhTVTcw?oc=5",
+   "time": "2026-10-28T16:24:32+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Who’s behind the haze? No conclusive evidence linking Malaysian firms to Indonesia fires, says Arthur Kurup",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWFlwRlJPZXhFZl9vQlE3cU96dGdUUUJHVmlvaHo3Rm01LVBheWNObUlOMFlJRFd4SS1MUlRtdGx6ZTJGS0pXb0hUZ0FQa09yTTlxNVRfV0NQb052OU5lM29LNHZqejlXM2RhRXhEdGRfQzU3cjJQSWUwWHlTVHhSSWNyVGM4T2s2QTU4a3Foam1KeWd4NnJ5Qm1BdjNnN25lYURzdWNwN2Y1ZUw1YzU4ejN4bUxwbjNvOWtpUmdyTUhTUUh2S1RtakN6NHBpM1VaRXkzMHNUdVJhTXJQU1VCV2hiNzZsaVAzbW9RWE9USzVfYnct0gH6AUFVX3lxTFBEbVhCYnV2eThmb0dabkRmX2E2YWVRVzd4WjdoMm9od0JOOUg5ZWtIRk5tY08yTzVySGtZbG82ZWJBZHhMTk1sRDIzTndxdm1MRWlLc0R3U2c4WUduSTZqZ0F4TWRXNWhPTkJDRUNJV3VNb3ZfcFVDRmllMUFxU0RGb04wUFpXd0IyR2JnZHZvU3BSQVB1N1VtS2p0T2hTVlEtWWx6a2J3ODlsN2Z6RThrNWZrWHlFdWh6WVMyNFJiQzhueXJuMVpMUGdEOGI1cldaa1NBam9ZaXRvaTdhcEpTbDcxSDgwYjJCWHdBZHBNNmhKTE1mdThKV3c?oc=5",
+   "time": "2026-10-28T16:18:12+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "Singapore Air Quality Stays Moderate: What to Expect Next",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXZ1X3U5aDRadzRBR2c3N25DUEVjdzE5c3gwN1dCeG1SemJ5cGhwbndvRVhySFNheVZJTXJEWEhSTGx0a3RwOVZkbm5yRU45UWI2Um1iMkVrTVhYbVlmc25odEQxYkVWcURpSmcwZUlwZEgtemVWQ3ZSWU9SSFVCNUk2VmhXODZZNjFzbk1pbjZYaXc?oc=5",
+   "time": "2026-10-28T16:17:31+08:00",
+   "summary": ""
   },
   {
    "source": "The Star",
@@ -546,55 +595,6 @@
    "title": "Singapore plans tougher laws to hold companies accountable for transboundary haze",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMXRYd3hwWGNuXzRjU2c0bXM1WW9UOFE2MHFkclhlRlQta0I2Y1VRMGZGQnR6c3prQzZFb3J0WnhCZXlHYmFwZ3F0SUhRdG5jVUMyTG1UdnJ6S2k5RXl0VHE1LXFRZ3lES3NTYmlpUGtIYm1CbzFpZHRfWVZlSWFvOWRJNVVaVy1PSk8xNS1IWjZUbXAyUS1FTTRRSnU1bWZrem9qVw?oc=5",
    "time": "2026-10-28T13:29:39+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Singapore",
-   "title": "RegCo issues additional queries to SGX-listed companies with links to haze",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR25falRnNDhJRHhMd2oxaTdUOGFnVzZLZ0xPR3otZERER3hwc3JQeHpMb1Rza3l0cEFjeFduQUstUTVCNHdBRDYzaGdaSzA5Vk1XcVBmWTlkZ2xjR09iS2pfREMwVEZJV3NhWW1IR3lMLWRGUWxGbUFQMkYtMHdDZ040ZzZERmhPY2FYMWtvcmhvTEhEOENRZTlmc0ttN3JBaW01WDJqZ2prSGhaOXFqb3JFMUFnU1ZzU05CRnFn?oc=5",
-   "time": "2026-10-28T13:11:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Haze: No evidence linking M'sian firms to Kalimantan fires, says Arthur",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWmFXNnQ4NDFOcjNXQ0tDMnZQRGg5Q2xCTmtvcm9DSlFYY3phWmhWMTZxLThRZmJ2QzJCb0NaRVZwMi1lQ0RRQUd2WlgxSG8tYXM4VXFHQnM3V1I3Mm95UTNoT2xXLXdkOWF0WnEwWmlKeTVpTHYwVlM0WGZDLTNVbmQzZDQ2U21sUUxaVWQ4WWlFcUdhRzBzb2twYjREcFQ2clFkX01mZ0NyM3BfQ2p2TUlrU2t2dThXb0k5Rmln?oc=5",
-   "time": "2026-10-28T12:55:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore sees continued respite from haze, with air quality remaining moderate",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSGVkWVVCVW52ZVM2M19ETVE4NnN1ZXlrOFhWNXVJYzJvSlFLOHpRclhPalFwWGkzNjJJVFZUakw3N0dXa1hEMDhsU2JEc0NFY21xYnVZX0R6VXdNbTJWVlR6WExNdlJJR01lTkNWcVZqMU9IQUN1LUFJd1hxVXBPS2xoQlJ4aFh5OUZSN1BiclI0WTVPd2YwV3QxNnBJemtxcGp2dzMtUQ?oc=5",
-   "time": "2026-10-28T11:56:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Yahoo News Singapore",
-   "title": "Runners swap streets for shopping malls as haze chokes Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMnF5d0VzQkE3eWFSazNSWnFSSTBiMWdFdk9qYmx1MHJqYlNDd04tb2pwWHVHTGlMd1k2Z3o1R3p4OEFIbUZUaHVjazVUNDRQQkdxYnBhbzBxRjI5bWdhaXJURTJYMkk2SXN3M1hkQU5PVUlJXzkzSFRlRndfdl91SXN3?oc=5",
-   "time": "2026-10-28T11:26:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The West Australian",
-   "title": "Haze causes change of plans in Kuala Lumpur",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVGU5VWZaZ096V0staHdkamxiMnNsOE8zQ09zdGhzOXVXM3VKVmtuZ1ExWEpvOWNGajFSNENWZ3JwTE11bGg1NEFJVVdQUEZXeWxsUm43Ti1KX0V3SkM1bEoxdXRuUE1UMGRVUnlsQkZ3cTR0al8wWnVOWlJjNlBRSTVPenR0R3FRS1UyX9IBkgFBVV95cUxOQ0FQWlFQTXQxVjdyZXFFZWNydk4xbDJkOU84b1BKVFhCRF92Q2V2SEtHMzBxd2hQcnlVRTl3cjA2YW5KVFhKNDYwb2hzQk9oeFM1T1cxbDVVY2JtakpaRzRuemtvLWpJa3VJd1ZWYk5tUEJhNENBdEhDMDdDYmNGQkJqd1M3WXJUNzZhejFvNjJHZw?oc=5",
-   "time": "2026-10-28T11:23:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Indonesian firefighters celebrate as first rains bring relief to haze-hit regions",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY1JleXk4RGNnY2lxUHNPbjBfN1laVlZZcW9NQlk0dzJ6Y2poMmFNakl1ZUtWVlJadGF4Z1UwSEVyMHoyN0dkZi1FaElNRWFOczZNZE5CUmloZFY4cU1VRnpIRkI5T3FUQmVXLTl2bzZkckZlYUdFVGtOTmVvenFLUm9pa2hPN01TTXhJcnVvUVROY0FXQUpIQ0lRWlBfajE1Z1Ewc2phVnM0X3pDeTctUTktM213eUo2cElzVzBFRWtWRG1FaHRuWmg2ODVjOHk2M05SUlE5WnpiT2hYT3ZTeU02YjU?oc=5",
-   "time": "2026-10-28T11:22:04+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Philippine Canadian Inquirer",
-   "title": "Indonesia deploys emergency oxygen shelters as wildfire haze sickens thousands",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUNmdFE3R1gwdGkzQ28zLURvRDk4TTRDRFFaSnBjTG1wWTEwZnhJc0xDbHQ2WXNwc05EanR2Ui1GV0U0Q0xkaF9oRXREZE84WV9nZWduSGdSNnZXSktHcHk1Nll2bXBBanJTNUJzTVpKWXYxNmRVaW9pSm0wZGpFc0tERVNIcUJyazJGU3dWeXl2Zk1oWVVsa3M2LTdXSDlzX3FOYmF2RjBmdUY1d09XeDZiU0tnYUhfZnJZ?oc=5",
-   "time": "2026-10-28T10:59:49+08:00",
    "summary": ""
   }
  ]
