@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-29T02:00:00+08:00",
+ "updated": "2026-10-29T03:00:00+08:00",
  "psi": {
-  "west": 78,
-  "east": 71,
+  "west": 77,
+  "east": 72,
   "central": 75,
-  "south": 66,
+  "south": 67,
   "north": 72
  },
  "pm25": {
   "west": 33,
-  "east": 32,
-  "central": 25,
-  "south": 19,
-  "north": 32
+  "east": 35,
+  "central": 27,
+  "south": 34,
+  "north": 37
  },
  "hist": [
-  {
-   "t": "2026-10-27T01:00:00+08:00",
-   "psi": {
-    "west": 72,
-    "east": 65,
-    "central": 67,
-    "south": 62,
-    "north": 64
-   }
-  },
   {
    "t": "2026-10-27T02:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 66,
     "north": 72
    }
+  },
+  {
+   "t": "2026-10-29T03:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 72,
+    "central": 75,
+    "south": 67,
+    "north": 72
+   }
   }
  ],
- "newsUpdated": "2026-10-29T02:09:17+08:00",
+ "newsUpdated": "2026-10-29T03:07:58+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Magzter",
+   "title": "Singapore and Indonesia set up a task force to combat haze from illegal burning | Manila Bulletin - newspaper",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ3ZlRnhUX3RuUzVvWGRudVFYVEppTzBfZGhhTG5STUw5a0ZpVHZjWVJvN3lucXVNZUZkTkQwUTI3T21BbHdYYTAwNkRfWkdLV3VvR0o4Yk1oTlJkT3pRN1J2V29KdGNTWHNMTlpraFNya1Y0aVpGc1lRQmZiQnMwakRsTHVvaHdrMEg3ZWRTTVdaSlBVRlRLcmQtUG5rdWE0cEN4V0c1VzRSbGFULWRKNGZBcVU0TzdpaUpaQ2RnV3ppQm9aSWJWWndyRmdONk10RHNz?oc=5",
+   "time": "2026-10-29T00:02:23+08:00",
+   "summary": ""
   },
   {
    "source": "Retail News Asia",
@@ -588,13 +595,6 @@
    "title": "Singapore govt holds rare meeting with 10 firms flagged over haze-linked fires, securing pledges of full cooperation",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZTRDbVBvNHVQU20zTFRzdXVRb3d2MzFsZERxTlYyTUt5Um5WWllLMGhmQUpzVmFqRzdxbHZfZ0VHMXVIMHI0R0RVaXdOMkZCd2hqcEJQeUJ1cE5udXRRWGZKREwtVEdSZ2FqTDZWbXYzdTdKejJILW1PT3FQTUVhWG9SaldZUmdSbFpvRFRoZ3dseWIwR2d6SExBb1YxS3k5X0pka1BQQmlBR1FqZWZQT3E5WXZndkpSVUhyX2RuTlo4NEstOHJRZVVqOExRd21WZFY0TExmbnpKa0JUMjNBcEdHbTZSRWdwaW1F?oc=5",
    "time": "2026-10-28T21:19:08+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "10 firms under probe for haze-causing fires summoned to meet Singapore ministers",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcTVYcHFkal91ZFJ0OXdPbG5FRk5GSXF6alJMM0NNQ1JJTVZ6OTNSN2xDd3pUaEQ5aHY5XzMyQTd3NnRWYWdmSS1MeDd2RnQ1TWJTZS1oTG1WSUI0UU9GOWxhT2gxTS1mZG02Y3NiUXh3REFKU0dvRTJ0dHJkNVFKYVJOMWVqZkdRaXNMZV96bVgtZ01YNjZKbXFaQ1B1M2VPVGpJOHpIekxFb1pwZk84VUhwMTd3TG5HVG5VdA?oc=5",
-   "time": "2026-10-28T21:08:45+08:00",
    "summary": ""
   }
  ]
