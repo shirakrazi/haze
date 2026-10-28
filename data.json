@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-29T06:00:00+08:00",
+ "updated": "2026-10-29T07:00:00+08:00",
  "psi": {
   "west": 77,
   "east": 72,
-  "central": 72,
+  "central": 71,
   "south": 68,
   "north": 72
  },
  "pm25": {
-  "west": 40,
-  "east": 35,
-  "central": 26,
-  "south": 32,
+  "west": 37,
+  "east": 32,
+  "central": 29,
+  "south": 33,
   "north": 38
  },
  "hist": [
-  {
-   "t": "2026-10-27T05:00:00+08:00",
-   "psi": {
-    "west": 71,
-    "east": 63,
-    "central": 66,
-    "south": 63,
-    "north": 63
-   }
-  },
   {
    "t": "2026-10-27T07:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 72
    }
+  },
+  {
+   "t": "2026-10-29T07:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 72,
+    "central": 71,
+    "south": 68,
+    "north": 72
+   }
   }
  ],
- "newsUpdated": "2026-10-29T06:08:37+08:00",
+ "newsUpdated": "2026-10-29T07:08:17+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,31 @@
    "pinned": true
   },
   {
+   "source": "Yahoo",
+   "title": "Malaysia’s latest haze cost RM8b in welfare losses, may have led to 1,700 deaths, report finds",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHVTaFhjR2d6bWFnLXNvdU9ucl9JbXAxbDJtOEJnS1RoRzZfYVk5V2otRlcyTW5EWjl4TzRkRTZxTjdaLTNMcXhTUW53ZmlmR1NJMWgxNjlwNm5hTWdQNS14TncyUjlrdmt3bi14MjBKeC1SQTgyMlVUX3E5YVJKcmlucw?oc=5",
+   "time": "2026-10-29T07:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yahoo",
+   "title": "FMM report: Haze cost some Malaysian firms about RM280,000 in masks, medical expenses",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa050Z2pUTk8xcVRoSTFDM2RkRGxGUTVUT3k3RGl0VF84NTBZd3liRi1fXzJHSTBfOU9RejZDOVcwMDFKcFlTRnREMTdyMDhwLWtYUWhsUjdWUmdtYUNTY2JlN3d3cW5zVGlCVERqV09oalVrcXhJQnNXc1RMOU9McVdWOA?oc=5",
+   "time": "2026-10-29T07:00:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Commentary: Why staying indoors may not be enough when haze hits",
    "url": "https://www.channelnewsasia.com/commentary/haze-stay-indoors-psi-health-advisory-6496071",
    "time": "2026-10-29T06:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Inquirer.net",
+   "title": "Haze drives Singapore runners to shopping malls",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY2xkUWFDRGZZY1pNS3pzWjBZc3B5dmlYckRvbFF5aWpyQ1lHYmE4RndJWkxJemJYazJxM2ZSRHpXNS1WRjV2bndsOGFoTlFIRDM0cXc0dE1EZVM2MjAxbThQZFNLRzFUaHRBRVpoeWdNVzEtQXkwRkdnMkJsTl81WXllcGpzRUV6YUdoYUVNc1RiejF0cEtr0gGXAUFVX3lxTE9jbGRRYUNEZlljWk1LenNaMFlzcHl2aVhyRG9sUXlpanJDWUdiYThGd0laTEl6YlhrMnEzZlJEelc1LVZGNXZud2w4YWhOUUhEMzRxdzR0TURlUzYyMDFtOFBkU0tHMVRodEFFWmh5Z01XMS1BeTBGR2cyQmxOXzVZeWVwanNFRXphR2hhRU1zVGJ6MXRwS2s?oc=5",
+   "time": "2026-10-29T05:50:03+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "S'pore calls up top officials of firms with haze links, warns them to cooperate",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcHdoZlVWZEpyamMtOHdwemhZMUpna3FSa0pnRHQ2UVlyaEZlckNKbVJIcS0zRkh1ZFBZT0ZZamdmQ244X2RwLXlMYW5pdGpEZHdsOXdsRnlYQldkaTlVVFhoY0pvRFNpSjl2Vlo3ZDc1WjBGVldaSElleWZjTDFZZFhZQlY4UE9PRDhpbUI3OGZfd3Z5NFA3Ni11UURLdExpeTlPWHA5TXhVcUhVV3N5bU0xTHk5aU1nR2c?oc=5",
    "time": "2026-10-28T22:21:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Banks expected to take appropriate measures on firms linked to haze-related activities: MAS, Singapore News",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWl95MGp4MmtsTm5MR1BiTmlZOENzd3dQaVNfWmdkVm10U0NYMHN1VnMzTHRRSDFDWWp3cFlrM1EyczJmSG8wSlNqMjNGc2dGMW9PQlQyWVFKb3VjT1BObUpCT3kwa2MxVnJJWGk1cENYWnBmMnh4eUc0cHR3NGNEVGt2bjJJazZac1l4RlMwN25kV1BrSmkzYl9LRUhFOFZRU05aNl9pSXdYZkUzTFE?oc=5",
-   "time": "2026-10-28T22:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Thousands of protesters rally in Jakarta against haze, rising living costs",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnRBVF9yUDhQMEdFU01SbWN5LTB4U3JiN3ZUSkhwUFh1SXN2S1RDR29lUjExUDZWd3RjR1h5WHpscDBjR05tSFFfenJ6TTFEajVmTUxPNURXZjY3cndNaFY1X0Rkckdlb0gyOG94ZzdnMkh4YndIZ1JjWS1Wa3pqYmlXd09adkNmNUIzZjlfR0E4QjZuVFNfRHZKUDBDajBYdkYyZ3VSYWRfeGxFSThGREtJdnB0dw?oc=5",
-   "time": "2026-10-28T21:50:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Summoned to meeting with Singapore leaders, top honchos of 10 firms pledge to cooperate with haze probes",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOEN3Zy11aUkwaU5CSWlOWUVUV0xLb25zNTd3WjNGekVvN1YwbTh2M0R6S2VqUWV3TVBJY0RGM3g0bFVLUU50ejZ0WHBMNnRYQzFVUm50YUdaYUVCSkx4VFh3Y3c2cDVkdWVsQ1VUOHpHc2lUdDlaRFVZOFB3cUVZM3pfTGpsa1FfelMwdWVJRHlqdFJoNUlKVGhvZFc5SnQyOFhIRmtKa0NkczkzUWUwdUg2MDEtd2M1VzhJ?oc=5",
-   "time": "2026-10-28T21:46:06+08:00",
    "summary": ""
   }
  ]
