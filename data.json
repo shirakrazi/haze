@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T11:00:00+08:00",
+ "updated": "2026-10-28T12:00:00+08:00",
  "psi": {
   "west": 79,
   "east": 74,
   "central": 79,
   "south": 67,
-  "north": 78
+  "north": 79
  },
  "pm25": {
-  "west": 39,
-  "east": 36,
-  "central": 37,
-  "south": 27,
-  "north": 40
+  "west": 38,
+  "east": 26,
+  "central": 35,
+  "south": 32,
+  "north": 34
  },
  "hist": [
-  {
-   "t": "2026-10-26T10:00:00+08:00",
-   "psi": {
-    "west": 74,
-    "east": 73,
-    "central": 70,
-    "south": 68,
-    "north": 67
-   }
-  },
   {
    "t": "2026-10-26T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 78
    }
+  },
+  {
+   "t": "2026-10-28T12:00:00+08:00",
+   "psi": {
+    "west": 79,
+    "east": 74,
+    "central": 79,
+    "south": 67,
+    "north": 79
+   }
   }
  ],
- "newsUpdated": "2026-10-28T11:07:24+08:00",
+ "newsUpdated": "2026-10-28T12:07:21+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,31 @@
    "pinned": true
   },
   {
+   "source": "Yahoo News Singapore",
+   "title": "Runners swap streets for shopping malls as haze chokes Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMnF5d0VzQkE3eWFSazNSWnFSSTBiMWdFdk9qYmx1MHJqYlNDd04tb2pwWHVHTGlMd1k2Z3o1R3p4OEFIbUZUaHVjazVUNDRQQkdxYnBhbzBxRjI5bWdhaXJURTJYMkk2SXN3M1hkQU5PVUlJXzkzSFRlRndfdl91SXN3?oc=5",
+   "time": "2026-10-28T11:26:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Indonesian firefighters celebrate as first rains bring relief to haze-hit regions",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY1JleXk4RGNnY2lxUHNPbjBfN1laVlZZcW9NQlk0dzJ6Y2poMmFNakl1ZUtWVlJadGF4Z1UwSEVyMHoyN0dkZi1FaElNRWFOczZNZE5CUmloZFY4cU1VRnpIRkI5T3FUQmVXLTl2bzZkckZlYUdFVGtOTmVvenFLUm9pa2hPN01TTXhJcnVvUVROY0FXQUpIQ0lRWlBfajE1Z1Ewc2phVnM0X3pDeTctUTktM213eUo2cElzVzBFRWtWRG1FaHRuWmg2ODVjOHk2M05SUlE5WnpiT2hYT3ZTeU02YjU?oc=5",
+   "time": "2026-10-28T11:22:04+08:00",
+   "summary": ""
+  },
+  {
    "source": "Philippine Canadian Inquirer",
    "title": "Indonesia deploys emergency oxygen shelters as wildfire haze sickens thousands",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUNmdFE3R1gwdGkzQ28zLURvRDk4TTRDRFFaSnBjTG1wWTEwZnhJc0xDbHQ2WXNwc05EanR2Ui1GV0U0Q0xkaF9oRXREZE84WV9nZWduSGdSNnZXSktHcHk1Nll2bXBBanJTNUJzTVpKWXYxNmRVaW9pSm0wZGpFc0tERVNIcUJyazJGU3dWeXl2Zk1oWVVsa3M2LTdXSDlzX3FOYmF2RjBmdUY1d09XeDZiU0tnYUhfZnJZ?oc=5",
    "time": "2026-10-28T10:59:49+08:00",
+   "summary": ""
+  },
+  {
+   "source": "chinadailyhk",
+   "title": "Indonesia, Singapore agree to form task force to tackle haze-linked wildfire firms",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15WVF0NnhPWDFHWnF6OERJT2dxOHUzczRnX2k2RHI5bE1yX2lRalJucVhHTmdhcGZpdmtmSWo4eGtIX0tJNnY4ZUZteDBjSW03cGtqU1A3LUg?oc=5",
+   "time": "2026-10-28T10:53:57+08:00",
    "summary": ""
   },
   {
@@ -549,13 +570,6 @@
    "summary": ""
   },
   {
-   "source": "Global Times",
-   "title": "Indonesia, Singapore agree to form task force to tackle haze-linked wildfire firms",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3emZDbGlwcGVsYkdDMHhKMzZZbzVZVTJKV3pkOGljMUVHNC0xYTdaYk1HSTJkcXhoR1FUYlV4MXFmSGpvbXo1dk1QU0p4NkpFZ0Z4UEtRX0NpZ3RYWGRjSFNB?oc=5",
-   "time": "2026-10-28T08:37:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "CNA",
    "title": "Singapore haze: PM2.5 readings in normal band; air quality moderate across all regions",
    "url": "https://www.channelnewsasia.com/singapore/singapore-haze-moderate-air-quality-pm25-normal-oct-28-6498021",
@@ -581,20 +595,6 @@
    "title": "Singapore and Indonesia set up a task force to combat haze from illegal burning",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbDI4ejVnZXNIWXc5Mmg5bkpqdzRJeXp0Vi0tVFZjY2NONVlxM3FDdDlGQzdlYjU2ei12bXBfZmtIWlNVdkNkV0VOZHQ1N1MxN2hYNzB6SFFEaWltczF1UzJSX1VZNGUxT25weWxSd2hYVmRmLTFnSXNfYTRwQlY3UmFFNlZLMWVIN05BcVBmYXRTNEN2TFE2S2JuTW9ILWo3YmdrM19tYS11VzhkeExrNllIb1DSAbQBQVVfeXFMUGwyOHo1Z2VzSFl3OTJoOW5Kanc0SXl6dFYtLVRWY2NjTjVZcTNxQ3Q5RkM3ZWI1Nnotdm1wX2ZrSFpTVXZDZFdFTmR0NTdTMTdoWDcwekhRRGlpbXMxdVMyUl9VWTRlMU9ucHlsUndoWFZkZi0xZ0lzX2E0cEJWN1JhRTZWSzFlSDdOQXFQZmF0UzRDdkxRNktibk1vSC1qN2JnazNfbWEtdVc4ZHhMazZZSG9Q?oc=5",
    "time": "2026-10-28T06:51:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Air quality continues to improve across Singapore",
-   "url": "https://www.straitstimes.com/singapore/environment/air-quality-continues-to-improve-across-singapore",
-   "time": "2026-10-28T06:06:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Borneo Bulletin",
-   "title": "Singapore, Indonesia seek joint task force on haze",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYm90SWU0c3VzTVdiX0Q1ZEd3LTNRWk1DSHhjS3ZOYmxmXy1JUmtaWXUtQlZiek15YmQ3T1Awck95Q05US1NlVy01eE1DdTdlSTVoT1hYNzljZ1BvR3ZHekF0N1drQmZ5YUpZa2hRd1Y5YVpHNHItSkZWMVpyVVJMWFFHUktxbjQ?oc=5",
-   "time": "2026-10-28T04:01:07+08:00",
    "summary": ""
   }
  ]
