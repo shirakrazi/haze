@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T09:00:00+08:00",
+ "updated": "2026-10-28T10:00:00+08:00",
  "psi": {
   "west": 78,
-  "east": 73,
-  "central": 77,
+  "east": 74,
+  "central": 78,
   "south": 67,
-  "north": 77
+  "north": 78
  },
  "pm25": {
-  "west": 33,
-  "east": 38,
+  "west": 44,
+  "east": 43,
   "central": 44,
-  "south": 29,
-  "north": 41
+  "south": 23,
+  "north": 43
  },
  "hist": [
-  {
-   "t": "2026-10-26T08:00:00+08:00",
-   "psi": {
-    "west": 74,
-    "east": 75,
-    "central": 72,
-    "south": 70,
-    "north": 68
-   }
-  },
   {
    "t": "2026-10-26T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 77
    }
+  },
+  {
+   "t": "2026-10-28T10:00:00+08:00",
+   "psi": {
+    "west": 78,
+    "east": 74,
+    "central": 78,
+    "south": 67,
+    "north": 78
+   }
   }
  ],
- "newsUpdated": "2026-10-28T09:07:37+08:00",
+ "newsUpdated": "2026-10-28T10:09:16+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Malaysiakini",
+   "title": "COMMENT | Stop blame game, just solve the haze problem",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSGp4UmI5enItTmJhZGNYNW5CWWczV0VUeEVLeXhjck5nTXdCVkN3eDBGWmltXzh2SlF3QUVRdnRsZXhYWnBNQldIMEw2NVcyRVhFOGNEWmk4bHE2Y202VEZUc3ZKemg2NFhraFNwOVlGemxxcjBZelFjalpfc195Tm41UFJJYVg0S0FXRnlpcDBLQ2M0amNFbk9fQQ?oc=5",
+   "time": "2026-10-28T09:10:00+08:00",
+   "summary": ""
   },
   {
    "source": "Global Times",
@@ -588,13 +595,6 @@
    "title": "'Don't Dare Us': Indonesia, Singapore Feud Turns Ugly Over Gas, Haze & Market Crash | Vantage",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM1lyeXVFQ0RmMXdwcjRBNTlhem1oaXpiS2pOMWhaS1JCU2s0d01uRGp6cG1QVXNwU0lkQ2stOTJqLWc2cnJHc2ZEN0JyTkpXQ0Z6V2hyQkhHUWNnZXdIeTRINmZia1EzSzV5VEF2dXlWRjNCVUxFcVBlcjBXbzBRcmE3V3RrazJwcXh6NWphVnhjcGdDTk1tSzU4UHliZWhfNnRrcFdwaGp1NVFDbTJpZGU0ZlRXWUhVcDJvaFVianhYTEYxZmFN0gHMAUFVX3lxTE1XTDQtdHdPaUFnb1BQMmUzSDQ0OXQtMVJ1R1JxZWh3alR1TVFjZUE4Qm5BTnUtc0dzNXIyY0VCSUlnaDlHbmZDX0lRZGFqaHc3c09iMFota3JPa1NOWFdHVGhDN3JQbTE1eUNDbHU5cDRGVjdsVFVDVklFRnM5NlBzT1JmNl9WZzJ5T3hqcWJTNG1yZXNnU2M2LXBFbUk1cDc1WVE1NGlkOTM0ZnExZklodVZEbjBKOXppUWRLTUpReTFtcWF3aEFZR216cg?oc=5",
    "time": "2026-10-28T01:41:40+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Latest news from Azerbaijan",
-   "title": "Indonesia, Singapore agree to establish joint task force to combat forest fires and haze",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWkEtM0h6TVcxNWdCN3BKTUF0UWNHRVpfQjZVaE1Qajl3SDQxQ2d0Q2xIU29ZZURycU1RYkpVYWtPNkh2VTVZY3FIR3I1V2t2TjNQWkRQRDJhSEdWb2dHQWdtNC1BZWEtaXFBcmtGb2pPdmVCMzNISFhHMEZMVFJheVlTaVlVd2ZPWHhLNnNGeEt5UDMtT0Q1aHI5bUdrNHd1TnhtRkpmVWFRamZV?oc=5",
-   "time": "2026-10-28T01:02:05+08:00",
    "summary": ""
   }
  ]
