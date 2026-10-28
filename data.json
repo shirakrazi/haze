@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T14:00:00+08:00",
+ "updated": "2026-10-28T15:00:00+08:00",
  "psi": {
-  "west": 78,
+  "west": 79,
   "east": 73,
   "central": 79,
   "south": 66,
-  "north": 78
+  "north": 77
  },
  "pm25": {
-  "west": 43,
-  "east": 20,
-  "central": 24,
-  "south": 14,
-  "north": 31
+  "west": 47,
+  "east": 32,
+  "central": 31,
+  "south": 13,
+  "north": 23
  },
  "hist": [
-  {
-   "t": "2026-10-26T13:00:00+08:00",
-   "psi": {
-    "west": 72,
-    "east": 71,
-    "central": 71,
-    "south": 67,
-    "north": 67
-   }
-  },
   {
    "t": "2026-10-26T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 66,
     "north": 78
    }
+  },
+  {
+   "t": "2026-10-28T15:00:00+08:00",
+   "psi": {
+    "west": 79,
+    "east": 73,
+    "central": 79,
+    "south": 66,
+    "north": 77
+   }
   }
  ],
- "newsUpdated": "2026-10-28T14:11:33+08:00",
+ "newsUpdated": "2026-10-28T15:12:09+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "SGX RegCo issues fresh queries to listed agribusiness companies over Indonesia fires and haze",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ0trdzV1QU9FVHBQaEgzOElIYnZSZElocklxcWNEYXBOTjUtQnh0TDdxN19sQ1ZhdWQzalEwV2p5WE9HUEJETVJRcXdDYnMzMXdwQjg3Z1RWMnNKNEViUm5OZmNLZ0M5Q1h0bzZYanI3cWFiU3E2bVFJYXpoR2NTMW50WkJpVWlUMTZOY3paWjhXUVBScUhvRkhtajZPSGZEQTZlRjRDb3FtbVNwc25rejd4WnhiN1k4N1dGaEdhMDdoSGhLbENiR3Jpbw?oc=5",
+   "time": "2026-10-28T15:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Rain eases Indonesia's haze, but authorities warn fires could reignite",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUhXTTNONWlsdjBaQkFpSVQwWVBhYlUwWk9fRTNlS0VpZTd0REFQa2w2VF9DamdLOFpmU01hSGZXWnBNT2o0eVNKcURfWDROa28zWWFNZHd6UExHS25sSFVTWjhLak5Uc09FNFA4WmdMbVZqZzUtQndGSTAzc1Jfb2FrOA?oc=5",
+   "time": "2026-10-28T14:44:53+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Free Malaysia Today",
+   "title": "Putrajaya open to exploring compensation claims over haze, says minister",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa3Zyak1PUGhHeXpSc2VHYTJFTGRHaXlhWnU2WElxVHB5Zkk0Y09PY25XVXhpU2dYaDNZUmhuNjljZm8zdW9USEZLRGhHcjlpc0ZQdlk2RVUyeEpaSF9lN2xZeUhuU0xUQWZjQzAzNWtETjhVZmw4RkFhcDZ0cWhtdXZBUTd6QTZXelByZXByRUdEdDYzS0RjZXZCX042T1VHT3JxS0FVNndpVzh0M0pxXzV4VzJ0WHVGSklhZUtYTHpyZXh1Vk93UTJHUnU?oc=5",
+   "time": "2026-10-28T14:10:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Business Times",
@@ -574,27 +595,6 @@
    "title": "Indonesia, Singapore agree to form task force to tackle haze-linked wildfire firms",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15WVF0NnhPWDFHWnF6OERJT2dxOHUzczRnX2k2RHI5bE1yX2lRalJucVhHTmdhcGZpdmtmSWo4eGtIX0tJNnY4ZUZteDBjSW03cGtqU1A3LUg?oc=5",
    "time": "2026-10-28T10:53:57+08:00",
-   "summary": ""
-  },
-  {
-   "source": "China Daily",
-   "title": "Singapore's F&B businesses struggle as haze continues",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xSnlaX0ZqblFKZXZ3RWVsSlJIekdMZWpORmZKTmVVV2xWc3BwUkU3aUgxMWdUZnFTWjhpTnpjc1NjTGFfd2VCQzhzZTVDai1yY28wczUwc3FnX2sxZTEyT2FfalhNTFNTLTJyaXdycnRIMUNoY010RHN4WHlfQQ?oc=5",
-   "time": "2026-10-28T10:16:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Singapore Business Review",
-   "title": "Government weighs need to amend laws amidst haze investigation hurdles",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS1NNODFDb1NJazNUZGtYWEVnekRhMFV2aDZodUU2eHlHU1kyMXlyT19TNzJFZVpOVXZTQ24zdy1kQVhQb3ZpUGhBMklVWDk0anpfQUtZQkt3dUx1N3NCSGFFdXZfb004V0IzWnJwNExGVjg1M3ZGV2FrNjFJQU8tRlhpcUtYQUI0Zl96cmVDS1Nrel9tWVE?oc=5",
-   "time": "2026-10-28T10:01:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "PM2.5 normal, PSI moderate on Oct 28 morning; afternoon showers may keep haze at bay, Singapore News",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbExXekhGeUwzSGJubWU4MUVXbzdOMG9Ya0dQZ2RZc09MaFdQczhjRDlDZG92eFBxRmdhZG9jOHF3VWxGSF8xSWtEV1k5c3NEWFVxdG1zSFgtSmlVdmIyUE8tSXFEV2JlSkFvT2p5M2FCZnVJZ0tFT0tUSnlXZV8xWTkyWGVvTFdxdEc4?oc=5",
-   "time": "2026-10-28T09:59:05+08:00",
    "summary": ""
   }
  ]
