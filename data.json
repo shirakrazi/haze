@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T20:00:00+08:00",
+ "updated": "2026-10-28T21:00:00+08:00",
  "psi": {
-  "west": 77,
+  "west": 78,
   "east": 72,
   "central": 77,
   "south": 67,
   "north": 74
  },
  "pm25": {
-  "west": 36,
-  "east": 25,
-  "central": 29,
-  "south": 26,
-  "north": 32
+  "west": 38,
+  "east": 34,
+  "central": 31,
+  "south": 22,
+  "north": 33
  },
  "hist": [
-  {
-   "t": "2026-10-26T19:00:00+08:00",
-   "psi": {
-    "west": 74,
-    "east": 70,
-    "central": 70,
-    "south": 66,
-    "north": 68
-   }
-  },
   {
    "t": "2026-10-26T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 74
    }
+  },
+  {
+   "t": "2026-10-28T21:00:00+08:00",
+   "psi": {
+    "west": 78,
+    "east": 72,
+    "central": 77,
+    "south": 67,
+    "north": 74
+   }
   }
  ],
- "newsUpdated": "2026-10-28T20:12:17+08:00",
+ "newsUpdated": "2026-10-28T21:23:36+08:00",
  "news": [
   {
    "source": "CNA",
@@ -508,16 +508,44 @@
   },
   {
    "source": "CNA",
+   "title": "10 firms under probe for haze-causing fires summoned to meet Singapore ministers",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcTVYcHFkal91ZFJ0OXdPbG5FRk5GSXF6alJMM0NNQ1JJTVZ6OTNSN2xDd3pUaEQ5aHY5XzMyQTd3NnRWYWdmSS1MeDd2RnQ1TWJTZS1oTG1WSUI0UU9GOWxhT2gxTS1mZG02Y3NiUXh3REFKU0dvRTJ0dHJkNVFKYVJOMWVqZkdRaXNMZV96bVgtZ01YNjZKbXFaQ1B1M2VPVGpJOHpIekxFb1pwZk84VUhwMTd3TG5HVG5VdA?oc=5",
+   "time": "2026-10-28T21:08:45+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Companies expected to cooperate with haze investigation: Shanmugam",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
+   "time": "2026-10-28T20:59:18+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Singapore, Indonesia to move quickly on joint haze task force, says Vivian Balakrishnan",
+   "url": "https://www.straitstimes.com/singapore/singapore-indonesia-to-move-quickly-on-joint-haze-task-force-says-vivian-balakrishnan",
+   "time": "2026-10-28T20:30:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Mothership",
+   "title": "PM Wong, Prabowo have communicated, committed to 'do what is necessary' to tackle issues, including haze: Vivian Balakrishnan",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQVhBZV94TG1KYzJhb2hxdEFUaFdHSmljcmdidURvZ05nV2VfWTdRSi11V2RoYkdzS09FRnEwUE1lclgzcXpncmM3OE4zblA3dDRaV0ZtQVNQbG9rTnZMeWNZRUVrdm1uQnZIMTBhNVNYSm1hemhaTDRLRjR5eWJBZG9jZ20yTTgy?oc=5",
+   "time": "2026-10-28T20:18:06+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
    "title": "PM Wong, Prabowo committed to ‘do what is necessary’ to tackle bilateral issues, including haze: Vivian Balakrishnan",
    "url": "https://www.channelnewsasia.com/singapore/vivian-balakrishnan-indonesia-high-level-talks-haze-commitment-6496126",
    "time": "2026-10-28T19:53:00+08:00",
    "summary": ""
   },
   {
-   "source": "TradingView",
+   "source": "Reuters",
    "title": "Singapore central bank tells banks to monitor customers' haze risks",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeXJlV3lLLWxHZFpZQ29DQktJaTVCUGFEMGZSYmE0UkZFVXVQSHZlVE05RXJRdU5LUlR3YjV5UTR4OHAySTdiNUtSWGd0WkVMVU50bTFTNFNQWjlzRjNBLXRLZWpENUphMWNxeUtremVIeUpnbEZSbnY1Rk1sRUxmUWdlei1HOEFHYzJpd3JwdnhSS1U1enNoM1BickpmWmlfd191TjF5NHBkY1pCUExDMmZraVJabXBBOXhOU0RTX0J4ME9YSFZ0TXgwOWp1T2pjdXc?oc=5",
-   "time": "2026-10-28T19:48:23+08:00",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUDB3VktNT2FRaFR0VGpWa0R3aWpQSDdGcVFGbzZILThYTkNFM2xyRl9wWmFJMTFLRjlFUzh0SFhLWEZ6SE1DeUFQMUJEWGxSOHozTS1HQUsxRXVoZFNrUE1Fc3pyT1k4bU1TekR3Y3BDaVE3ajNZbGU3dnNkUEx3M05HLUJfZ0xubnF5R09CTnhLbTVyY3BybWgybkprd3dTZl90eElMTFQxOUVEYjE5Z19Wb2tSQkE?oc=5",
+   "time": "2026-10-28T19:50:36+08:00",
    "summary": ""
   },
   {
@@ -567,34 +595,6 @@
    "title": "'You know the Singapore Govt. We will do what is right': What Shanmugam told leaders of firms allegedly linked to haze",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckVxRHd3RUh4cWFRUkV6LWVjQnhBTktkX1ozVHJLWE1hR3gzMWZGLTY4SktXYURUMmZJUE1sYmdxLTItcVdCdWh1T3dyWnVHemg3SzlGdXNTRll0SS1STFpKUFJYZ1Q2X2FfcGNpVC1Yb0VYR2owdUJveWlfSF8zTDZjMHlsOEloQ0xwNE84MF9kdmRGUUNB?oc=5",
    "time": "2026-10-28T18:45:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Indonesia Business Post",
-   "title": "Indonesia, Singapore agree on joint task force to pursue firms linked to transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSU80cjd2WnBKYktNS2tlQWh3Q09qMEFyeU9XSGstQlZ0YkVsaXo3bEk3a1hpX3hyekd2ZGZLbTVJRlpqRl9tSVhPa3BPWU5CdmFieXJLM2pjdVJhT0pWc2Z5ZXM4TFdCQ1RZLTI5NmFJaUdEN2kzZHUydVU3WXVlZ25fYTZGZFpXRlpFaEUwc2JEdzA1NHpqT3VXcGNfLXJNdktGTlg5VF9EY2d0ZDc0QXBVV3doSHBJVFlpa2FMZmhhUXl6ejA5UHFVVGNSU2NPVHJnWjN5Wlk?oc=5",
-   "time": "2026-10-28T18:41:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NEA.gov.sg",
-   "title": "Haze Situation Update (28 October 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUVuLXlVN2VObXhOZzBzZy1TYnhNLW5QMFFNbkJTeVhDVm1hVHpBckNYRUhZUV9ZekdLTmViWTBvalJZWUVaRHZnYmIwR0VVRzBnOFI2WHNYTUZjQmI1Q28zaTU2TEhEVFN2ZU84MnRpOER4dnpKQnFfMW1scG9nNThwSDNVY1FSSlVfOGt1REFKdw?oc=5",
-   "time": "2026-10-28T18:32:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "Banks should take 'stronger measures' against clients over environmental breaches linked to haze: MAS",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa0lUa0ZNeFF3cGxjVEhCS1lyeDI5QUV6UmtkeUFCZk5NU2p4aXc5RmlyZlUzMGdtVlVYYXRMZm95Yy1tU1hnNkowbGxEWXdsQzJ5RERxREEwR0I5eUx3NjZyNm1FekRVMjN0UE04Mnk4RUwySkpjbi01ZEVUSEZ0dGJXSGVRQzlDeWxSM3lUa01kaVNhckhpTHNwTFR1MTgwYXhRTW5CcG1FTHdXQld0WjZ0cFdOQzJDNUNwY3REcVE5M2Zya3JuOHNjZzJXU01lYXg1SXMxRjhqN2ZOY2lZ?oc=5",
-   "time": "2026-10-28T18:20:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "MAS says banks should limit exposure or cut ties with clients over clear environmental breaches linked to haze",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORkF3NXRsX014TmJpTnZuczQ3UWdjZDBJVHJiZVRqRnUtUUp0UDAtNWdKY01LSENtcDZvNmZxNTVlb0RVdWRiNXJzc0NpOGVNMXhQZjhpZFk0Y3NoSGQ0UUVqTVp5UU9JVmJTRWpfQjFETFJ3Z1h3MmVWbDZTMnB5U1lYMEZEd2lkVE14bkl4bkdaVWxtdXI2V2V1MGVFQjBYOW9MM081cHAxazBXaUZVVXpMNlJvX080TWtfa0lrUEUzWG5FdXhVeGN6dTREWjJ2em1ZY0Nsd282R1JWNjNDQ09B?oc=5",
-   "time": "2026-10-28T18:20:00+08:00",
    "summary": ""
   }
  ]
