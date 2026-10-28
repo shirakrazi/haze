@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T13:00:00+08:00",
+ "updated": "2026-10-28T14:00:00+08:00",
  "psi": {
   "west": 78,
-  "east": 74,
+  "east": 73,
   "central": 79,
-  "south": 67,
+  "south": 66,
   "north": 78
  },
  "pm25": {
-  "west": 35,
-  "east": 26,
-  "central": 34,
-  "south": 24,
-  "north": 27
+  "west": 43,
+  "east": 20,
+  "central": 24,
+  "south": 14,
+  "north": 31
  },
  "hist": [
-  {
-   "t": "2026-10-26T12:00:00+08:00",
-   "psi": {
-    "west": 73,
-    "east": 72,
-    "central": 71,
-    "south": 68,
-    "north": 67
-   }
-  },
   {
    "t": "2026-10-26T13:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 78
    }
+  },
+  {
+   "t": "2026-10-28T14:00:00+08:00",
+   "psi": {
+    "west": 78,
+    "east": 73,
+    "central": 79,
+    "south": 66,
+    "north": 78
+   }
   }
  ],
- "newsUpdated": "2026-10-28T13:07:40+08:00",
+ "newsUpdated": "2026-10-28T14:11:33+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Business Times",
+   "title": "SGX RegCo seeks further disclosures from plantation firms, including links to haze notice recipients",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbWlSUkpqTUt2U25TMkJiX1J6Z3FEc0ZYQ21wR0NYYUthWjU5aDI3UUJ5TXd3R1RVTGZBU2FsREVrVG5QWnMxNk5iT0pyTURqVVNCSG5HTXBKSXB6UGU5UVN0UWttSkJBb21YbUxrQ3RaU2kxNFFDMS1QWkJ4SE1BUDdNQ21MSDJVV2RwZjFXTGJjQV9IMkpseDZEVGNWWlY5eWhzeEYtWHJzWkFQQ0FFQkdKWUdpTFZPYUoyb3c3YzhYYUEwbFJsbjJkNm9xcTQyZFpBa3NCSkx0UQ?oc=5",
+   "time": "2026-10-28T13:35:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Latest news from Azerbaijan",
+   "title": "Singapore plans tougher laws to hold companies accountable for transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMXRYd3hwWGNuXzRjU2c0bXM1WW9UOFE2MHFkclhlRlQta0I2Y1VRMGZGQnR6c3prQzZFb3J0WnhCZXlHYmFwZ3F0SUhRdG5jVUMyTG1UdnJ6S2k5RXl0VHE1LXFRZ3lES3NTYmlpUGtIYm1CbzFpZHRfWVZlSWFvOWRJNVVaVy1PSk8xNS1IWjZUbXAyUS1FTTRRSnU1bWZrem9qVw?oc=5",
+   "time": "2026-10-28T13:29:39+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Singapore",
+   "title": "RegCo issues additional queries to SGX-listed companies with links to haze",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR25falRnNDhJRHhMd2oxaTdUOGFnVzZLZ0xPR3otZERER3hwc3JQeHpMb1Rza3l0cEFjeFduQUstUTVCNHdBRDYzaGdaSzA5Vk1XcVBmWTlkZ2xjR09iS2pfREMwVEZJV3NhWW1IR3lMLWRGUWxGbUFQMkYtMHdDZ040ZzZERmhPY2FYMWtvcmhvTEhEOENRZTlmc0ttN3JBaW01WDJqZ2prSGhaOXFqb3JFMUFnU1ZzU05CRnFn?oc=5",
+   "time": "2026-10-28T13:11:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Star",
@@ -574,27 +595,6 @@
    "title": "PM2.5 normal, PSI moderate on Oct 28 morning; afternoon showers may keep haze at bay, Singapore News",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbExXekhGeUwzSGJubWU4MUVXbzdOMG9Ya0dQZ2RZc09MaFdQczhjRDlDZG92eFBxRmdhZG9jOHF3VWxGSF8xSWtEV1k5c3NEWFVxdG1zSFgtSmlVdmIyUE8tSXFEV2JlSkFvT2p5M2FCZnVJZ0tFT0tUSnlXZV8xWTkyWGVvTFdxdEc4?oc=5",
    "time": "2026-10-28T09:59:05+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Singapore Business Review",
-   "title": "Singapore and Indonesia to form task force against haze-linked firms",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONm02emJqeDFMSHBZRDZTWUlvRnN6RE1uT2xoZ0Zmampka0U5cG4zWXVRSF9xUWNsVmxReXI4QXE4bkcxdkJJYmxaSTBRQlpjOUhZcUpHWmRQM1dGMENLRzllZDdLYVpSTWZqT29vZWNWd2tPZmxDNTJCUU1hT1NXVWJTc0s4RzhEM0VMS2FDbXdNOUdMek9KRWpyMUQxTERycl9QeA?oc=5",
-   "time": "2026-10-28T09:49:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malaysiakini",
-   "title": "COMMENT | Stop blame game, just solve the haze problem",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSGp4UmI5enItTmJhZGNYNW5CWWczV0VUeEVLeXhjck5nTXdCVkN3eDBGWmltXzh2SlF3QUVRdnRsZXhYWnBNQldIMEw2NVcyRVhFOGNEWmk4bHE2Y202VEZUc3ZKemg2NFhraFNwOVlGemxxcjBZelFjalpfc195Tm41UFJJYVg0S0FXRnlpcDBLQ2M0amNFbk9fQQ?oc=5",
-   "time": "2026-10-28T09:10:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "联合早报",
-   "title": "Wednesday’s PSI expected to remain moderate as showers help improve regional air quality",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZWVpX0k3RXhtTWJFVXRXUC1rSTNjTjlYWmR1bVpvVWdtOWU3a0k1R2hDNXZ4MjJzZllrazhVUnRmZkFXeUJ2TGRzdXh4TUh3Z0JEZTdaZHJsdFROUm12TkRvYm5KX291dTM5UzFmMGI0NTBmaXlDNHFwZlpUWkRpT1FFc2ZfYmw4REZnNG1VS1U2WkM1MlBBSjNnMjRacXgyZVZwa0lxZGU2UVBudUp0U0o4bU5yLVNWMjd2dWxuRjFoczFPZTVFNWpMZm9feDNKTE5xRg?oc=5",
-   "time": "2026-10-28T08:02:46+08:00",
    "summary": ""
   }
  ]
