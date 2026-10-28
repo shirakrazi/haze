@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-28T19:00:00+08:00",
+ "updated": "2026-10-28T20:00:00+08:00",
  "psi": {
   "west": 77,
   "east": 72,
   "central": 77,
   "south": 67,
-  "north": 73
+  "north": 74
  },
  "pm25": {
-  "west": 27,
-  "east": 22,
-  "central": 24,
-  "south": 33,
-  "north": 21
+  "west": 36,
+  "east": 25,
+  "central": 29,
+  "south": 26,
+  "north": 32
  },
  "hist": [
-  {
-   "t": "2026-10-26T18:00:00+08:00",
-   "psi": {
-    "west": 74,
-    "east": 71,
-    "central": 71,
-    "south": 67,
-    "north": 67
-   }
-  },
   {
    "t": "2026-10-26T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 73
    }
+  },
+  {
+   "t": "2026-10-28T20:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 72,
+    "central": 77,
+    "south": 67,
+    "north": 74
+   }
   }
  ],
- "newsUpdated": "2026-10-28T19:19:19+08:00",
+ "newsUpdated": "2026-10-28T20:12:17+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "PM Wong, Prabowo committed to ‘do what is necessary’ to tackle bilateral issues, including haze: Vivian Balakrishnan",
+   "url": "https://www.channelnewsasia.com/singapore/vivian-balakrishnan-indonesia-high-level-talks-haze-commitment-6496126",
+   "time": "2026-10-28T19:53:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "TradingView",
+   "title": "Singapore central bank tells banks to monitor customers' haze risks",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeXJlV3lLLWxHZFpZQ29DQktJaTVCUGFEMGZSYmE0UkZFVXVQSHZlVE05RXJRdU5LUlR3YjV5UTR4OHAySTdiNUtSWGd0WkVMVU50bTFTNFNQWjlzRjNBLXRLZWpENUphMWNxeUtremVIeUpnbEZSbnY1Rk1sRUxmUWdlei1HOEFHYzJpd3JwdnhSS1U1enNoM1BickpmWmlfd191TjF5NHBkY1pCUExDMmZraVJabXBBOXhOU0RTX0J4ME9YSFZ0TXgwOWp1T2pjdXc?oc=5",
+   "time": "2026-10-28T19:48:23+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "'Important for cool heads to prevail', says Vivian as ASEAN neighbours tackle haze issue, Singapore News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORE5WbWRodlVSRFJBZ2xBMm1iY3Ruai1ldW1FQ2YxdDEyS2Vkd2htUTlWQUhMNTNqMmRwdnhmUkJOakt0ekg5eGdnbUNZZEVOeXRLeWxtSl9vTE9ZdzhkR0R2YkZWbE1ERXh3eTMyeGVhdDZQWmtGWWl5MFlMMmQwaUpFN3BLN1AtdWxDVFRhMktDcEZO?oc=5",
+   "time": "2026-10-28T19:33:00+08:00",
+   "summary": ""
   },
   {
    "source": "Yahoo News Singapore",
@@ -556,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "NEA.gov.sg",
+   "title": "Haze Situation Update (28 October 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUVuLXlVN2VObXhOZzBzZy1TYnhNLW5QMFFNbkJTeVhDVm1hVHpBckNYRUhZUV9ZekdLTmViWTBvalJZWUVaRHZnYmIwR0VVRzBnOFI2WHNYTUZjQmI1Q28zaTU2TEhEVFN2ZU84MnRpOER4dnpKQnFfMW1scG9nNThwSDNVY1FSSlVfOGt1REFKdw?oc=5",
+   "time": "2026-10-28T18:32:36+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Business Times",
    "title": "Banks should take 'stronger measures' against clients over environmental breaches linked to haze: MAS",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa0lUa0ZNeFF3cGxjVEhCS1lyeDI5QUV6UmtkeUFCZk5NU2p4aXc5RmlyZlUzMGdtVlVYYXRMZm95Yy1tU1hnNkowbGxEWXdsQzJ5RERxREEwR0I5eUx3NjZyNm1FekRVMjN0UE04Mnk4RUwySkpjbi01ZEVUSEZ0dGJXSGVRQzlDeWxSM3lUa01kaVNhckhpTHNwTFR1MTgwYXhRTW5CcG1FTHdXQld0WjZ0cFdOQzJDNUNwY3REcVE5M2Zya3JuOHNjZzJXU01lYXg1SXMxRjhqN2ZOY2lZ?oc=5",
@@ -567,34 +595,6 @@
    "title": "MAS says banks should limit exposure or cut ties with clients over clear environmental breaches linked to haze",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORkF3NXRsX014TmJpTnZuczQ3UWdjZDBJVHJiZVRqRnUtUUp0UDAtNWdKY01LSENtcDZvNmZxNTVlb0RVdWRiNXJzc0NpOGVNMXhQZjhpZFk0Y3NoSGQ0UUVqTVp5UU9JVmJTRWpfQjFETFJ3Z1h3MmVWbDZTMnB5U1lYMEZEd2lkVE14bkl4bkdaVWxtdXI2V2V1MGVFQjBYOW9MM081cHAxazBXaUZVVXpMNlJvX080TWtfa0lrUEUzWG5FdXhVeGN6dTREWjJ2em1ZY0Nsd282R1JWNjNDQ09B?oc=5",
    "time": "2026-10-28T18:20:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Leaders of firms probed for haze links summoned to meet S’pore ministers, warned to cooperate",
-   "url": "https://www.straitstimes.com/singapore/environment/leaders-of-firms-probed-for-haze-links-called-for-meeting-with-spore-ministers-warned-to-cooperate",
-   "time": "2026-10-28T18:09:26+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Leaders of firms probed for haze links called for meeting with S’pore ministers, warned to cooperate",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOUNZUWpwOUxxYXBEVnRiNmZ4aVNZVE1uY2hFUDJxX2MyUjJHd0ZDU1ctWkYwZ3NKal9KVXhuSnB0S1pGemQxUnpKM0JUUl92ZEpYamJKa1RBLWNiLVlxSzM2NzRxeW5vLXVlbVFEdm1Pd0lqbFRNSElmbi1wSC13TFJYMENjR0JhUkNoRHVEdE9qb1V2Qi1vcXlOLXRFLU5ZeXVJbkNVYVBScHdYUHY1QlpyYXlfcUg5dXpkd0ItY25UMUtLOXUxQ1FKZjJYZ3paTURyaDBtdVZ1ai1aVU5Wck9Ibw?oc=5",
-   "time": "2026-10-28T18:09:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore sees continued respite from haze, with air quality remaining moderate",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSGVkWVVCVW52ZVM2M19ETVE4NnN1ZXlrOFhWNXVJYzJvSlFLOHpRclhPalFwWGkzNjJJVFZUakw3N0dXa1hEMDhsU2JEc0NFY21xYnVZX0R6VXdNbTJWVlR6WExNdlJJR01lTkNWcVZqMU9IQUN1LUFJd1hxVXBPS2xoQlJ4aFh5OUZSN1BiclI0WTVPd2YwV3QxNnBJemtxcGp2dzMtUQ?oc=5",
-   "time": "2026-10-28T18:03:39+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Online Citizen",
-   "title": "Indonesia deploys mobile oxygen buses as forest-fire haze drives respiratory illnesses in Borneo",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNU4xaEo0YmgxbV9DQUxEUGctb1VGNDVJTEdKNHhYR2hRa2FBY1lNS3JHTTlrLW1abzJPLVpHY1YxU21wQS1WWnFiTFRzQ0JNVWE4TUdVMjdkRkNLUV9PZVg1MGxvUlNKS1BiZG82ci1qcjVDdVdfX25vSWtaSkdLT0dyVlU2NkFPOVNQbWIwVUEwZEVqS3RGQkpQbWpCeXp2bUVNRVk2NmVJSEZiM3JWTjJjdS13eG1sb3FvYldMdDNBYktPX2FOYzlMcWtwTVUwWkhMV21JcmI?oc=5",
-   "time": "2026-10-28T17:51:41+08:00",
    "summary": ""
   }
  ]
