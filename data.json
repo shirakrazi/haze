@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-29T15:00:00+08:00",
+ "updated": "2026-10-29T16:00:00+08:00",
  "psi": {
   "west": 77,
-  "east": 70,
-  "central": 70,
+  "east": 69,
+  "central": 69,
   "south": 70,
-  "north": 73
+  "north": 72
  },
  "pm25": {
   "west": 27,
-  "east": 8,
-  "central": 11,
-  "south": 13,
-  "north": 11
+  "east": 18,
+  "central": 10,
+  "south": 15,
+  "north": 9
  },
  "hist": [
-  {
-   "t": "2026-10-27T15:00:00+08:00",
-   "psi": {
-    "west": 75,
-    "east": 62,
-    "central": 64,
-    "south": 63,
-    "north": 63
-   }
-  },
   {
    "t": "2026-10-27T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 70,
     "north": 73
    }
+  },
+  {
+   "t": "2026-10-29T16:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 69,
+    "central": 69,
+    "south": 70,
+    "north": 72
+   }
   }
  ],
- "newsUpdated": "2026-10-29T15:05:05+08:00",
+ "newsUpdated": "2026-10-29T16:10:29+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "Indonesia Must Strengthen Haze Prevention And Enforcement, Says Deputy Speaker",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbzYzaGhnaEJ5QkpuVDJiRmtNeHNfX3g5c1JFMW1lWEE5WTBUTDFfT3ZkQkZLeUtqQ1oxYkYzUWtGeExaNFBlVzZ6bC1yaTc4RFd4QnpXNVVVQ1JxdFVNY25aQlRBSnNDUnJrZmozQ3BYY081dXZlOC1SQW0zXzktSzRMQVpIZGdYUHB5OG9UVVZYSkVBTDVfbkxsNFIwdU1aZ3QyWkwzSEpUZWdJMkk1ZzgyYTdvb25JTFM2ZjRMWQ?oc=5",
+   "time": "2026-10-29T15:56:05+08:00",
+   "summary": ""
+  },
+  {
+   "source": "chinadailyhk",
+   "title": "S'pore central bank reminds banks to manage haze-linked environmental risks",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HM2lFWVpFT0EtZS0yMzJ1aUF6aWUwUktTX0E5emhNdGlTdUtuUjQ2cGxrYW1TMF9TZnZ5VWJDM2lkM3F0YzZXbzR5OU5aY0Q0S2xSVXMzTlQ?oc=5",
+   "time": "2026-10-29T15:52:30+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Indonesia should respond to haze criticism with verifiable action: DPR Deputy Speaker",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbE1fWVlBZndid0l2eXF3RTBmTWtBYU9MeXJEWHo5YVRsOS1ncFhfU3l2Y0dUb1B6bUZBRXNBbWpkY3g1SmJTZnNtank1V0lfWUZwTC0zOVNZS3hrN2ZEYTk0VkZYZ0trWlVCeWxIY25tSVRvVTJaMm5YU085dm1iWnJpeUR4NVl1NkxyLXY1bEFwdUtXWTd0YzhfT185N0ltSDJ0Ym1JOW9XUnA5UE1CbHlITG5Zc2trUUhETA?oc=5",
+   "time": "2026-10-29T15:19:29+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -574,27 +595,6 @@
    "title": "Haze in S’pore: PM2.5 reading in elevated zone for 1st time since Oct 27, at 57 in the west",
    "url": "https://www.straitstimes.com/singapore/haze-in-spore-pm2-5-reading-in-elevated-zone-for-1st-time-since-oct-27-at-57-in-the-west",
    "time": "2026-10-29T11:27:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "联合早报",
-   "title": "10 firms called up over possible haze links; laws to be amended next week to strengthen enforcement",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa3g3TDFDa01uRDNwY19QSC1Qc21xeHQ3RkxMTFZCZkU0WEVSZWtiNmViN05GSS1aSkxQQ1ROUFM4dXItVE5ndkp6RTBuVmJvdkZ2ZlNjZjRvTndFZl9oTW9CSUFlbkJuV1AwSDg0bnlKUWFJejZSNUlmU2NKNU8yT3VNSmJGYlVSVVNhQ1FDY3BER1UweERibW9KdkJ3Z3pyN3pid29kOTEtaEtySk5HeWJRTDFXbW1sdHZUSENTVG04MzdvMllXODcxZy14UQ?oc=5",
-   "time": "2026-10-29T11:27:23+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: PM2.5 reading elevated in west region; air quality moderate",
-   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-air-quality-pm25-psi-oct-29-6501406",
-   "time": "2026-10-29T11:27:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze in S’pore: PM2.5 reading in the west returns to normal zone after entering elevated range",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWDg4bkZRalF3RjFpa19MNWtkNTVnT0dxQTViWl9wUVhkRVdHZXpNUnVoTGZad2xPNzFNZmh2dGxSSXdWSFUwS1U1MWFXY3VrNGJIRGhwcUMyMTlrZTRTTUF4aWlybkNyQTF1ZE9HSm1pdVJadkJWLU9pQkpFajNYbHV0d1dPT0YwR2JwX09FMXhiWU1sOUZNNU85ZzdJU1FSQ3lwYlpkVFpRNWY3VU0yRVVRTXktMWtPNG9fLXZhQnZvM09mWnc?oc=5",
-   "time": "2026-10-29T11:27:00+08:00",
    "summary": ""
   }
  ]
