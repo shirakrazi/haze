@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-29T19:00:00+08:00",
+ "updated": "2026-10-29T20:00:00+08:00",
  "psi": {
   "west": 77,
-  "east": 69,
-  "central": 68,
+  "east": 68,
+  "central": 67,
   "south": 68,
-  "north": 72
+  "north": 71
  },
  "pm25": {
-  "west": 27,
-  "east": 28,
-  "central": 21,
-  "south": 24,
+  "west": 34,
+  "east": 20,
+  "central": 18,
+  "south": 31,
   "north": 14
  },
  "hist": [
-  {
-   "t": "2026-10-27T19:00:00+08:00",
-   "psi": {
-    "west": 75,
-    "east": 62,
-    "central": 65,
-    "south": 63,
-    "north": 64
-   }
-  },
   {
    "t": "2026-10-27T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 72
    }
+  },
+  {
+   "t": "2026-10-29T20:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 68,
+    "central": 67,
+    "south": 68,
+    "north": 71
+   }
   }
  ],
- "newsUpdated": "2026-10-29T19:12:13+08:00",
+ "newsUpdated": "2026-10-29T20:26:48+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Indonesia Business Post",
+   "title": "Singapore summons 10 companies linked to haze fires",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVVDenU2STkwOE5Xb2ZyM190RllxVW1HMFA3TEZsTHRzMVdFa21faTBtSjB4UlNzaFlwOU4yZkxBZmxjSjRjMnB5S2tZTDNkQUlWLUdVYjQ5eHptZjUzemNDRWRkempxY0s0MkU4bHE2NmxGZHB4Q29Gdk1LdG1WZ1JxRU9MM2x1cVZTWWZGNjJFYU5kaFl4YlBDeFc0dmJ6VVRkOQ?oc=5",
+   "time": "2026-10-29T19:50:35+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Indonesia names 20 companies as forest fire suspects in crackdown on haze culprits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa2dSVnVSdHFLUGZfM0FZbXRwN041LXpmQ0RncW84UTRKaFU4UkF5Qnd3TTZkUUtUaU5ZMkZxZ2lGQll3RmJSN2JfczNHVm5DLWEtRDVKSEhtb05xZ3V4aTR1a291OTk3ZWMxVHowSGx6dUVDTTlvMW9HYW1uRmVnSEJtWks1WkxMdEVJY1I0ZW90Y2tDcUlMbUlXWHMycTZaQjlId01OeElZakxaOEdIUjdBalVNeDBGQTlmc29WZXFCQQ?oc=5",
+   "time": "2026-10-29T19:43:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "How Does Haze Impact Singapore's Investments in Indonesia?",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNXhEM21MUEFDcnNPM3pZaE84UUpxaWRGUkxZRk9RUUI0djg4dlNyY2FVa3RJb3RocUtxUDNkMzRUdkpRZEZ1UEtUQ3FON2xVcHVDc29ISU9jcFVOaEpXWUcyZmJKdG1jX0d5LU1nZ0h6RVV1TlRfOWxYdzNIekdxYzhRMW9VWUxrOFMwUFlMZHJvOHc?oc=5",
+   "time": "2026-10-29T19:38:13+08:00",
+   "summary": ""
   },
   {
    "source": "Bloomberg",
@@ -570,31 +591,10 @@
    "summary": ""
   },
   {
-   "source": "France 24",
-   "title": "Rains bring relief to Indonesian city weary of fire haze",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3M1aGNsLVU3QzA1OS1yaHNNR3o5Y2ZvNmpkTFREU2dpenZVVTAxN2FEM2huZTF5ZmxfR0duMEFkTHdRTFZlNjA1WFN4bkUteGJEUDlPYkF3ZzNmRTgyS0Rqc0d6eGIwMFVtWHUxZ2dSa0JiVVBEanZQakd2ZDhfc0hIVEZ3MnJUcGpBVHpzYVpSbFlCOFF0WnN3T3dHWVJ5UWJNV3hB?oc=5",
-   "time": "2026-10-29T17:58:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malaysiakini",
-   "title": "'Phone diplomacy's not enough': S'pore minister meets Prabowo as thousands protest haze",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmptRGVHVFluMDFoZUlpRzlxcFVNdlVYV0tjdE15c2J3b0lNb2hDNGxvRWp6ZUNZUGdSVWFLcU9IWVhUZUd4cUpkRnpQbUh3UDdla202UmFkUDFycWhQemU4ZEUxcTR1WUF4MTBfaG9lX1d3cG80ZnE2Vjg2M052NXhVaTdMSkl2bFFEbE1WbTZiWWVzZ2c2SDBPdHZmZWlRUi1oaGMyckYwUjFvZktZOU83VE4xVl94ejdsWkN4aUQ?oc=5",
-   "time": "2026-10-29T17:37:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Seoul Economic Daily",
-   "title": "Runners Take to Singapore Malls as Haze Chokes Outdoor Training",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbmtZTjNhS21UVjNoaEdwWnJjdjJqR2lid3NGbGtPbHdNLVR4dnBYVllsMmE2VExEMEhQb0tQZ2JOY0RLanQzTHlOSWU4ckZzN2Zjd1l4TXVJcmtKTkhJZkdoeFJQMlhFay1tVDJGNXYtN3JnZWxzWV9FQkNFNXlfUXlVSTVqXy1vTW9qMUh3dTBHZHd1aWtCdTQ3dnMxbGEwTW8wag?oc=5",
-   "time": "2026-10-29T17:21:57+08:00",
-   "summary": ""
-  },
-  {
-   "source": "InsuranceAsia News",
-   "title": "Southeast Asia fires, haze show no sign of major insured losses, but full impact hard to gauge: McLarens",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM3oyS2g2TDVCSTY5Y29XQW5LUnZsVjE2czNxejlzbzkyS2Q5UGJNWnN5Z3ZJS21HV3pKcFR4SDF5TFJZb3ItRW5fbTZTSDY0TFBJTWh5elBHeGVBZDV4Z0tKMndkb1FWWEszOXdmQURvZldzUTdUZlM3M1JIVlh1T2Qyc3lIeGw0VlUtdFdHRWZqcHRkVmFPY3RQZHg4Yzhfb3hneGtmb1N6NUlmUW5ZWHp4R05pMlI0NGNBYXU0OG9FczZIeWltUklGeEo?oc=5",
-   "time": "2026-10-29T16:49:03+08:00",
+   "source": "The Jakarta Post",
+   "title": "Rains bring relief to Indonesian provinces weary of fire haze",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeXFVcDRCVmZTLW5ZMnVDTGkzMVFwT19GbXJCeWJ4dEtOaUFKSWx0MWg0clJtT0VmOEZJcDRrcERXdmFKS3JHcTJTdXdrSlN4dENZdW8tNkdUc2NwOTVIbGxLMU1lNFdVR3c0bFdwd3dIR0hVNmFBY3VhcS0tUWtwOTVqSlFtS1k3Q3pMbW40andYMHRYSFJNSGFiVWktVktlemlyeV84ZU9pWDNZM3o3QUljTQ?oc=5",
+   "time": "2026-10-29T18:06:40+08:00",
    "summary": ""
   }
  ]
