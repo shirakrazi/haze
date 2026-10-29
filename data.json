@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-29T22:00:00+08:00",
+ "updated": "2026-10-29T23:00:00+08:00",
  "psi": {
-  "west": 76,
-  "east": 67,
-  "central": 67,
+  "west": 75,
+  "east": 66,
+  "central": 66,
   "south": 67,
   "north": 69
  },
  "pm25": {
-  "west": 18,
-  "east": 13,
-  "central": 20,
-  "south": 25,
-  "north": 8
+  "west": 15,
+  "east": 12,
+  "central": 19,
+  "south": 13,
+  "north": 12
  },
  "hist": [
-  {
-   "t": "2026-10-27T22:00:00+08:00",
-   "psi": {
-    "west": 73,
-    "east": 64,
-    "central": 66,
-    "south": 64,
-    "north": 65
-   }
-  },
   {
    "t": "2026-10-27T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 69
    }
+  },
+  {
+   "t": "2026-10-29T23:00:00+08:00",
+   "psi": {
+    "west": 75,
+    "east": 66,
+    "central": 66,
+    "south": 67,
+    "north": 69
+   }
   }
  ],
- "newsUpdated": "2026-10-29T22:18:44+08:00",
+ "newsUpdated": "2026-10-29T23:14:41+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Indonesia haze: Singapore deploys ‘quiet diplomacy’ in minister’s surprise visit",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcUF2YUNWdElpa1djLUhFUmViSEk5a2VhcnNvWC1Nc0xZYktFYk94bE1HaFZnWFJiNWRuSEdVd3hRYUhMekhnSGZOM2pqN19zbmdlWG1CQkJEaThINmZNTzNDQzNnX3BwZE5yc25GRkZaZHZJeEl6Y0Q2Q2VkOXlHSWJNRGdDb0F2eGtEOWdqSDBFWmlBV2lXY1BkNWNLVjdQQ18ySk5ldktUdk9xYTh2bDlXWHFjSWx0QlpCNmJINWV4YW9ZNTVVT3ViTE94MkJubHAtRDhmNDBKZ9IB2gFBVV95cUxOd1dzeHExZ0dkR25JQlNpSmszanVDSF80WXdEVDd3QUJRWjhuVkRyMmc5ZnA1c1l6bURPZVgzTU1WbzJ3d1c2ZTBBeHlWRWQ5c1NaOGNieUlZNkNYTlYyMWJQZnJPdk9GdmVYV291QkcydGZVVnY0bDdsWENBZ2VoQTV4VlhwQm9JY2ROYVowMUNNWmhoaV80cjB6ajB0ODVGVy01WjNkVnRaYUlhVzU1Q1V5bVJQTnVseV9ib05fT0d6bzczRjJ2T1p3N2pSMmFuN1FmcnlRUVV3dw?oc=5",
+   "time": "2026-10-29T22:35:57+08:00",
+   "summary": ""
+  },
+  {
+   "source": "InsuranceAsia News",
+   "title": "Southeast Asia fires, haze show no sign of major insured losses, but full impact hard to gauge: McLarens",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM3oyS2g2TDVCSTY5Y29XQW5LUnZsVjE2czNxejlzbzkyS2Q5UGJNWnN5Z3ZJS21HV3pKcFR4SDF5TFJZb3ItRW5fbTZTSDY0TFBJTWh5elBHeGVBZDV4Z0tKMndkb1FWWEszOXdmQURvZldzUTdUZlM3M1JIVlh1T2Qyc3lIeGw0VlUtdFdHRWZqcHRkVmFPY3RQZHg4Yzhfb3hneGtmb1N6NUlmUW5ZWHp4R05pMlI0NGNBYXU0OG9FczZIeWltUklGeEo?oc=5",
+   "time": "2026-10-29T22:09:46+08:00",
+   "summary": ""
   },
   {
    "source": "Al Jazeera",
@@ -581,20 +595,6 @@
    "title": "Singapore Seeks to Cool Tensions With Prabowo Over Wildfire Haze",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHpOZkRYU0tnN0VIcGc4MGlTYV8zU01XSDhBMkxfQTlwaTRfX0tXU3FVSUc5Z3EwYmQwcF9IRDdLUExEV0ZnVTRUQlVqTVZtMGtHMFJEeTMyVnR3cWZ2b2lyMHlJUkU4aDhEd2w4OHFsRGYxYkxOWmdBVi02LTVSejhBbjlUXzFHU3ZuX3plNVdKQ2VxYWYtZEUyb3pweDZENXB2SVpPUkpvQ2VwZ1U1azN3M2h4ai1rWnc?oc=5",
    "time": "2026-10-29T18:59:50+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Indonesia haze cost Malaysia US$1.97 billion in losses: study",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNczRyeEhaZFlVU2Y3MGkyV0dKTlh1Ry1fRTRUOXpTWG9McndoQ3ZhTkNDd1A5aE5LRExyQUxneXZCZVE1b1NwM3hidWQ3UjRhR2JBU0JXbEZGR0E1ZXh6OG5zeTc2YUhiVEplMGFyeGVycmRrWHo4LVpYSzVWVTNOaktWT0hDTm5jWTFodnpfakxkTGhiTTRPVzM0Qk9zbEQ2UWY3SURJRkVSSEJ0R29mMDZPaHE4d2xZekhEbzd30gG-AUFVX3lxTFBrcExzZ0lFVFpOR1h4Z2U2RlgyMk5Oc3d4VXBTWmxLRWlwaGpRMTRJOWRNbG5UeUczd016SkNHRzRmUXJFemNDamVXUDNhTDl6QUZ6Z0ZMeW8xeTk0Qi1aMkNRc3hGa2RrOVRBQTBBbFhPcWktbGkxcmtpSzJNb3lSTHJPN1UzQ0s5WnVORGwxMWx3TUJDOEFZZnRFWVkweUdCLUtyWU9seFFTSDZlV2xTMjlBeHB2TEkxM0swTkE?oc=5",
-   "time": "2026-10-29T18:48:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Lower risk of transboundary haze affecting Singapore due to onset of inter-monsoon: NEA",
-   "url": "https://www.straitstimes.com/singapore/environment/lower-risk-of-transboundary-haze-affecting-singapore-due-to-onset-of-inter-monsoon-nea",
-   "time": "2026-10-29T18:46:51+08:00",
    "summary": ""
   }
  ]
