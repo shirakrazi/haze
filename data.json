@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T07:00:00+08:00",
+ "updated": "2026-10-29T08:00:00+08:00",
  "psi": {
   "west": 77,
   "east": 72,
@@ -8,23 +8,13 @@
   "north": 72
  },
  "pm25": {
-  "west": 37,
-  "east": 32,
-  "central": 29,
-  "south": 33,
+  "west": 34,
+  "east": 35,
+  "central": 35,
+  "south": 21,
   "north": 38
  },
  "hist": [
-  {
-   "t": "2026-10-27T07:00:00+08:00",
-   "psi": {
-    "west": 71,
-    "east": 62,
-    "central": 66,
-    "south": 62,
-    "north": 63
-   }
-  },
   {
    "t": "2026-10-27T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 72
    }
+  },
+  {
+   "t": "2026-10-29T08:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 72,
+    "central": 71,
+    "south": 68,
+    "north": 72
+   }
   }
  ],
- "newsUpdated": "2026-10-29T07:08:17+08:00",
+ "newsUpdated": "2026-10-29T08:07:38+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,16 +507,23 @@
    "pinned": true
   },
   {
-   "source": "Yahoo",
-   "title": "Malaysia’s latest haze cost RM8b in welfare losses, may have led to 1,700 deaths, report finds",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHVTaFhjR2d6bWFnLXNvdU9ucl9JbXAxbDJtOEJnS1RoRzZfYVk5V2otRlcyTW5EWjl4TzRkRTZxTjdaLTNMcXhTUW53ZmlmR1NJMWgxNjlwNm5hTWdQNS14TncyUjlrdmt3bi14MjBKeC1SQTgyMlVUX3E5YVJKcmlucw?oc=5",
-   "time": "2026-10-29T07:00:00+08:00",
+   "source": "The Star",
+   "title": "Regional haze crisis calls for long-term solutions",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM01XNU5hUUdjU2R1Z2FOWlZ3MzEtUW1OeHR5bldXZGF1RmZiQzdZRjZfeEgwbnplaExaTE5hOUJxRHlIQkxoNGJaZmhreXhfVFUtbGlDemJlN2dIZno1akxsamZMU3dnZktVbmZESGE5OVNDbU5ZLXhtcndMc2xiY0dnNHZCa3d1N0EtbHVNby02cmdzMkpBUGo5WHYtNDRaXy1kMmpkaHNjTFJLMmxPY0JJZVE2bldhV1pqTUQ3UFZlT0txQnNz?oc=5",
+   "time": "2026-10-29T07:38:51+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "FMM report: Haze cost some Malaysian firms about RM280,000 in masks, medical expenses",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMTNSanJVbURVdW84OGh0S2I4X1VKMmkxTTNtOFFDczJ1TzNUQ1MzNEJxTGRnTUoyMFVFUTV6UHlKa25FYjBrT0hBSkVSMkZ2NkhTSmEzSnhXME15UF9YWURwU3lpRGotWTExM0VSNHZzdEpvQ1BORzNmc045TlJxQV8wYjRZaGxtek05Z3d3U2FoYmNjWGFrUk1aSF9qTk5UZ0ZlMUtuV2I2dUZKWEV1NGpSNjZhQW56ZmVicDBZTkVBMGVWeTNXcVFhMTdCN2pYNUFEV294Y9IB3AFBVV95cUxNbHVxakdmZlRqRlN1eEhCTEhpTUNvbjFLdDlnRGNNM0JIcUZuWFJpTmM3dUZ2MXFacTNYZG9UQjZUU1VjX0FWYWxaYVh4X1dLZ2JHWS00c0JPeVlEdjcyWkFCQldoMHhtYlRESlNuNzFOZjR6ZnhJRkY5aGFONGY4aXhMQ0xNSFhjOUFCcTRHcF9WQ3JtTXlyM3NjejBBbjB2dDFfTmdVdUprWVZRMEEzWHo2el9JRmtLZkhqQTdINjU0VVNTM25TUTFXVjdGR09MOHdGZldtelcxNzFP?oc=5",
+   "time": "2026-10-29T07:00:59+08:00",
    "summary": ""
   },
   {
    "source": "Yahoo",
-   "title": "FMM report: Haze cost some Malaysian firms about RM280,000 in masks, medical expenses",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa050Z2pUTk8xcVRoSTFDM2RkRGxGUTVUT3k3RGl0VF84NTBZd3liRi1fXzJHSTBfOU9RejZDOVcwMDFKcFlTRnREMTdyMDhwLWtYUWhsUjdWUmdtYUNTY2JlN3d3cW5zVGlCVERqV09oalVrcXhJQnNXc1RMOU9McVdWOA?oc=5",
+   "title": "Malaysia’s latest haze cost RM8b in welfare losses, may have led to 1,700 deaths, report finds",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHVTaFhjR2d6bWFnLXNvdU9ucl9JbXAxbDJtOEJnS1RoRzZfYVk5V2otRlcyTW5EWjl4TzRkRTZxTjdaLTNMcXhTUW53ZmlmR1NJMWgxNjlwNm5hTWdQNS14TncyUjlrdmt3bi14MjBKeC1SQTgyMlVUX3E5YVJKcmlucw?oc=5",
    "time": "2026-10-29T07:00:00+08:00",
    "summary": ""
   },
@@ -588,13 +595,6 @@
    "title": "Singapore to introduce new laws to investigate companies linked to haze",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVjFWbXNIS19TWU1kQURaNEdKallqX1AtSmNJYWJCNGd2eERaYmpUNG5qbmJMbUF6WmRkWWxMUVJpREFvTDF1ZEVzR3BsdUQ5QnluNEpwTDlmd2VVbVJEWmNZMl9ncVNxYVZVYlNYWXlycnNwNHFtWXhseG00LVQ0SnZaX1hCU2pVQmE3VnJERTQzRzE2MmgyZkdDd3d6aUd1My1uT20zMExYYnpH?oc=5",
    "time": "2026-10-28T22:32:12+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malaysiakini",
-   "title": "S'pore calls up top officials of firms with haze links, warns them to cooperate",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcHdoZlVWZEpyamMtOHdwemhZMUpna3FSa0pnRHQ2UVlyaEZlckNKbVJIcS0zRkh1ZFBZT0ZZamdmQ244X2RwLXlMYW5pdGpEZHdsOXdsRnlYQldkaTlVVFhoY0pvRFNpSjl2Vlo3ZDc1WjBGVldaSElleWZjTDFZZFhZQlY4UE9PRDhpbUI3OGZfd3Z5NFA3Ni11UURLdExpeTlPWHA5TXhVcUhVV3N5bU0xTHk5aU1nR2c?oc=5",
-   "time": "2026-10-28T22:21:00+08:00",
    "summary": ""
   }
  ]
