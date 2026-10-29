@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-29T21:00:00+08:00",
+ "updated": "2026-10-29T22:00:00+08:00",
  "psi": {
-  "west": 77,
-  "east": 68,
+  "west": 76,
+  "east": 67,
   "central": 67,
-  "south": 68,
-  "north": 70
+  "south": 67,
+  "north": 69
  },
  "pm25": {
-  "west": 27,
-  "east": 17,
-  "central": 22,
-  "south": 26,
-  "north": 15
+  "west": 18,
+  "east": 13,
+  "central": 20,
+  "south": 25,
+  "north": 8
  },
  "hist": [
-  {
-   "t": "2026-10-27T21:00:00+08:00",
-   "psi": {
-    "west": 73,
-    "east": 63,
-    "central": 65,
-    "south": 63,
-    "north": 64
-   }
-  },
   {
    "t": "2026-10-27T22:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 70
    }
+  },
+  {
+   "t": "2026-10-29T22:00:00+08:00",
+   "psi": {
+    "west": 76,
+    "east": 67,
+    "central": 67,
+    "south": 67,
+    "north": 69
+   }
   }
  ],
- "newsUpdated": "2026-10-29T21:10:12+08:00",
+ "newsUpdated": "2026-10-29T22:17:15+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Indonesians share impact of haze on their livelihoods",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSDFBalFsd2ZBRlZYWmlXa3hxTGVKanNBQ0JlWmxyT0ZvT2doRFpoWlBhRnJEZml0VkUxNElTVmt1TkcwUDRFME8zOWV2bW5KdWF0NUFBdWtQX0c0UHNRY21NYkxHc21IYTFBbUVaaEwxNUVHYUg1MTJ1dXdXUjY2NEZxM0VPRzhITF9BZlJMS0RVWnFleTBidHAzWEJTYVdxVWI0NzhqYmbSAa4BQVVfeXFMTlNvTkpFY1M5dTVSLUhXZkRGRU9nR1JPQmxCdmRMU1lNMC1adURBNE5OcUpRXy1FU0pMdFJ3R1drWWMwQ2xlb3Q4bmZKN3Fjb080Q0dvcjNyLVZGbnlpamdPTlF0QzBQXzg1TG5ldlYwajM5OXFkaWx1anJNdHdnNmQyWTRfZmp4OHZDaWVVb3lGNXNLcmFUci1YdWNZNU8xZkY2aGFTanRUVjRjV3Jn?oc=5",
+   "time": "2026-10-29T21:31:15+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "TSH Resources Denies Links To Firms Named In Singapore Haze Probe",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONjZPcTVRaDhJdEFiRl8xcE9hSXVfZEJFTWkxSWI1dVdiRDRuVkgwMElsUTdraVA4azdBUTR5Y3lMSDNfNm1pTzZrTFlZNDF1M3d3US1iTmhLdF94X0dSY210Rm5WQldYWHFwUTl6STJ1NkdncVdaZGMyQzJRRktPUzc0WTMzTWJic0VWbWNsal84aTBSYll4ZVJRa0pWWVJ4bTQ3dDl3ZERmNllONVlF?oc=5",
+   "time": "2026-10-29T21:09:46+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Mothership",
+   "title": "Skies are clearing, but S’pore & Indonesia’s work on the haze is only just beginning",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHdWa2pSTUpVOU1Ccm9BcFFvSWozd1Nhc2pJRzBMMkdEaS1PWXplVVZzdXYwWEdxOVhGVnFEMFlVYjlCVG52Z2s2OU9vLWJ5QkQ4Z0d4c1FBR3NTSUZmVXBaYVM3MFY3ZGlibHF1SXhab0JuREZWN3FxMm5lX3BCZg?oc=5",
+   "time": "2026-10-29T21:09:44+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Guardian",
+   "title": "‘Feels like we’ve gone backwards’: Indonesia’s choking haze provides spark for wider protests",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFluNEk2RWtBR2RSMHQ2cGdBWElPa3QtdUZaTldvVnNLaTR1RThyWDNBSWtfQk1pVkFHQzBGUXg4dWxyTERGRlRFWEg1V09sc0xScmVTNTlNb25LRmRLUFNFUFFKN3pJdGJ0STBvTExyWE1HYzVmRVFVZFNfdUFzT2l2MUhFSWh0bGc?oc=5",
+   "time": "2026-10-29T20:54:00+08:00",
+   "summary": ""
   },
   {
    "source": "NEA.gov.sg",
@@ -567,34 +595,6 @@
    "title": "Haze expected to ease with onset of inter-monsoon; thundery showers on most days in first half of November",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd2xCbjd0N2kzLWxJQk5nNjJRMjNzNnR0WGY2VkJTdGw5bEh1cmkyTllRcm5vMDFiQzlpMjFHcng4Yk5DLUItY2ZudFA5WDJYejJ5RXYyNzc4d0p3S2tiTDJfOExRMjVyWXJkdHVlU2V3UURUZnJPZm1rNk42SllrRGp4UEotWTdyeEZFQVN3?oc=5",
    "time": "2026-10-29T18:42:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Singapore Warns Firms Probed Over Haze Links to Cooperate Fully",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWXJYMkRkRW5RNHl6OFJiVzNRc3FIMFpNUTN6VmhNWnQ5bDlnRUFFSkpWeHE1ajQxUElGLVhOeHNPOXYxRXBBUHVtaVR1bEZ2SXJ4a2QtUTNDRVc5TG9iMGdHRW5VZ1h0MjJMekt0bjQxTUE2MS1WZGRVTXNjbElmSVZyMXpxNXcxV0hmTmJ4VENJSmxWd2JBZ3J4VQ?oc=5",
-   "time": "2026-10-29T18:38:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ANTARA News",
-   "title": "Indonesia says haze, gas issues will not derail Singapore investment",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmNLZVVvcGJwd3J6T1BTR193R1RDY0cwa2NrblBuc1FPR1Y3U2ZkUzJ2bGNWTHVIbWhkZWFlVXFBV08tblA4MzZhWHo0NldFSXpqVnpPdVdjVmRJZlYyWC1mRF9SMDNqQ1Z1R1RNZng2ejNzdW5IWXRETU1Bc2E0QmZVVlJneFE5YTd5RkIyVDZIQThJeGdrTThUQ2NZZWlLTC1EVGpyUE1hWC0tY2fSAa4BQVVfeXFMT0JjS2VVb3BicHdyek9QU0dfd0dUQ2NHMGtja25QbnNRT0dWN1NmZFMydmxjVkx1SG1oZGVhZVVxQVdPLW5QODM2YVh6NDZXRUl6alZ6T3VXY1ZkSWZWMlgtZkRfUjAzakNWdUdUTWZ4Nnozc3VuSFl0RE1NQXNhNEJmVVZSZ3hROWE3eUZCMlQ2SEE4SXhna004VENjWWVpS0wtRFRqclBNYVgtLWNn?oc=5",
-   "time": "2026-10-29T18:26:35+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Nikkei Asia",
-   "title": "Indonesia fires and haze cause more than 5,200 deaths, study says",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOEFQeVVPZjlfLXIwSjk4V2JIZ1ZVM3BLUEt6cEVqVU5XNkRkZm1CUlBOQjFTNlVzQzlaTDNLNUJEN3VPaDdtQ0RXcHNROGhJUURiRVRhNDZBR25uMTIxNWc2YWluR2UxSERPSlY3dzZHakZibE1CdWJJWVZlckhHZzBuRkpybzJlMjkyeU9jN0E3dFVFMXBWWExoU0xkLWdjam93Vw?oc=5",
-   "time": "2026-10-29T18:25:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Greenpeace",
-   "title": "Singapore Moves to Strengthen Haze Law. Will Malaysia Finally Act?",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd19LQUhZdVNCaFQ0WEZsSkFYektZR2Q4R29uSzIwNHNkWnZ1Q19rX3pnN3k2c1pYZmUwUWwwekhaNk0zZGtxbFV2VHlNck1pUHVhZDU5VHRhRTFwcUpHZ3g3NVJiemx2dkwxTDEwSnl4OHNWTmNYZVVObktXdDNnWGhRczVDeDMzMkhVajQyb0E1Q3UxVllmeFBpX1dqaFBkRWk5VWlheXFnVG41RTdWYjJCUQ?oc=5",
-   "time": "2026-10-29T18:11:58+08:00",
    "summary": ""
   }
  ]
