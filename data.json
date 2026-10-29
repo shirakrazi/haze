@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-30T05:00:00+08:00",
+ "updated": "2026-10-30T06:00:00+08:00",
  "psi": {
-  "west": 70,
-  "east": 60,
-  "central": 65,
+  "west": 68,
+  "east": 59,
+  "central": 64,
   "south": 63,
-  "north": 65
+  "north": 64
  },
  "pm25": {
-  "west": 11,
-  "east": 13,
-  "central": 21,
-  "south": 15,
-  "north": 22
+  "west": 13,
+  "east": 17,
+  "central": 17,
+  "south": 16,
+  "north": 20
  },
  "hist": [
-  {
-   "t": "2026-10-28T06:00:00+08:00",
-   "psi": {
-    "west": 76,
-    "east": 71,
-    "central": 74,
-    "south": 66,
-    "north": 74
-   }
-  },
   {
    "t": "2026-10-28T07:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 63,
     "north": 65
    }
+  },
+  {
+   "t": "2026-10-30T06:00:00+08:00",
+   "psi": {
+    "west": 68,
+    "east": 59,
+    "central": 64,
+    "south": 63,
+    "north": 64
+   }
   }
  ],
- "newsUpdated": "2026-10-30T05:10:22+08:00",
+ "newsUpdated": "2026-10-30T06:07:34+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Bloomberg.com",
+   "title": "Singapore Seeks to Cool Tensions With Prabowo Over Wildfire Haze",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHpOZkRYU0tnN0VIcGc4MGlTYV8zU01XSDhBMkxfQTlwaTRfX0tXU3FVSUc5Z3EwYmQwcF9IRDdLUExEV0ZnVTRUQlVqTVZtMGtHMFJEeTMyVnR3cWZ2b2lyMHlJUkU4aDhEd2w4OHFsRGYxYkxOWmdBVi02LTVSejhBbjlUXzFHU3ZuX3plNVdKQ2VxYWYtZEUyb3pweDZENXB2SVpPUkpvQ2VwZ1U1azN3M2h4ai1rWnc?oc=5",
+   "time": "2026-10-30T05:31:36+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Phys.org",
+   "title": "Rains bring relief to Indonesian city weary of fire haze",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qTWFMOElJb1FvS0x3bk5DMXBJcGhzZklvaTYwTng0RE8yWTBHSXZiUW5SUldLQUdrOGZBZ0p0ZC1yQ1BTTV9kZ1NLaE1ZX2VGZTJKN050VThLSWtXcVI5cVk5Sl8tUlo4ems2OUY2S21pWWgycWpv?oc=5",
+   "time": "2026-10-30T01:41:40+08:00",
+   "summary": ""
+  },
+  {
+   "source": "London Daily News",
+   "title": "Singapore regulator reinforces banks’ haze-related environmental risk expectations",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNODY0NHBtX2haUlpfcklYWTFIckNrNFo5SVZkd1pYTl85ZVB3SHJZZU1xRE9LblBucVFCY3Jpb29QdG9oeGVvLXpIVDFDTm1EMVRSdGZZZGptenRocGt3c3B3dmo5OTZtYURSQU41TEF0dld5NjM5dWJjbkNWY2ZNR2RpMlluckJ6Y0JtSkRJZHZLckdkYWVzYjNZNXBuOHV0bUluZHJvUW9leXEtUnVfNA?oc=5",
+   "time": "2026-10-30T00:08:15+08:00",
+   "summary": ""
   },
   {
    "source": "Facebook",
@@ -574,27 +595,6 @@
    "title": "Haze Situation Update (29 October 2026)",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZG01V1RoUy05Ny1IMmJIVzBVVmNuTmoxcl9rQTVnTDlnbVlOYlhHM0djQ1pLMlRtS2tqWUY2bFdha2M2UFpNMTNrbFZ0MC0yMDNWY3hJZV9PYmR1SmhVQUFmMWRRSWJ1QlFrbVFZSGRwV0dBMk0xN3N5QmVRbnl2SzJ5WFM2cFEwbGZacGc5a2xSUQ?oc=5",
    "time": "2026-10-29T20:12:53+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "'Praise be to God': Rain brings relief to haze-hit Indonesian city",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV1ZYRXZHdWhnajJzbjd4QlJVdEdmRDAtZS1Ja0Z6Rjg2d3VNREY0ak9nOURmTnh6RmUzVElxbHEwa3lrVFpwa19ReUF1cTRGQ1hZdU4tZ3MxWDdXRFhjUnQwQ1Njc1lIMWdWZExycXFtS3pxaGN6dWc0d1ZWUjZicWhhZkFfRkgteHBUWWJPWWJlUVdWemVMMldrZ2lTVXI0NVdLRTlUUE1ZcHNrNkt6VFpaUdIBswFBVV95cUxNV1ZYRXZHdWhnajJzbjd4QlJVdEdmRDAtZS1Ja0Z6Rjg2d3VNREY0ak9nOURmTnh6RmUzVElxbHEwa3lrVFpwa19ReUF1cTRGQ1hZdU4tZ3MxWDdXRFhjUnQwQ1Njc1lIMWdWZExycXFtS3pxaGN6dWc0d1ZWUjZicWhhZkFfRkgteHBUWWJPWWJlUVdWemVMMldrZ2lTVXI0NVdLRTlUUE1ZcHNrNkt6VFpaUQ?oc=5",
-   "time": "2026-10-29T20:10:07+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Indonesia Business Post",
-   "title": "Singapore summons 10 companies linked to haze fires",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVVDenU2STkwOE5Xb2ZyM190RllxVW1HMFA3TEZsTHRzMVdFa21faTBtSjB4UlNzaFlwOU4yZkxBZmxjSjRjMnB5S2tZTDNkQUlWLUdVYjQ5eHptZjUzemNDRWRkempxY0s0MkU4bHE2NmxGZHB4Q29Gdk1LdG1WZ1JxRU9MM2x1cVZTWWZGNjJFYU5kaFl4YlBDeFc0dmJ6VVRkOQ?oc=5",
-   "time": "2026-10-29T20:04:53+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bangkok Post",
-   "title": "Rains bring relief to haze-weary Indonesian city",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYmt2TWZhN0ZDRkN6MGNVRUJOTlFJWDR1eGtuWlN0QURrNktUVFN2YkxlU3h0ek51akRlXzRndnpnTWhPdW5QdzU5TVhYcVFkZ2ZyR3l2NzRlSzNkVUhNMlVueEl3UFBUZHFYaW84YzVGOHBidDZhMTJRaEhVT0NkTkcyWDNjeWJOV1FEdUY5VlZkOWc?oc=5",
-   "time": "2026-10-29T19:45:00+08:00",
    "summary": ""
   }
  ]
