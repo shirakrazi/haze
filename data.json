@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-29T18:00:00+08:00",
+ "updated": "2026-10-29T19:00:00+08:00",
  "psi": {
   "west": 77,
-  "east": 68,
+  "east": 69,
   "central": 68,
   "south": 68,
   "north": 72
  },
  "pm25": {
-  "west": 30,
-  "east": 16,
-  "central": 17,
-  "south": 17,
-  "north": 20
+  "west": 27,
+  "east": 28,
+  "central": 21,
+  "south": 24,
+  "north": 14
  },
  "hist": [
-  {
-   "t": "2026-10-27T18:00:00+08:00",
-   "psi": {
-    "west": 76,
-    "east": 62,
-    "central": 65,
-    "south": 62,
-    "north": 65
-   }
-  },
   {
    "t": "2026-10-27T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 72
    }
+  },
+  {
+   "t": "2026-10-29T19:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 69,
+    "central": 68,
+    "south": 68,
+    "north": 72
+   }
   }
  ],
- "newsUpdated": "2026-10-29T18:08:22+08:00",
+ "newsUpdated": "2026-10-29T19:12:13+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,69 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Bloomberg",
+   "title": "Singapore Seeks to Cool Tensions With Prabowo Over Wildfire Haze",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHpOZkRYU0tnN0VIcGc4MGlTYV8zU01XSDhBMkxfQTlwaTRfX0tXU3FVSUc5Z3EwYmQwcF9IRDdLUExEV0ZnVTRUQlVqTVZtMGtHMFJEeTMyVnR3cWZ2b2lyMHlJUkU4aDhEd2w4OHFsRGYxYkxOWmdBVi02LTVSejhBbjlUXzFHU3ZuX3plNVdKQ2VxYWYtZEUyb3pweDZENXB2SVpPUkpvQ2VwZ1U1azN3M2h4ai1rWnc?oc=5",
+   "time": "2026-10-29T18:59:50+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Indonesia haze cost Malaysia US$1.97 billion in losses: study",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNczRyeEhaZFlVU2Y3MGkyV0dKTlh1Ry1fRTRUOXpTWG9McndoQ3ZhTkNDd1A5aE5LRExyQUxneXZCZVE1b1NwM3hidWQ3UjRhR2JBU0JXbEZGR0E1ZXh6OG5zeTc2YUhiVEplMGFyeGVycmRrWHo4LVpYSzVWVTNOaktWT0hDTm5jWTFodnpfakxkTGhiTTRPVzM0Qk9zbEQ2UWY3SURJRkVSSEJ0R29mMDZPaHE4d2xZekhEbzd30gG-AUFVX3lxTFBrcExzZ0lFVFpOR1h4Z2U2RlgyMk5Oc3d4VXBTWmxLRWlwaGpRMTRJOWRNbG5UeUczd016SkNHRzRmUXJFemNDamVXUDNhTDl6QUZ6Z0ZMeW8xeTk0Qi1aMkNRc3hGa2RrOVRBQTBBbFhPcWktbGkxcmtpSzJNb3lSTHJPN1UzQ0s5WnVORGwxMWx3TUJDOEFZZnRFWVkweUdCLUtyWU9seFFTSDZlV2xTMjlBeHB2TEkxM0swTkE?oc=5",
+   "time": "2026-10-29T18:48:34+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Lower risk of transboundary haze affecting Singapore due to onset of inter-monsoon: NEA",
+   "url": "https://www.straitstimes.com/singapore/environment/lower-risk-of-transboundary-haze-affecting-singapore-due-to-onset-of-inter-monsoon-nea",
+   "time": "2026-10-29T18:46:51+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Haze expected to ease with onset of inter-monsoon; thundery showers on most days in first half of November",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd2xCbjd0N2kzLWxJQk5nNjJRMjNzNnR0WGY2VkJTdGw5bEh1cmkyTllRcm5vMDFiQzlpMjFHcng4Yk5DLUItY2ZudFA5WDJYejJ5RXYyNzc4d0p3S2tiTDJfOExRMjVyWXJkdHVlU2V3UURUZnJPZm1rNk42SllrRGp4UEotWTdyeEZFQVN3?oc=5",
+   "time": "2026-10-29T18:42:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "Singapore Warns Firms Probed Over Haze Links to Cooperate Fully",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM3lzdWprWnJVNVp6V1lwd3VySUZTVWx5bGRiM2x5Qkh1OWRRMXVGYV9mQktvNGw2SFE3VGxrN3ljLWZrSDV6dE1za0dBN18taC1ybHVlYks5RnFyRk4wU0YwNFJ4Sk9fbk85d3d6TEE4Rm1jRUJ4T1R2NUNRWjdkcmFJNGVDcUx3dmZvcllwZl9KMWNiVU05cG1aRkc?oc=5",
+   "time": "2026-10-29T18:36:32+08:00",
+   "summary": ""
+  },
+  {
+   "source": "ANTARA News",
+   "title": "Indonesia says haze, gas issues will not derail Singapore investment",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmNLZVVvcGJwd3J6T1BTR193R1RDY0cwa2NrblBuc1FPR1Y3U2ZkUzJ2bGNWTHVIbWhkZWFlVXFBV08tblA4MzZhWHo0NldFSXpqVnpPdVdjVmRJZlYyWC1mRF9SMDNqQ1Z1R1RNZng2ejNzdW5IWXRETU1Bc2E0QmZVVlJneFE5YTd5RkIyVDZIQThJeGdrTThUQ2NZZWlLTC1EVGpyUE1hWC0tY2fSAa4BQVVfeXFMT0JjS2VVb3BicHdyek9QU0dfd0dUQ2NHMGtja25QbnNRT0dWN1NmZFMydmxjVkx1SG1oZGVhZVVxQVdPLW5QODM2YVh6NDZXRUl6alZ6T3VXY1ZkSWZWMlgtZkRfUjAzakNWdUdUTWZ4Nnozc3VuSFl0RE1NQXNhNEJmVVZSZ3hROWE3eUZCMlQ2SEE4SXhna004VENjWWVpS0wtRFRqclBNYVgtLWNn?oc=5",
+   "time": "2026-10-29T18:26:35+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Nikkei Asia",
+   "title": "Indonesia fires and haze cause more than 5,200 deaths, study says",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOEFQeVVPZjlfLXIwSjk4V2JIZ1ZVM3BLUEt6cEVqVU5XNkRkZm1CUlBOQjFTNlVzQzlaTDNLNUJEN3VPaDdtQ0RXcHNROGhJUURiRVRhNDZBR25uMTIxNWc2YWluR2UxSERPSlY3dzZHakZibE1CdWJJWVZlckhHZzBuRkpybzJlMjkyeU9jN0E3dFVFMXBWWExoU0xkLWdjam93Vw?oc=5",
+   "time": "2026-10-29T18:25:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Haze situation in Singapore expected to improve as inter-monsoon period sets in: Met Service",
+   "url": "https://www.channelnewsasia.com/singapore/haze-air-quality-weather-monsoon-outlook-6502751",
+   "time": "2026-10-29T18:11:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NEA.gov.sg",
+   "title": "Onset Of Inter-Monsoon Period Expected To Bring Improvement To Haze Situation",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT2xSNXVxOXEtazhGR1NaOHVidjNnaDZGM21zaXdfRDVFTUl6WnljaUZlWnl0UGJJMlV6d3hZeVdDTlF1c1QxY3RkQmNvRU5NY3NHS243dGYxT0FkakVKMk9BYjcwV0xzMjVKWE5YVHRLQUxfU3hOcjNrREtabl9ObE1wY3d5dTFvcnZ0WUlzRVFYX3kzRHFPMUtMVUJvYkRKTVMzc2o0LTJ0bGhGaWVLRm1RVHhxV0FYWXFMSzNCcEppWVhhVE1Z?oc=5",
+   "time": "2026-10-29T18:09:15+08:00",
+   "summary": ""
   },
   {
    "source": "France 24",
@@ -521,80 +584,17 @@
    "summary": ""
   },
   {
+   "source": "Seoul Economic Daily",
+   "title": "Runners Take to Singapore Malls as Haze Chokes Outdoor Training",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbmtZTjNhS21UVjNoaEdwWnJjdjJqR2lid3NGbGtPbHdNLVR4dnBYVllsMmE2VExEMEhQb0tQZ2JOY0RLanQzTHlOSWU4ckZzN2Zjd1l4TXVJcmtKTkhJZkdoeFJQMlhFay1tVDJGNXYtN3JnZWxzWV9FQkNFNXlfUXlVSTVqXy1vTW9qMUh3dTBHZHd1aWtCdTQ3dnMxbGEwTW8wag?oc=5",
+   "time": "2026-10-29T17:21:57+08:00",
+   "summary": ""
+  },
+  {
    "source": "InsuranceAsia News",
    "title": "Southeast Asia fires, haze show no sign of major insured losses, but full impact hard to gauge: McLarens",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM3oyS2g2TDVCSTY5Y29XQW5LUnZsVjE2czNxejlzbzkyS2Q5UGJNWnN5Z3ZJS21HV3pKcFR4SDF5TFJZb3ItRW5fbTZTSDY0TFBJTWh5elBHeGVBZDV4Z0tKMndkb1FWWEszOXdmQURvZldzUTdUZlM3M1JIVlh1T2Qyc3lIeGw0VlUtdFdHRWZqcHRkVmFPY3RQZHg4Yzhfb3hneGtmb1N6NUlmUW5ZWHp4R05pMlI0NGNBYXU0OG9FczZIeWltUklGeEo?oc=5",
    "time": "2026-10-29T16:49:03+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Fintech Singapore",
-   "title": "MAS Tells Banks to Scrutinise Clients Linked to Haze",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82UFQtOUFLZ19wZjhvdDNXSG4tUHA4S0dQcDhzTXNPQVE0T2Z3UjlGeUI5UkFmRWdnSnFmRlBPSk9LbmpaaE9xRnJKbkxwT1FWM3lTUmJ3Tk9xRE1qZ3NRYWpVcmNJUXM5Nmx3d3g1Y2pXMWF1M2s3alRCNVM?oc=5",
-   "time": "2026-10-29T16:08:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Singapore central bank reminds banks to manage environmental risks linked to haze",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONXhQR2pJRjVQYnN3TmhOeDl2VVdGdGNWR19nVXlnTkRmNk12WUxwREFWTk1USUQ2ckZZNzhkS1dfSGh6a1cyc3VTaE05eGFqQW01U1d1ajVBMUhtcG9QOVhiU2d5SVJHODEwX3lhMUIwUi1SZUIwQjVsREx2RnFXekpRMnBVZkNmMjQtcmtIQWNEZERzVHI2SDM0amROQVg1OTJlQ29TM2o2WTNmMHZ0UHl1OE1SRFRSaE9NTW03Qk5FM2o5UXRINVY3cXY1ZUhjUlcwWEo2bjRhdWNH?oc=5",
-   "time": "2026-10-29T16:01:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "BusinessToday Malaysia",
-   "title": "Indonesia Must Strengthen Haze Prevention And Enforcement, Says Deputy Speaker",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbzYzaGhnaEJ5QkpuVDJiRmtNeHNfX3g5c1JFMW1lWEE5WTBUTDFfT3ZkQkZLeUtqQ1oxYkYzUWtGeExaNFBlVzZ6bC1yaTc4RFd4QnpXNVVVQ1JxdFVNY25aQlRBSnNDUnJrZmozQ3BYY081dXZlOC1SQW0zXzktSzRMQVpIZGdYUHB5OG9UVVZYSkVBTDVfbkxsNFIwdU1aZ3QyWkwzSEpUZWdJMkk1ZzgyYTdvb25JTFM2ZjRMWQ?oc=5",
-   "time": "2026-10-29T15:56:05+08:00",
-   "summary": ""
-  },
-  {
-   "source": "chinadailyhk",
-   "title": "S'pore central bank reminds banks to manage haze-linked environmental risks",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HM2lFWVpFT0EtZS0yMzJ1aUF6aWUwUktTX0E5emhNdGlTdUtuUjQ2cGxrYW1TMF9TZnZ5VWJDM2lkM3F0YzZXbzR5OU5aY0Q0S2xSVXMzTlQ?oc=5",
-   "time": "2026-10-29T15:52:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Indonesia should respond to haze criticism with verifiable action: DPR Deputy Speaker",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbE1fWVlBZndid0l2eXF3RTBmTWtBYU9MeXJEWHo5YVRsOS1ncFhfU3l2Y0dUb1B6bUZBRXNBbWpkY3g1SmJTZnNtank1V0lfWUZwTC0zOVNZS3hrN2ZEYTk0VkZYZ0trWlVCeWxIY25tSVRvVTJaMm5YU085dm1iWnJpeUR4NVl1NkxyLXY1bEFwdUtXWTd0YzhfT185N0ltSDJ0Ym1JOW9XUnA5UE1CbHlITG5Zc2trUUhETA?oc=5",
-   "time": "2026-10-29T15:19:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze exposes gaps in Malaysia’s workplace protections for outdoor workers",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWZHRW1aanU1YTJpTkhTSE9FX0FtbmJqYjU2cG85WWNDZlk4b2hLTzRTbTA0MDlrUnVvd3pTS1Fhd3l2ZXNJa3VWZFBYQnNyT3kxQXJMYjRucklnY045VVo3eTFnazRTUDM1TU9LVlR2aVVWOTVsR3VfYkVSVmtydmFfemdtN1RuQlFZak9MTG9TWTBobm5DY0JWZWU1ZzdOQTM3NGVwbTdpY3VEbUVhMERzUFE?oc=5",
-   "time": "2026-10-29T14:45:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Singapore runners swap streets for a shopping centre as haze chokes city state",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWJYTGFkcnhmc1NPd3RXWHlZaVJDRnRod1ZQQzE2bTRWSG0tRnI0czlPS2xtcE9DVUdWWXlFbk5KSkgwWGNnMTBsZDIzaGpVOTlhakN2eUE1R2ZwVHdXZ2JfN08xa2E3WW02N1M5SUZ6TXBTUVFGQW9COFh0S2JkSXBER0pDVmJNbHFVbnZyWGhsakNPd2dOV3poUmJzZjFDRW5HRloxalF2anhhUFRz?oc=5",
-   "time": "2026-10-29T14:38:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "PM Wong, Prabowo committed to ‘do what is necessary’ to tackle bilateral issues, including haze: Vivian Balakrishnan",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOekl1QkZYYWdTS2tvM0l2NHFXeTVKd3pTQ05wdExXTWRodTVseFB3UGluS2RzMXVjcUdjbV81WUt1TnZGOTVIR2R0RnNYR1dSRnNSSEpfUWM5bnJ1WHotaEE5WHpxdkJQWldTeEs4VmNaSUJ4UWpFRnVrdUtZbnJXWnhILXBBNVdiU0d4ek9SUVFLenhwcXVPVWpWNlN2eEh5X1llQktNNXF2ckU3SzlERjFB?oc=5",
-   "time": "2026-10-29T13:49:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Summoned to meeting with Singapore leaders, top honchos of 10 firms pledge to cooperate with haze probes",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOEN3Zy11aUkwaU5CSWlOWUVUV0xLb25zNTd3WjNGekVvN1YwbTh2M0R6S2VqUWV3TVBJY0RGM3g0bFVLUU50ejZ0WHBMNnRYQzFVUm50YUdaYUVCSkx4VFh3Y3c2cDVkdWVsQ1VUOHpHc2lUdDlaRFVZOFB3cUVZM3pfTGpsa1FfelMwdWVJRHlqdFJoNUlKVGhvZFc5SnQyOFhIRmtKa0NkczkzUWUwdUg2MDEtd2M1VzhJ?oc=5",
-   "time": "2026-10-29T12:50:33+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The National",
-   "title": "Oh, how we wish the haze choking South-East Asia was just fog",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTZ4R01lbVBIUE82ZHJMcnFhLTZCU0pYYzBiTXNGaUx2TjNaR3dRbVVoNWZhU0lxYzRwT0lpU3NySFY0WmYxbU1sS0Z5RlNTdnE2VF9wVU4wSklTUlYzQ3doX3BLUzVwVHEzdXc0UGcyeGRlTUNrc2dpQWpSM25ZOF8zMlhjeVJGdWprU0NNNlNiMzNZOG1ScEZVSndFQlZwbHV6REZ3SHhGU2I4?oc=5",
-   "time": "2026-10-29T12:50:04+08:00",
    "summary": ""
   }
  ]
