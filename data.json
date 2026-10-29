@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-29T09:00:00+08:00",
+ "updated": "2026-10-29T10:00:00+08:00",
  "psi": {
   "west": 77,
   "east": 72,
   "central": 71,
-  "south": 68,
+  "south": 69,
   "north": 72
  },
  "pm25": {
-  "west": 31,
+  "west": 47,
   "east": 36,
-  "central": 39,
-  "south": 40,
-  "north": 44
+  "central": 41,
+  "south": 42,
+  "north": 43
  },
  "hist": [
-  {
-   "t": "2026-10-27T09:00:00+08:00",
-   "psi": {
-    "west": 71,
-    "east": 62,
-    "central": 65,
-    "south": 62,
-    "north": 62
-   }
-  },
   {
    "t": "2026-10-27T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 72
    }
+  },
+  {
+   "t": "2026-10-29T10:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 72,
+    "central": 71,
+    "south": 69,
+    "north": 72
+   }
   }
  ],
- "newsUpdated": "2026-10-29T09:07:36+08:00",
+ "newsUpdated": "2026-10-29T10:07:09+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,17 @@
    "pinned": true
   },
   {
+   "source": "The Online Citizen",
+   "title": "Haze meeting “looks serious” but results matter more than positions, says NUS academic",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMU9uMDE5ZFR0NHpVR1lIdUlqVnlKUmttR1A2V05zZXNDZ0k4M3ktRnVnZWhkdDctRGtLeEZTZGRXNlkyMzFaSGl2c0hPUkpQQ1JLOFp4MWN3d1BZWGlqVlRvRENibnpMR1ZpYWRQMjRqbDlRNzhObXMwTkFiTEFmUDlQS285NzA3emw4dXRFcERrQXMwMThURXBYT3Q4SEJxQXktdHoxRjFQQ0ljZXpseG1GZW82TnlZMk1SbUN1M0l5SmdDMXhJ?oc=5",
+   "time": "2026-10-29T09:35:57+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Star",
    "title": "Regional haze crisis calls for long-term solutions",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM01XNU5hUUdjU2R1Z2FOWlZ3MzEtUW1OeHR5bldXZGF1RmZiQzdZRjZfeEgwbnplaExaTE5hOUJxRHlIQkxoNGJaZmhreXhfVFUtbGlDemJlN2dIZno1akxsamZMU3dnZktVbmZESGE5OVNDbU5ZLXhtcndMc2xiY0dnNHZCa3d1N0EtbHVNby02cmdzMkpBUGo5WHYtNDRaXy1kMmpkaHNjTFJLMmxPY0JJZVE2bldhV1pqTUQ3UFZlT0txQnNz?oc=5",
-   "time": "2026-10-29T07:38:51+08:00",
+   "time": "2026-10-29T07:39:48+08:00",
    "summary": ""
   },
   {
@@ -539,6 +546,13 @@
    "title": "Haze drives Singapore runners to shopping malls",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY2xkUWFDRGZZY1pNS3pzWjBZc3B5dmlYckRvbFF5aWpyQ1lHYmE4RndJWkxJemJYazJxM2ZSRHpXNS1WRjV2bndsOGFoTlFIRDM0cXc0dE1EZVM2MjAxbThQZFNLRzFUaHRBRVpoeWdNVzEtQXkwRkdnMkJsTl81WXllcGpzRUV6YUdoYUVNc1RiejF0cEtr0gGXAUFVX3lxTE9jbGRRYUNEZlljWk1LenNaMFlzcHl2aVhyRG9sUXlpanJDWUdiYThGd0laTEl6YlhrMnEzZlJEelc1LVZGNXZud2w4YWhOUUhEMzRxdzR0TURlUzYyMDFtOFBkU0tHMVRodEFFWmh5Z01XMS1BeTBGR2cyQmxOXzVZeWVwanNFRXphR2hhRU1zVGJ6MXRwS2s?oc=5",
    "time": "2026-10-29T05:50:03+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Grace Fu: Singapore ready to assist with Indonesia over haze-causing forest fires",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PZXpGaE81emI5TGRLa1dFQjhMSUEyYjEyZy02S3lSWTVSakRObE9IOUhtdnp0V0JpUUVPOTByUGZJSDc0ZGdWOXloTVZMRGV0ZHdYel9BQi1uc1Q4eVE?oc=5",
+   "time": "2026-10-29T05:49:16+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "‘Not to find scapegoats’: Singapore summons bosses of 10 firms over haze",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMTNtd014OWhtc1JPTERtV2pXMHNnQ2F0aUYtdDdqRVQ3dEZ6UVpwV2lSX2hTWnM2MXRZcWlvU2FRWF92Wkg1WGZTWGZidGttSW8wZ2x4RkZCWGNXbTNTQVRtSWxQQ256UGRvbFdWb2MxTHdqVjh2VzY1ektQS3NBV3VrV1hnRHJaR2t3MXc1XzVBcWRTbk1Md2dyWHRTRmJTVFJSeGRudW5FeWgya09UcDVlSFN0cm5BUDZfMnBqaUNMZFIxZk5JaHAwQXNsNnh1ejlvM9IB1AFBVV95cUxOOTA3VDFTRERUNi02T1V5cEZjckRoSzBpOUg2VDVhZ3JhbUNfQkJac2o4S2hjcnotUlZyVU1CMTUyUTRNN2VuQlJwY1dDU3ZOUEZYMDF5R3hnX1hIRzNSWE0yemx3MDU0ZHdsTzY3Yi1neVdSU1JOTC1SNndQSTR1dVVmZDltSGx1R00tcXNaRzJJb2dVdk55M0pzRkhIRTZzNjY1LXVVOUdaODNnMzNicDVmdmJQNkZsQjF3SFh2Tk1NNEl6dFREcHVlZDY5TVBGUlZvYw?oc=5",
    "time": "2026-10-28T22:51:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bilyonaryo Business",
-   "title": "Singapore warns banks to cut financing ties with firms linked to Indonesia haze",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcjh6dkttZW1yOTZmS2V3SDRaRVJhaWtITDF4MUI0cGZHWlo0X05ZZDM5VTF6MVR6RnVodThYT05nNnp0M3hsTW1jeFpQempTaG9BbGZPQ01HdUZiWktQcWREb2djaFl0YXR1UExQbDNkZklYVDZNRnQyc2x6WGg3X1VxUjJ1TGxZTFVZdXZrYnhLM3N3VE9Ua1JkZ05kdG56YkktdXp3?oc=5",
-   "time": "2026-10-28T22:46:55+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore to introduce new laws to investigate companies linked to haze",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVjFWbXNIS19TWU1kQURaNEdKallqX1AtSmNJYWJCNGd2eERaYmpUNG5qbmJMbUF6WmRkWWxMUVJpREFvTDF1ZEVzR3BsdUQ5QnluNEpwTDlmd2VVbVJEWmNZMl9ncVNxYVZVYlNYWXlycnNwNHFtWXhseG00LVQ0SnZaX1hCU2pVQmE3VnJERTQzRzE2MmgyZkdDd3d6aUd1My1uT20zMExYYnpH?oc=5",
-   "time": "2026-10-28T22:32:12+08:00",
    "summary": ""
   }
  ]
