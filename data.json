@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-29T17:00:00+08:00",
+ "updated": "2026-10-29T18:00:00+08:00",
  "psi": {
   "west": 77,
-  "east": 69,
+  "east": 68,
   "central": 68,
-  "south": 69,
+  "south": 68,
   "north": 72
  },
  "pm25": {
-  "west": 29,
-  "east": 19,
-  "central": 14,
-  "south": 11,
-  "north": 17
+  "west": 30,
+  "east": 16,
+  "central": 17,
+  "south": 17,
+  "north": 20
  },
  "hist": [
-  {
-   "t": "2026-10-27T17:00:00+08:00",
-   "psi": {
-    "west": 76,
-    "east": 62,
-    "central": 65,
-    "south": 63,
-    "north": 65
-   }
-  },
   {
    "t": "2026-10-27T18:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 69,
     "north": 72
    }
+  },
+  {
+   "t": "2026-10-29T18:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 68,
+    "central": 68,
+    "south": 68,
+    "north": 72
+   }
   }
  ],
- "newsUpdated": "2026-10-29T17:07:52+08:00",
+ "newsUpdated": "2026-10-29T18:08:22+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "France 24",
+   "title": "Rains bring relief to Indonesian city weary of fire haze",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3M1aGNsLVU3QzA1OS1yaHNNR3o5Y2ZvNmpkTFREU2dpenZVVTAxN2FEM2huZTF5ZmxfR0duMEFkTHdRTFZlNjA1WFN4bkUteGJEUDlPYkF3ZzNmRTgyS0Rqc0d6eGIwMFVtWHUxZ2dSa0JiVVBEanZQakd2ZDhfc0hIVEZ3MnJUcGpBVHpzYVpSbFlCOFF0WnN3T3dHWVJ5UWJNV3hB?oc=5",
+   "time": "2026-10-29T17:58:37+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malaysiakini",
+   "title": "'Phone diplomacy's not enough': S'pore minister meets Prabowo as thousands protest haze",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmptRGVHVFluMDFoZUlpRzlxcFVNdlVYV0tjdE15c2J3b0lNb2hDNGxvRWp6ZUNZUGdSVWFLcU9IWVhUZUd4cUpkRnpQbUh3UDdla202UmFkUDFycWhQemU4ZEUxcTR1WUF4MTBfaG9lX1d3cG80ZnE2Vjg2M052NXhVaTdMSkl2bFFEbE1WbTZiWWVzZ2c2SDBPdHZmZWlRUi1oaGMyckYwUjFvZktZOU83VE4xVl94ejdsWkN4aUQ?oc=5",
+   "time": "2026-10-29T17:37:00+08:00",
+   "summary": ""
   },
   {
    "source": "InsuranceAsia News",
@@ -577,24 +591,10 @@
    "summary": ""
   },
   {
-   "source": "The Star",
-   "title": "Regional haze crisis calls for long-term solutions",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM01XNU5hUUdjU2R1Z2FOWlZ3MzEtUW1OeHR5bldXZGF1RmZiQzdZRjZfeEgwbnplaExaTE5hOUJxRHlIQkxoNGJaZmhreXhfVFUtbGlDemJlN2dIZno1akxsamZMU3dnZktVbmZESGE5OVNDbU5ZLXhtcndMc2xiY0dnNHZCa3d1N0EtbHVNby02cmdzMkpBUGo5WHYtNDRaXy1kMmpkaHNjTFJLMmxPY0JJZVE2bldhV1pqTUQ3UFZlT0txQnNz?oc=5",
-   "time": "2026-10-29T12:10:27+08:00",
-   "summary": ""
-  },
-  {
-   "source": "www.thenationalnews.com",
+   "source": "The National",
    "title": "Oh, how we wish the haze choking South-East Asia was just fog",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTZ4R01lbVBIUE82ZHJMcnFhLTZCU0pYYzBiTXNGaUx2TjNaR3dRbVVoNWZhU0lxYzRwT0lpU3NySFY0WmYxbU1sS0Z5RlNTdnE2VF9wVU4wSklTUlYzQ3doX3BLUzVwVHEzdXc0UGcyeGRlTUNrc2dpQWpSM25ZOF8zMlhjeVJGdWprU0NNNlNiMzNZOG1ScEZVSndFQlZwbHV6REZ3SHhGU2I4?oc=5",
-   "time": "2026-10-29T12:03:03+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Reccessary",
-   "title": "‘Influence without enforcement’: Indonesia’s fires test Singapore’s anti-haze law",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd0s5QmJ2Z3RHLVA3RHpIUFhEbXJYVkpWbHczeHJMMXZtUmlIQW1Sb2NrVExCaG9RNEUtaDUtcXVGNUMwNnlZcmZVM24tWUE1MENiWXZVY1YyLWw1NFVOTVB2NlR5LVhGckUtUFQ3ajVqUFZod24xSkVSMWh1ZVc3MXBCb05xZw?oc=5",
-   "time": "2026-10-29T12:00:46+08:00",
+   "time": "2026-10-29T12:50:04+08:00",
    "summary": ""
   }
  ]
