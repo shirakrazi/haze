@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-29T10:00:00+08:00",
+ "updated": "2026-10-29T11:00:00+08:00",
  "psi": {
-  "west": 77,
-  "east": 72,
+  "west": 78,
+  "east": 71,
   "central": 71,
   "south": 69,
   "north": 72
  },
  "pm25": {
-  "west": 47,
-  "east": 36,
-  "central": 41,
-  "south": 42,
+  "west": 57,
+  "east": 25,
+  "central": 46,
+  "south": 34,
   "north": 43
  },
  "hist": [
-  {
-   "t": "2026-10-27T10:00:00+08:00",
-   "psi": {
-    "west": 71,
-    "east": 61,
-    "central": 65,
-    "south": 62,
-    "north": 62
-   }
-  },
   {
    "t": "2026-10-27T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 69,
     "north": 72
    }
+  },
+  {
+   "t": "2026-10-29T11:00:00+08:00",
+   "psi": {
+    "west": 78,
+    "east": 71,
+    "central": 71,
+    "south": 69,
+    "north": 72
+   }
   }
  ],
- "newsUpdated": "2026-10-29T10:07:09+08:00",
+ "newsUpdated": "2026-10-29T11:07:45+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,17 +507,24 @@
    "pinned": true
   },
   {
+   "source": "The Star",
+   "title": "Regional haze crisis calls for long-term solutions",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM01XNU5hUUdjU2R1Z2FOWlZ3MzEtUW1OeHR5bldXZGF1RmZiQzdZRjZfeEgwbnplaExaTE5hOUJxRHlIQkxoNGJaZmhreXhfVFUtbGlDemJlN2dIZno1akxsamZMU3dnZktVbmZESGE5OVNDbU5ZLXhtcndMc2xiY0dnNHZCa3d1N0EtbHVNby02cmdzMkpBUGo5WHYtNDRaXy1kMmpkaHNjTFJLMmxPY0JJZVE2bldhV1pqTUQ3UFZlT0txQnNz?oc=5",
+   "time": "2026-10-29T10:37:30+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Air quality in normal range on Oct 29 morning; thundery showers expected in late morning, afternoon",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUYwd1JZZGZJdHVJeDlvVWdiSEtHcW9iQ2phWlVjYmNFb3RYc3ZzMXBoY1lGSFoyUEZwaEo0b19aY1FOanVzZzFxaTk5S1NDdmxkb01xeU11U1hNa0NtQUx3VFBnVkZfYWhFMWc0dV9sczRfU0gyeWlmNzljR0xWTWtXQ0lRWFI3NHNz?oc=5",
+   "time": "2026-10-29T10:27:08+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Online Citizen",
    "title": "Haze meeting “looks serious” but results matter more than positions, says NUS academic",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMU9uMDE5ZFR0NHpVR1lIdUlqVnlKUmttR1A2V05zZXNDZ0k4M3ktRnVnZWhkdDctRGtLeEZTZGRXNlkyMzFaSGl2c0hPUkpQQ1JLOFp4MWN3d1BZWGlqVlRvRENibnpMR1ZpYWRQMjRqbDlRNzhObXMwTkFiTEFmUDlQS285NzA3emw4dXRFcERrQXMwMThURXBYT3Q4SEJxQXktdHoxRjFQQ0ljZXpseG1GZW82TnlZMk1SbUN1M0l5SmdDMXhJ?oc=5",
    "time": "2026-10-29T09:35:57+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Regional haze crisis calls for long-term solutions",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM01XNU5hUUdjU2R1Z2FOWlZ3MzEtUW1OeHR5bldXZGF1RmZiQzdZRjZfeEgwbnplaExaTE5hOUJxRHlIQkxoNGJaZmhreXhfVFUtbGlDemJlN2dIZno1akxsamZMU3dnZktVbmZESGE5OVNDbU5ZLXhtcndMc2xiY0dnNHZCa3d1N0EtbHVNby02cmdzMkpBUGo5WHYtNDRaXy1kMmpkaHNjTFJLMmxPY0JJZVE2bldhV1pqTUQ3UFZlT0txQnNz?oc=5",
-   "time": "2026-10-29T07:39:48+08:00",
    "summary": ""
   },
   {
@@ -528,10 +535,10 @@
    "summary": ""
   },
   {
-   "source": "Yahoo",
+   "source": "Malay Mail",
    "title": "Malaysia’s latest haze cost RM8b in welfare losses, may have led to 1,700 deaths, report finds",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHVTaFhjR2d6bWFnLXNvdU9ucl9JbXAxbDJtOEJnS1RoRzZfYVk5V2otRlcyTW5EWjl4TzRkRTZxTjdaLTNMcXhTUW53ZmlmR1NJMWgxNjlwNm5hTWdQNS14TncyUjlrdmt3bi14MjBKeC1SQTgyMlVUX3E5YVJKcmlucw?oc=5",
-   "time": "2026-10-29T07:00:00+08:00",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeUZYZlFfNXNQb3BhNXV1bmFOSHJEaHYxWkZOUVg2TVpXd0FISUJHQ2ZLRlFPM01nQzhKV2xhMEFmbFVEeGo4aFRuaHNiVnFpT0dna05DZnJ2T2NDT2NUaGN1ZVdBR2d1S0tuZ1JiR3BzRXdNRFlTVmhfS1BIQnZRdERiVVlvNzR5Qy1nYUl3X2lhYjhtajJMRmFOY3RoX0lUQm1RbVVXUzJYVFJ3LVVrWG9ab0E4dWNqZjdmVU5vV2pRbFBMOE1jWG4xbEJVZTFjSWw0Vzh5dmZwU2tSNE1vemhR0gHnAUFVX3lxTE1la0FxTndXM0tKanVRdzUtUHNyek5JWFFsT1lVYjI4RU1wWXlkQnJTcUU5Sy1qOExhUGY5VklXVEk4TklNQlRTTnhKNEh2T2ZUbXBnZ0g2LXVnd1M0YkFHeEpnakRpcG1zWGVzTjRhS3hmYkI2OEJGUlg1Nkx4amczNGRzWU1tb2VUVlBLdlpja2pEY0FLRy1zbGJocmtTU0oyZ0M4bGJOQlg5UFdIbUhhMkhlbG9xNVhGclE1ajgwR3oycTlueU4yTXNkanQyVWlvMnpmWC1kVkYtNXlLM3V6WWNhSjQ2SQ?oc=5",
+   "time": "2026-10-29T07:00:59+08:00",
    "summary": ""
   },
   {
@@ -587,13 +594,6 @@
    "source": "South China Morning Post",
    "title": "‘Not to find scapegoats’: Singapore ministers summon bosses of 10 firms over haze",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZHBPSThmZTdRanp0YzNvMnRyMXp2RElIU2ZQUHlzaGFTczl1Ty16eHFxeGF1d21NbVNTb3ZCYWI0ZmQ3OHVBNXBfb3hjdjZYVEFPd3pyaUI0UnVadGxwSjhHNWY5a1NBNUxsTEpWNzkxZm5YLXFxcnhDM2dob0xsc1BnMVRNd3BQTERGQ3YweF9mNE1DZmltMkxQTmh6STUyaUtlc1VUZEJZVkF0MDN4dlZjajVGcF9ubFhRY0dZVGpPdUJuQ282dGZFWC1YWHpPVkRFMVJfYXQxNE1VOFRNUFdLYVJ0bWV1VW9KX3ZYa2UzNTRnLXZ1VmZWODlFVUU?oc=5",
-   "time": "2026-10-28T22:51:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "‘Not to find scapegoats’: Singapore summons bosses of 10 firms over haze",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMTNtd014OWhtc1JPTERtV2pXMHNnQ2F0aUYtdDdqRVQ3dEZ6UVpwV2lSX2hTWnM2MXRZcWlvU2FRWF92Wkg1WGZTWGZidGttSW8wZ2x4RkZCWGNXbTNTQVRtSWxQQ256UGRvbFdWb2MxTHdqVjh2VzY1ektQS3NBV3VrV1hnRHJaR2t3MXc1XzVBcWRTbk1Md2dyWHRTRmJTVFJSeGRudW5FeWgya09UcDVlSFN0cm5BUDZfMnBqaUNMZFIxZk5JaHAwQXNsNnh1ejlvM9IB1AFBVV95cUxOOTA3VDFTRERUNi02T1V5cEZjckRoSzBpOUg2VDVhZ3JhbUNfQkJac2o4S2hjcnotUlZyVU1CMTUyUTRNN2VuQlJwY1dDU3ZOUEZYMDF5R3hnX1hIRzNSWE0yemx3MDU0ZHdsTzY3Yi1neVdSU1JOTC1SNndQSTR1dVVmZDltSGx1R00tcXNaRzJJb2dVdk55M0pzRkhIRTZzNjY1LXVVOUdaODNnMzNicDVmdmJQNkZsQjF3SFh2Tk1NNEl6dFREcHVlZDY5TVBGUlZvYw?oc=5",
    "time": "2026-10-28T22:51:30+08:00",
    "summary": ""
   }
