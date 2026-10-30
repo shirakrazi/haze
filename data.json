@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-30T11:00:00+08:00",
+ "updated": "2026-10-30T12:00:00+08:00",
  "psi": {
-  "west": 62,
+  "west": 61,
   "east": 55,
-  "central": 60,
-  "south": 60,
-  "north": 60
+  "central": 58,
+  "south": 59,
+  "north": 59
  },
  "pm25": {
-  "west": 20,
-  "east": 21,
-  "central": 14,
-  "south": 22,
+  "west": 19,
+  "east": 27,
+  "central": 13,
+  "south": 20,
   "north": 18
  },
  "hist": [
-  {
-   "t": "2026-10-28T12:00:00+08:00",
-   "psi": {
-    "west": 79,
-    "east": 74,
-    "central": 79,
-    "south": 67,
-    "north": 79
-   }
-  },
   {
    "t": "2026-10-28T13:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 60,
     "north": 60
    }
+  },
+  {
+   "t": "2026-10-30T12:00:00+08:00",
+   "psi": {
+    "west": 61,
+    "east": 55,
+    "central": 58,
+    "south": 59,
+    "north": 59
+   }
   }
  ],
- "newsUpdated": "2026-10-30T11:07:20+08:00",
+ "newsUpdated": "2026-10-30T12:07:14+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Singapore adds muscle to expert panel as haze probe gains momentum",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcl85akg1ZFNkX005Wi1ZQUY1SlVnc3NPNUZ1Y1Y3N1RtM2E5TU9DdGtkV1RJNGcyaWR5YjVya3lnQjA5X2pzaUxZbkhjaGozTlZHODNwU2FxdW9ObHdqcGJ4enlsMVUxdjJ2alIyMXRxMGZfS2NfVnlDai0tUWtld0ZTSnM4a25uN3YybjZNdGhQZnRRTnlpSHp4MUJrMHRhZi1HazBqZlNidHJZUVQwS2prR2pCTzRKR09RZXU1STBaNkxiWWlkaXF0REXSAcwBQVVfeXFMUGJMZXFPX2dDcmlBdkZEN3JHaXF0R25RRXYwZlFVb1pRd2ZIdVZFNnBmUS1tZnhEZDBLQ0VGWUdRLTJHVlM5SThIZDgwRU5XS1JiY2xLc3NaSUNBQ05ndzJIRVAzUVpfYS1GeVVuXzB5UUZ6TG43X1lCQTgwdGJlM1FDQjJROWJZWVlpbXdMWFBRZDl1cWVWX2Jyclpya096aUQwVG91WFBBT2RkNUlfMVhta3FRVzk3eXlOVE9ENzUwSEtDT2ZoMW0tV2p0?oc=5",
+   "time": "2026-10-30T11:47:25+08:00",
+   "summary": ""
+  },
+  {
+   "source": "https://www.tabla.com.sg/",
+   "title": "Inter-monsoon Lowers Haze Risk",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hV1pEQmcyV19Ba2xMaUZvaEZreVBWbVZsbm5fc3pXRC1CQURzWlgzSkNVdE1uSklXVFNfdlRTWEtEdVVMS2dqcklPOVhvSUJVZkozeXdMa3c3UkdQUG1RTjA1MXRsZjJiNXZNbDF2SHpGUGdYM0Y0aVlB?oc=5",
+   "time": "2026-10-30T11:05:54+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Japan Times",
+   "title": "Indonesia rain set to ease toxic haze in Singapore and Malaysia",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYVRGaU5URzBvRzBSNVozbXFJVEQ4Tk9qLVJHMUVBSGp0M2d0bjNfV1o4TnBZaXRicmMzRDdtRHJxcnN1VlN5aHprQUtEX29DRi1oZkFNYmt4NHRjVFJIN2l1NzV4LWFGNVpSWVRkT0ktSnh5VFRfMkhFbG50LWlpMlVQNEFGaTZaV2E1Ym9seG1GOUIzTG9FeA?oc=5",
+   "time": "2026-10-30T10:58:00+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -574,27 +595,6 @@
    "title": "FTI Consulting, WongPartnership among seven firms on specialist panel for haze probes",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWdDSkVRc2RPZUY5Y3RVbDZzYWR3NUx3bTdVRUR3Z080bVRERHJwNzlTMFh5am5nOG9ZQlA1OUhGXzEwTDljMTR2LXBIaVpJc0h1QmZDU3FVd0lxeVNEQi1kSC1EX3JTTVJRODJ3MFh5Q2owY0g1dmdHaGRUOWRRRHI4Tl9qeE5UTWtndjd6M19LWXJxMjdQRzBHeUtyVGYxNTJibzZMNTdrdFFGV1BYS0xsOTJ0M28tRHFtWg?oc=5",
    "time": "2026-10-30T09:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "FTI Consulting, WongPartnership among seven members on specialist panel for haze probes",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONXNYX241SlFNNUJ3MExIQ1ZySFhoUC13SGpUTnpCWXBydnV6d0hFdXpVX0lQZ250VWNOQWREdlBvWWUzWHZuYmhSMnNmV3BxaTBqWkVUMW1oa2xHQmJBX0tVZzdyMGw0and3NGNPQ3BiQ2dBcWI4Z2IyNGg5RTNuT0JraGJ6cHVCc2NvcUVROHJnSjB6bGkxMXhyUU9SVVpOazkxV2dYQ3ZseGRZeVpMMVZlY01hcnMtTU1CdUE1RQ?oc=5",
-   "time": "2026-10-30T09:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Asia News Network",
-   "title": "Indonesia names 20 companies as forest fire suspects in crackdown on haze culprits",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWEhlOTBIN3FPM0RJcEgwWkVaQmg4SC1qVTVoWGJsMmZjSVJObXNmV1NIcVl6SUZqbGFlUXlvVHRVU0dQYjAtN0Q2Z2VJOU9HY043QmhLMjBXbnN6OUxjSDhma3JsY0dWWEZseFN4allQeDRZSUxoTTZjdG1jeWx2QXN6bnpuYzBiZC1yVGNkUHZJRzREV1gxYzRDNUVINThYdXY5NjFyVHZvV19U?oc=5",
-   "time": "2026-10-30T08:35:51+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Wilmar discloses police probe after SGX’s queries on haze",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObklNdTh0V2ptMUptSE50WmNGTVZCN1BSVkxQd2otWmk0OEhFcWhyWHNzSE9qWVlMQXFKaDlHNFBNeWhHMTgzYXVPcW1ncHI1XzFUMF91T2NUTVY4SUhIOUdDR3NWTjMxTUVqT2xIOEp3NS1fRXMzSkEwdDBpRTNJVHFLS0NuTkd3clFpY1RDQkk2UXMtcmpSSlBtbktjXzRzSmI3a19hU3djLUZkMy1hUl9saXB4UHhN?oc=5",
-   "time": "2026-10-30T07:07:35+08:00",
    "summary": ""
   }
  ]
