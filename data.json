@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T17:00:00+08:00",
+ "updated": "2026-10-30T18:00:00+08:00",
  "psi": {
   "west": 59,
   "east": 56,
@@ -8,23 +8,13 @@
   "north": 59
  },
  "pm25": {
-  "west": 35,
+  "west": 28,
   "east": 15,
-  "central": 31,
-  "south": 15,
-  "north": 21
+  "central": 33,
+  "south": 19,
+  "north": 17
  },
  "hist": [
-  {
-   "t": "2026-10-28T18:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 73,
-    "central": 78,
-    "south": 67,
-    "north": 73
-   }
-  },
   {
    "t": "2026-10-28T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 60,
     "north": 59
    }
+  },
+  {
+   "t": "2026-10-30T18:00:00+08:00",
+   "psi": {
+    "west": 59,
+    "east": 56,
+    "central": 60,
+    "south": 60,
+    "north": 59
+   }
   }
  ],
- "newsUpdated": "2026-10-30T17:38:11+08:00",
+ "newsUpdated": "2026-10-30T18:13:15+08:00",
  "news": [
   {
    "source": "CNA",
@@ -514,10 +514,10 @@
    "summary": ""
   },
   {
-   "source": "Yahoo",
+   "source": "Malay Mail",
    "title": "Singapore names seven-member expert panel to probe companies over transboundary haze links",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU05pREZGRWV4el9rVXRhdEMzZ2RBeUY2WFFrWkZNSDZEU0hMb3l3UzlHQUJUb050bVcwNEtDT1EwWE9Cc3VtLVZsSmg1MERENzRrTkZaRFdGSGRYR0xQb2xDMkc5TW8wcEwtdk9xZ09FUUtvZkEzdGdaYk92UUtUaE9XTjJkaUpESGc?oc=5",
-   "time": "2026-10-30T16:15:57+08:00",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMmwwQS1nc0Nzb2ZuZWRxenlLN1Z4Q1lNRktDMzlHeEpVcEI4ZnduUFRVN1NwSUlraFVWazVxUWxqVlRIbkN6N2xfbUl6bE1QTVVvTjNNa2t0RHotMUFOSTlMODJ0dkJucVhhWjBtQVdmVHVmdFBJT3l4V3pScGpYblF5LUFSTE1QSU1EMVRNWW45SkY2clJ2UkxsOUI2ZEROd21NQlFsSnRnNHBqOFE3SC05dW12VWJXeWNpQlEtbVhzdno3cE02SVRYaFN6WDRiZGFRNTI4a0xRdXdXYWo0M05DVm5kX1hp0gHoAUFVX3lxTE0ybDBBLWdzQ3NvZm5lZHF6eUs3VnhDWU1GS0MzOUd4SlVwQjhmd25QVFU3U3BJSWtoVVZrNXFRbGpWVEhuQ3o3bF9tSXpsTVBNVW9OM01ra3REei0xQU5JOUw4MnR2Qm5xWGFaMG1BV2ZUdWZ0UElPeXhXelJwalhuUXktQVJMTVBJTUQxVE1ZbjlKRjZyUnZSTGw5QjZkRE53bU1CUWxKdGc0cGo4UTdILTl1bXZVYld5Y2lCUS1tWHN2ejdwTTZJVFhoU3pYNGJkYVE1MjhrTFF1d1dhajQzTkNWbmRfWGk?oc=5",
+   "time": "2026-10-30T16:21:02+08:00",
    "summary": ""
   },
   {
