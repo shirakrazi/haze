@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-30T13:00:00+08:00",
+ "updated": "2026-10-30T14:00:00+08:00",
  "psi": {
-  "west": 60,
-  "east": 55,
+  "west": 59,
+  "east": 56,
   "central": 57,
   "south": 59,
   "north": 58
  },
  "pm25": {
-  "west": 19,
-  "east": 25,
-  "central": 13,
-  "south": 20,
-  "north": 18
+  "west": 17,
+  "east": 18,
+  "central": 14,
+  "south": 23,
+  "north": 22
  },
  "hist": [
-  {
-   "t": "2026-10-28T14:00:00+08:00",
-   "psi": {
-    "west": 78,
-    "east": 73,
-    "central": 79,
-    "south": 66,
-    "north": 78
-   }
-  },
   {
    "t": "2026-10-28T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 59,
     "north": 58
    }
+  },
+  {
+   "t": "2026-10-30T14:00:00+08:00",
+   "psi": {
+    "west": 59,
+    "east": 56,
+    "central": 57,
+    "south": 59,
+    "north": 58
+   }
   }
  ],
- "newsUpdated": "2026-10-30T13:07:17+08:00",
+ "newsUpdated": "2026-10-30T14:10:00+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "SAYS",
+   "title": "Haze Cost Malaysia An Estimated RM8 Billion In Losses & 1,700 Deaths, Study Finds",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVTk4MHpsX0ZLc295ZmNTZDBuWGRYZHlsNzJYZTcwSEU1Ni1YWE9VbVUwWmFCZXBEanUyWWQ3SXNDM2UxX0tlelVZd3ZnaVJpaFhIUHhHUVRjYklaSmVmaUdGWU81QzQ3blBlbFNkWXlhTjVHbEVVMVhWb2NfQ0MxQVZoejNQMDlLZTAyZkhGMTFOUDBPcnlJTVVCU1RPdUE2eWo2ZQ?oc=5",
+   "time": "2026-10-30T13:46:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Online Citizen",
+   "title": "King’s Counsel, three investigation firms among seven selected for haze probe panel",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXpPZ1pzSjR5akhKcVNvWnB5WGQ2djlRcnJFaXluamxpak1oa21sVHR3VkVSTW16M3IzZEdwM1hDcXI4WVE3NlFPM0Z3bXBDcnVYbTVuOThvc1ExcmtYbnpSc0JNTDBJVGs4RkUyal9McVJ6cHdIaGRoZl9FOVNabGN0YlcxdENHaGxuV3VrbUVLOEZhR0pxMUR6NmRERGc3SnFsMDM3VTEza2JMUmFCRkEwNkxjcGVnaWkwaUxZREd1d0VjTVE?oc=5",
+   "time": "2026-10-30T13:09:12+08:00",
+   "summary": ""
   },
   {
    "source": "Green Left",
@@ -581,20 +595,6 @@
    "title": "(Video) Goodbye haze, but what’s next?",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU0xHanlvVzFEOHhlTFE4OEZXSWhoV3RGeWg2R2IzSGltLVdZMXRnTzZhVER5aGZWbmxCdWkzWlc3ZXc1d1U4OW11YWxlbGtaSzZGT2FHOGMxcjk4enp5ODc2OWoyd1dIX19iRDBQWndRSk5fWU00VTRzTHU1dVgwTnlaZzVCZVVCSlA4?oc=5",
    "time": "2026-10-30T09:30:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Asia News Network",
-   "title": "Haze exposes gaps in Malaysia’s workplace protection for outdoor workers",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVdBbmdjc0lFVUZqcm1wV3lza1gxMy1sYmhQMjVpY0JvdnIwQ0MxVi1tcVZ4RHE3MDlkTXM3QUx1c3p1cjlweHl3NTBLMDJFUFV4dVBYc3Z1QWpmbHpmTkF3dnRKakNOR09hODVvTXl6N1BqOW81b3pSME1CdjJEQXkyX0xMZDJweE5SLTl6WGEtdTg3SzFlU3ZvV20zdw?oc=5",
-   "time": "2026-10-30T09:25:57+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "7 firms to be on panel assessing 10 S'pore-based companies served legal notices regarding haze",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sVkRXRE5PVmNJamdqbm1vWHJ1RVVDZEg3TEdQTjJsSGlPc2stY3dpRlRaTlVhQUdvSkh5QmZWLWk5MXM3cHlBWFh3cDBCZmozT2RTc004THlNdkh0MWt1Vw?oc=5",
-   "time": "2026-10-30T09:09:07+08:00",
    "summary": ""
   }
  ]
