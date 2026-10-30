@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-30T12:00:00+08:00",
+ "updated": "2026-10-30T13:00:00+08:00",
  "psi": {
-  "west": 61,
+  "west": 60,
   "east": 55,
-  "central": 58,
+  "central": 57,
   "south": 59,
-  "north": 59
+  "north": 58
  },
  "pm25": {
   "west": 19,
-  "east": 27,
+  "east": 25,
   "central": 13,
   "south": 20,
   "north": 18
  },
  "hist": [
-  {
-   "t": "2026-10-28T13:00:00+08:00",
-   "psi": {
-    "west": 78,
-    "east": 74,
-    "central": 79,
-    "south": 67,
-    "north": 78
-   }
-  },
   {
    "t": "2026-10-28T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 59,
     "north": 59
    }
+  },
+  {
+   "t": "2026-10-30T13:00:00+08:00",
+   "psi": {
+    "west": 60,
+    "east": 55,
+    "central": 57,
+    "south": 59,
+    "north": 58
+   }
   }
  ],
- "newsUpdated": "2026-10-30T12:07:14+08:00",
+ "newsUpdated": "2026-10-30T13:07:17+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,31 @@
    "pinned": true
   },
   {
+   "source": "Green Left",
+   "title": "States refuse to act on South East Asia’s transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1hpTURYSE16SVpFSnotRkNRaWVxM2pWMEY1QTNLMXo1czgydnVvdjYzcUZsc0MtSzlPalQ2SkdCOTJ4cmI2UTlrWDZkekdJMmI3WkYxakhEaGV6czZlLW10UUxUV0ktNkR5eGFVZEFheVRsMm9OSmdhR0t6NUUzZlByR0JyNVFEODB5V2pDTEFEMHBFR19jSEJMT3BUdmc?oc=5",
+   "time": "2026-10-30T12:53:21+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore continues to see relief from haze as PM2.5 readings remain normal",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGg5dG9CTUwtSW5odF93bG51RXhnclZkanhKOGQ0c1VGRmhyQVdwTTkyZzd6Rm5CLXhNd2dCZ0xvTmtGY0wyUmY2U1BHQTdlQ1c3VTdQUEVJUktrMEl1WHpfUnR2WkNUaU9oVzEtbXlFWEdzZ0F6eHpKSGo1bll1QzdSSVBxZHFxTnhtWQ?oc=5",
+   "time": "2026-10-30T12:11:37+08:00",
+   "summary": ""
+  },
+  {
    "source": "South China Morning Post",
    "title": "Singapore adds muscle to expert panel as haze probe gains momentum",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcl85akg1ZFNkX005Wi1ZQUY1SlVnc3NPNUZ1Y1Y3N1RtM2E5TU9DdGtkV1RJNGcyaWR5YjVya3lnQjA5X2pzaUxZbkhjaGozTlZHODNwU2FxdW9ObHdqcGJ4enlsMVUxdjJ2alIyMXRxMGZfS2NfVnlDai0tUWtld0ZTSnM4a25uN3YybjZNdGhQZnRRTnlpSHp4MUJrMHRhZi1HazBqZlNidHJZUVQwS2prR2pCTzRKR09RZXU1STBaNkxiWWlkaXF0REXSAcwBQVVfeXFMUGJMZXFPX2dDcmlBdkZEN3JHaXF0R25RRXYwZlFVb1pRd2ZIdVZFNnBmUS1tZnhEZDBLQ0VGWUdRLTJHVlM5SThIZDgwRU5XS1JiY2xLc3NaSUNBQ05ndzJIRVAzUVpfYS1GeVVuXzB5UUZ6TG43X1lCQTgwdGJlM1FDQjJROWJZWVlpbXdMWFBRZDl1cWVWX2Jyclpya096aUQwVG91WFBBT2RkNUlfMVhta3FRVzk3eXlOVE9ENzUwSEtDT2ZoMW0tV2p0?oc=5",
    "time": "2026-10-30T11:47:25+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "Can Malaysian Companies Sue Over False Haze Allegations?",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb1VoOV9OQ3VpRXE2djZPQk1XM1ozMWtva3FzV0VKTExqb05QOG41UEJBOXhWWGFVdlppVjg1aHNTUS16d1dUWG9Kdl9lekNkaHl0THUtdjBibGdYVEJYTS0wWTJ0Nl9JV19teWkwTUJobnE3bjNiN2ZaZU9rRTRCeEJSNTNyZjlYcDdpRG42WWthZXdKNGJNdTExbGJCV01FUVE?oc=5",
+   "time": "2026-10-30T11:09:07+08:00",
    "summary": ""
   },
   {
@@ -563,10 +584,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Singapore continues to see relief from haze as PM2.5 readings remain normal",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGg5dG9CTUwtSW5odF93bG51RXhnclZkanhKOGQ0c1VGRmhyQVdwTTkyZzd6Rm5CLXhNd2dCZ0xvTmtGY0wyUmY2U1BHQTdlQ1c3VTdQUEVJUktrMEl1WHpfUnR2WkNUaU9oVzEtbXlFWEdzZ0F6eHpKSGo1bll1QzdSSVBxZHFxTnhtWQ?oc=5",
-   "time": "2026-10-30T09:21:12+08:00",
+   "source": "Asia News Network",
+   "title": "Haze exposes gaps in Malaysia’s workplace protection for outdoor workers",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVdBbmdjc0lFVUZqcm1wV3lza1gxMy1sYmhQMjVpY0JvdnIwQ0MxVi1tcVZ4RHE3MDlkTXM3QUx1c3p1cjlweHl3NTBLMDJFUFV4dVBYc3Z1QWpmbHpmTkF3dnRKakNOR09hODVvTXl6N1BqOW81b3pSME1CdjJEQXkyX0xMZDJweE5SLTl6WGEtdTg3SzFlU3ZvV20zdw?oc=5",
+   "time": "2026-10-30T09:25:57+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "7 firms to be on panel assessing 10 S'pore-based companies served legal notices regarding haze",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sVkRXRE5PVmNJamdqbm1vWHJ1RVVDZEg3TEdQTjJsSGlPc2stY3dpRlRaTlVhQUdvSkh5QmZWLWk5MXM3cHlBWFh3cDBCZmozT2RTc004THlNdkh0MWt1Vw?oc=5",
    "time": "2026-10-30T09:09:07+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "6 firms, one lawyer appointed to specialist panel tasked with probing 10 S’pore firms’ links to haze",
-   "url": "https://www.straitstimes.com/singapore/6-firms-one-lawyer-appointed-to-specialist-panel-tasked-with-probing-10-spore-firms-links-to-haze",
-   "time": "2026-10-30T09:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Investigative, law firms appointed to Government's haze panel, Singapore News",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdDktN3RKc0R1SzRyX3lMWnVuLXgwNW5vUVlEaS1uSkdObjBwY1Y1MDdaanFCSV9uY2lnWS1DT245NWxsM0lmQWlnSW5DbHZmYXFqUnNKUUJMVXVYMnhRS19tLTU5VFVaUGhQOWQ2SFlLbHNBekJrTlh5REtSQ3dYVjV3M05fUFU3YXc?oc=5",
-   "time": "2026-10-30T09:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "FTI Consulting, WongPartnership among seven firms on specialist panel for haze probes",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWdDSkVRc2RPZUY5Y3RVbDZzYWR3NUx3bTdVRUR3Z080bVRERHJwNzlTMFh5am5nOG9ZQlA1OUhGXzEwTDljMTR2LXBIaVpJc0h1QmZDU3FVd0lxeVNEQi1kSC1EX3JTTVJRODJ3MFh5Q2owY0g1dmdHaGRUOWRRRHI4Tl9qeE5UTWtndjd6M19LWXJxMjdQRzBHeUtyVGYxNTJibzZMNTdrdFFGV1BYS0xsOTJ0M28tRHFtWg?oc=5",
-   "time": "2026-10-30T09:00:00+08:00",
    "summary": ""
   }
  ]
