@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-30T15:00:00+08:00",
+ "updated": "2026-10-30T16:00:00+08:00",
  "psi": {
   "west": 59,
   "east": 56,
-  "central": 58,
-  "south": 59,
-  "north": 58
+  "central": 59,
+  "south": 60,
+  "north": 59
  },
  "pm25": {
-  "west": 19,
-  "east": 19,
-  "central": 28,
-  "south": 26,
+  "west": 23,
+  "east": 13,
+  "central": 27,
+  "south": 22,
   "north": 19
  },
  "hist": [
-  {
-   "t": "2026-10-28T16:00:00+08:00",
-   "psi": {
-    "west": 78,
-    "east": 73,
-    "central": 79,
-    "south": 66,
-    "north": 75
-   }
-  },
   {
    "t": "2026-10-28T17:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 59,
     "north": 58
    }
+  },
+  {
+   "t": "2026-10-30T16:00:00+08:00",
+   "psi": {
+    "west": 59,
+    "east": 56,
+    "central": 59,
+    "south": 60,
+    "north": 59
+   }
   }
  ],
- "newsUpdated": "2026-10-30T15:15:01+08:00",
+ "newsUpdated": "2026-10-30T16:07:22+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,6 +507,13 @@
    "pinned": true
   },
   {
+   "source": "TRT World",
+   "title": "Indonesia wildfire haze killed an estimated 3,560 people in September: report",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91Q3NUdS1Sa3d4MVhnOHZUb0t6RERlU2JsTElDQ0V0a1RfWFRpc1o1Zk5UUkdRVmd5clNDY0ZMNXhWNEk5RUVHcml6b3JVbExtZVVqcVh3d0o?oc=5",
+   "time": "2026-10-30T15:19:47+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "The challenges facing Singapore’s haze law — and where it can gain more teeth",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb25nV3JZcnVDbU9odHNhUUoxdFlFLWptYlpCYTU0Q09Gd29VRFVkZHVkUEhfMnRkNUtqa01ndGtkXzc2N0RUVnJXa3g4RUxCcmFlN3JGb0ZScHZLVnY4TkItSVVlWTZNLTkwVmttNmZWVHNsd1hFN2ZaZHlFQ29vZnZaMk5aNi1JWTR0M2d3R3pIbWRqMVhTN2hIQWNtYzg?oc=5",
@@ -514,17 +521,17 @@
    "summary": ""
   },
   {
+   "source": "The Australian",
+   "title": "A bitter haze war erupted – then tempers cooled",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU251ZUVDY1p6ZndxMDdoUnpBbDNxMjFLOVBQNnZiejdSd3FpUWlmN2w4VUpKa1oxUHVaTG9pZk5QUU1teElkdFA3am5FQVF4R0lwRHF2TVR5eTVnZzV3QUZxelZWeG5Zb2Y3dkplQmpWbVBFS2J6NUlnM19Ed01QSDljTGsxU01sUWY2YlBtclUwUWdPRHgzcjZLZWh1RHlSVFZCQXB4SGREd2xqbjVOT0lpZzY3ZXl6R3NERFhZOEZwVzNOZjJYV29MVG52QWwtdHAtQnJ1WjgzeS1pM21iRFJBc2hwWjZnSWhXa2F5R1RHWGM?oc=5",
+   "time": "2026-10-30T14:23:56+08:00",
+   "summary": ""
+  },
+  {
    "source": "www.planb.sg",
    "title": "Netizens Applaud S'pore Ministers For Taking On Indonesia's '9 Dragons' In Haze Probe",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkJFYXJaNmJCdS1CVnlyNVJxZm1uWEk1VW9qUU9pMXI5aW83bllHQlNZNDBHQktxbzc3MllMTUo5UnAtb29aVXFBbjRPaWlNWURwQ2N0Ty0zRkN3R1VQZGdyendtTi1LZ3lZUXd5SURJUlNVN1pQYmpQc3FKRk9DdGhfaXJmV2tWbkxOYkl4VVlkNjhyVmYyOVdjaHZiY1JPSG1pSndSZGZUN3A5Q3c?oc=5",
    "time": "2026-10-30T14:08:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Australian",
-   "title": "A bitter haze war erupted – then tempers cooled",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU251ZUVDY1p6ZndxMDdoUnpBbDNxMjFLOVBQNnZiejdSd3FpUWlmN2w4VUpKa1oxUHVaTG9pZk5QUU1teElkdFA3am5FQVF4R0lwRHF2TVR5eTVnZzV3QUZxelZWeG5Zb2Y3dkplQmpWbVBFS2J6NUlnM19Ed01QSDljTGsxU01sUWY2YlBtclUwUWdPRHgzcjZLZWh1RHlSVFZCQXB4SGREd2xqbjVOT0lpZzY3ZXl6R3NERFhZOEZwVzNOZjJYV29MVG52QWwtdHAtQnJ1WjgzeS1pM21iRFJBc2hwWjZnSWhXa2F5R1RHWGM?oc=5",
-   "time": "2026-10-30T14:04:23+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "King's Counsel, 6 firms selected for haze probe panel, more may be added if necessary: MinLaw, NEA",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUldjVXRBVkVwdmg2SFFZVExJZ3p0YmNxTHpQLWN6XzN6blh3YnZRdVZmbU4xUTFmamY2UEJWbTNmWG5kc3RHMVRRczdhZ2ExRElnN2l3aUhQU0FvMklXZzVpM1R3dHdZU0w3TExNdTI5ZDlTZ1NDdmRQZ2cwWnZic0N5bmE1T1ZpM3dZeU5vVjZQZw?oc=5",
    "time": "2026-10-30T10:29:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Six firms, one lawyer appointed to specialist panel tasked with probing 10 Singapore firms’ links to haze",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTjF0TGRtM3dlZHRXNlRlSlJIQ2pYTXI2SlhtZGVBUjBzc0EwSjJYYnVyOUkwemoxMjFqYmhHRFhpam1lb1p6TTJXWDVrUVVmeDdaTURDRVh4Y2hnaXNoMnhicjE5enhfN2k3cjM3OURxQmQtZlBWWnJJUjFvSDlqNk51UVQwNWY0RVRaMUtlTEZKaUpJOXNDeDd6Q0pKMV81MFNDNDZ2SG9EaTJXam9ucG1vZUM1bUdUN243bzVCYkJvc0M3LWhsSWhtaEZhMW9wakpudzdKZDlwVE5pU1ZGQ1hUYkZCRnM5Y0g2OUR4ZGNkWThOcTBWTTZB?oc=5",
-   "time": "2026-10-30T10:27:00+08:00",
    "summary": ""
   }
  ]
