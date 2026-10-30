@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-30T09:00:00+08:00",
+ "updated": "2026-10-30T10:00:00+08:00",
  "psi": {
-  "west": 65,
-  "east": 56,
-  "central": 63,
-  "south": 61,
+  "west": 64,
+  "east": 55,
+  "central": 61,
+  "south": 60,
   "north": 62
  },
  "pm25": {
-  "west": 6,
+  "west": 24,
   "east": 15,
-  "central": 22,
-  "south": 28,
-  "north": 27
+  "central": 13,
+  "south": 27,
+  "north": 29
  },
  "hist": [
-  {
-   "t": "2026-10-28T10:00:00+08:00",
-   "psi": {
-    "west": 78,
-    "east": 74,
-    "central": 78,
-    "south": 67,
-    "north": 78
-   }
-  },
   {
    "t": "2026-10-28T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 61,
     "north": 62
    }
+  },
+  {
+   "t": "2026-10-30T10:00:00+08:00",
+   "psi": {
+    "west": 64,
+    "east": 55,
+    "central": 61,
+    "south": 60,
+    "north": 62
+   }
   }
  ],
- "newsUpdated": "2026-10-30T09:07:22+08:00",
+ "newsUpdated": "2026-10-30T10:07:04+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "Singapore Names Seven Specialist Firms To Probe Companies Over Haze Links",
+   "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPb2NDLUxfZWFjVVE4TjVQZ1ZNc29Sd3V3Y2NfNWR5VlZvWFItUjZ1Z0dOWHlZUVRpZWUxeVRQajZ6NFVHMFkyZ3VhU1pwd1hWLVpxV3VzY1FFcUszWWlZX3NiMExDbHgzeEpiSHdZbmxVM0NTTFIzWE16eVJ3c3JaM0gyYnJUdG54Vk9iUWdndjlDWlZQeVhFYWwxNnV4WDJIREJEbVN2azdjeE5aM3BXT3BGcWdGeDA1anFaTExqWkg3MTdETV9tSUtDRlN6QTNUZTJXSEdVanh2eXNjYVo3YVVBby1oMVE5OWwxNTZEaU5IVWZqblJxb21jN29kMzJnLXUwbGU0bGNEZXNZYmVEUmZodmlmZXdqZl9oc2VZSXVIQzJPWW1lX0d0QS05ZTZpOGVjN003YnRJSFVsQUFrOEJtZFFHbzY3ZVVBMlRXUHlWVWNMakE?oc=5",
+   "time": "2026-10-30T10:00:35+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Indonesia rain set to ease toxic haze in Singapore, Malaysia",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CSmRycDRGakppMjFveEFYUTJ5dllkaExZU1o2d3ppeXFxb2dqZThUaEhtWVZTbG10ZDloT0tvN01QUHcwQXpHZHZhQW1kMng4?oc=5",
+   "time": "2026-10-30T09:32:34+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "(Video) Goodbye haze, but what’s next?",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU0xHanlvVzFEOHhlTFE4OEZXSWhoV3RGeWg2R2IzSGltLVdZMXRnTzZhVER5aGZWbmxCdWkzWlc3ZXc1d1U4OW11YWxlbGtaSzZGT2FHOGMxcjk4enp5ODc2OWoyd1dIX19iRDBQWndRSk5fWU00VTRzTHU1dVgwTnlaZzVCZVVCSlA4?oc=5",
+   "time": "2026-10-30T09:30:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore continues to see relief from haze as PM2.5 readings remain normal",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGg5dG9CTUwtSW5odF93bG51RXhnclZkanhKOGQ0c1VGRmhyQVdwTTkyZzd6Rm5CLXhNd2dCZ0xvTmtGY0wyUmY2U1BHQTdlQ1c3VTdQUEVJUktrMEl1WHpfUnR2WkNUaU9oVzEtbXlFWEdzZ0F6eHpKSGo1bll1QzdSSVBxZHFxTnhtWQ?oc=5",
+   "time": "2026-10-30T09:21:12+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Mothership",
+   "title": "7 firms to be on panel assessing 10 S'pore-based companies served legal notices regarding haze",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sVkRXRE5PVmNJamdqbm1vWHJ1RVVDZEg3TEdQTjJsSGlPc2stY3dpRlRaTlVhQUdvSkh5QmZWLWk5MXM3cHlBWFh3cDBCZmozT2RTc004THlNdkh0MWt1Vw?oc=5",
+   "time": "2026-10-30T09:09:07+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -542,20 +577,6 @@
    "summary": ""
   },
   {
-   "source": "Bloomberg.com",
-   "title": "Indonesia Rain Set to Ease Toxic Haze in Singapore, Malaysia",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeVp0MW5RaEFtY0RrNWl6OG9tQXAtQ1phVG9IcW9YMjBxQWdvZnJfaVBQMVprcm5CVEI4YXExYXZRQWhHdGdHSWJvN1BIaE1nRFVSMm1Qeng5b3BRM2tqaUdvckkzbkNMYVl2Y1JvVVRjcFRJLXdWMGlWbmVDbFN3QnVqUkhtWjV0X2h0WHViZGdGamk3UnkwSElybmt5Y0FkTjkxTTIwbXIyTGJwbWZxU3R1bjc5US1UYkFnaQ?oc=5",
-   "time": "2026-10-30T08:03:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore continues to see relief from haze as PM2.5 readings remain normal",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGg5dG9CTUwtSW5odF93bG51RXhnclZkanhKOGQ0c1VGRmhyQVdwTTkyZzd6Rm5CLXhNd2dCZ0xvTmtGY0wyUmY2U1BHQTdlQ1c3VTdQUEVJUktrMEl1WHpfUnR2WkNUaU9oVzEtbXlFWEdzZ0F6eHpKSGo1bll1QzdSSVBxZHFxTnhtWQ?oc=5",
-   "time": "2026-10-30T07:55:30+08:00",
-   "summary": ""
-  },
-  {
    "source": "KLSE Screener",
    "title": "Wilmar discloses police probe after SGX’s queries on haze",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnlGX1o0Yy1CLWRMVUFCMHJham93Rk1xejJ1dkVDT052dU54TF9KdFhKQVNsV0dmSVZMWFVDaF9OdTFFeXFwX0NXSi1oSC0td1BNNUpVQmtpVlc2Q0FCWkxqYlFEQ1Nha0lwTWZtZW9SazBPOWNDY3Z6RUM2N0hWRXcxbGY2MHdSSWpISVQwUURmcXp3MzM0SmlWZy1sWk1ESFM3MTh5VEZZRE0?oc=5",
@@ -574,27 +595,6 @@
    "title": "Trust but diversify: Lessons for Singapore from the haze-related friction",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVk5zTm01d0ZJQUlabWxxTDFVU1NtUlRXVEgyOWNGMUhJZ2dCMHRSZ1hlbzNWWXBhcDhucFVlZ1JSOXlUZUVJTklfZEg5eUdIX1dYY2djelRxUlU4a0dXbHhPSHpZZkZPNDdNSUtLRUdwd09SUGV1TzlRMXZSdkhTa0NPc0N0WlhBY3NTc2p5cWpwVGhsTldfc3RXM1djYW1IM2RGblo1aUJVNnAtSXc?oc=5",
    "time": "2026-10-30T06:55:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Sun Malaysia",
-   "title": "Haze: Malaysia remains ready to assist Indonesia in tackling forest fires, says PM Anwar",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaWdPSjNRWTBKVVp3RjFaeUZBZC04My1tbnVzemJTeG8yaVFYVTkyb1dkN1hlMmxoZ0JhY2ZwVkdNcW9pUkwwSkxrd1RUNnFHNG9mcEFYQ2lLMmlCSE5GNWpzdEd5ckt1akJGMGxiQ0ZVci1SZGdGQkJzUWxWTWQyR0V4SmxqdGRyRXVXTERxVy12aWhsLTJIRGstZUNxR0tIaFhjSlhvdzRKUGhOcGZINVFNMTZ3N09OTHBoWjd3LWYtSW01Yi12OHNFNkZFUHM0N1ktSA?oc=5",
-   "time": "2026-10-30T06:43:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Phys.org",
-   "title": "Rains bring relief to Indonesian city weary of fire haze",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qTWFMOElJb1FvS0x3bk5DMXBJcGhzZklvaTYwTng0RE8yWTBHSXZiUW5SUldLQUdrOGZBZ0p0ZC1yQ1BTTV9kZ1NLaE1ZX2VGZTJKN050VThLSWtXcVI5cVk5Sl8tUlo4ems2OUY2S21pWWgycWpv?oc=5",
-   "time": "2026-10-30T01:41:40+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Goody Feed",
-   "title": "Singapore’s Haze Expected to Ease as Winds Shift; Wetter First Half of November Ahead",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa0loaEhNWTE0NURWSmk4cHk3SGpPU3I1V2lxdDhnUVlXYVdhRTAzM3VhRWlGaWpabGdRWnk0UzF4RXJMX2c4Zk96b2VWeXQ1Y2QyMzFJaUtXQXlyY1VtQ1JxRFVBRDhNdWk2eWlNcllHNlVfYnlVcDFhVGw0R3dUT2lwcHo4aW5DNjh6Y1lyUUZEenZJSkxrWHhKekhxdEh5Q3NkYUo0STI0dw?oc=5",
-   "time": "2026-10-30T01:20:00+08:00",
    "summary": ""
   }
  ]
