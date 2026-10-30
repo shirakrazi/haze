@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-30T22:00:00+08:00",
+ "updated": "2026-10-30T23:00:00+08:00",
  "psi": {
-  "west": 60,
+  "west": 61,
   "east": 55,
   "central": 61,
   "south": 59,
   "north": 60
  },
  "pm25": {
-  "west": 42,
-  "east": 17,
-  "central": 25,
-  "south": 27,
-  "north": 15
+  "west": 41,
+  "east": 12,
+  "central": 20,
+  "south": 11,
+  "north": 19
  },
  "hist": [
-  {
-   "t": "2026-10-28T23:00:00+08:00",
-   "psi": {
-    "west": 78,
-    "east": 72,
-    "central": 76,
-    "south": 68,
-    "north": 73
-   }
-  },
   {
    "t": "2026-10-29T00:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 59,
     "north": 60
    }
+  },
+  {
+   "t": "2026-10-30T23:00:00+08:00",
+   "psi": {
+    "west": 61,
+    "east": 55,
+    "central": 61,
+    "south": 59,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-10-30T22:10:03+08:00",
+ "newsUpdated": "2026-10-30T23:09:48+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Global Investigations Review",
+   "title": "Singapore picks FTI, WongPartnership for haze investigation panel",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnNDZHpLYjRrSzlXeFZiU1JRMFgwVHdFdERiMjJQMk1vUjVjbXhmcm90UkpGalU0VU1Va25NZ0UtMnFDZ19LMmh4SmxiaFZudnJDd3NGQi1nWEwtOTBsMFVzMWczNEZKTk44Vl9EeDRIX0drWG5zV2J5YnhQNms3MVZMeGhjY1lHcVA1SXdObkZzdHpNbXFUUGFkZ3BCRXhQTUdFcnU5b0NBS0k?oc=5",
+   "time": "2026-10-30T22:12:01+08:00",
+   "summary": ""
   },
   {
    "source": "Focus Malaysia",
@@ -588,13 +595,6 @@
    "title": "Indonesia wildfire haze killed an estimated 3,560 people in September: report",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91Q3NUdS1Sa3d4MVhnOHZUb0t6RERlU2JsTElDQ0V0a1RfWFRpc1o1Zk5UUkdRVmd5clNDY0ZMNXhWNEk5RUVHcml6b3JVbExtZVVqcVh3d0o?oc=5",
    "time": "2026-10-30T15:19:47+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "The challenges facing Singapore’s haze law — and where it can gain more teeth",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb25nV3JZcnVDbU9odHNhUUoxdFlFLWptYlpCYTU0Q09Gd29VRFVkZHVkUEhfMnRkNUtqa01ndGtkXzc2N0RUVnJXa3g4RUxCcmFlN3JGb0ZScHZLVnY4TkItSVVlWTZNLTkwVmttNmZWVHNsd1hFN2ZaZHlFQ29vZnZaMk5aNi1JWTR0M2d3R3pIbWRqMVhTN2hIQWNtYzg?oc=5",
-   "time": "2026-10-30T14:25:59+08:00",
    "summary": ""
   }
  ]
