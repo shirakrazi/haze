@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-30T18:00:00+08:00",
+ "updated": "2026-10-30T19:00:00+08:00",
  "psi": {
   "west": 59,
-  "east": 56,
-  "central": 60,
+  "east": 55,
+  "central": 61,
   "south": 60,
   "north": 59
  },
  "pm25": {
-  "west": 28,
-  "east": 15,
-  "central": 33,
-  "south": 19,
-  "north": 17
+  "west": 23,
+  "east": 13,
+  "central": 29,
+  "south": 18,
+  "north": 20
  },
  "hist": [
-  {
-   "t": "2026-10-28T19:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 72,
-    "central": 77,
-    "south": 67,
-    "north": 73
-   }
-  },
   {
    "t": "2026-10-28T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 60,
     "north": 59
    }
+  },
+  {
+   "t": "2026-10-30T19:00:00+08:00",
+   "psi": {
+    "west": 59,
+    "east": 55,
+    "central": 61,
+    "south": 60,
+    "north": 59
+   }
   }
  ],
- "newsUpdated": "2026-10-30T18:13:15+08:00",
+ "newsUpdated": "2026-10-30T19:14:29+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Planning outdoor activities? Haze situation forecast to remain suppressed, contained over weekend: NEA",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaWFEbFRyWU80aEtPc29VaUFrU0J3SzdpZnM0OGpPSkZKQ3ItVTFlRWtvcVlEOUZnamNNQVdBTi1FeUJJMzhtcGJSblNpRkJFOHdIb19nRFp3b2VFdnEyVE5vRHZsVGpJZnRIaEFfbVZSVUExSFlCQTRyMWdIRldGSE94ZUUzeHhGQ01Cb3YtSjlGTEk?oc=5",
+   "time": "2026-10-30T19:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NEA.gov.sg",
+   "title": "Haze Situation Update (30 October 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORE9rWkhwaVM1dDlySUFOc2ZlcENzZnNreDc2U1ZITnBkMW5saHAzR2J2c2lWdUxxZl8tNDBjSF9HQ2k2dW0xYS1SWGlFX0dpdVdHSVRlbDBFNUd3MGpNQjdjTzkwV3hFTFBKeVgwN3p4QmdORVBFTXRsbUUteVc1cENNbzg5ZTFoTmxldGNBSmdtZw?oc=5",
+   "time": "2026-10-30T18:34:30+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Jakarta Globe",
+   "title": "Rain Brings Relief as Indonesia's Haze-Related Respiratory Cases Plunge 87%",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMklCRThXSnV1NlpCbi1XR25tQ0FLSFpYUGRpRGgxZFVxMzM1MWRNRllsN1Z2SWIzbWI3aHJKRDJwN2FQMnhvTUlJanM2T1VZb1lGSnpzZk45bTV1Z21OcWNLSUlPVUhLWjRWbHM5MVllQmpZZmpPN1dxWVlUbFRkT1JJN1ZmNUhjdEhrQU54LVFKUGdjNGlQTU11VEd0RjJ4dHJJ?oc=5",
+   "time": "2026-10-30T18:05:00+08:00",
+   "summary": ""
   },
   {
    "source": "LinkedIn",
@@ -574,27 +595,6 @@
    "title": "States refuse to act on South East Asia’s transboundary haze",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1hpTURYSE16SVpFSnotRkNRaWVxM2pWMEY1QTNLMXo1czgydnVvdjYzcUZsc0MtSzlPalQ2SkdCOTJ4cmI2UTlrWDZkekdJMmI3WkYxakhEaGV6czZlLW10UUxUV0ktNkR5eGFVZEFheVRsMm9OSmdhR0t6NUUzZlByR0JyNVFEODB5V2pDTEFEMHBFR19jSEJMT3BUdmc?oc=5",
    "time": "2026-10-30T12:53:21+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore continues to see relief from haze as PM2.5 readings remain normal",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGg5dG9CTUwtSW5odF93bG51RXhnclZkanhKOGQ0c1VGRmhyQVdwTTkyZzd6Rm5CLXhNd2dCZ0xvTmtGY0wyUmY2U1BHQTdlQ1c3VTdQUEVJUktrMEl1WHpfUnR2WkNUaU9oVzEtbXlFWEdzZ0F6eHpKSGo1bll1QzdSSVBxZHFxTnhtWQ?oc=5",
-   "time": "2026-10-30T12:11:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Singapore adds muscle to expert panel as haze probe gains momentum",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcl85akg1ZFNkX005Wi1ZQUY1SlVnc3NPNUZ1Y1Y3N1RtM2E5TU9DdGtkV1RJNGcyaWR5YjVya3lnQjA5X2pzaUxZbkhjaGozTlZHODNwU2FxdW9ObHdqcGJ4enlsMVUxdjJ2alIyMXRxMGZfS2NfVnlDai0tUWtld0ZTSnM4a25uN3YybjZNdGhQZnRRTnlpSHp4MUJrMHRhZi1HazBqZlNidHJZUVQwS2prR2pCTzRKR09RZXU1STBaNkxiWWlkaXF0REXSAcwBQVVfeXFMUGJMZXFPX2dDcmlBdkZEN3JHaXF0R25RRXYwZlFVb1pRd2ZIdVZFNnBmUS1tZnhEZDBLQ0VGWUdRLTJHVlM5SThIZDgwRU5XS1JiY2xLc3NaSUNBQ05ndzJIRVAzUVpfYS1GeVVuXzB5UUZ6TG43X1lCQTgwdGJlM1FDQjJROWJZWVlpbXdMWFBRZDl1cWVWX2Jyclpya096aUQwVG91WFBBT2RkNUlfMVhta3FRVzk3eXlOVE9ENzUwSEtDT2ZoMW0tV2p0?oc=5",
-   "time": "2026-10-30T11:47:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Magzter",
-   "title": "Haze unveils gaps in protection for outdoor workers in Malaysia | The Straits Times - newspaper",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmpkTHNkeVE0TlhuUXhOcWRpVElpZE9OSmdVMVZRNW5zWTlLdjA3QTlCYzFTcnNzTlpKZzBVR3NfSTIyYXhNbHg5RkktOGx6QzRmejZsWm5hVjVUMWd2NnBKLVZxclI1ZHhuNzZQMlJVQUFYcmlDTjQ5SUpGNml5WG4yQTVPbG8wTnppX014SEwwNEdESzlLY3ZlYk9nTE1oU25SUW5iWHhwaU5CQ3VKSEdqNUdwejdrVlBkWk01Ui0?oc=5",
-   "time": "2026-10-30T11:37:38+08:00",
    "summary": ""
   }
  ]
