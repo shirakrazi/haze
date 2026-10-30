@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-30T10:00:00+08:00",
+ "updated": "2026-10-30T11:00:00+08:00",
  "psi": {
-  "west": 64,
+  "west": 62,
   "east": 55,
-  "central": 61,
+  "central": 60,
   "south": 60,
-  "north": 62
+  "north": 60
  },
  "pm25": {
-  "west": 24,
-  "east": 15,
-  "central": 13,
-  "south": 27,
-  "north": 29
+  "west": 20,
+  "east": 21,
+  "central": 14,
+  "south": 22,
+  "north": 18
  },
  "hist": [
-  {
-   "t": "2026-10-28T11:00:00+08:00",
-   "psi": {
-    "west": 79,
-    "east": 74,
-    "central": 79,
-    "south": 67,
-    "north": 78
-   }
-  },
   {
    "t": "2026-10-28T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 60,
     "north": 62
    }
+  },
+  {
+   "t": "2026-10-30T11:00:00+08:00",
+   "psi": {
+    "west": 62,
+    "east": 55,
+    "central": 60,
+    "south": 60,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-10-30T10:58:39+08:00",
+ "newsUpdated": "2026-10-30T11:07:20+08:00",
  "news": [
   {
    "source": "CNA",
@@ -511,6 +511,13 @@
    "title": "King's Counsel, 6 firms selected for haze probe panel, more may be added if necessary: MinLaw, NEA",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUldjVXRBVkVwdmg2SFFZVExJZ3p0YmNxTHpQLWN6XzN6blh3YnZRdVZmbU4xUTFmamY2UEJWbTNmWG5kc3RHMVRRczdhZ2ExRElnN2l3aUhQU0FvMklXZzVpM1R3dHdZU0w3TExNdTI5ZDlTZ1NDdmRQZ2cwWnZic0N5bmE1T1ZpM3dZeU5vVjZQZw?oc=5",
    "time": "2026-10-30T10:29:29+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Six firms, one lawyer appointed to specialist panel tasked with probing 10 Singapore firms’ links to haze",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTjF0TGRtM3dlZHRXNlRlSlJIQ2pYTXI2SlhtZGVBUjBzc0EwSjJYYnVyOUkwemoxMjFqYmhHRFhpam1lb1p6TTJXWDVrUVVmeDdaTURDRVh4Y2hnaXNoMnhicjE5enhfN2k3cjM3OURxQmQtZlBWWnJJUjFvSDlqNk51UVQwNWY0RVRaMUtlTEZKaUpJOXNDeDd6Q0pKMV81MFNDNDZ2SG9EaTJXam9ucG1vZUM1bUdUN243bzVCYkJvc0M3LWhsSWhtaEZhMW9wakpudzdKZDlwVE5pU1ZGQ1hUYkZCRnM5Y0g2OUR4ZGNkWThOcTBWTTZB?oc=5",
+   "time": "2026-10-30T10:27:00+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Wilmar discloses police probe after SGX’s queries on haze",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObklNdTh0V2ptMUptSE50WmNGTVZCN1BSVkxQd2otWmk0OEhFcWhyWHNzSE9qWVlMQXFKaDlHNFBNeWhHMTgzYXVPcW1ncHI1XzFUMF91T2NUTVY4SUhIOUdDR3NWTjMxTUVqT2xIOEp3NS1fRXMzSkEwdDBpRTNJVHFLS0NuTkd3clFpY1RDQkk2UXMtcmpSSlBtbktjXzRzSmI3a19hU3djLUZkMy1hUl9saXB4UHhN?oc=5",
    "time": "2026-10-30T07:07:35+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bloomberg.com",
-   "title": "Singapore Seeks to Cool Tensions With Prabowo Over Wildfire Haze",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHpOZkRYU0tnN0VIcGc4MGlTYV8zU01XSDhBMkxfQTlwaTRfX0tXU3FVSUc5Z3EwYmQwcF9IRDdLUExEV0ZnVTRUQlVqTVZtMGtHMFJEeTMyVnR3cWZ2b2lyMHlJUkU4aDhEd2w4OHFsRGYxYkxOWmdBVi02LTVSejhBbjlUXzFHU3ZuX3plNVdKQ2VxYWYtZEUyb3pweDZENXB2SVpPUkpvQ2VwZ1U1azN3M2h4ai1rWnc?oc=5",
-   "time": "2026-10-30T07:01:37+08:00",
    "summary": ""
   }
  ]
