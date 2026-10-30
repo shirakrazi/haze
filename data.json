@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-30T21:00:00+08:00",
+ "updated": "2026-10-30T22:00:00+08:00",
  "psi": {
-  "west": 59,
+  "west": 60,
   "east": 55,
   "central": 61,
   "south": 59,
-  "north": 59
+  "north": 60
  },
  "pm25": {
-  "west": 32,
-  "east": 20,
+  "west": 42,
+  "east": 17,
   "central": 25,
-  "south": 23,
-  "north": 14
+  "south": 27,
+  "north": 15
  },
  "hist": [
-  {
-   "t": "2026-10-28T22:00:00+08:00",
-   "psi": {
-    "west": 78,
-    "east": 72,
-    "central": 77,
-    "south": 68,
-    "north": 74
-   }
-  },
   {
    "t": "2026-10-28T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 59,
     "north": 59
    }
+  },
+  {
+   "t": "2026-10-30T22:00:00+08:00",
+   "psi": {
+    "west": 60,
+    "east": 55,
+    "central": 61,
+    "south": 59,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-10-30T21:12:35+08:00",
+ "newsUpdated": "2026-10-30T22:10:03+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Focus Malaysia",
+   "title": "From haze to action: Why Malaysia must invest in public support for science",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNel9oZVAxdWFIMzQ0cmdoUzRZU0N0VTJSeGhiUktnZlZYMFNkM0c1emNFaVpjVzJLRXNHbHFxQWZ4VDVIUlRCVVlYWnhwVU42TktxSTJhN3E0OTNCdVRSNm5zZzhPbzRmU3dmTFVfQUVPUElROVAyXzA0Q0pYNUZFM193bkNZOUZjUnMtbjFleXZlRVFrNzM3aXVPWmtUbVhrSGc?oc=5",
+   "time": "2026-10-30T21:57:36+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Reuters",
+   "title": "Singapore braces as Indonesia slaps back at neighbours amid haze, political woes",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaG0tTWFDaFB3eElxZGFQQzBiZWJRaS1rbVBJQzRWYVZ3OFJmS3lkaURfQ1VnaGlkX0lNODlxVGtBRXRzdmgzRGR4RkM4azdZcFZjZXp4eG90UnlwT2hEaVZteG5fdGxLS2x1ZC1oVTlPYUQ5WkhEVmg2WmVyMkl3OGZQX21xSWllc0llTmw4ckJ5LTdwSkZ1WGNIX0hyT08wNlZVb2JHSGt5Q3dOSW1fTnVxdzI1WVhBM1RnMGdBRW12RTN5UTdJ?oc=5",
+   "time": "2026-10-30T21:12:51+08:00",
+   "summary": ""
   },
   {
    "source": "Magzter",
@@ -556,6 +570,13 @@
    "summary": ""
   },
   {
+   "source": "Malaysia Sun",
+   "title": "Haze-fueled protests engulf Jakarta - RT reports (VIDEO)",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdFh2dDdMTjMwZFk2aElBYTBjOEFFZkYwXzZFNnEyRVhJMEE1VkNvWmF3Tkl3M0ZmY1R2S2ljLXNuMnhCQjVxdlhISlRSbmJvLXhJRUVDM2FBWjcyM2E5a0Q2MktDc2hxQmhWZ3JYQklXbUdlem9aenV0TVc4SDNwNkJBUTVvV1NnNTRwZEpLazFuaWZlSTYxLU1n?oc=5",
+   "time": "2026-10-30T16:50:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "Malay Mail",
    "title": "Singapore names seven-member expert panel to probe companies over transboundary haze links",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMmwwQS1nc0Nzb2ZuZWRxenlLN1Z4Q1lNRktDMzlHeEpVcEI4ZnduUFRVN1NwSUlraFVWazVxUWxqVlRIbkN6N2xfbUl6bE1QTVVvTjNNa2t0RHotMUFOSTlMODJ0dkJucVhhWjBtQVdmVHVmdFBJT3l4V3pScGpYblF5LUFSTE1QSU1EMVRNWW45SkY2clJ2UkxsOUI2ZEROd21NQlFsSnRnNHBqOFE3SC05dW12VWJXeWNpQlEtbVhzdno3cE02SVRYaFN6WDRiZGFRNTI4a0xRdXdXYWo0M05DVm5kX1hp0gHoAUFVX3lxTE0ybDBBLWdzQ3NvZm5lZHF6eUs3VnhDWU1GS0MzOUd4SlVwQjhmd25QVFU3U3BJSWtoVVZrNXFRbGpWVEhuQ3o3bF9tSXpsTVBNVW9OM01ra3REei0xQU5JOUw4MnR2Qm5xWGFaMG1BV2ZUdWZ0UElPeXhXelJwalhuUXktQVJMTVBJTUQxVE1ZbjlKRjZyUnZSTGw5QjZkRE53bU1CUWxKdGc0cGo4UTdILTl1bXZVYld5Y2lCUS1tWHN2ejdwTTZJVFhoU3pYNGJkYVE1MjhrTFF1d1dhajQzTkNWbmRfWGk?oc=5",
@@ -574,27 +595,6 @@
    "title": "The challenges facing Singapore’s haze law — and where it can gain more teeth",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb25nV3JZcnVDbU9odHNhUUoxdFlFLWptYlpCYTU0Q09Gd29VRFVkZHVkUEhfMnRkNUtqa01ndGtkXzc2N0RUVnJXa3g4RUxCcmFlN3JGb0ZScHZLVnY4TkItSVVlWTZNLTkwVmttNmZWVHNsd1hFN2ZaZHlFQ29vZnZaMk5aNi1JWTR0M2d3R3pIbWRqMVhTN2hIQWNtYzg?oc=5",
    "time": "2026-10-30T14:25:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Strengthening Singapore’s haze law and going beyond prosecutions – how errant firms can be held to account",
-   "url": "https://www.channelnewsasia.com/singapore/transboundary-haze-pollution-law-amendment-legal-6495336",
-   "time": "2026-10-30T14:25:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "www.planb.sg",
-   "title": "Netizens Applaud S'pore Ministers For Taking On Indonesia's '9 Dragons' In Haze Probe",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkJFYXJaNmJCdS1CVnlyNVJxZm1uWEk1VW9qUU9pMXI5aW83bllHQlNZNDBHQktxbzc3MllMTUo5UnAtb29aVXFBbjRPaWlNWURwQ2N0Ty0zRkN3R1VQZGdyendtTi1LZ3lZUXd5SURJUlNVN1pQYmpQc3FKRk9DdGhfaXJmV2tWbkxOYkl4VVlkNjhyVmYyOVdjaHZiY1JPSG1pSndSZGZUN3A5Q3c?oc=5",
-   "time": "2026-10-30T14:11:20+08:00",
-   "summary": ""
-  },
-  {
-   "source": "SAYS",
-   "title": "Haze Cost Malaysia An Estimated RM8 Billion In Losses & 1,700 Deaths, Study Finds",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVTk4MHpsX0ZLc295ZmNTZDBuWGRYZHlsNzJYZTcwSEU1Ni1YWE9VbVUwWmFCZXBEanUyWWQ3SXNDM2UxX0tlelVZd3ZnaVJpaFhIUHhHUVRjYklaSmVmaUdGWU81QzQ3blBlbFNkWXlhTjVHbEVVMVhWb2NfQ0MxQVZoejNQMDlLZTAyZkhGMTFOUDBPcnlJTVVCU1RPdUE2eWo2ZQ?oc=5",
-   "time": "2026-10-30T13:46:00+08:00",
    "summary": ""
   }
  ]
