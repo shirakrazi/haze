@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T06:00:00+08:00",
+ "updated": "2026-10-31T07:00:00+08:00",
  "psi": {
-  "west": 65,
+  "west": 67,
   "east": 56,
   "central": 61,
   "south": 59,
@@ -9,22 +9,12 @@
  },
  "pm25": {
   "west": 40,
-  "east": 24,
-  "central": 15,
-  "south": 26,
-  "north": 25
+  "east": 19,
+  "central": 14,
+  "south": 20,
+  "north": 29
  },
  "hist": [
-  {
-   "t": "2026-10-29T07:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 72,
-    "central": 71,
-    "south": 68,
-    "north": 72
-   }
-  },
   {
    "t": "2026-10-29T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 59,
     "north": 60
    }
+  },
+  {
+   "t": "2026-10-31T07:00:00+08:00",
+   "psi": {
+    "west": 67,
+    "east": 56,
+    "central": 61,
+    "south": 59,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-10-31T06:07:22+08:00",
+ "newsUpdated": "2026-10-31T07:08:00+08:00",
  "news": [
   {
    "source": "CNA",
@@ -510,6 +510,13 @@
    "source": "Nikkei Asia",
    "title": "Singapore haze crackdown tests legal reach and regional ties",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGM0RU9lalNfVUg3RS1HYXVyQ18yQ0RwZUtOcUNPLTVYVTJ2U3g1TnJKMkpzTmk1dUhSMlBCVnRMZGJYNHBZYnJrcXFmV0NTdENGaXA2LU40MEZUeWVzdmxiSXRXenhmeEVkUF9NSUJUV3RfOHBrazlLUElKaFJQQ2g3b2I0YU1SaUFVSUVlaF9uZkdJNUQ1T1YwdzZNdjRUQ0o0UjFVa3F5UQ?oc=5",
+   "time": "2026-10-31T05:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Gulf Times",
+   "title": "Singapore braces as Indonesia slaps back at neighbours amid haze, political woes | Gulf Times",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaDMxcFc3R1VHX0c0eV9rTXkwdGt3U3BjOUhyWU1uZXNhOFhRdTV4VUt6T1NrbkZpY3g5SExRbWRxM0dLdnpqZ05ZWW40LUo4aHRhYUJoSDlOVzdTaXdjVy1sMFpNbGdDMDRwRnFva1l0NVlvTmtuVmVIeTIyNzljN2xBUWNLUDNZMURVRDhqeWhSdXNQUUVfalBwVHdSdWR3M0dRZmdzRUI4VG9pNVlCa0tsOG9NenNoMno1RGYtcHA2Um95R3BWaGxQUXBtUlM0X0pBSndtTHRrMENNbTlBc0M5cjVkZ1BCR0RwQ9IB7AFBVV95cUxOaDMxcFc3R1VHX0c0eV9rTXkwdGt3U3BjOUhyWU1uZXNhOFhRdTV4VUt6T1NrbkZpY3g5SExRbWRxM0dLdnpqZ05ZWW40LUo4aHRhYUJoSDlOVzdTaXdjVy1sMFpNbGdDMDRwRnFva1l0NVlvTmtuVmVIeTIyNzljN2xBUWNLUDNZMURVRDhqeWhSdXNQUUVfalBwVHdSdWR3M0dRZmdzRUI4VG9pNVlCa0tsOG9NenNoMno1RGYtcHA2Um95R3BWaGxQUXBtUlM0X0pBSndtTHRrMENNbTlBc0M5cjVkZ1BCR0RwQw?oc=5",
    "time": "2026-10-31T05:00:00+08:00",
    "summary": ""
   },
@@ -532,13 +539,6 @@
    "title": "From haze to action: Why Malaysia must invest in public support for science",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNel9oZVAxdWFIMzQ0cmdoUzRZU0N0VTJSeGhiUktnZlZYMFNkM0c1emNFaVpjVzJLRXNHbHFxQWZ4VDVIUlRCVVlYWnhwVU42TktxSTJhN3E0OTNCdVRSNm5zZzhPbzRmU3dmTFVfQUVPUElROVAyXzA0Q0pYNUZFM193bkNZOUZjUnMtbjFleXZlRVFrNzM3aXVPWmtUbVhrSGc?oc=5",
    "time": "2026-10-30T21:57:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Reuters",
-   "title": "Singapore braces as Indonesia slaps back at neighbours amid haze, political woes",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaG0tTWFDaFB3eElxZGFQQzBiZWJRaS1rbVBJQzRWYVZ3OFJmS3lkaURfQ1VnaGlkX0lNODlxVGtBRXRzdmgzRGR4RkM4azdZcFZjZXp4eG90UnlwT2hEaVZteG5fdGxLS2x1ZC1oVTlPYUQ5WkhEVmg2WmVyMkl3OGZQX21xSWllc0llTmw4ckJ5LTdwSkZ1WGNIX0hyT08wNlZVb2JHSGt5Q3dOSW1fTnVxdzI1WVhBM1RnMGdBRW12RTN5UTdJ?oc=5",
-   "time": "2026-10-30T21:12:51+08:00",
    "summary": ""
   },
   {
