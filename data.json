@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-31T02:00:00+08:00",
+ "updated": "2026-10-31T03:00:00+08:00",
  "psi": {
   "west": 62,
   "east": 55,
   "central": 62,
-  "south": 59,
+  "south": 58,
   "north": 60
  },
  "pm25": {
-  "west": 19,
-  "east": 12,
-  "central": 21,
-  "south": 13,
-  "north": 19
+  "west": 22,
+  "east": 14,
+  "central": 23,
+  "south": 11,
+  "north": 23
  },
  "hist": [
-  {
-   "t": "2026-10-29T03:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 72,
-    "central": 75,
-    "south": 67,
-    "north": 72
-   }
-  },
   {
    "t": "2026-10-29T04:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 59,
     "north": 60
    }
+  },
+  {
+   "t": "2026-10-31T03:00:00+08:00",
+   "psi": {
+    "west": 62,
+    "east": 55,
+    "central": 62,
+    "south": 58,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-10-31T02:08:01+08:00",
+ "newsUpdated": "2026-10-31T03:07:14+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "www.planb.sg",
+   "title": "Netizens Applaud S'pore Ministers For Taking On Indonesia's '9 Dragons' In Haze Probe",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkJFYXJaNmJCdS1CVnlyNVJxZm1uWEk1VW9qUU9pMXI5aW83bllHQlNZNDBHQktxbzc3MllMTUo5UnAtb29aVXFBbjRPaWlNWURwQ2N0Ty0zRkN3R1VQZGdyendtTi1LZ3lZUXd5SURJUlNVN1pQYmpQc3FKRk9DdGhfaXJmV2tWbkxOYkl4VVlkNjhyVmYyOVdjaHZiY1JPSG1pSndSZGZUN3A5Q3c?oc=5",
+   "time": "2026-10-30T23:12:05+08:00",
+   "summary": ""
   },
   {
    "source": "Global Investigations Review",
@@ -588,13 +595,6 @@
    "title": "Singapore names seven-member expert panel to probe companies over transboundary haze links",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMmwwQS1nc0Nzb2ZuZWRxenlLN1Z4Q1lNRktDMzlHeEpVcEI4ZnduUFRVN1NwSUlraFVWazVxUWxqVlRIbkN6N2xfbUl6bE1QTVVvTjNNa2t0RHotMUFOSTlMODJ0dkJucVhhWjBtQVdmVHVmdFBJT3l4V3pScGpYblF5LUFSTE1QSU1EMVRNWW45SkY2clJ2UkxsOUI2ZEROd21NQlFsSnRnNHBqOFE3SC05dW12VWJXeWNpQlEtbVhzdno3cE02SVRYaFN6WDRiZGFRNTI4a0xRdXdXYWo0M05DVm5kX1hp0gHoAUFVX3lxTE0ybDBBLWdzQ3NvZm5lZHF6eUs3VnhDWU1GS0MzOUd4SlVwQjhmd25QVFU3U3BJSWtoVVZrNXFRbGpWVEhuQ3o3bF9tSXpsTVBNVW9OM01ra3REei0xQU5JOUw4MnR2Qm5xWGFaMG1BV2ZUdWZ0UElPeXhXelJwalhuUXktQVJMTVBJTUQxVE1ZbjlKRjZyUnZSTGw5QjZkRE53bU1CUWxKdGc0cGo4UTdILTl1bXZVYld5Y2lCUS1tWHN2ejdwTTZJVFhoU3pYNGJkYVE1MjhrTFF1d1dhajQzTkNWbmRfWGk?oc=5",
    "time": "2026-10-30T16:21:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "TRT World",
-   "title": "Indonesia wildfire haze killed an estimated 3,560 people in September: report",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91Q3NUdS1Sa3d4MVhnOHZUb0t6RERlU2JsTElDQ0V0a1RfWFRpc1o1Zk5UUkdRVmd5clNDY0ZMNXhWNEk5RUVHcml6b3JVbExtZVVqcVh3d0o?oc=5",
-   "time": "2026-10-30T15:19:47+08:00",
    "summary": ""
   }
  ]
