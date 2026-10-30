@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-31T05:00:00+08:00",
+ "updated": "2026-10-31T06:00:00+08:00",
  "psi": {
-  "west": 64,
+  "west": 65,
   "east": 56,
   "central": 61,
-  "south": 58,
+  "south": 59,
   "north": 60
  },
  "pm25": {
-  "west": 33,
-  "east": 20,
-  "central": 18,
-  "south": 16,
-  "north": 20
+  "west": 40,
+  "east": 24,
+  "central": 15,
+  "south": 26,
+  "north": 25
  },
  "hist": [
-  {
-   "t": "2026-10-29T06:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 72,
-    "central": 72,
-    "south": 68,
-    "north": 72
-   }
-  },
   {
    "t": "2026-10-29T07:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 58,
     "north": 60
    }
+  },
+  {
+   "t": "2026-10-31T06:00:00+08:00",
+   "psi": {
+    "west": 65,
+    "east": 56,
+    "central": 61,
+    "south": 59,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-10-31T05:08:27+08:00",
+ "newsUpdated": "2026-10-31T06:07:22+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Nikkei Asia",
+   "title": "Singapore haze crackdown tests legal reach and regional ties",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGM0RU9lalNfVUg3RS1HYXVyQ18yQ0RwZUtOcUNPLTVYVTJ2U3g1TnJKMkpzTmk1dUhSMlBCVnRMZGJYNHBZYnJrcXFmV0NTdENGaXA2LU40MEZUeWVzdmxiSXRXenhmeEVkUF9NSUJUV3RfOHBrazlLUElKaFJQQ2g3b2I0YU1SaUFVSUVlaF9uZkdJNUQ1T1YwdzZNdjRUQ0o0UjFVa3F5UQ?oc=5",
+   "time": "2026-10-31T05:00:00+08:00",
+   "summary": ""
   },
   {
    "source": "www.planb.sg",
@@ -588,13 +595,6 @@
    "title": "Haze, accountability and hopefully a brighter outlook",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcVF3bDBGUzFtTkhPUThCcXRtWVljdHRKcE5XYUl1QVNuWDVnYk5Ba3o5TkFjRWRqQ0JEeU1Oa3hrU2d4U2xZOEs0bEw5LThvU3F4Z2RZdS13MlFHRkl1OWpOZHhGdVhKTzRaY3VyajNYR1ZKQVpKbXBHcWZTZmVNeG1CREZSZ3YzZUVqbEoyMklDTlIyVWJiWGJmLWdja0ZrTVNZ?oc=5",
    "time": "2026-10-30T17:30:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malaysia Sun",
-   "title": "Haze-fueled protests engulf Jakarta - RT reports (VIDEO)",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdFh2dDdMTjMwZFk2aElBYTBjOEFFZkYwXzZFNnEyRVhJMEE1VkNvWmF3Tkl3M0ZmY1R2S2ljLXNuMnhCQjVxdlhISlRSbmJvLXhJRUVDM2FBWjcyM2E5a0Q2MktDc2hxQmhWZ3JYQklXbUdlem9aenV0TVc4SDNwNkJBUTVvV1NnNTRwZEpLazFuaWZlSTYxLU1n?oc=5",
-   "time": "2026-10-30T16:50:00+08:00",
    "summary": ""
   }
  ]
