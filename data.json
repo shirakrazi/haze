@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-31T17:00:00+08:00",
+ "updated": "2026-10-31T18:00:00+08:00",
  "psi": {
   "west": 75,
   "east": 58,
   "central": 64,
-  "south": 59,
-  "north": 61
+  "south": 60,
+  "north": 60
  },
  "pm25": {
   "west": 36,
-  "east": 12,
-  "central": 32,
-  "south": 40,
-  "north": 8
+  "east": 23,
+  "central": 23,
+  "south": 33,
+  "north": 12
  },
  "hist": [
-  {
-   "t": "2026-10-29T18:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 68,
-    "central": 68,
-    "south": 68,
-    "north": 72
-   }
-  },
   {
    "t": "2026-10-29T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 59,
     "north": 61
    }
+  },
+  {
+   "t": "2026-10-31T18:00:00+08:00",
+   "psi": {
+    "west": 75,
+    "east": 58,
+    "central": 64,
+    "south": 60,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-10-31T17:06:58+08:00",
+ "newsUpdated": "2026-10-31T18:07:24+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Latest news from Azerbaijan",
+   "title": "Singapore's air quality improves as haze eases",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93Wl9GSFpwQi10ZklCaVQzcWd1NjNzVG5uY2NPOHotaG5qM1BRLTdKdk8wT3lwdHFRbzZFejdEVERHcXJGNTI4Y3dLMEdnTVh3SFMxLXZaVG5hYUR3QXIyQUh6X2d4VDcxMXFIQ1ZDX01VeGVWOXc?oc=5",
+   "time": "2026-10-31T17:36:22+08:00",
+   "summary": ""
+  },
+  {
+   "source": "nea.gov.sg",
+   "title": "Haze Situation Update (31 October 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2Z5a3g5c1VRdzhyb0ZRcFQyRm1hSXBla2RtbWg5RXdiSmNRVmpQLTc2MUs2VTdaYVY4YldCSlp0OFRIQUhmMEtPNF9oeVFWZzRWaWlkdk9qNEhZbU1hcUJXQ1BiWWFuc3k5Z0hRWmVtWDZCUFM2Tzh6Y2RYQUJveGZ2YlVseVFvWFFiWnpVV1pBZw?oc=5",
+   "time": "2026-10-31T17:19:22+08:00",
+   "summary": ""
   },
   {
    "source": "Modern Ghana",
@@ -581,20 +595,6 @@
    "title": "Severe forest fire haze killed more than 3,500 in Indonesia in September",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbXF5bUFvRlRWWjRZdnJzNVR0M3ozZTNxTXM5Y1c5YzZqREFOVzNCVTlqcVFlT1hJSzJkbDlHWE54OHVqUkpRaV9UYjZQVjBzd2s3bVk4WEpUZS1LazVZbGhrcDNBY1FfTWJWVDVJTHdvMWNiRFVoTHFTYURaRXRqTjlsZ1BUZFFxSG1SVGRQTi1fWjMwcFFjZmx1Wm9ZeTg?oc=5",
    "time": "2026-10-31T08:44:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "联合早报",
-   "title": "All seven Singapore-listed firms back independent investigations into Indonesian fires and haze",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTm1LeDk2VXZLdDd3YmJJUGxlbTg1eGNSdmtGMVpnenNMYVdsTTFHUG12eFRrYWl4MUc5VHhiNWFnT2xpRGRGNjdBRldfc3lMSDZ3RXV2THdGQVg1Q2ZnZGRkZ3JPOVhyMzRpMDZ0U0tjNWlnVk94all6UEtlRk15OWMxZGJzci1TMzZzY1BhWTV5V2l3cTZGZHRVdDR0V3VrdWJIM1F4bWVkNlJ1dHFzcW85T0h5QzkxUXRnUnFYTGY2SFF6ZVNzUHZwRXY3WHZLMW5F?oc=5",
-   "time": "2026-10-31T08:38:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Newswav",
-   "title": "Haze in, haze out… till the next season, again?",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd3FrQVVocElKaWEwd21hNHBSZWxaUkRXbzFmRkd4ODcta2tnRWJzc3BsUDlKNEJVVDVUeGVIVnBkUXpXbURKaW9odW0zUHQwSnZNQXJybTBFSnNmSHhlQ09oTmRvNEliXzZnQWxNMkl2aXpiS29zc3AwcFRmUGdiMTcxRERyRTA0UTM5Yg?oc=5",
-   "time": "2026-10-31T08:22:39+08:00",
    "summary": ""
   }
  ]
