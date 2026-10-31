@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-01T06:00:00+08:00",
+ "updated": "2026-11-01T07:00:00+08:00",
  "psi": {
-  "west": 85,
-  "east": 67,
-  "central": 71,
-  "south": 69,
+  "west": 86,
+  "east": 68,
+  "central": 72,
+  "south": 70,
   "north": 68
  },
  "pm25": {
-  "west": 59,
-  "east": 37,
-  "central": 20,
-  "south": 36,
-  "north": 38
+  "west": 55,
+  "east": 31,
+  "central": 30,
+  "south": 33,
+  "north": 31
  },
  "hist": [
-  {
-   "t": "2026-10-30T07:00:00+08:00",
-   "psi": {
-    "west": 67,
-    "east": 58,
-    "central": 64,
-    "south": 62,
-    "north": 64
-   }
-  },
   {
    "t": "2026-10-30T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 69,
     "north": 68
    }
+  },
+  {
+   "t": "2026-11-01T07:00:00+08:00",
+   "psi": {
+    "west": 86,
+    "east": 68,
+    "central": 72,
+    "south": 70,
+    "north": 68
+   }
   }
  ],
- "newsUpdated": "2026-11-01T06:07:17+08:00",
+ "newsUpdated": "2026-11-01T07:06:39+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "KONTAN",
+   "title": "Singapore Braces as Indonesia Slaps Back at Neighbours Amid Haze, Political Woes",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlpBR1FaS09iVV9uVVZsTl8xSDlWR0ExRkxja1I3TVJ2dHM2QnVHbE9KdW9jZTFROTFOeUJZWk12WDVCWjE1OG5BWkJFWHVPYU51VXhZTFBJZndaQ0JuRlozM0dYdmdQV0dUZDB6QVI3V3huODRkRlRfRDVlZVM3SUFIekY1UkFpLUpVb1ZWMGROaDUwbTl3dFNBenAyNjk2QXBQR1JDSjV1ajI5b1VtVUYxRdIBrgFBVV95cUxOZC1nZnpidWd1eDFpTjBJc3F4aWt1Y1ZBR0theklBUUIwZ1ViSllGeHpPY3MtTHE0WUlOVHhwd0VYcXpla0lwUGVzWVBmR0VuTlB2aHZmYzA1SmNZcXF1R1J6RHJrY21rWjNrc0dWamtLQ29laGRQWlY2R3d0R1FwZEFBSTF0ek5YeGE1RmpMSkQyblNWNTh5VFA3LWIwamZJWUxIcU5RQmdyY1lBRkE?oc=5",
+   "time": "2026-11-01T06:51:26+08:00",
+   "summary": ""
   },
   {
    "source": "SSBCrack",
@@ -588,13 +595,6 @@
    "title": "The haze caused nearly $2 billion in economic damage to Malaysia.",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkhEclZyX0hTYm5IOUt0VGMyelRJVUNzT091Q2ctVzN3V29tY3hKelJQOHU0UGJ4RkNYaXpDOUxndWJKTlpJS1RRLS03SFdDUnVlSzFMR1VfbjdRd1gwUDRiQXpiQ1pQbjN2OGU2RjBqRVdjQ29iRGJQZ2h0U3k1MEc4N3N3YWV4?oc=5",
    "time": "2026-10-31T19:46:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NBC News",
-   "title": "‘Looks like Mars’: Toxic smog from Indonesia wildfires sparks health crisis, protests",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGJJY3ZraVo4MC1aOGQxd2JhdGh3bTJvaE8xemk3VnRmdW9odV9Cb2JfNWFROXRCa1lEM3lkUjhlR3VCMEVfeDl6enBLanR5SDZwUFhOT2d4VmdpZDFtOG1ERzV1NFZQUW9YaFI1TVJCTEJMY2xRN1Z3RkZXRlI1cGlmM2VPR2pOM2ZEaEM5UlZPSEwzOFE4WmJUaGxzdlp1bkVQLQ?oc=5",
-   "time": "2026-10-31T18:30:42+08:00",
    "summary": ""
   }
  ]
