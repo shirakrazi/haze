@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-31T16:00:00+08:00",
+ "updated": "2026-10-31T17:00:00+08:00",
  "psi": {
   "west": 75,
   "east": 58,
   "central": 64,
-  "south": 58,
+  "south": 59,
   "north": 61
  },
  "pm25": {
-  "west": 38,
-  "east": 17,
+  "west": 36,
+  "east": 12,
   "central": 32,
-  "south": 33,
-  "north": 17
+  "south": 40,
+  "north": 8
  },
  "hist": [
-  {
-   "t": "2026-10-29T17:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 69,
-    "central": 68,
-    "south": 69,
-    "north": 72
-   }
-  },
   {
    "t": "2026-10-29T18:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 58,
     "north": 61
    }
+  },
+  {
+   "t": "2026-10-31T17:00:00+08:00",
+   "psi": {
+    "west": 75,
+    "east": 58,
+    "central": 64,
+    "south": 59,
+    "north": 61
+   }
   }
  ],
- "newsUpdated": "2026-10-31T16:07:33+08:00",
+ "newsUpdated": "2026-10-31T17:06:58+08:00",
  "news": [
   {
    "source": "CNA",
@@ -529,6 +529,13 @@
   },
   {
    "source": "Magzter",
+   "title": "Trust but diversify: Lessons for Singapore from the haze-related friction with Indonesia | The Straits Times - newspaper",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcXJBS1FRT2xJOVVHUzZHVzVXMkNET2NoeER3bW84dVVnSG5OMXZMclVCNUlUTnVTQmFPUzZlVjJZbGNuMVVMUTV2R0FtS25rNEd1Wk54Zjd5aUVNTVZaMTA2TkhLdzl1cDZ6WXItUlRyak9RNllFM0lTbkpVOUs2RGNGaThGSzM2S3lZRFpxczdvMklmQng3bVRVaWdId3ZYUXdWd0hTZDY2NXJOV000MXNoZVRxb2JJcURzeGRLM3VRX2o1TVg0bTBEcTFEaHJWLXdyRXVSajFMUTUtNGhN?oc=5",
+   "time": "2026-10-31T11:40:14+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Magzter",
    "title": "High global oil prices too had a hand in this haze",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3ZPNld4UUVFZE0wazNNUktuNEVQbXcwa0xlSHF5MjBxOGxxQWFSMTh4WVBCa2duQ1VkTXY2cEYyTmVvVHVySHpIWlVNajUzd19fTWl0TVFUb2JmVW5YbDNXUU05Zm96cTc0MXBoV1otWmFycjR0THVIanVWZmpzc2M0am1qMzc0aWQ5STNaa3FoUEg3YlZocmYxaENkQlZ5N1Mtb2xRS2Z3V0pMdEEw?oc=5",
    "time": "2026-10-31T11:33:45+08:00",
@@ -553,6 +560,13 @@
    "title": "Haze pollution costs Malaysia $1.9B, potentially claims 1,700 lives: report",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaWlvVmNGWjRDTlI1Zkg1SVQwd2lmbF9udXBvVEZHT1ZaTF9PUWthTzk0bi1uc2dKQ1ZfUnd0aWplQnJfNEFzZ08xV2ZEOThVak5aRTZwNXlZTXpZMjJjT3REMEpPd2NoZzc5WTJGYmNnaFM5Z0tSa0V5QWNDUkJrZ0NvbnJEMFZENW1CZlVrY0JSRE9FNGJEWFZ5bGU0bWdPSkV6QkVxSC1LZDNobWJwb1FoekdZYlIwcFVGNHhielZhZzZzZTMtMnM1aw?oc=5",
    "time": "2026-10-31T11:05:04+08:00",
+   "summary": ""
+  },
+  {
+   "source": "联合早报",
+   "title": "Government names haze expert panel to review 10 local firms and establish liability",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcFlPTzUtRW5IQXVmdDlza0hQQUd5OUwzR0ZPb3VQalJNNVhGcklkVFdjS284cE9oRi1FSnpaWUY2VW5DQ0lRNVItcXdyc0tCaG1Md09KQmRmVnNaemJRajVlc1V4My0ydXhfc1o1ZzZqYmtzUXR1S05KdHBwbVNJMVQ3dEdmTDZHcG0zem9sdUxINjNzQ1M4eGtSaHQ4QXFnMU4xZ3gteDJrRndHRmFtXzZsZDA1RUNsdlFHUC1QSE5rZw?oc=5",
+   "time": "2026-10-31T09:58:42+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Haze in, haze out… till the next season, again?",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd3FrQVVocElKaWEwd21hNHBSZWxaUkRXbzFmRkd4ODcta2tnRWJzc3BsUDlKNEJVVDVUeGVIVnBkUXpXbURKaW9odW0zUHQwSnZNQXJybTBFSnNmSHhlQ09oTmRvNEliXzZnQWxNMkl2aXpiS29zc3AwcFRmUGdiMTcxRERyRTA0UTM5Yg?oc=5",
    "time": "2026-10-31T08:22:39+08:00",
-   "summary": ""
-  },
-  {
-   "source": "UA.NEWS",
-   "title": "Haze eases in Singapore, PSI stands at 56–67 — Channel NewsAsia",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNXg3eE5fQmczaUFNVXU2VEFPTG1LN3lRb2lqVHN0WWxKa1lsUDhRRTdjNlJXN0J3ZjRpSE16Umc5YlBTMlhvRUMyc093QzBXZlAxYndVODJhTjBaZDFPLVBqZUc3VWVBOVRZNnZuUXVUS003R0FtN3U4eklKQnJwUl90ZXZsTm44a0ZBYlpXVEMtUXpmWEZBTU0ydDIxUl9ZQ3U2dk5CdUVBMHhO?oc=5",
-   "time": "2026-10-31T08:12:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore's air quality remains in good-to-moderate range as haze eases",
-   "url": "https://www.channelnewsasia.com/singapore/haze-singapore-pm25-psi-oct-31-nea-6508766",
-   "time": "2026-10-31T07:45:42+08:00",
    "summary": ""
   }
  ]
