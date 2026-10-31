@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-01T00:00:00+08:00",
+ "updated": "2026-11-01T01:00:00+08:00",
  "psi": {
-  "west": 78,
+  "west": 79,
   "east": 63,
   "central": 68,
-  "south": 63,
+  "south": 65,
   "north": 64
  },
  "pm25": {
-  "west": 47,
-  "east": 31,
-  "central": 39,
-  "south": 27,
-  "north": 26
+  "west": 45,
+  "east": 29,
+  "central": 38,
+  "south": 33,
+  "north": 29
  },
  "hist": [
-  {
-   "t": "2026-10-30T01:00:00+08:00",
-   "psi": {
-    "west": 74,
-    "east": 64,
-    "central": 65,
-    "south": 66,
-    "north": 68
-   }
-  },
   {
    "t": "2026-10-30T02:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 63,
     "north": 64
    }
+  },
+  {
+   "t": "2026-11-01T01:00:00+08:00",
+   "psi": {
+    "west": 79,
+    "east": 63,
+    "central": 68,
+    "south": 65,
+    "north": 64
+   }
   }
  ],
- "newsUpdated": "2026-11-01T00:06:09+08:00",
+ "newsUpdated": "2026-11-01T01:07:11+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,31 @@
    "pinned": true
   },
   {
+   "source": "SSBCrack",
+   "title": "Devastating Wildfires Create Toxic Haze in Indonesia Amid Protests and Regional Tensions",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRF9zRWI1NDFkTjJXLWo5NjktdFlEZE85LURqLVVHaFp0Vm5jckR1N0RXaDJSZ040dDc5TTVTN200N3lOVjlzYlpWclRKSFRKWGZITExWRjNLcko0WWpkS1JCSTFFaTVEX1ZGSWNLTEQ4Yl83UmxGd0dNek5SUVpRSGpzMU4tU2pScW1iVTdHaTVvSlc0SjFtd08yYkFmQ0FZbjZnZGF6NExhLWpwOUc2RXMzb3BPZw?oc=5",
+   "time": "2026-11-01T00:13:41+08:00",
+   "summary": ""
+  },
+  {
+   "source": "TipRanks",
+   "title": "Golden Agri-Resources Pledges Full Cooperation on Singapore Haze Inquiry",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2IteC1mOHNZOFA5VmlpMHAzMG53RktTUjQ2TmZVYXVDdzlqRkdaSGl6cVJiTk5DWmpOMkh3bDc2YzFkVGplTkM5LVFtaExDN3g0Tktwc0pEaHFvUEpMOS1oOWo1VnRDa08tN1FPdW95UHhxTEZqbTUtQmphV1pSZXN5RlFQOE1vemdMVE1wTFJBUVFlVjUzeHNXMEhOaTdoeE1ST3VGQjhhb1FHMHlUZDFUZTYzdG1VYlliNTdrRm14UQ?oc=5",
+   "time": "2026-10-31T23:51:24+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Haze probe: Five Singapore-registered companies agree to engage assessors",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdll5UGlyV3VFUjAxNk5MNl9EVlhqaGJUQndrRG9uT0tneDVadlhLaE55NnFhaUVwb0xIamUwTEZ5MDR3RDU5MEtILTc1SnNfd1JXNVNreDVRWFIxVzFPWHd3a25nQmY5Xy1DNXVFdXVfQVU1VUp2dE9kanUtYVNWSlA4RnBFV1VhQkY3dXlkQjNTX1Y5MlBuVg?oc=5",
    "time": "2026-10-31T23:43:02+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Must Share News",
+   "title": "5 S’pore-registered companies agree to engage assessors over haze probe, 2 others also willing to co ...",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yMlJDZmNNOEpPcTFWcDdPVXdxbVdmdGFTcTJTU1Y0OEFQZDZVS280OWRHNTN5TnF2TkdaMFE5a3cyR0NGLVgyOEtJV0I4Z3NlcklsN1BXLUc2M2_SAWBBVV95cUxNdHFHYmVXOTR4UWZFNF9acWtMVXdkQnh3LWozWTFxTUV0OFM2Q19HZENlNmNlWmdlMUdCU2JaeUpPdzRHVmRBNEl1ckE1alNJM3hUQ3B5VkgwLXhvcU9KVVU?oc=5",
+   "time": "2026-10-31T23:33:17+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "‘Looks like Mars’: Toxic smog from Indonesia wildfires sparks health crisis, protests",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGJJY3ZraVo4MC1aOGQxd2JhdGh3bTJvaE8xemk3VnRmdW9odV9Cb2JfNWFROXRCa1lEM3lkUjhlR3VCMEVfeDl6enBLanR5SDZwUFhOT2d4VmdpZDFtOG1ERzV1NFZQUW9YaFI1TVJCTEJMY2xRN1Z3RkZXRlI1cGlmM2VPR2pOM2ZEaEM5UlZPSEwzOFE4WmJUaGxzdlp1bkVQLQ?oc=5",
    "time": "2026-10-31T18:30:42+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Latest news from Azerbaijan",
-   "title": "Singapore's air quality improves as haze eases",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93Wl9GSFpwQi10ZklCaVQzcWd1NjNzVG5uY2NPOHotaG5qM1BRLTdKdk8wT3lwdHFRbzZFejdEVERHcXJGNTI4Y3dLMEdnTVh3SFMxLXZaVG5hYUR3QXIyQUh6X2d4VDcxMXFIQ1ZDX01VeGVWOXc?oc=5",
-   "time": "2026-10-31T17:36:22+08:00",
-   "summary": ""
-  },
-  {
-   "source": "nea.gov.sg",
-   "title": "Haze Situation Update (31 October 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2Z5a3g5c1VRdzhyb0ZRcFQyRm1hSXBla2RtbWg5RXdiSmNRVmpQLTc2MUs2VTdaYVY4YldCSlp0OFRIQUhmMEtPNF9oeVFWZzRWaWlkdk9qNEhZbU1hcUJXQ1BiWWFuc3k5Z0hRWmVtWDZCUFM2Tzh6Y2RYQUJveGZ2YlVseVFvWFFiWnpVV1pBZw?oc=5",
-   "time": "2026-10-31T17:19:22+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Modern Ghana",
-   "title": "Why a toxic choking haze has gripped Indonesia for months | BBC News",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tZFRaRThRbVB1bmNpUWRYcFczLWo3UFBZeC03YmpuVFAyR3VQa2FFdW1HVlB0WlNIbl9FNFA0MnNublJ5b3I2SHNNTkZDd1dzODNuYThsVmZHVkJXb01Z0gFcQVVfeXFMTTRlekpKbFNleXdDMU9HVExpbVpiMHVIejZ6QWZ1b2VTS1RvSDlBdExPY3J0aG5tcHJWZkRpSXBncDVCN3JoN0poVkxkeklUNHBYSUtIVnhsUTBIVzk?oc=5",
-   "time": "2026-10-31T15:00:00+08:00",
    "summary": ""
   }
  ]
