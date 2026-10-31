@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-31T20:00:00+08:00",
+ "updated": "2026-10-31T21:00:00+08:00",
  "psi": {
   "west": 77,
   "east": 60,
   "central": 65,
   "south": 61,
-  "north": 61
+  "north": 62
  },
  "pm25": {
-  "west": 44,
+  "west": 42,
   "east": 28,
   "central": 35,
-  "south": 30,
-  "north": 33
+  "south": 31,
+  "north": 29
  },
  "hist": [
-  {
-   "t": "2026-10-29T21:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 68,
-    "central": 67,
-    "south": 68,
-    "north": 70
-   }
-  },
   {
    "t": "2026-10-29T22:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 61,
     "north": 61
    }
+  },
+  {
+   "t": "2026-10-31T21:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 60,
+    "central": 65,
+    "south": 61,
+    "north": 62
+   }
   }
  ],
- "newsUpdated": "2026-10-31T20:07:46+08:00",
+ "newsUpdated": "2026-10-31T21:08:10+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Vietnam.vn",
+   "title": "The haze caused significant economic damage to Malaysia.",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GaUdTQTB4YURlQkZyakVsTmJBOGo4ek1zWXZOUlhnNGVSTzZTTDc1OUZVbi1vX0hTcjZ1UFN1cDNKV00tcmEwdGtjdlhSLUZvQVRUa0lsMVVwVFg1bEdFLW1rd0NoTURFNUJIQVBFeU8zLUZzbU14U29wb0o?oc=5",
+   "time": "2026-10-31T20:28:16+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Transboundary haze: Indonesia's environment minister conducts field checks for joint task force",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbkNSWWQtbmVSekxGSEplZVl0RDF4LUh2a0VfQ1dqN3NyOThGY0xWQmZHNTFNeW5zNFRTQmxObWFVUXRQdXNkWThHZUFxUGpBTklrdVhiVlNrVjZ0cGlzMElRQWpyd1Q3alJjLXlNQURWXzJYZ3Z0SXRhVDdvY2puTnFWRzA4LURuVUViQUE2NTZ1amY2MWxYQUVRa2haamsxZWFkWEU3UTYtQk9kTWtjRk02VGt6YjBvS0RMX1ZldlpoX3BkY1RCOFlBSGRzYmJh?oc=5",
+   "time": "2026-10-31T20:19:12+08:00",
+   "summary": ""
   },
   {
    "source": "The Sun Malaysia",
@@ -545,7 +559,7 @@
    "source": "S. Rajaratnam School of International Studies (RSIS)",
    "title": "CO26226 | Domestic Land Governance and the Limits of Regional Haze Cooperation",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzBCd2xiaFpBV0F5WmhtVk8wS2JpM0VjQ1JkaXgzbW9zeHU0UTVYaF83cVhDRjVjZEQ3LUI1alQyY2t2OW5lMVh3Z2hGbTRFcmlmQ1lZOEp6Sy1nYkhOZnB3MmlLejd5ZXlwYXdTa0tpVHBkTVMwczhMTnBfcmRvSndBVFQwZHlMVzFlVkRWc01EM3VVdDlvcTlYUnBMRnRLZWF5ZWVoME1SRDk5WWtIOA?oc=5",
-   "time": "2026-10-31T14:22:30+08:00",
+   "time": "2026-10-31T14:24:18+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "- Beyond The Haze: Why Clean Air And Climate Action Belong Together",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13TDE0ZFYxelB2M1ZrZlNSUXpLUU5IZExOMURxTEIzZzROSjIwdVVWT3FxdE1aSTM2b1dRd1A0b1JUbHMyUHZRWXBGNEVTaHJsWldxR05aeHkyN0o1bHFwTU1iWTg3QQ?oc=5",
    "time": "2026-10-31T11:15:10+08:00",
-   "summary": ""
-  },
-  {
-   "source": "VnExpress International",
-   "title": "Haze pollution costs Malaysia $1.9B, potentially claims 1,700 lives: report",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaWlvVmNGWjRDTlI1Zkg1SVQwd2lmbF9udXBvVEZHT1ZaTF9PUWthTzk0bi1uc2dKQ1ZfUnd0aWplQnJfNEFzZ08xV2ZEOThVak5aRTZwNXlZTXpZMjJjT3REMEpPd2NoZzc5WTJGYmNnaFM5Z0tSa0V5QWNDUkJrZ0NvbnJEMFZENW1CZlVrY0JSRE9FNGJEWFZ5bGU0bWdPSkV6QkVxSC1LZDNobWJwb1FoekdZYlIwcFVGNHhielZhZzZzZTMtMnM1aw?oc=5",
-   "time": "2026-10-31T11:05:04+08:00",
-   "summary": ""
-  },
-  {
-   "source": "联合早报",
-   "title": "Government names haze expert panel to review 10 local firms and establish liability",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcFlPTzUtRW5IQXVmdDlza0hQQUd5OUwzR0ZPb3VQalJNNVhGcklkVFdjS284cE9oRi1FSnpaWUY2VW5DQ0lRNVItcXdyc0tCaG1Md09KQmRmVnNaemJRajVlc1V4My0ydXhfc1o1ZzZqYmtzUXR1S05KdHBwbVNJMVQ3dEdmTDZHcG0zem9sdUxINjNzQ1M4eGtSaHQ4QXFnMU4xZ3gteDJrRndHRmFtXzZsZDA1RUNsdlFHUC1QSE5rZw?oc=5",
-   "time": "2026-10-31T09:58:42+08:00",
    "summary": ""
   }
  ]
