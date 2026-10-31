@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-31T23:00:00+08:00",
+ "updated": "2026-11-01T00:00:00+08:00",
  "psi": {
-  "west": 77,
-  "east": 62,
-  "central": 67,
+  "west": 78,
+  "east": 63,
+  "central": 68,
   "south": 63,
-  "north": 63
+  "north": 64
  },
  "pm25": {
-  "west": 44,
-  "east": 34,
+  "west": 47,
+  "east": 31,
   "central": 39,
   "south": 27,
-  "north": 29
+  "north": 26
  },
  "hist": [
-  {
-   "t": "2026-10-30T00:00:00+08:00",
-   "psi": {
-    "west": 75,
-    "east": 65,
-    "central": 66,
-    "south": 67,
-    "north": 68
-   }
-  },
   {
    "t": "2026-10-30T01:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 63,
     "north": 63
    }
+  },
+  {
+   "t": "2026-11-01T00:00:00+08:00",
+   "psi": {
+    "west": 78,
+    "east": 63,
+    "central": 68,
+    "south": 63,
+    "north": 64
+   }
   }
  ],
- "newsUpdated": "2026-10-31T23:07:29+08:00",
+ "newsUpdated": "2026-11-01T00:06:09+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,10 @@
    "pinned": true
   },
   {
-   "source": "The Straits Times",
+   "source": "CNA",
    "title": "Haze probe: Five Singapore-registered companies agree to engage assessors",
-   "url": "https://www.straitstimes.com/singapore/haze-probe-five-singapore-registered-companies-agree-to-engage-assessors",
-   "time": "2026-10-31T22:53:11+08:00",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdll5UGlyV3VFUjAxNk5MNl9EVlhqaGJUQndrRG9uT0tneDVadlhLaE55NnFhaUVwb0xIamUwTEZ5MDR3RDU5MEtILTc1SnNfd1JXNVNreDVRWFIxVzFPWHd3a25nQmY5Xy1DNXVFdXVfQVU1VUp2dE9kanUtYVNWSlA4RnBFV1VhQkY3dXlkQjNTX1Y5MlBuVg?oc=5",
+   "time": "2026-10-31T23:43:02+08:00",
    "summary": ""
   },
   {
@@ -539,6 +539,27 @@
    "title": "Transboundary haze: Indonesia's environment minister conducts field checks for joint task force",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbkNSWWQtbmVSekxGSEplZVl0RDF4LUh2a0VfQ1dqN3NyOThGY0xWQmZHNTFNeW5zNFRTQmxObWFVUXRQdXNkWThHZUFxUGpBTklrdVhiVlNrVjZ0cGlzMElRQWpyd1Q3alJjLXlNQURWXzJYZ3Z0SXRhVDdvY2puTnFWRzA4LURuVUViQUE2NTZ1amY2MWxYQUVRa2haamsxZWFkWEU3UTYtQk9kTWtjRk02VGt6YjBvS0RMX1ZldlpoX3BkY1RCOFlBSGRzYmJh?oc=5",
    "time": "2026-10-31T20:19:12+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Sun Malaysia",
+   "title": "Schools in four Selangor districts to close tomorrow because of haze – JPNS",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQlA5SFNva2Frb0xQN1BhWmdpU2N4Qm5rSy1EelhxQmhYaVZ3cGFOZGd1alhxR2VnYUFtRHo4bl9oYzhHYVVjYXdKZktCY2xaQkItS1l6a1BxZVBQMl9oTGtNclJaaUxYdTFyMEN1WlNNSzZVYm82bTB6NDZKbTA5VFl5Mm91LUJvbGZucVViTlpiTnFJWGJrQVNxUW9TMHJZaEhsYnRRLVpNaEtOYTMxdEoyZHdXR0lZTWlrNzNlU2V3TlU?oc=5",
+   "time": "2026-10-31T20:14:24+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Sun Malaysia",
+   "title": "Haze: Malaysia still awaiting Indonesia’s response to firefighting aid offer – DPM Zahid",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWNOSTM3LURuQ0p1Q3dKWS0zRWNNai1yMWxXYkhIdUdSaTR4ZlgtR1FMU1djdHZUZ3owbU1DS3E5dmxvX2JqVDl2dzNiM1Z5Ty1QM3VtMW5pdHhGejBuak9KWWlHZVpwcXo5ZHJORlA0T3JMMFNjMFRGbG9GNGNmVXhXQUczaUV0T0hYQV9meUFwbUhwemduVEI2ZEZOeXlUNDNfelBCRmx2MGZqWnVic0I3dl9KeWJaUHcwTU42dzRCSjJseGpsV1NkYVM2cVpnQUE?oc=5",
+   "time": "2026-10-31T20:12:22+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Vietnam.vn",
+   "title": "The haze caused nearly $2 billion in economic damage to Malaysia.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkhEclZyX0hTYm5IOUt0VGMyelRJVUNzT091Q2ctVzN3V29tY3hKelJQOHU0UGJ4RkNYaXpDOUxndWJKTlpJS1RRLS03SFdDUnVlSzFMR1VfbjdRd1gwUDRiQXpiQ1pQbjN2OGU2RjBqRVdjQ29iRGJQZ2h0U3k1MEc4N3N3YWV4?oc=5",
+   "time": "2026-10-31T19:46:09+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "Why a toxic choking haze has gripped Indonesia for months | BBC News",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tZFRaRThRbVB1bmNpUWRYcFczLWo3UFBZeC03YmpuVFAyR3VQa2FFdW1HVlB0WlNIbl9FNFA0MnNublJ5b3I2SHNNTkZDd1dzODNuYThsVmZHVkJXb01Z0gFcQVVfeXFMTTRlekpKbFNleXdDMU9HVExpbVpiMHVIejZ6QWZ1b2VTS1RvSDlBdExPY3J0aG5tcHJWZkRpSXBncDVCN3JoN0poVkxkeklUNHBYSUtIVnhsUTBIVzk?oc=5",
    "time": "2026-10-31T15:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "S. Rajaratnam School of International Studies (RSIS)",
-   "title": "CO26226 | Domestic Land Governance and the Limits of Regional Haze Cooperation",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzBCd2xiaFpBV0F5WmhtVk8wS2JpM0VjQ1JkaXgzbW9zeHU0UTVYaF83cVhDRjVjZEQ3LUI1alQyY2t2OW5lMVh3Z2hGbTRFcmlmQ1lZOEp6Sy1nYkhOZnB3MmlLejd5ZXlwYXdTa0tpVHBkTVMwczhMTnBfcmRvSndBVFQwZHlMVzFlVkRWc01EM3VVdDlvcTlYUnBMRnRLZWF5ZWVoME1SRDk5WWtIOA?oc=5",
-   "time": "2026-10-31T14:24:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Must Share News",
-   "title": "Vivian Balakrishnan visits Indonesian president, S’pore & Indonesia to establish joint haze tas ...",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14U09LZHB3RUR6blRxdXNlbDZYNVFHeWI5RHhPbExJOUl5NXlkRGVKaXNaLUNPU3N5N2g5WW1TQ1dnZUtTcEJwNUZjbm9ybXp4WHFmM1gzOFlfTzJJNzZYZG9zZ0NJTktBdXMtWDFYZU3SAXZBVV95cUxQYzRaV1VyelFzek96NXFWZ2dYRk9lc3VPNUduVU0yQ1RtaHpPRVBMSldQRk00MTY3d09tOU9KQlR4UHUzdHBBWGdVYndkY0dIREtyT3FjV1l0SjVDWXRhcEp0UmMwX3FMRWtPRmRNaEw5SS1xU093?oc=5",
-   "time": "2026-10-31T12:30:16+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Magzter",
-   "title": "Trust but diversify: Lessons for Singapore from the haze-related friction with Indonesia | The Straits Times - newspaper",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcXJBS1FRT2xJOVVHUzZHVzVXMkNET2NoeER3bW84dVVnSG5OMXZMclVCNUlUTnVTQmFPUzZlVjJZbGNuMVVMUTV2R0FtS25rNEd1Wk54Zjd5aUVNTVZaMTA2TkhLdzl1cDZ6WXItUlRyak9RNllFM0lTbkpVOUs2RGNGaThGSzM2S3lZRFpxczdvMklmQng3bVRVaWdId3ZYUXdWd0hTZDY2NXJOV000MXNoZVRxb2JJcURzeGRLM3VRX2o1TVg0bTBEcTFEaHJWLXdyRXVSajFMUTUtNGhN?oc=5",
-   "time": "2026-10-31T11:40:14+08:00",
    "summary": ""
   }
  ]
