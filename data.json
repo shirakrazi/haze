@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-31T14:00:00+08:00",
+ "updated": "2026-10-31T15:00:00+08:00",
  "psi": {
-  "west": 73,
-  "east": 57,
-  "central": 63,
-  "south": 58,
+  "west": 74,
+  "east": 58,
+  "central": 64,
+  "south": 57,
   "north": 61
  },
  "pm25": {
-  "west": 37,
-  "east": 30,
-  "central": 40,
-  "south": 31,
+  "west": 44,
+  "east": 26,
+  "central": 39,
+  "south": 19,
   "north": 23
  },
  "hist": [
-  {
-   "t": "2026-10-29T15:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 70,
-    "central": 70,
-    "south": 70,
-    "north": 73
-   }
-  },
   {
    "t": "2026-10-29T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 58,
     "north": 61
    }
+  },
+  {
+   "t": "2026-10-31T15:00:00+08:00",
+   "psi": {
+    "west": 74,
+    "east": 58,
+    "central": 64,
+    "south": 57,
+    "north": 61
+   }
   }
  ],
- "newsUpdated": "2026-10-31T14:07:51+08:00",
+ "newsUpdated": "2026-10-31T15:07:31+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Modern Ghana",
+   "title": "Why a toxic choking haze has gripped Indonesia for months | BBC News",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tZFRaRThRbVB1bmNpUWRYcFczLWo3UFBZeC03YmpuVFAyR3VQa2FFdW1HVlB0WlNIbl9FNFA0MnNublJ5b3I2SHNNTkZDd1dzODNuYThsVmZHVkJXb01Z0gFcQVVfeXFMTTRlekpKbFNleXdDMU9HVExpbVpiMHVIejZ6QWZ1b2VTS1RvSDlBdExPY3J0aG5tcHJWZkRpSXBncDVCN3JoN0poVkxkeklUNHBYSUtIVnhsUTBIVzk?oc=5",
+   "time": "2026-10-31T15:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "S. Rajaratnam School of International Studies (RSIS)",
+   "title": "CO26226 | Domestic Land Governance and the Limits of Regional Haze Cooperation",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzBCd2xiaFpBV0F5WmhtVk8wS2JpM0VjQ1JkaXgzbW9zeHU0UTVYaF83cVhDRjVjZEQ3LUI1alQyY2t2OW5lMVh3Z2hGbTRFcmlmQ1lZOEp6Sy1nYkhOZnB3MmlLejd5ZXlwYXdTa0tpVHBkTVMwczhMTnBfcmRvSndBVFQwZHlMVzFlVkRWc01EM3VVdDlvcTlYUnBMRnRLZWF5ZWVoME1SRDk5WWtIOA?oc=5",
+   "time": "2026-10-31T14:22:30+08:00",
+   "summary": ""
   },
   {
    "source": "Must Share News",
@@ -581,20 +595,6 @@
    "title": "Singapore's air quality remains in good-to-moderate range as haze eases",
    "url": "https://www.channelnewsasia.com/singapore/haze-singapore-pm25-psi-oct-31-nea-6508766",
    "time": "2026-10-31T07:45:42+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Prolonged haze has a domino effect",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVWdFRXptNzNvVHE0aDk1U29Pdmd5bUMxWjlDYTM3aTBjX0J6ODlWYVNqZTdWSW9kN2hZU3pBcm1FNTZsVzBHWHhSU21qZC1TaWhZbjk2QTVrUjRpX0hWOEh6VW1kWlJHSXNlb01hWk5sYlFXby1zdnlZeTBsR1N1MGk5ZGVRRENhcG85cQ?oc=5",
-   "time": "2026-10-31T07:10:20+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Nikkei Asia",
-   "title": "Singapore haze crackdown tests legal reach and regional ties",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGM0RU9lalNfVUg3RS1HYXVyQ18yQ0RwZUtOcUNPLTVYVTJ2U3g1TnJKMkpzTmk1dUhSMlBCVnRMZGJYNHBZYnJrcXFmV0NTdENGaXA2LU40MEZUeWVzdmxiSXRXenhmeEVkUF9NSUJUV3RfOHBrazlLUElKaFJQQ2g3b2I0YU1SaUFVSUVlaF9uZkdJNUQ1T1YwdzZNdjRUQ0o0UjFVa3F5UQ?oc=5",
-   "time": "2026-10-31T05:00:00+08:00",
    "summary": ""
   }
  ]
