@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-31T19:00:00+08:00",
+ "updated": "2026-10-31T20:00:00+08:00",
  "psi": {
-  "west": 76,
-  "east": 59,
-  "central": 64,
-  "south": 60,
+  "west": 77,
+  "east": 60,
+  "central": 65,
+  "south": 61,
   "north": 61
  },
  "pm25": {
-  "west": 38,
-  "east": 31,
-  "central": 32,
-  "south": 29,
-  "north": 28
+  "west": 44,
+  "east": 28,
+  "central": 35,
+  "south": 30,
+  "north": 33
  },
  "hist": [
-  {
-   "t": "2026-10-29T20:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 68,
-    "central": 67,
-    "south": 68,
-    "north": 71
-   }
-  },
   {
    "t": "2026-10-29T21:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 60,
     "north": 61
    }
+  },
+  {
+   "t": "2026-10-31T20:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 60,
+    "central": 65,
+    "south": 61,
+    "north": 61
+   }
   }
  ],
- "newsUpdated": "2026-10-31T19:07:15+08:00",
+ "newsUpdated": "2026-10-31T20:07:46+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,17 @@
    "pinned": true
   },
   {
+   "source": "The Sun Malaysia",
+   "title": "MOE postpones UASA assessments next week amid worsening haze",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZk12dmhmZWoyNEM0OGF4N2xWWjlZNjcyekxiSlVmMjZGamYxWkxvazJGYnlVbWhOeEloeGVlZ0ZnSjdELXdxRnVTamxaYWdWSFFwanI3bHl5WnBQQXVYQngtazBFeHl1dTZBTDYzQ19YUXhnWE5hdHJCLS1fQ2phVXVCVXR4WktXRnZ5eWFNRjItREFibFJEejBNQ0VOcEswQjJEbjk1WHJpbVFTWWlBS3F3?oc=5",
+   "time": "2026-10-31T18:31:47+08:00",
+   "summary": ""
+  },
+  {
    "source": "NBC News",
    "title": "‘Looks like Mars’: Toxic smog from Indonesia wildfires sparks health crisis, protests",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGJJY3ZraVo4MC1aOGQxd2JhdGh3bTJvaE8xemk3VnRmdW9odV9Cb2JfNWFROXRCa1lEM3lkUjhlR3VCMEVfeDl6enBLanR5SDZwUFhOT2d4VmdpZDFtOG1ERzV1NFZQUW9YaFI1TVJCTEJMY2xRN1Z3RkZXRlI1cGlmM2VPR2pOM2ZEaEM5UlZPSEwzOFE4WmJUaGxzdlp1bkVQLQ?oc=5",
-   "time": "2026-10-31T18:30:00+08:00",
+   "time": "2026-10-31T18:30:42+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Government names haze expert panel to review 10 local firms and establish liability",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcFlPTzUtRW5IQXVmdDlza0hQQUd5OUwzR0ZPb3VQalJNNVhGcklkVFdjS284cE9oRi1FSnpaWUY2VW5DQ0lRNVItcXdyc0tCaG1Md09KQmRmVnNaemJRajVlc1V4My0ydXhfc1o1ZzZqYmtzUXR1S05KdHBwbVNJMVQ3dEdmTDZHcG0zem9sdUxINjNzQ1M4eGtSaHQ4QXFnMU4xZ3gteDJrRndHRmFtXzZsZDA1RUNsdlFHUC1QSE5rZw?oc=5",
    "time": "2026-10-31T09:58:42+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Must Share News",
-   "title": "S’porean toy maker creates ‘Canned Haze from Indonesia’ figures, says PSI means ‘Proudly Smoked in Indonesia’",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85VnJGMU5ZZ1VSX2lpeGtnbGNrc0R1QXp4dzNiWXNFbWpsVWZvcDlWUzYtNFExX0VQdVF2WE16RWFjM3J0eGg4ZmFESDEyQ19NVmRnTVB5QTZPbS13T0dsUXlkbVl1VXNCSVHSAW9BVV95cUxOWE1CclpYVWhHVkNXdjBDeUFqZjdGXzVqRVgyRTJwS3d5dXBkT3I2dTltUnRUekxrMWZ1WTVqcTNzWmdtTEN2ejNXcmFiV2dfRHdRQmxPLVdLRVNIcnI1MFQ1NF9LRnQxc2lqMURGZDg?oc=5",
-   "time": "2026-10-31T09:35:09+08:00",
    "summary": ""
   }
  ]
