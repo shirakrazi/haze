@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-31T08:00:00+08:00",
+ "updated": "2026-10-31T09:00:00+08:00",
  "psi": {
-  "west": 68,
+  "west": 69,
   "east": 57,
   "central": 61,
   "south": 59,
   "north": 60
  },
  "pm25": {
-  "west": 39,
-  "east": 24,
-  "central": 15,
-  "south": 18,
-  "north": 27
+  "west": 37,
+  "east": 20,
+  "central": 25,
+  "south": 22,
+  "north": 24
  },
  "hist": [
-  {
-   "t": "2026-10-29T09:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 72,
-    "central": 71,
-    "south": 68,
-    "north": 72
-   }
-  },
   {
    "t": "2026-10-29T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 59,
     "north": 60
    }
+  },
+  {
+   "t": "2026-10-31T09:00:00+08:00",
+   "psi": {
+    "west": 69,
+    "east": 57,
+    "central": 61,
+    "south": 59,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-10-31T08:07:50+08:00",
+ "newsUpdated": "2026-10-31T09:07:20+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "UA.NEWS",
+   "title": "Haze eases in Singapore, PSI stands at 56–67 — Channel NewsAsia",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNXg3eE5fQmczaUFNVXU2VEFPTG1LN3lRb2lqVHN0WWxKa1lsUDhRRTdjNlJXN0J3ZjRpSE16Umc5YlBTMlhvRUMyc093QzBXZlAxYndVODJhTjBaZDFPLVBqZUc3VWVBOVRZNnZuUXVUS003R0FtN3U4eklKQnJwUl90ZXZsTm44a0ZBYlpXVEMtUXpmWEZBTU0ydDIxUl9ZQ3U2dk5CdUVBMHhO?oc=5",
+   "time": "2026-10-31T08:12:17+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -588,13 +595,6 @@
    "title": "Haze Situation Update (30 October 2026)",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORE9rWkhwaVM1dDlySUFOc2ZlcENzZnNreDc2U1ZITnBkMW5saHAzR2J2c2lWdUxxZl8tNDBjSF9HQ2k2dW0xYS1SWGlFX0dpdVdHSVRlbDBFNUd3MGpNQjdjTzkwV3hFTFBKeVgwN3p4QmdORVBFTXRsbUUteVc1cENNbzg5ZTFoTmxldGNBSmdtZw?oc=5",
    "time": "2026-10-30T18:34:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "10 firms under probe for haze-causing fires summoned to meet Singapore ministers",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcTVYcHFkal91ZFJ0OXdPbG5FRk5GSXF6alJMM0NNQ1JJTVZ6OTNSN2xDd3pUaEQ5aHY5XzMyQTd3NnRWYWdmSS1MeDd2RnQ1TWJTZS1oTG1WSUI0UU9GOWxhT2gxTS1mZG02Y3NiUXh3REFKU0dvRTJ0dHJkNVFKYVJOMWVqZkdRaXNMZV96bVgtZ01YNjZKbXFaQ1B1M2VPVGpJOHpIekxFb1pwZk84VUhwMTd3TG5HVG5VdA?oc=5",
-   "time": "2026-10-30T18:10:48+08:00",
    "summary": ""
   }
  ]
