@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-31T22:00:00+08:00",
+ "updated": "2026-10-31T23:00:00+08:00",
  "psi": {
   "west": 77,
-  "east": 61,
-  "central": 66,
-  "south": 62,
+  "east": 62,
+  "central": 67,
+  "south": 63,
   "north": 63
  },
  "pm25": {
-  "west": 41,
-  "east": 30,
-  "central": 40,
-  "south": 40,
-  "north": 28
+  "west": 44,
+  "east": 34,
+  "central": 39,
+  "south": 27,
+  "north": 29
  },
  "hist": [
-  {
-   "t": "2026-10-29T23:00:00+08:00",
-   "psi": {
-    "west": 75,
-    "east": 66,
-    "central": 66,
-    "south": 67,
-    "north": 69
-   }
-  },
   {
    "t": "2026-10-30T00:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 62,
     "north": 63
    }
+  },
+  {
+   "t": "2026-10-31T23:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 62,
+    "central": 67,
+    "south": 63,
+    "north": 63
+   }
   }
  ],
- "newsUpdated": "2026-10-31T22:07:19+08:00",
+ "newsUpdated": "2026-10-31T23:07:29+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze probe: Five Singapore-registered companies agree to engage assessors",
+   "url": "https://www.straitstimes.com/singapore/haze-probe-five-singapore-registered-companies-agree-to-engage-assessors",
+   "time": "2026-10-31T22:53:11+08:00",
+   "summary": ""
+  },
+  {
+   "source": "UA.NEWS",
+   "title": "Five companies in Singapore to engage assessors over transboundary haze — Channel NewsAsia",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVzNKTU1tdjNtdXl0Y2dXNUMtelltMWhveHlUVkpuMkpDaFZCaURINGZEYy1INFZPQzhUSW5qSXo4QXllTHppQVh6UUpqcG04R3NMbXpyd1lEQldnR01NSjBzTnR0cWh2TXI3SGludEpUR09yc3Q5bXR4VTcyUy1vU0R6VGVCVVNNMGZMb0d5X2w1UE85SnV1cjVYWk5MMTY4dkRTRjBpV28wMlZCdXR5a1kzb3BobzVFUktxZFZvT3F3ZTJjMmxZ?oc=5",
+   "time": "2026-10-31T22:45:20+08:00",
+   "summary": ""
   },
   {
    "source": "Focus Malaysia",
@@ -581,20 +595,6 @@
    "title": "Trust but diversify: Lessons for Singapore from the haze-related friction with Indonesia | The Straits Times - newspaper",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcXJBS1FRT2xJOVVHUzZHVzVXMkNET2NoeER3bW84dVVnSG5OMXZMclVCNUlUTnVTQmFPUzZlVjJZbGNuMVVMUTV2R0FtS25rNEd1Wk54Zjd5aUVNTVZaMTA2TkhLdzl1cDZ6WXItUlRyak9RNllFM0lTbkpVOUs2RGNGaThGSzM2S3lZRFpxczdvMklmQng3bVRVaWdId3ZYUXdWd0hTZDY2NXJOV000MXNoZVRxb2JJcURzeGRLM3VRX2o1TVg0bTBEcTFEaHJWLXdyRXVSajFMUTUtNGhN?oc=5",
    "time": "2026-10-31T11:40:14+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Magzter",
-   "title": "High global oil prices too had a hand in this haze",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3ZPNld4UUVFZE0wazNNUktuNEVQbXcwa0xlSHF5MjBxOGxxQWFSMTh4WVBCa2duQ1VkTXY2cEYyTmVvVHVySHpIWlVNajUzd19fTWl0TVFUb2JmVW5YbDNXUU05Zm96cTc0MXBoV1otWmFycjR0THVIanVWZmpzc2M0am1qMzc0aWQ5STNaa3FoUEg3YlZocmYxaENkQlZ5N1Mtb2xRS2Z3V0pMdEEw?oc=5",
-   "time": "2026-10-31T11:33:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Newswav",
-   "title": "The future of Zetrix AI Bhd is as bleak as the haze that envelops Malaysia recently",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLUx1c2Zyb2hFa29LSDlNZU00aW5VQ2gxQzJRdjQ5eXhuVDBxZVJpMGNmaW9ubzAzaEMzRGFzY2QtNTUxUU01d3ZnQzZYM2NrSE1qM2lOQTQ2VDNKYmdsRi1uU3NNY0hORTBHcXpBSldLendQazlkeGdqSU00UmZLV2JqVW95Q2lqVW4tNktHU2FiaXN6ZGhybUVvZ2dBVlpMSjRkdG16Qlh2SzRGVlVSSXpCanBQUQ?oc=5",
-   "time": "2026-10-31T11:30:08+08:00",
    "summary": ""
   }
  ]
