@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-31T21:00:00+08:00",
+ "updated": "2026-10-31T22:00:00+08:00",
  "psi": {
   "west": 77,
-  "east": 60,
-  "central": 65,
-  "south": 61,
-  "north": 62
+  "east": 61,
+  "central": 66,
+  "south": 62,
+  "north": 63
  },
  "pm25": {
-  "west": 42,
-  "east": 28,
-  "central": 35,
-  "south": 31,
-  "north": 29
+  "west": 41,
+  "east": 30,
+  "central": 40,
+  "south": 40,
+  "north": 28
  },
  "hist": [
-  {
-   "t": "2026-10-29T22:00:00+08:00",
-   "psi": {
-    "west": 76,
-    "east": 67,
-    "central": 67,
-    "south": 67,
-    "north": 69
-   }
-  },
   {
    "t": "2026-10-29T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 61,
     "north": 62
    }
+  },
+  {
+   "t": "2026-10-31T22:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 61,
+    "central": 66,
+    "south": 62,
+    "north": 63
+   }
   }
  ],
- "newsUpdated": "2026-10-31T21:08:10+08:00",
+ "newsUpdated": "2026-10-31T22:07:19+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Focus Malaysia",
+   "title": "Jakarta weaponising natural resources in ‘haze war’ is bad business among ASEAN neighbours",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcXpQa3RSM21DT3F5WjZ0Wkg0NnhmVHNCNnUxVENqRGdueGpCbGh6RkY1Rk1qSThPOThZMnprNWpsN3lxU3lDc3pxekF0M3hHaEEwWC1VZHdQd1RFZ21RZ2NIZml2V2NuZXRVVlJLbUQ4QmRzSVBCTUJ6QzhuUHNsaDJVRXJOQlBtTnZJS1pEX1h2YWc2eFNkUi1EMVkwUGtUdVBmVnI4cUZQaTZBcWxfaHhXVVY?oc=5",
+   "time": "2026-10-31T21:48:36+08:00",
+   "summary": ""
   },
   {
    "source": "Vietnam.vn",
@@ -588,13 +595,6 @@
    "title": "The future of Zetrix AI Bhd is as bleak as the haze that envelops Malaysia recently",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLUx1c2Zyb2hFa29LSDlNZU00aW5VQ2gxQzJRdjQ5eXhuVDBxZVJpMGNmaW9ubzAzaEMzRGFzY2QtNTUxUU01d3ZnQzZYM2NrSE1qM2lOQTQ2VDNKYmdsRi1uU3NNY0hORTBHcXpBSldLendQazlkeGdqSU00UmZLV2JqVW95Q2lqVW4tNktHU2FiaXN6ZGhybUVvZ2dBVlpMSjRkdG16Qlh2SzRGVlVSSXpCanBQUQ?oc=5",
    "time": "2026-10-31T11:30:08+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bernama",
-   "title": "- Beyond The Haze: Why Clean Air And Climate Action Belong Together",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13TDE0ZFYxelB2M1ZrZlNSUXpLUU5IZExOMURxTEIzZzROSjIwdVVWT3FxdE1aSTM2b1dRd1A0b1JUbHMyUHZRWXBGNEVTaHJsWldxR05aeHkyN0o1bHFwTU1iWTg3QQ?oc=5",
-   "time": "2026-10-31T11:15:10+08:00",
    "summary": ""
   }
  ]
