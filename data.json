@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-31T09:00:00+08:00",
+ "updated": "2026-10-31T10:00:00+08:00",
  "psi": {
-  "west": 69,
+  "west": 70,
   "east": 57,
   "central": 61,
-  "south": 59,
+  "south": 58,
   "north": 60
  },
  "pm25": {
-  "west": 37,
-  "east": 20,
-  "central": 25,
-  "south": 22,
-  "north": 24
+  "west": 39,
+  "east": 11,
+  "central": 23,
+  "south": 20,
+  "north": 22
  },
  "hist": [
-  {
-   "t": "2026-10-29T10:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 72,
-    "central": 71,
-    "south": 69,
-    "north": 72
-   }
-  },
   {
    "t": "2026-10-29T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 59,
     "north": 60
    }
+  },
+  {
+   "t": "2026-10-31T10:00:00+08:00",
+   "psi": {
+    "west": 70,
+    "east": 57,
+    "central": 61,
+    "south": 58,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-10-31T09:07:20+08:00",
+ "newsUpdated": "2026-10-31T10:07:12+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Must Share News",
+   "title": "S’porean toy maker creates ‘Canned Haze from Indonesia’ figures, says PSI means ‘Proudly Smoked in Indonesia’",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85VnJGMU5ZZ1VSX2lpeGtnbGNrc0R1QXp4dzNiWXNFbWpsVWZvcDlWUzYtNFExX0VQdVF2WE16RWFjM3J0eGg4ZmFESDEyQ19NVmRnTVB5QTZPbS13T0dsUXlkbVl1VXNCSVHSAW9BVV95cUxOWE1CclpYVWhHVkNXdjBDeUFqZjdGXzVqRVgyRTJwS3d5dXBkT3I2dTltUnRUekxrMWZ1WTVqcTNzWmdtTEN2ejNXcmFiV2dfRHdRQmxPLVdLRVNIcnI1MFQ1NF9LRnQxc2lqMURGZDg?oc=5",
+   "time": "2026-10-31T09:35:09+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Newswav",
+   "title": "Haze in, haze out… till the next season, again?",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd3FrQVVocElKaWEwd21hNHBSZWxaUkRXbzFmRkd4ODcta2tnRWJzc3BsUDlKNEJVVDVUeGVIVnBkUXpXbURKaW9odW0zUHQwSnZNQXJybTBFSnNmSHhlQ09oTmRvNEliXzZnQWxNMkl2aXpiS29zc3AwcFRmUGdiMTcxRERyRTA0UTM5Yg?oc=5",
+   "time": "2026-10-31T08:22:39+08:00",
+   "summary": ""
   },
   {
    "source": "UA.NEWS",
@@ -563,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "Big News Network.com",
+   "title": "Haze-fueled protests engulf Jakarta - RT reports (VIDEO)",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ3ZCM29ZRU02U3FQMnBvMGhlZGI3aVhzUFBwRWF0UkFfZ2tYdElGY3dzbVNjby00YzdaVTh1eUpaelNJZ0tWVFFtOGVndDdnYWh5R1cxWGNnNWUxZ09DZnE0ZEZXQVNVVHVfMVJTV1hRTktDcnRMRUFHT2IzU2xQVW1PRVZHWlBqSWlDdm9sbEVITk0xcEdTOEZBcmtYakE?oc=5",
+   "time": "2026-10-30T21:20:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Sun Malaysia",
    "title": "Haze: Johor extends closure of schools to another five days from Oct 19",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UM0toc1Y0TVhiLUxOaTBjRExCRi1HUGpzMDBzZUdEQUIyWWdiYmY1bTh4TEJUMUlaRnp2eEVwWnp1SnFPSzB1ZUZHRlp6U2JDWExjbmxUY1ZiU3FCdlNaVXJLRkhBZFh4cDlfTEhfRXl6U2c2TjU0?oc=5",
@@ -574,27 +595,6 @@
    "title": "Haze unveils gaps in protection for outdoor workers in Malaysia | The Straits Times - newspaper",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd1RxYnVycVU5aExKbzNjOUxpLTZLcVdmVkV6STBua1pKbVVfX3ZvS29VTEg0NEgwTnVYa1k4TllwMXkycG41R2VaNHNQVGlTcUswVjZTYm9fQWlEQy16SzhEZkE2eXZyWkFnQ1RRVWNHRThxa2tWbHpnS0wzVlZUNVNIR2RPSXlkZnNqU2FhbXI2dVdJZXhTUzVNSmlXQldTTUVSRmF2OHpYcTZaQjc0eS1pZEE0TXAzOGdtcVFjU1VGaDQyTnBESFln?oc=5",
    "time": "2026-10-30T19:41:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Planning outdoor activities? Haze situation forecast to remain suppressed, contained over weekend: NEA",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaWFEbFRyWU80aEtPc29VaUFrU0J3SzdpZnM0OGpPSkZKQ3ItVTFlRWtvcVlEOUZnamNNQVdBTi1FeUJJMzhtcGJSblNpRkJFOHdIb19nRFp3b2VFdnEyVE5vRHZsVGpJZnRIaEFfbVZSVUExSFlCQTRyMWdIRldGSE94ZUUzeHhGQ01Cb3YtSjlGTEk?oc=5",
-   "time": "2026-10-30T19:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Australian",
-   "title": "A bitter haze war erupted – then tempers cooled",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU251ZUVDY1p6ZndxMDdoUnpBbDNxMjFLOVBQNnZiejdSd3FpUWlmN2w4VUpKa1oxUHVaTG9pZk5QUU1teElkdFA3am5FQVF4R0lwRHF2TVR5eTVnZzV3QUZxelZWeG5Zb2Y3dkplQmpWbVBFS2J6NUlnM19Ed01QSDljTGsxU01sUWY2YlBtclUwUWdPRHgzcjZLZWh1RHlSVFZCQXB4SGREd2xqbjVOT0lpZzY3ZXl6R3NERFhZOEZwVzNOZjJYV29MVG52QWwtdHAtQnJ1WjgzeS1pM21iRFJBc2hwWjZnSWhXa2F5R1RHWGM?oc=5",
-   "time": "2026-10-30T18:38:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NEA.gov.sg",
-   "title": "Haze Situation Update (30 October 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORE9rWkhwaVM1dDlySUFOc2ZlcENzZnNreDc2U1ZITnBkMW5saHAzR2J2c2lWdUxxZl8tNDBjSF9HQ2k2dW0xYS1SWGlFX0dpdVdHSVRlbDBFNUd3MGpNQjdjTzkwV3hFTFBKeVgwN3p4QmdORVBFTXRsbUUteVc1cENNbzg5ZTFoTmxldGNBSmdtZw?oc=5",
-   "time": "2026-10-30T18:34:30+08:00",
    "summary": ""
   }
  ]
