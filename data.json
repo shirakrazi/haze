@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-31T07:00:00+08:00",
+ "updated": "2026-10-31T08:00:00+08:00",
  "psi": {
-  "west": 67,
-  "east": 56,
+  "west": 68,
+  "east": 57,
   "central": 61,
   "south": 59,
   "north": 60
  },
  "pm25": {
-  "west": 40,
-  "east": 19,
-  "central": 14,
-  "south": 20,
-  "north": 29
+  "west": 39,
+  "east": 24,
+  "central": 15,
+  "south": 18,
+  "north": 27
  },
  "hist": [
-  {
-   "t": "2026-10-29T08:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 72,
-    "central": 71,
-    "south": 68,
-    "north": 72
-   }
-  },
   {
    "t": "2026-10-29T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 59,
     "north": 60
    }
+  },
+  {
+   "t": "2026-10-31T08:00:00+08:00",
+   "psi": {
+    "west": 68,
+    "east": 57,
+    "central": 61,
+    "south": 59,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-10-31T07:08:00+08:00",
+ "newsUpdated": "2026-10-31T08:07:50+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore's air quality remains in good-to-moderate range as haze eases",
+   "url": "https://www.channelnewsasia.com/singapore/haze-singapore-pm25-psi-oct-31-nea-6508766",
+   "time": "2026-10-31T07:45:42+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Prolonged haze has a domino effect",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVWdFRXptNzNvVHE0aDk1U29Pdmd5bUMxWjlDYTM3aTBjX0J6ODlWYVNqZTdWSW9kN2hZU3pBcm1FNTZsVzBHWHhSU21qZC1TaWhZbjk2QTVrUjRpX0hWOEh6VW1kWlJHSXNlb01hWk5sYlFXby1zdnlZeTBsR1N1MGk5ZGVRRENhcG85cQ?oc=5",
+   "time": "2026-10-31T07:10:20+08:00",
+   "summary": ""
   },
   {
    "source": "Nikkei Asia",
@@ -581,20 +595,6 @@
    "title": "10 firms under probe for haze-causing fires summoned to meet Singapore ministers",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcTVYcHFkal91ZFJ0OXdPbG5FRk5GSXF6alJMM0NNQ1JJTVZ6OTNSN2xDd3pUaEQ5aHY5XzMyQTd3NnRWYWdmSS1MeDd2RnQ1TWJTZS1oTG1WSUI0UU9GOWxhT2gxTS1mZG02Y3NiUXh3REFKU0dvRTJ0dHJkNVFKYVJOMWVqZkdRaXNMZV96bVgtZ01YNjZKbXFaQ1B1M2VPVGpJOHpIekxFb1pwZk84VUhwMTd3TG5HVG5VdA?oc=5",
    "time": "2026-10-30T18:10:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Jakarta Globe",
-   "title": "Rain Brings Relief as Indonesia's Haze-Related Respiratory Cases Plunge 87%",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMklCRThXSnV1NlpCbi1XR25tQ0FLSFpYUGRpRGgxZFVxMzM1MWRNRllsN1Z2SWIzbWI3aHJKRDJwN2FQMnhvTUlJanM2T1VZb1lGSnpzZk45bTV1Z21OcWNLSUlPVUhLWjRWbHM5MVllQmpZZmpPN1dxWVlUbFRkT1JJN1ZmNUhjdEhrQU54LVFKUGdjNGlQTU11VEd0RjJ4dHJJ?oc=5",
-   "time": "2026-10-30T18:05:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "LinkedIn",
-   "title": "Haze, accountability and hopefully a brighter outlook",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcVF3bDBGUzFtTkhPUThCcXRtWVljdHRKcE5XYUl1QVNuWDVnYk5Ba3o5TkFjRWRqQ0JEeU1Oa3hrU2d4U2xZOEs0bEw5LThvU3F4Z2RZdS13MlFHRkl1OWpOZHhGdVhKTzRaY3VyajNYR1ZKQVpKbXBHcWZTZmVNeG1CREZSZ3YzZUVqbEoyMklDTlIyVWJiWGJmLWdja0ZrTVNZ?oc=5",
-   "time": "2026-10-30T17:30:38+08:00",
    "summary": ""
   }
  ]
