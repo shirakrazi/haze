@@ -1,30 +1,20 @@
 {
- "updated": "2026-10-31T11:00:00+08:00",
+ "updated": "2026-10-31T12:00:00+08:00",
  "psi": {
   "west": 71,
   "east": 57,
   "central": 61,
   "south": 58,
-  "north": 60
+  "north": 61
  },
  "pm25": {
-  "west": 30,
-  "east": 21,
-  "central": 15,
-  "south": 15,
-  "north": 24
+  "west": 31,
+  "east": 23,
+  "central": 17,
+  "south": 16,
+  "north": 29
  },
  "hist": [
-  {
-   "t": "2026-10-29T12:00:00+08:00",
-   "psi": {
-    "west": 78,
-    "east": 71,
-    "central": 71,
-    "south": 69,
-    "north": 73
-   }
-  },
   {
    "t": "2026-10-29T13:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 58,
     "north": 60
    }
+  },
+  {
+   "t": "2026-10-31T12:00:00+08:00",
+   "psi": {
+    "west": 71,
+    "east": 57,
+    "central": 61,
+    "south": 58,
+    "north": 61
+   }
   }
  ],
- "newsUpdated": "2026-10-31T11:07:25+08:00",
+ "newsUpdated": "2026-10-31T12:07:00+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Newswav",
+   "title": "The future of Zetrix AI Bhd is as bleak as the haze that envelops Malaysia recently",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLUx1c2Zyb2hFa29LSDlNZU00aW5VQ2gxQzJRdjQ5eXhuVDBxZVJpMGNmaW9ubzAzaEMzRGFzY2QtNTUxUU01d3ZnQzZYM2NrSE1qM2lOQTQ2VDNKYmdsRi1uU3NNY0hORTBHcXpBSldLendQazlkeGdqSU00UmZLV2JqVW95Q2lqVW4tNktHU2FiaXN6ZGhybUVvZ2dBVlpMSjRkdG16Qlh2SzRGVlVSSXpCanBQUQ?oc=5",
+   "time": "2026-10-31T11:30:08+08:00",
+   "summary": ""
+  },
+  {
+   "source": "VnExpress International",
+   "title": "Haze pollution costs Malaysia $1.9B, potentially claims 1,700 lives: report",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaWlvVmNGWjRDTlI1Zkg1SVQwd2lmbF9udXBvVEZHT1ZaTF9PUWthTzk0bi1uc2dKQ1ZfUnd0aWplQnJfNEFzZ08xV2ZEOThVak5aRTZwNXlZTXpZMjJjT3REMEpPd2NoZzc5WTJGYmNnaFM5Z0tSa0V5QWNDUkJrZ0NvbnJEMFZENW1CZlVrY0JSRE9FNGJEWFZ5bGU0bWdPSkV6QkVxSC1LZDNobWJwb1FoekdZYlIwcFVGNHhielZhZzZzZTMtMnM1aw?oc=5",
+   "time": "2026-10-31T11:05:04+08:00",
+   "summary": ""
   },
   {
    "source": "Must Share News",
@@ -581,20 +595,6 @@
    "title": "Singapore picks FTI, WongPartnership for haze investigation panel",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnNDZHpLYjRrSzlXeFZiU1JRMFgwVHdFdERiMjJQMk1vUjVjbXhmcm90UkpGalU0VU1Va25NZ0UtMnFDZ19LMmh4SmxiaFZudnJDd3NGQi1nWEwtOTBsMFVzMWczNEZKTk44Vl9EeDRIX0drWG5zV2J5YnhQNms3MVZMeGhjY1lHcVA1SXdObkZzdHpNbXFUUGFkZ3BCRXhQTUdFcnU5b0NBS0k?oc=5",
    "time": "2026-10-30T22:13:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Focus Malaysia",
-   "title": "From haze to action: Why Malaysia must invest in public support for science",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNel9oZVAxdWFIMzQ0cmdoUzRZU0N0VTJSeGhiUktnZlZYMFNkM0c1emNFaVpjVzJLRXNHbHFxQWZ4VDVIUlRCVVlYWnhwVU42TktxSTJhN3E0OTNCdVRSNm5zZzhPbzRmU3dmTFVfQUVPUElROVAyXzA0Q0pYNUZFM193bkNZOUZjUnMtbjFleXZlRVFrNzM3aXVPWmtUbVhrSGc?oc=5",
-   "time": "2026-10-30T21:57:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Big News Network.com",
-   "title": "Haze-fueled protests engulf Jakarta - RT reports (VIDEO)",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ3ZCM29ZRU02U3FQMnBvMGhlZGI3aVhzUFBwRWF0UkFfZ2tYdElGY3dzbVNjby00YzdaVTh1eUpaelNJZ0tWVFFtOGVndDdnYWh5R1cxWGNnNWUxZ09DZnE0ZEZXQVNVVHVfMVJTV1hRTktDcnRMRUFHT2IzU2xQVW1PRVZHWlBqSWlDdm9sbEVITk0xcEdTOEZBcmtYakE?oc=5",
-   "time": "2026-10-30T21:20:00+08:00",
    "summary": ""
   }
  ]
