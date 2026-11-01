@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-01T10:00:00+08:00",
+ "updated": "2026-11-01T11:00:00+08:00",
  "psi": {
-  "west": 87,
-  "east": 69,
-  "central": 74,
-  "south": 73,
-  "north": 70
+  "west": 88,
+  "east": 70,
+  "central": 75,
+  "south": 74,
+  "north": 71
  },
  "pm25": {
-  "west": 50,
-  "east": 27,
-  "central": 44,
-  "south": 39,
-  "north": 37
+  "west": 46,
+  "east": 32,
+  "central": 31,
+  "south": 41,
+  "north": 39
  },
  "hist": [
-  {
-   "t": "2026-10-30T11:00:00+08:00",
-   "psi": {
-    "west": 62,
-    "east": 55,
-    "central": 60,
-    "south": 60,
-    "north": 60
-   }
-  },
   {
    "t": "2026-10-30T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 73,
     "north": 70
    }
+  },
+  {
+   "t": "2026-11-01T11:00:00+08:00",
+   "psi": {
+    "west": 88,
+    "east": 70,
+    "central": 75,
+    "south": 74,
+    "north": 71
+   }
   }
  ],
- "newsUpdated": "2026-11-01T10:14:09+08:00",
+ "newsUpdated": "2026-11-01T11:07:10+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Business Times",
+   "title": "Haze probe: Five Singapore-registered companies agree to engage assessors",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYlctblZkRllZYTlmdG1jVU04THNqcVVPR0ZZVkNfTGtTWXlGU0l6RTZBNVRweDBYUDhnNTNWeHZBNmJCY1B2WjJ3cVBrTldJZnZwNWprN0h1amFFYUJEa1VWQXlmUkttNFllcDZncGJtcmRzRXB2VUZLU0FERVc1Qk1mc0htX2VCZFI2MHFJejhNVWk2MUJSbVVTU0F0dENrSGp0WFhReU1pZkhtLXBkVV93?oc=5",
+   "time": "2026-11-01T10:41:00+08:00",
+   "summary": ""
   },
   {
    "source": "Tempo.co English",
@@ -549,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "NST Online",
+   "title": "Tackling haze a regional responsibility",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQcHg0cklUNDdhWTBuTTdwVUZoZWV1WkxhV1JwRTVFYXBPdzVqeU1BdHhJbUVfakloYUJ6Q1Z4YmhkSi01R2FUR1U1SE9mQUp1SUozYWJXaDBhMThsZGY4NEhIbllrYVZGZU5FdUdLdHMzVTdxTF8wMGliVVQ2eTZacU9XV3J3SHk0a2szenh6dUR0TlpRN1BNbU9ueGpSNHhFbmtwM3RMT0pycHYxNF82c3JqMzRsWTNvZmhtdjRJam9aTHM3LVlFblVBMTZxNmNxeHdKeV9QM2tvVWxPSDRLLTktbU1CckdkZlpsZnVEeDFLZVlXRE1aWVhqRWlUUDc2eHJMWnJEZmdyQVdBWXJnTmk2bktrUXhLMVZRaE5oeXVZTi15LV930gGsAUFVX3lxTE92Z1k2MHJkWjM2Tkc4dEdlTzJTc3otVzJTbDVVUEhVNnZDRHF0SGFMdzYwdzNiaEI5M2hQSnJWOUZEVWNHUldxczJKcW9RTmMzOXo3Skc2M3N4b09UVTFjcFo5XzJhWTBRVW1sMTY4alJDNi1fdkJnSUlsTU9MVGhBMzJPQ0dqU2xIVDZQZnIwZGpmRlZLbmxwUEhTcjVwVGdVWENhY0ZUcm9lako?oc=5",
+   "time": "2026-11-01T00:50:34+08:00",
+   "summary": ""
+  },
+  {
    "source": "SSBCrack",
    "title": "Devastating Wildfires Create Toxic Haze in Indonesia Amid Protests and Regional Tensions",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRF9zRWI1NDFkTjJXLWo5NjktdFlEZE85LURqLVVHaFp0Vm5jckR1N0RXaDJSZ040dDc5TTVTN200N3lOVjlzYlpWclRKSFRKWGZITExWRjNLcko0WWpkS1JCSTFFaTVEX1ZGSWNLTEQ4Yl83UmxGd0dNek5SUVpRSGpzMU4tU2pScW1iVTdHaTVvSlc0SjFtd08yYkFmQ0FZbjZnZGF6NExhLWpwOUc2RXMzb3BPZw?oc=5",
@@ -570,13 +584,6 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Haze probe: Five Singapore-registered companies agree to engage assessors",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdll5UGlyV3VFUjAxNk5MNl9EVlhqaGJUQndrRG9uT0tneDVadlhLaE55NnFhaUVwb0xIamUwTEZ5MDR3RDU5MEtILTc1SnNfd1JXNVNreDVRWFIxVzFPWHd3a25nQmY5Xy1DNXVFdXVfQVU1VUp2dE9kanUtYVNWSlA4RnBFV1VhQkY3dXlkQjNTX1Y5MlBuVg?oc=5",
-   "time": "2026-10-31T23:43:02+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Sun Malaysia",
    "title": "Wind shift towards Indian Ocean may ease haze in Peninsula, Sarawak within two weeks",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODR3aTV2UFdKYWp0QUlfZGY2SkE1YlpKR09xdzRORFNGQXRYWEhTazV2UEJ0SXd1NTRFOFhCMXJpRHJ5V3JjTEZYRUszRnN3VlJwSDNTNm1NbGRDV1h6d1JOVWxnRzhhV1k4ZHl4QWZpQWNhT2tJZFhrSWdiUHFuNDMySDZwYmxqdlhzT1Y0ekhhY0FOQ0NqSkRTRVdGeXMxR1NSOHlBcUV0bVE?oc=5",
@@ -588,13 +595,6 @@
    "title": "Five companies in Singapore to engage assessors over transboundary haze — Channel NewsAsia",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVzNKTU1tdjNtdXl0Y2dXNUMtelltMWhveHlUVkpuMkpDaFZCaURINGZEYy1INFZPQzhUSW5qSXo4QXllTHppQVh6UUpqcG04R3NMbXpyd1lEQldnR01NSjBzTnR0cWh2TXI3SGludEpUR09yc3Q5bXR4VTcyUy1vU0R6VGVCVVNNMGZMb0d5X2w1UE85SnV1cjVYWk5MMTY4dkRTRjBpV28wMlZCdXR5a1kzb3BobzVFUktxZFZvT3F3ZTJjMmxZ?oc=5",
    "time": "2026-10-31T22:45:20+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Focus Malaysia",
-   "title": "Jakarta weaponising natural resources in ‘haze war’ is bad business among ASEAN neighbours",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcXpQa3RSM21DT3F5WjZ0Wkg0NnhmVHNCNnUxVENqRGdueGpCbGh6RkY1Rk1qSThPOThZMnprNWpsN3lxU3lDc3pxekF0M3hHaEEwWC1VZHdQd1RFZ21RZ2NIZml2V2NuZXRVVlJLbUQ4QmRzSVBCTUJ6QzhuUHNsaDJVRXJOQlBtTnZJS1pEX1h2YWc2eFNkUi1EMVkwUGtUdVBmVnI4cUZQaTZBcWxfaHhXVVY?oc=5",
-   "time": "2026-10-31T21:52:58+08:00",
    "summary": ""
   }
  ]
