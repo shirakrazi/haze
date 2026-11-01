@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-01T13:00:00+08:00",
+ "updated": "2026-11-01T14:00:00+08:00",
  "psi": {
   "west": 89,
   "east": 70,
-  "central": 76,
-  "south": 76,
+  "central": 75,
+  "south": 75,
   "north": 72
  },
  "pm25": {
-  "west": 39,
-  "east": 27,
-  "central": 31,
-  "south": 30,
-  "north": 35
+  "west": 37,
+  "east": 28,
+  "central": 25,
+  "south": 22,
+  "north": 24
  },
  "hist": [
-  {
-   "t": "2026-10-30T14:00:00+08:00",
-   "psi": {
-    "west": 59,
-    "east": 56,
-    "central": 57,
-    "south": 59,
-    "north": 58
-   }
-  },
   {
    "t": "2026-10-30T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 76,
     "north": 72
    }
+  },
+  {
+   "t": "2026-11-01T14:00:00+08:00",
+   "psi": {
+    "west": 89,
+    "east": 70,
+    "central": 75,
+    "south": 75,
+    "north": 72
+   }
   }
  ],
- "newsUpdated": "2026-11-01T13:06:50+08:00",
+ "newsUpdated": "2026-11-01T14:07:36+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "ANTARA News",
+   "title": "University of Indonesia urges action on fire-haze health risks",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUlZZY2NLYWtCWU5sWlM0RDhSc3dRWjlCOEFMTFk2N2JlcXJ3TTN2Q2dKYzZGb1doQ1hoRm55Qm5SQjRaZHR6eUkxMWhNMlgxZXNGX3dwbXZEM0YtanB6TTJaSkd3Y3FqS0tlNC1WNFZLQ3hIcmIxWkVWTW41UjQ5QkxFN2g3S0NCbzhEM0tKWm5pQm5jWGRLeEUwTkdnanVzVGfSAacBQVVfeXFMTVdBU05ibWVWVjB1ZU9adFNLa3VONmo3WWkxb21OMFkxcTJuWTRxb3hvdHhOSEhKZ083MWtTS3ZJeTlwQkNPRVMzcUI4R2Q0VE5fbDJLeE9GVXhsMUFZQXlpQzJPanNyXzkzazVqclZnWUdsVVh5RVFDd1hfOXhCR3oxNkllM1lTM0dJRHhxZlNXVEZpVlY2Tk9JQW5LekFpbTV1dWY3UVU?oc=5",
+   "time": "2026-11-01T13:16:14+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -549,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "The Straits Times",
+   "title": "Crypto shaken after Binance hack; Wilmar discloses sales to firms in haze probe: Markets this week",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0s2SEdjODZ6VjhNQmtoUmxyeEpwVmM1T1hNdE9wN2gyZjRBV0Y3bWdJcFU0amlKLTRxUl9yd2JGME9DOHhXY1pYTDRpZm9HUDRyYWZ3OElWMjVHSld5eGFBWWhxUm1feHh3Y0VHdFlDTEthcUZ4SzBNcU1OSHgxZXh6SXpzc1NTN0h4V2RBclVtWHhuMWRYOE1VZkFNeU1CYXpWNGVHdUJfdjJHdXljZ1ZxTEZnaWJsdEd3eVdVSExXSU8ydVE?oc=5",
+   "time": "2026-11-01T11:00:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "TipRanks",
    "title": "Golden Agri-Resources Pledges Full Cooperation on Singapore Haze Inquiry",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2IteC1mOHNZOFA5VmlpMHAzMG53RktTUjQ2TmZVYXVDdzlqRkdaSGl6cVJiTk5DWmpOMkh3bDc2YzFkVGplTkM5LVFtaExDN3g0Tktwc0pEaHFvUEpMOS1oOWo1VnRDa08tN1FPdW95UHhxTEZqbTUtQmphV1pSZXN5RlFQOE1vemdMVE1wTFJBUVFlVjUzeHNXMEhOaTdoeE1ST3VGQjhhb1FHMHlUZDFUZTYzdG1VYlliNTdrRm14UQ?oc=5",
@@ -581,20 +595,6 @@
    "title": "Singapore haze law: Amendments will be made at next Parliament sitting",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mYWNkaDU3aGd6b2tySXJCVFpucXV0TnpPLXRnU2p2RUxqVHI3RVVhNXp4aG1iYktGR2ZObElQTWtvNnhfV1dvOERxeGg3M2VVS1FNU0lPd3lRUDBRX0E?oc=5",
    "time": "2026-11-01T07:27:01+08:00",
-   "summary": ""
-  },
-  {
-   "source": "KONTAN",
-   "title": "Singapore Braces as Indonesia Slaps Back at Neighbours Amid Haze, Political Woes",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlpBR1FaS09iVV9uVVZsTl8xSDlWR0ExRkxja1I3TVJ2dHM2QnVHbE9KdW9jZTFROTFOeUJZWk12WDVCWjE1OG5BWkJFWHVPYU51VXhZTFBJZndaQ0JuRlozM0dYdmdQV0dUZDB6QVI3V3huODRkRlRfRDVlZVM3SUFIekY1UkFpLUpVb1ZWMGROaDUwbTl3dFNBenAyNjk2QXBQR1JDSjV1ajI5b1VtVUYxRdIBrgFBVV95cUxOZC1nZnpidWd1eDFpTjBJc3F4aWt1Y1ZBR0theklBUUIwZ1ViSllGeHpPY3MtTHE0WUlOVHhwd0VYcXpla0lwUGVzWVBmR0VuTlB2aHZmYzA1SmNZcXF1R1J6RHJrY21rWjNrc0dWamtLQ29laGRQWlY2R3d0R1FwZEFBSTF0ek5YeGE1RmpMSkQyblNWNTh5VFA3LWIwamZJWUxIcU5RQmdyY1lBRkE?oc=5",
-   "time": "2026-11-01T06:51:26+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Sun Malaysia",
-   "title": "Malaysia steps up haze response as transboundary pollution persists",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZDN2Y21UeGdqdnRUUk1NbVY3d3NET1lzSnlsNWlEaVRTQTNERTl4THgwc20wdXVOaG5jV1BLZ2RjX0hMTjFsVGNOV1NpWlZJeVd0a09wNjJrTWZRWm1kTGRNeVNTZm41OGNtaE9rOWdtOXBFZ2djSW9OSTJQdEpGb0NZbTNfR1lFZ2M1Y1BKdW9MSnJNT0E?oc=5",
-   "time": "2026-11-01T04:39:55+08:00",
    "summary": ""
   }
  ]
