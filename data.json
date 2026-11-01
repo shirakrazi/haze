@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-01T11:00:00+08:00",
+ "updated": "2026-11-01T12:00:00+08:00",
  "psi": {
   "west": 88,
   "east": 70,
-  "central": 75,
-  "south": 74,
+  "central": 76,
+  "south": 75,
   "north": 71
  },
  "pm25": {
-  "west": 46,
-  "east": 32,
-  "central": 31,
-  "south": 41,
-  "north": 39
+  "west": 36,
+  "east": 25,
+  "central": 34,
+  "south": 40,
+  "north": 38
  },
  "hist": [
-  {
-   "t": "2026-10-30T12:00:00+08:00",
-   "psi": {
-    "west": 61,
-    "east": 55,
-    "central": 58,
-    "south": 59,
-    "north": 59
-   }
-  },
   {
    "t": "2026-10-30T13:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 74,
     "north": 71
    }
+  },
+  {
+   "t": "2026-11-01T12:00:00+08:00",
+   "psi": {
+    "west": 88,
+    "east": 70,
+    "central": 76,
+    "south": 75,
+    "north": 71
+   }
   }
  ],
- "newsUpdated": "2026-11-01T11:07:10+08:00",
+ "newsUpdated": "2026-11-01T12:07:11+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,52 @@
    "pinned": true
   },
   {
-   "source": "The Business Times",
+   "source": "The Straits Times",
+   "title": "An ASEAN Haze Fund could discourage deforestation",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb1lhM29EVExRSmRidnhicVlTRk4yaldkcWo1U2VWYzBDYTByT29HOF9sVXd0anc5MDlOcEZEdGZ3S19jUGhRMnJ6RHZlSGFuaWsySE51M0libzU2RkpQSGV4Q050ZDFPQkpva1E3TG1lb0RxYmo2bG8xOGQzTWlLS2E2X0tnNlBKdkthbTU1SQ?oc=5",
+   "time": "2026-11-01T12:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "KLSE Screener",
+   "title": "After the haze, before the next fire",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDZQUC11eDdMSzlqNzhrTnRhRUNzQzFGSV9iZkVHSW5pYnVPR0N3QWxjZWp2UngtVDhFYVAyTjdNTzE5ZHdQSnZlTmV1ZkRoRWZ0dWpRLUFDZWxiRmNjTWZLQ3pqblgwQk1vNUMwUjZyTU91QW1WTWxxVTFCQUNnbTRkYUVYcnZlckI0ZXdn?oc=5",
+   "time": "2026-11-01T11:34:20+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Borneo Bulletin",
+   "title": "Five Singapore firms agree to cooperate in haze probe",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHRvUEY4ZDdleGZOMDJkMmotRmpmWnVTSGpCLXV0dmZ0WF9aakxydUFPSkUxdldoTHhTSjhmTHdMdWpzYjBuWklYZ01oZVh3dVZBeHJmQTNreEJyQkxrbnJ0Q25HU3BhQV9pbkhEeFMzRk5WZWFlRmRGcEtGby1XTU5RcXdOMGRhOElsSw?oc=5",
+   "time": "2026-11-01T11:30:59+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
    "title": "Haze probe: Five Singapore-registered companies agree to engage assessors",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYlctblZkRllZYTlmdG1jVU04THNqcVVPR0ZZVkNfTGtTWXlGU0l6RTZBNVRweDBYUDhnNTNWeHZBNmJCY1B2WjJ3cVBrTldJZnZwNWprN0h1amFFYUJEa1VWQXlmUkttNFllcDZncGJtcmRzRXB2VUZLU0FERVc1Qk1mc0htX2VCZFI2MHFJejhNVWk2MUJSbVVTU0F0dENrSGp0WFhReU1pZkhtLXBkVV93?oc=5",
-   "time": "2026-11-01T10:41:00+08:00",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdll5UGlyV3VFUjAxNk5MNl9EVlhqaGJUQndrRG9uT0tneDVadlhLaE55NnFhaUVwb0xIamUwTEZ5MDR3RDU5MEtILTc1SnNfd1JXNVNreDVRWFIxVzFPWHd3a25nQmY5Xy1DNXVFdXVfQVU1VUp2dE9kanUtYVNWSlA4RnBFV1VhQkY3dXlkQjNTX1Y5MlBuVg?oc=5",
+   "time": "2026-11-01T11:29:16+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Newswav",
+   "title": "Singapore air quality recovers after early morning pollution spike, but haze threat persists",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTFF6VTQ5QnlQOHRIeXBXTzJhZEdPU0d1Unc4S0dRcmVhZVhwM0J6RXhfZTVIaWcxUE02NVRWME1VVlJObWtRTXVhNkNhbElsV1F4Z3lKM3NldXB6MDMtSmZzZTZYZXlRaDlaZ1hRUmR2M3Y1SlBuX01SQm9yR0NfX3lQbDYxcjdUdEE2MUV6cjNFRERadjAzclhtQUdfQ1ExLXhvOWp3OWgzSFZnY3hhU3RFT08xaEU?oc=5",
+   "time": "2026-11-01T11:28:13+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yahoo",
+   "title": "Five Singapore firms agree to independent scrutiny over links to Indonesia fires, haze",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVNzcmg4UVZmVDFmMEFxakNMQUJDNEpTMVFXMzd6V2tFLTljNGo1WUg1X0lMUG9Nb2RxQ1J1Y2VXLW51VTlCWU5KNjBXVjkyNHMyaUZqd2tHNlNIMVYwekE0dmpmT2RHaEE3Y0NKTDRreGtDbUxuUzk0bDNYQkRjOGkxcWgzTmw4NnlLX2Z3?oc=5",
+   "time": "2026-11-01T11:20:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "TipRanks",
+   "title": "Golden Agri-Resources Pledges Full Cooperation on Singapore Haze Inquiry",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2IteC1mOHNZOFA5VmlpMHAzMG53RktTUjQ2TmZVYXVDdzlqRkdaSGl6cVJiTk5DWmpOMkh3bDc2YzFkVGplTkM5LVFtaExDN3g0Tktwc0pEaHFvUEpMOS1oOWo1VnRDa08tN1FPdW95UHhxTEZqbTUtQmphV1pSZXN5RlFQOE1vemdMVE1wTFJBUVFlVjUzeHNXMEhOaTdoeE1ST3VGQjhhb1FHMHlUZDFUZTYzdG1VYlliNTdrRm14UQ?oc=5",
+   "time": "2026-11-01T08:52:51+08:00",
    "summary": ""
   },
   {
@@ -553,48 +595,6 @@
    "title": "Malaysia steps up haze response as transboundary pollution persists",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZDN2Y21UeGdqdnRUUk1NbVY3d3NET1lzSnlsNWlEaVRTQTNERTl4THgwc20wdXVOaG5jV1BLZ2RjX0hMTjFsVGNOV1NpWlZJeVd0a09wNjJrTWZRWm1kTGRNeVNTZm41OGNtaE9rOWdtOXBFZ2djSW9OSTJQdEpGb0NZbTNfR1lFZ2M1Y1BKdW9MSnJNT0E?oc=5",
    "time": "2026-11-01T04:39:55+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Tackling haze a regional responsibility",
-   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQcHg0cklUNDdhWTBuTTdwVUZoZWV1WkxhV1JwRTVFYXBPdzVqeU1BdHhJbUVfakloYUJ6Q1Z4YmhkSi01R2FUR1U1SE9mQUp1SUozYWJXaDBhMThsZGY4NEhIbllrYVZGZU5FdUdLdHMzVTdxTF8wMGliVVQ2eTZacU9XV3J3SHk0a2szenh6dUR0TlpRN1BNbU9ueGpSNHhFbmtwM3RMT0pycHYxNF82c3JqMzRsWTNvZmhtdjRJam9aTHM3LVlFblVBMTZxNmNxeHdKeV9QM2tvVWxPSDRLLTktbU1CckdkZlpsZnVEeDFLZVlXRE1aWVhqRWlUUDc2eHJMWnJEZmdyQVdBWXJnTmk2bktrUXhLMVZRaE5oeXVZTi15LV930gGsAUFVX3lxTE92Z1k2MHJkWjM2Tkc4dEdlTzJTc3otVzJTbDVVUEhVNnZDRHF0SGFMdzYwdzNiaEI5M2hQSnJWOUZEVWNHUldxczJKcW9RTmMzOXo3Skc2M3N4b09UVTFjcFo5XzJhWTBRVW1sMTY4alJDNi1fdkJnSUlsTU9MVGhBMzJPQ0dqU2xIVDZQZnIwZGpmRlZLbmxwUEhTcjVwVGdVWENhY0ZUcm9lako?oc=5",
-   "time": "2026-11-01T00:50:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "SSBCrack",
-   "title": "Devastating Wildfires Create Toxic Haze in Indonesia Amid Protests and Regional Tensions",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRF9zRWI1NDFkTjJXLWo5NjktdFlEZE85LURqLVVHaFp0Vm5jckR1N0RXaDJSZ040dDc5TTVTN200N3lOVjlzYlpWclRKSFRKWGZITExWRjNLcko0WWpkS1JCSTFFaTVEX1ZGSWNLTEQ4Yl83UmxGd0dNek5SUVpRSGpzMU4tU2pScW1iVTdHaTVvSlc0SjFtd08yYkFmQ0FZbjZnZGF6NExhLWpwOUc2RXMzb3BPZw?oc=5",
-   "time": "2026-11-01T00:13:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "TipRanks",
-   "title": "Golden Agri-Resources Pledges Full Cooperation on Singapore Haze Inquiry",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2IteC1mOHNZOFA5VmlpMHAzMG53RktTUjQ2TmZVYXVDdzlqRkdaSGl6cVJiTk5DWmpOMkh3bDc2YzFkVGplTkM5LVFtaExDN3g0Tktwc0pEaHFvUEpMOS1oOWo1VnRDa08tN1FPdW95UHhxTEZqbTUtQmphV1pSZXN5RlFQOE1vemdMVE1wTFJBUVFlVjUzeHNXMEhOaTdoeE1ST3VGQjhhb1FHMHlUZDFUZTYzdG1VYlliNTdrRm14UQ?oc=5",
-   "time": "2026-10-31T23:51:24+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Must Share News",
-   "title": "5 S’pore-registered companies agree to engage assessors over haze probe, 2 others also willing to co ...",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10cUdiZVc5NHhRZkU0X1pxa0xVd2RCeHctajNZMXFNRXQ4UzZDX0dkQ2U2Y2VaZ2UxR0JTYlp5Sk93NEdWZEE0SXVyQTVqU0kzeFRDcHlWSDAteG9xT0pVVdIBYEFVX3lxTE10cUdiZVc5NHhRZkU0X1pxa0xVd2RCeHctajNZMXFNRXQ4UzZDX0dkQ2U2Y2VaZ2UxR0JTYlp5Sk93NEdWZEE0SXVyQTVqU0kzeFRDcHlWSDAteG9xT0pVVQ?oc=5",
-   "time": "2026-10-31T23:50:31+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Sun Malaysia",
-   "title": "Wind shift towards Indian Ocean may ease haze in Peninsula, Sarawak within two weeks",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODR3aTV2UFdKYWp0QUlfZGY2SkE1YlpKR09xdzRORFNGQXRYWEhTazV2UEJ0SXd1NTRFOFhCMXJpRHJ5V3JjTEZYRUszRnN3VlJwSDNTNm1NbGRDV1h6d1JOVWxnRzhhV1k4ZHl4QWZpQWNhT2tJZFhrSWdiUHFuNDMySDZwYmxqdlhzT1Y0ekhhY0FOQ0NqSkRTRVdGeXMxR1NSOHlBcUV0bVE?oc=5",
-   "time": "2026-10-31T23:41:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "UA.NEWS",
-   "title": "Five companies in Singapore to engage assessors over transboundary haze — Channel NewsAsia",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVzNKTU1tdjNtdXl0Y2dXNUMtelltMWhveHlUVkpuMkpDaFZCaURINGZEYy1INFZPQzhUSW5qSXo4QXllTHppQVh6UUpqcG04R3NMbXpyd1lEQldnR01NSjBzTnR0cWh2TXI3SGludEpUR09yc3Q5bXR4VTcyUy1vU0R6VGVCVVNNMGZMb0d5X2w1UE85SnV1cjVYWk5MMTY4dkRTRjBpV28wMlZCdXR5a1kzb3BobzVFUktxZFZvT3F3ZTJjMmxZ?oc=5",
-   "time": "2026-10-31T22:45:20+08:00",
    "summary": ""
   }
  ]
