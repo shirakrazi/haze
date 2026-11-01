@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-01T18:00:00+08:00",
+ "updated": "2026-11-01T19:00:00+08:00",
  "psi": {
   "west": 88,
   "east": 70,
-  "central": 74,
+  "central": 73,
   "south": 73,
   "north": 72
  },
  "pm25": {
-  "west": 33,
-  "east": 19,
-  "central": 22,
-  "south": 21,
-  "north": 13
+  "west": 31,
+  "east": 13,
+  "central": 25,
+  "south": 27,
+  "north": 14
  },
  "hist": [
-  {
-   "t": "2026-10-30T19:00:00+08:00",
-   "psi": {
-    "west": 59,
-    "east": 55,
-    "central": 61,
-    "south": 60,
-    "north": 59
-   }
-  },
   {
    "t": "2026-10-30T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 73,
     "north": 72
    }
+  },
+  {
+   "t": "2026-11-01T19:00:00+08:00",
+   "psi": {
+    "west": 88,
+    "east": 70,
+    "central": 73,
+    "south": 73,
+    "north": 72
+   }
   }
  ],
- "newsUpdated": "2026-11-01T18:07:17+08:00",
+ "newsUpdated": "2026-11-01T19:07:04+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "National Environment Agency (NEA)",
+   "title": "Haze Situation Update (1 November 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMXgtekEtekk3NG5ZblJJWmY5NWxqTFhUMU1CRUc2QnVFamwtaTZQT01tMW8xTy00eEZTRzZoVFIwZ3NVUXphTElFTlNQWDU3TW8wd0E1N1NxMlpfeUxGQ18yNGZGNUNFYXNyaUhGRGJVZXBTS1VnbjNEWnZWeDBTMTNkSzkwTnFyY3JJRGU4WmpXdw?oc=5",
+   "time": "2026-11-01T18:04:57+08:00",
+   "summary": ""
   },
   {
    "source": "ANTARA News",
@@ -588,13 +595,6 @@
    "title": "Follow the money behind the haze",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV19DQ1lZTTFLbXVod0x1QjdEVWZ0UEVCM1pOU0ZkSVUzV0pnSkVXYzh4dUctdzd3YkRjNUNTSEgtVlIzclZtX2tlRnJvV1gtTkxObWJTOW00VjRvY3pzY1ZLelNudEt3M2NMR1k0Q0tiLV9yNVRVek15OU0xT3Bvdw?oc=5",
    "time": "2026-11-01T08:05:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: PM2.5 readings back to normal islandwide after west briefly enters elevated band",
-   "url": "https://www.channelnewsasia.com/singapore/haze-pm25-psi-nov-1-6510401",
-   "time": "2026-11-01T07:34:51+08:00",
    "summary": ""
   }
  ]
