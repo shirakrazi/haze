@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-02T04:00:00+08:00",
+ "updated": "2026-11-02T05:00:00+08:00",
  "psi": {
   "west": 86,
-  "east": 66,
+  "east": 65,
   "central": 70,
   "south": 70,
   "north": 72
  },
  "pm25": {
-  "west": 47,
-  "east": 26,
+  "west": 46,
+  "east": 23,
   "central": 35,
-  "south": 33,
-  "north": 35
+  "south": 32,
+  "north": 28
  },
  "hist": [
-  {
-   "t": "2026-10-31T05:00:00+08:00",
-   "psi": {
-    "west": 64,
-    "east": 56,
-    "central": 61,
-    "south": 58,
-    "north": 60
-   }
-  },
   {
    "t": "2026-10-31T06:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 70,
     "north": 72
    }
+  },
+  {
+   "t": "2026-11-02T05:00:00+08:00",
+   "psi": {
+    "west": 86,
+    "east": 65,
+    "central": 70,
+    "south": 70,
+    "north": 72
+   }
   }
  ],
- "newsUpdated": "2026-11-02T04:07:28+08:00",
+ "newsUpdated": "2026-11-02T05:07:26+08:00",
  "news": [
   {
    "source": "CNA",
@@ -563,6 +563,13 @@
    "summary": ""
   },
   {
+   "source": "The Sun Malaysia",
+   "title": "Johor schools to reopen on Monday as haze situation improves",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZXk3NHF1ZWZ6WW51dldhQUZWRUl6b2VqRElZcFdzZzhyTEFUR3pLd3R5TGdjS1IwYno1eF9WM29NY1QyNDhuRHhaWkhudlNibEtGMW1Jd0ZJWU9makR6OHNJLWZzckhXcEpQUEdVdmU3cWJ6aGhqYjg3SUJyOXhwWmUyX0VNLTM3ajlBd20xc0U1T00?oc=5",
+   "time": "2026-11-01T15:14:54+08:00",
+   "summary": ""
+  },
+  {
    "source": "ANTARA News",
    "title": "University of Indonesia urges action on fire-haze health risks",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUlZZY2NLYWtCWU5sWlM0RDhSc3dRWjlCOEFMTFk2N2JlcXJ3TTN2Q2dKYzZGb1doQ1hoRm55Qm5SQjRaZHR6eUkxMWhNMlgxZXNGX3dwbXZEM0YtanB6TTJaSkd3Y3FqS0tlNC1WNFZLQ3hIcmIxWkVWTW41UjQ5QkxFN2g3S0NCbzhEM0tKWm5pQm5jWGRLeEUwTkdnanVzVGfSAacBQVVfeXFMTVdBU05ibWVWVjB1ZU9adFNLa3VONmo3WWkxb21OMFkxcTJuWTRxb3hvdHhOSEhKZ083MWtTS3ZJeTlwQkNPRVMzcUI4R2Q0VE5fbDJLeE9GVXhsMUFZQXlpQzJPanNyXzkzazVqclZnWUdsVVh5RVFDd1hfOXhCR3oxNkllM1lTM0dJRHhxZlNXVEZpVlY2Tk9JQW5LekFpbTV1dWY3UVU?oc=5",
@@ -588,13 +595,6 @@
    "title": "After the haze, before the next fire",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDZQUC11eDdMSzlqNzhrTnRhRUNzQzFGSV9iZkVHSW5pYnVPR0N3QWxjZWp2UngtVDhFYVAyTjdNTzE5ZHdQSnZlTmV1ZkRoRWZ0dWpRLUFDZWxiRmNjTWZLQ3pqblgwQk1vNUMwUjZyTU91QW1WTWxxVTFCQUNnbTRkYUVYcnZlckI0ZXdn?oc=5",
    "time": "2026-11-01T11:34:20+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Borneo Bulletin",
-   "title": "Five Singapore firms agree to cooperate in haze probe",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHRvUEY4ZDdleGZOMDJkMmotRmpmWnVTSGpCLXV0dmZ0WF9aakxydUFPSkUxdldoTHhTSjhmTHdMdWpzYjBuWklYZ01oZVh3dVZBeHJmQTNreEJyQkxrbnJ0Q25HU3BhQV9pbkhEeFMzRk5WZWFlRmRGcEtGby1XTU5RcXdOMGRhOElsSw?oc=5",
-   "time": "2026-11-01T11:30:59+08:00",
    "summary": ""
   }
  ]
