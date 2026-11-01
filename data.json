@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-01T07:00:00+08:00",
+ "updated": "2026-11-01T08:00:00+08:00",
  "psi": {
   "west": 86,
   "east": 68,
-  "central": 72,
-  "south": 70,
+  "central": 73,
+  "south": 71,
   "north": 68
  },
  "pm25": {
-  "west": 55,
-  "east": 31,
-  "central": 30,
-  "south": 33,
-  "north": 31
+  "west": 51,
+  "east": 35,
+  "central": 38,
+  "south": 38,
+  "north": 38
  },
  "hist": [
-  {
-   "t": "2026-10-30T08:00:00+08:00",
-   "psi": {
-    "west": 66,
-    "east": 57,
-    "central": 63,
-    "south": 62,
-    "north": 63
-   }
-  },
   {
    "t": "2026-10-30T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 70,
     "north": 68
    }
+  },
+  {
+   "t": "2026-11-01T08:00:00+08:00",
+   "psi": {
+    "west": 86,
+    "east": 68,
+    "central": 73,
+    "south": 71,
+    "north": 68
+   }
   }
  ],
- "newsUpdated": "2026-11-01T07:06:39+08:00",
+ "newsUpdated": "2026-11-01T08:07:32+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,31 @@
    "pinned": true
   },
   {
+   "source": "aliran.com",
+   "title": "Follow the money behind the haze",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV19DQ1lZTTFLbXVod0x1QjdEVWZ0UEVCM1pOU0ZkSVUzV0pnSkVXYzh4dUctdzd3YkRjNUNTSEgtVlIzclZtX2tlRnJvV1gtTkxObWJTOW00VjRvY3pzY1ZLelNudEt3M2NMR1k0Q0tiLV9yNVRVek15OU0xT3Bvdw?oc=5",
+   "time": "2026-11-01T08:05:11+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: PM2.5 readings back to normal islandwide after west briefly enters elevated band",
+   "url": "https://www.channelnewsasia.com/singapore/haze-pm25-psi-nov-1-6510401",
+   "time": "2026-11-01T07:34:51+08:00",
+   "summary": ""
+  },
+  {
    "source": "KONTAN",
    "title": "Singapore Braces as Indonesia Slaps Back at Neighbours Amid Haze, Political Woes",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlpBR1FaS09iVV9uVVZsTl8xSDlWR0ExRkxja1I3TVJ2dHM2QnVHbE9KdW9jZTFROTFOeUJZWk12WDVCWjE1OG5BWkJFWHVPYU51VXhZTFBJZndaQ0JuRlozM0dYdmdQV0dUZDB6QVI3V3huODRkRlRfRDVlZVM3SUFIekY1UkFpLUpVb1ZWMGROaDUwbTl3dFNBenAyNjk2QXBQR1JDSjV1ajI5b1VtVUYxRdIBrgFBVV95cUxOZC1nZnpidWd1eDFpTjBJc3F4aWt1Y1ZBR0theklBUUIwZ1ViSllGeHpPY3MtTHE0WUlOVHhwd0VYcXpla0lwUGVzWVBmR0VuTlB2aHZmYzA1SmNZcXF1R1J6RHJrY21rWjNrc0dWamtLQ29laGRQWlY2R3d0R1FwZEFBSTF0ek5YeGE1RmpMSkQyblNWNTh5VFA3LWIwamZJWUxIcU5RQmdyY1lBRkE?oc=5",
    "time": "2026-11-01T06:51:26+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Sun Malaysia",
+   "title": "Malaysia steps up haze response as transboundary pollution persists",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZDN2Y21UeGdqdnRUUk1NbVY3d3NET1lzSnlsNWlEaVRTQTNERTl4THgwc20wdXVOaG5jV1BLZ2RjX0hMTjFsVGNOV1NpWlZJeVd0a09wNjJrTWZRWm1kTGRNeVNTZm41OGNtaE9rOWdtOXBFZ2djSW9OSTJQdEpGb0NZbTNfR1lFZ2M1Y1BKdW9MSnJNT0E?oc=5",
+   "time": "2026-11-01T04:39:55+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "Transboundary haze: Indonesia's environment minister conducts field checks for joint task force",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbkNSWWQtbmVSekxGSEplZVl0RDF4LUh2a0VfQ1dqN3NyOThGY0xWQmZHNTFNeW5zNFRTQmxObWFVUXRQdXNkWThHZUFxUGpBTklrdVhiVlNrVjZ0cGlzMElRQWpyd1Q3alJjLXlNQURWXzJYZ3Z0SXRhVDdvY2puTnFWRzA4LURuVUViQUE2NTZ1amY2MWxYQUVRa2haamsxZWFkWEU3UTYtQk9kTWtjRk02VGt6YjBvS0RMX1ZldlpoX3BkY1RCOFlBSGRzYmJh?oc=5",
    "time": "2026-10-31T20:19:12+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Sun Malaysia",
-   "title": "Schools in four Selangor districts to close tomorrow because of haze – JPNS",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQlA5SFNva2Frb0xQN1BhWmdpU2N4Qm5rSy1EelhxQmhYaVZ3cGFOZGd1alhxR2VnYUFtRHo4bl9oYzhHYVVjYXdKZktCY2xaQkItS1l6a1BxZVBQMl9oTGtNclJaaUxYdTFyMEN1WlNNSzZVYm82bTB6NDZKbTA5VFl5Mm91LUJvbGZucVViTlpiTnFJWGJrQVNxUW9TMHJZaEhsYnRRLVpNaEtOYTMxdEoyZHdXR0lZTWlrNzNlU2V3TlU?oc=5",
-   "time": "2026-10-31T20:14:24+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Sun Malaysia",
-   "title": "Haze: Malaysia still awaiting Indonesia’s response to firefighting aid offer – DPM Zahid",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWNOSTM3LURuQ0p1Q3dKWS0zRWNNai1yMWxXYkhIdUdSaTR4ZlgtR1FMU1djdHZUZ3owbU1DS3E5dmxvX2JqVDl2dzNiM1Z5Ty1QM3VtMW5pdHhGejBuak9KWWlHZVpwcXo5ZHJORlA0T3JMMFNjMFRGbG9GNGNmVXhXQUczaUV0T0hYQV9meUFwbUhwemduVEI2ZEZOeXlUNDNfelBCRmx2MGZqWnVic0I3dl9KeWJaUHcwTU42dzRCSjJseGpsV1NkYVM2cVpnQUE?oc=5",
-   "time": "2026-10-31T20:12:22+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Vietnam.vn",
-   "title": "The haze caused nearly $2 billion in economic damage to Malaysia.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkhEclZyX0hTYm5IOUt0VGMyelRJVUNzT091Q2ctVzN3V29tY3hKelJQOHU0UGJ4RkNYaXpDOUxndWJKTlpJS1RRLS03SFdDUnVlSzFMR1VfbjdRd1gwUDRiQXpiQ1pQbjN2OGU2RjBqRVdjQ29iRGJQZ2h0U3k1MEc4N3N3YWV4?oc=5",
-   "time": "2026-10-31T19:46:09+08:00",
    "summary": ""
   }
  ]
