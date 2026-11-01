@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-01T12:00:00+08:00",
+ "updated": "2026-11-01T13:00:00+08:00",
  "psi": {
-  "west": 88,
+  "west": 89,
   "east": 70,
   "central": 76,
-  "south": 75,
-  "north": 71
+  "south": 76,
+  "north": 72
  },
  "pm25": {
-  "west": 36,
-  "east": 25,
-  "central": 34,
-  "south": 40,
-  "north": 38
+  "west": 39,
+  "east": 27,
+  "central": 31,
+  "south": 30,
+  "north": 35
  },
  "hist": [
-  {
-   "t": "2026-10-30T13:00:00+08:00",
-   "psi": {
-    "west": 60,
-    "east": 55,
-    "central": 57,
-    "south": 59,
-    "north": 58
-   }
-  },
   {
    "t": "2026-10-30T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 75,
     "north": 71
    }
+  },
+  {
+   "t": "2026-11-01T13:00:00+08:00",
+   "psi": {
+    "west": 89,
+    "east": 70,
+    "central": 76,
+    "south": 76,
+    "north": 72
+   }
   }
  ],
- "newsUpdated": "2026-11-01T12:07:11+08:00",
+ "newsUpdated": "2026-11-01T13:06:50+08:00",
  "news": [
   {
    "source": "CNA",
@@ -511,6 +511,13 @@
    "title": "An ASEAN Haze Fund could discourage deforestation",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb1lhM29EVExRSmRidnhicVlTRk4yaldkcWo1U2VWYzBDYTByT29HOF9sVXd0anc5MDlOcEZEdGZ3S19jUGhRMnJ6RHZlSGFuaWsySE51M0libzU2RkpQSGV4Q050ZDFPQkpva1E3TG1lb0RxYmo2bG8xOGQzTWlLS2E2X0tnNlBKdkthbTU1SQ?oc=5",
    "time": "2026-11-01T12:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Singapore air quality recovers after early morning pollution spike, but haze threat persists",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNa2VZUldXTXRtOVZoUmg0ek5uTF9IeENoUjgxd1dqZ3c0RkdVMU54VUJURXJGaTR2N0tTLU5LS0drLWhJNFF6Qy1sOTF5dl9JNkRyMUhvVjNtZU5ZWEhraUsycVJhTl9WajBZc3Vfa2xCeE13aEJzLVdRX3JBeF85QVVSTnRHZ3doekRLSUtNMm5ITzBzeThLaXVJZHlYTmU3RGotSm1hN0p0Xzd4NU5SZVNwVHY0ckswR25taUt1YTkweVdENVROR29kNUxXM3E0T1dpWWYxTkNvWFBVc3p1dkJQUVZMdzBFOFHSAeoBQVVfeXFMTWtlWVJXV010bTlWaFJoNHpObkxfSHhDaFI4MXdXamd3NEZHVTFOeFVCVEVyRmk0djdLUy1OS0tHay1oSTRRekMtbDkxeXZfSTZEcjFIb1YzbWVOWVhIa2lLMnFSYU5fVmowWXN1X2tsQnhNd2hCcy1XUV9yQXhfOUFVUk50R2d3aHpES0lLTTJuSE8wc3k4S2l1SWR5WE5lN0RqLUptYTdKdF83eDVOUmVTcFR2NHJLMEdubWlLdWE5MHlXRDVUTkdvZDVMVzNxNE9XaVlmMU5Db1hQVXN6dXZCUFFWTHcwRThR?oc=5",
+   "time": "2026-11-01T11:37:24+08:00",
    "summary": ""
   },
   {
@@ -535,17 +542,10 @@
    "summary": ""
   },
   {
-   "source": "Newswav",
-   "title": "Singapore air quality recovers after early morning pollution spike, but haze threat persists",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTFF6VTQ5QnlQOHRIeXBXTzJhZEdPU0d1Unc4S0dRcmVhZVhwM0J6RXhfZTVIaWcxUE02NVRWME1VVlJObWtRTXVhNkNhbElsV1F4Z3lKM3NldXB6MDMtSmZzZTZYZXlRaDlaZ1hRUmR2M3Y1SlBuX01SQm9yR0NfX3lQbDYxcjdUdEE2MUV6cjNFRERadjAzclhtQUdfQ1ExLXhvOWp3OWgzSFZnY3hhU3RFT08xaEU?oc=5",
-   "time": "2026-11-01T11:28:13+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Yahoo",
+   "source": "Malay Mail",
    "title": "Five Singapore firms agree to independent scrutiny over links to Indonesia fires, haze",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVNzcmg4UVZmVDFmMEFxakNMQUJDNEpTMVFXMzd6V2tFLTljNGo1WUg1X0lMUG9Nb2RxQ1J1Y2VXLW51VTlCWU5KNjBXVjkyNHMyaUZqd2tHNlNIMVYwekE0dmpmT2RHaEE3Y0NKTDRreGtDbUxuUzk0bDNYQkRjOGkxcWgzTmw4NnlLX2Z3?oc=5",
-   "time": "2026-11-01T11:20:00+08:00",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaUVfdlR2MFVvVjZDa2JqbTRoUV9nRXVDT1VYSzZLbEVyUjkzcDhleDc0Zi02aVl0dkdoMDVWUzNBeERoNnVrSDVpZElQcW15bUxLbElUWVBwdFNaSXhJMTBTU3MzZlZsUGlKOHZsZTVGNXAyMjEyNkdSal9CVk02bnFDWm5TT21MQi0xemJlSjJwaXV1OGFXQmpBaENYY2hmeHpkTDIyRDV5ZHlSRHFPZlUzS2xTTVhUZzl3ZW1oLS1SNEJ0ZG0yS0NyR01ocmFsX0d0X3JZV3o0TFo40gHiAUFVX3lxTE0tT19fSEQwR3NOdWJLelQwU1piT25iek53YW5WSVBKLUVxVkFJQkFFcTh4MmVlbTYtT2FLU21RRzlvZlVPeHhDTGxWOWw0MEIwRXllYk9YalRXQU0xMWxBc2dZZUdvUUpPTjhJWTBMTFVfZDFwS0x1bU5IZjJuSEg2R1UtZ1lvNUY1RFd5QWpGc1B5ZVNHYlJlV1FRRFhhc2Fxb09zUXdCcmJQakw5TU42enk2VEVqYkpVYnNXMnpPeFdNaEhkMjZqa2Rya0t1T2JfZlRtNkZwcVhZb0pkSm11MkE?oc=5",
+   "time": "2026-11-01T11:27:08+08:00",
    "summary": ""
   },
   {
