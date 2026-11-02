@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-03T06:00:00+08:00",
+ "updated": "2026-11-03T07:00:00+08:00",
  "psi": {
   "west": 81,
   "east": 65,
-  "central": 66,
+  "central": 67,
   "south": 67,
-  "north": 70
+  "north": 69
  },
  "pm25": {
-  "west": 44,
-  "east": 29,
-  "central": 38,
+  "west": 46,
+  "east": 34,
+  "central": 47,
   "south": 38,
-  "north": 27
+  "north": 26
  },
  "hist": [
-  {
-   "t": "2026-11-01T07:00:00+08:00",
-   "psi": {
-    "west": 86,
-    "east": 68,
-    "central": 72,
-    "south": 70,
-    "north": 68
-   }
-  },
   {
    "t": "2026-11-01T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 70
    }
+  },
+  {
+   "t": "2026-11-03T07:00:00+08:00",
+   "psi": {
+    "west": 81,
+    "east": 65,
+    "central": 67,
+    "south": 67,
+    "north": 69
+   }
   }
  ],
- "newsUpdated": "2026-11-03T06:07:26+08:00",
+ "newsUpdated": "2026-11-03T07:07:09+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "BBC",
+   "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XQXJRVDZKUzlHSkZ2ai10UG5XcVpTWDduUUcyMElyNDJmMUJHbVljWW1xcUFkSjNmN28waXBPRV9xbDI0OWN4Mzc4dFpYUjhOM3ZjSmFKaHZRdWM?oc=5",
+   "time": "2026-11-03T07:02:01+08:00",
+   "summary": ""
   },
   {
    "source": "FreshPlaza",
@@ -588,13 +595,6 @@
    "title": "Haze dominates Parliament’s November sitting as MPs file over 50 questions on enforcement and accountability",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRVFKZmlhemFqblJ2c3BJRmxKUXY1YXBKNGlJdjR3NkhsMWhWNGR2MVZ4cF9GSE1UZkFBb1NGS01OUHlpQ3B6UzM1cm9Na1pEN204TEhxUE1sMVkxT3lUdlF4MnkyLVp5QWNfd3pDNy1JQWNnS2hvNDI5TmJLQ1NZN3UtcDJBQmVsTjNlc0pzQkNURXd1aml4YnFlMGhFbzJCUml1R3JScTgtaHFVM29pakpUbF83TmdFWm1rMjRHS014eFdYNlZ3Mm40U0NaWWYxdnZCN3N5cHpLa2lNVEI5U2d3dXVaUGJqdnc?oc=5",
    "time": "2026-11-02T18:37:33+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: 24-hr PSI readings in good-to-moderate range islandwide",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd3I3TXZ2cHA2R2Ezc0FyRDkxczZuSE1nMnZBT29rQ3BDYlFnNWxfemJ0NzlNT2E0eVBXOVV3aTFFUWRvZVRkcThTeG11QmFlcTVOOVZMeG13X2tHcUlIdGJMNUE4QnluXzBrekpnazV0SXZaUXkxXzdmR2cxODI1MWotWGNkUQ?oc=5",
-   "time": "2026-11-02T18:35:58+08:00",
    "summary": ""
   }
  ]
