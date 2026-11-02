@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-03T03:00:00+08:00",
+ "updated": "2026-11-03T04:00:00+08:00",
  "psi": {
   "west": 81,
-  "east": 65,
-  "central": 67,
+  "east": 64,
+  "central": 66,
   "south": 67,
-  "north": 69
+  "north": 70
  },
  "pm25": {
-  "west": 46,
+  "west": 47,
   "east": 22,
-  "central": 32,
-  "south": 25,
-  "north": 44
+  "central": 16,
+  "south": 26,
+  "north": 41
  },
  "hist": [
-  {
-   "t": "2026-11-01T04:00:00+08:00",
-   "psi": {
-    "west": 83,
-    "east": 66,
-    "central": 70,
-    "south": 68,
-    "north": 66
-   }
-  },
   {
    "t": "2026-11-01T05:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 69
    }
+  },
+  {
+   "t": "2026-11-03T04:00:00+08:00",
+   "psi": {
+    "west": 81,
+    "east": 64,
+    "central": 66,
+    "south": 67,
+    "north": 70
+   }
   }
  ],
- "newsUpdated": "2026-11-03T03:58:39+08:00",
+ "newsUpdated": "2026-11-03T04:08:32+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,17 @@
    "pinned": true
   },
   {
-   "source": "cedarnews.net",
-   "title": "Indonesia’s smoke haze reignites regional frustrations",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGZJVHFBS3RpOGhSby1YQWZuWjJ6S0NnZVdPQ3Fnc2l3TjZOSkZFMHNnLTYySXlJNWRFd21vUXV2VDBtdG9qb0RiX3ZiQW1Nb0lXVE5OYUNDTlJmQl84cjcyZTIxdGhYR0RnZEhidEZzWXRXUlNzcHl4Q0ppWTZmdHNuSnlleG1TWTVmR1ZNT2J6UV9JVUFsbkhB?oc=5",
-   "time": "2026-11-03T02:02:47+08:00",
+   "source": "FreshPlaza",
+   "title": "Prolonged haze threatens fruit and vegetable yields in Malaysia",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0hkbmdneFFGZDZ5aWQzMmhhVENybUtaQVZqRHdMR3l0UlJjS244aDV6b2trTk5DeHJ5VjZydHpvdlRZRXhqZktFbXRRelpMYThMdTdRMXpSYV9Ybl9oYU5uRzYwVXZndGJZbmR2anhJRHEzVnFId3p0YkFQdGZ6enVlTTlPdmN3b2pBbkgzUmtBbDRGN0NBNlcxdVVza1pVdVEwVms1QVZ3RlM4N25XVWN3?oc=5",
+   "time": "2026-11-03T02:11:15+08:00",
+   "summary": ""
+  },
+  {
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "title": "Indonesia's smoke haze reignites regional frustrations",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNczFrVC1GY25Eay12ckZHYXdUblc3Y0ltY1NhUmtOZkxTM0x4OEdudXFMOGpJVG9ITGdsaTBhQVVNTWoxSm1LcHVUVmNiUk5peUkwaVpVcXFWWV83a2JJalVFM1lxazJHS2Z6VnZsclJ3cjFLYmRFb2M2cUhvcjJfQ2JmeUpwei1hMHZyNFpQcGdXVUVDVEo0cjMyMXdTQjFEbUFv?oc=5",
+   "time": "2026-11-03T02:08:30+08:00",
    "summary": ""
   },
   {
@@ -532,13 +539,6 @@
    "title": "Kencana Agri Voluntarily Engages Assessors Over Transboundary Haze",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPT09wamcwYVdOWE0ySUlJWVA4bXlKUUtweVAwNUo4YVdWaVNha096V1k4aW5RbFk5ZnJ6QTJFdmE1R1g4R0JjSG9MM2ItbEluOFZWYV8yM0xGZmUxLWYwSGo4YklaNXU0ZXVlM0diR3o3MTlMelVRbWFtMVRtVDBTS2JOZFQ1RWhiMnRqelB1LXFfN0hpeU9WX3Iwb3VpeGtZb25VOVVYbjhlMWlsbkhPQWxETUd2enp4OU1YbU5CcVN1dkF6dDlEWDBUTE1XanZxNmtDTEhMYlJORDNobFlVZA?oc=5",
    "time": "2026-11-02T22:38:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "FreshPlaza",
-   "title": "Prolonged haze threatens fruit and vegetable yields in Malaysia",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN3B5NG5xSXhCYmpGZUY5MUxUWFRvczJZVlJxUVNSZ25hRDU2cXUtMUZpOGJRalBqRGFWeDJUa3N6eFlPakFKX2QwRDZBMFd6RXNnX2l1Z3NCdDRkaklraHlGQ1hyUnVvcFA4MVBmUU5wd0x0VnVBOWdsaUJ6dklsQmJPRU42Q3JZTFpqNWxOaUJGN01kS2tJTXNTMTdvWTF6X1BTV251RkVlUm5idVptWUU0c2NLN3dTWDRwNEJR?oc=5",
-   "time": "2026-11-02T21:32:52+08:00",
    "summary": ""
   },
   {
