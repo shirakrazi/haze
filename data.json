@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T09:00:00+08:00",
+ "updated": "2026-11-02T10:00:00+08:00",
  "psi": {
   "west": 84,
   "east": 64,
@@ -8,23 +8,13 @@
   "north": 71
  },
  "pm25": {
-  "west": 36,
-  "east": 26,
-  "central": 34,
-  "south": 30,
-  "north": 36
+  "west": 44,
+  "east": 27,
+  "central": 36,
+  "south": 31,
+  "north": 32
  },
  "hist": [
-  {
-   "t": "2026-10-31T10:00:00+08:00",
-   "psi": {
-    "west": 70,
-    "east": 57,
-    "central": 61,
-    "south": 58,
-    "north": 60
-   }
-  },
   {
    "t": "2026-10-31T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 71
    }
+  },
+  {
+   "t": "2026-11-02T10:00:00+08:00",
+   "psi": {
+    "west": 84,
+    "east": 64,
+    "central": 70,
+    "south": 68,
+    "north": 71
+   }
   }
  ],
- "newsUpdated": "2026-11-02T09:07:54+08:00",
+ "newsUpdated": "2026-11-02T10:07:20+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "KLSE Screener",
+   "title": "TSH Resources seeks independent assessment over Indonesia fires, haze",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem9MTnNXOXRZdjB3LUo2ZkNza09PUUNYejVVdWR4cFoxMl9qMG0yS0pNNl9yZ3NEaE53ejZBbXo1NHNOQTYwX2tPQnJybGFLYnptWU1aWE1HZDkwMWhVSGV2VmdXYlR2SFNySGxWYW81VC1DclhYQ3FNVHMxZ0U1MFBCeUVUT0lFcGlScDFCck9oYU12a2pYbXAtVGR5OW1UMnlVUUV5N1U2dWtTYi00bzNuZEFFZFdnRWc?oc=5",
+   "time": "2026-11-02T09:55:19+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "TSH Resources agrees to Singapore haze assessment",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmJNOEZhMGNkY25NVGN6UzRQMzA3XzNBZDc0ejFsR1A0bTJfNkRJaWtjWjJfQnFFNGhneVFwbEt3LTA3Q0NUT2htX1kyREhkWEZna2I2eG5peEp6T0ZRUkZIdHVXTXJQMTMxdE12Y1JSWlQweW1qVERtUXpNNUVQWldLbktUazdhdUYxR0pkc1RVYWdPMHVtTml5OC1FY2FNa2Y4VjZDRdIBrAFBVV95cUxOOEtnWm10VW4xelpVS2pQaWE4cjFkUkJtdzdmZDhic1V0R2QwZlIwZmJoTlIycTFsQTNHMjZiM2o3WVNxVDlkVVFMaGpjTEoxcWlhdmVfdmpJZEF6UEZ4QVlTMDQ4MG55dGFka0gtb3k3MnZHY0RVNDFKVHpXcmJkTklaUkVzVmc4RFlpUTJYREFVYk02UkJxenZxdHgtYVZFeFROMVlKNERJbHlW?oc=5",
+   "time": "2026-11-02T09:45:26+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "TSH Resources volunteers to engage with Singapore agency's independent assessors over haze",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vQk5ZOUx4eHl2Z0ZaRndiU01ITGV2V3hMUC1YY1FtamstMjZtb2hmLW53MG1PbTdnWXMxN2t5NUIwZS1DaEpPY1RENU1ZX0Jk?oc=5",
+   "time": "2026-11-02T09:39:12+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: 24-hr PSI readings in good-to-moderate range islandwide",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd3I3TXZ2cHA2R2Ezc0FyRDkxczZuSE1nMnZBT29rQ3BDYlFnNWxfemJ0NzlNT2E0eVBXOVV3aTFFUWRvZVRkcThTeG11QmFlcTVOOVZMeG13X2tHcUlIdGJMNUE4QnluXzBrekpnazV0SXZaUXkxXzdmR2cxODI1MWotWGNkUQ?oc=5",
+   "time": "2026-11-02T09:16:36+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -559,7 +587,7 @@
    "source": "National Environment Agency (NEA)",
    "title": "Haze Situation Update (1 November 2026)",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMXgtekEtekk3NG5ZblJJWmY5NWxqTFhUMU1CRUc2QnVFamwtaTZQT01tMW8xTy00eEZTRzZoVFIwZ3NVUXphTElFTlNQWDU3TW8wd0E1N1NxMlpfeUxGQ18yNGZGNUNFYXNyaUhGRGJVZXBTS1VnbjNEWnZWeDBTMTNkSzkwTnFyY3JJRGU4WmpXdw?oc=5",
-   "time": "2026-11-01T18:04:57+08:00",
+   "time": "2026-11-01T18:14:43+08:00",
    "summary": ""
   },
   {
@@ -567,34 +595,6 @@
    "title": "South Sumatra extends weather modification to fight fires, haze",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN3NKazZ6VmF5Wmp2ZkhWWjZaSGl1SFpkTTBkZDBSUmd2eGxxaVJWMjdHbGN2S002QUtKa19QMENndzdhSXZMZVB2QnJHY081YkI5SUtNX1prMWU1ZFYwaWNUNG1IcFhZb1ZyMGVRRWpzQ2hkTW9JZVUzQ0dfNnY5OGYxU3hWMjBPV1F3VGFiQWJJdkxFa2cxVkJWUGpmT29Ia3fSAacBQVVfeXFMTUlfQllNTmJCdnFfQ2lXNTFQYVVEOUdBal9kRWVFV3JnVFBYNUpyazNfaVJjTW9LMDk5V3d4RmdFUk9xd3JkYmdVUkhCOUJGS1RscDJnNEhxdWF2NFFoLVJQV3VrTmNIZEtfR1paczUwbFpjZmpWTmhNcEhSYTFTS01zbGk5aVRTcUxYaHJibEdTYUJiRUQ3M25JUlhGWlM2cDZfTVFEOUk?oc=5",
    "time": "2026-11-01T17:28:56+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Sun Malaysia",
-   "title": "Johor schools to reopen on Monday as haze situation improves",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZXk3NHF1ZWZ6WW51dldhQUZWRUl6b2VqRElZcFdzZzhyTEFUR3pLd3R5TGdjS1IwYno1eF9WM29NY1QyNDhuRHhaWkhudlNibEtGMW1Jd0ZJWU9makR6OHNJLWZzckhXcEpQUEdVdmU3cWJ6aGhqYjg3SUJyOXhwWmUyX0VNLTM3ajlBd20xc0U1T00?oc=5",
-   "time": "2026-11-01T15:14:54+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ANTARA News",
-   "title": "University of Indonesia urges action on fire-haze health risks",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUlZZY2NLYWtCWU5sWlM0RDhSc3dRWjlCOEFMTFk2N2JlcXJ3TTN2Q2dKYzZGb1doQ1hoRm55Qm5SQjRaZHR6eUkxMWhNMlgxZXNGX3dwbXZEM0YtanB6TTJaSkd3Y3FqS0tlNC1WNFZLQ3hIcmIxWkVWTW41UjQ5QkxFN2g3S0NCbzhEM0tKWm5pQm5jWGRLeEUwTkdnanVzVGfSAacBQVVfeXFMTVdBU05ibWVWVjB1ZU9adFNLa3VONmo3WWkxb21OMFkxcTJuWTRxb3hvdHhOSEhKZ083MWtTS3ZJeTlwQkNPRVMzcUI4R2Q0VE5fbDJLeE9GVXhsMUFZQXlpQzJPanNyXzkzazVqclZnWUdsVVh5RVFDd1hfOXhCR3oxNkllM1lTM0dJRHhxZlNXVEZpVlY2Tk9JQW5LekFpbTV1dWY3UVU?oc=5",
-   "time": "2026-11-01T13:16:14+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "An ASEAN Haze Fund could discourage deforestation",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb1lhM29EVExRSmRidnhicVlTRk4yaldkcWo1U2VWYzBDYTByT29HOF9sVXd0anc5MDlOcEZEdGZ3S19jUGhRMnJ6RHZlSGFuaWsySE51M0libzU2RkpQSGV4Q050ZDFPQkpva1E3TG1lb0RxYmo2bG8xOGQzTWlLS2E2X0tnNlBKdkthbTU1SQ?oc=5",
-   "time": "2026-11-01T12:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Singapore air quality recovers after early morning pollution spike, but haze threat persists",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNa2VZUldXTXRtOVZoUmg0ek5uTF9IeENoUjgxd1dqZ3c0RkdVMU54VUJURXJGaTR2N0tTLU5LS0drLWhJNFF6Qy1sOTF5dl9JNkRyMUhvVjNtZU5ZWEhraUsycVJhTl9WajBZc3Vfa2xCeE13aEJzLVdRX3JBeF85QVVSTnRHZ3doekRLSUtNMm5ITzBzeThLaXVJZHlYTmU3RGotSm1hN0p0Xzd4NU5SZVNwVHY0ckswR25taUt1YTkweVdENVROR29kNUxXM3E0T1dpWWYxTkNvWFBVc3p1dkJQUVZMdzBFOFHSAeoBQVVfeXFMTWtlWVJXV010bTlWaFJoNHpObkxfSHhDaFI4MXdXamd3NEZHVTFOeFVCVEVyRmk0djdLUy1OS0tHay1oSTRRekMtbDkxeXZfSTZEcjFIb1YzbWVOWVhIa2lLMnFSYU5fVmowWXN1X2tsQnhNd2hCcy1XUV9yQXhfOUFVUk50R2d3aHpES0lLTTJuSE8wc3k4S2l1SWR5WE5lN0RqLUptYTdKdF83eDVOUmVTcFR2NHJLMEdubWlLdWE5MHlXRDVUTkdvZDVMVzNxNE9XaVlmMU5Db1hQVXN6dXZCUFFWTHcwRThR?oc=5",
-   "time": "2026-11-01T11:37:24+08:00",
    "summary": ""
   }
  ]
