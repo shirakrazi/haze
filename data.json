@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T13:00:00+08:00",
+ "updated": "2026-11-02T14:00:00+08:00",
  "psi": {
   "west": 84,
   "east": 63,
@@ -8,23 +8,13 @@
   "north": 70
  },
  "pm25": {
-  "west": 36,
-  "east": 21,
-  "central": 26,
-  "south": 24,
-  "north": 25
+  "west": 41,
+  "east": 25,
+  "central": 25,
+  "south": 17,
+  "north": 30
  },
  "hist": [
-  {
-   "t": "2026-10-31T14:00:00+08:00",
-   "psi": {
-    "west": 73,
-    "east": 57,
-    "central": 63,
-    "south": 58,
-    "north": 61
-   }
-  },
   {
    "t": "2026-10-31T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 66,
     "north": 70
    }
+  },
+  {
+   "t": "2026-11-02T14:00:00+08:00",
+   "psi": {
+    "west": 84,
+    "east": 63,
+    "central": 69,
+    "south": 66,
+    "north": 70
+   }
   }
  ],
- "newsUpdated": "2026-11-02T13:07:42+08:00",
+ "newsUpdated": "2026-11-02T14:11:35+08:00",
  "news": [
   {
    "source": "CNA",
@@ -511,6 +511,27 @@
    "title": "From haze law to the Asean power grid: what is at stake for the region this week",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVAtQXU4TFB2VU9Nbm1ZQ3Q5dmllQk9YVWlvSTRZOC1SclZmU0IzdVR3YUZ4YU5VODZVNTFyNFZnMHZ3MVd1TUpuLW1sOXZZbUV3bmNhX0FmeG5jeHRVMzg0N2dhU29kUmFNa1RzLWFOeVg0Rzc1Y2RfVjJlaG03ZzUwTFNPaWNJSHZvaUlIRVg1UHRJMklINTdiR1NlVGktV1Q2MnZySVBYSkh1dmRCV1NzSVg?oc=5",
    "time": "2026-11-02T12:53:55+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Singapore braces as Indonesia slaps back at neighbours amid haze, political woes",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWXdQM0swS3JUeW45b1FqZ3hQOHhBT3VVc1hJdnBPMXBwd0VXcGdoYjlyTGI5TTdEY3N0TjhvTnFtT285SFBnMGJvVGYtU2xQd3ZhXzBpOW9ycWNldko0YlNrWDBWajJtYkg4TE1qRmlFc2dWdDhNRVdWV2xQUVFDQ3RUbEh5akI0M2p2Z2NPZTJ4MzktUWZXT3RfWVhha2hIRWFyYjFjUXpGM1NYMktER19ZMWVfRVdaWThUVGJHd3hlQ2swbmJZMkRWYXIxa3ZJb2FZcTZ5dWVTQQ?oc=5",
+   "time": "2026-11-02T12:51:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Malaysian Reserve",
+   "title": "TSH offers to fund independent assessment amid Singapore haze probe",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaGRidGFSRmZUUmQtOTFWYmhxZzdkcjRRcHFhb2d0WGR1SFZjSFJPM29rWnNxTXlZdFpHSHNkNjBIbGI5YVdhN3VxWDlNYmpJd2NkU2todmFiUk5yYVlCSEhnZG01X1J6YUxzU2p1WnFWRkhsb2c3NGozb0dKNkRNcTJnMllBUlhNRTUyTnZvY3ExWlhHWFFfYkZRMUVZdVp6ZWx5NDVuSkNIV0FxdDA1OQ?oc=5",
+   "time": "2026-11-02T12:37:45+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Magzter",
+   "title": "An ASEAN Haze Fund could discourage deforestation | The Straits Times - newspaper",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX09MNFFGSk5QV25fcEdWeWNtWnJ1X1N3bFpoQXVKY29NQzdzVXhSaXVTZVRLN2xDNFF5dnBzVGxENVZpSUpfMFpmV2llcUJMMVp4M3pVSm1jeEhVQVVOSk0tRkJITUJIN09lOENVNU5qcHNBUktKZWMzZEp6Qzh6VDFCZ1VIUDJoTlBsNGRDSzBRX0VScXlYQVR1VF9tTjFrLWprSGFWWG1tQW9oMWc?oc=5",
+   "time": "2026-11-02T11:48:35+08:00",
    "summary": ""
   },
   {
@@ -535,10 +556,10 @@
    "summary": ""
   },
   {
-   "source": "Devdiscourse",
-   "title": "Singapore braces as Indonesia slaps back at neighbours amid haze, political woes",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOFRTRVlENU91eFpWNEV4WDNsalpjVFdkckRzNFR0QXJlMnkzZUZpbjZqWUZtbExnRnBkeUg5UUxUeTR6dThkU0hVUmhhYUl5S3pTX3BUTGE3b2s1Qm94QTgxTXRXWUx0NG9KWU9VTVEwZG1oeDRoNkFzZGszZEl3TGZ0VU54Y1BhZjg3TXM3SjdqdmxIc1NpUkcwMGZGZVhDaU9qeElKM3FIOE5odi1VZlpYbEYzWUE4QVBUVUtsSndrUjNJQTFfeEhNdUtxbmZyNTNjZNIB2gFBVV95cUxPLTlibnBGNUhVX01YN2ppdVRQS1M4a1VEUFlMcHk1RG5SdUpjcHFHeUlEV3ZZR05HNWRnY01iZjY2aUJHSWpfbFJOVUpObzdqM1JacDlTdjZHQ2dvYlhXYndmdVBoVVRUcVp0LXFzSjdSNWNwU09DbHNhQ2dDUnRaQjI4Qm5xZ3V0NTNPTGRqUWlEZ2IySjhKaVpRY0NfREpVSU5GQnNvMXRsUWVkTXBqNDM3SmlhRzctYkhJcHZ0ajJyMHZRTmFaX2M3eG5CUTVETHpBWm9UaGd0dw?oc=5",
-   "time": "2026-11-02T10:18:29+08:00",
+   "source": "The Malaysian Reserve",
+   "title": "TSH Resources volunteers to engage with Singapore NEA’s independent assessors over haze",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT042S0x1aGs0NVEtVWtfNTVCVUEwR2NiRkp0SDQ3LVgtQ0s5TjU0YnVfSm1NZlJlSWRTbTQzR0p4Ql9MczR5c0U3WkhuX3ZFbDBtb2Zuc19iWHRCTE8tTDJKSjV3aUdYVm9GaVlYQnNfY2ZwZDZudm1NVThJeWpYOXczbVdrUEs5MEVudDFjbm9Eb3RxTURtSmt6ZDd6QnR1dFQyVURCdXlVVHFHRkttR2tmZXdjbFFua29qTXBJSUpwUUEtSTRpMWZUYXlKclE?oc=5",
+   "time": "2026-11-02T10:15:56+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "TSH Resources volunteers to engage with Singapore agency's independent assessors over haze",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vQk5ZOUx4eHl2Z0ZaRndiU01ITGV2V3hMUC1YY1FtamstMjZtb2hmLW53MG1PbTdnWXMxN2t5NUIwZS1DaEpPY1RENU1ZX0Jk?oc=5",
    "time": "2026-11-02T09:39:12+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: 24-hr PSI readings in good-to-moderate range islandwide",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd3I3TXZ2cHA2R2Ezc0FyRDkxczZuSE1nMnZBT29rQ3BDYlFnNWxfemJ0NzlNT2E0eVBXOVV3aTFFUWRvZVRkcThTeG11QmFlcTVOOVZMeG13X2tHcUlIdGJMNUE4QnluXzBrekpnazV0SXZaUXkxXzdmR2cxODI1MWotWGNkUQ?oc=5",
-   "time": "2026-11-02T09:16:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: 24-hr PSI readings in the good-to-moderate across the country",
-   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-psi-pm25-nov-2-6511726",
-   "time": "2026-11-02T08:08:14+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kuwait Times",
-   "title": "Runners swap streets for shopping malls as haze chokes Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0tkX0hqMHBwQ3N3LWh0TDhXeEV3TEpsY0xkZ2VhbVE2ckhGbGV5eHZzSGVoczdmckJwMEFic1RpXzF0VVY3alV0cEdiVTM4dXFVc2RLVWNjdy1ySFVZVmdleHJaZVkwZ0NlRTR2UlkycGc0RXZZT0hxOTdTdG1zaWdPRUZPc2hQaUlpMnE2Xy1YMlhKZmg3XzhxOVlJNFBkQVFCclJEVmxibE0xN0lVZjVXc9IBtwFBVV95cUxPUTI2VnVMSDlVOF9Pc2d6YUptYkJEdlZsVElKZUt0MGdNd0d1WDlmam81ZHJPeF85cGRPYXdLQTYtSTdYaHFFSE14a3Zhc1BZcmdGX192eUJvSTN0MU9rOGphdkJCZWJVNVY1eUZodWdJcWNWNUtxQVBMejJzNlQ4bHBRTlBtY1ZXbEhIRXM2TEFKZ0FoZV83Z2hucGloZm5xbk5DNnhjWkdtNmJpbTVHRWJUdVdCN1U?oc=5",
-   "time": "2026-11-02T02:17:47+08:00",
    "summary": ""
   }
  ]
