@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T22:00:00+08:00",
+ "updated": "2026-11-02T23:00:00+08:00",
  "psi": {
   "west": 81,
   "east": 65,
@@ -8,23 +8,13 @@
   "north": 68
  },
  "pm25": {
-  "west": 37,
-  "east": 26,
-  "central": 23,
-  "south": 35,
-  "north": 31
+  "west": 39,
+  "east": 27,
+  "central": 26,
+  "south": 32,
+  "north": 45
  },
  "hist": [
-  {
-   "t": "2026-10-31T23:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 62,
-    "central": 67,
-    "south": 63,
-    "north": 63
-   }
-  },
   {
    "t": "2026-11-01T00:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 66,
     "north": 68
    }
+  },
+  {
+   "t": "2026-11-02T23:00:00+08:00",
+   "psi": {
+    "west": 81,
+    "east": 65,
+    "central": 67,
+    "south": 66,
+    "north": 68
+   }
   }
  ],
- "newsUpdated": "2026-11-02T22:09:46+08:00",
+ "newsUpdated": "2026-11-02T23:25:50+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,45 @@
    "pinned": true
   },
   {
+   "source": "The Globe and Mail",
+   "title": "Kencana Agri Voluntarily Engages Assessors Over Transboundary Haze",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPT09wamcwYVdOWE0ySUlJWVA4bXlKUUtweVAwNUo4YVdWaVNha096V1k4aW5RbFk5ZnJ6QTJFdmE1R1g4R0JjSG9MM2ItbEluOFZWYV8yM0xGZmUxLWYwSGo4YklaNXU0ZXVlM0diR3o3MTlMelVRbWFtMVRtVDBTS2JOZFQ1RWhiMnRqelB1LXFfN0hpeU9WX3Iwb3VpeGtZb25VOVVYbjhlMWlsbkhPQWxETUd2enp4OU1YbU5CcVN1dkF6dDlEWDBUTE1XanZxNmtDTEhMYlJORDNobFlVZA?oc=5",
+   "time": "2026-11-02T22:38:41+08:00",
+   "summary": ""
+  },
+  {
    "source": "FreshPlaza",
    "title": "Prolonged haze threatens fruit and vegetable yields in Malaysia",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN3B5NG5xSXhCYmpGZUY5MUxUWFRvczJZVlJxUVNSZ25hRDU2cXUtMUZpOGJRalBqRGFWeDJUa3N6eFlPakFKX2QwRDZBMFd6RXNnX2l1Z3NCdDRkaklraHlGQ1hyUnVvcFA4MVBmUU5wd0x0VnVBOWdsaUJ6dklsQmJPRU42Q3JZTFpqNWxOaUJGN01kS2tJTXNTMTdvWTF6X1BTV251RkVlUm5idVptWUU0c2NLN3dTWDRwNEJR?oc=5",
    "time": "2026-11-02T21:32:52+08:00",
+   "summary": ""
+  },
+  {
+   "source": "TipRanks",
+   "title": "TSH Subsidiaries Submit Documents to Singapore Haze Regulator",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFdIU0ZQMkx6WTVjVy1CcmlGYVpHakJTTkdMN1E0MGxwbDJ2eTFPUldUNWRRMkxHX2E5YlJhc1AxMjRPSTRmUUt6MnUzOXZ4QkJIME5GYjlUbEtLalM3Q1dKOEVNa1FfekwyNTBVRUV4NUJQM2hDbFRWWXJTR3dwSTNFQTBUYU45cC1jX2hpR25HdW1BV3VSWkpsVjBLLWFfYmZKUWc5WGdnVk8wcGlHdjdWUQ?oc=5",
+   "time": "2026-11-02T21:26:54+08:00",
+   "summary": ""
+  },
+  {
+   "source": "TipRanks",
+   "title": "Wilmar Submits Initial Documents in Singapore Haze Inquiry",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLVcweDV4d3kzbmZHa3dRMHUxWTh4ZWE0X2Rta18yYVU1UUw5bFhEUFZzaVJUS1hHOG8yRVI1TFoyd3pSOGdfMi1kU1ZLQ19Tc0l2VGd4ZVJodTVWWGRtbXloUHluMFcyNHdKQnlnb05oUDNhOEI0SU9taGVYV09rMlNjYjRYXzIwRVdUTGstcFhrelV6dy1UdzItRWdjUnBaNVVYaFpVaElsQnhlakU4?oc=5",
+   "time": "2026-11-02T21:08:12+08:00",
+   "summary": ""
+  },
+  {
+   "source": "TipRanks",
+   "title": "Bumitama Submits Documents to Singapore’s NEA Over Haze Notice",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHRZSy13blFmbFpHRG9mdi0tLWUyb29LRWU0cVZxWDh0UWpad19VajRCNEsyX1RmWHpiV0VOa1lkLTA0T2pxY21oVWVCY0tiM2FQZzlNbnZXOW41M0w1MHcwUGZlTVpJQ3Q3emxCYzZJUWp0RXdFV0M0blRlNHlTaENTQlVld25zeUxTSkt1OHd6MlVfM1NMVWhrM0J3RTd4WFgycjJFNS1RaHQxSTZCU19mZw?oc=5",
+   "time": "2026-11-02T21:08:11+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AMUST",
+   "title": "Southeast Asia’s haze crisis: When environmental destruction becomes a public health emergency",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ1RKZlI4bmhkdDY1RnZTZl9xdzF6ODNUa0kzd0NpTHNVLXFWYk5tbDJRS2VhelVDZDVMb0N0WlZmcWFkd2RFUTdoQ2RiQ1djOTdsa05qbGZYN2dpbEVJbTVkNDJuYXlZeGNlZkdMYzRncUlJcmQxb3VhcDlCZ01PeFhVVUJLMVFpUzRMMUNGOHktbWZQZV9PcFBFNUZ0Wl8zQmVrdkdyUG9nX0xFdnVYMmlaaVlsS2E1eW52ZTJQSkRtU3lf?oc=5",
+   "time": "2026-11-02T20:32:51+08:00",
    "summary": ""
   },
   {
@@ -560,41 +595,6 @@
    "title": "No unhealthy API readings as monsoon winds to cut transboundary haze, improve air quality, says DOE",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ0xMTDZPZkF2OXo4SVZWRVA4ZUYwUDhRR0tGU29PMm9Za0hFSFY1OTBBLXVxa1J0TlpyY2M1Zk1GMEhsdnEwNlNDaTA2Z0x0ZDFxaDcxM0dRdl9yRW5vLTdBNFJaVEZUWUhOVGxzY243VkZ3UFZ1ZXZtaGtJa3ptTXc2cjZ2N0JvM1RsYXlBemNtcVZRQ21pYzFLd1psWElLSkpVeFZtOHFBaDIwSjd1c0lER0xxbU9UUkVyWHJUWTJ4YTFiVExFbFZXY0VjNnk3WFBrNWsxdlgtblRra1BXbkdVS3FQV1Y0TXhr0gHwAUFVX3lxTE8tNjR5VnZPVFZrQU5GZkZieFM0YnhDd1lkWXotVFhwQktwV0RHQ0p5ZDRtMkJYU0pxakFPTkt5b3RZcGZkcFNNT0RQRU5TS0dITWZGUUd1SUVRcl9hcFdaeFlPMm9nZURnNHVVT2dDeG5GZ3NzM2ZZLUFFNThLX3lSTm80SDAwTm5oVEpBTjllRDBvVkVjQjJpeEZnQTFGdHd6cDJFN05KZVpWbENZamNIWmVzdjNwRFJRazhDY054Vy1wbVAtSDNBRjNxbV82TkkwT3gwLTA4WUIwRzl0dER1MVVpVnZrSE91U0NVblJycQ?oc=5",
    "time": "2026-11-02T17:27:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "www.amust.com.au",
-   "title": "Southeast Asia’s haze crisis: When environmental destruction becomes a public health emergency",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ1RKZlI4bmhkdDY1RnZTZl9xdzF6ODNUa0kzd0NpTHNVLXFWYk5tbDJRS2VhelVDZDVMb0N0WlZmcWFkd2RFUTdoQ2RiQ1djOTdsa05qbGZYN2dpbEVJbTVkNDJuYXlZeGNlZkdMYzRncUlJcmQxb3VhcDlCZ01PeFhVVUJLMVFpUzRMMUNGOHktbWZQZV9PcFBFNUZ0Wl8zQmVrdkdyUG9nX0xFdnVYMmlaaVlsS2E1eW52ZTJQSkRtU3lf?oc=5",
-   "time": "2026-11-02T17:02:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "联合日报",
-   "title": "ASEAN Cross-border Haze Law Enforcement Weak, Experts Urge Stronger Legal Restraints",
-   "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNbFdKQWZCN2dhaXhBNDlnVWdQNzEycFV1VWY0RFFCS0E2NVV1bDJOVERrSndRc1hjSU10TGFYUmEtZGxoYWtLZG55andqd1hLaGVDa3RfTDRfcEt4RDA2RWhMbEhhbmV2ZmFSdnBLb29YYjcxdENMVm5GY3lCc2dveWVPYXJ5bXB2SUlhTnVyUXRzSzFQLUNnZVdRc2s1eTE4WWxwcTduaHJrOVJneTZEYUFEYXcwdXkxcjlyMVlPeVBTTkVudkNWbUdwa1hKeC1YTkxRYVF5bUhKLWw2eGtrZWowQW45ZnpRcEZ3WjZNRWFfZFRCSnBKWElfQVZFQWtkM3dQNEJ3c3NRdHlZd1I3Zmw1MFI2WXFfd3Q3NUtsZU9RSjBJWVgwcDhKZVkyOUVuY1Atc3dfTHJIeFFPdDl3cTNmVm5LZ19OT0ozR19rcWgxUXlSTDJyaWNkaXZLZFQxVjhTaVBITk0xdXJn?oc=5",
-   "time": "2026-11-02T16:58:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Singapore haze expected to persist ‘for some time’, could reach hazardous levels: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xLXh3ZDhlM0l2cWlwbW45dm4tZmVVeG9LdDdFVHhtWktsdjBIRE9QV3hzZzZJN0ZJQkh4OVpjY1M0Q04zV2gwdnVRenlzZm54aVpaT29yUnRTblpvZ0E?oc=5",
-   "time": "2026-11-02T16:57:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "news - Mongabay",
-   "title": "Experts warn of long-term health risks as Indonesia’s wildfire haze takes a growing toll",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc3B0ODNSOTNNVVNSSlVtUU42YXp1aGpIbjY2V0ttSkczOXpYRFlscE1aWS13emFDdmFKRm8wR08tcjdfX1dUempEYnhod1FKdmU1b0RrS3RXYTZ5UGlqRG9CbElaQ0FZQUJ0cEFTT204U3l2Rk45MTRNclpXVXBiVmxrbG8wQUUzdEh0U2tlSnFOSGFUSUI4Q1hTRnRvU24xZXduZ21LUHNtMGg3ZGxZalZTZnhTTkE0aXY1dkI2SdIBxAFBVV95cUxNaWdxaWUxQW5yaG5NcGFQX2s2V280STZwS1NjWHVickJEM0JPUFBVSklsQ2NDek1aSHpDZlpXVU5nOWhQbmFjMy1mRHV2TGRidGxLZWpvc08tOU5sblhreEtYUTVOQlNsNWhfbHhSQXh5MzFZUkVXTmRYM1FwQUdSdjBxV0lGVnl5dGl2Z1BiUHNrUTRQa19zdmJXdEhOZlRBWUVqeTRPZzh4TXJQVnhTWE5XaWJzNTBNN2pMZlhaM2g2UnRE?oc=5",
-   "time": "2026-11-02T16:36:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Singapore haze law: Amendments will be made at next Parliament sitting",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mYWNkaDU3aGd6b2tySXJCVFpucXV0TnpPLXRnU2p2RUxqVHI3RVVhNXp4aG1iYktGR2ZObElQTWtvNnhfV1dvOERxeGg3M2VVS1FNU0lPd3lRUDBRX0E?oc=5",
-   "time": "2026-11-02T15:33:29+08:00",
    "summary": ""
   }
  ]
