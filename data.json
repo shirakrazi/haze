@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T08:00:00+08:00",
+ "updated": "2026-11-02T09:00:00+08:00",
  "psi": {
   "west": 84,
   "east": 64,
@@ -8,23 +8,13 @@
   "north": 71
  },
  "pm25": {
-  "west": 44,
+  "west": 36,
   "east": 26,
-  "central": 32,
-  "south": 28,
-  "north": 30
+  "central": 34,
+  "south": 30,
+  "north": 36
  },
  "hist": [
-  {
-   "t": "2026-10-31T09:00:00+08:00",
-   "psi": {
-    "west": 69,
-    "east": 57,
-    "central": 61,
-    "south": 59,
-    "north": 60
-   }
-  },
   {
    "t": "2026-10-31T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 71
    }
+  },
+  {
+   "t": "2026-11-02T09:00:00+08:00",
+   "psi": {
+    "west": 84,
+    "east": 64,
+    "central": 70,
+    "south": 68,
+    "north": 71
+   }
   }
  ],
- "newsUpdated": "2026-11-02T08:08:41+08:00",
+ "newsUpdated": "2026-11-02T09:07:54+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: 24-hr PSI readings in the good-to-moderate across the country",
+   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-psi-pm25-nov-2-6511726",
+   "time": "2026-11-02T08:08:14+08:00",
+   "summary": ""
   },
   {
    "source": "Kuwait Times",
@@ -588,13 +595,6 @@
    "title": "Singapore air quality recovers after early morning pollution spike, but haze threat persists",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNa2VZUldXTXRtOVZoUmg0ek5uTF9IeENoUjgxd1dqZ3c0RkdVMU54VUJURXJGaTR2N0tTLU5LS0drLWhJNFF6Qy1sOTF5dl9JNkRyMUhvVjNtZU5ZWEhraUsycVJhTl9WajBZc3Vfa2xCeE13aEJzLVdRX3JBeF85QVVSTnRHZ3doekRLSUtNMm5ITzBzeThLaXVJZHlYTmU3RGotSm1hN0p0Xzd4NU5SZVNwVHY0ckswR25taUt1YTkweVdENVROR29kNUxXM3E0T1dpWWYxTkNvWFBVc3p1dkJQUVZMdzBFOFHSAeoBQVVfeXFMTWtlWVJXV010bTlWaFJoNHpObkxfSHhDaFI4MXdXamd3NEZHVTFOeFVCVEVyRmk0djdLUy1OS0tHay1oSTRRekMtbDkxeXZfSTZEcjFIb1YzbWVOWVhIa2lLMnFSYU5fVmowWXN1X2tsQnhNd2hCcy1XUV9yQXhfOUFVUk50R2d3aHpES0lLTTJuSE8wc3k4S2l1SWR5WE5lN0RqLUptYTdKdF83eDVOUmVTcFR2NHJLMEdubWlLdWE5MHlXRDVUTkdvZDVMVzNxNE9XaVlmMU5Db1hQVXN6dXZCUFFWTHcwRThR?oc=5",
    "time": "2026-11-01T11:37:24+08:00",
-   "summary": ""
-  },
-  {
-   "source": "KLSE Screener",
-   "title": "After the haze, before the next fire",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDZQUC11eDdMSzlqNzhrTnRhRUNzQzFGSV9iZkVHSW5pYnVPR0N3QWxjZWp2UngtVDhFYVAyTjdNTzE5ZHdQSnZlTmV1ZkRoRWZ0dWpRLUFDZWxiRmNjTWZLQ3pqblgwQk1vNUMwUjZyTU91QW1WTWxxVTFCQUNnbTRkYUVYcnZlckI0ZXdn?oc=5",
-   "time": "2026-11-01T11:34:20+08:00",
    "summary": ""
   }
  ]
