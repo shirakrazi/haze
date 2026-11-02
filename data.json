@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-02T14:00:00+08:00",
+ "updated": "2026-11-02T15:00:00+08:00",
  "psi": {
   "west": 84,
   "east": 63,
   "central": 69,
   "south": 66,
-  "north": 70
+  "north": 69
  },
  "pm25": {
-  "west": 41,
-  "east": 25,
-  "central": 25,
-  "south": 17,
-  "north": 30
+  "west": 35,
+  "east": 24,
+  "central": 22,
+  "south": 14,
+  "north": 10
  },
  "hist": [
-  {
-   "t": "2026-10-31T15:00:00+08:00",
-   "psi": {
-    "west": 74,
-    "east": 58,
-    "central": 64,
-    "south": 57,
-    "north": 61
-   }
-  },
   {
    "t": "2026-10-31T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 66,
     "north": 70
    }
+  },
+  {
+   "t": "2026-11-02T15:00:00+08:00",
+   "psi": {
+    "west": 84,
+    "east": 63,
+    "central": 69,
+    "south": 66,
+    "north": 69
+   }
   }
  ],
- "newsUpdated": "2026-11-02T14:11:35+08:00",
+ "newsUpdated": "2026-11-02T15:15:35+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,17 +507,31 @@
    "pinned": true
   },
   {
+   "source": "The Standard (HK)",
+   "title": "Singapore braces as Indonesia slaps back at neighbours amid haze, political woes",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWWtRSVh5ZW83azhTeU5FZ1EtLXFUVTdzY2RYeWtDbXV5ZDItVUpZd3NUNi1NV2kxVHlwaDdRSzV5SExsTFlEMkRaLUlCT2hpMGVBSFNodDEwU0hwendNVXV3ZE1EbXNROG4wMVBPNGNKSE02NmJBMWlPUFdpQnVXZjR4RXpSQWRGZzBBV01zMkNpMWs4VTJ3amU2V0NVSVRGanYtNmo0ZnNPUFkyMjZrRDJScVJRajRUbjRhYU9oaWhDV0MxRjlWZnJvVQ?oc=5",
+   "time": "2026-11-02T14:24:11+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Parliament to discuss haze, proposed COE changes and public healthcare disruptions",
+   "url": "https://www.channelnewsasia.com/singapore/parliament-haze-coe-changes-public-healthcare-disruption-6512281",
+   "time": "2026-11-02T14:17:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "| Asian Legal Business",
+   "title": "WongP, Dentons Rodyk, TSMP among firms named on haze panel",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE1LSEVDWUNMSUxRT01EcHpvRjcxaVV3Z2htdThUQXRVbUNKczhOUHkzU05ETFBuM0lUSmtJOFBVNzhIanZMOGxpTGpRX2txQVVOVmt6bjFDM2RmcU1rSDlTTW9fUHBGNnF1Z0RBYnNYLVVsb21acHFPd2pjeXV0TGkzaEJZY1Z6ZURxVThoZXZPN29zNU15aXo0ZGw1NlFNYnc?oc=5",
+   "time": "2026-11-02T13:11:47+08:00",
+   "summary": ""
+  },
+  {
    "source": "Eco-Business",
    "title": "From haze law to the Asean power grid: what is at stake for the region this week",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVAtQXU4TFB2VU9Nbm1ZQ3Q5dmllQk9YVWlvSTRZOC1SclZmU0IzdVR3YUZ4YU5VODZVNTFyNFZnMHZ3MVd1TUpuLW1sOXZZbUV3bmNhX0FmeG5jeHRVMzg0N2dhU29kUmFNa1RzLWFOeVg0Rzc1Y2RfVjJlaG03ZzUwTFNPaWNJSHZvaUlIRVg1UHRJMklINTdiR1NlVGktV1Q2MnZySVBYSkh1dmRCV1NzSVg?oc=5",
    "time": "2026-11-02T12:53:55+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Singapore braces as Indonesia slaps back at neighbours amid haze, political woes",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWXdQM0swS3JUeW45b1FqZ3hQOHhBT3VVc1hJdnBPMXBwd0VXcGdoYjlyTGI5TTdEY3N0TjhvTnFtT285SFBnMGJvVGYtU2xQd3ZhXzBpOW9ycWNldko0YlNrWDBWajJtYkg4TE1qRmlFc2dWdDhNRVdWV2xQUVFDQ3RUbEh5akI0M2p2Z2NPZTJ4MzktUWZXT3RfWVhha2hIRWFyYjFjUXpGM1NYMktER19ZMWVfRVdaWThUVGJHd3hlQ2swbmJZMkRWYXIxa3ZJb2FZcTZ5dWVTQQ?oc=5",
-   "time": "2026-11-02T12:51:00+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "TSH Resources seeks independent assessment over Indonesia fires, haze",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem9MTnNXOXRZdjB3LUo2ZkNza09PUUNYejVVdWR4cFoxMl9qMG0yS0pNNl9yZ3NEaE53ejZBbXo1NHNOQTYwX2tPQnJybGFLYnptWU1aWE1HZDkwMWhVSGV2VmdXYlR2SFNySGxWYW81VC1DclhYQ3FNVHMxZ0U1MFBCeUVUT0lFcGlScDFCck9oYU12a2pYbXAtVGR5OW1UMnlVUUV5N1U2dWtTYi00bzNuZEFFZFdnRWc?oc=5",
    "time": "2026-11-02T09:55:19+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "TSH Resources agrees to Singapore haze assessment",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmJNOEZhMGNkY25NVGN6UzRQMzA3XzNBZDc0ejFsR1A0bTJfNkRJaWtjWjJfQnFFNGhneVFwbEt3LTA3Q0NUT2htX1kyREhkWEZna2I2eG5peEp6T0ZRUkZIdHVXTXJQMTMxdE12Y1JSWlQweW1qVERtUXpNNUVQWldLbktUazdhdUYxR0pkc1RVYWdPMHVtTml5OC1FY2FNa2Y4VjZDRdIBrAFBVV95cUxOOEtnWm10VW4xelpVS2pQaWE4cjFkUkJtdzdmZDhic1V0R2QwZlIwZmJoTlIycTFsQTNHMjZiM2o3WVNxVDlkVVFMaGpjTEoxcWlhdmVfdmpJZEF6UEZ4QVlTMDQ4MG55dGFka0gtb3k3MnZHY0RVNDFKVHpXcmJkTklaUkVzVmc4RFlpUTJYREFVYk02UkJxenZxdHgtYVZFeFROMVlKNERJbHlW?oc=5",
-   "time": "2026-11-02T09:45:26+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Malaysia",
-   "title": "TSH Resources volunteers to engage with Singapore agency's independent assessors over haze",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vQk5ZOUx4eHl2Z0ZaRndiU01ITGV2V3hMUC1YY1FtamstMjZtb2hmLW53MG1PbTdnWXMxN2t5NUIwZS1DaEpPY1RENU1ZX0Jk?oc=5",
-   "time": "2026-11-02T09:39:12+08:00",
    "summary": ""
   }
  ]
