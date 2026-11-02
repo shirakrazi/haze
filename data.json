@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-02T10:00:00+08:00",
+ "updated": "2026-11-02T11:00:00+08:00",
  "psi": {
   "west": 84,
   "east": 64,
-  "central": 70,
-  "south": 68,
+  "central": 69,
+  "south": 67,
   "north": 71
  },
  "pm25": {
-  "west": 44,
-  "east": 27,
-  "central": 36,
-  "south": 31,
-  "north": 32
+  "west": 46,
+  "east": 29,
+  "central": 30,
+  "south": 36,
+  "north": 36
  },
  "hist": [
-  {
-   "t": "2026-10-31T11:00:00+08:00",
-   "psi": {
-    "west": 71,
-    "east": 57,
-    "central": 61,
-    "south": 58,
-    "north": 60
-   }
-  },
   {
    "t": "2026-10-31T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 71
    }
+  },
+  {
+   "t": "2026-11-02T11:00:00+08:00",
+   "psi": {
+    "west": 84,
+    "east": 64,
+    "central": 69,
+    "south": 67,
+    "north": 71
+   }
   }
  ],
- "newsUpdated": "2026-11-02T10:45:03+08:00",
+ "newsUpdated": "2026-11-02T11:07:50+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "Singapore’s Air Quality Holds Steady As Regional Haze Remains Subdued",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa09jcXFDSC02eVBWTFpDVHRxYlZZTWM1cnUzUnJGQWRMQUVxNThINWw1elMydnktcC1NRC0wU21wT09XMGlLdHJuYjQyMjNsZEJjbENmbTBCQ1lldU9ISDhyZFVJM0FTV0g2Z2t6ek9fVmJteVFER2h6Z0Rfbms0UVVrUllzUlRxNTUxN2RsSWpFZG5WX203SmZDUkd0dUhsUWxDRmZSR1l1ZWVTZ2pWMWxXTQ?oc=5",
+   "time": "2026-11-02T10:54:21+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze probe: Three more S’pore-registered companies agree to engage assessors",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaXdWMUlybkkwMXhfLUNwcHBPYjg3aHg4TWk0aFF1RnJxbU54X2xjM1B0R1N6dU9yek1VOG9tcTBkMnZTbXBQZkpDME9SaTdtX0g5YnBDNlJsZVJjYmQ3bXpXU0trSjlKOHhlZU41WjZlSWh4c3NJeGFoQmhxRll1ZmlqQUV0eGtOWi1mbUxreUdZUkJsWmF2UUJBT2Zxb2FSRFpzQjFpVXZuNjVsTXAzeDZaTUlDRkQ2anBJUUlmVTNuc1ZmVl9MTmJB?oc=5",
+   "time": "2026-11-02T10:50:00+08:00",
+   "summary": ""
   },
   {
    "source": "Batam News Asia",
@@ -581,20 +595,6 @@
    "title": "All Selangor schools to operate as usual tomorrow amid haze situation",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRG1aU0YwbTB1cTBnRHRtZXNROU9OeHJRU2tPRFF5V2tWUmJabXo4N0JJbDZndXVRU2pqWElpRUE4ZWRnNWNKWEVtWnVLTE9hNGpWbTBuU1U4ak5YaVF5TzE1UHlMbjdSeUJpMks2VVJLTXpoU2FTRi14Ql92S2VtRTltaF90Vmpqb0lGY21qYW9vNzdzMlFTZQ?oc=5",
    "time": "2026-11-01T19:25:31+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Vietnam+ (VietnamPlus)",
-   "title": "Haze causes heavy economic losses for Malaysia",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDJCWHlFMlNoc3N1eVJJb0lXaHVnLTN3bnJCenIzaU5hRFBoZlBTdDlyREdRdG5QMVVXR21TNkVHZ0RkTnNSZjFwZGNza29FOG1HTFg0LVdOMDZRaDg3VEVxTXEyeTVsUk1uZWNVc1BFVWJUaGgzcHd1MWtnZEtLd1lneTlTelNCa25nRnRxRTI?oc=5",
-   "time": "2026-11-01T19:02:26+08:00",
-   "summary": ""
-  },
-  {
-   "source": "联合早报",
-   "title": "[Perspective] From tackling the haze to Anthropic’s IPO: who is awakening the corporate conscience?",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdjZGQjFGa0Q5aXNLLTI2MjJZNUpiV3Z6aXRXUWFGNFF4bzl4dWJZc1hSdGhJU1NyeWtDQWpUVDNRSk9PRWVOZXVmclJMU0VWM0UyY2RDMEdvQmxQcjBTbUtyUzAzenk0WnJlVzFkUUdhaDkzUVJBWUYtRzlHUlRnME1xMUpqZ2V2MXVENEhhMXJqR0RrdkIyeFZoSHZuZjdXOXFkY1F5UWM2WDFwUGxBbEJEUV9tcG9nWm1Gc0tlTFhoQzQ?oc=5",
-   "time": "2026-11-01T18:55:00+08:00",
    "summary": ""
   }
  ]
