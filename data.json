@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T01:00:00+08:00",
+ "updated": "2026-11-03T02:00:00+08:00",
  "psi": {
   "west": 81,
   "east": 65,
@@ -8,23 +8,13 @@
   "north": 69
  },
  "pm25": {
-  "west": 40,
-  "east": 27,
-  "central": 24,
-  "south": 31,
-  "north": 36
+  "west": 46,
+  "east": 22,
+  "central": 30,
+  "south": 30,
+  "north": 37
  },
  "hist": [
-  {
-   "t": "2026-11-01T02:00:00+08:00",
-   "psi": {
-    "west": 80,
-    "east": 64,
-    "central": 69,
-    "south": 66,
-    "north": 65
-   }
-  },
   {
    "t": "2026-11-01T03:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 69
    }
+  },
+  {
+   "t": "2026-11-03T02:00:00+08:00",
+   "psi": {
+    "west": 81,
+    "east": 65,
+    "central": 67,
+    "south": 67,
+    "north": 69
+   }
   }
  ],
- "newsUpdated": "2026-11-03T01:33:34+08:00",
+ "newsUpdated": "2026-11-03T02:20:55+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "title": "Indonesia's smoke haze reignites regional frustrations",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNczFrVC1GY25Eay12ckZHYXdUblc3Y0ltY1NhUmtOZkxTM0x4OEdudXFMOGpJVG9ITGdsaTBhQVVNTWoxSm1LcHVUVmNiUk5peUkwaVpVcXFWWV83a2JJalVFM1lxazJHS2Z6VnZsclJ3cjFLYmRFb2M2cUhvcjJfQ2JmeUpwei1hMHZyNFpQcGdXVUVDVEo0cjMyMXdTQjFEbUFv?oc=5",
+   "time": "2026-11-03T02:02:31+08:00",
+   "summary": ""
   },
   {
    "source": "TipRanks",
@@ -588,13 +595,6 @@
    "title": "Haze Situation Update (2 November 2026)",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2dSbk9jc2hrTnNPVVFULW5iaDgxT0x4SFFGYnJiZGY0NTBOTFZreGpNOUxZb1ZtRjZaWHk5RHpMdjM1R0ZFNDg4TDc5ZFE1Vk9qLWNicUQzMjJpak0xc2xWc0x4LUhlSjhzU0lCc2NmWUVpZEptREkwUS1vZkpKVUhzMkhRYWc3NEtHY3ZBQkxYZw?oc=5",
    "time": "2026-11-02T18:18:50+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "No unhealthy API readings as monsoon winds to cut transboundary haze, improve air quality, says DOE",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ0xMTDZPZkF2OXo4SVZWRVA4ZUYwUDhRR0tGU29PMm9Za0hFSFY1OTBBLXVxa1J0TlpyY2M1Zk1GMEhsdnEwNlNDaTA2Z0x0ZDFxaDcxM0dRdl9yRW5vLTdBNFJaVEZUWUhOVGxzY243VkZ3UFZ1ZXZtaGtJa3ptTXc2cjZ2N0JvM1RsYXlBemNtcVZRQ21pYzFLd1psWElLSkpVeFZtOHFBaDIwSjd1c0lER0xxbU9UUkVyWHJUWTJ4YTFiVExFbFZXY0VjNnk3WFBrNWsxdlgtblRra1BXbkdVS3FQV1Y0TXhr0gHwAUFVX3lxTE8tNjR5VnZPVFZrQU5GZkZieFM0YnhDd1lkWXotVFhwQktwV0RHQ0p5ZDRtMkJYU0pxakFPTkt5b3RZcGZkcFNNT0RQRU5TS0dITWZGUUd1SUVRcl9hcFdaeFlPMm9nZURnNHVVT2dDeG5GZ3NzM2ZZLUFFNThLX3lSTm80SDAwTm5oVEpBTjllRDBvVkVjQjJpeEZnQTFGdHd6cDJFN05KZVpWbENZamNIWmVzdjNwRFJRazhDY054Vy1wbVAtSDNBRjNxbV82TkkwT3gwLTA4WUIwRzl0dER1MVVpVnZrSE91U0NVblJycQ?oc=5",
-   "time": "2026-11-02T17:27:45+08:00",
    "summary": ""
   }
  ]
