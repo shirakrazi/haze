@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-02T16:00:00+08:00",
+ "updated": "2026-11-02T17:00:00+08:00",
  "psi": {
-  "west": 83,
+  "west": 82,
   "east": 63,
-  "central": 69,
+  "central": 68,
   "south": 65,
   "north": 68
  },
  "pm25": {
-  "west": 21,
-  "east": 25,
-  "central": 20,
-  "south": 10,
-  "north": 8
+  "west": 19,
+  "east": 15,
+  "central": 9,
+  "south": 15,
+  "north": 13
  },
  "hist": [
-  {
-   "t": "2026-10-31T17:00:00+08:00",
-   "psi": {
-    "west": 75,
-    "east": 58,
-    "central": 64,
-    "south": 59,
-    "north": 61
-   }
-  },
   {
    "t": "2026-10-31T18:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 65,
     "north": 68
    }
+  },
+  {
+   "t": "2026-11-02T17:00:00+08:00",
+   "psi": {
+    "west": 82,
+    "east": 63,
+    "central": 68,
+    "south": 65,
+    "north": 68
+   }
   }
  ],
- "newsUpdated": "2026-11-02T16:23:28+08:00",
+ "newsUpdated": "2026-11-02T17:08:22+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,31 @@
    "pinned": true
   },
   {
+   "source": "www.amust.com.au",
+   "title": "Southeast Asia’s haze crisis: When environmental destruction becomes a public health emergency",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ1RKZlI4bmhkdDY1RnZTZl9xdzF6ODNUa0kzd0NpTHNVLXFWYk5tbDJRS2VhelVDZDVMb0N0WlZmcWFkd2RFUTdoQ2RiQ1djOTdsa05qbGZYN2dpbEVJbTVkNDJuYXlZeGNlZkdMYzRncUlJcmQxb3VhcDlCZ01PeFhVVUJLMVFpUzRMMUNGOHktbWZQZV9PcFBFNUZ0Wl8zQmVrdkdyUG9nX0xFdnVYMmlaaVlsS2E1eW52ZTJQSkRtU3lf?oc=5",
+   "time": "2026-11-02T17:02:17+08:00",
+   "summary": ""
+  },
+  {
+   "source": "news - Mongabay",
+   "title": "Experts warn of long-term health risks as Indonesia’s wildfire haze takes a growing toll",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc3B0ODNSOTNNVVNSSlVtUU42YXp1aGpIbjY2V0ttSkczOXpYRFlscE1aWS13emFDdmFKRm8wR08tcjdfX1dUempEYnhod1FKdmU1b0RrS3RXYTZ5UGlqRG9CbElaQ0FZQUJ0cEFTT204U3l2Rk45MTRNclpXVXBiVmxrbG8wQUUzdEh0U2tlSnFOSGFUSUI4Q1hTRnRvU24xZXduZ21LUHNtMGg3ZGxZalZTZnhTTkE0aXY1dkI2SdIBxAFBVV95cUxNaWdxaWUxQW5yaG5NcGFQX2s2V280STZwS1NjWHVickJEM0JPUFBVSklsQ2NDek1aSHpDZlpXVU5nOWhQbmFjMy1mRHV2TGRidGxLZWpvc08tOU5sblhreEtYUTVOQlNsNWhfbHhSQXh5MzFZUkVXTmRYM1FwQUdSdjBxV0lGVnl5dGl2Z1BiUHNrUTRQa19zdmJXdEhOZlRBWUVqeTRPZzh4TXJQVnhTWE5XaWJzNTBNN2pMZlhaM2g2UnRE?oc=5",
+   "time": "2026-11-02T16:36:59+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "Parliament to discuss haze law changes, MPs ask about impact on outdoor workers, vulnerable groups",
    "url": "https://www.straitstimes.com/singapore/parliament-to-discuss-haze-law-changes-mps-ask-about-impact-on-outdoor-workers-vulnerable-groups",
    "time": "2026-11-02T15:30:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Haze probe: Three more Singapore-registered companies agree to engage assessors",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWGxjUjdDMGxZUmJKQ2gxSlZKTjd5RWI2WW9jaFZOdUcxdVlXN3BiOE5pdjNTRzZoR3hXR00yUzRnTmJpVXR3M1dHR0tqQkZXYkhyQnNmb3RqZzRDazRRUFUyQkxIVzlXSDRSbnRmanRRLWpFSk1NTlBFb3NlY044MmxVeXB6cXlmR3RtNl85YmdyTGdqOG52NXc1bm93Rlpsb2tIUl9nT1BIZURzTm5rU0hPbGpaYzNSSkJHSDBNNzNzcXJ4dU1OQzdVSmEzaHE3WUFfVmtvbUE?oc=5",
+   "time": "2026-11-02T15:19:00+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "TSH Resources offers to cooperate with Singapore in haze probe",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS2RuLUFLT2hDal9pa3A1bXpBVDdrU29KcllGMVlBbHV1a3RKTHRKbU84eWxhWTZfVkdwcnFQZnZ2Wl9PREZJeEJuUWVJV0tvQlEzY1AyZmh5VzNWLXA2d0NIVTdZUkRMQlpRNGtrTjNMalJCM3k3VllMN3NNVk1CNVNMMWl0bjBBbTR0VF9TeTFZaFdXVW9NLXAyb0ZUZlV4cUstVXZ3?oc=5",
    "time": "2026-11-02T10:25:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Malaysian Reserve",
-   "title": "TSH Resources volunteers to engage with Singapore NEA’s independent assessors over haze",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT042S0x1aGs0NVEtVWtfNTVCVUEwR2NiRkp0SDQ3LVgtQ0s5TjU0YnVfSm1NZlJlSWRTbTQzR0p4Ql9MczR5c0U3WkhuX3ZFbDBtb2Zuc19iWHRCTE8tTDJKSjV3aUdYVm9GaVlYQnNfY2ZwZDZudm1NVThJeWpYOXczbVdrUEs5MEVudDFjbm9Eb3RxTURtSmt6ZDd6QnR1dFQyVURCdXlVVHFHRkttR2tmZXdjbFFua29qTXBJSUpwUUEtSTRpMWZUYXlKclE?oc=5",
-   "time": "2026-11-02T10:15:56+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Batam News Asia",
-   "title": "Singapore Haze Update: PM2.5 Briefly Rises Before Returning to Normal",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbWVLUlV6M0hkU0dhZ1JCYUEwOWRFUk9xNjhoRExvVGZtX3JJLVZKWF9RUVV1Q183WG92eVp3LUhaSEpmdlpIeUNVYk5oTjF6QURXeEZ0MHJlOGpIcDR3eEhrQVZNcHR1ajZ6WjJCSlFkTmRnTGkyS2hUcUU2SW8tTTZuNFNpY1J1WFNQSWxCU0ZoNmpzZ2VQbFZONkpXSFJsdDVUcjZQUnpNZw?oc=5",
-   "time": "2026-11-02T10:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Batam News Asia",
-   "title": "Indonesia-Singapore Relations: Haze and Policy Disputes Fuel Sharper Rhetoric",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnBvc1FNTk5NU1c3aE9EMUMtVWo5UTlfWWFNZ2wtOGVEblZkdF9TM29MS3pQN2I5ZWxxMWtDbmRFRWY5MU11TUFfNmdRRXBXYkxfQVNmMWZWTE9VeUF1TGlEV21sZVJMX0JsaERxOFJEQXFCUU9qWGVaUzJ5RDh3OVdhbHVpWEp3WXAzdXRIdThGRTl6a3pyd3l6Qno1YURxWjFmVndPZ21sVDFKSHRwSDNYM3g?oc=5",
-   "time": "2026-11-02T10:00:00+08:00",
    "summary": ""
   }
  ]
