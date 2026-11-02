@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-02T21:00:00+08:00",
+ "updated": "2026-11-02T22:00:00+08:00",
  "psi": {
   "west": 81,
-  "east": 64,
-  "central": 68,
+  "east": 65,
+  "central": 67,
   "south": 66,
   "north": 68
  },
  "pm25": {
-  "west": 41,
-  "east": 29,
-  "central": 21,
-  "south": 27,
-  "north": 23
+  "west": 37,
+  "east": 26,
+  "central": 23,
+  "south": 35,
+  "north": 31
  },
  "hist": [
-  {
-   "t": "2026-10-31T22:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 61,
-    "central": 66,
-    "south": 62,
-    "north": 63
-   }
-  },
   {
    "t": "2026-10-31T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 66,
     "north": 68
    }
+  },
+  {
+   "t": "2026-11-02T22:00:00+08:00",
+   "psi": {
+    "west": 81,
+    "east": 65,
+    "central": 67,
+    "south": 66,
+    "north": 68
+   }
   }
  ],
- "newsUpdated": "2026-11-02T21:11:24+08:00",
+ "newsUpdated": "2026-11-02T22:09:46+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "FreshPlaza",
+   "title": "Prolonged haze threatens fruit and vegetable yields in Malaysia",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN3B5NG5xSXhCYmpGZUY5MUxUWFRvczJZVlJxUVNSZ25hRDU2cXUtMUZpOGJRalBqRGFWeDJUa3N6eFlPakFKX2QwRDZBMFd6RXNnX2l1Z3NCdDRkaklraHlGQ1hyUnVvcFA4MVBmUU5wd0x0VnVBOWdsaUJ6dklsQmJPRU42Q3JZTFpqNWxOaUJGN01kS2tJTXNTMTdvWTF6X1BTV251RkVlUm5idVptWUU0c2NLN3dTWDRwNEJR?oc=5",
+   "time": "2026-11-02T21:32:52+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne.com",
@@ -588,13 +595,6 @@
    "title": "Singapore haze law: Amendments will be made at next Parliament sitting",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mYWNkaDU3aGd6b2tySXJCVFpucXV0TnpPLXRnU2p2RUxqVHI3RVVhNXp4aG1iYktGR2ZObElQTWtvNnhfV1dvOERxeGg3M2VVS1FNU0lPd3lRUDBRX0E?oc=5",
    "time": "2026-11-02T15:33:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Parliament to discuss haze law changes, MPs ask about impact on outdoor workers, vulnerable groups",
-   "url": "https://www.straitstimes.com/singapore/parliament-to-discuss-haze-law-changes-mps-ask-about-impact-on-outdoor-workers-vulnerable-groups",
-   "time": "2026-11-02T15:30:00+08:00",
    "summary": ""
   }
  ]
