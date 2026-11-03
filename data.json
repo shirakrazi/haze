@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-04T05:00:00+08:00",
+ "updated": "2026-11-04T06:00:00+08:00",
  "psi": {
   "west": 73,
   "east": 61,
-  "central": 69,
+  "central": 68,
   "south": 64,
   "north": 63
  },
  "pm25": {
   "west": 31,
-  "east": 24,
-  "central": 28,
-  "south": 21,
-  "north": 19
+  "east": 28,
+  "central": 27,
+  "south": 26,
+  "north": 11
  },
  "hist": [
-  {
-   "t": "2026-11-02T05:00:00+08:00",
-   "psi": {
-    "west": 86,
-    "east": 65,
-    "central": 70,
-    "south": 70,
-    "north": 72
-   }
-  },
   {
    "t": "2026-11-02T06:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 64,
     "north": 63
    }
+  },
+  {
+   "t": "2026-11-04T06:00:00+08:00",
+   "psi": {
+    "west": 73,
+    "east": 61,
+    "central": 68,
+    "south": 64,
+    "north": 63
+   }
   }
  ],
- "newsUpdated": "2026-11-04T05:07:27+08:00",
+ "newsUpdated": "2026-11-04T06:07:32+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Law.com",
+   "title": "Dentons Rodyk, WongPartnership, TSMP and Toby Landau KC Named to Singapore Haze Probe",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd1RiWk1DNmd1TEJyUXhISFRxOGMwZjlFLUgtUGIzUzNfSkc1VjAzV0RpRGZOZURZbHJyRjNwTmFQWW92c1dWem9YWXFNRE53ZmJYNTlIX0pHT1c3bmg0eTM2clZXVU1JbFNncEllaUZmdGJMWW02ZGM1LTc2TkFaa0l6cHI4cTBjZThVSVdKNVdLdk5sX1laU0w2UzFfSW9hZEFISENfaDRsSjM1OE1tRDVIdUhQRUhtbU5LMGdaUTVySnpQQk16c3YzLTBveWNiblI0?oc=5",
+   "time": "2026-11-04T05:27:19+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Singapore Business Review",
+   "title": "Golden Agri International submits initial response to NEA haze information notice",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSWlXOUUtN2VSMXRTdHlOY0pHSi1POE9iUGc3QlZFaWpubENwVHNyRkw0NUtFcnBGOXdNOWpJUlcweHI0bTdrQzBXRldUMW9MYXBBNmxzSlowczJZbjhlQXoxTW5KMG5PcjJHTkhBbTBZVFNUQVB4ajZGcHV5TENwZ0RjRzdMQUFaWmxuVm1CRUpxNTBaRUctU2kwOUVqaDZqSWV5UA?oc=5",
+   "time": "2026-11-04T05:00:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Business Standard",
@@ -563,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "NST Online",
+   "title": "After the haze, before the next fire",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdDk2RmhTSVA2MGtPLVFSRVp0czBzMFJBeTlwZkZVUE16SFdycTNoQXB4UzdRT0RJSVprS3VCUEdOdEx0Z0ltMzMxVzFIX2dHbl8wYmxQVTB3bGZrUWpvcV84ZU9Jd0lIcG5uVDVQV0h1OHBSd21vUVRrYzBmNnpUVkp30gGHAUFVX3lxTFAyRUVHRnlRZXRvRkluNHhkVTV0Y25MNXBNRWpaSHh6VDNVT2hFVmxrSXU0NWFUeU51Y1JoRmpzaEVLVFJJcXpHeVpwbWR4YXg2UGFWNExMVnpGaUtPaFVuVVdtdXBCMncyb29iRUZXSWdCeGpuaUZDX2ZKOHhsODFialhuUW54OA?oc=5",
+   "time": "2026-11-03T19:49:54+08:00",
+   "summary": ""
+  },
+  {
    "source": "ИФЗ РАН",
    "title": "Why Southeast Asia Is Boiling Over From Jakarta Haze To Kual",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXF4MDgzMGY5OFc4TDd1MUZJR3FZZkQ3UzNjY1VTMnk1QUJIQ0Q5bG9FQnBSQTFmMFNmTm4ya3kwMlVudVNFazFFbWNwRlhFNTB6LWw4T184R3JTNjVvNFpvRmlwMnhna2JhRzZ1Mk5ycENlVHZJTDFkbXV5NlRScTZmZjRXV1N3dkVRcUdPMkRQb25TUzBj?oc=5",
@@ -574,27 +595,6 @@
    "title": "S'pore to help establish regional haze control centre in Indonesia as 2027 Asean chair",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzT28yV3VDR2wtemhtcXdseU5Vd2YtUzEyMUFCNXFmNGh3bFBwVUVEYnBtVUpITEZuQkhvR3BiRnJoTTMxYUdCZkpNQ0ZPa3p2SzFJRThyaTJITXlleXd5d25ZN2l5TElHTG9qdmpQb1VnQQ?oc=5",
    "time": "2026-11-03T19:32:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "24-hour N95 haze mask vending machines to be rolled out for eligible S'poreans if PSI reading crosses 200",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOG8zSjh3Vnh0TWhMYm9Cb0NkNS1sY1NvUFNPdWpxV0NfR2l4elhQZUtwZGFlTU56WU0ybTVPeWhHeFJ4T052bzBCdkEtcE9BVC1BY3hPWlBNcHRDMV94VXFCekVCSGZHMUpUYnVNTEcydmFWQUc2VTk1NG02cFNWTG1ucw?oc=5",
-   "time": "2026-11-03T19:15:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Malaysia",
-   "title": "Opinion: The haze returns. So where are the independent directors?",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EeGZ5a0xJT2hiYlVlWmdvWS1jdnpaMHRiWFlxNTlaZXo2azRMS2JyZGRSbTdaRFh4WUFHN3Y0TU5mU012M0VIUzZTd1lMZmFX?oc=5",
-   "time": "2026-11-03T19:04:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NewsBytes",
-   "title": "Haze from Indonesian wildfires causing health problems, diplomatic tensions",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZVZ0WW4ySGx4eV91R0xnYWRWSC1wLWJzT3RTMlA0VTlXaFcwVVotMExWc0pMek5LaUVIeVprQTQyc1BEdXRxRm4xRC1qYzZORFFRU1UtT3hIVnVtM05mT1NKNlR2eGNuS3pyQk84bFNNRVlwZDRMakViendsS3hGRHpvSU4zSEluaVdsdVM4U1A?oc=5",
-   "time": "2026-11-03T18:43:39+08:00",
    "summary": ""
   }
  ]
