@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-03T20:00:00+08:00",
+ "updated": "2026-11-03T21:00:00+08:00",
  "psi": {
   "west": 80,
-  "east": 63,
+  "east": 62,
   "central": 69,
   "south": 67,
-  "north": 69
+  "north": 68
  },
  "pm25": {
-  "west": 22,
-  "east": 18,
-  "central": 27,
-  "south": 20,
-  "north": 9
+  "west": 31,
+  "east": 15,
+  "central": 21,
+  "south": 19,
+  "north": 8
  },
  "hist": [
-  {
-   "t": "2026-11-01T21:00:00+08:00",
-   "psi": {
-    "west": 88,
-    "east": 69,
-    "central": 72,
-    "south": 72,
-    "north": 72
-   }
-  },
   {
    "t": "2026-11-01T22:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 69
    }
+  },
+  {
+   "t": "2026-11-03T21:00:00+08:00",
+   "psi": {
+    "west": 80,
+    "east": 62,
+    "central": 69,
+    "south": 67,
+    "north": 68
+   }
   }
  ],
- "newsUpdated": "2026-11-03T20:11:43+08:00",
+ "newsUpdated": "2026-11-03T21:10:06+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "At least 20% more visits to hospitals and polyclinics from start of haze in Sept to mid-October",
+   "url": "https://www.straitstimes.com/singapore/politics/at-least-20-more-visits-to-hospitals-and-polyclinics-from-start-of-haze-in-sept-to-mid-october",
+   "time": "2026-11-03T20:56:42+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -588,13 +595,6 @@
    "title": "Twelve cloud seeding operations conducted during transboundary haze episode",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xSlJJWEhNc05ZZlN6UHVzNXgwUEo4OFZ4V0ZFWFA4c0xSVk1jUXdmcGg2RFlnaE11V2phX0d4c3NEZVRjMUNZdW9WOFFFcTBz?oc=5",
    "time": "2026-11-03T15:05:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "KWSN",
-   "title": "Singapore will push for stronger action against transboundary haze as ASEAN chair in 2027, says minister",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdDZsX2pRU3IzNTlDZXI0RGxwblRrSk9jTGJucTFmd1MyQlNqTDhBRXdNTkE2M0cwX190aC1Ya0VsdUZCdzZyUlBFeGNYbGE5eG9Xb1FqRU1Xd25kYlhGcGw4T1RDZGkxb1ZDRzBZbjUtcUVBMmQ3LTJXc1Z2QmRIRmxYQUlmRzE2X1ZmWWRab3BBb192eF9KYWJLbnoxOTU4YnMzcTRlR3dMcERtX2lTcUZvbnRFVUVZTVowalZJTlJQVW1NUERKVjNXZjI?oc=5",
-   "time": "2026-11-03T14:44:07+08:00",
    "summary": ""
   }
  ]
