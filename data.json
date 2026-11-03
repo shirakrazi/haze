@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-03T13:00:00+08:00",
+ "updated": "2026-11-03T14:00:00+08:00",
  "psi": {
-  "west": 80,
+  "west": 79,
   "east": 64,
   "central": 67,
   "south": 67,
   "north": 68
  },
  "pm25": {
-  "west": 26,
-  "east": 19,
-  "central": 17,
-  "south": 23,
-  "north": 19
+  "west": 28,
+  "east": 18,
+  "central": 25,
+  "south": 20,
+  "north": 24
  },
  "hist": [
-  {
-   "t": "2026-11-01T14:00:00+08:00",
-   "psi": {
-    "west": 89,
-    "east": 70,
-    "central": 75,
-    "south": 75,
-    "north": 72
-   }
-  },
   {
    "t": "2026-11-01T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 68
    }
+  },
+  {
+   "t": "2026-11-03T14:00:00+08:00",
+   "psi": {
+    "west": 79,
+    "east": 64,
+    "central": 67,
+    "south": 67,
+    "north": 68
+   }
   }
  ],
- "newsUpdated": "2026-11-03T13:07:07+08:00",
+ "newsUpdated": "2026-11-03T14:07:05+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "KONTAN",
+   "title": "Singapore Will Push For Stronger Action Against Transboundary Haze as ASEAN Chair",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaXJCbllDX1QtNkZhV3VHcDFlNFpwR0YwZkYxa2hzTGVCcFRmUkN4M3YwQnJ5OWRFWEMtNVFERjNtRnQ4M2R3cVY1X2l6M1g1WlBpN3hpQzNYWmpjQVowVFRtMlVBZnpsR0hvUGxWUjhCTEgxdmNjaFVoazUwTlZGM2E4NGdSY2tHZHptcUhuUk83UUVObG5JM0FrUWxQa1d6ZEhSWTR6MkQ2RzJjYUczRzdhb2dsdw?oc=5",
+   "time": "2026-11-03T13:57:25+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Employers should bear cost of haze-related work suspensions, not employees: Dinesh Vasu Dash",
+   "url": "https://www.straitstimes.com/singapore/politics/employers-should-bear-cost-of-haze-related-work-suspensions-not-employees-dinesh-vasu-dash",
+   "time": "2026-11-03T13:45:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Too many air quality indicators may complicate public messaging for haze: Grace Fu",
+   "url": "https://www.straitstimes.com/singapore/politics/too-many-air-quality-indicators-may-complicate-public-messaging-for-haze-grace-fu",
+   "time": "2026-11-03T13:23:24+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Business Times",
+   "title": "Singapore to ratify Asean haze coordination centre agreement ‘in the next few days’: Grace Fu",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeU13QkYydWFNM1Y3ME9VZDVuZ2Ria0hhYjJmYnBzQ3NPdzdKVXdmUS1ITXotclJNZTNocGRUWUhfS0tBR0o5SS0tekowRnBLdUxOSzI4QUY0WjViVm90N19DaWFHaG1vWjhLZjh4Nzlsdmp0V0ZYcmwwdUh5SlFlcHpGR3A3RGFUd2FtcXpZNno0aVJJTDVwWlNKaWZBSFJORC05NmZoNjNfd19TMlZENjlEdmRlUDJvSHR5dEJNNU1WdGNtSWpBVnhTcG5TWGRfZE0teg?oc=5",
+   "time": "2026-11-03T13:18:00+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -521,24 +549,10 @@
    "summary": ""
   },
   {
-   "source": "The Straits Times",
-   "title": "Live: Singapore’s haze response on the agenda in Parliament",
-   "url": "https://www.straitstimes.com/singapore/politics/live-singapores-haze-response-on-the-agenda-in-parliament",
-   "time": "2026-11-03T11:23:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "Bhaskar English",
    "title": "Indonesia's forest fires trigger diplomatic tensions with Malaysia, Singapore: Toxic haze forces school clo...",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUU9WeVRXZk1IWUo0VFdMZC0yNHVSbGg0YnFURG9OZHpNWmNsZUVlbGdtYzV1T2JSNUdQRVJqaTFneWdJODZra1Q1OUxheEdmdFphT1BadW1yT2pwSjdwNlllNkhuTlBRM0hHc2pxMVBKLUNLV0RnX0h3NTBrOThFR3BuVFZBdDdsUDNTd3kxWE5BTkJpVWwwREpjNlRxWjlPYTRvZURzc2VjTTRSSU5FSVVOYzlQYkRLbVYxbUx2V2YxQXRrRW5UOGhkY9IB0AFBVV95cUxPaUhwVU8zcXM4WDFwOGcwdHpjV25RclE0V1NYUV9BRmtPYkN5ems0TW1vSUtjSV9EbHZvRU1lUlA5U3N6UEdWZmRvSzJPc21wU19TNzQ1VGdILThwNDliUUJBUXRIUWJkYkZFd2RfeWNMcXFLR3VxMTRkeU8yeWtaSjlZNlpFdVVHa2ZPelpZc1FBblpKajkzbS1qbWRGcmZ3NHZhUVhndlp0dUo4VEI0eGFyRXAzQUlHRmNoemFXbThaaDkzSVJmR2tBUU1PbGVG?oc=5",
    "time": "2026-11-03T11:15:08+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Why Singapore can’t afford a hazy October each year",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLUJPMllvWi1OS0RmRHREWFhrVS01ZjNUUHJUdmhUYWtHM3VXVVUxT21xTzQ5bVMxWGlFRFJvNzJzQ25XcVl4SFFZd0w4SnNIMHF5TWhpWGxRMEt0SURIOWlQMVV2VEN4Q1ctUzhVZE9lNndoRVBHQVJjMnVrbGZvMFg0elRMWVppMWpDdi1fR2w?oc=5",
-   "time": "2026-11-03T11:00:00+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Parliament to discuss haze, proposed COE changes and scam penalties, Singapore News",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZVp4QkU1b3U0UDVKSnR1QjUtMmNEWjdOSjJpR1hZYlNXZTUtNW5iczdUZlFMaXJwOV9XMjdvQ01PTDRQOG01WmNaUHNVUGpRbzJ0QXRlc2c1U2psbGg5NHFyYUozMHBBcUxZMGtaTDJYUHBqY09zR1BDTHAtN1U1VEU2TjR2dlZWR1UtSmxmd2R4NEdaQUpobFNjYnZpNnYweWoyUmtuNHpHaE80dzZSRWFndFJNMmwzM1ZibUJ1X3pwTmJpZEh5Z2JxY2ptVzhwUHNkb1dFUEg5aExLaXJNTWZLNTF1X2M?oc=5",
    "time": "2026-11-03T09:30:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Govt explores special fund for haze-related environmental recovery",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0kzdkZpd3AtUVZVLUt1azN2VjlKekZfMGRtQ1R5THoyTHBDa3lWVkhNalBrbWM1eUdZellMVXY1UzBHMXdEZXpWM1Rva2lGcW1Mc0dHZ21QQjd4dzIxdGpSN09SZ0w5N3JRNHdRZjFZdU8xYkNIRnl1TExYdGE0cW9aeEhubU45WjI4OEJLakx4WGRPcm5aNTNfNnRFOXVWLTdveE50ZExyR3RtU0FZOVZueUJ3TmFy0gG4AUFVX3lxTE0zSTN2Rml3cC1RVlUtS3VrM3ZWOUp6Rl8wZG1DVHlMejJMcENreVZWSE1qUGttYzV5R1l6WUxVdjVTMEcxd0RlelYzVG9raUZxbUxzR0dnbVBCN3h3MjF0alI3T1JnTDk3clE0d1FmMVl1TzFiQ0hGeXVMTFh0YTRxb1p4SG5tTjlaMjg4QktqTHhYZE9yblo1M182dEU5dVYtN294TnRkTHJHdG1TQVk5Vm55QndOYXI?oc=5",
-   "time": "2026-11-03T08:42:57+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore haze: Hourly PM2.5 readings remain in normal range islandwide",
-   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-psi-pm25-nov-3-6514651",
-   "time": "2026-11-03T08:34:37+08:00",
    "summary": ""
   }
  ]
