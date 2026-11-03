@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-03T15:00:00+08:00",
+ "updated": "2026-11-03T16:00:00+08:00",
  "psi": {
   "west": 79,
   "east": 63,
   "central": 67,
   "south": 68,
-  "north": 68
+  "north": 69
  },
  "pm25": {
-  "west": 33,
-  "east": 14,
-  "central": 25,
-  "south": 21,
-  "north": 21
+  "west": 35,
+  "east": 15,
+  "central": 28,
+  "south": 13,
+  "north": 26
  },
  "hist": [
-  {
-   "t": "2026-11-01T16:00:00+08:00",
-   "psi": {
-    "west": 88,
-    "east": 70,
-    "central": 74,
-    "south": 75,
-    "north": 72
-   }
-  },
   {
    "t": "2026-11-01T17:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 68
    }
+  },
+  {
+   "t": "2026-11-03T16:00:00+08:00",
+   "psi": {
+    "west": 79,
+    "east": 63,
+    "central": 67,
+    "south": 68,
+    "north": 69
+   }
   }
  ],
- "newsUpdated": "2026-11-03T15:08:15+08:00",
+ "newsUpdated": "2026-11-03T16:08:38+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,6 +507,27 @@
    "pinned": true
   },
   {
+   "source": "The Straits Times",
+   "title": "Over 9 in 10 pre-schools have air-con, but air purifiers needed during haze: Goh Pei Ming",
+   "url": "https://www.straitstimes.com/singapore/politics/over-9-in-10-pre-schools-have-air-con-but-air-purifiers-needed-during-haze-goh-pei-ming",
+   "time": "2026-11-03T15:50:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "How Singapore Plans to Tackle Transboundary Haze as 2027 ASEAN Chair",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZm00cmd3WV8tN0pockNEYnF4S2ZlYjZSeVV4a0V1ZmloQWJ6cVlrOC1zOVJ0Q202RDhNOE1fOTlfcF85VVp3aUgtNGg1cVJ3LWVxbVNOWUs2eExsaHg4ZmJ5U3VHWjIyZTIyYUNmdFVHTjJZZjdtTTdCTDFXMHhJeWktWDlxaG1fcXN2blFnYnRLejZpcWhiN1A2YjJ5dGhTQ1Rr?oc=5",
+   "time": "2026-11-03T15:24:38+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Twelve cloud seeding operations conducted during transboundary haze episode",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xSlJJWEhNc05ZZlN6UHVzNXgwUEo4OFZ4V0ZFWFA4c0xSVk1jUXdmcGg2RFlnaE11V2phX0d4c3NEZVRjMUNZdW9WOFFFcTBz?oc=5",
+   "time": "2026-11-03T15:05:48+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Business Times",
    "title": "Singapore’s food supply unaffected by haze; no additional financial support planned for hawkers: Grace Fu",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTXlsbVRqUm84a280dmFDeHBZR29QYkdPdHlYOHdvcy1rbElVQXprVHE0aDRRT3liUkQtUk8yNkJlOWZoVE1ZZ253bGNXT202ZDA1dURZZG8xTUtZWlZIbzkzQkJmcFZUaVlabVhyakVLVlZ6RE10NjItQllUdUJfUHI4dzJFQmZ1ejNLTmFZaF9ZUnpaTW9hMUY4WEx1ZXZ6VXpld1ZrMHVZd1hvdHFHRXgyaU1jd3BJMHhFTWpXajVVd202NER5LXlNZlViNVRTanhQZFhvbHA5NGc4b09aQ0JreGJPS3p1?oc=5",
@@ -514,10 +535,31 @@
    "summary": ""
   },
   {
+   "source": "Singapore Business Review",
+   "title": "Wilmar discloses sales to six of 10 haze-notice firms",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0ydldaalFLMl9XcjhIQ0RpdVlXLTRaazdPZmI2U183aUdhMElRN2Zlei12Tmo4MDFxd3I5MUpYWjJjd0ZWS3c1cEduaEpCbVpwek5nSkVsQjhkYVV6N01lODFIRTllUFFKTHhFakhnQlg4aFZIYWl4dmxRNA?oc=5",
+   "time": "2026-11-03T14:30:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "Traders Union",
    "title": "Malaysia's Haze Increases Economic Losses, Weighs on Tourism and Daily Wage Workers",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZnRsbm1lZW9yM3Z4ZFc2bG1DZXl0MWd6NGlXUVctZlVUTEMzSDlheTdnMkg3QjNTbVV1UGhSLVhlVW5qLVJJY2ViZVdFOVdxZjZYYWQyRXZfTmhTNWZ5aHc4N0RhQVBsYTg5LThJb21heFk0VlRMSngwRHA4WTBSWTVYeFhpemJacGp4SnNHSG5HQU1sU3ZmQmg1X016dldITXM4bA?oc=5",
    "time": "2026-11-03T14:10:32+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Singapore eyes regional haze control centre in Indonesia as Asean chair",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGdoYkRDOUtXaHNJTUZ6TlhvRldwQWF2M0ppVEpJTGd2Z2U4M0RmZE9QZzlXdU9OVF9ZNzVvNmd1bjNKeEpGeG5TTjJ5dWtRTkFTbEdLR1JaMkI5SjNnMEh5LXVhNjRVTVNyYjRwOThDRzR4dHhlM0dITG9KR0g5dWtqZUgxaTJSbkxER3paWFN1T3pieXl1WEVybjVOUS1JbDhpWXVYU29OcGpQZmR6Qk1DUERjTWVvYWtUV21wNlVFVGFSZnfSAcYBQVVfeXFMUElZWlZNS0k0a0VZVnAyRTIycWxoOUdSbW1McnBOa0kwdWk1VUR2NmhKTXNhZ3BaTGdZeXY5Qm4tc3FrN0NEdGlxSmFYeGsycXFydlpIbmQ2dDRMVzJNbkxNSWNNdzNzcHcyMUszR2RXdU5wTmp3WEdXV3pWWHFoUWUyQTZERzZiX1RTWkFzRUtHS0JTSmUwbWh3OWF4Q2xscjQtNk03ZEhvTlpjQWt0WlMtZWdoaGVxRnNUc2NkZmxndW80clJ3?oc=5",
+   "time": "2026-11-03T14:08:29+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Grace Fu on whether haze has impacted Singapore’s food supply",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUNVelM1RlowbXFnS0pDRzJ3U3ZxNW9BZnFydmNrb2lWZWRzOUNKYjBZcGVtVkVsQjd0YjdwT3JPSU9jbWJYcnVpbXFHWXpwbUhMN2RzQjh2MTkzdFpjRVR0VjBKVmlNT3VZYUtnUFZqVmhXN0xuSjdzZngtamI1MDdoc0NnemlPVmVkWENYNWg4NmpWTlF1VWtpQ3E2VXk3VVhYU1Fn?oc=5",
+   "time": "2026-11-03T14:08:28+08:00",
    "summary": ""
   },
   {
@@ -553,48 +595,6 @@
    "title": "Singapore to ratify Asean haze coordination centre agreement ‘in the next few days’: Grace Fu",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeU13QkYydWFNM1Y3ME9VZDVuZ2Ria0hhYjJmYnBzQ3NPdzdKVXdmUS1ITXotclJNZTNocGRUWUhfS0tBR0o5SS0tekowRnBLdUxOSzI4QUY0WjViVm90N19DaWFHaG1vWjhLZjh4Nzlsdmp0V0ZYcmwwdUh5SlFlcHpGR3A3RGFUd2FtcXpZNno0aVJJTDVwWlNKaWZBSFJORC05NmZoNjNfd19TMlZENjlEdmRlUDJvSHR5dEJNNU1WdGNtSWpBVnhTcG5TWGRfZE0teg?oc=5",
    "time": "2026-11-03T13:18:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Grace Fu on whether haze has impacted Singapore’s food supply",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUNVelM1RlowbXFnS0pDRzJ3U3ZxNW9BZnFydmNrb2lWZWRzOUNKYjBZcGVtVkVsQjd0YjdwT3JPSU9jbWJYcnVpbXFHWXpwbUhMN2RzQjh2MTkzdFpjRVR0VjBKVmlNT3VZYUtnUFZqVmhXN0xuSjdzZngtamI1MDdoc0NnemlPVmVkWENYNWg4NmpWTlF1VWtpQ3E2VXk3VVhYU1Fn?oc=5",
-   "time": "2026-11-03T13:11:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Singapore haze law: Amendments will be made at next Parliament sitting",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mYWNkaDU3aGd6b2tySXJCVFpucXV0TnpPLXRnU2p2RUxqVHI3RVVhNXp4aG1iYktGR2ZObElQTWtvNnhfV1dvOERxeGg3M2VVS1FNU0lPd3lRUDBRX0E?oc=5",
-   "time": "2026-11-03T13:07:13+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bhaskar English",
-   "title": "Indonesia's forest fires trigger diplomatic tensions with Malaysia, Singapore: Toxic haze forces school clo...",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUU9WeVRXZk1IWUo0VFdMZC0yNHVSbGg0YnFURG9OZHpNWmNsZUVlbGdtYzV1T2JSNUdQRVJqaTFneWdJODZra1Q1OUxheEdmdFphT1BadW1yT2pwSjdwNlllNkhuTlBRM0hHc2pxMVBKLUNLV0RnX0h3NTBrOThFR3BuVFZBdDdsUDNTd3kxWE5BTkJpVWwwREpjNlRxWjlPYTRvZURzc2VjTTRSSU5FSVVOYzlQYkRLbVYxbUx2V2YxQXRrRW5UOGhkY9IB0AFBVV95cUxPaUhwVU8zcXM4WDFwOGcwdHpjV25RclE0V1NYUV9BRmtPYkN5ems0TW1vSUtjSV9EbHZvRU1lUlA5U3N6UEdWZmRvSzJPc21wU19TNzQ1VGdILThwNDliUUJBUXRIUWJkYkZFd2RfeWNMcXFLR3VxMTRkeU8yeWtaSjlZNlpFdVVHa2ZPelpZc1FBblpKajkzbS1qbWRGcmZ3NHZhUVhndlp0dUo4VEI0eGFyRXAzQUlHRmNoemFXbThaaDkzSVJmR2tBUU1PbGVG?oc=5",
-   "time": "2026-11-03T11:15:08+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Govt ready to study special environmental recovery fund for post-haze rehabilitation",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM2lOWWg4Vmtna0pTRmV4aExIT1lpR1FRRThrZy16WmVndkx6M09nM3dYb3otckZveVpaZXdmdFJtTkl4eDlvNU5VM2xpNzduRkY0RHJ2aVVYVTg2QmpLQ3JiMUg3Vk5aQjVubHZxZkxyUU1Cd1Z6VVd2clNYSzcxNWktdGhSWXA3c01zN3NETklFbXlvV1BhMTB5bmhqS001VGd6TjV0NW5lQ19hWVVabU90ZTI5bnBpWE9CdTRhOVViNVVCWko4bkZCSG1rN3c?oc=5",
-   "time": "2026-11-03T10:45:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Newswav",
-   "title": "Is the haze back? Klang residents raise concerns over hazy skies",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS3lWaWswdU0zNDB3YkpZM2I1OXdOQXljRFNpWFZkb2JyMkh1RF9rRExMdjdveUZaSzFsSjlTYWRTajFIaDJydkNoZjBzYUM1endEeElLYVV2X2JiWkxsbjVTay04TVAxSG1JdHloX2szYXpsal9qVUVmSUtJMm15NjNzTTNySVNjVE1EblBvWDcwYkdVSEpCSmlzc1V4ei1wSjZYVUlpQQ?oc=5",
-   "time": "2026-11-03T10:32:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Batam News Asia",
-   "title": "Indonesia Haze Crisis: Wildfire Smoke Linked to 3,560 Deaths in Just One Month",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObU5BdWVvcXc0WkdzYmZlU2QzTE5WcVpXUFVMMUpFNlRfdEJTUGcxQ3BvbFFHRmxmbHl6WXJzb3k2RHZjX0VwUGNKRldEVy1EcFVvaGpBSmRWN2RDRFFEakpMZ0xDblJMRkNLd3dmaEQ0QVhPTVFHWWRudm9XVkhQX1dHVWUwNkhhSVg1dWpMZ25IU0RvWHBqYkdTYk9qNmpBTFctWFFObmdHYk9wa01YbWpIWEI?oc=5",
-   "time": "2026-11-03T10:00:00+08:00",
    "summary": ""
   }
  ]
