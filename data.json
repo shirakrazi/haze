@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-03T09:00:00+08:00",
+ "updated": "2026-11-03T10:00:00+08:00",
  "psi": {
   "west": 81,
-  "east": 66,
+  "east": 65,
   "central": 68,
   "south": 68,
   "north": 69
  },
  "pm25": {
-  "west": 34,
-  "east": 32,
-  "central": 39,
-  "south": 34,
-  "north": 31
+  "west": 42,
+  "east": 20,
+  "central": 31,
+  "south": 28,
+  "north": 32
  },
  "hist": [
-  {
-   "t": "2026-11-01T10:00:00+08:00",
-   "psi": {
-    "west": 87,
-    "east": 69,
-    "central": 74,
-    "south": 73,
-    "north": 70
-   }
-  },
   {
    "t": "2026-11-01T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 69
    }
+  },
+  {
+   "t": "2026-11-03T10:00:00+08:00",
+   "psi": {
+    "west": 81,
+    "east": 65,
+    "central": 68,
+    "south": 68,
+    "north": 69
+   }
   }
  ],
- "newsUpdated": "2026-11-03T10:00:21+08:00",
+ "newsUpdated": "2026-11-03T10:06:45+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Batam News Asia",
+   "title": "Indonesia Haze Crisis: Wildfire Smoke Linked to 3,560 Deaths in Just One Month",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObU5BdWVvcXc0WkdzYmZlU2QzTE5WcVpXUFVMMUpFNlRfdEJTUGcxQ3BvbFFHRmxmbHl6WXJzb3k2RHZjX0VwUGNKRldEVy1EcFVvaGpBSmRWN2RDRFFEakpMZ0xDblJMRkNLd3dmaEQ0QVhPTVFHWWRudm9XVkhQX1dHVWUwNkhhSVg1dWpMZ25IU0RvWHBqYkdTYk9qNmpBTFctWFFObmdHYk9wa01YbWpIWEI?oc=5",
+   "time": "2026-11-03T10:00:00+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne.com",
@@ -518,6 +525,13 @@
    "title": "Singapore MPs to seek answers on haze, car ownership system overhaul and healthcare disruption",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHRCUUp1dE1LbnZNV0ZQTXF2aVBYbVpfbW1xb0gyNXdiWlhzUUhOR3NWRndVTENNN3lPdEl3UU9OMUdUYVZQcjY2UldmczlkV0l3NWJCbTg3TXYzdDRuekMxajUxc0lXVy1xVzE3dUdFS1E3WmZnS2swQWJ0MnJMZzBweXI?oc=5",
    "time": "2026-11-03T09:17:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Govt explores special fund for haze-related environmental recovery",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0kzdkZpd3AtUVZVLUt1azN2VjlKekZfMGRtQ1R5THoyTHBDa3lWVkhNalBrbWM1eUdZellMVXY1UzBHMXdEZXpWM1Rva2lGcW1Mc0dHZ21QQjd4dzIxdGpSN09SZ0w5N3JRNHdRZjFZdU8xYkNIRnl1TExYdGE0cW9aeEhubU45WjI4OEJLakx4WGRPcm5aNTNfNnRFOXVWLTdveE50ZExyR3RtU0FZOVZueUJ3TmFy0gG4AUFVX3lxTE0zSTN2Rml3cC1RVlUtS3VrM3ZWOUp6Rl8wZG1DVHlMejJMcENreVZWSE1qUGttYzV5R1l6WUxVdjVTMEcxd0RlelYzVG9raUZxbUxzR0dnbVBCN3h3MjF0alI3T1JnTDk3clE0d1FmMVl1TzFiQ0hGeXVMTFh0YTRxb1p4SG5tTjlaMjg4QktqTHhYZE9yblo1M182dEU5dVYtN294TnRkTHJHdG1TQVk5Vm55QndOYXI?oc=5",
+   "time": "2026-11-03T08:42:57+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Southeast Asia’s haze crisis: When environmental destruction becomes a public health emergency",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ1RKZlI4bmhkdDY1RnZTZl9xdzF6ODNUa0kzd0NpTHNVLXFWYk5tbDJRS2VhelVDZDVMb0N0WlZmcWFkd2RFUTdoQ2RiQ1djOTdsa05qbGZYN2dpbEVJbTVkNDJuYXlZeGNlZkdMYzRncUlJcmQxb3VhcDlCZ01PeFhVVUJLMVFpUzRMMUNGOHktbWZQZV9PcFBFNUZ0Wl8zQmVrdkdyUG9nX0xFdnVYMmlaaVlsS2E1eW52ZTJQSkRtU3lf?oc=5",
    "time": "2026-11-02T20:32:51+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Haze forecast : Rain expected to keep Kalimantan, Sumatra smoke at bay till Nov 5, Singapore News",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaktDUkFwQjJFbFpOc2NHQlpYb2gyWWNIODgtODVQYjlfWjBvZ1o0cUFMVU1VWkZ1dWduZmc4M2dvaG56WHNORm1LMURBWnFXcVZSWTdGcWlQdzEzTUtOYjVmbEtDX0JYTEJ4UXV4YUZPTWZ6dWh6S3VBZ3VKYlBfRWFR?oc=5",
-   "time": "2026-11-02T20:08:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "| Asian Legal Business",
-   "title": "WongP, Dentons Rodyk, TSMP among firms named on haze panel",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE1LSEVDWUNMSUxRT01EcHpvRjcxaVV3Z2htdThUQXRVbUNKczhOUHkzU05ETFBuM0lUSmtJOFBVNzhIanZMOGxpTGpRX2txQVVOVmt6bjFDM2RmcU1rSDlTTW9fUHBGNnF1Z0RBYnNYLVVsb21acHFPd2pjeXV0TGkzaEJZY1Z6ZURxVThoZXZPN29zNU15aXo0ZGw1NlFNYnc?oc=5",
-   "time": "2026-11-02T20:00:00+08:00",
    "summary": ""
   }
  ]
