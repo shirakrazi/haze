@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T12:00:00+08:00",
+ "updated": "2026-11-03T13:00:00+08:00",
  "psi": {
   "west": 80,
   "east": 64,
@@ -8,23 +8,13 @@
   "north": 68
  },
  "pm25": {
-  "west": 32,
-  "east": 16,
-  "central": 15,
-  "south": 22,
-  "north": 18
+  "west": 26,
+  "east": 19,
+  "central": 17,
+  "south": 23,
+  "north": 19
  },
  "hist": [
-  {
-   "t": "2026-11-01T13:00:00+08:00",
-   "psi": {
-    "west": 89,
-    "east": 70,
-    "central": 76,
-    "south": 76,
-    "north": 72
-   }
-  },
   {
    "t": "2026-11-01T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 68
    }
+  },
+  {
+   "t": "2026-11-03T13:00:00+08:00",
+   "psi": {
+    "west": 80,
+    "east": 64,
+    "central": 67,
+    "south": 67,
+    "north": 68
+   }
   }
  ],
- "newsUpdated": "2026-11-03T12:06:52+08:00",
+ "newsUpdated": "2026-11-03T13:07:07+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore to push for stronger action against haze as 2027 ASEAN chair",
+   "url": "https://www.channelnewsasia.com/singapore/haze-control-asean-agreement-6515126",
+   "time": "2026-11-03T12:52:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "S’pore will work with ASEAN members to establish haze centre, tackle root causes of haze: Grace Fu",
+   "url": "https://www.straitstimes.com/singapore/politics/spore-will-work-with-asean-members-to-establish-haze-centre-tackle-root-causes-of-haze-grace-fu",
+   "time": "2026-11-03T12:51:54+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -525,6 +539,13 @@
    "title": "Why Singapore can’t afford a hazy October each year",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLUJPMllvWi1OS0RmRHREWFhrVS01ZjNUUHJUdmhUYWtHM3VXVVUxT21xTzQ5bVMxWGlFRFJvNzJzQ25XcVl4SFFZd0w4SnNIMHF5TWhpWGxRMEt0SURIOWlQMVV2VEN4Q1ctUzhVZE9lNndoRVBHQVJjMnVrbGZvMFg0elRMWVppMWpDdi1fR2w?oc=5",
    "time": "2026-11-03T11:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Govt ready to study special environmental recovery fund for post-haze rehabilitation",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM2lOWWg4Vmtna0pTRmV4aExIT1lpR1FRRThrZy16WmVndkx6M09nM3dYb3otckZveVpaZXdmdFJtTkl4eDlvNU5VM2xpNzduRkY0RHJ2aVVYVTg2QmpLQ3JiMUg3Vk5aQjVubHZxZkxyUU1Cd1Z6VVd2clNYSzcxNWktdGhSWXA3c01zN3NETklFbXlvV1BhMTB5bmhqS001VGd6TjV0NW5lQ19hWVVabU90ZTI5bnBpWE9CdTRhOVViNVVCWko4bkZCSG1rN3c?oc=5",
+   "time": "2026-11-03T10:45:00+08:00",
    "summary": ""
   },
   {
@@ -549,17 +570,17 @@
    "summary": ""
   },
   {
+   "source": "Malay Mail",
+   "title": "Singapore MPs to seek answers on haze, car ownership system overhaul and healthcare disruption",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR2x1OTd1QzlPbFF0U1ZDRUVQV0FNLWc0OGRrdzdxbkI5dkh6MzF6NDEyYnVJSlZNakc3YWt1cmhJSHc5aC16bUQ4d18wSVotZmRpMk85RzYwZkZ3TlQwTTR2NjB0WUF3cEtzV3QwQTJMRzF4TzZjbnJIMk5mbXhJcjFza21ldXNFazEtdmRRX1JGRDAzcFdaN3RrWlhydmN0SmF4OTRBSHh3NGExaDJVUlViMHZqVUV5Ny13TnJfUHBLYzM0VXVHeXpwRzlRNFFzdVhlMHkwVTJ0dXRqSjVEQWZGdEh4UTTSAewBQVVfeXFMTkdJSVR1aEtOOVFEbVh2VUhYNm9CN2pBSkR5eWVmYThNOWtDRDlpNW93WUR6ZUFqR0ZwSzhMUkthZzRkTE5tN2FMai1CTXB0VXROY3c2X1FEOC1yX0hsUkItU3NOWnY4ME5vT3o2QUZtLV94d0ZYcENRYU5fTlNrM05FOExPUHpna1BvRVJyZmppXzNsZ19IV0g3bU5TaGNEUWk0Q1o1MGpNOEJ2dzZGc01lXzVULW1DSVBIeDQ2SnBtbjNPcUotQ2w3V1lScE1yalI1VUxUTmdvMnNMNlljNWxZOXEwSlZBMnlfT0U?oc=5",
+   "time": "2026-11-03T09:32:38+08:00",
+   "summary": ""
+  },
+  {
    "source": "AsiaOne.com",
    "title": "Parliament to discuss haze, proposed COE changes and scam penalties, Singapore News",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZVp4QkU1b3U0UDVKSnR1QjUtMmNEWjdOSjJpR1hZYlNXZTUtNW5iczdUZlFMaXJwOV9XMjdvQ01PTDRQOG01WmNaUHNVUGpRbzJ0QXRlc2c1U2psbGg5NHFyYUozMHBBcUxZMGtaTDJYUHBqY09zR1BDTHAtN1U1VEU2TjR2dlZWR1UtSmxmd2R4NEdaQUpobFNjYnZpNnYweWoyUmtuNHpHaE80dzZSRWFndFJNMmwzM1ZibUJ1X3pwTmJpZEh5Z2JxY2ptVzhwUHNkb1dFUEg5aExLaXJNTWZLNTF1X2M?oc=5",
    "time": "2026-11-03T09:30:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Yahoo",
-   "title": "Singapore MPs to seek answers on haze, car ownership system overhaul and healthcare disruption",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHRCUUp1dE1LbnZNV0ZQTXF2aVBYbVpfbW1xb0gyNXdiWlhzUUhOR3NWRndVTENNN3lPdEl3UU9OMUdUYVZQcjY2UldmczlkV0l3NWJCbTg3TXYzdDRuekMxajUxc0lXVy1xVzE3dUdFS1E3WmZnS2swQWJ0MnJMZzBweXI?oc=5",
-   "time": "2026-11-03T09:17:00+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "Singapore haze: Hourly PM2.5 readings remain in normal range islandwide",
    "url": "https://www.channelnewsasia.com/singapore/singapore-haze-psi-pm25-nov-3-6514651",
    "time": "2026-11-03T08:34:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "BBC",
-   "title": "Indonesia's toxic haze is giving its neighbours a political headache",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XQXJRVDZKUzlHSkZ2ai10UG5XcVpTWDduUUcyMElyNDJmMUJHbVljWW1xcUFkSjNmN28waXBPRV9xbDI0OWN4Mzc4dFpYUjhOM3ZjSmFKaHZRdWM?oc=5",
-   "time": "2026-11-03T07:02:01+08:00",
-   "summary": ""
-  },
-  {
-   "source": "FreshPlaza",
-   "title": "Prolonged haze threatens fruit and vegetable yields in Malaysia",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0hkbmdneFFGZDZ5aWQzMmhhVENybUtaQVZqRHdMR3l0UlJjS244aDV6b2trTk5DeHJ5VjZydHpvdlRZRXhqZktFbXRRelpMYThMdTdRMXpSYV9Ybl9oYU5uRzYwVXZndGJZbmR2anhJRHEzVnFId3p0YkFQdGZ6enVlTTlPdmN3b2pBbkgzUmtBbDRGN0NBNlcxdVVza1pVdVEwVms1QVZ3RlM4N25XVWN3?oc=5",
-   "time": "2026-11-03T02:17:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-   "title": "Indonesia's smoke haze reignites regional frustrations",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNczFrVC1GY25Eay12ckZHYXdUblc3Y0ltY1NhUmtOZkxTM0x4OEdudXFMOGpJVG9ITGdsaTBhQVVNTWoxSm1LcHVUVmNiUk5peUkwaVpVcXFWWV83a2JJalVFM1lxazJHS2Z6VnZsclJ3cjFLYmRFb2M2cUhvcjJfQ2JmeUpwei1hMHZyNFpQcGdXVUVDVEo0cjMyMXdTQjFEbUFv?oc=5",
-   "time": "2026-11-03T02:08:30+08:00",
    "summary": ""
   }
  ]
