@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-03T17:00:00+08:00",
+ "updated": "2026-11-03T18:00:00+08:00",
  "psi": {
-  "west": 80,
+  "west": 81,
   "east": 63,
-  "central": 68,
+  "central": 69,
   "south": 68,
   "north": 70
  },
  "pm25": {
-  "west": 38,
+  "west": 29,
   "east": 17,
-  "central": 31,
-  "south": 21,
-  "north": 22
+  "central": 23,
+  "south": 24,
+  "north": 19
  },
  "hist": [
-  {
-   "t": "2026-11-01T18:00:00+08:00",
-   "psi": {
-    "west": 88,
-    "east": 70,
-    "central": 74,
-    "south": 73,
-    "north": 72
-   }
-  },
   {
    "t": "2026-11-01T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 70
    }
+  },
+  {
+   "t": "2026-11-03T18:00:00+08:00",
+   "psi": {
+    "west": 81,
+    "east": 63,
+    "central": 69,
+    "south": 68,
+    "north": 70
+   }
   }
  ],
- "newsUpdated": "2026-11-03T17:09:02+08:00",
+ "newsUpdated": "2026-11-03T18:08:28+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Mothership",
+   "title": "S'pore to help establish regional haze control centre in Indonesia as 2027 Asean chair",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzT28yV3VDR2wtemhtcXdseU5Vd2YtUzEyMUFCNXFmNGh3bFBwVUVEYnBtVUpITEZuQkhvR3BiRnJoTTMxYUdCZkpNQ0ZPa3p2SzFJRThyaTJITXlleXd5d25ZN2l5TElHTG9qdmpQb1VnQQ?oc=5",
+   "time": "2026-11-03T18:01:21+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Sun Malaysia",
+   "title": "Running Through the Haze: Is Your Heart Paying the Price?",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV056Y0RHYXNHdnFpSnBNNTkzYjhUYlFfc2VuOEE4YXVIMzZuUzJPR2FfUk5lUDNBWkFPWE5VdmtEQTFyXzIwNks5a2JBZXJJcEVlRl9CMEIwUnd4dVF2TVY5NFFSUzdyZ1hyWnp2WEVKbW9uUXN4b3REMU5iUlFVaE5jSjBjVThQaEE?oc=5",
+   "time": "2026-11-03T17:50:18+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Singapore to boost haze agreement as Asean chairman 2027",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3RQVGhqQUg2c2xBVUE2ektCcDRwTURxX3dRRWYtTkNrNFpxM1g5Snk0SDUydDh1Z1d0WmE5YVN4N2lFQ0NzNExXczNKSFBERURua2dOSmdvaUZEZkpXUHJTOTJjYzFaU1RGMDBNNlVySEZCbmFxSGlmdXpBdy1ZckR1dDduczR5aXBBYnFua0QycndyU2xvcVREOG1jZmlxY2tpX9IBqgFBVV95cUxNWkFQejVHNmlYN19oVGhRb3FfYzlQSEQ3SFZLS1NFMldodm8wQ2FsdkluODFHS1V0T0RxTjdLenNVSGd1bmpiNjJPS2hGNlh4eVpfSURHNE56eUxTX1Nta3UwYks4S2JkRWtCaFctb0lVQ3B1MktYM3MzTDBPV3ByWHowY3RuWXBVOXoydHZ4QjRxemF5V0FudzBEQ2NGM2p3VGEwRFR0ekttdw?oc=5",
+   "time": "2026-11-03T17:21:07+08:00",
+   "summary": ""
   },
   {
    "source": "The Edge Malaysia",
@@ -574,27 +595,6 @@
    "title": "Malaysia's Haze Increases Economic Losses, Weighs on Tourism and Daily Wage Workers",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZnRsbm1lZW9yM3Z4ZFc2bG1DZXl0MWd6NGlXUVctZlVUTEMzSDlheTdnMkg3QjNTbVV1UGhSLVhlVW5qLVJJY2ViZVdFOVdxZjZYYWQyRXZfTmhTNWZ5aHc4N0RhQVBsYTg5LThJb21heFk0VlRMSngwRHA4WTBSWTVYeFhpemJacGp4SnNHSG5HQU1sU3ZmQmg1X016dldITXM4bA?oc=5",
    "time": "2026-11-03T14:10:32+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Singapore eyes regional haze control centre in Indonesia as Asean chair",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGdoYkRDOUtXaHNJTUZ6TlhvRldwQWF2M0ppVEpJTGd2Z2U4M0RmZE9QZzlXdU9OVF9ZNzVvNmd1bjNKeEpGeG5TTjJ5dWtRTkFTbEdLR1JaMkI5SjNnMEh5LXVhNjRVTVNyYjRwOThDRzR4dHhlM0dITG9KR0g5dWtqZUgxaTJSbkxER3paWFN1T3pieXl1WEVybjVOUS1JbDhpWXVYU29OcGpQZmR6Qk1DUERjTWVvYWtUV21wNlVFVGFSZnfSAcYBQVVfeXFMUElZWlZNS0k0a0VZVnAyRTIycWxoOUdSbW1McnBOa0kwdWk1VUR2NmhKTXNhZ3BaTGdZeXY5Qm4tc3FrN0NEdGlxSmFYeGsycXFydlpIbmQ2dDRMVzJNbkxNSWNNdzNzcHcyMUszR2RXdU5wTmp3WEdXV3pWWHFoUWUyQTZERzZiX1RTWkFzRUtHS0JTSmUwbWh3OWF4Q2xscjQtNk03ZEhvTlpjQWt0WlMtZWdoaGVxRnNUc2NkZmxndW80clJ3?oc=5",
-   "time": "2026-11-03T14:08:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Grace Fu on whether haze has impacted Singapore’s food supply",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUNVelM1RlowbXFnS0pDRzJ3U3ZxNW9BZnFydmNrb2lWZWRzOUNKYjBZcGVtVkVsQjd0YjdwT3JPSU9jbWJYcnVpbXFHWXpwbUhMN2RzQjh2MTkzdFpjRVR0VjBKVmlNT3VZYUtnUFZqVmhXN0xuSjdzZngtamI1MDdoc0NnemlPVmVkWENYNWg4NmpWTlF1VWtpQ3E2VXk3VVhYU1Fn?oc=5",
-   "time": "2026-11-03T14:08:28+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore to push for stronger action against haze as 2027 ASEAN chair",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY3Utd21jRUU0UUJBbEZKY1JJemN3Wm15ZlBfQ1F2TGFHTzdGM1NYZmFycV8ycEtOc0JPX21fT3FQNTlOYUZlTjc1RjQ1TEx4MTJDVUp6Z1k0NGJZLWtqc2E1azZTQUxYRU1HT01vdXZma3plYTlZWXVEa3d2OXpVLXpRejg1UDBCQXVXZlZSclhtOVhXZUZ0MVE1OFdUMVdBYXY4cV8xbmV1U0E?oc=5",
-   "time": "2026-11-03T14:07:20+08:00",
    "summary": ""
   }
  ]
