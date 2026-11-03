@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-04T03:00:00+08:00",
+ "updated": "2026-11-04T05:00:00+08:00",
  "psi": {
-  "west": 75,
+  "west": 73,
   "east": 61,
-  "central": 68,
-  "south": 65,
-  "north": 64
+  "central": 69,
+  "south": 64,
+  "north": 63
  },
  "pm25": {
-  "west": 29,
-  "east": 30,
-  "central": 26,
-  "south": 15,
-  "north": 32
+  "west": 31,
+  "east": 24,
+  "central": 28,
+  "south": 21,
+  "north": 19
  },
  "hist": [
-  {
-   "t": "2026-11-02T04:00:00+08:00",
-   "psi": {
-    "west": 86,
-    "east": 66,
-    "central": 70,
-    "south": 70,
-    "north": 72
-   }
-  },
   {
    "t": "2026-11-02T05:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 65,
     "north": 64
    }
+  },
+  {
+   "t": "2026-11-04T05:00:00+08:00",
+   "psi": {
+    "west": 73,
+    "east": 61,
+    "central": 69,
+    "south": 64,
+    "north": 63
+   }
   }
  ],
- "newsUpdated": "2026-11-04T04:08:31+08:00",
+ "newsUpdated": "2026-11-04T05:07:27+08:00",
  "news": [
   {
    "source": "CNA",
@@ -542,17 +542,17 @@
    "summary": ""
   },
   {
+   "source": "VERA Files",
+   "title": "Haze, Haze go away",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EZGhQTGNDbXlQRVFRTHpYNmZyeGFlMnpOMEFENEM3UDN2bTJnbWxoM1dOQkk3Rm9IaTdzV0hncjFxSzVHZXdaVzJ1dWNlbHlScF9NYkRPQnZ6Q0xH?oc=5",
+   "time": "2026-11-03T22:14:44+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Parliament in brief: Safeguards for workers during haze and other highlights from Nov 3",
    "url": "https://www.channelnewsasia.com/singapore/parliament-brief-workers-haze-law-meti-other-highlights-6517186",
    "time": "2026-11-03T22:13:26+08:00",
-   "summary": ""
-  },
-  {
-   "source": "VERA Files",
-   "title": "Haze, Haze go away",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EZGhQTGNDbXlQRVFRTHpYNmZyeGFlMnpOMEFENEM3UDN2bTJnbWxoM1dOQkk3Rm9IaTdzV0hncjFxSzVHZXdaVzJ1dWNlbHlScF9NYkRPQnZ6Q0xH?oc=5",
-   "time": "2026-11-03T22:09:55+08:00",
    "summary": ""
   },
   {
