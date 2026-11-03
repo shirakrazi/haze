@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-03T21:00:00+08:00",
+ "updated": "2026-11-03T22:00:00+08:00",
  "psi": {
-  "west": 80,
-  "east": 62,
+  "west": 79,
+  "east": 61,
   "central": 69,
-  "south": 67,
+  "south": 66,
   "north": 68
  },
  "pm25": {
-  "west": 31,
+  "west": 30,
   "east": 15,
-  "central": 21,
-  "south": 19,
-  "north": 8
+  "central": 23,
+  "south": 26,
+  "north": 16
  },
  "hist": [
-  {
-   "t": "2026-11-01T22:00:00+08:00",
-   "psi": {
-    "west": 88,
-    "east": 68,
-    "central": 71,
-    "south": 72,
-    "north": 72
-   }
-  },
   {
    "t": "2026-11-01T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 67,
     "north": 68
    }
+  },
+  {
+   "t": "2026-11-03T22:00:00+08:00",
+   "psi": {
+    "west": 79,
+    "east": 61,
+    "central": 69,
+    "south": 66,
+    "north": 68
+   }
   }
  ],
- "newsUpdated": "2026-11-03T21:10:06+08:00",
+ "newsUpdated": "2026-11-03T22:09:31+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,6 +507,13 @@
    "pinned": true
   },
   {
+   "source": "CNA",
+   "title": "WP raises adjournment motion on Singapore’s response to haze",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbU1QMUFiS3prbkRmLVNhS0dHX1A3SUxXWW8wZTlnUW5aMU9udnVYNUlkcml1VnNlSjlGNjB0dEx5aVBob2VHWnQ2bHYtRkhsY1FhSTZjaFltZmdCcU5vYVYtdlNEaXlkRUN3Vng4eGtwSnllckRuR0NqSXdaMldYRVM4TEstWk9FdzE1OS1udi1rczV5aWN1RVRRaG1sYm15SVE?oc=5",
+   "time": "2026-11-03T21:44:18+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "At least 20% more visits to hospitals and polyclinics from start of haze in Sept to mid-October",
    "url": "https://www.straitstimes.com/singapore/politics/at-least-20-more-visits-to-hospitals-and-polyclinics-from-start-of-haze-in-sept-to-mid-october",
@@ -514,10 +521,31 @@
    "summary": ""
   },
   {
+   "source": "ИФЗ РАН",
+   "title": "Why Southeast Asia Is Boiling Over From Jakarta Haze To Kual",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXF4MDgzMGY5OFc4TDd1MUZJR3FZZkQ3UzNjY1VTMnk1QUJIQ0Q5bG9FQnBSQTFmMFNmTm4ya3kwMlVudVNFazFFbWNwRlhFNTB6LWw4T184R3JTNjVvNFpvRmlwMnhna2JhRzZ1Mk5ycENlVHZJTDFkbXV5NlRScTZmZjRXV1N3dkVRcUdPMkRQb25TUzBj?oc=5",
+   "time": "2026-11-03T19:44:38+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Opinion: The haze returns. So where are the independent directors?",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EeGZ5a0xJT2hiYlVlWmdvWS1jdnpaMHRiWFlxNTlaZXo2azRMS2JyZGRSbTdaRFh4WUFHN3Y0TU5mU012M0VIUzZTd1lMZmFX?oc=5",
+   "time": "2026-11-03T19:04:25+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "Singapore to strengthen regional framework on haze when it’s ASEAN chair in 2027",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPWVBXSVY3emdXYmlWWG82UDVpdEpEMi1TWGJtdlE4aWZDeDFLM1h3anJ0NGd4NXpsWXE2TEdrc3NEVl8tSW1ObHdfX093d3BxTGZRbE1LOWRQX3BvNWc?oc=5",
    "time": "2026-11-03T19:01:28+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NewsBytes",
+   "title": "Haze from Indonesian wildfires causing health problems, diplomatic tensions",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZVZ0WW4ySGx4eV91R0xnYWRWSC1wLWJzT3RTMlA0VTlXaFcwVVotMExWc0pMek5LaUVIeVprQTQyc1BEdXRxRm4xRC1qYzZORFFRU1UtT3hIVnVtM05mT1NKNlR2eGNuS3pyQk84bFNNRVlwZDRMakViendsS3hGRHpvSU4zSEluaVdsdVM4U1A?oc=5",
+   "time": "2026-11-03T18:43:39+08:00",
    "summary": ""
   },
   {
@@ -549,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "CNA",
+   "title": "Could your everyday purchases be contributing to Singapore's haze?",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUdLbTZZRVBoZGNGanlXSEpVbi1yeFhsM3hndFlwTGZMb3VISGZob1REenJYd1BIZkFLbFNDbkZJYzEyWlpEQTc1QlJwbURNQjZDSUlEaWFWWGhTWnltY1VSNGRuRldKZlB5RjNvQ2ZaVGJZamRoNFAxYVZ3aXMtVHFUVHRDZVZPNVVzSG9RLTJ2UGxvbG9zV3plQldkNkN4TFM1ZjJwc1MxNTR4?oc=5",
+   "time": "2026-11-03T17:12:37+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Edge Malaysia",
    "title": "Singapore to boost Asean haze agreement under 2027 chairmanship",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BMVdBMWxfdWRkNm9hUEk4TF9DaHkyY0phcV9tSGoycXJLV3RyZTktNVFSM2RwSUN0c1dBcmF6NV9Qb0NBcGliVUNVR0ZlRWF0?oc=5",
@@ -560,41 +595,6 @@
    "title": "Protests in Indonesia over haze; Malaysia’s 1MDB scandal: 7 Asia highlights",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcjRDeGsyNnltZlhPTWdnanY5N2RyczNWWktVRjBhQWQ0Mk1yZ0R3MXVoaVZLYnJMRFZpdEFTVm1iMURsUTdrMGNXWm1RdWNCMUJGX01ycEJFMkYwa29XMk11RXBlOGZtYS1JNlBvU2tvTU81NUtiWWVhSjQ3Vmo3ZXdJR0oyZlpYVnBiOVRxbU1hZ2RaWHNuNjZORnJNWWJ0M1lKU3duLTZuZEl4VVpqTXA2d096UVNJbXNLZ1dQa3RQZ9IBwgFBVV95cUxQQzNwT29Nc1RfUDdOWEVuTGRiNml1WmVfcFRvQVlPMS1Ld3VzSzB6UjJhYk0xTzAyMWs5bWRBblNzMDRRWTMzS2xtNGd4S2lsRlRLajdaRE55Ym9JSDAzcG9UWjR3Q0dHSGRmS3BhejRVNUNvYl84dG9KcEJ1X190MlF6UG9FWG94Y2ZtYXN2eXNiUzI5TkZXN2ZaTmtFMzFYWktJQkpqR2x3cW1ZYWc0NHpJNW9sVk9fcXktQ054ZkxiUQ?oc=5",
    "time": "2026-11-03T16:15:07+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Over 9 in 10 pre-schools have air-con, but air purifiers needed during haze: Goh Pei Ming",
-   "url": "https://www.straitstimes.com/singapore/politics/over-9-in-10-pre-schools-have-air-con-but-air-purifiers-needed-during-haze-goh-pei-ming",
-   "time": "2026-11-03T15:50:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "BusinessToday Malaysia",
-   "title": "Malaysia Conducted 12 Cloud Seeding Operations During Haze Episode",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVBiTmEwRVppczlfYzFfWEN4NlI1ekZfVTlvTlJPYl8tcG5qbENJOEdrQTZ2QnR4VFI2ckRWOXhPMEdFbXlhekxmMUV2cWd1aFFXekVaVHpyY3Z3akctdTJkTmM0ZkUwUVlmS2ZTaGRnOTkxbUJJUGpOYXZLQ0U1WUhUMGNhbGUxb1hHLWh3bHpudUFQTW5iNWt2akhpTWNDSmdTSE9nTFdXUmN6V1owTg?oc=5",
-   "time": "2026-11-03T15:47:31+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore's food supply unaffected by haze, but hawker centres saw drop in footfall: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc2FxZnRPRGgzeVVMNGJ0b2t1cmlkdnEtQXU4bDNkUlZPOWdJVTVMcEdkSm80UkJtUUw5MGd1UlJpNmlZaERlOW83OEZxX3o5b0NzQkFqYi1EWkZRQk1oTmVOcG15SUZyWWR6a0Z2VjVRVHNIRkt1MjZabTBodjE0blBQeUJNekNXZFhfNGp2ZnR6TWtaOVU2RXlWNFE1ejJuNmJGVE5ieHg1aW44YXltcXR5SkNQaWUxaC05X2FpeXpJR0lDZ0JLdHNn?oc=5",
-   "time": "2026-11-03T15:28:05+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "How Singapore Plans to Tackle Transboundary Haze as 2027 ASEAN Chair",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZm00cmd3WV8tN0pockNEYnF4S2ZlYjZSeVV4a0V1ZmloQWJ6cVlrOC1zOVJ0Q202RDhNOE1fOTlfcF85VVp3aUgtNGg1cVJ3LWVxbVNOWUs2eExsaHg4ZmJ5U3VHWjIyZTIyYUNmdFVHTjJZZjdtTTdCTDFXMHhJeWktWDlxaG1fcXN2blFnYnRLejZpcWhiN1A2YjJ5dGhTQ1Rr?oc=5",
-   "time": "2026-11-03T15:24:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Malaysia",
-   "title": "Twelve cloud seeding operations conducted during transboundary haze episode",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xSlJJWEhNc05ZZlN6UHVzNXgwUEo4OFZ4V0ZFWFA4c0xSVk1jUXdmcGg2RFlnaE11V2phX0d4c3NEZVRjMUNZdW9WOFFFcTBz?oc=5",
-   "time": "2026-11-03T15:05:48+08:00",
    "summary": ""
   }
  ]
