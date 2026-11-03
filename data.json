@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-03T10:00:00+08:00",
+ "updated": "2026-11-03T11:00:00+08:00",
  "psi": {
-  "west": 81,
+  "west": 80,
   "east": 65,
   "central": 68,
-  "south": 68,
+  "south": 67,
   "north": 69
  },
  "pm25": {
-  "west": 42,
-  "east": 20,
-  "central": 31,
-  "south": 28,
-  "north": 32
+  "west": 37,
+  "east": 17,
+  "central": 18,
+  "south": 25,
+  "north": 29
  },
  "hist": [
-  {
-   "t": "2026-11-01T11:00:00+08:00",
-   "psi": {
-    "west": 88,
-    "east": 70,
-    "central": 75,
-    "south": 74,
-    "north": 71
-   }
-  },
   {
    "t": "2026-11-01T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 69
    }
+  },
+  {
+   "t": "2026-11-03T11:00:00+08:00",
+   "psi": {
+    "west": 80,
+    "east": 65,
+    "central": 68,
+    "south": 67,
+    "north": 69
+   }
   }
  ],
- "newsUpdated": "2026-11-03T10:06:45+08:00",
+ "newsUpdated": "2026-11-03T11:07:02+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,24 @@
    "pinned": true
   },
   {
+   "source": "The Straits Times",
+   "title": "Why Singapore can’t afford a hazy October each year",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLUJPMllvWi1OS0RmRHREWFhrVS01ZjNUUHJUdmhUYWtHM3VXVVUxT21xTzQ5bVMxWGlFRFJvNzJzQ25XcVl4SFFZd0w4SnNIMHF5TWhpWGxRMEt0SURIOWlQMVV2VEN4Q1ctUzhVZE9lNndoRVBHQVJjMnVrbGZvMFg0elRMWVppMWpDdi1fR2w?oc=5",
+   "time": "2026-11-03T11:00:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "Batam News Asia",
    "title": "Indonesia Haze Crisis: Wildfire Smoke Linked to 3,560 Deaths in Just One Month",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObU5BdWVvcXc0WkdzYmZlU2QzTE5WcVpXUFVMMUpFNlRfdEJTUGcxQ3BvbFFHRmxmbHl6WXJzb3k2RHZjX0VwUGNKRldEVy1EcFVvaGpBSmRWN2RDRFFEakpMZ0xDblJMRkNLd3dmaEQ0QVhPTVFHWWRudm9XVkhQX1dHVWUwNkhhSVg1dWpMZ25IU0RvWHBqYkdTYk9qNmpBTFctWFFObmdHYk9wa01YbWpIWEI?oc=5",
    "time": "2026-11-03T10:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "JournalArta",
+   "title": "SIMP Says Parent Met Singapore Authorities Over Haze Case",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZdlFWeVJRaTFpb2lWUDFGVGRTNHQ1Ymk0bjJ1R09PVGZhNzZlS1BEb05jVDc2bU04N2g3SWFrZTYwMVdiLXc0MXlOaFdBb1FGQ2hFNllQOVJ0bFVIb2pCUElneE03OUdFTGZKbHpfNnNSOUNlRDcyUGdn?oc=5",
+   "time": "2026-11-03T09:58:37+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Kencana Agri Voluntarily Engages Assessors Over Transboundary Haze",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPT09wamcwYVdOWE0ySUlJWVA4bXlKUUtweVAwNUo4YVdWaVNha096V1k4aW5RbFk5ZnJ6QTJFdmE1R1g4R0JjSG9MM2ItbEluOFZWYV8yM0xGZmUxLWYwSGo4YklaNXU0ZXVlM0diR3o3MTlMelVRbWFtMVRtVDBTS2JOZFQ1RWhiMnRqelB1LXFfN0hpeU9WX3Iwb3VpeGtZb25VOVVYbjhlMWlsbkhPQWxETUd2enp4OU1YbU5CcVN1dkF6dDlEWDBUTE1XanZxNmtDTEhMYlJORDNobFlVZA?oc=5",
    "time": "2026-11-02T22:38:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "TipRanks",
-   "title": "TSH Subsidiaries Submit Documents to Singapore Haze Regulator",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFdIU0ZQMkx6WTVjVy1CcmlGYVpHakJTTkdMN1E0MGxwbDJ2eTFPUldUNWRRMkxHX2E5YlJhc1AxMjRPSTRmUUt6MnUzOXZ4QkJIME5GYjlUbEtLalM3Q1dKOEVNa1FfekwyNTBVRUV4NUJQM2hDbFRWWXJTR3dwSTNFQTBUYU45cC1jX2hpR25HdW1BV3VSWkpsVjBLLWFfYmZKUWc5WGdnVk8wcGlHdjdWUQ?oc=5",
-   "time": "2026-11-02T21:26:54+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AMUST",
-   "title": "Southeast Asia’s haze crisis: When environmental destruction becomes a public health emergency",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ1RKZlI4bmhkdDY1RnZTZl9xdzF6ODNUa0kzd0NpTHNVLXFWYk5tbDJRS2VhelVDZDVMb0N0WlZmcWFkd2RFUTdoQ2RiQ1djOTdsa05qbGZYN2dpbEVJbTVkNDJuYXlZeGNlZkdMYzRncUlJcmQxb3VhcDlCZ01PeFhVVUJLMVFpUzRMMUNGOHktbWZQZV9PcFBFNUZ0Wl8zQmVrdkdyUG9nX0xFdnVYMmlaaVlsS2E1eW52ZTJQSkRtU3lf?oc=5",
-   "time": "2026-11-02T20:32:51+08:00",
    "summary": ""
   }
  ]
