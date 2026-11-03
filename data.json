@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-03T16:00:00+08:00",
+ "updated": "2026-11-03T17:00:00+08:00",
  "psi": {
-  "west": 79,
+  "west": 80,
   "east": 63,
-  "central": 67,
+  "central": 68,
   "south": 68,
-  "north": 69
+  "north": 70
  },
  "pm25": {
-  "west": 35,
-  "east": 15,
-  "central": 28,
-  "south": 13,
-  "north": 26
+  "west": 38,
+  "east": 17,
+  "central": 31,
+  "south": 21,
+  "north": 22
  },
  "hist": [
-  {
-   "t": "2026-11-01T17:00:00+08:00",
-   "psi": {
-    "west": 89,
-    "east": 71,
-    "central": 74,
-    "south": 74,
-    "north": 72
-   }
-  },
   {
    "t": "2026-11-01T18:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 69
    }
+  },
+  {
+   "t": "2026-11-03T17:00:00+08:00",
+   "psi": {
+    "west": 80,
+    "east": 63,
+    "central": 68,
+    "south": 68,
+    "north": 70
+   }
   }
  ],
- "newsUpdated": "2026-11-03T16:08:38+08:00",
+ "newsUpdated": "2026-11-03T17:07:14+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,31 @@
    "pinned": true
   },
   {
+   "source": "The Edge Malaysia",
+   "title": "Singapore to boost Asean haze agreement under 2027 chairmanship",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BMVdBMWxfdWRkNm9hUEk4TF9DaHkyY0phcV9tSGoycXJLV3RyZTktNVFSM2RwSUN0c1dBcmF6NV9Qb0NBcGliVUNVR0ZlRWF0?oc=5",
+   "time": "2026-11-03T16:21:35+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Protests in Indonesia over haze; Malaysia’s 1MDB scandal: 7 Asia highlights",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcjRDeGsyNnltZlhPTWdnanY5N2RyczNWWktVRjBhQWQ0Mk1yZ0R3MXVoaVZLYnJMRFZpdEFTVm1iMURsUTdrMGNXWm1RdWNCMUJGX01ycEJFMkYwa29XMk11RXBlOGZtYS1JNlBvU2tvTU81NUtiWWVhSjQ3Vmo3ZXdJR0oyZlpYVnBiOVRxbU1hZ2RaWHNuNjZORnJNWWJ0M1lKU3duLTZuZEl4VVpqTXA2d096UVNJbXNLZ1dQa3RQZ9IBwgFBVV95cUxQQzNwT29Nc1RfUDdOWEVuTGRiNml1WmVfcFRvQVlPMS1Ld3VzSzB6UjJhYk0xTzAyMWs5bWRBblNzMDRRWTMzS2xtNGd4S2lsRlRLajdaRE55Ym9JSDAzcG9UWjR3Q0dHSGRmS3BhejRVNUNvYl84dG9KcEJ1X190MlF6UG9FWG94Y2ZtYXN2eXNiUzI5TkZXN2ZaTmtFMzFYWktJQkpqR2x3cW1ZYWc0NHpJNW9sVk9fcXktQ054ZkxiUQ?oc=5",
+   "time": "2026-11-03T16:15:07+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "Over 9 in 10 pre-schools have air-con, but air purifiers needed during haze: Goh Pei Ming",
    "url": "https://www.straitstimes.com/singapore/politics/over-9-in-10-pre-schools-have-air-con-but-air-purifiers-needed-during-haze-goh-pei-ming",
    "time": "2026-11-03T15:50:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "Malaysia Conducted 12 Cloud Seeding Operations During Haze Episode",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVBiTmEwRVppczlfYzFfWEN4NlI1ekZfVTlvTlJPYl8tcG5qbENJOEdrQTZ2QnR4VFI2ckRWOXhPMEdFbXlhekxmMUV2cWd1aFFXekVaVHpyY3Z3akctdTJkTmM0ZkUwUVlmS2ZTaGRnOTkxbUJJUGpOYXZLQ0U1WUhUMGNhbGUxb1hHLWh3bHpudUFQTW5iNWt2akhpTWNDSmdTSE9nTFdXUmN6V1owTg?oc=5",
+   "time": "2026-11-03T15:47:31+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "Singapore Will Push For Stronger Action Against Transboundary Haze as ASEAN Chair",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaXJCbllDX1QtNkZhV3VHcDFlNFpwR0YwZkYxa2hzTGVCcFRmUkN4M3YwQnJ5OWRFWEMtNVFERjNtRnQ4M2R3cVY1X2l6M1g1WlBpN3hpQzNYWmpjQVowVFRtMlVBZnpsR0hvUGxWUjhCTEgxdmNjaFVoazUwTlZGM2E4NGdSY2tHZHptcUhuUk83UUVObG5JM0FrUWxQa1d6ZEhSWTR6MkQ2RzJjYUczRzdhb2dsdw?oc=5",
    "time": "2026-11-03T13:57:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Employers should bear cost of haze-related work suspensions, not employees: Dinesh Vasu Dash",
-   "url": "https://www.straitstimes.com/singapore/politics/employers-should-bear-cost-of-haze-related-work-suspensions-not-employees-dinesh-vasu-dash",
-   "time": "2026-11-03T13:45:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Too many air quality indicators may complicate public messaging for haze: Grace Fu",
-   "url": "https://www.straitstimes.com/singapore/politics/too-many-air-quality-indicators-may-complicate-public-messaging-for-haze-grace-fu",
-   "time": "2026-11-03T13:23:24+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "Singapore to ratify Asean haze coordination centre agreement ‘in the next few days’: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeU13QkYydWFNM1Y3ME9VZDVuZ2Ria0hhYjJmYnBzQ3NPdzdKVXdmUS1ITXotclJNZTNocGRUWUhfS0tBR0o5SS0tekowRnBLdUxOSzI4QUY0WjViVm90N19DaWFHaG1vWjhLZjh4Nzlsdmp0V0ZYcmwwdUh5SlFlcHpGR3A3RGFUd2FtcXpZNno0aVJJTDVwWlNKaWZBSFJORC05NmZoNjNfd19TMlZENjlEdmRlUDJvSHR5dEJNNU1WdGNtSWpBVnhTcG5TWGRfZE0teg?oc=5",
-   "time": "2026-11-03T13:18:00+08:00",
    "summary": ""
   }
  ]
