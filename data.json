@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-03T08:00:00+08:00",
+ "updated": "2026-11-03T09:00:00+08:00",
  "psi": {
   "west": 81,
-  "east": 65,
+  "east": 66,
   "central": 68,
   "south": 68,
   "north": 69
  },
  "pm25": {
-  "west": 43,
-  "east": 29,
-  "central": 53,
-  "south": 35,
-  "north": 30
+  "west": 34,
+  "east": 32,
+  "central": 39,
+  "south": 34,
+  "north": 31
  },
  "hist": [
-  {
-   "t": "2026-11-01T09:00:00+08:00",
-   "psi": {
-    "west": 87,
-    "east": 69,
-    "central": 73,
-    "south": 72,
-    "north": 69
-   }
-  },
   {
    "t": "2026-11-01T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 68,
     "north": 69
    }
+  },
+  {
+   "t": "2026-11-03T09:00:00+08:00",
+   "psi": {
+    "west": 81,
+    "east": 66,
+    "central": 68,
+    "south": 68,
+    "north": 69
+   }
   }
  ],
- "newsUpdated": "2026-11-03T08:07:51+08:00",
+ "newsUpdated": "2026-11-03T09:07:12+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore haze: Hourly PM2.5 readings remain in normal range islandwide",
+   "url": "https://www.channelnewsasia.com/singapore/singapore-haze-psi-pm25-nov-3-6514651",
+   "time": "2026-11-03T08:34:37+08:00",
+   "summary": ""
   },
   {
    "source": "BBC",
@@ -588,13 +595,6 @@
    "title": "Over 50 haze-related questions submitted by 30 MPs for November 2026 parliament sitting",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wbHdJTlIxbkRWLXVHMExJQUlMYnN1UFMyQ2NSbmVmVDNfSE4wTUVUSUxVaThJV1FYYnc2SDhabWJQZ3FLQTRIMmZHaG1BNTFxcGUxNk5VQ0JCbjJVdEQzUERaTHdXUkh0bUFQSGw2aWp4dw?oc=5",
    "time": "2026-11-02T18:52:16+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Online Citizen",
-   "title": "Haze dominates Parliament’s November sitting as MPs file over 50 questions on enforcement and accountability",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRVFKZmlhemFqblJ2c3BJRmxKUXY1YXBKNGlJdjR3NkhsMWhWNGR2MVZ4cF9GSE1UZkFBb1NGS01OUHlpQ3B6UzM1cm9Na1pEN204TEhxUE1sMVkxT3lUdlF4MnkyLVp5QWNfd3pDNy1JQWNnS2hvNDI5TmJLQ1NZN3UtcDJBQmVsTjNlc0pzQkNURXd1aml4YnFlMGhFbzJCUml1R3JScTgtaHFVM29pakpUbF83TmdFWm1rMjRHS014eFdYNlZ3Mm40U0NaWWYxdnZCN3N5cHpLa2lNVEI5U2d3dXVaUGJqdnc?oc=5",
-   "time": "2026-11-02T18:37:33+08:00",
    "summary": ""
   }
  ]
