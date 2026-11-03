@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-03T22:00:00+08:00",
+ "updated": "2026-11-03T23:00:00+08:00",
  "psi": {
   "west": 79,
   "east": 61,
   "central": 69,
   "south": 66,
-  "north": 68
+  "north": 66
  },
  "pm25": {
-  "west": 30,
-  "east": 15,
-  "central": 23,
-  "south": 26,
-  "north": 16
+  "west": 27,
+  "east": 19,
+  "central": 26,
+  "south": 19,
+  "north": 23
  },
  "hist": [
-  {
-   "t": "2026-11-01T23:00:00+08:00",
-   "psi": {
-    "west": 87,
-    "east": 67,
-    "central": 71,
-    "south": 72,
-    "north": 72
-   }
-  },
   {
    "t": "2026-11-02T00:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 66,
     "north": 68
    }
+  },
+  {
+   "t": "2026-11-03T23:00:00+08:00",
+   "psi": {
+    "west": 79,
+    "east": 61,
+    "central": 69,
+    "south": 66,
+    "north": 66
+   }
   }
  ],
- "newsUpdated": "2026-11-03T22:09:31+08:00",
+ "newsUpdated": "2026-11-03T23:10:17+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Parliament in brief: Safeguards for workers during haze and other highlights from Nov 3",
+   "url": "https://www.channelnewsasia.com/singapore/parliament-brief-workers-haze-law-meti-other-highlights-6517186",
+   "time": "2026-11-03T22:13:26+08:00",
+   "summary": ""
+  },
+  {
+   "source": "VERA Files",
+   "title": "Haze, Haze go away",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EZGhQTGNDbXlQRVFRTHpYNmZyeGFlMnpOMEFENEM3UDN2bTJnbWxoM1dOQkk3Rm9IaTdzV0hncjFxSzVHZXdaVzJ1dWNlbHlScF9NYkRPQnZ6Q0xH?oc=5",
+   "time": "2026-11-03T22:09:55+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -525,6 +539,13 @@
    "title": "Why Southeast Asia Is Boiling Over From Jakarta Haze To Kual",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXF4MDgzMGY5OFc4TDd1MUZJR3FZZkQ3UzNjY1VTMnk1QUJIQ0Q5bG9FQnBSQTFmMFNmTm4ya3kwMlVudVNFazFFbWNwRlhFNTB6LWw4T184R3JTNjVvNFpvRmlwMnhna2JhRzZ1Mk5ycENlVHZJTDFkbXV5NlRScTZmZjRXV1N3dkVRcUdPMkRQb25TUzBj?oc=5",
    "time": "2026-11-03T19:44:38+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Mothership",
+   "title": "S'pore to help establish regional haze control centre in Indonesia as 2027 Asean chair",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzT28yV3VDR2wtemhtcXdseU5Vd2YtUzEyMUFCNXFmNGh3bFBwVUVEYnBtVUpITEZuQkhvR3BiRnJoTTMxYUdCZkpNQ0ZPa3p2SzFJRThyaTJITXlleXd5d25ZN2l5TElHTG9qdmpQb1VnQQ?oc=5",
+   "time": "2026-11-03T19:32:00+08:00",
    "summary": ""
   },
   {
@@ -556,13 +577,6 @@
    "summary": ""
   },
   {
-   "source": "Mothership",
-   "title": "S'pore to help establish regional haze control centre in Indonesia as 2027 Asean chair",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzT28yV3VDR2wtemhtcXdseU5Vd2YtUzEyMUFCNXFmNGh3bFBwVUVEYnBtVUpITEZuQkhvR3BiRnJoTTMxYUdCZkpNQ0ZPa3p2SzFJRThyaTJITXlleXd5d25ZN2l5TElHTG9qdmpQb1VnQQ?oc=5",
-   "time": "2026-11-03T18:01:21+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Sun Malaysia",
    "title": "Running Through the Haze: Is Your Heart Paying the Price?",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV056Y0RHYXNHdnFpSnBNNTkzYjhUYlFfc2VuOEE4YXVIMzZuUzJPR2FfUk5lUDNBWkFPWE5VdmtEQTFyXzIwNks5a2JBZXJJcEVlRl9CMEIwUnd4dVF2TVY5NFFSUzdyZ1hyWnp2WEVKbW9uUXN4b3REMU5iUlFVaE5jSjBjVThQaEE?oc=5",
@@ -581,20 +595,6 @@
    "title": "Could your everyday purchases be contributing to Singapore's haze?",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUdLbTZZRVBoZGNGanlXSEpVbi1yeFhsM3hndFlwTGZMb3VISGZob1REenJYd1BIZkFLbFNDbkZJYzEyWlpEQTc1QlJwbURNQjZDSUlEaWFWWGhTWnltY1VSNGRuRldKZlB5RjNvQ2ZaVGJZamRoNFAxYVZ3aXMtVHFUVHRDZVZPNVVzSG9RLTJ2UGxvbG9zV3plQldkNkN4TFM1ZjJwc1MxNTR4?oc=5",
    "time": "2026-11-03T17:12:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Malaysia",
-   "title": "Singapore to boost Asean haze agreement under 2027 chairmanship",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BMVdBMWxfdWRkNm9hUEk4TF9DaHkyY0phcV9tSGoycXJLV3RyZTktNVFSM2RwSUN0c1dBcmF6NV9Qb0NBcGliVUNVR0ZlRWF0?oc=5",
-   "time": "2026-11-03T16:21:35+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Protests in Indonesia over haze; Malaysia’s 1MDB scandal: 7 Asia highlights",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcjRDeGsyNnltZlhPTWdnanY5N2RyczNWWktVRjBhQWQ0Mk1yZ0R3MXVoaVZLYnJMRFZpdEFTVm1iMURsUTdrMGNXWm1RdWNCMUJGX01ycEJFMkYwa29XMk11RXBlOGZtYS1JNlBvU2tvTU81NUtiWWVhSjQ3Vmo3ZXdJR0oyZlpYVnBiOVRxbU1hZ2RaWHNuNjZORnJNWWJ0M1lKU3duLTZuZEl4VVpqTXA2d096UVNJbXNLZ1dQa3RQZ9IBwgFBVV95cUxQQzNwT29Nc1RfUDdOWEVuTGRiNml1WmVfcFRvQVlPMS1Ld3VzSzB6UjJhYk0xTzAyMWs5bWRBblNzMDRRWTMzS2xtNGd4S2lsRlRLajdaRE55Ym9JSDAzcG9UWjR3Q0dHSGRmS3BhejRVNUNvYl84dG9KcEJ1X190MlF6UG9FWG94Y2ZtYXN2eXNiUzI5TkZXN2ZaTmtFMzFYWktJQkpqR2x3cW1ZYWc0NHpJNW9sVk9fcXktQ054ZkxiUQ?oc=5",
-   "time": "2026-11-03T16:15:07+08:00",
    "summary": ""
   }
  ]
