@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-04T14:00:00+08:00",
+ "updated": "2026-11-04T15:00:00+08:00",
  "psi": {
   "west": 68,
   "east": 61,
   "central": 68,
-  "south": 64,
+  "south": 63,
   "north": 61
  },
  "pm25": {
-  "west": 24,
-  "east": 21,
+  "west": 35,
+  "east": 9,
   "central": 16,
-  "south": 32,
-  "north": 20
+  "south": 14,
+  "north": 11
  },
  "hist": [
-  {
-   "t": "2026-11-02T14:00:00+08:00",
-   "psi": {
-    "west": 84,
-    "east": 63,
-    "central": 69,
-    "south": 66,
-    "north": 70
-   }
-  },
   {
    "t": "2026-11-02T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 64,
     "north": 61
    }
+  },
+  {
+   "t": "2026-11-04T15:00:00+08:00",
+   "psi": {
+    "west": 68,
+    "east": 61,
+    "central": 68,
+    "south": 63,
+    "north": 61
+   }
   }
  ],
- "newsUpdated": "2026-11-04T14:07:48+08:00",
+ "newsUpdated": "2026-11-04T15:08:18+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,55 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Arrest powers, criminal trials in absence of accused among proposed changes to Singapore’s haze laws",
+   "url": "https://www.channelnewsasia.com/singapore/haze-law-changes-arrest-powers-trials-absence-6522026",
+   "time": "2026-11-04T15:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore proposes raising maximum haze penalty from S$2 million to S$20 million",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYi1LR3lhNE9IMjdJMDFOaWNvMGVKcjdZTXQ5cDllWmNtVl9jMkgxdHdFX01ud2xKQUpydXlxM3ZzdVEwZDVLSDA2bk9RdWJwVl9GVkRzOVJub1J6N3QyLWJINHotVGxmWUJwR1VxaWU3bjE5aGlYS0s5UURMOTctRVVfNDV3V2hxeWYzSFdSaw?oc=5",
+   "time": "2026-11-04T14:54:33+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Errant firms face $20m fine, blocked financial services under proposed changes to S’pore haze law",
+   "url": "https://www.straitstimes.com/singapore/politics/errant-firms-face-20m-fine-blocked-financial-services-under-proposed-changes-to-spore-haze-law",
+   "time": "2026-11-04T14:50:08+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Haze offenders could face $20m penalties as Singapore expands powers over haze-linked firms, financiers and supply chains",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRWUxQlNwdmZNTVR4Ujh6bHJyVVlReFJoTng2ZzV6ZlNJaGFoMkc2VWRWNDFSN1N4OXVMQ2E5LW1fSnIwMWFuZWNIdXB3SkxKem9NV0I4aVlJZXc0a3VDcEt4eDM1b3JNSTV4eThuak1PNnBJaGotRkZMdVlzS0tTUmpYajB5WVpoOHYwYmpQSnc?oc=5",
+   "time": "2026-11-04T14:50:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Business Times",
+   "title": "Singapore proposes stronger investigative powers, stiffer penalties in expedited review of transboundary haze law",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQWhUNUNEUHlqdm9FNENKZmpHZFRlUFc1M3dDZG5YSzhQa3U3TVl2TzdvbFBrM3hRRC1HYjFuZmpOeTFnM3NiSGpNNmNMSTdZelhLZzQ3bWdRTF9LSnVqclRNd2hkQjgxaWpnMkYyM1dMQ3c3V3NVZXE4clpuTFphdUZUNjVZbGQ4RXN0SjRYZ2U2Z283bWM4RVNaWnk1bDIya1BTakI5NnFXM1lnNFM2czNHcjJvUVBubGw3MXA0UkVsa3ZGMlVZUzJkSjBsM3NMc0UwU0NQYUpuX2RPeXkzeVdYN1BLXzlEWUlz?oc=5",
+   "time": "2026-11-04T14:43:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "TradingView",
+   "title": "Singapore to amend haze law to widen investigation powers",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcVR0X3lVQkdUQkg4TldqdlN3LVRtY19BZ2IwZ1lPYnRFdzYwZFlnU1UySnB2aEhQMy1naWtjazVrREFBMWY0cEFCSzJfaEFiMkJ5M2tveTJzSk12R3RZQ1ZjaVR3d01LeG9sWWZXUUJleWhLckR6RE5MZW5xTVZMTUk4S0xHV0phOS1PUEI2NVRhR1BYYlgxS3U0bXJmMEo0eENTNDFPTElnNmN4VWJRX2JWWk9lTFp6T3dIS1l1Y2JuY3VhU0E?oc=5",
+   "time": "2026-11-04T14:39:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "UA.NEWS",
+   "title": "Singapore Parliament to discuss changes to transboundary haze law — Channel NewsAsia",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX29ma2xzc3hZLVdoSE5ENTIyU21mUll1VVp1T2lDYlc1a05EYXZqLUV6dndOTGVfeUljQkxITmRvU2piMzUtdlFDa2dIMHM4TnRpdzQ2dWM2WjZGa0ZDREJwNjUyTzNCdjVhcXFKZWQ4aG5uWFU5Q1FqRWFvUHYtQnVDdWx5S3NkRmpqY1dPSkxvemtodHBUdG1NeXNHb0V2cklsSDNIcnpyYURrRmFnRDVHWUNLc3RFdGNQSmNkaTM?oc=5",
+   "time": "2026-11-04T14:02:42+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -546,55 +595,6 @@
    "title": "Dentons Rodyk, WongPartnership, TSMP and Toby Landau KC Named to Singapore Haze Probe",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd1RiWk1DNmd1TEJyUXhISFRxOGMwZjlFLUgtUGIzUzNfSkc1VjAzV0RpRGZOZURZbHJyRjNwTmFQWW92c1dWem9YWXFNRE53ZmJYNTlIX0pHT1c3bmg0eTM2clZXVU1JbFNncEllaUZmdGJMWW02ZGM1LTc2TkFaa0l6cHI4cTBjZThVSVdKNVdLdk5sX1laU0w2UzFfSW9hZEFISENfaDRsSjM1OE1tRDVIdUhQRUhtbU5LMGdaUTVySnpQQk16c3YzLTBveWNiblI0?oc=5",
    "time": "2026-11-04T05:27:19+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Singapore Business Review",
-   "title": "Golden Agri International submits initial response to NEA haze information notice",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSWlXOUUtN2VSMXRTdHlOY0pHSi1POE9iUGc3QlZFaWpubENwVHNyRkw0NUtFcnBGOXdNOWpJUlcweHI0bTdrQzBXRldUMW9MYXBBNmxzSlowczJZbjhlQXoxTW5KMG5PcjJHTkhBbTBZVFNUQVB4ajZGcHV5TENwZ0RjRzdMQUFaWmxuVm1CRUpxNTBaRUctU2kwOUVqaDZqSWV5UA?oc=5",
-   "time": "2026-11-04T05:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Grace Fu: Singapore ready to assist with Indonesia over haze-causing forest fires",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PZXpGaE81emI5TGRLa1dFQjhMSUEyYjEyZy02S3lSWTVSakRObE9IOUhtdnp0V0JpUUVPOTByUGZJSDc0ZGdWOXloTVZMRGV0ZHdYel9BQi1uc1Q4eVE?oc=5",
-   "time": "2026-11-04T04:39:16+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Standard",
-   "title": "Indonesia's toxic haze is giving its neighbours a political headache",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUUo3VDVjOGZhR1pYeHlsaUU2RUZ2a2hMd3VDX0psV1JWbUE5cVQxM3FBUEF3Tng2Q0RVZDVGZXprUGNGV0hKalNHdUxLM3JFT21rYy1KdmROS2M5RFBLOUdodnBtRHdxR1VOYzZMX2ZMRjVpbXBSdTJycmk1V2x3YjRNQUZuVUpWQkQ0UHRaWmQzWUxpc1lsd1BJaW5fc1hnb2xkWTEzNGhha2Vj?oc=5",
-   "time": "2026-11-04T01:15:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Singapore to strengthen regional framework on haze when it’s ASEAN chair in 2027",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPWVBXSVY3emdXYmlWWG82UDVpdEpEMi1TWGJtdlE4aWZDeDFLM1h3anJ0NGd4NXpsWXE2TEdrc3NEVl8tSW1ObHdfX093d3BxTGZRbE1LOWRQX3BvNWc?oc=5",
-   "time": "2026-11-04T01:13:19+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Slipcase",
-   "title": "Singapore’s Haze Investigations: Could Insurance Provide a Source of Recovery?",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTkUzRDBqVzVRVUJLNHRLcVJ1XzNtWGdqcUpLUEUyU2JxdTY4WWdXMXpXcXRxOVdEOUhiMTZoQ0hBNzdqbXRyYXk4cWlWLXd6U2htSlhxb1UyWWNJb1pTWFl3dzRnY2ZuZ3dOOVJmNGtnbmRRa21QN20tVDhKYkhaS3Y2aEJSSkhkZmpvakxzUkNLMVVXQmhSYnhITkJYSXhyNl95LUVUR21UdUpycFViVEtIUVg1Tm9zTUEyNmp3?oc=5",
-   "time": "2026-11-04T00:07:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore will work with ASEAN members to tackle transboundary haze: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUUNVbW9KSWRHR1lKNmtmc0VITGlIRmw0aVlpR1VPMnMtZVBjbmVVVDhPbFh1eFA2MHUxZ292MGJOMkpvdkwxQ2M4TmQ3dXo4U2tiNzhwLTRoNTdQYk44M0F6VVVoSHFjdDN6cE53cnhkMTZNbUlSRzlDQ3JadHV6b2FNajBRSFZMUnJ5QV90WUhuM2pRb2JUWGdSQnI4cVYzSnRHSXpIZ2Q2QXZGVmRycFI3RTU?oc=5",
-   "time": "2026-11-03T23:12:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Adjournment motion on strengthening Singapore’s role in regional clean air amid transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZEZtSEUxWlY5WFFURHZoaC1pdG15UUpMX0toTnlWM3lRZHlFM2xWbl85TTJaeWEwWkFaZUN3NDI4XzU5UVNqS2pPRlBzdkR3TU00V1FrQVpxZVF6Nlpwbmw3bXRMV3otSjY3Xy1fX0R0czlUUEdFQnRNT2Z3V1R3aHlTLU1NRlZHNlFtdkMzWmEzYTM0NVk5QWdObkxWX0ZuVnByMXd2TjJzYXFFZEtReVp3NXYxQmJNaUV1dGplNjZxbUpsaE54NnlvQkJyM25hXzNtaHJIbw?oc=5",
-   "time": "2026-11-03T23:07:02+08:00",
    "summary": ""
   }
  ]
