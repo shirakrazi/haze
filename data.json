@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-05T02:00:00+08:00",
+ "updated": "2026-11-05T03:00:00+08:00",
  "psi": {
   "west": 70,
   "east": 60,
   "central": 64,
-  "south": 63,
+  "south": 62,
   "north": 60
  },
  "pm25": {
-  "west": 25,
-  "east": 19,
+  "west": 29,
+  "east": 25,
   "central": 21,
-  "south": 12,
-  "north": 20
+  "south": 8,
+  "north": 30
  },
  "hist": [
-  {
-   "t": "2026-11-03T02:00:00+08:00",
-   "psi": {
-    "west": 81,
-    "east": 65,
-    "central": 67,
-    "south": 67,
-    "north": 69
-   }
-  },
   {
    "t": "2026-11-03T03:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 63,
     "north": 60
    }
+  },
+  {
+   "t": "2026-11-05T03:00:00+08:00",
+   "psi": {
+    "west": 70,
+    "east": 60,
+    "central": 64,
+    "south": 62,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-11-05T02:07:31+08:00",
+ "newsUpdated": "2026-11-05T03:07:35+08:00",
  "news": [
   {
    "source": "CNA",
@@ -549,6 +549,13 @@
    "summary": ""
   },
   {
+   "source": "IDNFinancials",
+   "title": "Singapore revises haze law, raises corporate fines to S$20 million",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHRCeWhYQjZCektzSVpHZ0JOS3E2YzhQNlZQalBZaTFFTXF4cWRyaHZhU1IxWkZ4bDljOE9jUDlTN1pxUkdoQUFId1VKMjdGNlU4cGtyRWt2RlhlcHJ5TkRPSkMwRmQ2aUhLVFl0NWhPQ0g3U1Q1OGEzM2RNWVlUWG55VDVDVkhuVUo2ODBpNGxNenY3MXpSbHBDOHRnOXMzRHZ1Um10bzk?oc=5",
+   "time": "2026-11-04T23:00:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Enhanced haze law 'not a silver bullet', international cooperation remains crucial: Grace Fu",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDd1QS1xakhmQm9nQjVQWjVZdU5VYldpRjhGQzdpN18wZGdLcGVuNXR3dzZrY3F4aEVWYWFFRHdwOTJiN1NXcF83OE1uSURac0lmOHd2eWgtclBmQjRLcGNtRkJOSExwcVNxYmZKNEZZOHJNZ2xKSkg2VDVKMnJzUkRFd0JZX0FjZmIwWkFBVkFpVVNFVzFRTXc1UQ?oc=5",
@@ -588,13 +595,6 @@
    "title": "Singapore toughens haze law with arrest powers, bigger fines",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVBMMzZKVXJtbmtNa3B0M0tTZm5BT2pLNkZFaXlOS1hoOGEzTC1DVE95Y01RTjRybDNDSE5yYVAwbXBxSlhScWQwQ2NZTkVhRjlQWXEwTU5VSkRLZjN4WXoyTW5hb0ppV3lfd0FvNUh6N0Z2YmdqSUNGYURURG83dXZTYVNSNzlBTzYzQkkyTDdUUWFY?oc=5",
    "time": "2026-11-04T21:31:42+08:00",
-   "summary": ""
-  },
-  {
-   "source": "PravdaReport",
-   "title": "Singapore raises transboundary haze fine cap to S$20 million",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3BoRlNDeVVPRjZ5YW5TYVZSVFU0UzN2VjkzQkUyOENjRjRwRjdPTzgtRlU4enY3YjVocW81ZF9Pb1FwYmFlakJULUJpNHBwai1Gelhpc0l6RkNUVXoxS3JqMmtrRFpGUks0ZTM2TG9RcWZ0T21KWjc1ZzdDVHhhbWpQNA?oc=5",
-   "time": "2026-11-04T21:15:00+08:00",
    "summary": ""
   }
  ]
