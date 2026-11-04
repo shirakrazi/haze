@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:00:00+08:00",
+ "updated": "2026-11-04T22:00:00+08:00",
  "psi": {
   "west": 70,
   "east": 61,
@@ -8,23 +8,13 @@
   "north": 61
  },
  "pm25": {
-  "west": 40,
-  "east": 21,
-  "central": 26,
-  "south": 22,
-  "north": 15
+  "west": 27,
+  "east": 18,
+  "central": 13,
+  "south": 25,
+  "north": 28
  },
  "hist": [
-  {
-   "t": "2026-11-02T21:00:00+08:00",
-   "psi": {
-    "west": 81,
-    "east": 64,
-    "central": 68,
-    "south": 66,
-    "north": 68
-   }
-  },
   {
    "t": "2026-11-02T22:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 64,
     "north": 61
    }
+  },
+  {
+   "t": "2026-11-04T22:00:00+08:00",
+   "psi": {
+    "west": 70,
+    "east": 61,
+    "central": 66,
+    "south": 64,
+    "north": 61
+   }
   }
  ],
- "newsUpdated": "2026-11-04T21:08:36+08:00",
+ "newsUpdated": "2026-11-04T22:08:01+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "NST Online",
+   "title": "Indonesia to push for ratification of Asean haze centre agreement",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1oyc1hSeWRzd1VzNlBReXFDN1ZwS0s4bkN2UnN6c3BYYkRNaEd0blpaUkFfY3Bpa2RGcWk1S0U5NWViWEdWUGU4Sl9Pd3BHdEJ4WU1ESHgyOUEyRnJaT24zXzBCVFpycnJEZ0hYZWsteGNDWnJKUFQtZ3ZtaXFKbms3TUIyNmZ4cmpkb3lEMzBMbFg2ZzlXU0ZTeDhESUhjNUVoeW85MHJOd9IBrwFBVV95cUxPZnJtM0ViRDZ2eW9idzRPNUdOQ2xmZXZ2QTJ3bk10THlfWVlhSVR1c2h1Z2Nnb2NzdENVWUM5UGxKaEtvb0RiMERuREFJcHh4eGxINDBYVUJWamFfVVBFaEpQRE5OVGNubWE3dFlOdE9FUVc1ZmJLbkhvcFVtX1EtQWdoS0NINDlydEs5MFhFMFFNZExBenpYQkpKdzNjaU9CWEpMUUxCa0ItRGJ2TjRB?oc=5",
+   "time": "2026-11-04T21:53:54+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Enhanced haze law 'not a silver bullet', international cooperation remains crucial: Grace Fu",
+   "url": "https://www.channelnewsasia.com/singapore/changes-haze-law-not-silver-bullet-parliament-6524361",
+   "time": "2026-11-04T21:44:52+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Daily Observer",
+   "title": "Singapore tightens anti-haze law with arrest powers, higher fines",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5sWWRXOGdfM19EalE0WmlUTkZmLUdoS0NQQUxkNHRnSExsT1FraGgwT0NiRWUwWi1wX2hCVzE2SGRjVjRRV3hWNnl3?oc=5",
+   "time": "2026-11-04T21:42:21+08:00",
+   "summary": ""
+  },
+  {
+   "source": "24 News HD",
+   "title": "Singapore toughens haze law with arrest powers, bigger fines",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVBMMzZKVXJtbmtNa3B0M0tTZm5BT2pLNkZFaXlOS1hoOGEzTC1DVE95Y01RTjRybDNDSE5yYVAwbXBxSlhScWQwQ2NZTkVhRjlQWXEwTU5VSkRLZjN4WXoyTW5hb0ppV3lfd0FvNUh6N0Z2YmdqSUNGYURURG83dXZTYVNSNzlBTzYzQkkyTDdUUWFY?oc=5",
+   "time": "2026-11-04T21:31:42+08:00",
+   "summary": ""
+  },
+  {
+   "source": "PravdaReport",
+   "title": "Singapore raises transboundary haze fine cap to S$20 million",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3BoRlNDeVVPRjZ5YW5TYVZSVFU0UzN2VjkzQkUyOENjRjRwRjdPTzgtRlU4enY3YjVocW81ZF9Pb1FwYmFlakJULUJpNHBwai1Gelhpc0l6RkNUVXoxS3JqMmtrRFpGUks0ZTM2TG9RcWZ0T21KWjc1ZzdDVHhhbWpQNA?oc=5",
+   "time": "2026-11-04T21:15:00+08:00",
+   "summary": ""
   },
   {
    "source": "South China Morning Post",
@@ -521,10 +556,24 @@
    "summary": ""
   },
   {
+   "source": "Bloomberg.com",
+   "title": "Singapore Proposes Tougher Haze Law After Indonesia Wildfires",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFRuc1BGbWg1Z2l1Tm83SGlMb2t0VnBNeVJyaVdBUERCOHF2Z0JQU19YeWxyb2Z5aW9rY1VMWW5xWGFxLXJUTGxHQ2NrRWdxaUd6eEdWbzJ1MXhGWHFUbE4yMEMzNkVSTDl0U1JnX1Q3SWpZcXZxSUF2YjhneExqQVJhMzlmU2dwTGNxaGZzaUs1ZmVIWGJpOHo1d0tlaDZUai1Na19WRlc3OVpXbEhYcHVIcUJxTHZ5eXB3MDZzampvclk?oc=5",
+   "time": "2026-11-04T20:39:02+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
-   "time": "2026-11-04T19:46:37+08:00",
+   "time": "2026-11-04T19:52:12+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Errant firms face S$20mil fine, blocked financial services under proposed changes to Singapore haze law",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQU3J6TG5UeXRrRjlMTEI4RG5yYS0waTVRUHhkcjdwNGlFcHN0RWFzcnB0dTZNNkoxM3pRcVViVHV2S0x6bVBtdjJRVldnbEVkX19nLWVtTFJGeHJTTGpaTElOd2xvLXJnZGh2N3Z3ak5nZjVzWDM0NmNQUm9iR25NSXcydUF1TDl3QjdZRUFPN3MwWG9INFVLcHZxdzlEa1FaWk43WjJDRGl1NFJDd3FIaW5zVnVLY0swV084YW5Ra21MV0NZUGtGQXZ0SXVVTkhGSUpVWWtBYXlVaE5QRG1DRl85YW1mMVF1TjBrY3pCMnNRNlRhdjc4?oc=5",
+   "time": "2026-11-04T19:18:00+08:00",
    "summary": ""
   },
   {
@@ -546,55 +595,6 @@
    "title": "Indonesia to push for ASEAN haze center ratification at summit",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNUtvb3B6VGgtZEV0cWRrT3FtT0xfUFA3UDRMeGdhMUpoeGFVdFgxUFB4S21qQUZYcXhFX25LMVg1NVg1bUlnM1dTVWc1NE9mUk1JQklBMGVqLWhDQ3dBa0lmZndKbnU3dWNReWd1UVNjaDNTRW5OOGF1bjhtdWFBSDcxN0wtdnNteGJBTlpZV29Bb0hxNWczalJLVlpXQzhR0gGmAUFVX3lxTFBzQmMxV0stbUhFQmpydzdYaU9fRWJ5RjM4OEdfQmFic2Q2UzRlc3hpTk9IYm00OFVzQ2dfQlZpbWFpSzZiNkFIamdMc0plNDRiYmczelA5aUlLZTVoQlZWNnlhdTJIME1oREFtLTBWX0lPNnBFR0VRb0VGcVZiSDBJcHJzbGVwLUdISFd0cUhjV3NxOHJkbUJrVHNCc2xZQmRFXzJ1NkE?oc=5",
    "time": "2026-11-04T18:29:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "TRP | The Rakyat Post",
-   "title": "After The Haze Is Gone, Malaysians Hit With Monsoon Season Floods",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONDRCMUhlLVhNUXRkbUJpdnB2MEdRZ3BBc3NQeW9Yb0dadFFUUXh5TVhoYW9kUHA1UjF1M0RsQ0wxN0FoODl0VG50elE5a3FOVUVQUFdqbWVNbS1MWUVudDJQOThfODNlaXhnckwzUi1SUGp2STc4MFY1NW1ET1RVcG1wWTlBRWZfdWRDMDRUN3BQUXUzeGdjM28zSXByYm1MWkJLaDcyQ2dxSFBRaTV5NQ?oc=5",
-   "time": "2026-11-04T18:17:51+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ANTARA News",
-   "title": "Indonesia pushes haze coordination center ratification at ASEAN Summit",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ29PWV9EUDF0NUotQlYxaTBMc1p4ODVSUlVZZFhyekc3SmxOTGJWRTlfOG9ZRG5jb2VtWk5EcTNyc2YybGc2bF9nczlmeFB5dWdUSG1YQXhqSFR6MmpQTzgwUTFLdzJWYkV5d3p5b3E5MFd1dXpYeHRHXzdwTEh0OVVPanJ0c0E2ay0yMWRLVm9leGU3REIzQ3RYcTFBdU9aeTFvd3hUdzNhSU9n0gGyAUFVX3lxTFBVeHROMWgyeGtmTXFUR0JpeVdBdUpiYk9vbC1RSUZfWWhES2hwbS0xUC1Ha1MtR2dJY3VUMmExM0lCcjItM3FpU0lNb2lqSUJTUENJXy1MS3FGMW1va0JQV2NSel82V1ltTDA2Wmtseko1MmU3bTRxaFpZZjYtcS1IMENLSGdDWDVCazhIWDNwSmwxUXJMRVoxd3RrdDRGY0F0anNDLURCOHU1WEM2dVZVNEE?oc=5",
-   "time": "2026-11-04T18:16:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Indonesia to Raise Haze Center Ratification at ASEAN Summit",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1J1dUZnb0k0am0zYk1pRkhqWUNaZUo5QThkNUhRSWk1c0FXX2dveFNSZDhjYXc4TncycDFrcnA0RFlfYTBkMk9kbnVuUVRBaThEdF9KVkhUdVFrSU9jeG1sQlZHS3h4NUlHRnVPREpnYzdWVi1seHFaZ24zYV8wM2Nqck1ZeTZvdy1sYWUxSTZ4S0JteDhR?oc=5",
-   "time": "2026-11-04T18:00:19+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore proposes raising penalty for transboundary haze pollution to S$20 million",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaUtwQnZnN0JLbktlUkY5S3l6eWJIRXIwRVdJeFVMWjZaZFNfb2xJNDZBb1pUc2g5WXRDMkVhb0ZOUllBeWdmZ19OTk5MYWxWMUpLODRJbGdZTUptcmF1eWc0UDJBb0l4QVpESzhnVUtHV09ZN2dLWmJPT0V5MWktZkxwdjEyOFNWd1JJT3ZnWXUxTTZ3Q1RsUnJQa3lrbktKT292Y2RKNGd5N1l2dmhBZmI5M1N4WnFLd0RTQWVLMA?oc=5",
-   "time": "2026-11-04T17:55:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Arrest powers, criminal trials in absence of accused among proposed changes to Singapore’s haze law",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTJhMUVzTnNXOEZYc0RHZ01UX3ZTXzZQWnZfRjBDcFlsOTVZNWJvVEpNcnJDNHRnRzZXUkJLRS1fM0NGWHhldXRtdVZYcVM1Rzczb05XNzJmVlV3TFBYNDNtS19YUWRtX0ZNdzE0WkxfU3o2ZXMzekZWbU56aVE4S0txaXUtQnFPa2NvYnZVV2RRdDE1UEtYXzh0WQ?oc=5",
-   "time": "2026-11-04T17:54:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore proposes raising maximum haze penalty from S$2 million to S$20 million",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYi1LR3lhNE9IMjdJMDFOaWNvMGVKcjdZTXQ5cDllWmNtVl9jMkgxdHdFX01ud2xKQUpydXlxM3ZzdVEwZDVLSDA2bk9RdWJwVl9GVkRzOVJub1J6N3QyLWJINHotVGxmWUJwR1VxaWU3bjE5aGlYS0s5UURMOTctRVVfNDV3V2hxeWYzSFdSaw?oc=5",
-   "time": "2026-11-04T17:48:44+08:00",
-   "summary": ""
-  },
-  {
-   "source": "National Environment Agency (NEA)",
-   "title": "Haze Situation Update (4 November 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDVtOENRTnNPOVYzN1VsZHI3MnlfYXhvUzlXbHd6RXA0NEdEazNLNnZxemd6MURPSnBjRUtQV3FEbUUwQUgtR3ZGVF90bUxUNGEwVk1mZ3JfckEzOFpnd181OS1Ydjdicjc2UUNCMWNYS0RUbjQ4NEhTaHNkTmVwX2NVNnczYjNxVHJSWU8wOU5LQQ?oc=5",
-   "time": "2026-11-04T17:35:04+08:00",
    "summary": ""
   }
  ]
