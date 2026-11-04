@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-04T22:00:00+08:00",
+ "updated": "2026-11-04T23:00:00+08:00",
  "psi": {
   "west": 70,
   "east": 61,
-  "central": 66,
+  "central": 65,
   "south": 64,
   "north": 61
  },
  "pm25": {
-  "west": 27,
-  "east": 18,
-  "central": 13,
-  "south": 25,
-  "north": 28
+  "west": 26,
+  "east": 17,
+  "central": 21,
+  "south": 14,
+  "north": 24
  },
  "hist": [
-  {
-   "t": "2026-11-02T22:00:00+08:00",
-   "psi": {
-    "west": 81,
-    "east": 65,
-    "central": 67,
-    "south": 66,
-    "north": 68
-   }
-  },
   {
    "t": "2026-11-02T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 64,
     "north": 61
    }
+  },
+  {
+   "t": "2026-11-04T23:00:00+08:00",
+   "psi": {
+    "west": 70,
+    "east": 61,
+    "central": 65,
+    "south": 64,
+    "north": 61
+   }
   }
  ],
- "newsUpdated": "2026-11-04T22:08:01+08:00",
+ "newsUpdated": "2026-11-04T23:07:59+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "MPs raise questions on $20m fine, delay in strengthening haze law, in six-hour debate",
+   "url": "https://www.straitstimes.com/singapore/politics/mps-raise-questions-on-20m-fine-delay-in-strengthening-haze-law-in-six-hour-debate",
+   "time": "2026-11-04T22:45:09+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Business Times",
+   "title": "Haze law overhaul gives it more teeth, but firms beyond its reach remain the test",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0Q4VW5FUndOQTF2aGlLSktrWjBQbVJGZG9kNFhXSW42WjJqNU1NdWJTSTRUWXNJS2tEeko0MDhMTkJUNEFoRk9CU1pwaXRIRGJ6UXJPVmdic2JTOEthNzZZOU1TRlZhVHpaRkdhR1NxRDVLV3c5TmFGOWhBX2ZvUGZVSFJXYVhZSnBCZVZhVWFvbDBBQ3cyemNBS0c2T2VXeTZYT0xZeXd3VTRCOTVBdDRXZE94QQ?oc=5",
+   "time": "2026-11-04T22:09:00+08:00",
+   "summary": ""
   },
   {
    "source": "NST Online",
@@ -563,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "The Jakarta Post",
+   "title": "Indonesia seeks stronger haze response ahead of ASEAN Summit",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjZqeHJLRV9jRm9JSm9nRlZuV1luRzBjM0tTQ1MwbHZuSjZUaTZWckt3YXVTVUdiamkwQ1BRZzZJVUhneW5kTGFPaHc4eExOX0dGSFN6bmJjN2I4TkliMEZORFgtWEtsb0FhNE5DTHRoRUo1UjhCWDVWNFE5QjZhQmFiZXlaWDU5RWN1cngxV1dKdkxqWGxoY05ITWVNVVJRZ0pIRnB6Z1JBT0ph?oc=5",
+   "time": "2026-11-04T20:19:25+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
@@ -574,27 +595,6 @@
    "title": "Errant firms face S$20mil fine, blocked financial services under proposed changes to Singapore haze law",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQU3J6TG5UeXRrRjlMTEI4RG5yYS0waTVRUHhkcjdwNGlFcHN0RWFzcnB0dTZNNkoxM3pRcVViVHV2S0x6bVBtdjJRVldnbEVkX19nLWVtTFJGeHJTTGpaTElOd2xvLXJnZGh2N3Z3ak5nZjVzWDM0NmNQUm9iR25NSXcydUF1TDl3QjdZRUFPN3MwWG9INFVLcHZxdzlEa1FaWk43WjJDRGl1NFJDd3FIaW5zVnVLY0swV084YW5Ra21MV0NZUGtGQXZ0SXVVTkhGSUpVWWtBYXlVaE5QRG1DRl85YW1mMVF1TjBrY3pCMnNRNlRhdjc4?oc=5",
    "time": "2026-11-04T19:18:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Jakarta Globe",
-   "title": "ASEAN Haze Center in Indonesia Awaits Members’ Ratification",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa2JiWERKMEVOOGkteWFscENuQVIzUGV2T2tFMURma3lHYlFTd213X1NjNXRsZzNuNnU5X0V1bUduVElDWEM5Z3JwUFNUZ3NNRFZBX0VOSXNCaUo1UUdoaGxMMEJ6Ym1MUTN4RzVHSVAwS2o3T1JSalF6MnpnTnpReWx1ekxRSkp1QzFZTFFlMmE?oc=5",
-   "time": "2026-11-04T18:49:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Malaysian Reserve",
-   "title": "TSH gets until Nov 16 to submit remaining documents in Singapore haze probe",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd1VjcFk5SEdlSW5mM1hoczBIS3Jqb0Q5bElVZnAtejk0ZkNwQkhLN29nYlhIQkJjZlQzQ0ljMFpFcGZHZ0lVZVFxUEFManBjZnpiRjBaTzRVUXJ6LUtzdmFPMFRqQUUtLVQwU3RZS0dLRVZKRXByTjZkdS1mWTFrMWFqd09FdUU0Z09pRUJ6cldHcTM2QWZuZU9kNUF6Y1V1ZlNrUnhrMG1BWjhoVkZJc2NPeWZyeUdaaUp3?oc=5",
-   "time": "2026-11-04T18:45:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ANTARA News",
-   "title": "Indonesia to push for ASEAN haze center ratification at summit",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNUtvb3B6VGgtZEV0cWRrT3FtT0xfUFA3UDRMeGdhMUpoeGFVdFgxUFB4S21qQUZYcXhFX25LMVg1NVg1bUlnM1dTVWc1NE9mUk1JQklBMGVqLWhDQ3dBa0lmZndKbnU3dWNReWd1UVNjaDNTRW5OOGF1bjhtdWFBSDcxN0wtdnNteGJBTlpZV29Bb0hxNWczalJLVlpXQzhR0gGmAUFVX3lxTFBzQmMxV0stbUhFQmpydzdYaU9fRWJ5RjM4OEdfQmFic2Q2UzRlc3hpTk9IYm00OFVzQ2dfQlZpbWFpSzZiNkFIamdMc0plNDRiYmczelA5aUlLZTVoQlZWNnlhdTJIME1oREFtLTBWX0lPNnBFR0VRb0VGcVZiSDBJcHJzbGVwLUdISFd0cUhjV3NxOHJkbUJrVHNCc2xZQmRFXzJ1NkE?oc=5",
-   "time": "2026-11-04T18:29:00+08:00",
    "summary": ""
   }
  ]
