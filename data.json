@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-05T01:00:00+08:00",
+ "updated": "2026-11-05T02:00:00+08:00",
  "psi": {
   "west": 70,
   "east": 60,
-  "central": 65,
+  "central": 64,
   "south": 63,
   "north": 60
  },
  "pm25": {
-  "west": 21,
-  "east": 18,
-  "central": 23,
-  "south": 15,
-  "north": 10
+  "west": 25,
+  "east": 19,
+  "central": 21,
+  "south": 12,
+  "north": 20
  },
  "hist": [
-  {
-   "t": "2026-11-03T01:00:00+08:00",
-   "psi": {
-    "west": 81,
-    "east": 65,
-    "central": 67,
-    "south": 67,
-    "north": 69
-   }
-  },
   {
    "t": "2026-11-03T02:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 63,
     "north": 60
    }
+  },
+  {
+   "t": "2026-11-05T02:00:00+08:00",
+   "psi": {
+    "west": 70,
+    "east": 60,
+    "central": 64,
+    "south": 63,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-11-05T01:08:16+08:00",
+ "newsUpdated": "2026-11-05T02:07:31+08:00",
  "news": [
   {
    "source": "CNA",
@@ -514,6 +514,13 @@
    "summary": ""
   },
   {
+   "source": "The Edge Malaysia",
+   "title": "Opinion: The haze returns. So where are the independent directors?",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EeGZ5a0xJT2hiYlVlWmdvWS1jdnpaMHRiWFlxNTlaZXo2azRMS2JyZGRSbTdaRFh4WUFHN3Y0TU5mU012M0VIUzZTd1lMZmFX?oc=5",
+   "time": "2026-11-05T00:01:40+08:00",
+   "summary": ""
+  },
+  {
    "source": "NST Online",
    "title": "Singapore toughens haze law, raises maximum fine tenfold to S$20mil",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdm9rRUxMVjdXcUNvNEtfZC1NMUZGUlJKR1VaYTZha0sydEFKRmhPcFNwRmcwVXFPci1JVzNhWHBiMG5vUGxjaVVjakRYbWZlSHRwek5NSmpNSExKX2RLWXZGNEI2bVg3bTZITWU1UktZbTVsNmc3WS01S3QyVkhZQlNwdHJzN2NwUFdOdzVjWjBIQm1KN014WnY1dVhFdzFFekVCOVhEb1FZLVNfTDVQc19aZHjSAboBQVVfeXFMTW5OSjhGUjVzaFBPbUJTbFBKdDVYWndaOGpVdG1tSDZQdF9TbXVWRzdaYUplS0dUMzBGR2pQMklvNWE1TEN3VGZlWkRYSlhrU1NRUUZldGRkbXZ1YkFfNnVtNjBOeEtPeUp0bXdWbjJjZ1FvZFlQNEk5TzhXVzhLa01maTY2dldSOGJWNS1RRUxnMmZOUDFvS3BqOVM3ZktjYk5xVlBZWFJQMG5kRXFwUl9qUFJrY0stZDd3?oc=5",
@@ -525,6 +532,13 @@
    "title": "Singapore strengthens haze law with arrest powers, bigger fines",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcks1RmExbEp1eGRNQjlleVBlWWsxMEJQdHBGM3pNbE5USHpEOG1kWUQ1RmdURW5Da3NnUlpvUzM2ZFVfYXR1U1N4aGhyNlUzTnZReEw2cmlXaThHTlh1Wm5FSHpEMWtBa3FDRjVPWjJpVXBPeDd0QXpLQjdGeGRPY1gtSUtPSjE2ZkdwTzgtX1V2amFacXFlZVZra0lvRm85WXF3UA?oc=5",
    "time": "2026-11-04T23:39:13+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
+   "time": "2026-11-04T23:29:54+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Singapore raises transboundary haze fine cap to S$20 million",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3BoRlNDeVVPRjZ5YW5TYVZSVFU0UzN2VjkzQkUyOENjRjRwRjdPTzgtRlU4enY3YjVocW81ZF9Pb1FwYmFlakJULUJpNHBwai1Gelhpc0l6RkNUVXoxS3JqMmtrRFpGUks0ZTM2TG9RcWZ0T21KWjc1ZzdDVHhhbWpQNA?oc=5",
    "time": "2026-11-04T21:15:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Singapore raises fines 10 times for haze offences, says status quo ‘not tenable’",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaS1VdXJoYmVBZVoyMzNTNDljVUZIdzVrQURkWk1xV0RvbHBmeHgzWmc4N09UaF82QTJRUWNMVnBMSW5JVjJsb1pXZlg3c2NxSGR4eFhtMU9zRE9sRlF3QWpfRDFlMU94cWZfTnlFZGV4MlZrV1Z6b3RpMmRjVnhUZXZ3Sy1HcFowRFZBNE51SlAwWU9HLVhxdXhpRmRRcVNxR0Z0UmhjdlZwN0ZnWTRLYlFjc2R3M0xqaHlRTG5obnpDNDBNZ0NiTnM1cS1YX2xHN2gydENoZkktRWlRTVVQRdIB4AFBVV95cUxQZEsybUdDSlR6dXFFejYxdmF6SXE3OERoU3dUdVI5WTl4R1ZpaDY3Ym9qWWhoSlhWTEozaExpWVI4bmthVnhDaWN6SkpJSkFDb0RSX25kRktLWHVsemg3UVVMdWwzbXBreGlYNXRGSFVNSkdNLVFIdklUS0lPVkt3ZmNwTEtmN1liM3VhOTBTdldVVlNpNXBQSkE1V3pnOGVuVGI2NEhxWU1TYkxGOEVaX1J4VHNLTUhiamhTTUVzZ3RKMk5jN3dzVmI3QV9pck5Ya3B6Tmo3MVFFSmdaS3I3dg?oc=5",
-   "time": "2026-11-04T20:43:32+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "SAF operations continue amid haze, but servicemen's safety top priority: Chan Chun Sing, Singapore News",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGJhcmJuVDJqNmNKanZYbEdFUzBIekdRQjhqbnh6bklUOGpIcE0tRnRKbGhmcERWN0dmSUQ2Q2paT2ZUWVlRRlVlMTlhWTlONlVaUThkQXdHZGJVcy0yeUl0R0NCY1M3bUxkdG1adUZjbUk0bW5DNkNIa09WQnFySVFqSQ?oc=5",
-   "time": "2026-11-04T20:41:47+08:00",
    "summary": ""
   }
  ]
