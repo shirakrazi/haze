@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-04T13:00:00+08:00",
+ "updated": "2026-11-04T14:00:00+08:00",
  "psi": {
   "west": 68,
   "east": 61,
-  "central": 69,
-  "south": 63,
+  "central": 68,
+  "south": 64,
   "north": 61
  },
  "pm25": {
-  "west": 21,
-  "east": 20,
+  "west": 24,
+  "east": 21,
   "central": 16,
-  "south": 31,
+  "south": 32,
   "north": 20
  },
  "hist": [
-  {
-   "t": "2026-11-02T13:00:00+08:00",
-   "psi": {
-    "west": 84,
-    "east": 63,
-    "central": 69,
-    "south": 66,
-    "north": 70
-   }
-  },
   {
    "t": "2026-11-02T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 63,
     "north": 61
    }
+  },
+  {
+   "t": "2026-11-04T14:00:00+08:00",
+   "psi": {
+    "west": 68,
+    "east": 61,
+    "central": 68,
+    "south": 64,
+    "north": 61
+   }
   }
  ],
- "newsUpdated": "2026-11-04T13:07:05+08:00",
+ "newsUpdated": "2026-11-04T14:07:48+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Parliament to debate proposed amendments to Transboundary Haze Pollution Act",
+   "url": "https://www.channelnewsasia.com/singapore/parliament-debate-proposed-amendments-transboundary-haze-pollution-act-6520001",
+   "time": "2026-11-04T13:42:00+08:00",
+   "summary": ""
   },
   {
    "source": "Indonesia at Melbourne",
@@ -588,13 +595,6 @@
    "title": "Adjournment motion on strengthening Singapore’s role in regional clean air amid transboundary haze",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZEZtSEUxWlY5WFFURHZoaC1pdG15UUpMX0toTnlWM3lRZHlFM2xWbl85TTJaeWEwWkFaZUN3NDI4XzU5UVNqS2pPRlBzdkR3TU00V1FrQVpxZVF6Nlpwbmw3bXRMV3otSjY3Xy1fX0R0czlUUEdFQnRNT2Z3V1R3aHlTLU1NRlZHNlFtdkMzWmEzYTM0NVk5QWdObkxWX0ZuVnByMXd2TjJzYXFFZEtReVp3NXYxQmJNaUV1dGplNjZxbUpsaE54NnlvQkJyM25hXzNtaHJIbw?oc=5",
    "time": "2026-11-03T23:07:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "VERA Files",
-   "title": "Haze, Haze go away",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EZGhQTGNDbXlQRVFRTHpYNmZyeGFlMnpOMEFENEM3UDN2bTJnbWxoM1dOQkk3Rm9IaTdzV0hncjFxSzVHZXdaVzJ1dWNlbHlScF9NYkRPQnZ6Q0xH?oc=5",
-   "time": "2026-11-03T22:14:44+08:00",
    "summary": ""
   }
  ]
