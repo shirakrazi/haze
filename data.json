@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T23:00:00+08:00",
+ "updated": "2026-11-05T00:00:00+08:00",
  "psi": {
   "west": 70,
   "east": 61,
@@ -8,23 +8,13 @@
   "north": 61
  },
  "pm25": {
-  "west": 26,
-  "east": 17,
-  "central": 21,
-  "south": 14,
-  "north": 24
+  "west": 24,
+  "east": 15,
+  "central": 16,
+  "south": 8,
+  "north": 14
  },
  "hist": [
-  {
-   "t": "2026-11-02T23:00:00+08:00",
-   "psi": {
-    "west": 81,
-    "east": 65,
-    "central": 67,
-    "south": 66,
-    "north": 68
-   }
-  },
   {
    "t": "2026-11-03T00:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 64,
     "north": 61
    }
+  },
+  {
+   "t": "2026-11-05T00:00:00+08:00",
+   "psi": {
+    "west": 70,
+    "east": 61,
+    "central": 65,
+    "south": 64,
+    "north": 61
+   }
   }
  ],
- "newsUpdated": "2026-11-04T23:07:59+08:00",
+ "newsUpdated": "2026-11-05T00:08:05+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "NST Online",
+   "title": "Singapore toughens haze law, raises maximum fine tenfold to S$20mil",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdm9rRUxMVjdXcUNvNEtfZC1NMUZGUlJKR1VaYTZha0sydEFKRmhPcFNwRmcwVXFPci1JVzNhWHBiMG5vUGxjaVVjakRYbWZlSHRwek5NSmpNSExKX2RLWXZGNEI2bVg3bTZITWU1UktZbTVsNmc3WS01S3QyVkhZQlNwdHJzN2NwUFdOdzVjWjBIQm1KN014WnY1dVhFdzFFekVCOVhEb1FZLVNfTDVQc19aZHjSAboBQVVfeXFMTW5OSjhGUjVzaFBPbUJTbFBKdDVYWndaOGpVdG1tSDZQdF9TbXVWRzdaYUplS0dUMzBGR2pQMklvNWE1TEN3VGZlWkRYSlhrU1NRUUZldGRkbXZ1YkFfNnVtNjBOeEtPeUp0bXdWbjJjZ1FvZFlQNEk5TzhXVzhLa01maTY2dldSOGJWNS1RRUxnMmZOUDFvS3BqOVM3ZktjYk5xVlBZWFJQMG5kRXFwUl9qUFJrY0stZDd3?oc=5",
+   "time": "2026-11-04T23:42:57+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Sun Malaysia",
+   "title": "Singapore strengthens haze law with arrest powers, bigger fines",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcks1RmExbEp1eGRNQjlleVBlWWsxMEJQdHBGM3pNbE5USHpEOG1kWUQ1RmdURW5Da3NnUlpvUzM2ZFVfYXR1U1N4aGhyNlUzTnZReEw2cmlXaThHTlh1Wm5FSHpEMWtBa3FDRjVPWjJpVXBPeDd0QXpLQjdGeGRPY1gtSUtPSjE2ZkdwTzgtX1V2amFacXFlZVZra0lvRm85WXF3UA?oc=5",
+   "time": "2026-11-04T23:39:13+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore strengthens haze laws, passing amendments to Transboundary Haze Pollution Act",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUm90NmF4TnFtbTd1MmxQTWswZ05Mc2I3RXZQMjNnZ3RQcDBzbHpOclpkMVd6SHZ1N2kxT1BSdTFmZUpBOUtnamFURDJYb0FyVmJQbDhvOE5DT21vQWFFbVJydHNBMFJUQWthekN3UnkxZzFkMUF6S095aUhiUUp6OUtMZ0QxLUYzVjUtSS1CNUxPemo2WDU0MjdTZmNxMUVNRXVyWW00MHR4SlRwUTVBNmMtUURXa21LRVVmMllqZ2dfYm1wanlETF9R?oc=5",
+   "time": "2026-11-04T23:03:21+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Enhanced haze law 'not a silver bullet', international cooperation remains crucial: Grace Fu",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDd1QS1xakhmQm9nQjVQWjVZdU5VYldpRjhGQzdpN18wZGdLcGVuNXR3dzZrY3F4aEVWYWFFRHdwOTJiN1NXcF83OE1uSURac0lmOHd2eWgtclBmQjRLcGNtRkJOSExwcVNxYmZKNEZZOHJNZ2xKSkg2VDVKMnJzUkRFd0JZX0FjZmIwWkFBVkFpVVNFVzFRTXc1UQ?oc=5",
+   "time": "2026-11-04T22:56:38+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -525,13 +553,6 @@
    "title": "Indonesia to push for ratification of Asean haze centre agreement",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1oyc1hSeWRzd1VzNlBReXFDN1ZwS0s4bkN2UnN6c3BYYkRNaEd0blpaUkFfY3Bpa2RGcWk1S0U5NWViWEdWUGU4Sl9Pd3BHdEJ4WU1ESHgyOUEyRnJaT24zXzBCVFpycnJEZ0hYZWsteGNDWnJKUFQtZ3ZtaXFKbms3TUIyNmZ4cmpkb3lEMzBMbFg2ZzlXU0ZTeDhESUhjNUVoeW85MHJOd9IBrwFBVV95cUxPZnJtM0ViRDZ2eW9idzRPNUdOQ2xmZXZ2QTJ3bk10THlfWVlhSVR1c2h1Z2Nnb2NzdENVWUM5UGxKaEtvb0RiMERuREFJcHh4eGxINDBYVUJWamFfVVBFaEpQRE5OVGNubWE3dFlOdE9FUVc1ZmJLbkhvcFVtX1EtQWdoS0NINDlydEs5MFhFMFFNZExBenpYQkpKdzNjaU9CWEpMUUxCa0ItRGJ2TjRB?oc=5",
    "time": "2026-11-04T21:53:54+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Enhanced haze law 'not a silver bullet', international cooperation remains crucial: Grace Fu",
-   "url": "https://www.channelnewsasia.com/singapore/changes-haze-law-not-silver-bullet-parliament-6524361",
-   "time": "2026-11-04T21:44:52+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "Singapore Proposes Tougher Haze Law After Indonesia Wildfires",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFRuc1BGbWg1Z2l1Tm83SGlMb2t0VnBNeVJyaVdBUERCOHF2Z0JQU19YeWxyb2Z5aW9rY1VMWW5xWGFxLXJUTGxHQ2NrRWdxaUd6eEdWbzJ1MXhGWHFUbE4yMEMzNkVSTDl0U1JnX1Q3SWpZcXZxSUF2YjhneExqQVJhMzlmU2dwTGNxaGZzaUs1ZmVIWGJpOHo1d0tlaDZUai1Na19WRlc3OVpXbEhYcHVIcUJxTHZ5eXB3MDZzampvclk?oc=5",
    "time": "2026-11-04T20:39:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Jakarta Post",
-   "title": "Indonesia seeks stronger haze response ahead of ASEAN Summit",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjZqeHJLRV9jRm9JSm9nRlZuV1luRzBjM0tTQ1MwbHZuSjZUaTZWckt3YXVTVUdiamkwQ1BRZzZJVUhneW5kTGFPaHc4eExOX0dGSFN6bmJjN2I4TkliMEZORFgtWEtsb0FhNE5DTHRoRUo1UjhCWDVWNFE5QjZhQmFiZXlaWDU5RWN1cngxV1dKdkxqWGxoY05ITWVNVVJRZ0pIRnB6Z1JBT0ph?oc=5",
-   "time": "2026-11-04T20:19:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
-   "time": "2026-11-04T19:52:12+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Errant firms face S$20mil fine, blocked financial services under proposed changes to Singapore haze law",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQU3J6TG5UeXRrRjlMTEI4RG5yYS0waTVRUHhkcjdwNGlFcHN0RWFzcnB0dTZNNkoxM3pRcVViVHV2S0x6bVBtdjJRVldnbEVkX19nLWVtTFJGeHJTTGpaTElOd2xvLXJnZGh2N3Z3ak5nZjVzWDM0NmNQUm9iR25NSXcydUF1TDl3QjdZRUFPN3MwWG9INFVLcHZxdzlEa1FaWk43WjJDRGl1NFJDd3FIaW5zVnVLY0swV084YW5Ra21MV0NZUGtGQXZ0SXVVTkhGSUpVWWtBYXlVaE5QRG1DRl85YW1mMVF1TjBrY3pCMnNRNlRhdjc4?oc=5",
-   "time": "2026-11-04T19:18:00+08:00",
    "summary": ""
   }
  ]
