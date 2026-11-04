@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-05T00:00:00+08:00",
+ "updated": "2026-11-05T01:00:00+08:00",
  "psi": {
   "west": 70,
-  "east": 61,
+  "east": 60,
   "central": 65,
-  "south": 64,
-  "north": 61
+  "south": 63,
+  "north": 60
  },
  "pm25": {
-  "west": 24,
-  "east": 15,
-  "central": 16,
-  "south": 8,
-  "north": 14
+  "west": 21,
+  "east": 18,
+  "central": 23,
+  "south": 15,
+  "north": 10
  },
  "hist": [
-  {
-   "t": "2026-11-03T00:00:00+08:00",
-   "psi": {
-    "west": 81,
-    "east": 65,
-    "central": 67,
-    "south": 66,
-    "north": 68
-   }
-  },
   {
    "t": "2026-11-03T01:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 64,
     "north": 61
    }
+  },
+  {
+   "t": "2026-11-05T01:00:00+08:00",
+   "psi": {
+    "west": 70,
+    "east": 60,
+    "central": 65,
+    "south": 63,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-11-05T00:08:05+08:00",
+ "newsUpdated": "2026-11-05T01:08:16+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Manila Times",
+   "title": "Singapore to toughen anti-haze law with arrest powers",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ1czc1pCLTc0Wk5EQXU5QWxtMGNUSldvckRYRkprYjM0UVYtQld3Sk5VQURQby1aZnJJNzJkdGNMTkFZSnIwNktBR2M1Q1k3b2pqX3R0WFdWLWRnNHpMUEhCUUs2UDhtQS14dl9WN2VBTnlDSlVfMHlaNGtQNnF3N0dNMFNMdy1PMGpCcy1hQWtEQzM5aFIxd1gwR0x4TjkxcjlPVGtaMnpCc1o2azZvOG1NQ3VNRklDcTJv0gHAAUFVX3lxTE1TMk80Vk82UVJsOXpSRV9tR2FzSW9ncGh1czV5OWlPRkVSeUVoSkFZN2JZZnVLaFNYcEt3YlllZzJiNnNfc19PTUtBZTl4ODZtaHZ6cWU5NHdFSURDOEtza3FrTTJNanJGY1F2MW1UOHZMcFNrYUlRX3dZbmd2ZFpfbTdIcEFqbzgxQzlMVndhdDdaT1dGay1VVWp3T0lPUGVrU2lHY2dZWmZtQVhiazJ5RG9UREZlZGlTVTJpUWJoNQ?oc=5",
+   "time": "2026-11-05T00:03:00+08:00",
+   "summary": ""
   },
   {
    "source": "NST Online",
@@ -588,13 +595,6 @@
    "title": "SAF operations continue amid haze, but servicemen's safety top priority: Chan Chun Sing, Singapore News",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGJhcmJuVDJqNmNKanZYbEdFUzBIekdRQjhqbnh6bklUOGpIcE0tRnRKbGhmcERWN0dmSUQ2Q2paT2ZUWVlRRlVlMTlhWTlONlVaUThkQXdHZGJVcy0yeUl0R0NCY1M3bUxkdG1adUZjbUk0bW5DNkNIa09WQnFySVFqSQ?oc=5",
    "time": "2026-11-04T20:41:47+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bloomberg.com",
-   "title": "Singapore Proposes Tougher Haze Law After Indonesia Wildfires",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFRuc1BGbWg1Z2l1Tm83SGlMb2t0VnBNeVJyaVdBUERCOHF2Z0JQU19YeWxyb2Z5aW9rY1VMWW5xWGFxLXJUTGxHQ2NrRWdxaUd6eEdWbzJ1MXhGWHFUbE4yMEMzNkVSTDl0U1JnX1Q3SWpZcXZxSUF2YjhneExqQVJhMzlmU2dwTGNxaGZzaUs1ZmVIWGJpOHo1d0tlaDZUai1Na19WRlc3OVpXbEhYcHVIcUJxTHZ5eXB3MDZzampvclk?oc=5",
-   "time": "2026-11-04T20:39:02+08:00",
    "summary": ""
   }
  ]
