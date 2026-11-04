@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T16:00:00+08:00",
+ "updated": "2026-11-04T17:00:00+08:00",
  "psi": {
   "west": 69,
   "east": 61,
@@ -8,23 +8,13 @@
   "north": 60
  },
  "pm25": {
-  "west": 37,
-  "east": 18,
-  "central": 21,
-  "south": 22,
-  "north": 16
+  "west": 45,
+  "east": 17,
+  "central": 18,
+  "south": 26,
+  "north": 18
  },
  "hist": [
-  {
-   "t": "2026-11-02T16:00:00+08:00",
-   "psi": {
-    "west": 83,
-    "east": 63,
-    "central": 69,
-    "south": 65,
-    "north": 68
-   }
-  },
   {
    "t": "2026-11-02T17:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 64,
     "north": 60
    }
+  },
+  {
+   "t": "2026-11-04T17:00:00+08:00",
+   "psi": {
+    "west": 69,
+    "east": 61,
+    "central": 67,
+    "south": 64,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-11-04T16:07:28+08:00",
+ "newsUpdated": "2026-11-04T17:07:13+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "planb.sg",
+   "title": "Singapore Proposes Arrest Powers And $20 Million Fines In Haze Crackdown",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTzFEOWVwc2phQmF4NzB1b2N0ZUFrbXIzd1d4M29xMVdIcWt2NmQ2UmRhb3BESkNiZGFKejZkTC05X3F6M2xUS0xUSm1IVUdmNFUxaV9ZY0ZGRU1iYmVLUEtTWnJJZVBmM2VjNHp0OW1oZ2tVTXczbUI3bDh0SEhkMkdwbDA4UlpVcDY0c3BrekdwT3IyVkVkNzZmT29jdw?oc=5",
+   "time": "2026-11-04T16:56:05+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Standard (HK)",
+   "title": "Singapore to amend haze law to widen investigation powers",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeGVPRkJUYzdOdkVFSTZnb0ZhYmFIYU52YV9nZHZLcDZvMFN2Z0kzOVpOc010Wm1tN2J3RURMS0VwN1A4VWJvQUpxN0lGLXB4SmkxekkwV01xa3JUZ1R2bXA1RFQwbi0wckJwSXY4LWlBb2JPZzMxS2FrQkhfRzB1LWdWV3FoSmlKOEljS1V2eTA1UWNrUGNaYWVjcWN1SnBZRzRzaml3RFVKb09JbkE?oc=5",
+   "time": "2026-11-04T16:46:38+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Bloomberg.com",
+   "title": "Singapore Proposes Tougher Haze Law After Indonesia Wildfires",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFRuc1BGbWg1Z2l1Tm83SGlMb2t0VnBNeVJyaVdBUERCOHF2Z0JQU19YeWxyb2Z5aW9rY1VMWW5xWGFxLXJUTGxHQ2NrRWdxaUd6eEdWbzJ1MXhGWHFUbE4yMEMzNkVSTDl0U1JnX1Q3SWpZcXZxSUF2YjhneExqQVJhMzlmU2dwTGNxaGZzaUs1ZmVIWGJpOHo1d0tlaDZUai1Na19WRlc3OVpXbEhYcHVIcUJxTHZ5eXB3MDZzampvclk?oc=5",
+   "time": "2026-11-04T16:08:15+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Free Malaysia Today",
+   "title": "Singapore proposes tougher haze law after Indonesia’s wildfires",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMVdfM0pTQ3JTQVBpYkVfVDdERFA1VURwQTgtSEdJeVppTHBZQ1RfcXRKenV1NEZWMWhLS0N4QVZQVDhpR3FzZHpkMldiakRVXzg3UTFCQmZyUmpRRlJMaFNMNlB4NXZyLTlhWmNMMnlxTjdodEYyeERrMWNuNTlKbkV3OU9UYldkZl9OdjBDNTRlaEd1MmJCMVpwSFBlakNmZV9Wdm9JWDlHTG9iMFBoeW93aG5jMG9ucmpyNHJ3?oc=5",
+   "time": "2026-11-04T16:05:20+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yahoo News Singapore",
+   "title": "Singapore to toughen haze law with arrest powers, bigger fines",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPMFhyaVVTX2VXRjJPZGFQcHJQZWZQUldaUTV3eWxwRERsXzU3VmFZT093cTNOU1UybndqMDRIWDlqalFaUXNJejVxQWVvV3JfTExkVUdUcS1IYjgzX1lUcnpPY205NElTMm5YS1BsTEE1by15QnZhblVxOVlQeTQ?oc=5",
+   "time": "2026-11-04T16:01:46+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -521,24 +556,10 @@
    "summary": ""
   },
   {
-   "source": "Yahoo",
-   "title": "Singapore to amend haze law to widen investigation powers",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeDE3VHZzN0JBRl9UY1ZsaFFudmtnVW9TVkRyZWZPNF9TVFdVdXlvb1gyY1BrR2pTT2FwWGthOVpBYUx6QkpLRzhnNjdTRFYwRFlSQnBfejlZV1RQT0pwSXFhQTJqOU9TUUJUMVFyd05qc0tkWGU3dm1vbnRrT29fYU9XWjgtSjd2aEFtZzJ3b3o?oc=5",
-   "time": "2026-11-04T15:30:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "Mothership",
    "title": "Maximum fine for haze offences to be raised to S$20 million under proposed amendment of THPA",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LVHE4SUVCQ2RHQ3NCWGRWTXpFeWlrQUpXV0E0NWdUbXRTTHFVcUkyYmJNSzVGbWxwQnBmbHp4QW1KbEd3dERnMU4zWjcwQXdlRmdRN3VLOHIwY25RV0Rv?oc=5",
    "time": "2026-11-04T15:26:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bloomberg.com",
-   "title": "Singapore Proposes Tougher Haze Law After Indonesia Wildfires",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFRuc1BGbWg1Z2l1Tm83SGlMb2t0VnBNeVJyaVdBUERCOHF2Z0JQU19YeWxyb2Z5aW9rY1VMWW5xWGFxLXJUTGxHQ2NrRWdxaUd6eEdWbzJ1MXhGWHFUbE4yMEMzNkVSTDl0U1JnX1Q3SWpZcXZxSUF2YjhneExqQVJhMzlmU2dwTGNxaGZzaUs1ZmVIWGJpOHo1d0tlaDZUai1Na19WRlc3OVpXbEhYcHVIcUJxTHZ5eXB3MDZzampvclk?oc=5",
-   "time": "2026-11-04T15:05:00+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "Singapore proposes stronger investigative powers, stiffer penalties in expedited review of transboundary haze law",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQWhUNUNEUHlqdm9FNENKZmpHZFRlUFc1M3dDZG5YSzhQa3U3TVl2TzdvbFBrM3hRRC1HYjFuZmpOeTFnM3NiSGpNNmNMSTdZelhLZzQ3bWdRTF9LSnVqclRNd2hkQjgxaWpnMkYyM1dMQ3c3V3NVZXE4clpuTFphdUZUNjVZbGQ4RXN0SjRYZ2U2Z283bWM4RVNaWnk1bDIya1BTakI5NnFXM1lnNFM2czNHcjJvUVBubGw3MXA0UkVsa3ZGMlVZUzJkSjBsM3NMc0UwU0NQYUpuX2RPeXkzeVdYN1BLXzlEWUlz?oc=5",
    "time": "2026-11-04T14:43:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "UA.NEWS",
-   "title": "Singapore Parliament to discuss changes to transboundary haze law — Channel NewsAsia",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX29ma2xzc3hZLVdoSE5ENTIyU21mUll1VVp1T2lDYlc1a05EYXZqLUV6dndOTGVfeUljQkxITmRvU2piMzUtdlFDa2dIMHM4TnRpdzQ2dWM2WjZGa0ZDREJwNjUyTzNCdjVhcXFKZWQ4aG5uWFU5Q1FqRWFvUHYtQnVDdWx5S3NkRmpqY1dPSkxvemtodHBUdG1NeXNHb0V2cklsSDNIcnpyYURrRmFnRDVHWUNLc3RFdGNQSmNkaTM?oc=5",
-   "time": "2026-11-04T14:02:42+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Indonesia at Melbourne",
-   "title": "Indonesia’s haze crisis: when patriotism means demanding government accountability",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRXRhLW1JdzVlTGZQYXBwMXAybW9NQ1daUGtWUE9ZdExPc3pMMmlYXzhvT3V5SGNacFdKbnlkbGNqSnB5WjM1aXRHWGQtMEc4ZXBpd3poeU9PdE5MMFFoRmNwYnoyMzRFLXBBLVBPMC1VdVFia0tRSENCeG4tbnk3a05RMjNNcVhRbERJMFZ0NjlIODdYVTF0Q2JLTkM2b2VFTll3X3YzSWdySFRFWjFMa194amZUNUg3OThNUmllQzZ6X1E?oc=5",
-   "time": "2026-11-04T10:38:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Media OutReach Newswire",
-   "title": "Six Wellness Picks and Practical Essentials from iHerb for this Haze Season #iHerb #iHerbSG",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORFJsU0Q0bDEzSUpUSGJLc1lGQWdPeDBrMnc4UDJsWDBLZFdXdmdpMXlGMG50R0RCc2htNy11alFQdHMtOHdGaUJXRW95dkZaRHlhVHgzcHFzdkxLZDVMYmJPclJjMEY3V05HYWxVbW9YeUZXV2dGc0RVX09ub1UxYU0weVU0MlNvMUxRaFl2TzdKaXlkdnVfMVBrYW8wa2Ntel82b0pqSUlGckYwVGRibmYyZEdWTVJaODB1UWRKc05RSHRSMkIxZlFKZThqRXR4cXNaQWtvYw?oc=5",
-   "time": "2026-11-04T10:00:00+08:00",
    "summary": ""
   }
  ]
