@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-04T15:00:00+08:00",
+ "updated": "2026-11-04T16:00:00+08:00",
  "psi": {
-  "west": 68,
+  "west": 69,
   "east": 61,
-  "central": 68,
-  "south": 63,
-  "north": 61
+  "central": 67,
+  "south": 64,
+  "north": 60
  },
  "pm25": {
-  "west": 35,
-  "east": 9,
-  "central": 16,
-  "south": 14,
-  "north": 11
+  "west": 37,
+  "east": 18,
+  "central": 21,
+  "south": 22,
+  "north": 16
  },
  "hist": [
-  {
-   "t": "2026-11-02T15:00:00+08:00",
-   "psi": {
-    "west": 84,
-    "east": 63,
-    "central": 69,
-    "south": 66,
-    "north": 69
-   }
-  },
   {
    "t": "2026-11-02T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 63,
     "north": 61
    }
+  },
+  {
+   "t": "2026-11-04T16:00:00+08:00",
+   "psi": {
+    "west": 69,
+    "east": 61,
+    "central": 67,
+    "south": 64,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-11-04T15:08:18+08:00",
+ "newsUpdated": "2026-11-04T16:07:28+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Why Singapore is urgently strengthening laws to tackle haze pollution Grace Fu",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0VWZ1hvcW5FSXRNVVJMX0pKUTNYWHp5ZkVuMGtFYU8tbDJqajN5S2hQTVhwb2tDX1RzaE4tZ3RxYlZNRUpOU1EwQk5GZTBjYmNpNEpsbVFlaGRjcS1sV3JBbVkzSG1yQjJMYnpsM2RaQU10azRMU0FOc0lUSEdTa2xlRlFsRUtlMGNlaVJVenhhZlN3SUc5TENCTHY4TW1OblBoNE13M1RkS3ZfZ1VfN190NHlxVHRXX0o0?oc=5",
+   "time": "2026-11-04T15:56:03+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Kompas.com",
+   "title": "Anticipating the ASEAN Summit to Address Forest Fires, Indonesia Promotes Haze Control Center Operations",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2NKb3FRRjJMVDI0OGpIZlpWT21FUmpfNF9aS1ZLUzVOczloVFFmUW96cEg4RThrWE1Ba3pWOEhVUlpQdHBtTDBJVm1sSGpvbXFYcGlXZmZadHJPRFJva3owWGVtNVEySnhTNElRSEItd09UXzl3QmRFVDV1SDJvbUxRV2kwY0sxeWUtOEx1MkR5T0w5MkVSZC1QMmszY3l6UzVoejZOeHBnNE05QXZINll5M1p5OFRNYWVwdVV0bWZDdms?oc=5",
+   "time": "2026-11-04T15:51:37+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yahoo",
+   "title": "Singapore to amend haze law to widen investigation powers",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeDE3VHZzN0JBRl9UY1ZsaFFudmtnVW9TVkRyZWZPNF9TVFdVdXlvb1gyY1BrR2pTT2FwWGthOVpBYUx6QkpLRzhnNjdTRFYwRFlSQnBfejlZV1RQT0pwSXFhQTJqOU9TUUJUMVFyd05qc0tkWGU3dm1vbnRrT29fYU9XWjgtSjd2aEFtZzJ3b3o?oc=5",
+   "time": "2026-11-04T15:30:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Mothership",
+   "title": "Maximum fine for haze offences to be raised to S$20 million under proposed amendment of THPA",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LVHE4SUVCQ2RHQ3NCWGRWTXpFeWlrQUpXV0E0NWdUbXRTTHFVcUkyYmJNSzVGbWxwQnBmbHp4QW1KbEd3dERnMU4zWjcwQXdlRmdRN3VLOHIwY25RV0Rv?oc=5",
+   "time": "2026-11-04T15:26:25+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Bloomberg.com",
+   "title": "Singapore Proposes Tougher Haze Law After Indonesia Wildfires",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFRuc1BGbWg1Z2l1Tm83SGlMb2t0VnBNeVJyaVdBUERCOHF2Z0JQU19YeWxyb2Z5aW9rY1VMWW5xWGFxLXJUTGxHQ2NrRWdxaUd6eEdWbzJ1MXhGWHFUbE4yMEMzNkVSTDl0U1JnX1Q3SWpZcXZxSUF2YjhneExqQVJhMzlmU2dwTGNxaGZzaUs1ZmVIWGJpOHo1d0tlaDZUai1Na19WRlc3OVpXbEhYcHVIcUJxTHZ5eXB3MDZzampvclk?oc=5",
+   "time": "2026-11-04T15:05:00+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -542,24 +577,10 @@
    "summary": ""
   },
   {
-   "source": "TradingView",
-   "title": "Singapore to amend haze law to widen investigation powers",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcVR0X3lVQkdUQkg4TldqdlN3LVRtY19BZ2IwZ1lPYnRFdzYwZFlnU1UySnB2aEhQMy1naWtjazVrREFBMWY0cEFCSzJfaEFiMkJ5M2tveTJzSk12R3RZQ1ZjaVR3d01LeG9sWWZXUUJleWhLckR6RE5MZW5xTVZMTUk4S0xHV0phOS1PUEI2NVRhR1BYYlgxS3U0bXJmMEo0eENTNDFPTElnNmN4VWJRX2JWWk9lTFp6T3dIS1l1Y2JuY3VhU0E?oc=5",
-   "time": "2026-11-04T14:39:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "UA.NEWS",
    "title": "Singapore Parliament to discuss changes to transboundary haze law — Channel NewsAsia",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX29ma2xzc3hZLVdoSE5ENTIyU21mUll1VVp1T2lDYlc1a05EYXZqLUV6dndOTGVfeUljQkxITmRvU2piMzUtdlFDa2dIMHM4TnRpdzQ2dWM2WjZGa0ZDREJwNjUyTzNCdjVhcXFKZWQ4aG5uWFU5Q1FqRWFvUHYtQnVDdWx5S3NkRmpqY1dPSkxvemtodHBUdG1NeXNHb0V2cklsSDNIcnpyYURrRmFnRDVHWUNLc3RFdGNQSmNkaTM?oc=5",
    "time": "2026-11-04T14:02:42+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Parliament to debate proposed amendments to Transboundary Haze Pollution Act",
-   "url": "https://www.channelnewsasia.com/singapore/parliament-debate-proposed-amendments-transboundary-haze-pollution-act-6520001",
-   "time": "2026-11-04T13:42:00+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "Six Wellness Picks and Practical Essentials from iHerb for this Haze Season #iHerb #iHerbSG",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORFJsU0Q0bDEzSUpUSGJLc1lGQWdPeDBrMnc4UDJsWDBLZFdXdmdpMXlGMG50R0RCc2htNy11alFQdHMtOHdGaUJXRW95dkZaRHlhVHgzcHFzdkxLZDVMYmJPclJjMEY3V05HYWxVbW9YeUZXV2dGc0RVX09ub1UxYU0weVU0MlNvMUxRaFl2TzdKaXlkdnVfMVBrYW8wa2Ntel82b0pqSUlGckYwVGRibmYyZEdWTVJaODB1UWRKc05RSHRSMkIxZlFKZThqRXR4cXNaQWtvYw?oc=5",
    "time": "2026-11-04T10:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Singapore Business Review",
-   "title": "Seven firms to cooperate with NEA in haze involvement probe",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNGR2dWMxNGc1TzAzTWdKUDBrVEctV294ZjRoWUFsZDFwMUN0RnJtWWExS3F6alE5TlJoMkpVa3lXWGNSTTVGdWo1LVRxa0twMThPT0tGNW1wVWp5R19VMm1VcThOSVBmbWVCWEU0V295bVExcFdBUmFIVm9EeF9DMjhvTXRkN3JRQ0Z3d2gza0tiUQ?oc=5",
-   "time": "2026-11-04T09:28:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Bernama",
-   "title": "Singapore To Boost ASEAN Haze Agreement Under 2027 Chairmanship",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wYjNqeGhUTFBfbzc4dldOdzJPU2FEeDBVSTRkcXFyNnNYVzlNcmIweGpmRTkwVzdWV0dJRnFqczhqTVBQZkxBVHhxdGI4V1lUOFZYbUJSYkVSWHJ1VWhDeTBR?oc=5",
-   "time": "2026-11-04T08:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Law.com",
-   "title": "Dentons Rodyk, WongPartnership, TSMP and Toby Landau KC Named to Singapore Haze Probe",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd1RiWk1DNmd1TEJyUXhISFRxOGMwZjlFLUgtUGIzUzNfSkc1VjAzV0RpRGZOZURZbHJyRjNwTmFQWW92c1dWem9YWXFNRE53ZmJYNTlIX0pHT1c3bmg0eTM2clZXVU1JbFNncEllaUZmdGJMWW02ZGM1LTc2TkFaa0l6cHI4cTBjZThVSVdKNVdLdk5sX1laU0w2UzFfSW9hZEFISENfaDRsSjM1OE1tRDVIdUhQRUhtbU5LMGdaUTVySnpQQk16c3YzLTBveWNiblI0?oc=5",
-   "time": "2026-11-04T05:27:19+08:00",
    "summary": ""
   }
  ]
