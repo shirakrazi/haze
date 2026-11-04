@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-04T10:00:00+08:00",
+ "updated": "2026-11-04T11:00:00+08:00",
  "psi": {
-  "west": 70,
+  "west": 69,
   "east": 61,
-  "central": 67,
+  "central": 68,
   "south": 62,
   "north": 62
  },
  "pm25": {
-  "west": 27,
-  "east": 22,
-  "central": 37,
-  "south": 26,
-  "north": 27
+  "west": 24,
+  "east": 19,
+  "central": 50,
+  "south": 22,
+  "north": 18
  },
  "hist": [
-  {
-   "t": "2026-11-02T10:00:00+08:00",
-   "psi": {
-    "west": 84,
-    "east": 64,
-    "central": 70,
-    "south": 68,
-    "north": 71
-   }
-  },
   {
    "t": "2026-11-02T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 62,
     "north": 62
    }
+  },
+  {
+   "t": "2026-11-04T11:00:00+08:00",
+   "psi": {
+    "west": 69,
+    "east": 61,
+    "central": 68,
+    "south": 62,
+    "north": 62
+   }
   }
  ],
- "newsUpdated": "2026-11-04T10:07:23+08:00",
+ "newsUpdated": "2026-11-04T11:06:47+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Indonesia at Melbourne",
+   "title": "Indonesia’s haze crisis: when patriotism means demanding government accountability",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRXRhLW1JdzVlTGZQYXBwMXAybW9NQ1daUGtWUE9ZdExPc3pMMmlYXzhvT3V5SGNacFdKbnlkbGNqSnB5WjM1aXRHWGQtMEc4ZXBpd3poeU9PdE5MMFFoRmNwYnoyMzRFLXBBLVBPMC1VdVFia0tRSENCeG4tbnk3a05RMjNNcVhRbERJMFZ0NjlIODdYVTF0Q2JLTkM2b2VFTll3X3YzSWdySFRFWjFMa194amZUNUg3OThNUmllQzZ6X1E?oc=5",
+   "time": "2026-11-04T10:38:17+08:00",
+   "summary": ""
   },
   {
    "source": "Media OutReach Newswire",
@@ -588,13 +595,6 @@
    "title": "Haze, Haze go away",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EZGhQTGNDbXlQRVFRTHpYNmZyeGFlMnpOMEFENEM3UDN2bTJnbWxoM1dOQkk3Rm9IaTdzV0hncjFxSzVHZXdaVzJ1dWNlbHlScF9NYkRPQnZ6Q0xH?oc=5",
    "time": "2026-11-03T22:14:44+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Parliament in brief: Safeguards for workers during haze and other highlights from Nov 3",
-   "url": "https://www.channelnewsasia.com/singapore/parliament-brief-workers-haze-law-meti-other-highlights-6517186",
-   "time": "2026-11-03T22:13:26+08:00",
    "summary": ""
   }
  ]
