@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-04T18:00:00+08:00",
+ "updated": "2026-11-04T19:00:00+08:00",
  "psi": {
   "west": 69,
-  "east": 61,
+  "east": 60,
   "central": 66,
   "south": 64,
   "north": 60
  },
  "pm25": {
-  "west": 35,
-  "east": 16,
-  "central": 13,
-  "south": 21,
-  "north": 20
+  "west": 29,
+  "east": 12,
+  "central": 15,
+  "south": 27,
+  "north": 11
  },
  "hist": [
-  {
-   "t": "2026-11-02T18:00:00+08:00",
-   "psi": {
-    "west": 81,
-    "east": 63,
-    "central": 68,
-    "south": 66,
-    "north": 68
-   }
-  },
   {
    "t": "2026-11-02T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 64,
     "north": 60
    }
+  },
+  {
+   "t": "2026-11-04T19:00:00+08:00",
+   "psi": {
+    "west": 69,
+    "east": 60,
+    "central": 66,
+    "south": 64,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-11-04T18:06:56+08:00",
+ "newsUpdated": "2026-11-04T19:07:49+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "ANTARA News",
+   "title": "Indonesia to push for ASEAN haze center ratification at summit",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNUtvb3B6VGgtZEV0cWRrT3FtT0xfUFA3UDRMeGdhMUpoeGFVdFgxUFB4S21qQUZYcXhFX25LMVg1NVg1bUlnM1dTVWc1NE9mUk1JQklBMGVqLWhDQ3dBa0lmZndKbnU3dWNReWd1UVNjaDNTRW5OOGF1bjhtdWFBSDcxN0wtdnNteGJBTlpZV29Bb0hxNWczalJLVlpXQzhR0gGmAUFVX3lxTFBzQmMxV0stbUhFQmpydzdYaU9fRWJ5RjM4OEdfQmFic2Q2UzRlc3hpTk9IYm00OFVzQ2dfQlZpbWFpSzZiNkFIamdMc0plNDRiYmczelA5aUlLZTVoQlZWNnlhdTJIME1oREFtLTBWX0lPNnBFR0VRb0VGcVZiSDBJcHJzbGVwLUdISFd0cUhjV3NxOHJkbUJrVHNCc2xZQmRFXzJ1NkE?oc=5",
+   "time": "2026-11-04T18:29:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "TRP | The Rakyat Post",
+   "title": "After The Haze Is Gone, Malaysians Hit With Monsoon Season Floods",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONDRCMUhlLVhNUXRkbUJpdnB2MEdRZ3BBc3NQeW9Yb0dadFFUUXh5TVhoYW9kUHA1UjF1M0RsQ0wxN0FoODl0VG50elE5a3FOVUVQUFdqbWVNbS1MWUVudDJQOThfODNlaXhnckwzUi1SUGp2STc4MFY1NW1ET1RVcG1wWTlBRWZfdWRDMDRUN3BQUXUzeGdjM28zSXByYm1MWkJLaDcyQ2dxSFBRaTV5NQ?oc=5",
+   "time": "2026-11-04T18:17:51+08:00",
+   "summary": ""
+  },
+  {
+   "source": "ANTARA News",
+   "title": "Indonesia pushes haze coordination center ratification at ASEAN Summit",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ29PWV9EUDF0NUotQlYxaTBMc1p4ODVSUlVZZFhyekc3SmxOTGJWRTlfOG9ZRG5jb2VtWk5EcTNyc2YybGc2bF9nczlmeFB5dWdUSG1YQXhqSFR6MmpQTzgwUTFLdzJWYkV5d3p5b3E5MFd1dXpYeHRHXzdwTEh0OVVPanJ0c0E2ay0yMWRLVm9leGU3REIzQ3RYcTFBdU9aeTFvd3hUdzNhSU9n0gGyAUFVX3lxTFBVeHROMWgyeGtmTXFUR0JpeVdBdUpiYk9vbC1RSUZfWWhES2hwbS0xUC1Ha1MtR2dJY3VUMmExM0lCcjItM3FpU0lNb2lqSUJTUENJXy1MS3FGMW1va0JQV2NSel82V1ltTDA2Wmtseko1MmU3bTRxaFpZZjYtcS1IMENLSGdDWDVCazhIWDNwSmwxUXJMRVoxd3RrdDRGY0F0anNDLURCOHU1WEM2dVZVNEE?oc=5",
+   "time": "2026-11-04T18:16:34+08:00",
+   "summary": ""
   },
   {
    "source": "Tempo.co English",
@@ -574,27 +595,6 @@
    "title": "Singapore fighting haze with arrest powers, bigger fines",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYUk1SFI2b0ZpWUhfa0x3eWEzRWNVNTdaM2hRbUtyeXBDQzdPRVBmSEpablU1NGJxR3dvYUV3Q0NKZ0FVYlpxc1l5bGdRb3JMVEJ2RGZNWFdwR3RBNzc3dWs5Wl9GUTRWNm41SVJLc29WcjVqWXhWS1Z2STY2NlVzYlhCZTV1YkZhWEdUN3dteVpMS00yS1k1eGpnbjFSQQ?oc=5",
    "time": "2026-11-04T16:45:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Malaysia",
-   "title": "Singapore proposes tougher haze law after Indonesia wildfires",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CVzBiMWpWNEx4WkRHaF9YODljWnpxQlFlX3N5X2VyS05PVnhzclRKVW84MllsZ1NYZXpFc01Pb0xtN1lSLVZHY1FrLXVQeTNZTWdz?oc=5",
-   "time": "2026-11-04T16:12:55+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Free Malaysia Today",
-   "title": "Singapore proposes tougher haze law after Indonesia’s wildfires",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMVdfM0pTQ3JTQVBpYkVfVDdERFA1VURwQTgtSEdJeVppTHBZQ1RfcXRKenV1NEZWMWhLS0N4QVZQVDhpR3FzZHpkMldiakRVXzg3UTFCQmZyUmpRRlJMaFNMNlB4NXZyLTlhWmNMMnlxTjdodEYyeERrMWNuNTlKbkV3OU9UYldkZl9OdjBDNTRlaEd1MmJCMVpwSFBlakNmZV9Wdm9JWDlHTG9iMFBoeW93aG5jMG9ucmpyNHJ3?oc=5",
-   "time": "2026-11-04T16:05:20+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kompas.com",
-   "title": "Anticipating the ASEAN Summit to Address Forest Fires, Indonesia Promotes Haze Control Center Operations",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2NKb3FRRjJMVDI0OGpIZlpWT21FUmpfNF9aS1ZLUzVOczloVFFmUW96cEg4RThrWE1Ba3pWOEhVUlpQdHBtTDBJVm1sSGpvbXFYcGlXZmZadHJPRFJva3owWGVtNVEySnhTNElRSEItd09UXzl3QmRFVDV1SDJvbUxRV2kwY0sxeWUtOEx1MkR5T0w5MkVSZC1QMmszY3l6UzVoejZOeHBnNE05QXZINll5M1p5OFRNYWVwdVV0bWZDdms?oc=5",
-   "time": "2026-11-04T15:51:37+08:00",
    "summary": ""
   }
  ]
