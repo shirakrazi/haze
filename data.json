@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-05T06:00:00+08:00",
+ "updated": "2026-11-05T07:00:00+08:00",
  "psi": {
   "west": 70,
   "east": 59,
   "central": 63,
   "south": 62,
-  "north": 61
+  "north": 60
  },
  "pm25": {
-  "west": 30,
+  "west": 29,
   "east": 21,
-  "central": 21,
-  "south": 23,
-  "north": 34
+  "central": 32,
+  "south": 25,
+  "north": 15
  },
  "hist": [
-  {
-   "t": "2026-11-03T05:00:00+08:00",
-   "psi": {
-    "west": 81,
-    "east": 65,
-    "central": 66,
-    "south": 67,
-    "north": 70
-   }
-  },
   {
    "t": "2026-11-03T06:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 62,
     "north": 61
    }
+  },
+  {
+   "t": "2026-11-05T07:00:00+08:00",
+   "psi": {
+    "west": 70,
+    "east": 59,
+    "central": 63,
+    "south": 62,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-11-05T06:49:12+08:00",
+ "newsUpdated": "2026-11-05T07:07:38+08:00",
  "news": [
   {
    "source": "CNA",
@@ -556,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "Arab News",
+   "title": "Singapore toughens haze law with arrest powers, bigger fines",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTdTcUx6TG9UQkU3YkFTYktPZ3JXeHRGSnhSdG1FbHNNWnNQN3NFUmJWeTFPVVRwbkZnUWpyU1VzN1IyRE4yaThwb1JBanViQUNYUzBST1NzZjF2a3JXSjBSd0Z5QlhUUTljaTdzWTZrem9nVWdtSVhsZm9oQVpyOEdHZHJiQUdzcUdLNWk2by1ESUpydzU1b2RKVnpJcm8?oc=5",
+   "time": "2026-11-04T23:22:29+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Singapore strengthens haze laws, passing amendments to Transboundary Haze Pollution Act",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUm90NmF4TnFtbTd1MmxQTWswZ05Mc2I3RXZQMjNnZ3RQcDBzbHpOclpkMVd6SHZ1N2kxT1BSdTFmZUpBOUtnamFURDJYb0FyVmJQbDhvOE5DT21vQWFFbVJydHNBMFJUQWthekN3UnkxZzFkMUF6S095aUhiUUp6OUtMZ0QxLUYzVjUtSS1CNUxPemo2WDU0MjdTZmNxMUVNRXVyWW00MHR4SlRwUTVBNmMtUURXa21LRVVmMllqZ2dfYm1wanlETF9R?oc=5",
@@ -588,13 +595,6 @@
    "title": "MPs raise questions on $20m fine, delay in strengthening haze law, in six-hour debate",
    "url": "https://www.straitstimes.com/singapore/politics/mps-raise-questions-on-20m-fine-delay-in-strengthening-haze-law-in-six-hour-debate",
    "time": "2026-11-04T22:45:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "Haze law overhaul gives it more teeth, but firms beyond its reach remain the test",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0Q4VW5FUndOQTF2aGlLSktrWjBQbVJGZG9kNFhXSW42WjJqNU1NdWJTSTRUWXNJS2tEeko0MDhMTkJUNEFoRk9CU1pwaXRIRGJ6UXJPVmdic2JTOEthNzZZOU1TRlZhVHpaRkdhR1NxRDVLV3c5TmFGOWhBX2ZvUGZVSFJXYVhZSnBCZVZhVWFvbDBBQ3cyemNBS0c2T2VXeTZYT0xZeXd3VTRCOTVBdDRXZE94QQ?oc=5",
-   "time": "2026-11-04T22:09:00+08:00",
    "summary": ""
   }
  ]
