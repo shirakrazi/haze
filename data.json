@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-04T17:00:00+08:00",
+ "updated": "2026-11-04T18:00:00+08:00",
  "psi": {
   "west": 69,
   "east": 61,
-  "central": 67,
+  "central": 66,
   "south": 64,
   "north": 60
  },
  "pm25": {
-  "west": 45,
-  "east": 17,
-  "central": 18,
-  "south": 26,
-  "north": 18
+  "west": 35,
+  "east": 16,
+  "central": 13,
+  "south": 21,
+  "north": 20
  },
  "hist": [
-  {
-   "t": "2026-11-02T17:00:00+08:00",
-   "psi": {
-    "west": 82,
-    "east": 63,
-    "central": 68,
-    "south": 65,
-    "north": 68
-   }
-  },
   {
    "t": "2026-11-02T18:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 64,
     "north": 60
    }
+  },
+  {
+   "t": "2026-11-04T18:00:00+08:00",
+   "psi": {
+    "west": 69,
+    "east": 61,
+    "central": 66,
+    "south": 64,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-11-04T17:39:37+08:00",
+ "newsUpdated": "2026-11-04T18:06:56+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "Indonesia to Raise Haze Center Ratification at ASEAN Summit",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1J1dUZnb0k0am0zYk1pRkhqWUNaZUo5QThkNUhRSWk1c0FXX2dveFNSZDhjYXc4TncycDFrcnA0RFlfYTBkMk9kbnVuUVRBaThEdF9KVkhUdVFrSU9jeG1sQlZHS3h4NUlHRnVPREpnYzdWVi1seHFaZ24zYV8wM2Nqck1ZeTZvdy1sYWUxSTZ4S0JteDhR?oc=5",
+   "time": "2026-11-04T18:00:19+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore proposes raising penalty for transboundary haze pollution to S$20 million",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaUtwQnZnN0JLbktlUkY5S3l6eWJIRXIwRVdJeFVMWjZaZFNfb2xJNDZBb1pUc2g5WXRDMkVhb0ZOUllBeWdmZ19OTk5MYWxWMUpLODRJbGdZTUptcmF1eWc0UDJBb0l4QVpESzhnVUtHV09ZN2dLWmJPT0V5MWktZkxwdjEyOFNWd1JJT3ZnWXUxTTZ3Q1RsUnJQa3lrbktKT292Y2RKNGd5N1l2dmhBZmI5M1N4WnFLd0RTQWVLMA?oc=5",
+   "time": "2026-11-04T17:55:34+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Arrest powers, criminal trials in absence of accused among proposed changes to Singapore’s haze law",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTJhMUVzTnNXOEZYc0RHZ01UX3ZTXzZQWnZfRjBDcFlsOTVZNWJvVEpNcnJDNHRnRzZXUkJLRS1fM0NGWHhldXRtdVZYcVM1Rzczb05XNzJmVlV3TFBYNDNtS19YUWRtX0ZNdzE0WkxfU3o2ZXMzekZWbU56aVE4S0txaXUtQnFPa2NvYnZVV2RRdDE1UEtYXzh0WQ?oc=5",
+   "time": "2026-11-04T17:54:59+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore proposes raising maximum haze penalty from S$2 million to S$20 million",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYi1LR3lhNE9IMjdJMDFOaWNvMGVKcjdZTXQ5cDllWmNtVl9jMkgxdHdFX01ud2xKQUpydXlxM3ZzdVEwZDVLSDA2bk9RdWJwVl9GVkRzOVJub1J6N3QyLWJINHotVGxmWUJwR1VxaWU3bjE5aGlYS0s5UURMOTctRVVfNDV3V2hxeWYzSFdSaw?oc=5",
+   "time": "2026-11-04T17:48:44+08:00",
+   "summary": ""
   },
   {
    "source": "National Environment Agency (NEA)",
@@ -563,38 +591,10 @@
    "summary": ""
   },
   {
-   "source": "CNA",
-   "title": "Why Singapore is urgently strengthening laws to tackle haze pollution Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0VWZ1hvcW5FSXRNVVJMX0pKUTNYWHp5ZkVuMGtFYU8tbDJqajN5S2hQTVhwb2tDX1RzaE4tZ3RxYlZNRUpOU1EwQk5GZTBjYmNpNEpsbVFlaGRjcS1sV3JBbVkzSG1yQjJMYnpsM2RaQU10azRMU0FOc0lUSEdTa2xlRlFsRUtlMGNlaVJVenhhZlN3SUc5TENCTHY4TW1OblBoNE13M1RkS3ZfZ1VfN190NHlxVHRXX0o0?oc=5",
-   "time": "2026-11-04T15:56:03+08:00",
-   "summary": ""
-  },
-  {
    "source": "Kompas.com",
    "title": "Anticipating the ASEAN Summit to Address Forest Fires, Indonesia Promotes Haze Control Center Operations",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2NKb3FRRjJMVDI0OGpIZlpWT21FUmpfNF9aS1ZLUzVOczloVFFmUW96cEg4RThrWE1Ba3pWOEhVUlpQdHBtTDBJVm1sSGpvbXFYcGlXZmZadHJPRFJva3owWGVtNVEySnhTNElRSEItd09UXzl3QmRFVDV1SDJvbUxRV2kwY0sxeWUtOEx1MkR5T0w5MkVSZC1QMmszY3l6UzVoejZOeHBnNE05QXZINll5M1p5OFRNYWVwdVV0bWZDdms?oc=5",
    "time": "2026-11-04T15:51:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Mothership",
-   "title": "Maximum fine for haze offences to be raised to S$20 million under proposed amendment of THPA",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LVHE4SUVCQ2RHQ3NCWGRWTXpFeWlrQUpXV0E0NWdUbXRTTHFVcUkyYmJNSzVGbWxwQnBmbHp4QW1KbEd3dERnMU4zWjcwQXdlRmdRN3VLOHIwY25RV0Rv?oc=5",
-   "time": "2026-11-04T15:26:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Arrest powers, criminal trials in absence of accused among proposed changes to Singapore’s haze laws",
-   "url": "https://www.channelnewsasia.com/singapore/haze-law-changes-arrest-powers-trials-absence-6522026",
-   "time": "2026-11-04T15:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore proposes raising maximum haze penalty from S$2 million to S$20 million",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYi1LR3lhNE9IMjdJMDFOaWNvMGVKcjdZTXQ5cDllWmNtVl9jMkgxdHdFX01ud2xKQUpydXlxM3ZzdVEwZDVLSDA2bk9RdWJwVl9GVkRzOVJub1J6N3QyLWJINHotVGxmWUJwR1VxaWU3bjE5aGlYS0s5UURMOTctRVVfNDV3V2hxeWYzSFdSaw?oc=5",
-   "time": "2026-11-04T14:54:33+08:00",
    "summary": ""
   }
  ]
