@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-05T20:00:00+08:00",
+ "updated": "2026-11-05T21:00:00+08:00",
  "psi": {
-  "west": 63,
-  "east": 56,
-  "central": 60,
-  "south": 56,
+  "west": 62,
+  "east": 55,
+  "central": 59,
+  "south": 55,
   "north": 57
  },
  "pm25": {
-  "west": 12,
-  "east": 5,
-  "central": 7,
-  "south": 16,
-  "north": 5
+  "west": 26,
+  "east": 7,
+  "central": 10,
+  "south": 15,
+  "north": 7
  },
  "hist": [
-  {
-   "t": "2026-11-03T19:00:00+08:00",
-   "psi": {
-    "west": 81,
-    "east": 63,
-    "central": 68,
-    "south": 68,
-    "north": 70
-   }
-  },
   {
    "t": "2026-11-03T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 56,
     "north": 57
    }
+  },
+  {
+   "t": "2026-11-05T21:00:00+08:00",
+   "psi": {
+    "west": 62,
+    "east": 55,
+    "central": 59,
+    "south": 55,
+    "north": 57
+   }
   }
  ],
- "newsUpdated": "2026-11-05T20:11:32+08:00",
+ "newsUpdated": "2026-11-05T21:07:54+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Singapore to end most haze mitigation measures on Saturday",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WaEt5ZnFjeFUxd0IxcWF5VE1yeDhpZGRvWUxSVTVlYmdPeVZGZW5sbGFnYWtRN3Y2Q3JaNHJfWHZWaWNsaG1YQXQweUhrVV9wbUxv?oc=5",
+   "time": "2026-11-05T20:35:50+08:00",
+   "summary": ""
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Goodbye haze, for now: Mask distribution and subsidy scheme to end, shelters to close as situation improves",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGZqN0xHZGJsQ2NFRXAwSE0xcUxGaHBLdzE2STdyaWdwNk4zNnZzNVdyaXZUeklUMThPakMyWGQ0cVdyQjc5dm1hWTNOdzA1R2ZKOXF2NWUyeEhSSUJhV1AyY0tmYWdMTk9DUF9RZFE2Rkota3BIOFVjZF9fZjBDaVVRSFg?oc=5",
+   "time": "2026-11-05T20:35:40+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Mask distribution, haze shelters to cease by Nov 7; haze subsidy scheme to end from Nov 12",
+   "url": "https://www.straitstimes.com/singapore/environment/mask-distribution-haze-shelters-to-cease-by-nov-7-haze-subsidy-scheme-to-end-from-nov-12",
+   "time": "2026-11-05T20:09:15+08:00",
+   "summary": ""
   },
   {
    "source": "Indonesia Business Post",
@@ -518,6 +539,13 @@
    "title": "Singapore to end N95 mask distribution on Saturday as haze abates",
    "url": "https://www.channelnewsasia.com/singapore/nea-haze-mask-distribution-6526851",
    "time": "2026-11-05T19:22:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "nea.gov.sg",
+   "title": "CESSATION OF MASK DISTRIBUTION AND CLOSURE OF HAZE SHELTERS (5 November 2026)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3lSOGJNT3BKTkgyLWxCcWpBbVdsQjNHalNuMnI5Ym1hOG90aDJiV0FEb0JTZUpOUmNnMlZhdlkyNFhhb0hjRHdQWnl3T2szdWdfaXBUang5OURjeTYtd3NZakZFUEdtbmdWZzN4eTVTaUxvSjN5YUcyejVld0xSZEJGMGN6Y2FpZGFiVTEydWw1Zw?oc=5",
+   "time": "2026-11-05T19:11:47+08:00",
    "summary": ""
   },
   {
@@ -556,45 +584,17 @@
    "summary": ""
   },
   {
+   "source": "The Straits Times",
+   "title": "Companies expected to cooperate with haze investigation: Shanmugam",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
+   "time": "2026-11-05T15:21:57+08:00",
+   "summary": ""
+  },
+  {
    "source": "NST Online",
    "title": "Malaysia sticks to diplomatic approach on transboundary haze",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVlUOUtuODBaNk5jcDUycHlpWURIWGtxQlhWQ2VLRDVsVDNZRGNfaGhJSmE0Q0tQeXhobENQU0t1X1piYWxzOVM5LUVPaW5zbHd4OTF1cXduZEZRa3ZrWlJLVFROam52RjlVbWNYamxmYnRQR2ZTeG5QekF5QWY2UEotd0gwcUk4c29LNDZrN2t5aTc4R2lyYUp3VDYtVWpuVXlpd0lRZEF0cTFjTDdXVHdGeUtFNzFQa3RJ0gGuAUFVX3lxTE8tTDJodTU2ZkpKd0NUWkdKNHRXMzU5R0E4OFFEdnZGOUpEekExcDhMeWU1N0JxcFF3RlB1R0ZsVV9pMmhsRG4zbFhGNWIxNXI3a2VMT3NVSzNWRXJsb2JSQk5aXzZsTFJBcHJoSG5hYXZSTjd6TWF1cTk5NVVoUS1aU2lrbmIwSDVIeDVCcHJleWk3dUNxdmxtQ2t1VG9VM1hjWmRqa2FlZGxQa3NMZw?oc=5",
    "time": "2026-11-05T14:25:17+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Vibes",
-   "title": "Malaysia favours diplomacy over legal action in tackling transboundary haze with Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSUNOM1Btc1VPRzVCZDJnVTE1eTRzS1gwSkpfVXl0aVVveXI1MlJjUFZjQzl4dGVQLU1hZTQxSFBSTVQzb0pEZHhtTFdrVE9URHRlNmxpNGZUbFN6VG9XUzV0MnNwLWJDUXlvc2prdG9DM0VEUHgxUUZCZ2hLMTVVSzU2SjdGTGVGVlZvb0F0Z3ZVM2J5N0F0Y0daRkw5V0VxandXUml4VTd6SVdoV1hrUzJsZ2VYamwwUGwtZHpRTFQyd3I2bmM2MTQ3OU4wOHZXUXBtMlpPZDdXWGk4QlV3?oc=5",
-   "time": "2026-11-05T13:46:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malaysiakini",
-   "title": "'Different' stance from Singapore: Malaysia stays diplomatic on haze, says dept minister",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU1lkaDBtTTlkM043VE9PYUNNRlVTbWFIWGRqQ191dTZGSXRZNHo1XzNqVTl3VGhUQjBXZWdaeVBtWU04aDd4dTE3LUVQWHMwd1FiejR6RkdUOWFsSlJqLWUxeTJ5Zl9SRUNvdlFRTTlPYXpTNENUUkhXcGVnZmljYl96SkV6YjlRSkNWTXhaZE0ycTNjMENaMWZkel9BanNTWGRZa29kRjBDOWliT0piVEQ4LXpwXzJTVm54TS1weFBjUG8?oc=5",
-   "time": "2026-11-05T13:39:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Singapore raises maximum haze pollution fine tenfold to S$20m in tougher crackdown",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSU96ZnEwLXpNbDltcXhiamZoTlNXNDdGS25INlJWLU4tM3pweHpYOGdOeDQ2UUstV3RrS21QTmxWRnl6ZzNVaGpIbWJaM2d2ZXZUM2NIVG5SQmRwTXN3VWVCaDNKVzdZa3RNNmZPb25YUG5fOTg2dFdCdGlodGJfTmpvenVUY25DNmluUWZYM3hGWXFEeHpiVFQtbE1XX2RQT1VCdXRuT0RqMktfSlBiUkpMOVR6eHprYWdEREl1bXZJY3VIN25jZF9Vam9RM2oxWGc3YXAxb9IB3AFBVV95cUxNQm9OMmNIX1YxUmx2QTBGN09RalhxOXFPLVdDVW83REp0VEk4b1Q5eHk2ejVLZjg3U1lYWWFPREl2cVd6OXhrcUJYQzUycVBGNk9MY08tTXhzR2lEMUhHb0dockduVlpaM01iMlFKMU04WmZCUTQ1OGQtYTE0emxJdlh3dEJYUThCeVZnZEZkWmZ0dFMwNUdudGlwbWNIZ25VQXNhdjgwWnlfd2hjT2ZIVnZCbTIyTFVha1B4bld0MC1vcmlneXRXeDR0Vy0zV0N1T19uLW9KWXg5el81?oc=5",
-   "time": "2026-11-05T13:29:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Singapore Business Review",
-   "title": "Government plans tenfold hike in maximum haze fine to $20m",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1lUNUpnejl4aTdueVQ0anRfU3Y4ZjFqTFlza3BrbjU5ajhWMGNGYVpyeXllTGpPbTM3cVlzR09aSWNPNDdmQVh4bExCdlFjZGZQRWVRQzZHQWhQemxIN21oWXJBWklxZEZVMlJUQUl3bUlOelBEd2F5OVdzUDIxWnc3Z1M?oc=5",
-   "time": "2026-11-05T11:35:03+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Vietnam+ (VietnamPlus)",
-   "title": "Singapore tightens cross-border haze pollution law",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWTNXczJaVWFfdTZkWldFTVh2X0pBdnhlWTBQT1VjTUJ3b3F3aDM2THRsNC1sSlA2YmdLbmhlcDc0cU5Nb3dzb2hNMmVuMU8yWjE3YU5sYnNZV3JKWEJhcERzRDYyOVBWbVQ0bkJpam5MeXJWQlJMdDBMM0xDcGZ6aEEtWnpMMXdKdnBZMmlicnVXSEhMMEE?oc=5",
-   "time": "2026-11-05T10:41:50+08:00",
    "summary": ""
   }
  ]
