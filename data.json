@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-05T21:00:00+08:00",
+ "updated": "2026-11-05T22:00:00+08:00",
  "psi": {
   "west": 62,
   "east": 55,
   "central": 59,
   "south": 55,
-  "north": 57
+  "north": 56
  },
  "pm25": {
   "west": 26,
-  "east": 7,
-  "central": 10,
-  "south": 15,
-  "north": 7
+  "east": 9,
+  "central": 11,
+  "south": 18,
+  "north": 11
  },
  "hist": [
-  {
-   "t": "2026-11-03T20:00:00+08:00",
-   "psi": {
-    "west": 80,
-    "east": 63,
-    "central": 69,
-    "south": 67,
-    "north": 69
-   }
-  },
   {
    "t": "2026-11-03T21:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 55,
     "north": 57
    }
+  },
+  {
+   "t": "2026-11-05T22:00:00+08:00",
+   "psi": {
+    "west": 62,
+    "east": 55,
+    "central": 59,
+    "south": 55,
+    "north": 56
+   }
   }
  ],
- "newsUpdated": "2026-11-05T21:07:54+08:00",
+ "newsUpdated": "2026-11-05T22:13:53+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Southeast Asia Desk",
+   "title": "🏃🏻‍♀️🏃🏻‍♂️ Running on haze: How climate disruptions are redefining Southeast Asia's peak marathon season",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd2FVbW03ZHlIWlV4YnVpRlRoRDlvUGtQVmdyeldZSUZfVnVjZ0lLbHZKaE5ES1hUUVN2VzctU01pU05uNDhJLUZwYTRoMlVIdDFESWZtVVQ4MGlXTE1nMEs4dzZLdGVPZEhqNmZFNGhBWS0zQ2l6a1FBbkMwc21Xblc0OF9LaHVQMnpvM1BUNF9FbGVralR5R1dR?oc=5",
+   "time": "2026-11-05T22:03:59+08:00",
+   "summary": ""
   },
   {
    "source": "The Edge Malaysia",
@@ -588,13 +595,6 @@
    "title": "Companies expected to cooperate with haze investigation: Shanmugam",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
    "time": "2026-11-05T15:21:57+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Malaysia sticks to diplomatic approach on transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVlUOUtuODBaNk5jcDUycHlpWURIWGtxQlhWQ2VLRDVsVDNZRGNfaGhJSmE0Q0tQeXhobENQU0t1X1piYWxzOVM5LUVPaW5zbHd4OTF1cXduZEZRa3ZrWlJLVFROam52RjlVbWNYamxmYnRQR2ZTeG5QekF5QWY2UEotd0gwcUk4c29LNDZrN2t5aTc4R2lyYUp3VDYtVWpuVXlpd0lRZEF0cTFjTDdXVHdGeUtFNzFQa3RJ0gGuAUFVX3lxTE8tTDJodTU2ZkpKd0NUWkdKNHRXMzU5R0E4OFFEdnZGOUpEekExcDhMeWU1N0JxcFF3RlB1R0ZsVV9pMmhsRG4zbFhGNWIxNXI3a2VMT3NVSzNWRXJsb2JSQk5aXzZsTFJBcHJoSG5hYXZSTjd6TWF1cTk5NVVoUS1aU2lrbmIwSDVIeDVCcHJleWk3dUNxdmxtQ2t1VG9VM1hjWmRqa2FlZGxQa3NMZw?oc=5",
-   "time": "2026-11-05T14:25:17+08:00",
    "summary": ""
   }
  ]
