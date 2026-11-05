@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T17:00:00+08:00",
+ "updated": "2026-11-05T18:00:00+08:00",
  "psi": {
-  "west": 66,
+  "west": 65,
   "east": 57,
   "central": 61,
   "south": 57,
@@ -9,22 +9,12 @@
  },
  "pm25": {
   "west": 10,
-  "east": 5,
-  "central": 18,
-  "south": 9,
-  "north": 7
+  "east": 7,
+  "central": 14,
+  "south": 12,
+  "north": 15
  },
  "hist": [
-  {
-   "t": "2026-11-03T16:00:00+08:00",
-   "psi": {
-    "west": 79,
-    "east": 63,
-    "central": 67,
-    "south": 68,
-    "north": 69
-   }
-  },
   {
    "t": "2026-11-03T17:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 57,
     "north": 58
    }
+  },
+  {
+   "t": "2026-11-05T18:00:00+08:00",
+   "psi": {
+    "west": 65,
+    "east": 57,
+    "central": 61,
+    "south": 57,
+    "north": 58
+   }
   }
  ],
- "newsUpdated": "2026-11-05T17:07:09+08:00",
+ "newsUpdated": "2026-11-05T18:07:37+08:00",
  "news": [
   {
    "source": "CNA",
@@ -552,7 +552,7 @@
    "source": "Malay Mail",
    "title": "Singapore raises maximum haze pollution fine tenfold to S$20m in tougher crackdown",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSU96ZnEwLXpNbDltcXhiamZoTlNXNDdGS25INlJWLU4tM3pweHpYOGdOeDQ2UUstV3RrS21QTmxWRnl6ZzNVaGpIbWJaM2d2ZXZUM2NIVG5SQmRwTXN3VWVCaDNKVzdZa3RNNmZPb25YUG5fOTg2dFdCdGlodGJfTmpvenVUY25DNmluUWZYM3hGWXFEeHpiVFQtbE1XX2RQT1VCdXRuT0RqMktfSlBiUkpMOVR6eHprYWdEREl1bXZJY3VIN25jZF9Vam9RM2oxWGc3YXAxb9IB3AFBVV95cUxNQm9OMmNIX1YxUmx2QTBGN09RalhxOXFPLVdDVW83REp0VEk4b1Q5eHk2ejVLZjg3U1lYWWFPREl2cVd6OXhrcUJYQzUycVBGNk9MY08tTXhzR2lEMUhHb0dockduVlpaM01iMlFKMU04WmZCUTQ1OGQtYTE0emxJdlh3dEJYUThCeVZnZEZkWmZ0dFMwNUdudGlwbWNIZ25VQXNhdjgwWnlfd2hjT2ZIVnZCbTIyTFVha1B4bld0MC1vcmlneXRXeDR0Vy0zV0N1T19uLW9KWXg5el81?oc=5",
-   "time": "2026-11-05T13:15:24+08:00",
+   "time": "2026-11-05T13:29:37+08:00",
    "summary": ""
   },
   {
