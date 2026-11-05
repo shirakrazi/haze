@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-05T11:00:00+08:00",
+ "updated": "2026-11-05T12:00:00+08:00",
  "psi": {
   "west": 70,
   "east": 59,
-  "central": 61,
-  "south": 62,
-  "north": 59
+  "central": 62,
+  "south": 61,
+  "north": 60
  },
  "pm25": {
-  "west": 24,
-  "east": 20,
-  "central": 27,
-  "south": 23,
-  "north": 14
+  "west": 17,
+  "east": 14,
+  "central": 20,
+  "south": 13,
+  "north": 17
  },
  "hist": [
-  {
-   "t": "2026-11-03T10:00:00+08:00",
-   "psi": {
-    "west": 81,
-    "east": 65,
-    "central": 68,
-    "south": 68,
-    "north": 69
-   }
-  },
   {
    "t": "2026-11-03T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 62,
     "north": 59
    }
+  },
+  {
+   "t": "2026-11-05T12:00:00+08:00",
+   "psi": {
+    "west": 70,
+    "east": 59,
+    "central": 62,
+    "south": 61,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-11-05T11:06:55+08:00",
+ "newsUpdated": "2026-11-05T12:06:49+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Singapore Business Review",
+   "title": "Government plans tenfold hike in maximum haze fine to $20m",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1lUNUpnejl4aTdueVQ0anRfU3Y4ZjFqTFlza3BrbjU5ajhWMGNGYVpyeXllTGpPbTM3cVlzR09aSWNPNDdmQVh4bExCdlFjZGZQRWVRQzZHQWhQemxIN21oWXJBWklxZEZVMlJUQUl3bUlOelBEd2F5OVdzUDIxWnc3Z1M?oc=5",
+   "time": "2026-11-05T11:35:03+08:00",
+   "summary": ""
   },
   {
    "source": "Vietnam+ (VietnamPlus)",
@@ -588,13 +595,6 @@
    "title": "Singapore toughens haze law with arrest powers, bigger fines",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTdTcUx6TG9UQkU3YkFTYktPZ3JXeHRGSnhSdG1FbHNNWnNQN3NFUmJWeTFPVVRwbkZnUWpyU1VzN1IyRE4yaThwb1JBanViQUNYUzBST1NzZjF2a3JXSjBSd0Z5QlhUUTljaTdzWTZrem9nVWdtSVhsZm9oQVpyOEdHZHJiQUdzcUdLNWk2by1ESUpydzU1b2RKVnpJcm8?oc=5",
    "time": "2026-11-04T23:22:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore strengthens haze laws, passing amendments to Transboundary Haze Pollution Act",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUm90NmF4TnFtbTd1MmxQTWswZ05Mc2I3RXZQMjNnZ3RQcDBzbHpOclpkMVd6SHZ1N2kxT1BSdTFmZUpBOUtnamFURDJYb0FyVmJQbDhvOE5DT21vQWFFbVJydHNBMFJUQWthekN3UnkxZzFkMUF6S095aUhiUUp6OUtMZ0QxLUYzVjUtSS1CNUxPemo2WDU0MjdTZmNxMUVNRXVyWW00MHR4SlRwUTVBNmMtUURXa21LRVVmMllqZ2dfYm1wanlETF9R?oc=5",
-   "time": "2026-11-04T23:03:21+08:00",
    "summary": ""
   }
  ]
