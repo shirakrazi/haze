@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-05T14:00:00+08:00",
+ "updated": "2026-11-05T15:00:00+08:00",
  "psi": {
-  "west": 70,
+  "west": 69,
   "east": 58,
   "central": 61,
   "south": 59,
   "north": 59
  },
  "pm25": {
-  "west": 13,
-  "east": 11,
-  "central": 14,
-  "south": 10,
-  "north": 14
+  "west": 11,
+  "east": 5,
+  "central": 8,
+  "south": 5,
+  "north": 9
  },
  "hist": [
-  {
-   "t": "2026-11-03T13:00:00+08:00",
-   "psi": {
-    "west": 80,
-    "east": 64,
-    "central": 67,
-    "south": 67,
-    "north": 68
-   }
-  },
   {
    "t": "2026-11-03T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 59,
     "north": 59
    }
+  },
+  {
+   "t": "2026-11-05T15:00:00+08:00",
+   "psi": {
+    "west": 69,
+    "east": 58,
+    "central": 61,
+    "south": 59,
+    "north": 59
+   }
   }
  ],
- "newsUpdated": "2026-11-05T14:07:30+08:00",
+ "newsUpdated": "2026-11-05T15:07:09+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "NST Online",
+   "title": "Malaysia sticks to diplomatic approach on transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVlUOUtuODBaNk5jcDUycHlpWURIWGtxQlhWQ2VLRDVsVDNZRGNfaGhJSmE0Q0tQeXhobENQU0t1X1piYWxzOVM5LUVPaW5zbHd4OTF1cXduZEZRa3ZrWlJLVFROam52RjlVbWNYamxmYnRQR2ZTeG5QekF5QWY2UEotd0gwcUk4c29LNDZrN2t5aTc4R2lyYUp3VDYtVWpuVXlpd0lRZEF0cTFjTDdXVHdGeUtFNzFQa3RJ0gGuAUFVX3lxTE8tTDJodTU2ZkpKd0NUWkdKNHRXMzU5R0E4OFFEdnZGOUpEekExcDhMeWU1N0JxcFF3RlB1R0ZsVV9pMmhsRG4zbFhGNWIxNXI3a2VMT3NVSzNWRXJsb2JSQk5aXzZsTFJBcHJoSG5hYXZSTjd6TWF1cTk5NVVoUS1aU2lrbmIwSDVIeDVCcHJleWk3dUNxdmxtQ2t1VG9VM1hjWmRqa2FlZGxQa3NMZw?oc=5",
+   "time": "2026-11-05T14:25:17+08:00",
+   "summary": ""
   },
   {
    "source": "The Vibes",
@@ -524,7 +531,7 @@
    "source": "Malay Mail",
    "title": "Singapore raises maximum haze pollution fine tenfold to S$20m in tougher crackdown",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSU96ZnEwLXpNbDltcXhiamZoTlNXNDdGS25INlJWLU4tM3pweHpYOGdOeDQ2UUstV3RrS21QTmxWRnl6ZzNVaGpIbWJaM2d2ZXZUM2NIVG5SQmRwTXN3VWVCaDNKVzdZa3RNNmZPb25YUG5fOTg2dFdCdGlodGJfTmpvenVUY25DNmluUWZYM3hGWXFEeHpiVFQtbE1XX2RQT1VCdXRuT0RqMktfSlBiUkpMOVR6eHprYWdEREl1bXZJY3VIN25jZF9Vam9RM2oxWGc3YXAxb9IB3AFBVV95cUxNQm9OMmNIX1YxUmx2QTBGN09RalhxOXFPLVdDVW83REp0VEk4b1Q5eHk2ejVLZjg3U1lYWWFPREl2cVd6OXhrcUJYQzUycVBGNk9MY08tTXhzR2lEMUhHb0dockduVlpaM01iMlFKMU04WmZCUTQ1OGQtYTE0emxJdlh3dEJYUThCeVZnZEZkWmZ0dFMwNUdudGlwbWNIZ25VQXNhdjgwWnlfd2hjT2ZIVnZCbTIyTFVha1B4bld0MC1vcmlneXRXeDR0Vy0zV0N1T19uLW9KWXg5el81?oc=5",
-   "time": "2026-11-05T13:05:28+08:00",
+   "time": "2026-11-05T13:15:24+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Parliament Unanimously Passes Haze Bill Raising Maximum Fine to S$20 Million",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWVFaWhzekZ0UjR0MDdaQ1gtNGozcFRVU0hFdnQycE4wZjdVOFRuNEZ3eV9KbjVsNTdWNV9zU096bWhGbnRKVlF3YldzMENKX1dGSVhQYWtiLVZEMDMxeTZsamxfVmlKREU5bDNGdzRkZGlULXBGelU4T0ZOVE02REM3bndsbHdvSWd4dW5sTnNCTGhST1ZKemxmeHgzZFE?oc=5",
    "time": "2026-11-05T03:10:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Manila Times",
-   "title": "Singapore to toughen anti-haze law with arrest powers",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ1czc1pCLTc0Wk5EQXU5QWxtMGNUSldvckRYRkprYjM0UVYtQld3Sk5VQURQby1aZnJJNzJkdGNMTkFZSnIwNktBR2M1Q1k3b2pqX3R0WFdWLWRnNHpMUEhCUUs2UDhtQS14dl9WN2VBTnlDSlVfMHlaNGtQNnF3N0dNMFNMdy1PMGpCcy1hQWtEQzM5aFIxd1gwR0x4TjkxcjlPVGtaMnpCc1o2azZvOG1NQ3VNRklDcTJv0gHAAUFVX3lxTE1TMk80Vk82UVJsOXpSRV9tR2FzSW9ncGh1czV5OWlPRkVSeUVoSkFZN2JZZnVLaFNYcEt3YlllZzJiNnNfc19PTUtBZTl4ODZtaHZ6cWU5NHdFSURDOEtza3FrTTJNanJGY1F2MW1UOHZMcFNrYUlRX3dZbmd2ZFpfbTdIcEFqbzgxQzlMVndhdDdaT1dGay1VVWp3T0lPUGVrU2lHY2dZWmZtQVhiazJ5RG9UREZlZGlTVTJpUWJoNQ?oc=5",
-   "time": "2026-11-05T00:03:00+08:00",
    "summary": ""
   }
  ]
