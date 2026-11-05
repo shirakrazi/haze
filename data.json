@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T08:00:00+08:00",
+ "updated": "2026-11-05T09:00:00+08:00",
  "psi": {
   "west": 70,
   "east": 59,
@@ -8,23 +8,13 @@
   "north": 60
  },
  "pm25": {
-  "west": 26,
-  "east": 23,
-  "central": 32,
-  "south": 24,
-  "north": 18
+  "west": 23,
+  "east": 28,
+  "central": 35,
+  "south": 27,
+  "north": 26
  },
  "hist": [
-  {
-   "t": "2026-11-03T07:00:00+08:00",
-   "psi": {
-    "west": 81,
-    "east": 65,
-    "central": 67,
-    "south": 67,
-    "north": 69
-   }
-  },
   {
    "t": "2026-11-03T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 62,
     "north": 60
    }
+  },
+  {
+   "t": "2026-11-05T09:00:00+08:00",
+   "psi": {
+    "west": 70,
+    "east": 59,
+    "central": 63,
+    "south": 62,
+    "north": 60
+   }
   }
  ],
- "newsUpdated": "2026-11-05T08:07:12+08:00",
+ "newsUpdated": "2026-11-05T09:06:57+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Asia News Network",
+   "title": "Indonesia seeks stronger haze response ahead of ASEAN Summit",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY0tMWkVfcXBLeUhvV2ZSR3FpT3VrcHVSQjZKcFIwYnpRVFFaakc5ZTYyRDhkVFUxQ3JjVjdMYzFVS0JaeFFjM3ozQUFQNjkzbzV6STVFZWY5QTcyaHFVcGIyWG9oSDQ1R3BxSjRIb2dsQmQxalkwYXRlQWZ2UkdENnZ4dUJiR1AzTGZEdGZzTQ?oc=5",
+   "time": "2026-11-05T08:53:32+08:00",
+   "summary": ""
   },
   {
    "source": "South China Morning Post",
@@ -570,6 +577,13 @@
    "summary": ""
   },
   {
+   "source": "CNA",
+   "title": "Singapore passes tougher haze law, raises maximum fine to S$20 million from S$2 million",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSVhPZDQtWDE3Z0ZXVUZBMUZ1RDV2d1RpYng3UmRmZ2VBNEtUVHhkbWJYX0NPN3hEUlFDZVZoaURsX0ZHMXVzMXJkbGJyUy13N29fdkpwdkN0dEN1YmY3NUxLNEtzZi1GOE1uOVlPbk9ybEVTOG1Cc0VUNGcybkZQQl9OU0FUalpkRmtweHJRczVXTTA4OFR0bUJWa3k0V0Faemd4akRNbGdmaDU4MzhlVmtJMDlJakNGek9QTnprRQ?oc=5",
+   "time": "2026-11-04T23:03:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "IDNFinancials",
    "title": "Singapore revises haze law, raises corporate fines to S$20 million",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHRCeWhYQjZCektzSVpHZ0JOS3E2YzhQNlZQalBZaTFFTXF4cWRyaHZhU1IxWkZ4bDljOE9jUDlTN1pxUkdoQUFId1VKMjdGNlU4cGtyRWt2RlhlcHJ5TkRPSkMwRmQ2aUhLVFl0NWhPQ0g3U1Q1OGEzM2RNWVlUWG55VDVDVkhuVUo2ODBpNGxNenY3MXpSbHBDOHRnOXMzRHZ1Um10bzk?oc=5",
@@ -581,20 +595,6 @@
    "title": "Singapore Proposes Arrest Powers And $20 Million Fines In Haze Crackdown",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTzFEOWVwc2phQmF4NzB1b2N0ZUFrbXIzd1d4M29xMVdIcWt2NmQ2UmRhb3BESkNiZGFKejZkTC05X3F6M2xUS0xUSm1IVUdmNFUxaV9ZY0ZGRU1iYmVLUEtTWnJJZVBmM2VjNHp0OW1oZ2tVTXczbUI3bDh0SEhkMkdwbDA4UlpVcDY0c3BrekdwT3IyVkVkNzZmT29jdw?oc=5",
    "time": "2026-11-04T22:58:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Enhanced haze law 'not a silver bullet', international cooperation remains crucial: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDd1QS1xakhmQm9nQjVQWjVZdU5VYldpRjhGQzdpN18wZGdLcGVuNXR3dzZrY3F4aEVWYWFFRHdwOTJiN1NXcF83OE1uSURac0lmOHd2eWgtclBmQjRLcGNtRkJOSExwcVNxYmZKNEZZOHJNZ2xKSkg2VDVKMnJzUkRFd0JZX0FjZmIwWkFBVkFpVVNFVzFRTXc1UQ?oc=5",
-   "time": "2026-11-04T22:56:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "MPs raise questions on $20m fine, delay in strengthening haze law, in six-hour debate",
-   "url": "https://www.straitstimes.com/singapore/politics/mps-raise-questions-on-20m-fine-delay-in-strengthening-haze-law-in-six-hour-debate",
-   "time": "2026-11-04T22:45:09+08:00",
    "summary": ""
   }
  ]
