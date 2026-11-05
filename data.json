@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-05T19:00:00+08:00",
+ "updated": "2026-11-05T20:00:00+08:00",
  "psi": {
-  "west": 64,
+  "west": 63,
   "east": 56,
   "central": 60,
   "south": 56,
-  "north": 58
+  "north": 57
  },
  "pm25": {
-  "west": 9,
-  "east": 7,
-  "central": 6,
-  "south": 7,
-  "north": 17
+  "west": 12,
+  "east": 5,
+  "central": 7,
+  "south": 16,
+  "north": 5
  },
  "hist": [
-  {
-   "t": "2026-11-03T18:00:00+08:00",
-   "psi": {
-    "west": 81,
-    "east": 63,
-    "central": 69,
-    "south": 68,
-    "north": 70
-   }
-  },
   {
    "t": "2026-11-03T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 56,
     "north": 58
    }
+  },
+  {
+   "t": "2026-11-05T20:00:00+08:00",
+   "psi": {
+    "west": 63,
+    "east": 56,
+    "central": 60,
+    "south": 56,
+    "north": 57
+   }
   }
  ],
- "newsUpdated": "2026-11-05T19:09:16+08:00",
+ "newsUpdated": "2026-11-05T20:11:32+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,24 @@
    "pinned": true
   },
   {
+   "source": "Indonesia Business Post",
+   "title": "Singapore proposes 10-fold increase in haze pollution fines up to S$20M",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUpDRUJMbWoyakNvdGZTQVZtcGpsY2FPd0NVWnd6ZXJVMkxONVF2bWNNQ0JuY1VOaExqdFVvYURUMjBSVmRQOV9ZaDJGZ01jdzNOczk1bkp1VXZiSUpvQ0xqZTU3MkpDRFBEaGdYeEZuY3RIc2RrZFU4SFFPM1FWd3N2bEx4UkJkQS1LVkVRM3p3OHFPQ1QyWDdRY0hLVmFULXJZS2ZEWXhwOW43WF9RejNvbUJuZWNveEs0YWlaVQ?oc=5",
+   "time": "2026-11-05T20:03:38+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore to end N95 mask distribution on Saturday as haze abates",
+   "url": "https://www.channelnewsasia.com/singapore/nea-haze-mask-distribution-6526851",
+   "time": "2026-11-05T19:22:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "DW.com",
    "title": "How haze from Indonesia's forest fires is costing Singapore billions",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEtyRnVBY3F3TExEYUl4aVdkbFlDZmJOU1lZeEVocFZHQkJmR2FqNTNiTXZGTmZXcEljR2FaR2dJZTdwM3A2ZWxKUHhiMndUMHRTOFFLS0dFa3pSS2h5amotZjhSdV9tTTBXV256a3ZuQjMwZ2ZlNWhpUThnQ3ZEVVVwVzBYQmlKd1VVbE9fUy1USHF3bEd2S3ZSaWlRTDhpemI3LUlaQQ?oc=5",
-   "time": "2026-11-05T18:27:17+08:00",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbGNPWktmS1JrZ1lsZ3ZHVHo1OTVZMGZSVDI1anhPdTlaMjhZRnhNUHVrdHBIY3ppWkFhbFlHaWFlU0d5NjlQbDBrR3F6WHd4RUF4Q3pLcXlQeUNsTnNtblBuNHI4QS03M0ZtVGJxZ181cU9zZEpyLU9rV2tha2ZINjFjNUZ1ZTBxVUFqcVN0M3N6ZndBbjFaN3IyTnJPSjRWUHVaN3ZQMA?oc=5",
+   "time": "2026-11-05T18:33:20+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Singapore tightens cross-border haze pollution law",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWTNXczJaVWFfdTZkWldFTVh2X0pBdnhlWTBQT1VjTUJ3b3F3aDM2THRsNC1sSlA2YmdLbmhlcDc0cU5Nb3dzb2hNMmVuMU8yWjE3YU5sYnNZV3JKWEJhcERzRDYyOVBWbVQ0bkJpam5MeXJWQlJMdDBMM0xDcGZ6aEEtWnpMMXdKdnBZMmlicnVXSEhMMEE?oc=5",
    "time": "2026-11-05T10:41:50+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Batam News Asia",
-   "title": "Singapore Haze Law: Firms Could Face S$20 Million Fines and Financial Restrictions",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMGFOV1Q1QW1qdVdkejBieEcza1M1bl9pYkNqbGZ4UG0wR1R1Mk9WZVJEWmFVOEswcnZjVUF2R2s4Wmc5WC1kSUh3SVlxY3c0VGtZRU5sQzliZ1FqZGJ2TENDM3lWNXJyQjlOQm5hSkVSQVFVVnR1eTdFTkdwVmpJVEhHMnctZmc5alZTdHlFY1BQZXFyb2ZYS3dFMl9WS2VFcjAzUlhZdEc0MVVjYjdHX3IycjJtbGJwYmc?oc=5",
-   "time": "2026-11-05T10:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Must Share News",
-   "title": "Parliament proposes up to S$20M fines for firms linked to haze-causing fires",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxbTdkV0hEblBuakZHWFNnczNFVWxQRFpoenNWT3g1NzJMV3FGU0FGdGZMUXI5akFwTTMtaEEtQU1uaXhZdjZUd0ZkN1Ywb1kzd2JXYm9KM2JYLXllQkdV0gFkQVVfeXFMTzhoZkJEVkRzanhIRUlMa1FNN3ltYkt6M2tvalhmN2k1cnZWdUh3ZGIwdnZEcGY4UDlMdEtFOFRYMHpDbWF5UVl6Q182ak1wSzd1bGxSek1WMWExejhvQWNfNHdUcQ?oc=5",
-   "time": "2026-11-05T09:58:41+08:00",
    "summary": ""
   }
  ]
