@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-05T12:00:00+08:00",
+ "updated": "2026-11-05T13:00:00+08:00",
  "psi": {
   "west": 70,
   "east": 59,
   "central": 62,
-  "south": 61,
-  "north": 60
+  "south": 60,
+  "north": 59
  },
  "pm25": {
-  "west": 17,
+  "west": 23,
   "east": 14,
-  "central": 20,
-  "south": 13,
-  "north": 17
+  "central": 17,
+  "south": 18,
+  "north": 11
  },
  "hist": [
-  {
-   "t": "2026-11-03T11:00:00+08:00",
-   "psi": {
-    "west": 80,
-    "east": 65,
-    "central": 68,
-    "south": 67,
-    "north": 69
-   }
-  },
   {
    "t": "2026-11-03T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 61,
     "north": 60
    }
+  },
+  {
+   "t": "2026-11-05T13:00:00+08:00",
+   "psi": {
+    "west": 70,
+    "east": 59,
+    "central": 62,
+    "south": 60,
+    "north": 59
+   }
   }
  ],
- "newsUpdated": "2026-11-05T12:06:49+08:00",
+ "newsUpdated": "2026-11-05T13:07:17+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Singapore raises maximum haze pollution fine tenfold to S$20m in tougher crackdown",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSU96ZnEwLXpNbDltcXhiamZoTlNXNDdGS25INlJWLU4tM3pweHpYOGdOeDQ2UUstV3RrS21QTmxWRnl6ZzNVaGpIbWJaM2d2ZXZUM2NIVG5SQmRwTXN3VWVCaDNKVzdZa3RNNmZPb25YUG5fOTg2dFdCdGlodGJfTmpvenVUY25DNmluUWZYM3hGWXFEeHpiVFQtbE1XX2RQT1VCdXRuT0RqMktfSlBiUkpMOVR6eHprYWdEREl1bXZJY3VIN25jZF9Vam9RM2oxWGc3YXAxb9IB3AFBVV95cUxNQm9OMmNIX1YxUmx2QTBGN09RalhxOXFPLVdDVW83REp0VEk4b1Q5eHk2ejVLZjg3U1lYWWFPREl2cVd6OXhrcUJYQzUycVBGNk9MY08tTXhzR2lEMUhHb0dockduVlpaM01iMlFKMU04WmZCUTQ1OGQtYTE0emxJdlh3dEJYUThCeVZnZEZkWmZ0dFMwNUdudGlwbWNIZ25VQXNhdjgwWnlfd2hjT2ZIVnZCbTIyTFVha1B4bld0MC1vcmlneXRXeDR0Vy0zV0N1T19uLW9KWXg5el81?oc=5",
+   "time": "2026-11-05T13:05:28+08:00",
+   "summary": ""
   },
   {
    "source": "Singapore Business Review",
@@ -539,6 +546,13 @@
    "title": "Indonesia seeks stronger haze response ahead of ASEAN Summit",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY0tMWkVfcXBLeUhvV2ZSR3FpT3VrcHVSQjZKcFIwYnpRVFFaakc5ZTYyRDhkVFUxQ3JjVjdMYzFVS0JaeFFjM3ozQUFQNjkzbzV6STVFZWY5QTcyaHFVcGIyWG9oSDQ1R3BxSjRIb2dsQmQxalkwYXRlQWZ2UkdENnZ4dUJiR1AzTGZEdGZzTQ?oc=5",
    "time": "2026-11-05T08:53:32+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Sun Malaysia",
+   "title": "Haze limits visibility, but Endau fishermen still at sea",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOWstWkpfQzB5TGlIdHFRaFNTS0NHSl9tWlNMQTlqNDZrQmJOX1hMdjU4b0ZlSktvZkdESDRMSHN2a2V3QS05UVk2djJXTURERGlfVXdPdjlaOVhfVUJvYXZWLTdBdTltcXl1V2M3OHExMGdZMFhKUlZtQTdrcFNqOQ?oc=5",
+   "time": "2026-11-05T06:48:09+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Singapore strengthens haze law with arrest powers, bigger fines",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcks1RmExbEp1eGRNQjlleVBlWWsxMEJQdHBGM3pNbE5USHpEOG1kWUQ1RmdURW5Da3NnUlpvUzM2ZFVfYXR1U1N4aGhyNlUzTnZReEw2cmlXaThHTlh1Wm5FSHpEMWtBa3FDRjVPWjJpVXBPeDd0QXpLQjdGeGRPY1gtSUtPSjE2ZkdwTzgtX1V2amFacXFlZVZra0lvRm85WXF3UA?oc=5",
    "time": "2026-11-04T23:39:13+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
-   "time": "2026-11-04T23:29:54+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Arab News",
-   "title": "Singapore toughens haze law with arrest powers, bigger fines",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTdTcUx6TG9UQkU3YkFTYktPZ3JXeHRGSnhSdG1FbHNNWnNQN3NFUmJWeTFPVVRwbkZnUWpyU1VzN1IyRE4yaThwb1JBanViQUNYUzBST1NzZjF2a3JXSjBSd0Z5QlhUUTljaTdzWTZrem9nVWdtSVhsZm9oQVpyOEdHZHJiQUdzcUdLNWk2by1ESUpydzU1b2RKVnpJcm8?oc=5",
-   "time": "2026-11-04T23:22:29+08:00",
    "summary": ""
   }
  ]
