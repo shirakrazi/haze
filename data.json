@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-06T05:00:00+08:00",
+ "updated": "2026-11-06T06:00:00+08:00",
  "psi": {
   "west": 58,
-  "east": 54,
-  "central": 57,
+  "east": 53,
+  "central": 56,
   "south": 55,
-  "north": 53
+  "north": 52
  },
  "pm25": {
-  "west": 14,
-  "east": 24,
+  "west": 17,
+  "east": 16,
   "central": 17,
-  "south": 16,
-  "north": 10
+  "south": 23,
+  "north": 11
  },
  "hist": [
-  {
-   "t": "2026-11-04T05:00:00+08:00",
-   "psi": {
-    "west": 73,
-    "east": 61,
-    "central": 69,
-    "south": 64,
-    "north": 63
-   }
-  },
   {
    "t": "2026-11-04T06:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 55,
     "north": 53
    }
+  },
+  {
+   "t": "2026-11-06T06:00:00+08:00",
+   "psi": {
+    "west": 58,
+    "east": 53,
+    "central": 56,
+    "south": 55,
+    "north": 52
+   }
   }
  ],
- "newsUpdated": "2026-11-06T05:06:51+08:00",
+ "newsUpdated": "2026-11-06T06:08:35+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Commentary: Singapore’s haze law gets sharper teeth. Will it finally bite?",
+   "url": "https://www.channelnewsasia.com/commentary/singapore-haze-law-indonesia-fire-companies-pay-6527156",
+   "time": "2026-11-06T06:00:00+08:00",
+   "summary": ""
   },
   {
    "source": "Indonesia Business Post",
@@ -588,13 +595,6 @@
    "title": "Malaysia favours diplomacy as ASEAN haze pact lacks enforcement powers",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOXVwNGg1bEtOUksxZXV0eW1EdHBZLXNJNEc1cEFYbkNIVFpsbDVDVS0tMDUySXFkU2dwRDdOWEdHTWFyTFBVMVlyR1Axd0NlYTZhaUVzR25MU0V6dnNoc0JFLTZsMnVBNlVGZEpSUml3QTdCUG40QzR4bV9Bcmt5bXdicUxJLUdlbnpVYzFEbHlYelFfUTFLa0d0ekVRYzJsLUFCZ3Ewd1hiYXFmdlBGQS1Falo?oc=5",
    "time": "2026-11-05T15:40:25+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Companies expected to cooperate with haze investigation: Shanmugam",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
-   "time": "2026-11-05T15:21:57+08:00",
    "summary": ""
   }
  ]
