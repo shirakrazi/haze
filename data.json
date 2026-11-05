@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-05T10:00:00+08:00",
+ "updated": "2026-11-05T11:00:00+08:00",
  "psi": {
   "west": 70,
   "east": 59,
-  "central": 63,
+  "central": 61,
   "south": 62,
   "north": 59
  },
  "pm25": {
-  "west": 32,
-  "east": 30,
-  "central": 25,
-  "south": 30,
-  "north": 20
+  "west": 24,
+  "east": 20,
+  "central": 27,
+  "south": 23,
+  "north": 14
  },
  "hist": [
-  {
-   "t": "2026-11-03T09:00:00+08:00",
-   "psi": {
-    "west": 81,
-    "east": 66,
-    "central": 68,
-    "south": 68,
-    "north": 69
-   }
-  },
   {
    "t": "2026-11-03T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 62,
     "north": 59
    }
+  },
+  {
+   "t": "2026-11-05T11:00:00+08:00",
+   "psi": {
+    "west": 70,
+    "east": 59,
+    "central": 61,
+    "south": 62,
+    "north": 59
+   }
   }
  ],
- "newsUpdated": "2026-11-05T10:06:58+08:00",
+ "newsUpdated": "2026-11-05T11:06:55+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Vietnam+ (VietnamPlus)",
+   "title": "Singapore tightens cross-border haze pollution law",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWTNXczJaVWFfdTZkWldFTVh2X0pBdnhlWTBQT1VjTUJ3b3F3aDM2THRsNC1sSlA2YmdLbmhlcDc0cU5Nb3dzb2hNMmVuMU8yWjE3YU5sYnNZV3JKWEJhcERzRDYyOVBWbVQ0bkJpam5MeXJWQlJMdDBMM0xDcGZ6aEEtWnpMMXdKdnBZMmlicnVXSEhMMEE?oc=5",
+   "time": "2026-11-05T10:41:50+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Batam News Asia",
+   "title": "Singapore Haze Law: Firms Could Face S$20 Million Fines and Financial Restrictions",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMGFOV1Q1QW1qdVdkejBieEcza1M1bl9pYkNqbGZ4UG0wR1R1Mk9WZVJEWmFVOEswcnZjVUF2R2s4Wmc5WC1kSUh3SVlxY3c0VGtZRU5sQzliZ1FqZGJ2TENDM3lWNXJyQjlOQm5hSkVSQVFVVnR1eTdFTkdwVmpJVEhHMnctZmc5alZTdHlFY1BQZXFyb2ZYS3dFMl9WS2VFcjAzUlhZdEc0MVVjYjdHX3IycjJtbGJwYmc?oc=5",
+   "time": "2026-11-05T10:00:00+08:00",
+   "summary": ""
   },
   {
    "source": "Newswav",
@@ -581,20 +595,6 @@
    "title": "Singapore strengthens haze laws, passing amendments to Transboundary Haze Pollution Act",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUm90NmF4TnFtbTd1MmxQTWswZ05Mc2I3RXZQMjNnZ3RQcDBzbHpOclpkMVd6SHZ1N2kxT1BSdTFmZUpBOUtnamFURDJYb0FyVmJQbDhvOE5DT21vQWFFbVJydHNBMFJUQWthekN3UnkxZzFkMUF6S095aUhiUUp6OUtMZ0QxLUYzVjUtSS1CNUxPemo2WDU0MjdTZmNxMUVNRXVyWW00MHR4SlRwUTVBNmMtUURXa21LRVVmMllqZ2dfYm1wanlETF9R?oc=5",
    "time": "2026-11-04T23:03:21+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore passes tougher haze law, raises maximum fine to S$20 million from S$2 million",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSVhPZDQtWDE3Z0ZXVUZBMUZ1RDV2d1RpYng3UmRmZ2VBNEtUVHhkbWJYX0NPN3hEUlFDZVZoaURsX0ZHMXVzMXJkbGJyUy13N29fdkpwdkN0dEN1YmY3NUxLNEtzZi1GOE1uOVlPbk9ybEVTOG1Cc0VUNGcybkZQQl9OU0FUalpkRmtweHJRczVXTTA4OFR0bUJWa3k0V0Faemd4akRNbGdmaDU4MzhlVmtJMDlJakNGek9QTnprRQ?oc=5",
-   "time": "2026-11-04T23:03:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "IDNFinancials",
-   "title": "Singapore revises haze law, raises corporate fines to S$20 million",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHRCeWhYQjZCektzSVpHZ0JOS3E2YzhQNlZQalBZaTFFTXF4cWRyaHZhU1IxWkZ4bDljOE9jUDlTN1pxUkdoQUFId1VKMjdGNlU4cGtyRWt2RlhlcHJ5TkRPSkMwRmQ2aUhLVFl0NWhPQ0g3U1Q1OGEzM2RNWVlUWG55VDVDVkhuVUo2ODBpNGxNenY3MXpSbHBDOHRnOXMzRHZ1Um10bzk?oc=5",
-   "time": "2026-11-04T23:00:00+08:00",
    "summary": ""
   }
  ]
