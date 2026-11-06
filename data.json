@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-06T22:00:00+08:00",
+ "updated": "2026-11-06T23:00:00+08:00",
  "psi": {
   "west": 55,
   "east": 55,
-  "central": 53,
+  "central": 54,
   "south": 58,
   "north": 53
  },
  "pm25": {
-  "west": 23,
-  "east": 11,
-  "central": 16,
-  "south": 23,
-  "north": 11
+  "west": 16,
+  "east": 18,
+  "central": 14,
+  "south": 11,
+  "north": 16
  },
  "hist": [
-  {
-   "t": "2026-11-04T22:00:00+08:00",
-   "psi": {
-    "west": 70,
-    "east": 61,
-    "central": 66,
-    "south": 64,
-    "north": 61
-   }
-  },
   {
    "t": "2026-11-04T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 58,
     "north": 53
    }
+  },
+  {
+   "t": "2026-11-06T23:00:00+08:00",
+   "psi": {
+    "west": 55,
+    "east": 55,
+    "central": 54,
+    "south": 58,
+    "north": 53
+   }
   }
  ],
- "newsUpdated": "2026-11-06T22:08:00+08:00",
+ "newsUpdated": "2026-11-06T23:11:09+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "What to Know About Singapore's New, Tougher Haze Law",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOGc5QlZWNTlOV00wUTVZNXpYMEdxdFUzWjFwUEdBeXhLOENhRjRURGp2ekpKYjlMYjZuSVZacmxGS0FWdkVScm1vSGkzRXhDRjNGSTBkVDRKU24xTnM5RmRsc0RpSDhoVms3WEV2TFh2YTJYR3k1WTVyRExZd2lHSWNUREZodzk4aDdN?oc=5",
+   "time": "2026-11-06T21:42:38+08:00",
+   "summary": ""
   },
   {
    "source": "PravdaReport",
@@ -539,6 +546,13 @@
    "title": "Issue 219: Singapore sharpens haze law; South-east Asia’s blended sweet spots",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeEtwdTF4Tk9DSGdOTHI3d1JtR2xEMWs0TlJGcVQ0WGdMeEpDalYwWlFHRlFQd2V1UGg5VEM4cHBQNHpLR2pvMmZwdVBQcmI2emZuUTFFekp2SDZoanA3dnBoc1otNjNEN3RNMEpnS0kxU2txZk9TT3R6VW1iMTkwR1piaThBR2gzZk1kZGZPV2U4RDZycHVxVHVlXzRxSDVNTG0tdzB2UmllMDZHb3JmenVzNUM4VUZWTXhPZWFSMUlQRmNEYjZETFdpcDQ?oc=5",
    "time": "2026-11-06T19:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Sun Malaysia",
+   "title": "Govt mulls dedicated fund to assist Malaysians affected by transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnA4OUZRWUZESG9BRUJpRGl5ZllxU3paSjNhWEFSdjNDeVdXUTUyaWRaTFFuUU9iU2xYbWRBTk5HbzFHUmFvelBVVlJQTHhQdzlOMURBc01GUEN5TzBCVnZVQy02emxYVGNzWFVYb0VpaXpMVk1wREhreDhUU2g3d2NBV3dvYnBSSVc4Z0o5TWFzbUVPY3JVS0FmdFV3LVhTVTcw?oc=5",
+   "time": "2026-11-06T16:20:07+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Mask Distribution to End Tomorrow as Haze Subsides",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSEdQMy16RlZsRlBadXlzLW1YNDZ0QTQtci1pa0YxTjBQenloaXZSYlZleFdmUEZHdVZmZ04zX3E5bkNVMWxPOHRVa292bEtxY0dwTmFSNkdmT3pHMHFNcThaalpDZHVfLWRDbVR5SWk4a2RCT3drUWlPUDY4YU1pbEt5d20tNEVTSUpubQ?oc=5",
    "time": "2026-11-06T10:48:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Batam News Asia",
-   "title": "Singapore Haze Measures: Mask Distribution and Shelters to End as Air Quality Improves",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEloaS1wNTZ0bWRab05Lb1ZhT1lZajhyWVZkSGZDSmJyblNOZWRkV3FjbVVHc3ZfdGFUSkVmVnNEMmZZVkI1MXZjZkI2QzJLUXZtMUlBcWptdzRSRXZGN0t2Y3dFeUNpZ0Z3TUNTeFlVUHRDWkhfenoxZmd4WTNUYU92MHVfcThYSktoTDN1dVRPUXFEZ25hUUs5dDFUSEp2NHlsdzdKY1A3eGxDdGozV1hoY2tWbnBHcnVtYml5QW4?oc=5",
-   "time": "2026-11-06T10:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Singapore Business Review",
-   "title": "Retail growth to cool as haze and costs hit shoppers",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1pqckRsZjZKVDFlT2FTQXJPMTBEbEc1M2RDNDdiU05WRERVYWFvZEVTQ0ZrSGx2OG16VmpXLXctdl9sa2VabzRVcTJjajk4a0dEalFmaktabzBWdlNGanllU0dRMnVRSmlEdi10ZDJTWmVyUmE3aldTVjdFMU9TV0tYUVNESnVw?oc=5",
-   "time": "2026-11-06T08:39:45+08:00",
    "summary": ""
   }
  ]
