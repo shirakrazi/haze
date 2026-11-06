@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-06T16:00:00+08:00",
+ "updated": "2026-11-06T17:00:00+08:00",
  "psi": {
   "west": 54,
   "east": 53,
-  "central": 53,
+  "central": 52,
   "south": 56,
   "north": 53
  },
  "pm25": {
-  "west": 13,
-  "east": 14,
-  "central": 14,
-  "south": 19,
-  "north": 15
+  "west": 10,
+  "east": 5,
+  "central": 6,
+  "south": 6,
+  "north": 5
  },
  "hist": [
-  {
-   "t": "2026-11-04T16:00:00+08:00",
-   "psi": {
-    "west": 69,
-    "east": 61,
-    "central": 67,
-    "south": 64,
-    "north": 60
-   }
-  },
   {
    "t": "2026-11-04T17:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 56,
     "north": 53
    }
+  },
+  {
+   "t": "2026-11-06T17:00:00+08:00",
+   "psi": {
+    "west": 54,
+    "east": 53,
+    "central": 52,
+    "south": 56,
+    "north": 53
+   }
   }
  ],
- "newsUpdated": "2026-11-06T16:07:16+08:00",
+ "newsUpdated": "2026-11-06T17:07:03+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Singapore’s stronger haze law could make non-compliant companies ‘corporate pariahs’",
+   "url": "https://www.straitstimes.com/singapore/environment/singapores-stronger-haze-law-could-make-non-compliant-companies-corporate-pariahs",
+   "time": "2026-11-06T16:41:18+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -588,13 +595,6 @@
    "title": "Singapore to end most haze mitigation measures on Saturday",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkRyNk5pbUlCWmpoWHAzVUxOSXJSTlZQdkwzY1J2WW5YaFZ0czJ1MXpMUGRBN0VPVjItaXdycTFkWXp6Rm1iaW05cU1aS1JnWlJMMW5pWHZEMlZubWh6dURaMy1OYnJNRmZnTlBXTEMtbm9PV2EzN2RxQk5DQUh2OUZocWFqdXJaMUFoT0dFYTBfZW1pREFQOFlsVjJOWFFyTFlSdw?oc=5",
    "time": "2026-11-05T21:55:50+08:00",
-   "summary": ""
-  },
-  {
-   "source": "https://www.misslobang.com/",
-   "title": "Free Haze Masks End 7 Nov, $10 Clinic Subsidy Ends 11 Nov: What to Do Before the Deadlines",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOOU42cTlmdnBSSmJaekJWd0M1WnR2dko0eVl3dHBtNWxpYlZtYXM3VFJQUndNUVZmcll1M095enAwQ2VZc29hOGZQejl3TFZSaUdhVklmaFprUS1IcHpXWFgzSDNmM3d6NE12cDFjbldhUkdnMEkwS0VPdw?oc=5",
-   "time": "2026-11-05T21:39:04+08:00",
    "summary": ""
   }
  ]
