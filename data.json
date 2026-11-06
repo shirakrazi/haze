@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-06T19:00:00+08:00",
+ "updated": "2026-11-06T20:00:00+08:00",
  "psi": {
   "west": 55,
-  "east": 53,
-  "central": 52,
+  "east": 54,
+  "central": 53,
   "south": 57,
   "north": 52
  },
  "pm25": {
-  "west": 10,
-  "east": 19,
-  "central": 13,
-  "south": 22,
-  "north": 7
+  "west": 15,
+  "east": 20,
+  "central": 18,
+  "south": 24,
+  "north": 10
  },
  "hist": [
-  {
-   "t": "2026-11-04T19:00:00+08:00",
-   "psi": {
-    "west": 69,
-    "east": 60,
-    "central": 66,
-    "south": 64,
-    "north": 60
-   }
-  },
   {
    "t": "2026-11-04T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 57,
     "north": 52
    }
+  },
+  {
+   "t": "2026-11-06T20:00:00+08:00",
+   "psi": {
+    "west": 55,
+    "east": 54,
+    "central": 53,
+    "south": 57,
+    "north": 52
+   }
   }
  ],
- "newsUpdated": "2026-11-06T19:31:32+08:00",
+ "newsUpdated": "2026-11-06T20:12:34+08:00",
  "news": [
   {
    "source": "CNA",
@@ -563,6 +563,13 @@
    "summary": ""
   },
   {
+   "source": "https://www.tabla.com.sg/",
+   "title": "Mask Distribution to End Tomorrow as Haze Subsides",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSEdQMy16RlZsRlBadXlzLW1YNDZ0QTQtci1pa0YxTjBQenloaXZSYlZleFdmUEZHdVZmZ04zX3E5bkNVMWxPOHRVa292bEtxY0dwTmFSNkdmT3pHMHFNcThaalpDZHVfLWRDbVR5SWk4a2RCT3drUWlPUDY4YU1pbEt5d20tNEVTSUpubQ?oc=5",
+   "time": "2026-11-06T10:48:41+08:00",
+   "summary": ""
+  },
+  {
    "source": "Batam News Asia",
    "title": "Singapore Haze Measures: Mask Distribution and Shelters to End as Air Quality Improves",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEloaS1wNTZ0bWRab05Lb1ZhT1lZajhyWVZkSGZDSmJyblNOZWRkV3FjbVVHc3ZfdGFUSkVmVnNEMmZZVkI1MXZjZkI2QzJLUXZtMUlBcWptdzRSRXZGN0t2Y3dFeUNpZ0Z3TUNTeFlVUHRDWkhfenoxZmd4WTNUYU92MHVfcThYSktoTDN1dVRPUXFEZ25hUUs5dDFUSEp2NHlsdzdKY1A3eGxDdGozV1hoY2tWbnBHcnVtYml5QW4?oc=5",
@@ -588,13 +595,6 @@
    "title": "Haze Mask Collection & Shelters End at 6pm on 7 Nov; Subsidies Stop From 12 Nov",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHMwbWVGVExZUUF2XzdodDQycU5PX3k1VGtwQ3JCYTI5Wl9xMFZmYWN3NHdsbjMtWUZmRlpGTm5Dc1Utd05iV2RkRzRRajQ1MkRXV05PUEFHZGxoWVQ5R3NQd01kYXltczhpQ1Joei1hUlJid015eS1qNWItbS05Rzlad2U1R01WZ0tiLVRqZmtESWNRa1lOWFBINzAtbWJH?oc=5",
    "time": "2026-11-06T02:10:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Indonesia Business Post",
-   "title": "Singapore proposes 10-fold increase in haze pollution fines up to S$20M",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUpDRUJMbWoyakNvdGZTQVZtcGpsY2FPd0NVWnd6ZXJVMkxONVF2bWNNQ0JuY1VOaExqdFVvYURUMjBSVmRQOV9ZaDJGZ01jdzNOczk1bkp1VXZiSUpvQ0xqZTU3MkpDRFBEaGdYeEZuY3RIc2RrZFU4SFFPM1FWd3N2bEx4UkJkQS1LVkVRM3p3OHFPQ1QyWDdRY0hLVmFULXJZS2ZEWXhwOW43WF9RejNvbUJuZWNveEs0YWlaVQ?oc=5",
-   "time": "2026-11-06T01:30:29+08:00",
    "summary": ""
   }
  ]
