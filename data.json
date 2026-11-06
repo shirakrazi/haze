@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-07T06:00:00+08:00",
+ "updated": "2026-11-07T07:00:00+08:00",
  "psi": {
   "west": 54,
   "east": 54,
-  "central": 53,
+  "central": 52,
   "south": 58,
   "north": 55
  },
  "pm25": {
-  "west": 16,
-  "east": 18,
-  "central": 8,
-  "south": 22,
-  "north": 19
+  "west": 20,
+  "east": 20,
+  "central": 12,
+  "south": 21,
+  "north": 11
  },
  "hist": [
-  {
-   "t": "2026-11-05T07:00:00+08:00",
-   "psi": {
-    "west": 70,
-    "east": 59,
-    "central": 63,
-    "south": 62,
-    "north": 60
-   }
-  },
   {
    "t": "2026-11-05T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 58,
     "north": 55
    }
+  },
+  {
+   "t": "2026-11-07T07:00:00+08:00",
+   "psi": {
+    "west": 54,
+    "east": 54,
+    "central": 52,
+    "south": 58,
+    "north": 55
+   }
   }
  ],
- "newsUpdated": "2026-11-07T06:07:26+08:00",
+ "newsUpdated": "2026-11-07T07:07:27+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "UA.NEWS",
+   "title": "Singapore ends most haze measures after two months — Channel NewsAsia",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMU1qaUpWTEMzNjJBcDAydDZpSUtPNDJYVjlOX01qV285Mlc5REIwWnRnSDlGbHQyQ3BRSXZ6bTZ2YVZLbmV0M3dhcEgxM25EOXd3UWw5MXEtSkJ0dVQ0QzB5eVpMV2hybEwtNHNkdTltQjB6OGhTSzk1VEtScFZRcGFVQ3NLSU5raXFnSGZSa3ZaQWdxaXdnYkFkeG1zalQyeTk1dlVqMGtBOXY1cF8xMVRTVDlfQUFrYnQ2LURxNA?oc=5",
+   "time": "2026-11-07T06:22:06+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -539,6 +546,13 @@
    "title": "Singapore Haze Bill Extends Liability to Supply Chains",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanFkbElkVlpXZXozUEx6NGlNVy0wakFpU3dWOUFzbUF0QjhlM3NoRkJtUzEwQ2NZb25MREtfQ0VtdlY2aHppVmh3czlkX2dMU0wxcXBnVkJNUHhlRHFiMkttUHZjWkV0UHJFWXFCd1BESlhpMEk0OXdPY1NIbFhQOHR4elg?oc=5",
    "time": "2026-11-06T20:43:37+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "After the haze, before the next fire",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdDk2RmhTSVA2MGtPLVFSRVp0czBzMFJBeTlwZkZVUE16SFdycTNoQXB4UzdRT0RJSVprS3VCUEdOdEx0Z0ltMzMxVzFIX2dHbl8wYmxQVTB3bGZrUWpvcV84ZU9Jd0lIcG5uVDVQV0h1OHBSd21vUVRrYzBmNnpUVkp30gGHAUFVX3lxTFAyRUVHRnlRZXRvRkluNHhkVTV0Y25MNXBNRWpaSHh6VDNVT2hFVmxrSXU0NWFUeU51Y1JoRmpzaEVLVFJJcXpHeVpwbWR4YXg2UGFWNExMVnpGaUtPaFVuVVdtdXBCMncyb29iRUZXSWdCeGpuaUZDX2ZKOHhsODFialhuUW54OA?oc=5",
+   "time": "2026-11-06T20:30:06+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Companies expected to cooperate with haze investigation: Shanmugam",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
    "time": "2026-11-06T13:15:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Singapore",
-   "title": "Indonesia: Land disputes, haze and El Niño",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN3RFelUwSVFLYnllSkxqc0ljVlhBN2pJZGxWa3MxSGMyWVA2QTVXLVYwWmVOeFpHdGpwc1RycHoxc21GcnM2SFRzSDVGdDM1eFlXVnR5VUZWd2xDZlQ3Zy03UjNQZGJCQU1TZjRFQl9NTEg2cHdKVlJlS2VndGw0cTdkLXB1MjdsXzdmSjlPblFFOFE?oc=5",
-   "time": "2026-11-06T12:03:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore's stronger haze law: How it might work and what it may not fix",
-   "url": "https://www.channelnewsasia.com/singapore/stronger-haze-law-singapore-parliament-experts-6527081",
-   "time": "2026-11-06T11:55:16+08:00",
    "summary": ""
   }
  ]
