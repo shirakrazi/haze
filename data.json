@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-06T08:00:00+08:00",
+ "updated": "2026-11-06T09:00:00+08:00",
  "psi": {
-  "west": 57,
-  "east": 53,
-  "central": 56,
+  "west": 56,
+  "east": 52,
+  "central": 55,
   "south": 54,
   "north": 52
  },
  "pm25": {
-  "west": 16,
+  "west": 6,
   "east": 14,
-  "central": 24,
-  "south": 13,
-  "north": 21
+  "central": 20,
+  "south": 20,
+  "north": 24
  },
  "hist": [
-  {
-   "t": "2026-11-04T08:00:00+08:00",
-   "psi": {
-    "west": 71,
-    "east": 61,
-    "central": 67,
-    "south": 63,
-    "north": 63
-   }
-  },
   {
    "t": "2026-11-04T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 54,
     "north": 52
    }
+  },
+  {
+   "t": "2026-11-06T09:00:00+08:00",
+   "psi": {
+    "west": 56,
+    "east": 52,
+    "central": 55,
+    "south": 54,
+    "north": 52
+   }
   }
  ],
- "newsUpdated": "2026-11-06T08:08:08+08:00",
+ "newsUpdated": "2026-11-06T09:06:57+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
+   "time": "2026-11-06T09:03:42+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Singapore Business Review",
+   "title": "Retail growth to cool as haze and costs hit shoppers",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1pqckRsZjZKVDFlT2FTQXJPMTBEbEc1M2RDNDdiU05WRERVYWFvZEVTQ0ZrSGx2OG16VmpXLXctdl9sa2VabzRVcTJjajk4a0dEalFmaktabzBWdlNGanllU0dRMnVRSmlEdi10ZDJTWmVyUmE3aldTVjdFMU9TV0tYUVNESnVw?oc=5",
+   "time": "2026-11-06T08:39:45+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -581,20 +595,6 @@
    "title": "Indonesia pushes for stronger regional response to transboundary haze",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1ZGamtkQzFOdEtXSWZscHkzUDFKOVgwN0VkcGQ3RE9wRE5wUndfVm5FMHBYUEItT2lrai00N0tjZXVWSzdadHdlbC1ZcTNnX0F6dkQxMnM3RDdlVjlFMk1OWV9uRWZCV29iVlR1MDUxU3NCcTFWU29ud3NOaEVGZjBieGU4b0xpSW5WRUt3SHM1MUJRRjQ5QUJjNHRYOENycTdzZzlLR0hxMk92VHlEZXlJTXRRb0t5dkVEdGtGWjFvdGVnSl8tcXJfOEE?oc=5",
    "time": "2026-11-05T15:53:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "VnExpress International",
-   "title": "Singapore to impose $15M fines and arrest threats on firms linked to transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3hCdmstU2lfWTRCbXRGZ0NqdDZpYlBNbFo3LXZZMG0zWkt5ZGtMX0kzOS0yMDUtUlV0VUlIREVsdnBndzQ3eGI0emlyMUtWTUpTX29kYjVDb3V6NEhDTlMtaDAzWF9nM1pWSGRkOWxhZTJLeWhPelNhLW5ZNXhmM0RIam5NclBzMXlZWDZnQnQ0c1U2d0JBSXZnVmVLSjlLU2pBTWRVNjJDRDZkU2w4bHNVNUNHM3FaWmNoMXhyQlZTOVhCN0FhLXhiaDFFRUFtUkc0ZzRHTF9lelg5UGc?oc=5",
-   "time": "2026-11-05T15:45:24+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Malaysian Reserve",
-   "title": "Malaysia favours diplomacy as ASEAN haze pact lacks enforcement powers",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOXVwNGg1bEtOUksxZXV0eW1EdHBZLXNJNEc1cEFYbkNIVFpsbDVDVS0tMDUySXFkU2dwRDdOWEdHTWFyTFBVMVlyR1Axd0NlYTZhaUVzR25MU0V6dnNoc0JFLTZsMnVBNlVGZEpSUml3QTdCUG40QzR4bV9Bcmt5bXdicUxJLUdlbnpVYzFEbHlYelFfUTFLa0d0ekVRYzJsLUFCZ3Ewd1hiYXFmdlBGQS1Falo?oc=5",
-   "time": "2026-11-05T15:40:25+08:00",
    "summary": ""
   }
  ]
