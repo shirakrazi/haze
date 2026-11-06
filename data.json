@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-06T15:00:00+08:00",
+ "updated": "2026-11-06T16:00:00+08:00",
  "psi": {
   "west": 54,
-  "east": 52,
+  "east": 53,
   "central": 53,
-  "south": 55,
-  "north": 52
+  "south": 56,
+  "north": 53
  },
  "pm25": {
-  "west": 14,
-  "east": 21,
-  "central": 15,
-  "south": 23,
+  "west": 13,
+  "east": 14,
+  "central": 14,
+  "south": 19,
   "north": 15
  },
  "hist": [
-  {
-   "t": "2026-11-04T15:00:00+08:00",
-   "psi": {
-    "west": 68,
-    "east": 61,
-    "central": 68,
-    "south": 63,
-    "north": 61
-   }
-  },
   {
    "t": "2026-11-04T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 55,
     "north": 52
    }
+  },
+  {
+   "t": "2026-11-06T16:00:00+08:00",
+   "psi": {
+    "west": 54,
+    "east": 53,
+    "central": 53,
+    "south": 56,
+    "north": 53
+   }
   }
  ],
- "newsUpdated": "2026-11-06T15:09:54+08:00",
+ "newsUpdated": "2026-11-06T16:07:16+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
+   "time": "2026-11-06T15:23:07+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Companies expected to cooperate with haze investigation: Shanmugam",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
+   "time": "2026-11-06T13:15:45+08:00",
+   "summary": ""
   },
   {
    "source": "The Edge Singapore",
@@ -532,13 +546,6 @@
    "title": "Singapore Haze Measures: Mask Distribution and Shelters to End as Air Quality Improves",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEloaS1wNTZ0bWRab05Lb1ZhT1lZajhyWVZkSGZDSmJyblNOZWRkV3FjbVVHc3ZfdGFUSkVmVnNEMmZZVkI1MXZjZkI2QzJLUXZtMUlBcWptdzRSRXZGN0t2Y3dFeUNpZ0Z3TUNTeFlVUHRDWkhfenoxZmd4WTNUYU92MHVfcThYSktoTDN1dVRPUXFEZ25hUUs5dDFUSEp2NHlsdzdKY1A3eGxDdGozV1hoY2tWbnBHcnVtYml5QW4?oc=5",
    "time": "2026-11-06T10:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
-   "time": "2026-11-06T09:03:42+08:00",
    "summary": ""
   },
   {
@@ -584,17 +591,10 @@
    "summary": ""
   },
   {
-   "source": "AsiaOne.com",
-   "title": "Goodbye haze, for now: Mask distribution and subsidy scheme to end, shelters to close as situation improves",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGZqN0xHZGJsQ2NFRXAwSE0xcUxGaHBLdzE2STdyaWdwNk4zNnZzNVdyaXZUeklUMThPakMyWGQ0cVdyQjc5dm1hWTNOdzA1R2ZKOXF2NWUyeEhSSUJhV1AyY0tmYWdMTk9DUF9RZFE2Rkota3BIOFVjZF9fZjBDaVVRSFg?oc=5",
-   "time": "2026-11-05T20:35:40+08:00",
-   "summary": ""
-  },
-  {
-   "source": "nea.gov.sg",
-   "title": "CESSATION OF MASK DISTRIBUTION AND CLOSURE OF HAZE SHELTERS (5 November 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3lSOGJNT3BKTkgyLWxCcWpBbVdsQjNHalNuMnI5Ym1hOG90aDJiV0FEb0JTZUpOUmNnMlZhdlkyNFhhb0hjRHdQWnl3T2szdWdfaXBUang5OURjeTYtd3NZakZFUEdtbmdWZzN4eTVTaUxvSjN5YUcyejVld0xSZEJGMGN6Y2FpZGFiVTEydWw1Zw?oc=5",
-   "time": "2026-11-05T20:24:59+08:00",
+   "source": "https://www.misslobang.com/",
+   "title": "Free Haze Masks End 7 Nov, $10 Clinic Subsidy Ends 11 Nov: What to Do Before the Deadlines",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOOU42cTlmdnBSSmJaekJWd0M1WnR2dko0eVl3dHBtNWxpYlZtYXM3VFJQUndNUVZmcll1M095enAwQ2VZc29hOGZQejl3TFZSaUdhVklmaFprUS1IcHpXWFgzSDNmM3d6NE12cDFjbldhUkdnMEkwS0VPdw?oc=5",
+   "time": "2026-11-05T21:39:04+08:00",
    "summary": ""
   }
  ]
