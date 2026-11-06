@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T05:00:00+08:00",
+ "updated": "2026-11-07T06:00:00+08:00",
  "psi": {
   "west": 54,
   "east": 54,
@@ -8,23 +8,13 @@
   "north": 55
  },
  "pm25": {
-  "west": 13,
-  "east": 16,
-  "central": 15,
-  "south": 20,
-  "north": 18
+  "west": 16,
+  "east": 18,
+  "central": 8,
+  "south": 22,
+  "north": 19
  },
  "hist": [
-  {
-   "t": "2026-11-05T06:00:00+08:00",
-   "psi": {
-    "west": 70,
-    "east": 59,
-    "central": 63,
-    "south": 62,
-    "north": 61
-   }
-  },
   {
    "t": "2026-11-05T07:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 58,
     "north": 55
    }
+  },
+  {
+   "t": "2026-11-07T06:00:00+08:00",
+   "psi": {
+    "west": 54,
+    "east": 54,
+    "central": 53,
+    "south": 58,
+    "north": 55
+   }
   }
  ],
- "newsUpdated": "2026-11-07T05:07:10+08:00",
+ "newsUpdated": "2026-11-07T06:07:26+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "Singapore’s worst haze since 2015: What went right, and what are the lessons?",
+   "url": "https://www.channelnewsasia.com/singapore/haze-public-health-transboundary-haze-pollution-law-6530851",
+   "time": "2026-11-07T06:00:00+08:00",
+   "summary": ""
   },
   {
    "source": "Global Arbitration Review",
@@ -588,13 +595,6 @@
    "title": "Singapore's stronger haze law: How it might work and what it may not fix",
    "url": "https://www.channelnewsasia.com/singapore/stronger-haze-law-singapore-parliament-experts-6527081",
    "time": "2026-11-06T11:55:16+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Edge Singapore",
-   "title": "Wilmar downgraded over 3Q earnings amid haze summons; company ID George Yeo raises stake at $2.97 each",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX0RId0E0SmtwRWZFZ3RwRnpqNGtqZUVEdzg4MkgzeTBFTEh2TmFpVG4zaXZsQVBRWmdRVnNuSnpYMTE0eFJVV2VWcHBZNUc0REczMUlWd3hWb1pvVEotRWtidUNCNjRCVzRmMEVfSnJJaFVEOUt6WUplQ2h0eUxJamdWc2hDOTNycXdQM1BsZHVKdjlXeFhRQlBZcTVZdGF1bV9WSTZKTGdRcGpXclp6Yko5cHpubmZOTXZQUlRoNzl0QmVJaHdpc1daUQ?oc=5",
-   "time": "2026-11-06T11:10:00+08:00",
    "summary": ""
   }
  ]
