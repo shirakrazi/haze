@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-06T12:00:00+08:00",
+ "updated": "2026-11-06T13:00:00+08:00",
  "psi": {
-  "west": 55,
-  "east": 50,
+  "west": 54,
+  "east": 51,
   "central": 53,
   "south": 54,
   "north": 52
  },
  "pm25": {
-  "west": 18,
-  "east": 7,
-  "central": 7,
-  "south": 31,
-  "north": 13
+  "west": 8,
+  "east": 18,
+  "central": 9,
+  "south": 16,
+  "north": 8
  },
  "hist": [
-  {
-   "t": "2026-11-04T12:00:00+08:00",
-   "psi": {
-    "west": 69,
-    "east": 61,
-    "central": 69,
-    "south": 63,
-    "north": 61
-   }
-  },
   {
    "t": "2026-11-04T13:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 54,
     "north": 52
    }
+  },
+  {
+   "t": "2026-11-06T13:00:00+08:00",
+   "psi": {
+    "west": 54,
+    "east": 51,
+    "central": 53,
+    "south": 54,
+    "north": 52
+   }
   }
  ],
- "newsUpdated": "2026-11-06T12:07:01+08:00",
+ "newsUpdated": "2026-11-06T13:07:29+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,24 @@
    "pinned": true
   },
   {
+   "source": "The Edge Singapore",
+   "title": "Indonesia: Land disputes, haze and El Niño",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN3RFelUwSVFLYnllSkxqc0ljVlhBN2pJZGxWa3MxSGMyWVA2QTVXLVYwWmVOeFpHdGpwc1RycHoxc21GcnM2SFRzSDVGdDM1eFlXVnR5VUZWd2xDZlQ3Zy03UjNQZGJCQU1TZjRFQl9NTEg2cHdKVlJlS2VndGw0cTdkLXB1MjdsXzdmSjlPblFFOFE?oc=5",
+   "time": "2026-11-06T12:03:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "CNA",
    "title": "Singapore's stronger haze law: How it might work and what it may not fix",
    "url": "https://www.channelnewsasia.com/singapore/stronger-haze-law-singapore-parliament-experts-6527081",
    "time": "2026-11-06T11:55:16+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Singapore",
+   "title": "Wilmar downgraded over 3Q earnings amid haze summons; company ID George Yeo raises stake at $2.97 each",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX0RId0E0SmtwRWZFZ3RwRnpqNGtqZUVEdzg4MkgzeTBFTEh2TmFpVG4zaXZsQVBRWmdRVnNuSnpYMTE0eFJVV2VWcHBZNUc0REczMUlWd3hWb1pvVEotRWtidUNCNjRCVzRmMEVfSnJJaFVEOUt6WUplQ2h0eUxJamdWc2hDOTNycXdQM1BsZHVKdjlXeFhRQlBZcTVZdGF1bV9WSTZKTGdRcGpXclp6Yko5cHpubmZOTXZQUlRoNzl0QmVJaHdpc1daUQ?oc=5",
+   "time": "2026-11-06T11:10:00+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "CESSATION OF MASK DISTRIBUTION AND CLOSURE OF HAZE SHELTERS (5 November 2026)",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3lSOGJNT3BKTkgyLWxCcWpBbVdsQjNHalNuMnI5Ym1hOG90aDJiV0FEb0JTZUpOUmNnMlZhdlkyNFhhb0hjRHdQWnl3T2szdWdfaXBUang5OURjeTYtd3NZakZFUEdtbmdWZzN4eTVTaUxvSjN5YUcyejVld0xSZEJGMGN6Y2FpZGFiVTEydWw1Zw?oc=5",
    "time": "2026-11-05T20:24:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Mask distribution, haze shelters to cease by Nov 7; haze subsidy scheme to end from Nov 12",
-   "url": "https://www.straitstimes.com/singapore/environment/mask-distribution-haze-shelters-to-cease-by-nov-7-haze-subsidy-scheme-to-end-from-nov-12",
-   "time": "2026-11-05T20:09:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore to end N95 mask distribution on Saturday as haze abates",
-   "url": "https://www.channelnewsasia.com/singapore/nea-haze-mask-distribution-6526851",
-   "time": "2026-11-05T19:22:00+08:00",
    "summary": ""
   }
  ]
