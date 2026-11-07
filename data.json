@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-08T05:00:00+08:00",
+ "updated": "2026-11-08T06:00:00+08:00",
  "psi": {
-  "west": 58,
-  "east": 51,
-  "central": 55,
-  "south": 54,
-  "north": 66
+  "west": 63,
+  "east": 53,
+  "central": 56,
+  "south": 55,
+  "north": 71
  },
  "pm25": {
-  "west": 89,
-  "east": 45,
-  "central": 30,
-  "south": 45,
-  "north": 113
+  "west": 137,
+  "east": 49,
+  "central": 36,
+  "south": 48,
+  "north": 122
  },
  "hist": [
-  {
-   "t": "2026-11-06T05:00:00+08:00",
-   "psi": {
-    "west": 58,
-    "east": 54,
-    "central": 57,
-    "south": 55,
-    "north": 53
-   }
-  },
   {
    "t": "2026-11-06T06:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 54,
     "north": 66
    }
+  },
+  {
+   "t": "2026-11-08T06:00:00+08:00",
+   "psi": {
+    "west": 63,
+    "east": 53,
+    "central": 56,
+    "south": 55,
+    "north": 71
+   }
   }
  ],
- "newsUpdated": "2026-11-08T05:07:05+08:00",
+ "newsUpdated": "2026-11-08T06:07:11+08:00",
  "news": [
   {
    "source": "CNA",
@@ -539,6 +539,13 @@
    "title": "The haze probe's private door: questions the House left on the table",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZktHYzlycGNUREQ3S3VnQU51b0Y2NUhhQ25OQm0tRWdOa2F6Ul81UDJURDFtc0hyZWEtcVV2c2ZIQnBnUTVjWkx6S2hoaHExUjJ6R3hHZERhbzlvQXc1dmZEWEpyX0ZjN2FTb1lyZG5WOXNXSTBMZGlTZHlZeFpwZGNzUThpcERUd2NCbGNLWXo5Qk5ONWlCd0Jhb2Fic0NmNlN4VW1hMmZLYzQ?oc=5",
    "time": "2026-11-07T09:24:15+08:00",
+   "summary": ""
+  },
+  {
+   "source": "S. Rajaratnam School of International Studies (RSIS)",
+   "title": "CO26229 | Addressing the Problem of Wildfires and Transboundary Haze",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWwyX1JkQ2F3c3NUUEN2dnBhTEppSnhrRUY0bDlnbFBoMFBDVjhPQlJCWDRYRHhlYzlKc0xXeE1fdGxyWk5Jamg4SEhwUmpOcHdSQndkNDRyeUlnNGREUUZRazBLSjhTcDRlWjRzVzgzYzZ0ZEVDSWxUTmQxTTdrdnRmTmQ1N2xVUkNJSHhzNmFQZVJZd1d3bl9xUzg3VHlQTlZj?oc=5",
+   "time": "2026-11-07T07:46:29+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "After the haze, before the next fire",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdDk2RmhTSVA2MGtPLVFSRVp0czBzMFJBeTlwZkZVUE16SFdycTNoQXB4UzdRT0RJSVprS3VCUEdOdEx0Z0ltMzMxVzFIX2dHbl8wYmxQVTB3bGZrUWpvcV84ZU9Jd0lIcG5uVDVQV0h1OHBSd21vUVRrYzBmNnpUVkp30gGHAUFVX3lxTFAyRUVHRnlRZXRvRkluNHhkVTV0Y25MNXBNRWpaSHh6VDNVT2hFVmxrSXU0NWFUeU51Y1JoRmpzaEVLVFJJcXpHeVpwbWR4YXg2UGFWNExMVnpGaUtPaFVuVVdtdXBCMncyb29iRUZXSWdCeGpuaUZDX2ZKOHhsODFialhuUW54OA?oc=5",
    "time": "2026-11-06T20:30:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Singapore’s stronger haze law could make non-compliant companies ‘corporate pariahs’",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUHVXUjNzNjhfTFRoUVZ1eV9WRmx3Zm53ZHpLRjRlc2MtTHpVa0tVaUNpMVBRUUZPbjZ4VHlXcWpzTmF5bm5YRC1FZmtKVmpHLTE5aWVvblJCUlFuWDVSMDZJSkZ1WmNZVkUyejFnUmNqMkZQRC1wS0JSblJFUDhTS09uTzNLTkJsX2pVTGNVbWRlN2gyS1JCc2RIaG83aXF2ZzhfV25iTlp2d1VENnhzMWlTSE4zY3gzNmF0ZDk2LVI4a2lPeGNoOU5ILXVSOEN6NElpbF9XV21VVU5x?oc=5",
-   "time": "2026-11-06T19:12:00+08:00",
    "summary": ""
   }
  ]
