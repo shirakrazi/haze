@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:00:00+08:00",
+ "updated": "2026-11-07T08:00:00+08:00",
  "psi": {
   "west": 54,
   "east": 54,
@@ -8,23 +8,13 @@
   "north": 55
  },
  "pm25": {
-  "west": 20,
-  "east": 20,
-  "central": 12,
-  "south": 21,
-  "north": 11
+  "west": 18,
+  "east": 16,
+  "central": 20,
+  "south": 15,
+  "north": 12
  },
  "hist": [
-  {
-   "t": "2026-11-05T08:00:00+08:00",
-   "psi": {
-    "west": 70,
-    "east": 59,
-    "central": 63,
-    "south": 62,
-    "north": 60
-   }
-  },
   {
    "t": "2026-11-05T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 58,
     "north": 55
    }
+  },
+  {
+   "t": "2026-11-07T08:00:00+08:00",
+   "psi": {
+    "west": 54,
+    "east": 54,
+    "central": 52,
+    "south": 58,
+    "north": 55
+   }
   }
  ],
- "newsUpdated": "2026-11-07T07:07:27+08:00",
+ "newsUpdated": "2026-11-07T08:07:48+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,17 +507,17 @@
    "pinned": true
   },
   {
+   "source": "CNA",
+   "title": "Singapore’s worst haze since 2015: What went right, and what are the lessons?",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeGtzdEFCam1HcXVYTW9KX2U2bXc0N2NNZWljZm1Ua3UyWGpMMkpLcWtaME5NbTA0SzRQcnR5Z0RhUHJoRTBtbERid3B2dUZCR1RhMlJtcEN4NFA0TTlNaWEzUUNqUXlSZFRmWFZkSWluajkzNVc2QS1RMW9mT240Q01nXzRsUlZsSkNCemNNT3JQaFg5dUUxRkM4QjFoTFJfOFBF?oc=5",
+   "time": "2026-11-07T07:20:12+08:00",
+   "summary": ""
+  },
+  {
    "source": "UA.NEWS",
    "title": "Singapore ends most haze measures after two months — Channel NewsAsia",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMU1qaUpWTEMzNjJBcDAydDZpSUtPNDJYVjlOX01qV285Mlc5REIwWnRnSDlGbHQyQ3BRSXZ6bTZ2YVZLbmV0M3dhcEgxM25EOXd3UWw5MXEtSkJ0dVQ0QzB5eVpMV2hybEwtNHNkdTltQjB6OGhTSzk1VEtScFZRcGFVQ3NLSU5raXFnSGZSa3ZaQWdxaXdnYkFkeG1zalQyeTk1dlVqMGtBOXY1cF8xMVRTVDlfQUFrYnQ2LURxNA?oc=5",
    "time": "2026-11-07T06:22:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore’s worst haze since 2015: What went right, and what are the lessons?",
-   "url": "https://www.channelnewsasia.com/singapore/haze-public-health-transboundary-haze-pollution-law-6530851",
-   "time": "2026-11-07T06:00:00+08:00",
    "summary": ""
   },
   {
