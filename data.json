@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-08T01:00:00+08:00",
+ "updated": "2026-11-08T02:00:00+08:00",
  "psi": {
   "west": 52,
   "east": 42,
-  "central": 53,
+  "central": 54,
   "south": 52,
-  "north": 55
+  "north": 56
  },
  "pm25": {
-  "west": 9,
-  "east": 9,
-  "central": 16,
-  "south": 9,
-  "north": 24
+  "west": 16,
+  "east": 5,
+  "central": 18,
+  "south": 12,
+  "north": 39
  },
  "hist": [
-  {
-   "t": "2026-11-06T01:00:00+08:00",
-   "psi": {
-    "west": 61,
-    "east": 54,
-    "central": 58,
-    "south": 55,
-    "north": 56
-   }
-  },
   {
    "t": "2026-11-06T02:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 52,
     "north": 55
    }
+  },
+  {
+   "t": "2026-11-08T02:00:00+08:00",
+   "psi": {
+    "west": 52,
+    "east": 42,
+    "central": 54,
+    "south": 52,
+    "north": 56
+   }
   }
  ],
- "newsUpdated": "2026-11-08T01:07:14+08:00",
+ "newsUpdated": "2026-11-08T02:06:50+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "CNA",
+   "title": "CNA Explains: How Singapore athletes are catching up on training after weeks of haze",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTDBBMzBmSzVkWS1mUHRSaDdpOHZ3LXFzRGVmX2p5RTVWQVlQVzRwSTdRX0wwS3NpVEVuVjRmbnVZdjZrNV9tdTN3bUx1c1puU1dhQVhqM3FEY3RSZExlSTB0OGRDNTFKcWZ2WkJ2SjR0NVlpMC0tbEFtZHhSWkxuSjlxUm4xV2ZWWVlIbXNFOVFvcjVpMkFSTWFhMExyZllYQVRFS3Y2Z2RvTDZTSURlVnBaMzV2aEc4WTY4RlRYRVc?oc=5",
+   "time": "2026-11-07T23:52:08+08:00",
+   "summary": ""
   },
   {
    "source": "nea.gov.sg",
@@ -588,13 +595,6 @@
    "title": "Singapore’s stronger haze law could make non-compliant companies ‘corporate pariahs’",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUHVXUjNzNjhfTFRoUVZ1eV9WRmx3Zm53ZHpLRjRlc2MtTHpVa0tVaUNpMVBRUUZPbjZ4VHlXcWpzTmF5bm5YRC1FZmtKVmpHLTE5aWVvblJCUlFuWDVSMDZJSkZ1WmNZVkUyejFnUmNqMkZQRC1wS0JSblJFUDhTS09uTzNLTkJsX2pVTGNVbWRlN2gyS1JCc2RIaG83aXF2ZzhfV25iTlp2d1VENnhzMWlTSE4zY3gzNmF0ZDk2LVI4a2lPeGNoOU5ILXVSOEN6NElpbF9XV21VVU5x?oc=5",
    "time": "2026-11-06T19:12:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NEA.gov.sg",
-   "title": "Haze Situation Update (6 November 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT1NaWEVlaVZRUGd2OXZ5R2ZxWXBQeEhvTzFqM0h5aW83cnlzdWpvaW5hMTNJai10eWhoaGhBdlAwcFoxV2J0R1NRNDNFWVVHdjVfTnI2dWVfdDlGZkV6UnM2Y3QzLXZFb1VsdFh5R3dpOEJ3OWozYjFPb1BKaVBfWlJweEVPeVctVWx3R1RLV0RCUQ?oc=5",
-   "time": "2026-11-06T19:11:08+08:00",
    "summary": ""
   }
  ]
