@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-08T14:00:00+08:00",
+ "updated": "2026-11-08T15:00:00+08:00",
  "psi": {
-  "west": 77,
+  "west": 76,
   "east": 58,
   "central": 61,
   "south": 60,
   "north": 75
  },
  "pm25": {
-  "west": 3,
+  "west": 4,
   "east": 6,
   "central": 6,
-  "south": 5,
-  "north": 5
+  "south": 7,
+  "north": 7
  },
  "hist": [
-  {
-   "t": "2026-11-06T14:00:00+08:00",
-   "psi": {
-    "west": 54,
-    "east": 51,
-    "central": 52,
-    "south": 54,
-    "north": 52
-   }
-  },
   {
    "t": "2026-11-06T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 60,
     "north": 75
    }
+  },
+  {
+   "t": "2026-11-08T15:00:00+08:00",
+   "psi": {
+    "west": 76,
+    "east": 58,
+    "central": 61,
+    "south": 60,
+    "north": 75
+   }
   }
  ],
- "newsUpdated": "2026-11-08T14:07:11+08:00",
+ "newsUpdated": "2026-11-08T15:07:03+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Business Times",
+   "title": "Haze in 2026 estimated to cost Singapore S$2.32 billion, up 4% from 2015: experts",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzFrajJUYjNBSUVWYm1HTmVTMzcyMzdiMkoxSFUtWkFjckhoZFFtRnZESjBLZ2hyMl91Q05kcGZUcGZpbXhtNlFFMGdMVWFOby1FUE05OWtJVHIyanhMSlZLeUpIUXNhV1cxeHlpSG1pU21EdGQtVVR4cVdURnVZUF9ocklkLTRBSE9YYTRSNkNNbFlPQ2lpSkZ2TlUwRjQ4VXp4V2UwLTcyZw?oc=5",
+   "time": "2026-11-08T15:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Business Times",
+   "title": "Singapore’s S$2.32 billion ‘haze bill’: Can prevention cost less?",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29PQzZEX2dPeVFFbHpRUHZEcUhjWTJremQ0b1pYQXhWVWtyN0xtSnFtR05mcFJXWklhU3JfOUs0MFR3Zk1qSWRfQnhva1ZTQjlzZll5aHlmMGNGZVR4UVNDZDltd19lbXZlQlh6VHBDSFo4NndzUGxGX1p2TzZFYlV6cXpsZkdRakwyWl9DLUFsV2tFWWdoYi1Hb094VDdvdmR4d3VlaXdRamhhVHc?oc=5",
+   "time": "2026-11-08T15:00:00+08:00",
+   "summary": ""
   },
   {
    "source": "联合早报",
@@ -581,20 +595,6 @@
    "title": "Singh and Landau advise on Singapore haze probe",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaElkWXJFYjR3MUgtUDZoSmlqYXgzVmwxbnl2SDNaSm1Sek1EWnFIazlRMmpscjE5WHdLWDgwN2EwNXhVZ2dPWmFHdjRSdXo5YVF4QmpGSlJSWlZpbmJwVkxqT013cDRGaXQwVTZZUUxHcWhNUG1MWnNjaVFOVU1XSGdDSVBLQjVIN0RkYXRyOHFIdw?oc=5",
    "time": "2026-11-07T03:39:20+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "What to Know About Singapore's New, Tougher Haze Law",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOGc5QlZWNTlOV00wUTVZNXpYMEdxdFUzWjFwUEdBeXhLOENhRjRURGp2ekpKYjlMYjZuSVZacmxGS0FWdkVScm1vSGkzRXhDRjNGSTBkVDRKU24xTnM5RmRsc0RpSDhoVms3WEV2TFh2YTJYR3k1WTVyRExZd2lHSWNUREZodzk4aDdN?oc=5",
-   "time": "2026-11-06T21:42:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "PravdaReport",
-   "title": "Singapore strengthens Transboundary Haze Pollution Act with higher fines and civil enforcement",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIX0VsVXNJSlJOcDZEVTdwQjZVTzV0WjdQSzg2cmVUMUhxMGduWnBpcFJfTDYtU1VSRURjaFVmRDBVQjI0U3dCX1pqV1ZENkduNlBqcThMVXdkQWc0LU16ekhEZzBxME42M3JzdElzOUltZGE0LVlWcTdjQWxzUQ?oc=5",
-   "time": "2026-11-06T21:28:00+08:00",
    "summary": ""
   }
  ]
