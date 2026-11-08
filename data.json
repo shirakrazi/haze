@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-08T13:00:00+08:00",
+ "updated": "2026-11-08T14:00:00+08:00",
  "psi": {
   "west": 77,
   "east": 58,
   "central": 61,
   "south": 60,
-  "north": 76
+  "north": 75
  },
  "pm25": {
-  "west": 7,
-  "east": 4,
-  "central": 7,
-  "south": 7,
+  "west": 3,
+  "east": 6,
+  "central": 6,
+  "south": 5,
   "north": 5
  },
  "hist": [
-  {
-   "t": "2026-11-06T13:00:00+08:00",
-   "psi": {
-    "west": 54,
-    "east": 51,
-    "central": 53,
-    "south": 54,
-    "north": 52
-   }
-  },
   {
    "t": "2026-11-06T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 60,
     "north": 76
    }
+  },
+  {
+   "t": "2026-11-08T14:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 58,
+    "central": 61,
+    "south": 60,
+    "north": 75
+   }
   }
  ],
- "newsUpdated": "2026-11-08T13:07:01+08:00",
+ "newsUpdated": "2026-11-08T14:07:11+08:00",
  "news": [
   {
    "source": "CNA",
@@ -532,6 +532,13 @@
    "title": "Three months on, haze-choked Indonesia records over 400,000 respiratory infections",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFdoWXN0YkVJVVVfSEYxYXBQU05jRVhNbGFpTGVoc1JLZzR3Tjc4LW5NWnc3aTJna2c0R25rUklMNEl1Q2liSk9RRFJCRTd1RTdEWnBZc21YZWlxal92bTlLdFB2a1d2Um9qcDNURzJBT1VsXzBPT1c2ZVpOamFVeWlNaHVQOUNMQ3VyaGxFUlFFbDI2TFRCUF9kazNwcFpZcDAxQ3gwSXZfbTcwbWF4SkhBTXlRSnlndHlz?oc=5",
    "time": "2026-11-07T18:17:47+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yahoo News Singapore",
+   "title": "Delhi air pollution tracker: Why is winter haze so bad in India’s capital?",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BTW9jd2dZaUhNQTNUQWZYU2pmYXBVX2VpOUpKaUY4aS00ZXZheTczM2ZZT1JCMWNIZEoxNDYtd0VmSlh5QzRnSmxURnluVVJsQnNIQjR6SmhRUlN1SjdfeTZBVlNIcDlsSTJla3lrVWNCRUxWd3JoVUlaamI?oc=5",
+   "time": "2026-11-07T14:32:00+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Singapore strengthens Transboundary Haze Pollution Act with higher fines and civil enforcement",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIX0VsVXNJSlJOcDZEVTdwQjZVTzV0WjdQSzg2cmVUMUhxMGduWnBpcFJfTDYtU1VSRURjaFVmRDBVQjI0U3dCX1pqV1ZENkduNlBqcThMVXdkQWc0LU16ekhEZzBxME42M3JzdElzOUltZGE0LVlWcTdjQWxzUQ?oc=5",
    "time": "2026-11-06T21:28:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Impakter",
-   "title": "Singapore Haze Bill Extends Liability to Supply Chains",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanFkbElkVlpXZXozUEx6NGlNVy0wakFpU3dWOUFzbUF0QjhlM3NoRkJtUzEwQ2NZb25MREtfQ0VtdlY2aHppVmh3czlkX2dMU0wxcXBnVkJNUHhlRHFiMkttUHZjWkV0UHJFWXFCd1BESlhpMEk0OXdPY1NIbFhQOHR4elg?oc=5",
-   "time": "2026-11-06T20:43:37+08:00",
    "summary": ""
   }
  ]
