@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T18:00:00+08:00",
+ "updated": "2026-11-08T19:00:00+08:00",
  "psi": {
   "west": 75,
   "east": 58,
@@ -8,23 +8,13 @@
   "north": 74
  },
  "pm25": {
-  "west": 9,
-  "east": 5,
-  "central": 3,
-  "south": 8,
+  "west": 7,
+  "east": 7,
+  "central": 4,
+  "south": 13,
   "north": 5
  },
  "hist": [
-  {
-   "t": "2026-11-06T18:00:00+08:00",
-   "psi": {
-    "west": 55,
-    "east": 53,
-    "central": 52,
-    "south": 56,
-    "north": 53
-   }
-  },
   {
    "t": "2026-11-06T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 58,
     "north": 74
    }
+  },
+  {
+   "t": "2026-11-08T19:00:00+08:00",
+   "psi": {
+    "west": 75,
+    "east": 58,
+    "central": 59,
+    "south": 58,
+    "north": 74
+   }
   }
  ],
- "newsUpdated": "2026-11-08T18:06:53+08:00",
+ "newsUpdated": "2026-11-08T19:07:05+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze in 2026 estimated to cost Singapore $2.32 billion, up 4% from 2015: Experts",
+   "url": "https://www.straitstimes.com/singapore/haze-in-2026-estimated-to-cost-singapore-2-32-billion-up-4-from-2015-experts",
+   "time": "2026-11-08T18:39:29+08:00",
+   "summary": ""
   },
   {
    "source": "The Business Times",
@@ -588,13 +595,6 @@
    "title": "Singapore’s worst haze since 2015: What went right, and what are the lessons?",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeGtzdEFCam1HcXVYTW9KX2U2bXc0N2NNZWljZm1Ua3UyWGpMMkpLcWtaME5NbTA0SzRQcnR5Z0RhUHJoRTBtbERid3B2dUZCR1RhMlJtcEN4NFA0TTlNaWEzUUNqUXlSZFRmWFZkSWluajkzNVc2QS1RMW9mT240Q01nXzRsUlZsSkNCemNNT3JQaFg5dUUxRkM4QjFoTFJfOFBF?oc=5",
    "time": "2026-11-07T07:20:12+08:00",
-   "summary": ""
-  },
-  {
-   "source": "UA.NEWS",
-   "title": "Singapore ends most haze measures after two months — Channel NewsAsia",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMU1qaUpWTEMzNjJBcDAydDZpSUtPNDJYVjlOX01qV285Mlc5REIwWnRnSDlGbHQyQ3BRSXZ6bTZ2YVZLbmV0M3dhcEgxM25EOXd3UWw5MXEtSkJ0dVQ0QzB5eVpMV2hybEwtNHNkdTltQjB6OGhTSzk1VEtScFZRcGFVQ3NLSU5raXFnSGZSa3ZaQWdxaXdnYkFkeG1zalQyeTk1dlVqMGtBOXY1cF8xMVRTVDlfQUFrYnQ2LURxNA?oc=5",
-   "time": "2026-11-07T06:22:06+08:00",
    "summary": ""
   }
  ]
