@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-09T00:00:00+08:00",
+ "updated": "2026-11-09T01:00:00+08:00",
  "psi": {
-  "west": 75,
+  "west": 76,
   "east": 58,
   "central": 58,
   "south": 58,
   "north": 73
  },
  "pm25": {
-  "west": 15,
+  "west": 14,
   "east": 5,
-  "central": 13,
-  "south": 6,
-  "north": 6
+  "central": 12,
+  "south": 7,
+  "north": 14
  },
  "hist": [
-  {
-   "t": "2026-11-07T00:00:00+08:00",
-   "psi": {
-    "west": 54,
-    "east": 55,
-    "central": 54,
-    "south": 58,
-    "north": 53
-   }
-  },
   {
    "t": "2026-11-07T01:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 58,
     "north": 73
    }
+  },
+  {
+   "t": "2026-11-09T01:00:00+08:00",
+   "psi": {
+    "west": 76,
+    "east": 58,
+    "central": 58,
+    "south": 58,
+    "north": 73
+   }
   }
  ],
- "newsUpdated": "2026-11-09T00:07:23+08:00",
+ "newsUpdated": "2026-11-09T01:07:10+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Free Malaysia Today",
+   "title": "Indonesia called me a spy, says Malaysian haze filmmaker",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdExWT3p6UzVHc0N0ZXJfUW9SZklQenMtd2p0LW84U1BxY0lHWW01N1RsVF9pTkNoM2kydGhaRmdBQ0dKMGJ5VDgzdk9sQjFSc0F5ZkczMzY4VjhDeHdWUmFHZmotRWZsWFBMTFlwUm0wM19QeGxEM05hM0hJV0EwS3FKT3ZnRWlVMnNmYzN4dHIwZHBGeHY0VXhEWS04N2hTbTZSZDBEOWtkVTF0T3RQTGxmWXRzR1A3?oc=5",
+   "time": "2026-11-09T00:05:00+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -588,13 +595,6 @@
    "title": "Delhi air pollution tracker: Why is winter haze so bad in India’s capital?",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BTW9jd2dZaUhNQTNUQWZYU2pmYXBVX2VpOUpKaUY4aS00ZXZheTczM2ZZT1JCMWNIZEoxNDYtd0VmSlh5QzRnSmxURnluVVJsQnNIQjR6SmhRUlN1SjdfeTZBVlNIcDlsSTJla3lrVWNCRUxWd3JoVUlaamI?oc=5",
    "time": "2026-11-07T14:32:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Online Citizen",
-   "title": "Singapore to ratify ASEAN haze centre agreement “in the next few days”, says Vivian Balakrishnan",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd3gxWF9qOTRfZmRRVVRGeUZsd0M2SVhhZXNvZjlXWHdwNV9HSlN5RnR6U29Pb0hjX2hNY3g0S3lBQmZUSWxEYzdoYVBCVENqbUJBR3FsU1cxM2lKYVVsa0ZqR1BhWjlUSVp0T0dyemtQNmhhMDUtbWlMbEpjRXh3LXdoT05ZVjZhUmlUNVhKNnlHNEN4TmhHZWxuTEJEUWxjdTA3YVJ3bHYyMkpFZHM4S2ljM1RTY3JUcWFKbW1VaWppR1NqMExKMFU4dzRNbG1uMUFKaw?oc=5",
-   "time": "2026-11-07T10:14:58+08:00",
    "summary": ""
   }
  ]
