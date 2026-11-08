@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-08T19:00:00+08:00",
+ "updated": "2026-11-08T20:00:00+08:00",
  "psi": {
   "west": 75,
-  "east": 58,
-  "central": 59,
+  "east": 57,
+  "central": 58,
   "south": 58,
   "north": 74
  },
  "pm25": {
-  "west": 7,
-  "east": 7,
-  "central": 4,
-  "south": 13,
-  "north": 5
+  "west": 12,
+  "east": 8,
+  "central": 6,
+  "south": 10,
+  "north": 9
  },
  "hist": [
-  {
-   "t": "2026-11-06T19:00:00+08:00",
-   "psi": {
-    "west": 55,
-    "east": 53,
-    "central": 52,
-    "south": 57,
-    "north": 52
-   }
-  },
   {
    "t": "2026-11-06T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 58,
     "north": 74
    }
+  },
+  {
+   "t": "2026-11-08T20:00:00+08:00",
+   "psi": {
+    "west": 75,
+    "east": 57,
+    "central": 58,
+    "south": 58,
+    "north": 74
+   }
   }
  ],
- "newsUpdated": "2026-11-08T19:07:05+08:00",
+ "newsUpdated": "2026-11-08T20:07:22+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Newswav",
+   "title": "Fewer hazy days, bigger bill: Singapore’s estimated 2026 haze costs hit S$2.32b, surpassing 2015",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS0tFQXJ0RzY4SzNkYW5oeFpVZWZtb2lrLWVyNWZwamIwd2JWREJOOFlHSko2X25pV08zRTJQWUJLenZ0b0lCWk52bE00dlpudVkxZkdPdXJuaHY0bjlxUHVoemp0YzBUbl9wUzFXRU5TLUtsRllmTW53SkdxZWpQZ0x6Z0hiU2pFZGhheTJfcmZySnJaVWloSy1oUTI2dEp1T29wWmlpbXJ1T0dxT2c3RU4xQVJtUzA?oc=5",
+   "time": "2026-11-08T18:55:34+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -588,13 +595,6 @@
    "title": "CO26229 | Addressing the Problem of Wildfires and Transboundary Haze",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWwyX1JkQ2F3c3NUUEN2dnBhTEppSnhrRUY0bDlnbFBoMFBDVjhPQlJCWDRYRHhlYzlKc0xXeE1fdGxyWk5Jamg4SEhwUmpOcHdSQndkNDRyeUlnNGREUUZRazBLSjhTcDRlWjRzVzgzYzZ0ZEVDSWxUTmQxTTdrdnRmTmQ1N2xVUkNJSHhzNmFQZVJZd1d3bl9xUzg3VHlQTlZj?oc=5",
    "time": "2026-11-07T07:46:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore’s worst haze since 2015: What went right, and what are the lessons?",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeGtzdEFCam1HcXVYTW9KX2U2bXc0N2NNZWljZm1Ua3UyWGpMMkpLcWtaME5NbTA0SzRQcnR5Z0RhUHJoRTBtbERid3B2dUZCR1RhMlJtcEN4NFA0TTlNaWEzUUNqUXlSZFRmWFZkSWluajkzNVc2QS1RMW9mT240Q01nXzRsUlZsSkNCemNNT3JQaFg5dUUxRkM4QjFoTFJfOFBF?oc=5",
-   "time": "2026-11-07T07:20:12+08:00",
    "summary": ""
   }
  ]
