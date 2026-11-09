@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-10T00:00:00+08:00",
+ "updated": "2026-11-10T01:00:00+08:00",
  "psi": {
   "west": 52,
   "east": 51,
   "central": 58,
   "south": 54,
-  "north": 56
+  "north": 55
  },
  "pm25": {
-  "west": 11,
-  "east": 7,
-  "central": 7,
-  "south": 6,
-  "north": 9
+  "west": 9,
+  "east": 11,
+  "central": 8,
+  "south": 8,
+  "north": 6
  },
  "hist": [
-  {
-   "t": "2026-11-08T01:00:00+08:00",
-   "psi": {
-    "west": 52,
-    "east": 42,
-    "central": 53,
-    "south": 52,
-    "north": 55
-   }
-  },
   {
    "t": "2026-11-08T02:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 54,
     "north": 56
    }
+  },
+  {
+   "t": "2026-11-10T01:00:00+08:00",
+   "psi": {
+    "west": 52,
+    "east": 51,
+    "central": 58,
+    "south": 54,
+    "north": 55
+   }
   }
  ],
- "newsUpdated": "2026-11-10T00:07:06+08:00",
+ "newsUpdated": "2026-11-10T01:08:03+08:00",
  "news": [
   {
    "source": "CNA",
@@ -521,6 +521,13 @@
    "summary": ""
   },
   {
+   "source": "Kompas.com",
+   "title": "Three PSI Elites Resign, Observers: Raja Juli, Isyana, and Giring Think Realistically",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1ExLUpFdUREZmlvNE5Gd2JqdlFQY3VMc0lsdkVWU3BvZGFkaGxkdFdLdDJRR2l3RGNnYUkxdU9nUE1yNnRfSWlyaU1nc2ZaWjliUXpJb1p5TGdFXzZOVC1XUEI2dHVMMWJOQnRZMVdvRXZFOVZKVDdDbzFlQTZlU3Jxd2FqWk11TGpqR3lDVk4zT0l2M0l0Y3hnQ3k5Y1dIRmJ1VnJBX180WVlYajMzdzlNVF9DZW5rZ1RxNmwyVF9LOW5RSG5VUw?oc=5",
+   "time": "2026-11-09T23:10:45+08:00",
+   "summary": ""
+  },
+  {
    "source": "Leiden Law Blog",
    "title": "Haze: a burning issue for ASEAN",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KMFhfNHI1TzlZVmNXdFZrc05GV3V1c0lFZTVWU1VRR2hnUzVaY1VzclRlNjZ4UEl6clVjc05UaU1maHJoSTN4a2tHZHd1U1hRdjVvYTZFbE5icTFHUXpoa2xYcmZGUWxjZlRHbzlIVVNRQUN1eTVz?oc=5",
@@ -539,13 +546,6 @@
    "title": "Raja Juli, Isyana, Giring Resign from PSI, Kaesang: National Duties Far Above Party Interests",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbm0zTWVQMkQxbWoteFUwdUxlMF9NRjJjSmFtRjdOM1RZWWZWSVI4dmRrVmxnZGVWVVpLVFNxRF9KS3NRRmptN0hLX1RsaEdGd1pyTVJ6N2ZHanVZVmoxS004UGViUGxQUldDa0hUNlFSRXVzZUx2dnVnSDVrdjJhOUJ2X2dPV2RhcUNJc0toSE1FbUVQaU1vWDdzWnFuVTlXSHdFZDhZVG1XdjJjZ2lpM1RDYW5QYnhlX2RrYkJiTjNhV2xESHc?oc=5",
    "time": "2026-11-09T21:35:14+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kompas.com",
-   "title": "Profile of Giring Ganesha, the Vice Minister of Culture Who Resigned from PSI",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN1JlbE9UMGdkN1B6VEg5RHBHYmJoR1ByRnBRVlR4TlM2eUFhUU5KVDNJcDhvYjhNYldfQmVObTVoOGN6R0h0UU9Vb1FpZUJUbXdZSnZUemhGcGNGamtrTVFYczJnWXdfb1Jtc1VsU1VjUjktcFVRWWpVMjRtMUlBVk1TSndtM3IwMWFudFcxbDZEZTZzTlZSc1VOMDRTc2MwT0RtTXlWZGdVYVNHVFBlZWJaaERPVXh0Z0hTdzA1eFp4dw?oc=5",
-   "time": "2026-11-09T17:40:40+08:00",
    "summary": ""
   },
   {
