@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-09T08:00:00+08:00",
+ "updated": "2026-11-09T09:00:00+08:00",
  "psi": {
-  "west": 56,
-  "east": 52,
+  "west": 53,
+  "east": 51,
   "central": 58,
-  "south": 53,
-  "north": 56
+  "south": 52,
+  "north": 55
  },
  "pm25": {
-  "west": 9,
-  "east": 13,
-  "central": 26,
-  "south": 24,
-  "north": 15
+  "west": 10,
+  "east": 20,
+  "central": 29,
+  "south": 26,
+  "north": 22
  },
  "hist": [
-  {
-   "t": "2026-11-07T08:00:00+08:00",
-   "psi": {
-    "west": 54,
-    "east": 54,
-    "central": 52,
-    "south": 58,
-    "north": 55
-   }
-  },
   {
    "t": "2026-11-07T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 53,
     "north": 56
    }
+  },
+  {
+   "t": "2026-11-09T09:00:00+08:00",
+   "psi": {
+    "west": 53,
+    "east": 51,
+    "central": 58,
+    "south": 52,
+    "north": 55
+   }
   }
  ],
- "newsUpdated": "2026-11-09T08:07:29+08:00",
+ "newsUpdated": "2026-11-09T09:07:43+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Jakarta Post",
+   "title": "Wildfire haze sickens more children as respiratory cases hit 400,000",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORUlUdzZ0Mm1UYllLTW1pbGkyQmNOUFhkY1cwWTl6UFpHdTRzNE1aRTlKcVdqWUJkN2tXRmJZWGxFRF9OenFJRFRibUg5RklveDhPQXlQU2lVWnlITUI2M1MwYlZ1Q2E3WDFVellBQVpOT3lrZVU3dDQwOF9PaWZobE8yYlRKUHhsYm5VU1lhUmR0TEVPMENfcG9uNFVyR0d6M0g2emFuRVZpb3pMT0J4bFFNVFVESUl2SmlMaXVTcnFWSXlWVFcwSDY3b3JzNktWQUZheV8xWEU2dlFZbDQwWFJPVGpueG55SFFDenhjY0NkdU9l?oc=5",
+   "time": "2026-11-09T08:03:53+08:00",
+   "summary": ""
   },
   {
    "source": "AsiaOne.com",
@@ -588,13 +595,6 @@
    "title": "CNA Explains: How Singapore athletes are catching up on training after weeks of haze",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTDBBMzBmSzVkWS1mUHRSaDdpOHZ3LXFzRGVmX2p5RTVWQVlQVzRwSTdRX0wwS3NpVEVuVjRmbnVZdjZrNV9tdTN3bUx1c1puU1dhQVhqM3FEY3RSZExlSTB0OGRDNTFKcWZ2WkJ2SjR0NVlpMC0tbEFtZHhSWkxuSjlxUm4xV2ZWWVlIbXNFOVFvcjVpMkFSTWFhMExyZllYQVRFS3Y2Z2RvTDZTSURlVnBaMzV2aEc4WTY4RlRYRVc?oc=5",
    "time": "2026-11-07T23:52:08+08:00",
-   "summary": ""
-  },
-  {
-   "source": "nea.gov.sg",
-   "title": "Haze Situation Update (7 November 2026)",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS0x5Y1RTMHotQldFMG9KbEg3Tlk4QTNneFAtY29GY0VoYll0MUR0bnZFTjlIWnlXcFkyQkE5MnlyOEo0VXkzbzJjcmszUzBscnM5cnYyNjFoUkFxbWt6WXZSbWViTVJmczlCcWM3TmtsUFAzWnpPNm1QeHN3c2pMOUlxa20xVi1VRDRuNjVQd2Rudw?oc=5",
-   "time": "2026-11-07T18:25:10+08:00",
    "summary": ""
   }
  ]
