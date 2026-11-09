@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-09T21:00:00+08:00",
+ "updated": "2026-11-09T22:00:00+08:00",
  "psi": {
   "west": 53,
   "east": 51,
   "central": 58,
-  "south": 54,
+  "south": 55,
   "north": 56
  },
  "pm25": {
-  "west": 11,
-  "east": 13,
-  "central": 11,
-  "south": 17,
-  "north": 6
+  "west": 10,
+  "east": 10,
+  "central": 9,
+  "south": 15,
+  "north": 7
  },
  "hist": [
-  {
-   "t": "2026-11-07T22:00:00+08:00",
-   "psi": {
-    "west": 54,
-    "east": 47,
-    "central": 53,
-    "south": 53,
-    "north": 55
-   }
-  },
   {
    "t": "2026-11-07T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 54,
     "north": 56
    }
+  },
+  {
+   "t": "2026-11-09T22:00:00+08:00",
+   "psi": {
+    "west": 53,
+    "east": 51,
+    "central": 58,
+    "south": 55,
+    "north": 56
+   }
   }
  ],
- "newsUpdated": "2026-11-09T21:13:02+08:00",
+ "newsUpdated": "2026-11-09T22:11:37+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Star",
+   "title": "Wildfire haze causes more than 400,000 respiratory illness cases in Indonesia",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa0NpYzQxZXRMYTlCT2RKQlBiQnFONkM2eDA2ZjFjb1RQMkRrNW42UFlLQXZCU2NjT2dwMmhnRlc0YmQyR2ZxOHNjWXpoTzZsaXZKZEg1T0pYMTVqekJGSVNPem1VbVhKOURSOEM2aW5TVXdnUEUtekFZLTFFcklBajFoTHRzS2RudTRkdjg5Z2E0VXNhdHlTSVl6LWtFS0JKclZ3dlNqa0d0N2R6RHVTejIyeTdrZXFvV25TZ0ZocVh3UUI5ZWJXQ1VST3RLeEdxcXczbGxn?oc=5",
+   "time": "2026-11-09T21:45:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Kompas.com",
+   "title": "Raja Juli, Isyana, Giring Resign from PSI, Kaesang: National Duties Far Above Party Interests",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbm0zTWVQMkQxbWoteFUwdUxlMF9NRjJjSmFtRjdOM1RZWWZWSVI4dmRrVmxnZGVWVVpLVFNxRF9KS3NRRmptN0hLX1RsaEdGd1pyTVJ6N2ZHanVZVmoxS004UGViUGxQUldDa0hUNlFSRXVzZUx2dnVnSDVrdjJhOUJ2X2dPV2RhcUNJc0toSE1FbUVQaU1vWDdzWnFuVTlXSHdFZDhZVG1XdjJjZ2lpM1RDYW5QYnhlX2RrYkJiTjNhV2xESHc?oc=5",
+   "time": "2026-11-09T21:35:14+08:00",
+   "summary": ""
   },
   {
    "source": "Kompas.com",
@@ -521,17 +535,10 @@
    "summary": ""
   },
   {
-   "source": "Kompas.com",
-   "title": "Deputy Minister Giring Ganesha Resigns from PSI",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMW1aZUhYcGwySXZ4aTkwTWpUT3oxRTdsZU5HcWZNTXJCTmpkQTdpcjRtYnp0Z1pVU0ZKTEJzV2xXSjZjTF9qQ0gzU1FDNzg5S2JUMm8zNkRDVl9JSUsteEZ5VEV6a0xuVk5McmV4dm0yQmp4cVY2NXpiS2lvSExJdW5zYnpaOEhtWDJmUnk5Q08zblNvaGJQTlNqMA?oc=5",
-   "time": "2026-11-09T16:39:37+08:00",
-   "summary": ""
-  },
-  {
    "source": "The Guardian",
    "title": "‘I can’t bear it’: young family takes refuge in bedroom as choking haze engulfs Indonesian city",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0lsVDFNZWg1X2F3QU9GaDRrTTRFSEladlRJSFN3MVpRU1l5QWJOUkRiWXZHelhLNFl0akFrTllfX1ppRlJiQkdSa18xSkV1d29mNEV5bWJ5bzUwSFZCblp5LXVadEk1MDVfSEFZYkxyR3o2SVFLM2VDTUtDVjFuSlhmdkN2eVBxbGI2Z3dHVVBkU3RkSHk1M011Y3VaaFFZTWZJdkpDeWkzYUp5bTZRLQ?oc=5",
-   "time": "2026-11-09T12:07:00+08:00",
+   "time": "2026-11-09T12:07:23+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Haze costs Singapore $2.32b in 2026, surpassing 2015 despite fewer hazy days",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS2dhcjYtUHBVQWdvMHprNjNXNDUwbS1rN0ExWHpQLUE5Nk9rTHBMMlNxVjlPZzRJVm1BSXhZaHh0alJnaHBqeFIteUFsNWNVaWp3UEVIdXJVZmZUaXNtdk5Pby1lbEhQdTJPUlZHSVlYckRDX01Jc09UM0YwaloybTZJc1hla25icV9aM0Y3Qi13bWpZR0JuY1pMQjNteDVhZEp3ajZwNA?oc=5",
    "time": "2026-11-09T07:48:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Nikkei Asia",
-   "title": "Singapore hopes heavier haze fines will change corporate behavior",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHA2STNZUkp3T0NUSGozQUtmYk9CVW1pOEN1ZGpfRFFCeHozQ3lxQkZ3TFY3N2IwZzFUVXhaTjU3VTRHTUJiYWdPUlpnMGFlVnJFRWNDc2pFTjd3RWc2SnZhZjFxSFBHTVRyUlVzSlNkOF9zTkJEQ3JwbjRzaC1LeFd1R1JBcXBKSnh6S215RkJTNWRQX3NGakJsWjhFTzlZQksyb0tiM0NOdlJnZTRwWg?oc=5",
-   "time": "2026-11-09T05:02:00+08:00",
    "summary": ""
   }
  ]
