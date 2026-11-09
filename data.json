@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:00:00+08:00",
+ "updated": "2026-11-09T21:00:00+08:00",
  "psi": {
   "west": 53,
   "east": 51,
@@ -8,23 +8,13 @@
   "north": 56
  },
  "pm25": {
-  "west": 8,
-  "east": 17,
-  "central": 13,
-  "south": 16,
-  "north": 13
+  "west": 11,
+  "east": 13,
+  "central": 11,
+  "south": 17,
+  "north": 6
  },
  "hist": [
-  {
-   "t": "2026-11-07T21:00:00+08:00",
-   "psi": {
-    "west": 54,
-    "east": 48,
-    "central": 53,
-    "south": 53,
-    "north": 55
-   }
-  },
   {
    "t": "2026-11-07T22:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 54,
     "north": 56
    }
+  },
+  {
+   "t": "2026-11-09T21:00:00+08:00",
+   "psi": {
+    "west": 53,
+    "east": 51,
+    "central": 58,
+    "south": 54,
+    "north": 56
+   }
   }
  ],
- "newsUpdated": "2026-11-09T20:11:25+08:00",
+ "newsUpdated": "2026-11-09T21:13:02+08:00",
  "news": [
   {
    "source": "CNA",
@@ -518,6 +518,13 @@
    "title": "Giring Leaves Party, PSI: In Politics, People Come and Go",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkgzTXJCSmZzb0kwRW50a05hNjN1V3p6VU9CZGRDakJuQ050MkN1MmFqWnBOVVh3dTByTnpQV3RQVGpoaHFoZXlnaEVkNHNOQVg1YXdjTVUyenZvWHJGNmhEOVZ1Y3BfamRqcnJtN0I2dTNSWVVuTHppVnZWQkhtZzdLXzlxWmE0c3Q1NEQ0SXNLTVJEQjZHU0pMTXVwNGpEQ2pFbg?oc=5",
    "time": "2026-11-09T17:19:43+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Kompas.com",
+   "title": "Deputy Minister Giring Ganesha Resigns from PSI",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMW1aZUhYcGwySXZ4aTkwTWpUT3oxRTdsZU5HcWZNTXJCTmpkQTdpcjRtYnp0Z1pVU0ZKTEJzV2xXSjZjTF9qQ0gzU1FDNzg5S2JUMm8zNkRDVl9JSUsteEZ5VEV6a0xuVk5McmV4dm0yQmp4cVY2NXpiS2lvSExJdW5zYnpaOEhtWDJmUnk5Q08zblNvaGJQTlNqMA?oc=5",
+   "time": "2026-11-09T16:39:37+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Singapore hopes heavier haze fines will change corporate behavior",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHA2STNZUkp3T0NUSGozQUtmYk9CVW1pOEN1ZGpfRFFCeHozQ3lxQkZ3TFY3N2IwZzFUVXhaTjU3VTRHTUJiYWdPUlpnMGFlVnJFRWNDc2pFTjd3RWc2SnZhZjFxSFBHTVRyUlVzSlNkOF9zTkJEQ3JwbjRzaC1LeFd1R1JBcXBKSnh6S215RkJTNWRQX3NGakJsWjhFTzlZQksyb0tiM0NOdlJnZTRwWg?oc=5",
    "time": "2026-11-09T05:02:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "CNA Up Close: The meteorologist behind Singapore's haze and weather forecasts",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMXUwV3IzdTFpZ251Y3k2VnJqVEhmUlY5S1VrU293aS04Zm1lNE9HU3NMekx3aFNkN1pZd1p6bVVRYUJudWhGSXh3WUkwbjNKa3l5LUhPdDhDM2hsUFNPWEZ5WW1RVWwtaTdUeHVtcWN2VVZhMWUzaGVqa1ZEejhLSVh5UnNNcWMtejVfOC16b0FRbDJ3TXV5YkJnOWFtR2wtcTdLVzVxTEFWdXZGZkswZzBMTVcteFFC?oc=5",
-   "time": "2026-11-08T23:26:09+08:00",
    "summary": ""
   }
  ]
