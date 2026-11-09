@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T11:00:00+08:00",
+ "updated": "2026-11-09T12:00:00+08:00",
  "psi": {
   "west": 51,
   "east": 45,
@@ -9,22 +9,12 @@
  },
  "pm25": {
   "west": 11,
-  "east": 11,
-  "central": 18,
-  "south": 17,
-  "north": 19
+  "east": 10,
+  "central": 10,
+  "south": 13,
+  "north": 6
  },
  "hist": [
-  {
-   "t": "2026-11-07T11:00:00+08:00",
-   "psi": {
-    "west": 55,
-    "east": 53,
-    "central": 52,
-    "south": 57,
-    "north": 55
-   }
-  },
   {
    "t": "2026-11-07T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 52,
     "north": 55
    }
+  },
+  {
+   "t": "2026-11-09T12:00:00+08:00",
+   "psi": {
+    "west": 51,
+    "east": 45,
+    "central": 56,
+    "south": 52,
+    "north": 55
+   }
   }
  ],
- "newsUpdated": "2026-11-09T11:07:08+08:00",
+ "newsUpdated": "2026-11-09T12:06:56+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Guardian",
+   "title": "‘I can’t bear it’: young family takes refuge in bedroom as choking haze engulfs Indonesian city",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0lsVDFNZWg1X2F3QU9GaDRrTTRFSEladlRJSFN3MVpRU1l5QWJOUkRiWXZHelhLNFl0akFrTllfX1ppRlJiQkdSa18xSkV1d29mNEV5bWJ5bzUwSFZCblp5LXVadEk1MDVfSEFZYkxyR3o2SVFLM2VDTUtDVjFuSlhmdkN2eVBxbGI2Z3dHVVBkU3RkSHk1M011Y3VaaFFZTWZJdkpDeWkzYUp5bTZRLQ?oc=5",
+   "time": "2026-11-09T12:05:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Business Times",
+   "title": "South-east Asia’s haze shows a diversified electricity source may not be that dependable",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS2prY2haYkg5TUY2VkljLVlqMjJuaHJpemR4clp2S25XV3BQd2pmemZaNGdEOGFpUEtDLVQxN3VjSHFEMTlGWHlyQkcyenJvM0RoeDktbjFOV0prdHJWTkpPS2lUQ3cyWm5LOFhXakgxcldncXNEbjQ5UEE3am1qVVN3dm13MWNxZFBYTzdyS01MOUJSMjNISUZyY3BPREtjUGtTSXh6U3ZMLXRqQS0wM1RmTWdCNzRpSmtzNWpFVU1XMHJVVElaN2p3?oc=5",
+   "time": "2026-11-09T12:00:00+08:00",
+   "summary": ""
   },
   {
    "source": "Reccessary",
@@ -570,31 +584,17 @@
    "summary": ""
   },
   {
+   "source": "The Independent Singapore",
+   "title": "Singapore increases maximum fine tenfold to S$20M for companies causing transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlFWTWstOXUteFNnVUhKbXNRcTk1Y2U0bEUzRmZzT25QdFpnWFA1dHpkUTJ5ODNRQjdjSkZpRkFNemdwVmZIMTQtaFVVeXRFTUtEUGtxWFk3bzNWTkJlcnJJdWtLVUJPdHpHdElndUVsWk8yY1M4R1JpWW85MkpwWjAtUUZIX1lsQjZ2eUVrTThHT0dEV0o4RWpESmlJV0w3QmdpNjN3cmUzaFRQY1dGYm5pVWRwTW8?oc=5",
+   "time": "2026-11-08T21:00:52+08:00",
+   "summary": ""
+  },
+  {
    "source": "NST Online",
    "title": "Isa Isarb: 'We were detained over spy suspicions during Indonesia haze shoot'",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaWtpd2VPNHJ4dlA4RHhWa3FJTFRfclRHS3hDd1NzWnZsMHhDb2xHQmswUnFoN1BqeEh2N1JYYl9zREhCbzktQ05OZ3FmQ2NLT0VfX1k4aVBWb3hvdXlFakt3M2xtajNUaURCeVdxTVlVa1RnZnY2RGFKM0RuN3YtczdfemUwb2tUaVhWYXlOMjl4S0h1UmFFSnJmcF9sQVRDeTZNYUZiX2hKZFYxek5jMkUzRVcxR0lDQ19R0gHAAUFVX3lxTE40ek1JOWRRdnpLQlJrTk03Yl9GeDVKNDFNdkg4SzU2VTdGRUE1ank2Y2RIM2d4U0daeUZoa0FZUzBnY3F6WlM2T1Z0cThoeUdFNVduY3BfYWhrdkFGSjN2alJFZ1F5bkR6YXEwRmJWQjVwUHVBUDFncUVHZnpncHlxM3FiZFFzakk4S0l3T1RPTHpKWXItVHJKajhQWGgwRFM4TktpZ04zd3VnZHNNUXR6aDR4U3BHSVE4aEppeDhqcA?oc=5",
    "time": "2026-11-08T20:18:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Newswav",
-   "title": "Fewer hazy days, bigger bill: Singapore’s estimated 2026 haze costs hit S$2.32b, surpassing 2015",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS0tFQXJ0RzY4SzNkYW5oeFpVZWZtb2lrLWVyNWZwamIwd2JWREJOOFlHSko2X25pV08zRTJQWUJLenZ0b0lCWk52bE00dlpudVkxZkdPdXJuaHY0bjlxUHVoemp0YzBUbl9wUzFXRU5TLUtsRllmTW53SkdxZWpQZ0x6Z0hiU2pFZGhheTJfcmZySnJaVWloSy1oUTI2dEp1T29wWmlpbXJ1T0dxT2c3RU4xQVJtUzA?oc=5",
-   "time": "2026-11-08T18:55:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze in 2026 estimated to cost Singapore $2.32 billion, up 4% from 2015: Experts",
-   "url": "https://www.straitstimes.com/singapore/haze-in-2026-estimated-to-cost-singapore-2-32-billion-up-4-from-2015-experts",
-   "time": "2026-11-08T18:39:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "Haze in 2026 estimated to cost Singapore S$2.32 billion, up 4% from 2015: experts",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzFrajJUYjNBSUVWYm1HTmVTMzcyMzdiMkoxSFUtWkFjckhoZFFtRnZESjBLZ2hyMl91Q05kcGZUcGZpbXhtNlFFMGdMVWFOby1FUE05OWtJVHIyanhMSlZLeUpIUXNhV1cxeHlpSG1pU21EdGQtVVR4cVdURnVZUF9ocklkLTRBSE9YYTRSNkNNbFlPQ2lpSkZ2TlUwRjQ4VXp4V2UwLTcyZw?oc=5",
-   "time": "2026-11-08T15:00:00+08:00",
    "summary": ""
   }
  ]
