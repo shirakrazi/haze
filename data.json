@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-09T17:00:00+08:00",
+ "updated": "2026-11-09T18:00:00+08:00",
  "psi": {
   "west": 53,
   "east": 48,
-  "central": 57,
+  "central": 58,
   "south": 53,
   "north": 56
  },
  "pm25": {
-  "west": 10,
-  "east": 6,
-  "central": 10,
-  "south": 9,
-  "north": 6
+  "west": 4,
+  "east": 7,
+  "central": 8,
+  "south": 7,
+  "north": 4
  },
  "hist": [
-  {
-   "t": "2026-11-07T17:00:00+08:00",
-   "psi": {
-    "west": 55,
-    "east": 51,
-    "central": 53,
-    "south": 54,
-    "north": 55
-   }
-  },
   {
    "t": "2026-11-07T18:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 53,
     "north": 56
    }
+  },
+  {
+   "t": "2026-11-09T18:00:00+08:00",
+   "psi": {
+    "west": 53,
+    "east": 48,
+    "central": 58,
+    "south": 53,
+    "north": 56
+   }
   }
  ],
- "newsUpdated": "2026-11-09T17:08:06+08:00",
+ "newsUpdated": "2026-11-09T18:07:37+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Kompas.com",
+   "title": "Profile of Giring Ganesha, the Vice Minister of Culture Who Resigned from PSI",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN1JlbE9UMGdkN1B6VEg5RHBHYmJoR1ByRnBRVlR4TlM2eUFhUU5KVDNJcDhvYjhNYldfQmVObTVoOGN6R0h0UU9Vb1FpZUJUbXdZSnZUemhGcGNGamtrTVFYczJnWXdfb1Jtc1VsU1VjUjktcFVRWWpVMjRtMUlBVk1TSndtM3IwMWFudFcxbDZEZTZzTlZSc1VOMDRTc2MwT0RtTXlWZGdVYVNHVFBlZWJaaERPVXh0Z0hTdzA1eFp4dw?oc=5",
+   "time": "2026-11-09T17:40:40+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Kompas.com",
+   "title": "Giring Leaves Party, PSI: In Politics, People Come and Go",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkgzTXJCSmZzb0kwRW50a05hNjN1V3p6VU9CZGRDakJuQ050MkN1MmFqWnBOVVh3dTByTnpQV3RQVGpoaHFoZXlnaEVkNHNOQVg1YXdjTVUyenZvWHJGNmhEOVZ1Y3BfamRqcnJtN0I2dTNSWVVuTHppVnZWQkhtZzdLXzlxWmE0c3Q1NEQ0SXNLTVJEQjZHU0pMTXVwNGpEQ2pFbg?oc=5",
+   "time": "2026-11-09T17:19:43+08:00",
+   "summary": ""
   },
   {
    "source": "The Guardian",
@@ -581,20 +595,6 @@
    "title": "CNA Up Close: The meteorologist behind Singapore's haze and weather forecasts",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMXUwV3IzdTFpZ251Y3k2VnJqVEhmUlY5S1VrU293aS04Zm1lNE9HU3NMekx3aFNkN1pZd1p6bVVRYUJudWhGSXh3WUkwbjNKa3l5LUhPdDhDM2hsUFNPWEZ5WW1RVWwtaTdUeHVtcWN2VVZhMWUzaGVqa1ZEejhLSVh5UnNNcWMtejVfOC16b0FRbDJ3TXV5YkJnOWFtR2wtcTdLVzVxTEFWdXZGZkswZzBMTVcteFFC?oc=5",
    "time": "2026-11-08T23:26:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Independent Singapore",
-   "title": "Singapore increases maximum fine tenfold to S$20M for companies causing transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlFWTWstOXUteFNnVUhKbXNRcTk1Y2U0bEUzRmZzT25QdFpnWFA1dHpkUTJ5ODNRQjdjSkZpRkFNemdwVmZIMTQtaFVVeXRFTUtEUGtxWFk3bzNWTkJlcnJJdWtLVUJPdHpHdElndUVsWk8yY1M4R1JpWW85MkpwWjAtUUZIX1lsQjZ2eUVrTThHT0dEV0o4RWpESmlJV0w3QmdpNjN3cmUzaFRQY1dGYm5pVWRwTW8?oc=5",
-   "time": "2026-11-08T21:00:52+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Isa Isarb: 'We were detained over spy suspicions during Indonesia haze shoot'",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaWtpd2VPNHJ4dlA4RHhWa3FJTFRfclRHS3hDd1NzWnZsMHhDb2xHQmswUnFoN1BqeEh2N1JYYl9zREhCbzktQ05OZ3FmQ2NLT0VfX1k4aVBWb3hvdXlFakt3M2xtajNUaURCeVdxTVlVa1RnZnY2RGFKM0RuN3YtczdfemUwb2tUaVhWYXlOMjl4S0h1UmFFSnJmcF9sQVRDeTZNYUZiX2hKZFYxek5jMkUzRVcxR0lDQ19R0gHAAUFVX3lxTE40ek1JOWRRdnpLQlJrTk03Yl9GeDVKNDFNdkg4SzU2VTdGRUE1ank2Y2RIM2d4U0daeUZoa0FZUzBnY3F6WlM2T1Z0cThoeUdFNVduY3BfYWhrdkFGSjN2alJFZ1F5bkR6YXEwRmJWQjVwUHVBUDFncUVHZnpncHlxM3FiZFFzakk4S0l3T1RPTHpKWXItVHJKajhQWGgwRFM4TktpZ04zd3VnZHNNUXR6aDR4U3BHSVE4aEppeDhqcA?oc=5",
-   "time": "2026-11-08T20:18:30+08:00",
    "summary": ""
   }
  ]
