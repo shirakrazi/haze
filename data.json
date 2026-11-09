@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-09T07:00:00+08:00",
+ "updated": "2026-11-09T08:00:00+08:00",
  "psi": {
-  "west": 61,
-  "east": 54,
-  "central": 59,
-  "south": 54,
-  "north": 57
+  "west": 56,
+  "east": 52,
+  "central": 58,
+  "south": 53,
+  "north": 56
  },
  "pm25": {
-  "west": 14,
-  "east": 15,
-  "central": 34,
-  "south": 25,
-  "north": 11
+  "west": 9,
+  "east": 13,
+  "central": 26,
+  "south": 24,
+  "north": 15
  },
  "hist": [
-  {
-   "t": "2026-11-07T07:00:00+08:00",
-   "psi": {
-    "west": 54,
-    "east": 54,
-    "central": 52,
-    "south": 58,
-    "north": 55
-   }
-  },
   {
    "t": "2026-11-07T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 54,
     "north": 57
    }
+  },
+  {
+   "t": "2026-11-09T08:00:00+08:00",
+   "psi": {
+    "west": 56,
+    "east": 52,
+    "central": 58,
+    "south": 53,
+    "north": 56
+   }
   }
  ],
- "newsUpdated": "2026-11-09T07:07:06+08:00",
+ "newsUpdated": "2026-11-09T08:07:29+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Haze costs Singapore $2.32b in 2026, surpassing 2015 despite fewer hazy days",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS2dhcjYtUHBVQWdvMHprNjNXNDUwbS1rN0ExWHpQLUE5Nk9rTHBMMlNxVjlPZzRJVm1BSXhZaHh0alJnaHBqeFIteUFsNWNVaWp3UEVIdXJVZmZUaXNtdk5Pby1lbEhQdTJPUlZHSVlYckRDX01Jc09UM0YwaloybTZJc1hla25icV9aM0Y3Qi13bWpZR0JuY1pMQjNteDVhZEp3ajZwNA?oc=5",
+   "time": "2026-11-09T07:48:59+08:00",
+   "summary": ""
   },
   {
    "source": "Nikkei Asia",
@@ -588,13 +595,6 @@
    "title": "Haze Situation Update (7 November 2026)",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS0x5Y1RTMHotQldFMG9KbEg3Tlk4QTNneFAtY29GY0VoYll0MUR0bnZFTjlIWnlXcFkyQkE5MnlyOEo0VXkzbzJjcmszUzBscnM5cnYyNjFoUkFxbWt6WXZSbWViTVJmczlCcWM3TmtsUFAzWnpPNm1QeHN3c2pMOUlxa20xVi1VRDRuNjVQd2Rudw?oc=5",
    "time": "2026-11-07T18:25:10+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Arab News",
-   "title": "Three months on, haze-choked Indonesia records over 400,000 respiratory infections",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFdoWXN0YkVJVVVfSEYxYXBQU05jRVhNbGFpTGVoc1JLZzR3Tjc4LW5NWnc3aTJna2c0R25rUklMNEl1Q2liSk9RRFJCRTd1RTdEWnBZc21YZWlxal92bTlLdFB2a1d2Um9qcDNURzJBT1VsXzBPT1c2ZVpOamFVeWlNaHVQOUNMQ3VyaGxFUlFFbDI2TFRCUF9kazNwcFpZcDAxQ3gwSXZfbTcwbWF4SkhBTXlRSnlndHlz?oc=5",
-   "time": "2026-11-07T18:17:47+08:00",
    "summary": ""
   }
  ]
