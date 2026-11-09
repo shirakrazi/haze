@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-10T06:00:00+08:00",
+ "updated": "2026-11-10T07:00:00+08:00",
  "psi": {
-  "west": 46,
-  "east": 45,
-  "central": 52,
-  "south": 53,
+  "west": 45,
+  "east": 44,
+  "central": 50,
+  "south": 52,
   "north": 45
  },
  "pm25": {
-  "west": 11,
-  "east": 8,
+  "west": 8,
+  "east": 5,
   "central": 11,
-  "south": 11,
-  "north": 9
+  "south": 9,
+  "north": 10
  },
  "hist": [
-  {
-   "t": "2026-11-08T07:00:00+08:00",
-   "psi": {
-    "west": 69,
-    "east": 54,
-    "central": 57,
-    "south": 56,
-    "north": 74
-   }
-  },
   {
    "t": "2026-11-08T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 53,
     "north": 45
    }
+  },
+  {
+   "t": "2026-11-10T07:00:00+08:00",
+   "psi": {
+    "west": 45,
+    "east": 44,
+    "central": 50,
+    "south": 52,
+    "north": 45
+   }
   }
  ],
- "newsUpdated": "2026-11-10T06:08:16+08:00",
+ "newsUpdated": "2026-11-10T07:07:42+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Kompas.com",
+   "title": "Departing from PSI, Isyana Bagoes Oka Reveals Kaesang's Final Message",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFc2cE1OdzFHbTNJTXJrOXlIM1ZxMXNCSDRoTzctVU9kbzBLd3ZLTjBHRm53b1RISjJIRmVsZlNMYVFIT0J0ZjVoczhxVEVwTEtKUUhINENaYU1OdTA3NF9GeVlCSHRmc1Y3VVhUTS1mWFZXLW5xT3pfeDV5ZUZKOXRrU192MWdwNV81a3o5SU92MVJxZVBERHE1Z05FNTI2SVVGZUZ1OF9OYTZObms4aVNNdFB5QQ?oc=5",
+   "time": "2026-11-10T06:16:16+08:00",
+   "summary": ""
   },
   {
    "source": "Kompas.com",
@@ -539,13 +546,6 @@
    "title": "Wildfire haze causes more than 400,000 respiratory illness cases in Indonesia",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa0NpYzQxZXRMYTlCT2RKQlBiQnFONkM2eDA2ZjFjb1RQMkRrNW42UFlLQXZCU2NjT2dwMmhnRlc0YmQyR2ZxOHNjWXpoTzZsaXZKZEg1T0pYMTVqekJGSVNPem1VbVhKOURSOEM2aW5TVXdnUEUtekFZLTFFcklBajFoTHRzS2RudTRkdjg5Z2E0VXNhdHlTSVl6LWtFS0JKclZ3dlNqa0d0N2R6RHVTejIyeTdrZXFvV25TZ0ZocVh3UUI5ZWJXQ1VST3RLeEdxcXczbGxn?oc=5",
    "time": "2026-11-09T21:45:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kompas.com",
-   "title": "Raja Juli, Isyana, Giring Resign from PSI, Kaesang: National Duties Far Above Party Interests",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbm0zTWVQMkQxbWoteFUwdUxlMF9NRjJjSmFtRjdOM1RZWWZWSVI4dmRrVmxnZGVWVVpLVFNxRF9KS3NRRmptN0hLX1RsaEdGd1pyTVJ6N2ZHanVZVmoxS004UGViUGxQUldDa0hUNlFSRXVzZUx2dnVnSDVrdjJhOUJ2X2dPV2RhcUNJc0toSE1FbUVQaU1vWDdzWnFuVTlXSHdFZDhZVG1XdjJjZ2lpM1RDYW5QYnhlX2RrYkJiTjNhV2xESHc?oc=5",
-   "time": "2026-11-09T21:35:14+08:00",
    "summary": ""
   },
   {
