@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-09T23:00:00+08:00",
+ "updated": "2026-11-10T00:00:00+08:00",
  "psi": {
-  "west": 53,
+  "west": 52,
   "east": 51,
   "central": 58,
   "south": 54,
   "north": 56
  },
  "pm25": {
-  "west": 10,
-  "east": 8,
-  "central": 12,
-  "south": 7,
-  "north": 10
+  "west": 11,
+  "east": 7,
+  "central": 7,
+  "south": 6,
+  "north": 9
  },
  "hist": [
-  {
-   "t": "2026-11-08T00:00:00+08:00",
-   "psi": {
-    "west": 53,
-    "east": 43,
-    "central": 53,
-    "south": 52,
-    "north": 55
-   }
-  },
   {
    "t": "2026-11-08T01:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 54,
     "north": 56
    }
+  },
+  {
+   "t": "2026-11-10T00:00:00+08:00",
+   "psi": {
+    "west": 52,
+    "east": 51,
+    "central": 58,
+    "south": 54,
+    "north": 56
+   }
   }
  ],
- "newsUpdated": "2026-11-09T23:10:44+08:00",
+ "newsUpdated": "2026-11-10T00:07:06+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Kompas.com",
+   "title": "Isyana Bagoes Oka Resigns from PSI: Wants to Focus on Supporting Prabowo",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVhXSlhkVmZKTllkMDhLcXJpWGR3OXhYVV9uMUVwUDhTOE5DenVQMTNUbEhyS0FlVko1b2I4SEd1c28yZEJ4MFVBRHNVcDU4Z0E4b1FpeHUxMDV2TS1XVDNNTnNESy1YOTZGZE9FSmNjazRDczREWS02RTlfZFQtRFdpdUdjM25yVTd3bnZHZUJDZGFWTVhtUllMdDFTWUl4TjJLV3lsdlNwR292NkN3SVE0NWtOOHNPSUVB?oc=5",
+   "time": "2026-11-09T23:40:30+08:00",
+   "summary": ""
+  },
+  {
+   "source": "VnExpress International",
+   "title": "Singapore loses $1.8B to haze crisis, exceeding 2015 record",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0tKOENieHNJdkRSRHBnSVFubHFrVWwxU1lGSWVqU2tDVGdDUEVLbTlBZVotTDF1WkFPLXpNM0diNlVxeEZrWDQtVl9SWkp0bUlDSUM3cC1FcVM1bVVvd2RpSUh1bG5GNWMyY3QtUEczOTJYN25FRFJDcHg0VnQyUGNQcGZHMy1mbDItSTVmWVhHNXBtMXRVSzhvemVKbEswY3VMM3AtTVk0UVRFQjdCblFmUDlLRkk?oc=5",
+   "time": "2026-11-09T23:23:06+08:00",
+   "summary": ""
   },
   {
    "source": "Leiden Law Blog",
@@ -532,13 +546,6 @@
    "title": "Profile of Giring Ganesha, the Vice Minister of Culture Who Resigned from PSI",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN1JlbE9UMGdkN1B6VEg5RHBHYmJoR1ByRnBRVlR4TlM2eUFhUU5KVDNJcDhvYjhNYldfQmVObTVoOGN6R0h0UU9Vb1FpZUJUbXdZSnZUemhGcGNGamtrTVFYczJnWXdfb1Jtc1VsU1VjUjktcFVRWWpVMjRtMUlBVk1TSndtM3IwMWFudFcxbDZEZTZzTlZSc1VOMDRTc2MwT0RtTXlWZGdVYVNHVFBlZWJaaERPVXh0Z0hTdzA1eFp4dw?oc=5",
    "time": "2026-11-09T17:40:40+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kompas.com",
-   "title": "Giring Leaves Party, PSI: In Politics, People Come and Go",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkgzTXJCSmZzb0kwRW50a05hNjN1V3p6VU9CZGRDakJuQ050MkN1MmFqWnBOVVh3dTByTnpQV3RQVGpoaHFoZXlnaEVkNHNOQVg1YXdjTVUyenZvWHJGNmhEOVZ1Y3BfamRqcnJtN0I2dTNSWVVuTHppVnZWQkhtZzdLXzlxWmE0c3Q1NEQ0SXNLTVJEQjZHU0pMTXVwNGpEQ2pFbg?oc=5",
-   "time": "2026-11-09T17:19:43+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Indonesia called me a spy, says Malaysian haze filmmaker",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdExWT3p6UzVHc0N0ZXJfUW9SZklQenMtd2p0LW84U1BxY0lHWW01N1RsVF9pTkNoM2kydGhaRmdBQ0dKMGJ5VDgzdk9sQjFSc0F5ZkczMzY4VjhDeHdWUmFHZmotRWZsWFBMTFlwUm0wM19QeGxEM05hM0hJV0EwS3FKT3ZnRWlVMnNmYzN4dHIwZHBGeHY0VXhEWS04N2hTbTZSZDBEOWtkVTF0T3RQTGxmWXRzR1A3?oc=5",
    "time": "2026-11-09T08:05:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Jakarta Post",
-   "title": "Wildfire haze sickens more children as respiratory cases hit 400,000",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORUlUdzZ0Mm1UYllLTW1pbGkyQmNOUFhkY1cwWTl6UFpHdTRzNE1aRTlKcVdqWUJkN2tXRmJZWGxFRF9OenFJRFRibUg5RklveDhPQXlQU2lVWnlITUI2M1MwYlZ1Q2E3WDFVellBQVpOT3lrZVU3dDQwOF9PaWZobE8yYlRKUHhsYm5VU1lhUmR0TEVPMENfcG9uNFVyR0d6M0g2emFuRVZpb3pMT0J4bFFNVFVESUl2SmlMaXVTcnFWSXlWVFcwSDY3b3JzNktWQUZheV8xWEU2dlFZbDQwWFJPVGpueG55SFFDenhjY0NkdU9l?oc=5",
-   "time": "2026-11-09T08:03:53+08:00",
    "summary": ""
   }
  ]
