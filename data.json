@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-10T23:00:00+08:00",
+ "updated": "2026-11-11T00:00:00+08:00",
  "psi": {
-  "west": 44,
-  "east": 42,
-  "central": 39,
-  "south": 49,
-  "north": 41
+  "west": 45,
+  "east": 43,
+  "central": 41,
+  "south": 51,
+  "north": 45
  },
  "pm25": {
   "west": 16,
-  "east": 18,
-  "central": 17,
-  "south": 18,
-  "north": 29
+  "east": 11,
+  "central": 16,
+  "south": 14,
+  "north": 27
  },
  "hist": [
-  {
-   "t": "2026-11-09T00:00:00+08:00",
-   "psi": {
-    "west": 75,
-    "east": 58,
-    "central": 58,
-    "south": 58,
-    "north": 73
-   }
-  },
   {
    "t": "2026-11-09T01:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 49,
     "north": 41
    }
+  },
+  {
+   "t": "2026-11-11T00:00:00+08:00",
+   "psi": {
+    "west": 45,
+    "east": 43,
+    "central": 41,
+    "south": 51,
+    "north": 45
+   }
   }
  ],
- "newsUpdated": "2026-11-10T23:09:35+08:00",
+ "newsUpdated": "2026-11-11T00:08:49+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,10 @@
    "pinned": true
   },
   {
-   "source": "www.hcamag.com",
+   "source": "Human Resources Director",
    "title": "Singapore employers face enforcement risk under haze guidance, lawyer warns",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYldkckowT09fREJmTWVWU0xZMXMtaVQ3VDF6ODhTdTFfa3FYYkIwdnZWU2dtZ2VudUZQaUpFSEltbU5felB6dV9vZHhYNTZRNFJxMHd6d1Q3a3NGWDdtdGtlQUxNVmE1UXBBRXozRFFDZEpMUDVMc2hXdjdJbWlwMHZ0Nkp3Vjk0TTJsVU51ZFVDeVQ1RXVfY1lrMlZXc3pCVnN4bFhiU1FhcXppa3p6MTBEWnc1RGFDakdNanNrVmNVbFd6bHl3MHFsRmNPQ2V1Y2tvZ2Fn?oc=5",
-   "time": "2026-11-10T17:14:49+08:00",
+   "time": "2026-11-10T20:46:05+08:00",
    "summary": ""
   },
   {
