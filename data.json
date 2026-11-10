@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-10T07:00:00+08:00",
+ "updated": "2026-11-10T08:00:00+08:00",
  "psi": {
   "west": 45,
-  "east": 44,
-  "central": 50,
-  "south": 52,
-  "north": 45
+  "east": 43,
+  "central": 47,
+  "south": 51,
+  "north": 44
  },
  "pm25": {
-  "west": 8,
-  "east": 5,
+  "west": 7,
+  "east": 9,
   "central": 11,
-  "south": 9,
-  "north": 10
+  "south": 7,
+  "north": 7
  },
  "hist": [
-  {
-   "t": "2026-11-08T08:00:00+08:00",
-   "psi": {
-    "west": 74,
-    "east": 55,
-    "central": 58,
-    "south": 57,
-    "north": 76
-   }
-  },
   {
    "t": "2026-11-08T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 52,
     "north": 45
    }
+  },
+  {
+   "t": "2026-11-10T08:00:00+08:00",
+   "psi": {
+    "west": 45,
+    "east": 43,
+    "central": 47,
+    "south": 51,
+    "north": 44
+   }
   }
  ],
- "newsUpdated": "2026-11-10T07:07:42+08:00",
+ "newsUpdated": "2026-11-10T08:07:48+08:00",
  "news": [
   {
    "source": "CNA",
@@ -539,6 +539,13 @@
    "title": "Haze: a burning issue for ASEAN",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KMFhfNHI1TzlZVmNXdFZrc05GV3V1c0lFZTVWU1VRR2hnUzVaY1VzclRlNjZ4UEl6clVjc05UaU1maHJoSTN4a2tHZHd1U1hRdjVvYTZFbE5icTFHUXpoa2xYcmZGUWxjZlRHbzlIVVNRQUN1eTVz?oc=5",
    "time": "2026-11-09T22:50:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Jakarta Post",
+   "title": "Ministers leave PSI as House sets to decide on Gibran",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaTViVWJkenFMUjh0MlNQM1FtVUVzSkpYMHhWSlBFVG1SOVdYRHo1SWhUOGg1UkRfRWE5RnpMbUVzZDZ3RFVkeXFZZk5aZlNZeE1Ja2RVUjk2bTFnck44dzdNblJPQTV6eXZ3ZWNDYWlQa1o1a09PMnZ5MzBjbUJ0MWI0Tzk5Zm5HYU1kbXpwRGF2RkM5Zkp6X3c3czlOUjFmMF9yYVVlRmsyUTFXeE5wRVEydDlOdzBRUWFiNllZX0RkZThYTVNsS0lxZ2poZHhjMXAyQmxIVUo5aVZuSENmd1l3?oc=5",
+   "time": "2026-11-09T22:19:53+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "M’sian Influencer Claims He Was Detained for 6 Days While Filming Haze Documentary in Indonesia Over Spy Suspicions",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRjFVZWVBSTN6bDZsTjlkRm1yWFhXVzc0UEh0Z21Rck41TWZyRG1DT0JXcGFaNHhaMkpYOWVzYldwU1QwcGJHYTB2cWZxNllMWVpyRzk5MXktcGJEbTBkQ0hMdDB1UFpqUHRvR20xbEVIUlBHOHNUdlppeUN5T1NUQ3hwVnlnNHQ1OE01QmFsZHFaQ1R1QVFEOW4wZnNlS3VkaHVHZ3RPbXk4NlRIalFkdUJoNXZLWXREalpqb3NiWUtSREt2VzdYbndXOTNucHRkNXZtSW1B?oc=5",
    "time": "2026-11-09T09:28:44+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Free Malaysia Today",
-   "title": "Indonesia called me a spy, says Malaysian haze filmmaker",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdExWT3p6UzVHc0N0ZXJfUW9SZklQenMtd2p0LW84U1BxY0lHWW01N1RsVF9pTkNoM2kydGhaRmdBQ0dKMGJ5VDgzdk9sQjFSc0F5ZkczMzY4VjhDeHdWUmFHZmotRWZsWFBMTFlwUm0wM19QeGxEM05hM0hJV0EwS3FKT3ZnRWlVMnNmYzN4dHIwZHBGeHY0VXhEWS04N2hTbTZSZDBEOWtkVTF0T3RQTGxmWXRzR1A3?oc=5",
-   "time": "2026-11-09T08:05:00+08:00",
    "summary": ""
   }
  ]
