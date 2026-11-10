@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-10T09:00:00+08:00",
+ "updated": "2026-11-10T10:00:00+08:00",
  "psi": {
-  "west": 44,
-  "east": 42,
-  "central": 45,
-  "south": 50,
-  "north": 41
+  "west": 45,
+  "east": 40,
+  "central": 43,
+  "south": 48,
+  "north": 39
  },
  "pm25": {
-  "west": 7,
-  "east": 12,
-  "central": 16,
-  "south": 15,
-  "north": 8
+  "west": 11,
+  "east": 10,
+  "central": 13,
+  "south": 14,
+  "north": 11
  },
  "hist": [
-  {
-   "t": "2026-11-08T10:00:00+08:00",
-   "psi": {
-    "west": 76,
-    "east": 58,
-    "central": 61,
-    "south": 59,
-    "north": 76
-   }
-  },
   {
    "t": "2026-11-08T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 50,
     "north": 41
    }
+  },
+  {
+   "t": "2026-11-10T10:00:00+08:00",
+   "psi": {
+    "west": 45,
+    "east": 40,
+    "central": 43,
+    "south": 48,
+    "north": 39
+   }
   }
  ],
- "newsUpdated": "2026-11-10T09:09:21+08:00",
+ "newsUpdated": "2026-11-10T10:07:39+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Mirage News",
+   "title": "Indonesia's Fire and Haze Crisis Fuels People Power",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS1lHXzZVd091M3VQM2V3RDRKaFpXUXNQbE15ZUI1OGx2a0lVSS1uRUtqSlQ4YjZLWHVHMTV6WmRMa1lJLVFqekhNT2l0aURCbS12bEVpbDU1Q3BmUmFDQWFqR2NxRV9jd1N6a0ZEOWwwVk9ZYUJrN3FMNlZWV2pqSXBEVlFLUzQ?oc=5",
+   "time": "2026-11-10T09:53:00+08:00",
+   "summary": ""
   },
   {
    "source": "Times Higher Education",
@@ -588,13 +595,6 @@
    "title": "Singapore Haze Cost: 2026 Pollution Estimated to Cause S$2.32 Billion in Losses",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT0F3cFRDcWdDYU1xZi04cHZfVFctRXN2Y0VhWFZFM2hiZFcweldFSV94RXdfaVdSYkN0dGM5TWxEa2M0cTd1TktYamFHclF5R1NiTi04bl9wQnE4dE5ybFNKaG9Cbm4ta20zYkVBRUJiQlpldDFRRnNoVGcySnJ5WVJlWGlzWVkyT1hON0ZOVUp1THJ4VmRmLV91UjRId1gyNUEyZjhTem43TG9hWmdIRmlNelp2QQ?oc=5",
    "time": "2026-11-09T10:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Singapore Business Review",
-   "title": "Gov’t to deactivate haze subsidy scheme from 12 November",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12RFhqeEpTVE9LY1BSRy1JMEpydTMxelBoaEJPc2FJamVRc2dMNVVlRFhkdTM4TlNOX2JuY1FOZ3VmTWZYX3duVFVUdTZCSWVIeXpxcXFNcTNnV0d1MFFSZk55UGxrVmUwRTkzdjR3dHA1YlB2WVRJa3YxNA?oc=5",
-   "time": "2026-11-09T09:54:42+08:00",
    "summary": ""
   }
  ]
