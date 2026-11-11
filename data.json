@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-11T17:00:00+08:00",
+ "updated": "2026-11-11T18:00:00+08:00",
  "psi": {
   "west": 54,
-  "east": 51,
+  "east": 52,
   "central": 57,
   "south": 55,
   "north": 53
  },
  "pm25": {
-  "west": 18,
-  "east": 21,
-  "central": 24,
-  "south": 14,
-  "north": 10
+  "west": 28,
+  "east": 20,
+  "central": 17,
+  "south": 11,
+  "north": 5
  },
  "hist": [
-  {
-   "t": "2026-11-09T18:00:00+08:00",
-   "psi": {
-    "west": 53,
-    "east": 48,
-    "central": 58,
-    "south": 53,
-    "north": 56
-   }
-  },
   {
    "t": "2026-11-09T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 55,
     "north": 53
    }
+  },
+  {
+   "t": "2026-11-11T18:00:00+08:00",
+   "psi": {
+    "west": 54,
+    "east": 52,
+    "central": 57,
+    "south": 55,
+    "north": 53
+   }
   }
  ],
- "newsUpdated": "2026-11-11T17:07:32+08:00",
+ "newsUpdated": "2026-11-11T18:07:34+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Kompas.com",
+   "title": "The Future of PSI Under Jokowi's Shadow: Founders Depart and Identity at Stake",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanBUVmg0Y0phU01MR09fSDdTZHhXNFpaRGhnNFRuQWZHZ00xU0VENVFRbGRydnRSanEtaXFqSVJpR0c5X3VfdGJKX3FVcTMwcHIweG93NEtlT0tzc2U3SG1jLU1xOEdDX01zWFlMSU80cGZnVE5TVE9XT1VUYkkwcnBKQWFPWVE0anFiVnNlRmdqRVVfdFJqSG5udzFsU1laUXc5N0lQelVHdm9kczZlTGYxajJJZEwyTExraDV2VUw?oc=5",
+   "time": "2026-11-11T17:59:54+08:00",
+   "summary": ""
   },
   {
    "source": "Vocal",
@@ -588,13 +595,6 @@
    "title": "Raja Juli and Others Leave PSI, Observers Say It’s No Longer a Party for Youth",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLXFRV3BZSU1ZaDdEeTU1cW1XdjZFZDlkRTVtT0c1aWtVOTNHSDI1VUNHQUxDZUhZSGhvY2dGX1BWQnN5WHhGZlFlT1lNcnNTOGIwRFN0bEVoM0llS0tiVV9ZVkItMk5QM25BbDFnV05vQ2NpUnAtek43YXRmSEE2WmhJNHRLVkVDdlBuQnVOb1U0LVZFMkxkR05FYUNfcUFqOW84d3ZyYXZHdXB6WmFQSEYxS2k0VFIxQjBKU2gyZlNtUQ?oc=5",
    "time": "2026-11-10T09:00:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Times Higher Education",
-   "title": "Toxic haze disrupts university life in South-east Asia",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1ZnandKNFo4UFpoUGYwdWJpaFRoWGs1RTFBWllGMVBEWVdOR0NPczA3cWYyU3lwSmlkb29YUHRYQmZkZjJSQXpyY2RHbGRuY1hISzIxeFktS1h5RURJdzJxcGpvang1U0NEckFZb05iLWFUSXJCaXJjSHF6eGg5MzViY0k1VkI5ZjJEWEw1bmVmenJzRVhhMQ?oc=5",
-   "time": "2026-11-10T08:37:21+08:00",
    "summary": ""
   }
  ]
