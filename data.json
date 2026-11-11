@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-11T10:00:00+08:00",
+ "updated": "2026-11-11T11:00:00+08:00",
  "psi": {
-  "west": 53,
+  "west": 54,
   "east": 46,
-  "central": 54,
+  "central": 55,
   "south": 55,
-  "north": 47
+  "north": 46
  },
  "pm25": {
-  "west": 21,
-  "east": 11,
-  "central": 20,
-  "south": 22,
+  "west": 12,
+  "east": 9,
+  "central": 14,
+  "south": 15,
   "north": 8
  },
  "hist": [
-  {
-   "t": "2026-11-09T11:00:00+08:00",
-   "psi": {
-    "west": 51,
-    "east": 45,
-    "central": 56,
-    "south": 52,
-    "north": 55
-   }
-  },
   {
    "t": "2026-11-09T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 55,
     "north": 47
    }
+  },
+  {
+   "t": "2026-11-11T11:00:00+08:00",
+   "psi": {
+    "west": 54,
+    "east": 46,
+    "central": 55,
+    "south": 55,
+    "north": 46
+   }
   }
  ],
- "newsUpdated": "2026-11-11T10:07:10+08:00",
+ "newsUpdated": "2026-11-11T11:06:57+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Batam News Asia",
+   "title": "Indonesia Political Shift: Three Cabinet Officials Leave Jokowi-Linked PSI",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUJHVWNKc2ZZVjdFSFZpMnBIY09yTzVmLVd1NklGS0sxVGJyemxyb0RtWUQxUFk3bkdCc0hSclgyRUFnR1VwQ0gxbG9tRDhJY2VEUWpOTlU2ZHFld2ZLamJhcGFIYjU2blhuX2JpX1A5NnQ3X29VUWdYQ2gwczV3T1ZmRlViU1hrT2UyamNxNS1LWldxd1R5UENkVE9uX0RhNXZpMHN2b1E3Q0lJRm1zeQ?oc=5",
+   "time": "2026-11-11T10:00:00+08:00",
+   "summary": ""
   },
   {
    "source": "Retail Asia",
@@ -549,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "VOI.ID",
+   "title": "3 Ministers Prabowo Resign Simultaneously from PSI in the Middle of Gibran's Political Controversy",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5uSG53X056anRqX1NLdGFtLUdmaVBVZ0VDOTZQS1VvVHFfSE4yYzJOVEVRSWhmNVdCMVdTTjd1TEYyVTTSAUJBVV95cUxQWXpHT3AySnZrM0g4RFpGcUc5ZTRZU011cmxiTTJSekozekhmbk4wblhsbExhcE1ZXy1GcU16UE1XTFE?oc=5",
+   "time": "2026-11-10T12:15:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "Mirage News",
    "title": "Indonesia's Fire and Haze Crisis Fuels People Power",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS1lHXzZVd091M3VQM2V3RDRKaFpXUXNQbE15ZUI1OGx2a0lVSS1uRUtqSlQ4YjZLWHVHMTV6WmRMa1lJLVFqekhNT2l0aURCbS12bEVpbDU1Q3BmUmFDQWFqR2NxRV9jd1N6a0ZEOWwwVk9ZYUJrN3FMNlZWV2pqSXBEVlFLUzQ?oc=5",
@@ -581,20 +595,6 @@
    "title": "Departing from PSI, Isyana Bagoes Oka Reveals Kaesang's Final Message",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFc2cE1OdzFHbTNJTXJrOXlIM1ZxMXNCSDRoTzctVU9kbzBLd3ZLTjBHRm53b1RISjJIRmVsZlNMYVFIT0J0ZjVoczhxVEVwTEtKUUhINENaYU1OdTA3NF9GeVlCSHRmc1Y3VVhUTS1mWFZXLW5xT3pfeDV5ZUZKOXRrU192MWdwNV81a3o5SU92MVJxZVBERHE1Z05FNTI2SVVGZUZ1OF9OYTZObms4aVNNdFB5QQ?oc=5",
    "time": "2026-11-10T06:16:16+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kompas.com",
-   "title": "Isyana Bagoes Oka Resigns from PSI: Wants to Focus on Supporting Prabowo",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVhXSlhkVmZKTllkMDhLcXJpWGR3OXhYVV9uMUVwUDhTOE5DenVQMTNUbEhyS0FlVko1b2I4SEd1c28yZEJ4MFVBRHNVcDU4Z0E4b1FpeHUxMDV2TS1XVDNNTnNESy1YOTZGZE9FSmNjazRDczREWS02RTlfZFQtRFdpdUdjM25yVTd3bnZHZUJDZGFWTVhtUllMdDFTWUl4TjJLV3lsdlNwR292NkN3SVE0NWtOOHNPSUVB?oc=5",
-   "time": "2026-11-09T23:40:30+08:00",
-   "summary": ""
-  },
-  {
-   "source": "VnExpress International",
-   "title": "Singapore loses $1.8B to haze crisis, exceeding 2015 record",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0tKOENieHNJdkRSRHBnSVFubHFrVWwxU1lGSWVqU2tDVGdDUEVLbTlBZVotTDF1WkFPLXpNM0diNlVxeEZrWDQtVl9SWkp0bUlDSUM3cC1FcVM1bVVvd2RpSUh1bG5GNWMyY3QtUEczOTJYN25FRFJDcHg0VnQyUGNQcGZHMy1mbDItSTVmWVhHNXBtMXRVSzhvemVKbEswY3VMM3AtTVk0UVRFQjdCblFmUDlLRkk?oc=5",
-   "time": "2026-11-09T23:23:06+08:00",
    "summary": ""
   }
  ]
