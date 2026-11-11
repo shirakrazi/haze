@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T09:00:00+08:00",
+ "updated": "2026-11-11T10:00:00+08:00",
  "psi": {
   "west": 53,
   "east": 46,
@@ -8,23 +8,13 @@
   "north": 47
  },
  "pm25": {
-  "west": 12,
-  "east": 9,
-  "central": 21,
+  "west": 21,
+  "east": 11,
+  "central": 20,
   "south": 22,
-  "north": 7
+  "north": 8
  },
  "hist": [
-  {
-   "t": "2026-11-09T10:00:00+08:00",
-   "psi": {
-    "west": 52,
-    "east": 48,
-    "central": 56,
-    "south": 52,
-    "north": 55
-   }
-  },
   {
    "t": "2026-11-09T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 55,
     "north": 47
    }
+  },
+  {
+   "t": "2026-11-11T10:00:00+08:00",
+   "psi": {
+    "west": 53,
+    "east": 46,
+    "central": 54,
+    "south": 55,
+    "north": 47
+   }
   }
  ],
- "newsUpdated": "2026-11-11T09:07:20+08:00",
+ "newsUpdated": "2026-11-11T10:07:10+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Retail Asia",
+   "title": "Singapore retail growth to cool as haze and costs hit shoppers",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNUtRa3JwU3p6c0JVUXVSX2FIMk90OVM3bm5TWXp6UUJ4QWVjVHMwTnlqQkdEZ1lTQ2hOSjRoVDlTb3dEWjkwY0dNOEN4d3Q4cUYxdVcyX0VYTVpteFhnNHVGeWdCVF9nSDM2bUxvLUYyMFJqZ2NqYl9kWWRNS3J3VHlSU1lmNDk5UEE2MmlMRENnUQ?oc=5",
+   "time": "2026-11-11T09:48:02+08:00",
+   "summary": ""
   },
   {
    "source": "The Star",
@@ -588,13 +595,6 @@
    "title": "Singapore loses $1.8B to haze crisis, exceeding 2015 record",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0tKOENieHNJdkRSRHBnSVFubHFrVWwxU1lGSWVqU2tDVGdDUEVLbTlBZVotTDF1WkFPLXpNM0diNlVxeEZrWDQtVl9SWkp0bUlDSUM3cC1FcVM1bVVvd2RpSUh1bG5GNWMyY3QtUEczOTJYN25FRFJDcHg0VnQyUGNQcGZHMy1mbDItSTVmWVhHNXBtMXRVSzhvemVKbEswY3VMM3AtTVk0UVRFQjdCblFmUDlLRkk?oc=5",
    "time": "2026-11-09T23:23:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Leiden Law Blog",
-   "title": "Haze: a burning issue for ASEAN",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KMFhfNHI1TzlZVmNXdFZrc05GV3V1c0lFZTVWU1VRR2hnUzVaY1VzclRlNjZ4UEl6clVjc05UaU1maHJoSTN4a2tHZHd1U1hRdjVvYTZFbE5icTFHUXpoa2xYcmZGUWxjZlRHbzlIVVNRQUN1eTVz?oc=5",
-   "time": "2026-11-09T22:50:00+08:00",
    "summary": ""
   }
  ]
