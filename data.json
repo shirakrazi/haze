@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-13T06:00:00+08:00",
+ "updated": "2026-11-13T07:00:00+08:00",
  "psi": {
   "west": 65,
   "east": 56,
   "central": 65,
   "south": 60,
-  "north": 63
+  "north": 64
  },
  "pm25": {
-  "west": 24,
-  "east": 15,
-  "central": 16,
-  "south": 20,
-  "north": 21
+  "west": 26,
+  "east": 12,
+  "central": 25,
+  "south": 17,
+  "north": 23
  },
  "hist": [
-  {
-   "t": "2026-11-11T07:00:00+08:00",
-   "psi": {
-    "west": 52,
-    "east": 47,
-    "central": 53,
-    "south": 54,
-    "north": 47
-   }
-  },
   {
    "t": "2026-11-11T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 60,
     "north": 63
    }
+  },
+  {
+   "t": "2026-11-13T07:00:00+08:00",
+   "psi": {
+    "west": 65,
+    "east": 56,
+    "central": 65,
+    "south": 60,
+    "north": 64
+   }
   }
  ],
- "newsUpdated": "2026-11-13T06:07:49+08:00",
+ "newsUpdated": "2026-11-13T07:07:34+08:00",
  "news": [
   {
    "source": "CNA",
@@ -539,6 +539,13 @@
    "title": "Days Full of Haze",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fT3lmVXM5bGk4Q2R5dnBZR00zNFZaSTZmS045VnNOZUpoOXdDZVp2aU5hRGs5ZjJhZjNjVWtQcmhFVXQ2dHBlMjVVRE1VVm1qQ0dPeEwzLV9YNHFNalJOQ21WQkQtTmpHNEplVVU0OU41MnVBUHc?oc=5",
    "time": "2026-11-12T18:33:10+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
+   "time": "2026-11-12T18:17:56+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Serian Haze Reached 23-Cigarette Daily Risk Comparison, MP Says",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWFozbHFmR1pOSG04UWJSQTJUUlVhVEFMeU5YTFpVaTZxMnVzWmdHc3dfOEE5dy1oMFVjaTR5YTNjZGdXck1mS1FkdWRLd3FzUXQtb0tWal9nbVpiN1ZWc3ljTVlHTS0zMXdrekFYcno5UEZfUFphOHdUY2poWElxUDVEdVYyUFBNOEpFcg?oc=5",
    "time": "2026-11-12T01:27:54+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Jakarta Globe",
-   "title": "Prabowo to Join ASEAN Manila Talks Overshadowed by Haze",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNEZCTHE5NVpWblZ4UDQyamM4dzlGb2RGV3h0bURIQUZqWDdIMkFhM0Y1V21MZTBmaHNqX2hTeHBONHdzYldUc24za09RSEZ0eUZ5SkhVZ09FV3ZqUEc5V0dZaUxGV0lxREZrMWIzOG5uaFRXbVFKNTVXc1ZjOGtOSmI0RTQxR0xua3FKZg?oc=5",
-   "time": "2026-11-11T23:50:00+08:00",
    "summary": ""
   }
  ]
