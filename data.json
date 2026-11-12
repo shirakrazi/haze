@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-12T10:00:00+08:00",
+ "updated": "2026-11-12T11:00:00+08:00",
  "psi": {
   "west": 59,
   "east": 56,
   "central": 57,
   "south": 55,
-  "north": 55
+  "north": 56
  },
  "pm25": {
-  "west": 15,
-  "east": 15,
-  "central": 24,
-  "south": 20,
-  "north": 28
+  "west": 13,
+  "east": 16,
+  "central": 21,
+  "south": 21,
+  "north": 23
  },
  "hist": [
-  {
-   "t": "2026-11-10T11:00:00+08:00",
-   "psi": {
-    "west": 43,
-    "east": 40,
-    "central": 41,
-    "south": 47,
-    "north": 38
-   }
-  },
   {
    "t": "2026-11-10T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 55,
     "north": 55
    }
+  },
+  {
+   "t": "2026-11-12T11:00:00+08:00",
+   "psi": {
+    "west": 59,
+    "east": 56,
+    "central": 57,
+    "south": 55,
+    "north": 56
+   }
   }
  ],
- "newsUpdated": "2026-11-12T10:07:01+08:00",
+ "newsUpdated": "2026-11-12T11:07:03+08:00",
  "news": [
   {
    "source": "CNA",
@@ -556,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "The Sun Malaysia",
+   "title": "Cabinet discusses Malaysia’s assistance to Indonesia over transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWlIzVTlOa1ZyT2wtWEV4Tkp3a3o5UF81UlY2M3BkekptY0J5STVmTU1QMzExb200WHlxbERic2J2UUd1V3VKN3VtbkZyeENMM3lWZmJ6Um82WWF3U0JQMGxvMVp4TTcxYlZDeXc2S0o1VHVBdk1Hc2F2THAwNWxUY3ZELUdDNm01OUFVZjAtOEQxOWlhVzl3OV9oaW56UHpK?oc=5",
+   "time": "2026-11-11T18:58:08+08:00",
+   "summary": ""
+  },
+  {
    "source": "Kompas.com",
    "title": "The Future of PSI Under Jokowi's Shadow: Founders Depart and Identity at Stake",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanBUVmg0Y0phU01MR09fSDdTZHhXNFpaRGhnNFRuQWZHZ00xU0VENVFRbGRydnRSanEtaXFqSVJpR0c5X3VfdGJKX3FVcTMwcHIweG93NEtlT0tzc2U3SG1jLU1xOEdDX01zWFlMSU80cGZnVE5TVE9XT1VUYkkwcnBKQWFPWVE0anFiVnNlRmdqRVVfdFJqSG5udzFsU1laUXc5N0lQelVHdm9kczZlTGYxajJJZEwyTExraDV2VUw?oc=5",
@@ -588,13 +595,6 @@
    "title": "Indonesia Political Shift: Three Cabinet Officials Leave Jokowi-Linked PSI",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUJHVWNKc2ZZVjdFSFZpMnBIY09yTzVmLVd1NklGS0sxVGJyemxyb0RtWUQxUFk3bkdCc0hSclgyRUFnR1VwQ0gxbG9tRDhJY2VEUWpOTlU2ZHFld2ZLamJhcGFIYjU2blhuX2JpX1A5NnQ3X29VUWdYQ2gwczV3T1ZmRlViU1hrT2UyamNxNS1LWldxd1R5UENkVE9uX0RhNXZpMHN2b1E3Q0lJRm1zeQ?oc=5",
    "time": "2026-11-11T10:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Retail Asia",
-   "title": "Singapore retail growth to cool as haze and costs hit shoppers",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNUtRa3JwU3p6c0JVUXVSX2FIMk90OVM3bm5TWXp6UUJ4QWVjVHMwTnlqQkdEZ1lTQ2hOSjRoVDlTb3dEWjkwY0dNOEN4d3Q4cUYxdVcyX0VYTVpteFhnNHVGeWdCVF9nSDM2bUxvLUYyMFJqZ2NqYl9kWWRNS3J3VHlSU1lmNDk5UEE2MmlMRENnUQ?oc=5",
-   "time": "2026-11-11T09:48:02+08:00",
    "summary": ""
   }
  ]
