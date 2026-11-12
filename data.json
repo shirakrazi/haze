@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-12T14:00:00+08:00",
+ "updated": "2026-11-12T15:00:00+08:00",
  "psi": {
-  "west": 60,
+  "west": 61,
   "east": 57,
-  "central": 59,
+  "central": 60,
   "south": 57,
-  "north": 57
+  "north": 58
  },
  "pm25": {
   "west": 21,
-  "east": 20,
-  "central": 28,
-  "south": 19,
-  "north": 28
+  "east": 21,
+  "central": 30,
+  "south": 7,
+  "north": 25
  },
  "hist": [
-  {
-   "t": "2026-11-10T15:00:00+08:00",
-   "psi": {
-    "west": 38,
-    "east": 40,
-    "central": 38,
-    "south": 45,
-    "north": 35
-   }
-  },
   {
    "t": "2026-11-10T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 57,
     "north": 57
    }
+  },
+  {
+   "t": "2026-11-12T15:00:00+08:00",
+   "psi": {
+    "west": 61,
+    "east": 57,
+    "central": 60,
+    "south": 57,
+    "north": 58
+   }
   }
  ],
- "newsUpdated": "2026-11-12T14:07:15+08:00",
+ "newsUpdated": "2026-11-12T15:08:00+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Traders Union",
+   "title": "SD Guthrie remains focused on Indonesia amid land risks, haze and El Niño",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXZLSTVLXzdJTHZzeXhmX0M3ZGJ4bnJfaWVKTnEyaGhnbDFZQzlkbkJqbTJIbHEyc0hOSGIxX2NHZTdUVlFodmZpc244cXpfTFlzRzQtc3dDMnpyMHlNVkhubmlkb2U3QW1LeEtEc1hoQ25VZC0yRkZ5QmNRY3ZrZXlIY19YaFZoZ015ekkxSWJOQ0RGNVJF?oc=5",
+   "time": "2026-11-12T14:27:41+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Indonesia: Land disputes, haze and El Niño",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wa3FoYW45XzJZSThqOEY5RWVQVWtoMkN5azA3eXQtcFhYYm1wZjFRWDNIV0R0ZUpsbVJOZzhCekZidGk0S0dDMUlPc01NYU5G?oc=5",
+   "time": "2026-11-12T14:00:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Jakarta Post",
@@ -581,20 +595,6 @@
    "title": "Singapore haze law: Amendments will be made at next Parliament sitting",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mYWNkaDU3aGd6b2tySXJCVFpucXV0TnpPLXRnU2p2RUxqVHI3RVVhNXp4aG1iYktGR2ZObElQTWtvNnhfV1dvOERxeGg3M2VVS1FNU0lPd3lRUDBRX0E?oc=5",
    "time": "2026-11-11T16:06:49+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Vocal",
-   "title": "Indonesia Cuts Gas Exports to Singapore: Energy Security, Diplomatic Tensions, and the Haze Crisis",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN1A0cDc5TFRBWUsyNVdfQ18xWTkyYzlkamoyYkxlSWpZejlPWnVQWkNoY2FZSXVieXpyMmJNMnZRNjF2QlhTMk1SUkFBSVdzeW9haU5oemdjSllMWEd6Z3g3bWJrTTU1N2pjT1FDaU0zTzRmV3hFck1Uam1ER2FxamdBNy03aENDWmNJbFcwVUZqSTFreVFPTFV2ZkdsQ0lOM184WWtTZ3J4WldiUThWbWcxUXlNaldjZ1duTHd5WWM?oc=5",
-   "time": "2026-11-11T11:50:39+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Batam News Asia",
-   "title": "Indonesia Political Shift: Three Cabinet Officials Leave Jokowi-Linked PSI",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUJHVWNKc2ZZVjdFSFZpMnBIY09yTzVmLVd1NklGS0sxVGJyemxyb0RtWUQxUFk3bkdCc0hSclgyRUFnR1VwQ0gxbG9tRDhJY2VEUWpOTlU2ZHFld2ZLamJhcGFIYjU2blhuX2JpX1A5NnQ3X29VUWdYQ2gwczV3T1ZmRlViU1hrT2UyamNxNS1LWldxd1R5UENkVE9uX0RhNXZpMHN2b1E3Q0lJRm1zeQ?oc=5",
-   "time": "2026-11-11T10:00:00+08:00",
    "summary": ""
   }
  ]
