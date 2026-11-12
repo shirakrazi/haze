@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T05:00:00+08:00",
+ "updated": "2026-11-13T06:00:00+08:00",
  "psi": {
   "west": 65,
   "east": 56,
@@ -8,23 +8,13 @@
   "north": 63
  },
  "pm25": {
-  "west": 31,
-  "east": 11,
-  "central": 23,
-  "south": 21,
+  "west": 24,
+  "east": 15,
+  "central": 16,
+  "south": 20,
   "north": 21
  },
  "hist": [
-  {
-   "t": "2026-11-11T06:00:00+08:00",
-   "psi": {
-    "west": 52,
-    "east": 46,
-    "central": 53,
-    "south": 53,
-    "north": 46
-   }
-  },
   {
    "t": "2026-11-11T07:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 60,
     "north": 63
    }
+  },
+  {
+   "t": "2026-11-13T06:00:00+08:00",
+   "psi": {
+    "west": 65,
+    "east": 56,
+    "central": 65,
+    "south": 60,
+    "north": 63
+   }
   }
  ],
- "newsUpdated": "2026-11-13T05:07:18+08:00",
+ "newsUpdated": "2026-11-13T06:07:49+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "NST Online",
+   "title": "Krisdayanti sorry for haze",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3BWNzZpV2pwX2lrUGJSeVA4MGd5bUhNU3ZBZkRPUUloSmRPa0ZFemQtZUpTWkZ5WTRPV2VvYjB0bnd5bTJ2b2ctSWJiLVpPS3Y0UUNkalFVTjNLZ1E0MFJsNU1yRnZLb19SUkt1MkxNZnh2cm4yeHExb21rdFBRaGw3ZnbSAYoBQVVfeXFMUGdGeHAxdHlVWXdOLXg4c3BZWHVaXzBzdE9Mb3Bfa2FWWGpFaUxGM2FsVDBHZnU2RHUxdE4tVVRiV0FVSm1TVEVPT3A5Q3lGc3VlYWVzTWpueGN2QVpNOFByQ3hBWmdlZzl1TkpHVnk2ZXYwNnk5LXpXekE0TnZDY1pDU0RqSi1JeXJR?oc=5",
+   "time": "2026-11-13T06:00:46+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Climate change’s heat and El Nino’s drought worsened Indonesia haze: Study",
+   "url": "https://www.straitstimes.com/singapore/environment/climate-changes-heat-and-el-ninos-drought-worsened-indonesia-haze-study",
+   "time": "2026-11-13T06:00:00+08:00",
+   "summary": ""
   },
   {
    "source": "Malaysiakini",
@@ -581,20 +595,6 @@
    "title": "Prabowo to Join ASEAN Manila Talks Overshadowed by Haze",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNEZCTHE5NVpWblZ4UDQyamM4dzlGb2RGV3h0bURIQUZqWDdIMkFhM0Y1V21MZTBmaHNqX2hTeHBONHdzYldUc24za09RSEZ0eUZ5SkhVZ09FV3ZqUEc5V0dZaUxGV0lxREZrMWIzOG5uaFRXbVFKNTVXc1ZjOGtOSmI0RTQxR0xua3FKZg?oc=5",
    "time": "2026-11-11T23:50:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Watchers - Watching the world evolve and transform",
-   "title": "Haze from Indonesia’s fires was like smoking 23 cigarettes a day at its worst in one Malaysian district, an MP told parliament",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUC1yTnRYcGZGN0tsTFFILTJ1V0txUGtuYU1zdHFpTkVLNFNMc2d2SHhqUjNaVVZ2N0N1UXJhQmlURUk2UFliS1Q1VTB3cDFpY0xUblJRLXRCMzYtR1NYaFdubkotQ0xXQ3RQZGlpZ2V3dlV6cHRva2lWN2Rpc2QyY01uRnNMVTN0eUJrb2t3Z0w2RFZib2tFNHpHNktXQ0Y2Rkg2X2ZnclJPOVJxRTlvZnctUGJZRks5cDFFQjB5Ui02azhnZ1BIb1lpLWRpeVBQOW1fLW9MdlVWVHpsLWhhdlBmY1BETU16bGJtdWl3?oc=5",
-   "time": "2026-11-11T23:19:56+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Southeast Asia Desk",
-   "title": "☄️ Choked by Sovereignty: How Indonesian Haze Tests Southeast Asian Limits",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWGJuT3JIUTdPMkNtaDMxdWd1NlpfbWRUVi1FYkRBZnpzVGYwWVZtSFV6OGZ0MzQ0cGNMMVFmSlVmSXZrcWhWaUN2bkZsdkl5Vmk0dUFzcWhSUGhSYW91bnd6ZW9FME0zZk9vS245VWM4YjVfR2R5Q0RrUE5NVjVkVm9rcXZXZGx0aUlfVnp4OW5wVUFY?oc=5",
-   "time": "2026-11-11T22:01:14+08:00",
    "summary": ""
   }
  ]
