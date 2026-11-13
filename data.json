@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-13T10:00:00+08:00",
+ "updated": "2026-11-13T11:00:00+08:00",
  "psi": {
-  "west": 67,
-  "east": 56,
+  "west": 68,
+  "east": 55,
   "central": 65,
   "south": 60,
   "north": 64
  },
  "pm25": {
   "west": 31,
-  "east": 8,
-  "central": 23,
-  "south": 20,
-  "north": 27
+  "east": 12,
+  "central": 18,
+  "south": 22,
+  "north": 23
  },
  "hist": [
-  {
-   "t": "2026-11-11T11:00:00+08:00",
-   "psi": {
-    "west": 54,
-    "east": 46,
-    "central": 55,
-    "south": 55,
-    "north": 46
-   }
-  },
   {
    "t": "2026-11-11T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 60,
     "north": 64
    }
+  },
+  {
+   "t": "2026-11-13T11:00:00+08:00",
+   "psi": {
+    "west": 68,
+    "east": 55,
+    "central": 65,
+    "south": 60,
+    "north": 64
+   }
   }
  ],
- "newsUpdated": "2026-11-13T10:07:11+08:00",
+ "newsUpdated": "2026-11-13T11:07:25+08:00",
  "news": [
   {
    "source": "CNA",
@@ -528,6 +528,13 @@
    "summary": ""
   },
   {
+   "source": "The Straits Times",
+   "title": "Heat from climate change, El Nino’s drought worsened Indonesia haze: Study",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWc2N2RMUjJWQ2wzSkRsekRKU29JU1U2dE40RzNWOWJ1OHZjdkxZRkRuMDZqOVNISy1LRVkwN2pUWVFmV0U4VFI2R2hqcUdCLVlrZ2RuYTR1bnJnYkd4R2dCZEhMQ2YzcG90TkZXNDZISl9pMnd6djQ5UkVvM2tGNUUxRm1KMmxqZ3ZkbzAxenpUV2stZDhHSmNJLWhMdk92dGZicy1CWWpLcWJxdjZ3TGhFVVFCZmRROFVvM2FjQQ?oc=5",
+   "time": "2026-11-13T06:00:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "Malaysiakini",
    "title": "'Diplomacy alone won't solve haze': Greenpeace pushes for Clean Air Act",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUkwRVctZWxzM290M01WT1ltLTRLRGhTQzFrWGpKWEN0bmFBYlFQQjF5RVJTNWd4UUprNVhqNE9qZnVFbnFjWFJOUFBxZy1lZTVhN2FPZExCOHFweG1kVUEtdXIxTUZhbTRBZUp0dU85T0xJUjR5UEpSWWx5c0duZUI4NXFqbWZxclllSWZwa3RZZWVncXpfaDJXOUxUenI1d3RNRUNLZGdQekIx?oc=5",
@@ -553,13 +560,6 @@
    "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
    "time": "2026-11-12T18:17:56+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "West Kalimantan residents sue Indonesian government over haze ‘gross negligence’",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10U0Vqa1NLM2UwZkFkT1pxSWlZUmZtb29xNnVjQ1pEM3RIMXpFbDNWTVUtY2Z2V2VYLXBDU3hJLXIzdXgxUFBIVFlWbkprcDM3Slh5ODJ1N3UzOHpHMFE?oc=5",
-   "time": "2026-11-12T18:03:48+08:00",
    "summary": ""
   },
   {
