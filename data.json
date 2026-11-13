@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-14T05:00:00+08:00",
+ "updated": "2026-11-14T06:00:00+08:00",
  "psi": {
-  "west": 76,
-  "east": 53,
-  "central": 60,
+  "west": 77,
+  "east": 54,
+  "central": 61,
   "south": 59,
-  "north": 60
+  "north": 61
  },
  "pm25": {
-  "west": 53,
-  "east": 25,
-  "central": 37,
-  "south": 29,
-  "north": 22
+  "west": 48,
+  "east": 23,
+  "central": 44,
+  "south": 17,
+  "north": 29
  },
  "hist": [
-  {
-   "t": "2026-11-12T05:00:00+08:00",
-   "psi": {
-    "west": 59,
-    "east": 54,
-    "central": 56,
-    "south": 55,
-    "north": 53
-   }
-  },
   {
    "t": "2026-11-12T06:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 59,
     "north": 60
    }
+  },
+  {
+   "t": "2026-11-14T06:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 54,
+    "central": 61,
+    "south": 59,
+    "north": 61
+   }
   }
  ],
- "newsUpdated": "2026-11-14T05:07:25+08:00",
+ "newsUpdated": "2026-11-14T06:08:11+08:00",
  "news": [
   {
    "source": "CNA",
@@ -511,6 +511,13 @@
    "title": "Prabowo to attend ASEAN talks amid haze pressures",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZVNMMGRURFVYcExMUDY4OENJc1NmU25hZzYzN09TdkQ2YWpyOUVGMGlwb2I0NTdZQUh6R3ctSXdGS3NvRnhQZjFzS3RwTkhnNHNWRXAwR0ZlVkFoUXdabzBVcWRMeFU5aDExbDNrb3JZVEY1bkF1alBOV3hYZDd2WXlVTTA3eWxhRExLMjF4RGdncVBiY1AwTXZFNG9Vck1fMkZhQ3dsRkhpMzU2a3ZLdnFIRVpnSG5HLTRtTzZQMzcxcXB0MjJzQ2p5cXcxZkIxMFpsNE9FVQ?oc=5",
    "time": "2026-11-13T20:11:44+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Companies expected to cooperate with haze investigation: Shanmugam",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
+   "time": "2026-11-13T19:48:31+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Heat from climate change, El Nino’s drought worsened Indonesia haze: Study",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWc2N2RMUjJWQ2wzSkRsekRKU29JU1U2dE40RzNWOWJ1OHZjdkxZRkRuMDZqOVNISy1LRVkwN2pUWVFmV0U4VFI2R2hqcUdCLVlrZ2RuYTR1bnJnYkd4R2dCZEhMQ2YzcG90TkZXNDZISl9pMnd6djQ5UkVvM2tGNUUxRm1KMmxqZ3ZkbzAxenpUV2stZDhHSmNJLWhMdk92dGZicy1CWWpLcWJxdjZ3TGhFVVFCZmRROFVvM2FjQQ?oc=5",
    "time": "2026-11-13T06:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malaysiakini",
-   "title": "'Diplomacy alone won't solve haze': Greenpeace pushes for Clean Air Act",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUkwRVctZWxzM290M01WT1ltLTRLRGhTQzFrWGpKWEN0bmFBYlFQQjF5RVJTNWd4UUprNVhqNE9qZnVFbnFjWFJOUFBxZy1lZTVhN2FPZExCOHFweG1kVUEtdXIxTUZhbTRBZUp0dU85T0xJUjR5UEpSWWx5c0duZUI4NXFqbWZxclllSWZwa3RZZWVncXpfaDJXOUxUenI1d3RNRUNLZGdQekIx?oc=5",
-   "time": "2026-11-12T19:06:00+08:00",
    "summary": ""
   }
  ]
