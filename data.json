@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-13T20:00:00+08:00",
+ "updated": "2026-11-13T22:00:00+08:00",
  "psi": {
   "west": 71,
   "east": 53,
-  "central": 60,
+  "central": 59,
   "south": 58,
   "north": 59
  },
  "pm25": {
-  "west": 38,
-  "east": 11,
-  "central": 20,
-  "south": 16,
-  "north": 18
+  "west": 31,
+  "east": 16,
+  "central": 18,
+  "south": 23,
+  "north": 25
  },
  "hist": [
-  {
-   "t": "2026-11-11T21:00:00+08:00",
-   "psi": {
-    "west": 58,
-    "east": 52,
-    "central": 58,
-    "south": 55,
-    "north": 53
-   }
-  },
   {
    "t": "2026-11-11T22:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 58,
     "north": 59
    }
+  },
+  {
+   "t": "2026-11-13T22:00:00+08:00",
+   "psi": {
+    "west": 71,
+    "east": 53,
+    "central": 59,
+    "south": 58,
+    "north": 59
+   }
   }
  ],
- "newsUpdated": "2026-11-13T20:09:14+08:00",
+ "newsUpdated": "2026-11-13T22:51:25+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Jakarta Post",
+   "title": "Prabowo to attend ASEAN talks amid haze pressures",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZVNMMGRURFVYcExMUDY4OENJc1NmU25hZzYzN09TdkQ2YWpyOUVGMGlwb2I0NTdZQUh6R3ctSXdGS3NvRnhQZjFzS3RwTkhnNHNWRXAwR0ZlVkFoUXdabzBVcWRMeFU5aDExbDNrb3JZVEY1bkF1alBOV3hYZDd2WXlVTTA3eWxhRExLMjF4RGdncVBiY1AwTXZFNG9Vck1fMkZhQ3dsRkhpMzU2a3ZLdnFIRVpnSG5HLTRtTzZQMzcxcXB0MjJzQ2p5cXcxZkIxMFpsNE9FVQ?oc=5",
+   "time": "2026-11-13T20:11:44+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -588,13 +595,6 @@
    "title": "'Diplomacy alone won't solve haze': Greenpeace pushes for Clean Air Act",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUkwRVctZWxzM290M01WT1ltLTRLRGhTQzFrWGpKWEN0bmFBYlFQQjF5RVJTNWd4UUprNVhqNE9qZnVFbnFjWFJOUFBxZy1lZTVhN2FPZExCOHFweG1kVUEtdXIxTUZhbTRBZUp0dU85T0xJUjR5UEpSWWx5c0duZUI4NXFqbWZxclllSWZwa3RZZWVncXpfaDJXOUxUenI1d3RNRUNLZGdQekIx?oc=5",
    "time": "2026-11-12T19:06:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Greenpeace",
-   "title": "Stop dodging responsibility, end transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeFpqM2otOUdMTXpaMVVVcG5xQzVMSVpoUWxTbnY0NVUyNlExd2lINnJ3LXNLaE15aW50dVZmSjY1Y3BDRnRyc2NjRHRaTUU3X1BEZkl2OUQtSnlJdHEwTElyRExLQU9LeC1NWHNQN0NpX1FNeDFNcWd1R2MzYlJfV1VoVFhLUWpQdHo3QmNXWjg5Nk1IdGhqQk1EQXFWbkpV?oc=5",
-   "time": "2026-11-12T18:33:11+08:00",
    "summary": ""
   }
  ]
