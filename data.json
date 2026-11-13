@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-13T15:00:00+08:00",
+ "updated": "2026-11-13T16:00:00+08:00",
  "psi": {
   "west": 69,
   "east": 54,
-  "central": 63,
+  "central": 62,
   "south": 60,
-  "north": 62
+  "north": 61
  },
  "pm25": {
-  "west": 17,
-  "east": 9,
-  "central": 10,
-  "south": 22,
-  "north": 7
+  "west": 37,
+  "east": 13,
+  "central": 9,
+  "south": 24,
+  "north": 11
  },
  "hist": [
-  {
-   "t": "2026-11-11T16:00:00+08:00",
-   "psi": {
-    "west": 53,
-    "east": 49,
-    "central": 56,
-    "south": 54,
-    "north": 52
-   }
-  },
   {
    "t": "2026-11-11T17:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 60,
     "north": 62
    }
+  },
+  {
+   "t": "2026-11-13T16:00:00+08:00",
+   "psi": {
+    "west": 69,
+    "east": 54,
+    "central": 62,
+    "south": 60,
+    "north": 61
+   }
   }
  ],
- "newsUpdated": "2026-11-13T15:08:32+08:00",
+ "newsUpdated": "2026-11-13T16:07:56+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Newswav",
+   "title": "Transboundary haze, energy, food security high on ASEAN Meeting agenda",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbDlvZ1Q4am5RT0JnWUJYaWFhdUxodXFTNXdTb3BkNnRoM1l3VHJlMmVLTEhzeW14QWRiU3I4TFllY2w4bEw0aW41cVQ0N2FwM1dNdzl2dUwtVmhGOTY1QlVLREh2SWVTTlhPZWRaWm8zLVZ3R2xrM1hDb0MwT0VaMDhMN09uMHpURHdtZnBzSVBETjBDREJzbGxhQVp3QUM1YTNIUTFsRUFMZW1JRVE?oc=5",
+   "time": "2026-11-13T15:03:52+08:00",
+   "summary": ""
   },
   {
    "source": "thechronicle.com.ph",
@@ -588,13 +595,6 @@
    "title": "Indonesia: Land disputes, haze and El Niño",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wa3FoYW45XzJZSThqOEY5RWVQVWtoMkN5azA3eXQtcFhYYm1wZjFRWDNIV0R0ZUpsbVJOZzhCekZidGk0S0dDMUlPc01NYU5G?oc=5",
    "time": "2026-11-12T14:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Jakarta Post",
-   "title": "Haze crisis tests public trust and diplomatic credibility",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSmpSVWZvakR0cGJyWUxmR2dpcTlzV0pDQ1dmbXBuRVhvWTZRdmRNcmt0cmpKZ25GdWg5OEFJUl9zakVKQXc1U2FJRk5scXljX29HOXd0QkZGR2Z6d0lrZTVVMFJobFJwQVFxNDhsQkVpY245c0tlRk44aGppTGVUOXhOcG9MRVpuS2ZMbGlSaEFGV2xpTzZVeU8wMnA1WklpdXJkM2I4SUlLd0xCdnNOdGRrX19PSG90SHVBZkZjTVMzWG8yNmM1bl9MQnNXdDVwdkdWQTJrSUp5d1ljOTlyMlRhZlBrdw?oc=5",
-   "time": "2026-11-12T09:21:13+08:00",
    "summary": ""
   }
  ]
