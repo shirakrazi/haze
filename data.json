@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T09:00:00+08:00",
+ "updated": "2026-11-13T10:00:00+08:00",
  "psi": {
   "west": 67,
   "east": 56,
@@ -8,23 +8,13 @@
   "north": 64
  },
  "pm25": {
-  "west": 22,
-  "east": 11,
-  "central": 21,
-  "south": 16,
-  "north": 26
+  "west": 31,
+  "east": 8,
+  "central": 23,
+  "south": 20,
+  "north": 27
  },
  "hist": [
-  {
-   "t": "2026-11-11T10:00:00+08:00",
-   "psi": {
-    "west": 53,
-    "east": 46,
-    "central": 54,
-    "south": 55,
-    "north": 47
-   }
-  },
   {
    "t": "2026-11-11T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 60,
     "north": 64
    }
+  },
+  {
+   "t": "2026-11-13T10:00:00+08:00",
+   "psi": {
+    "west": 67,
+    "east": 56,
+    "central": 65,
+    "south": 60,
+    "north": 64
+   }
   }
  ],
- "newsUpdated": "2026-11-13T09:07:10+08:00",
+ "newsUpdated": "2026-11-13T10:07:11+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Business Times",
+   "title": "Haze-linked First Resources, Bumitama post higher profits for Q3",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTE56a3BtZHZiX1Y4Y2NIRnJoVUZlbTNFNUdKanVXczlVLTVHWGtKQ3pwN3VmMVJNMnRscERST3BRbWNaZ3RPRmdZdWIxVkdiQm43R21ZaU4zQWRhYkhUTnBDNnlWRktCV0ZFcTc4QUViS0V5UlBkU3lINjBmWm1CZm5ZRG03c05pWFNWaTJmYzRLd21SUm1qLXRsYW90RkFaSU50WWxWeWVYemhuckV3?oc=5",
+   "time": "2026-11-13T09:12:00+08:00",
+   "summary": ""
   },
   {
    "source": "NST Online",
@@ -549,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "The Straits Times",
+   "title": "West Kalimantan residents sue Indonesian government over haze ‘gross negligence’",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10U0Vqa1NLM2UwZkFkT1pxSWlZUmZtb29xNnVjQ1pEM3RIMXpFbDNWTVUtY2Z2V2VYLXBDU3hJLXIzdXgxUFBIVFlWbkprcDM3Slh5ODJ1N3UzOHpHMFE?oc=5",
+   "time": "2026-11-12T18:03:48+08:00",
+   "summary": ""
+  },
+  {
    "source": "Traders Union",
    "title": "SD Guthrie remains focused on Indonesia amid land risks, haze and El Niño",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXZLSTVLXzdJTHZzeXhmX0M3ZGJ4bnJfaWVKTnEyaGhnbDFZQzlkbkJqbTJIbHEyc0hOSGIxX2NHZTdUVlFodmZpc244cXpfTFlzRzQtc3dDMnpyMHlNVkhubmlkb2U3QW1LeEtEc1hoQ25VZC0yRkZ5QmNRY3ZrZXlIY19YaFZoZ015ekkxSWJOQ0RGNVJF?oc=5",
@@ -581,20 +595,6 @@
    "title": "Haze from Forest and Land Fires Covers Sumatra, Kalimantan, and Papua",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTjFtYlJFSXBDcF9VZWVtOXAxUWVBTFpoc3luYmd5dEpQRk50NGh4OXQyYnhXXzZOUGVqdnNOMEJXcnFXcVk3OFlwVDFOVGxBUnMxRXdvaTVzcW5LbzFjZ0dVQ3d5UEI0WGdzOFRQMjlmZ3o4cVR3RzYzdXpnTEtGYW9KVDVaLTRzanBTbmFPMFYwTnBObkhrWHc0SHoyeVE3bEVvbFJXRGdncmdVRXZ2dkpVZy1uU3hsRlFqOERiWQ?oc=5",
    "time": "2026-11-12T02:12:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Indonesia Business Post",
-   "title": "Three senior figures quit Jokowi-linked PSI, raising questions over party’s internal stability",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSUhHdFZGY2lIVVNDdktJVThaVW1URzlWY3o3a0lSVGZ6Zkg3V0VOT09ObG1RWFNlQ1VJWXk0cGVvXzQ3SXJqb1dsRjR5SWI3blBFanRTRDVyemdYQTJJaTNoLWNydFFKSDIwNWNlOGs1YjFKZTU1cUt5bllrYnRBRXpqdWgyeW44ZGhuSDl3XzgwQnNGMjAxUkVKMGtqRjZMNGlNM092ZDZKeXVsRXZMS3g3YUlSSW5mMURtTFBLek9SSWVfNkk1YkZCQnVGeDdTcWNUZndfSjRzZnZzQ044QTlneUJlZw?oc=5",
-   "time": "2026-11-12T02:10:47+08:00",
-   "summary": ""
-  },
-  {
-   "source": "JournalArta",
-   "title": "Serian Haze Reached 23-Cigarette Daily Risk Comparison, MP Says",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWFozbHFmR1pOSG04UWJSQTJUUlVhVEFMeU5YTFpVaTZxMnVzWmdHc3dfOEE5dy1oMFVjaTR5YTNjZGdXck1mS1FkdWRLd3FzUXQtb0tWal9nbVpiN1ZWc3ljTVlHTS0zMXdrekFYcno5UEZfUFphOHdUY2poWElxUDVEdVYyUFBNOEpFcg?oc=5",
-   "time": "2026-11-12T01:27:54+08:00",
    "summary": ""
   }
  ]
