@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-14T19:00:00+08:00",
+ "updated": "2026-11-14T20:00:00+08:00",
  "psi": {
-  "west": 70,
+  "west": 69,
   "east": 53,
-  "central": 60,
+  "central": 59,
   "south": 54,
   "north": 57
  },
  "pm25": {
-  "west": 4,
-  "east": 5,
-  "central": 5,
-  "south": 4,
+  "west": 15,
+  "east": 6,
+  "central": 7,
+  "south": 5,
   "north": 6
  },
  "hist": [
-  {
-   "t": "2026-11-12T19:00:00+08:00",
-   "psi": {
-    "west": 62,
-    "east": 56,
-    "central": 61,
-    "south": 59,
-    "north": 60
-   }
-  },
   {
    "t": "2026-11-12T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 54,
     "north": 57
    }
+  },
+  {
+   "t": "2026-11-14T20:00:00+08:00",
+   "psi": {
+    "west": 69,
+    "east": 53,
+    "central": 59,
+    "south": 54,
+    "north": 57
+   }
   }
  ],
- "newsUpdated": "2026-11-14T19:07:53+08:00",
+ "newsUpdated": "2026-11-14T20:07:27+08:00",
  "news": [
   {
    "source": "CNA",
@@ -511,6 +511,13 @@
    "title": "Malaysia proposes sustainable haze fund at Asean meeting",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRmgyOVFaa3RqTVFEM2lieHhCelRiX1ViOXFlQkp0N05QSGFWYkVKblVCZWhmYjNFQjVSRktyUDBnc3F0OUFvYXo1aVJSVTNFb01UNkFjcHhBRlhDZ1NQOVZ2Y0haSktKSGdRdkZ6M1ljUUcxS3VFV25VMnFtZGFwck55VlJYMGZHcWhYVUxtcFpUZWkw?oc=5",
    "time": "2026-11-14T18:47:23+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Greenpeace",
+   "title": "New Report on Transboundary Haze: ASEAN Govts Must Stop Dodging Responsibility",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN1FRSmNLM3ZfYTlmOWZMU0d6Q2Foc09sSzZqRnlmYnpCSnpzbWJIVjVmMFktNGhPVnA5UEZXQWN6QzZnSWJuVlB2Q3djcVZiVVlhVXBKUUY4VFhwRGhoeGNLWThpSFBXcWVmV0htY2c4VGxoSzNFWF9SelR1aWEtMW02R2RCSm50VmljTlpWNTlBd3V6Q0ZramE3YmFqeTRMNDB1TzdqbVVGTFZuS0llZFA1RUR2RkgxUm5WVlNKWkhweWd4V3RUZVlGWQ?oc=5",
+   "time": "2026-11-14T18:15:48+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Transboundary haze, energy, food security high on ASEAN Meeting agenda",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbDlvZ1Q4am5RT0JnWUJYaWFhdUxodXFTNXdTb3BkNnRoM1l3VHJlMmVLTEhzeW14QWRiU3I4TFllY2w4bEw0aW41cVQ0N2FwM1dNdzl2dUwtVmhGOTY1QlVLREh2SWVTTlhPZWRaWm8zLVZ3R2xrM1hDb0MwT0VaMDhMN09uMHpURHdtZnBzSVBETjBDREJzbGxhQVp3QUM1YTNIUTFsRUFMZW1JRVE?oc=5",
    "time": "2026-11-13T15:03:52+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Philippine News Agency",
-   "title": "Transboundary haze, energy, food security high on ASEAN meet agenda – DFA",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeFVocWI0NmRnSEZpdVM5NU02cUpIM0dVSGpfOGdYeXBKM0NXUHdfMS1WdE96Vm9RbmtmSi1BeElaQ3Z5Mm1SV1I3a2NCMG9VVlVaWmhKajJjY1BGVWZXMFBwQVo5blBya0xBeEVmdWROaHRfY0hvYnVJbUZZVE1sM1lWakZxaWRlN3ZMRkJvdGF0eE42TzgyRnVzdXdKV3U2c2c?oc=5",
-   "time": "2026-11-13T14:44:00+08:00",
    "summary": ""
   }
  ]
