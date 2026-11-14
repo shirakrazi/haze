@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-15T06:00:00+08:00",
+ "updated": "2026-11-15T07:00:00+08:00",
  "psi": {
-  "west": 54,
-  "east": 38,
-  "central": 50,
-  "south": 38,
-  "north": 45
+  "west": 52,
+  "east": 35,
+  "central": 44,
+  "south": 36,
+  "north": 41
  },
  "pm25": {
-  "west": 7,
-  "east": 5,
-  "central": 10,
-  "south": 8,
-  "north": 7
+  "west": 8,
+  "east": 11,
+  "central": 5,
+  "south": 11,
+  "north": 10
  },
  "hist": [
-  {
-   "t": "2026-11-13T06:00:00+08:00",
-   "psi": {
-    "west": 65,
-    "east": 56,
-    "central": 65,
-    "south": 60,
-    "north": 63
-   }
-  },
   {
    "t": "2026-11-13T07:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 38,
     "north": 45
    }
+  },
+  {
+   "t": "2026-11-15T07:00:00+08:00",
+   "psi": {
+    "west": 52,
+    "east": 35,
+    "central": 44,
+    "south": 36,
+    "north": 41
+   }
   }
  ],
- "newsUpdated": "2026-11-15T06:07:10+08:00",
+ "newsUpdated": "2026-11-15T07:07:06+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Philippine News Agency",
+   "title": "ASEAN FMs bat to operationalize transboundary haze control hub",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWld4Z3FMRGJ3QWlJWE02ZDd2SlctMF83YTdzS3M3WjJQRVY2eC1DNnVGeWNZZlZLbzdCS0oxd1o4dXpQRGFZRUc1V3R5SWt1Nm9Sd2lxQURzaDQ1TUNISzNvWHVrSDRjaWFVazRNMzN1YXJVMnJDMXlUZ0tJREFaLWV3enRDMXNJdmVuQmxBYWlucm9pdE5RSg?oc=5",
+   "time": "2026-11-15T06:56:00+08:00",
+   "summary": ""
   },
   {
    "source": "Jakarta Globe",
@@ -588,13 +595,6 @@
    "title": "Air quality and haze in Teluk Pinang",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBncVN5aDBFQXZHdW5ZVzlNa1N1bjE1c3k0TXlxT2tQcUFLdWlWLUdRSktpSHlScUxBSHVOaS1CTjYtdkJvMVZ4c251NkdfckJEUnFTZFZxbVcxWVV4TWRqZW1xQlVfbnlFbDFoR3ZvdEtMQQ?oc=5",
    "time": "2026-11-13T22:37:46+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Jakarta Post",
-   "title": "Prabowo to attend ASEAN talks amid haze pressures",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZVNMMGRURFVYcExMUDY4OENJc1NmU25hZzYzN09TdkQ2YWpyOUVGMGlwb2I0NTdZQUh6R3ctSXdGS3NvRnhQZjFzS3RwTkhnNHNWRXAwR0ZlVkFoUXdabzBVcWRMeFU5aDExbDNrb3JZVEY1bkF1alBOV3hYZDd2WXlVTTA3eWxhRExLMjF4RGdncVBiY1AwTXZFNG9Vck1fMkZhQ3dsRkhpMzU2a3ZLdnFIRVpnSG5HLTRtTzZQMzcxcXB0MjJzQ2p5cXcxZkIxMFpsNE9FVQ?oc=5",
-   "time": "2026-11-13T20:11:44+08:00",
    "summary": ""
   }
  ]
