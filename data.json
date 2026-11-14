@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-14T16:00:00+08:00",
+ "updated": "2026-11-14T17:00:00+08:00",
  "psi": {
-  "west": 75,
+  "west": 74,
   "east": 54,
   "central": 61,
-  "south": 56,
+  "south": 55,
   "north": 58
  },
  "pm25": {
-  "west": 8,
-  "east": 3,
-  "central": 6,
-  "south": 12,
-  "north": 4
+  "west": 6,
+  "east": 4,
+  "central": 11,
+  "south": 9,
+  "north": 5
  },
  "hist": [
-  {
-   "t": "2026-11-12T16:00:00+08:00",
-   "psi": {
-    "west": 62,
-    "east": 57,
-    "central": 60,
-    "south": 57,
-    "north": 58
-   }
-  },
   {
    "t": "2026-11-12T17:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 56,
     "north": 58
    }
+  },
+  {
+   "t": "2026-11-14T17:00:00+08:00",
+   "psi": {
+    "west": 74,
+    "east": 54,
+    "central": 61,
+    "south": 55,
+    "north": 58
+   }
   }
  ],
- "newsUpdated": "2026-11-14T16:07:15+08:00",
+ "newsUpdated": "2026-11-14T17:07:26+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,17 @@
    "pinned": true
   },
   {
-   "source": "The Edge Malaysia",
+   "source": "The Star",
+   "title": "Malaysia pushes for stronger scientific cooperation to tackle Asean haze",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR21DLXFENmlNNHNWdkhFbnFSTHAzNEhDQWFnNm9xX1B0Zlc0ckEwSWdFalZNMWJlQS1xTElzSGl4SnZOTUtHSTJ4dmZCRzJ5RGR6Q0xDSjBqNUhBZ25PTHUxWDhLTF9heHpEdWpxMU1CaXl0bHQ1dG5NeVY4VFllWEZWcXQ0b0VZZW42MWhOVVM0ZzVvSGZUSlRCYzBxWmJXWm94Q3dYUmJBQi1WVVZoOEszUWN4bFRJeEFHeFhkTQ?oc=5",
+   "time": "2026-11-14T16:27:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
    "title": "Malaysia seeks stronger Asean haze response, sustainable funding, says Tok Mat",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54dWY3ZmJPLTZReU5IbzJVTllTdXNRSHhyUnduM0VoUUd3UVFOMG1wd005Qm1FVGo4NXN5NmhNUjcwcDVEdDZDYmRyb09nOU9B?oc=5",
-   "time": "2026-11-14T15:49:19+08:00",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0RVWGY3WnhQRGxhQ2FzU1c4LVo4TDV6akJoYlFSaWJQalB0UzBSMHNfRnlwZ21uTlFoUGVYaUpvUW1LYWlUamtfWmZHb25GTFRmRkp2ckFyQS0xUmdjRjJjNVVBclhvV2xUNnRDZHFkcnJSMWpUTVFVb0VnNGlVU3Z3QVFWc0pheThVTDYzQTMwMUFFemk1VjJlTDBvRWFZUGdHazRYWjh1QUxYZHpHVElWVFhjWGVvQmVHUUdkYkkwT0pH?oc=5",
+   "time": "2026-11-14T15:50:00+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Transboundary haze, energy, food security high on ASEAN meet agenda – DFA MANILA – The Philippines, serving as chair of the Association of Southeast Asian Nations (ASEAN) 2026, is looking to adopt various outcome documents by the end of the ASEAN",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcFg1Z0RSelZWYndnVGVrMnpPM05LNmhzQmdxbUVXdThWb3NYS1BnU01IVTExODZSQVlUSmtMTnItRHBZdWt3OWc1dVJoTnpIdWFxM3BZdUp2X3lKYjhwZ2xSdldrVDVueGQybXJKUmM0XzBPR2VoWTdPa3hZbGtxeWRWZXBaSl9yZTdrRWtSWXdqUU45MkN6NjdXaTJUZnVfS21waXN0Zi10Yk1VcmV3bm0tZDk0T0NocWVNNDJCT3hHOTNMYjlmNkVoSkdnMWJwTGp1bQ?oc=5",
    "time": "2026-11-13T13:20:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze-linked First Resources, Bumitama post higher profits for Q3",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSkNidDFnSXdlRTV3Z0V2ZXliTWZTMDdhajhGTzIzYWtpYzFfeDgtY2JfVy14c1JaSWhGTkNXaXgxd250NHAwQzQ2Y0MzQXBxZVo2bEdReHNFbWxNR201SDJjM3E5TF9CemJ1VWp4azVTRlM2cjNSNWpGc1JzR0RTcnM1b05rSUlmc3Y3SEVVaVgyUWJ1RmdoQWFHeHk0bEFCLTBB?oc=5",
-   "time": "2026-11-13T12:50:00+08:00",
    "summary": ""
   }
  ]
