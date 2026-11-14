@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-14T14:00:00+08:00",
+ "updated": "2026-11-14T15:00:00+08:00",
  "psi": {
   "west": 77,
-  "east": 55,
+  "east": 54,
   "central": 61,
-  "south": 57,
-  "north": 59
+  "south": 56,
+  "north": 58
  },
  "pm25": {
-  "west": 6,
-  "east": 7,
-  "central": 8,
-  "south": 6,
-  "north": 4
+  "west": 7,
+  "east": 6,
+  "central": 5,
+  "south": 8,
+  "north": 3
  },
  "hist": [
-  {
-   "t": "2026-11-12T14:00:00+08:00",
-   "psi": {
-    "west": 60,
-    "east": 57,
-    "central": 59,
-    "south": 57,
-    "north": 57
-   }
-  },
   {
    "t": "2026-11-12T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 57,
     "north": 59
    }
+  },
+  {
+   "t": "2026-11-14T15:00:00+08:00",
+   "psi": {
+    "west": 77,
+    "east": 54,
+    "central": 61,
+    "south": 56,
+    "north": 58
+   }
   }
  ],
- "newsUpdated": "2026-11-14T14:07:23+08:00",
+ "newsUpdated": "2026-11-14T15:07:14+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Magzter",
+   "title": "Heat from climate change, El Nino's drought worsened Indonesia haze: Study | The Straits Times - newspaper",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1lfZ0NrMWI2dF9kaThQMEJuQXdVaEJ3d1hwUmJweEQteHJleHFpS3JTOXlzUDFqNnk4R1RFbHVNTFNsX3hGTUNHZFhndWNVcGk0MUNzQVQwbXFDLTRZREVSMGhGUVFUN29HckFjWThvdVVLcFU0MzF6M1FwNndKeWNRYWtGUGtVSFpYakROZlhuOUctVlR6bHhtVDRQajRRREdlQS10RXNvSkUtY0llal9HYm10Z2o3VDRkTnF2bHdVUFFQT3FBUUNGbw?oc=5",
+   "time": "2026-11-14T12:39:16+08:00",
+   "summary": ""
   },
   {
    "source": "IQAir",
@@ -588,13 +595,6 @@
    "title": "Connecting the Banks and Investors linked to Indonesia’s fires and haze crisis",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEt1OGo2YzViV3ZqNE05UUg4d2ZZWGRNX3FORE1Yckg5Z3EyZTRjOWhtQnpzeGtoek45NUo4Q3R4YWNveDhGb3FZd3cxamRZakVHWGQ1NldHNmVWcWtMNDkyT1F5aG00WE12TWxyRG12ODM5UXJxQ09FakxrbHltUWpQWENvODdWWWNXQnd0SWFKZnNQNXIzd0RNTkFhSTRFRzdJUXpmRVV4c09aQzRYMkkxNDlOc2M?oc=5",
    "time": "2026-11-13T12:39:24+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Krisdayanti sorry for haze",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3BWNzZpV2pwX2lrUGJSeVA4MGd5bUhNU3ZBZkRPUUloSmRPa0ZFemQtZUpTWkZ5WTRPV2VvYjB0bnd5bTJ2b2ctSWJiLVpPS3Y0UUNkalFVTjNLZ1E0MFJsNU1yRnZLb19SUkt1MkxNZnh2cm4yeHExb21rdFBRaGw3ZnbSAYoBQVVfeXFMUGdGeHAxdHlVWXdOLXg4c3BZWHVaXzBzdE9Mb3Bfa2FWWGpFaUxGM2FsVDBHZnU2RHUxdE4tVVRiV0FVSm1TVEVPT3A5Q3lGc3VlYWVzTWpueGN2QVpNOFByQ3hBWmdlZzl1TkpHVnk2ZXYwNnk5LXpXekE0TnZDY1pDU0RqSi1JeXJR?oc=5",
-   "time": "2026-11-13T06:00:46+08:00",
    "summary": ""
   }
  ]
