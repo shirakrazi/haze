@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-14T20:00:00+08:00",
+ "updated": "2026-11-14T21:00:00+08:00",
  "psi": {
   "west": 69,
-  "east": 53,
+  "east": 52,
   "central": 59,
-  "south": 54,
-  "north": 57
+  "south": 53,
+  "north": 56
  },
  "pm25": {
-  "west": 15,
+  "west": 22,
   "east": 6,
-  "central": 7,
-  "south": 5,
-  "north": 6
+  "central": 16,
+  "south": 6,
+  "north": 9
  },
  "hist": [
-  {
-   "t": "2026-11-12T20:00:00+08:00",
-   "psi": {
-    "west": 62,
-    "east": 56,
-    "central": 62,
-    "south": 59,
-    "north": 61
-   }
-  },
   {
    "t": "2026-11-12T21:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 54,
     "north": 57
    }
+  },
+  {
+   "t": "2026-11-14T21:00:00+08:00",
+   "psi": {
+    "west": 69,
+    "east": 52,
+    "central": 59,
+    "south": 53,
+    "north": 56
+   }
   }
  ],
- "newsUpdated": "2026-11-14T20:07:27+08:00",
+ "newsUpdated": "2026-11-14T21:07:52+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "IQAir",
+   "title": "Air quality and haze in Taiping",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FRFROa25pcktkVUU5SV9LV3pmNGtYaXl1WEFXVjNGdkZHWUhoNFNzcUQ2eXpDVGNnOWdvYkJBWlY5RzU1ZVFCWUdKVHlmRGM3clRmZTZETjZmSGJHLVZiQWx0T25POThBek1Z?oc=5",
+   "time": "2026-11-14T21:00:22+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Manila Bulletin",
+   "title": "ASEAN fast-tracks regional haze control center amid transboundary pollution",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkhFR0g0VUh4VW1OZVNfWGNIdnJvQlIySjFOOTVJRmNtTWU2QnJRc1BQbUJIcGNlekZDMjN1VDJRaTRkamxvTFZpTmtDWlJ3T1ZaNF9PZVV0TmR3d2tFVXBlNC0yX0RSV3Z3SjhIaWJVV0R6WFJXb1NMaDA2dGxtSFNEMlJaTklzRnpOUzllQzEzdWRuZW5xdTFPRXVXVlVReDNINEtBdw?oc=5",
+   "time": "2026-11-14T20:53:18+08:00",
+   "summary": ""
   },
   {
    "source": "https://streamlinefeed.co.ke/",
@@ -556,6 +570,20 @@
    "summary": ""
   },
   {
+   "source": "Moomoo",
+   "title": "Bumitama Agri: Cooperating With Indonesian, Singapore Authorities On Fires, Haze >P8Z.SG",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdXZLN21Gc3FtLVA4bmJlVXBSYkR3TjYwc0hqLUNrTHlTd0RrTlo3QzhpcU5hbjE4dTdDNjBZdldRVF9lRHRkTmM2Y1gtZzllb0NSWmw2dVBPUlJOODZjUHFIMm92TldUeEs1R3VKY2pWaHd2Rm9JQ0xwWmVSQkxhcF9NblV5NnNZUC15cmtrS1dhMnhMNi0zeEkzR05tc191b1hZWDVrX3p5ZWpFU2l2T1lNYzNOUHRuVWVXZ0tB?oc=5",
+   "time": "2026-11-14T03:49:38+08:00",
+   "summary": ""
+  },
+  {
+   "source": "IQAir",
+   "title": "Air quality and haze in Teluk Pinang",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBncVN5aDBFQXZHdW5ZVzlNa1N1bjE1c3k0TXlxT2tQcUFLdWlWLUdRSktpSHlScUxBSHVOaS1CTjYtdkJvMVZ4c251NkdfckJEUnFTZFZxbVcxWVV4TWRqZW1xQlVfbnlFbDFoR3ZvdEtMQQ?oc=5",
+   "time": "2026-11-13T22:37:46+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Jakarta Post",
    "title": "Prabowo to attend ASEAN talks amid haze pressures",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZVNMMGRURFVYcExMUDY4OENJc1NmU25hZzYzN09TdkQ2YWpyOUVGMGlwb2I0NTdZQUh6R3ctSXdGS3NvRnhQZjFzS3RwTkhnNHNWRXAwR0ZlVkFoUXdabzBVcWRMeFU5aDExbDNrb3JZVEY1bkF1alBOV3hYZDd2WXlVTTA3eWxhRExLMjF4RGdncVBiY1AwTXZFNG9Vck1fMkZhQ3dsRkhpMzU2a3ZLdnFIRVpnSG5HLTRtTzZQMzcxcXB0MjJzQ2p5cXcxZkIxMFpsNE9FVQ?oc=5",
@@ -567,34 +595,6 @@
    "title": "Companies expected to cooperate with haze investigation: Shanmugam",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
    "time": "2026-11-13T19:48:31+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "‘A lot at stake’: Meet the meteorologist tasked with predicting Singapore’s haze",
-   "url": "https://www.channelnewsasia.com/singapore/meet-meteorologist-tasked-predicting-singapore-haze-6538861",
-   "time": "2026-11-13T19:07:57+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Transboundary haze, energy, food security high on Asean summit agenda in Manila",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWlRjc2ZsRTFsYWRmcW1sZnp2WEFpdllWQzAya1NRTmd4QktyTU5penZyUHhxQmtIQlZob3hjb29BZGVfSUZ0cFFtbU9TQUI4Njc1Tno5Z3I5YzgxSk04VVlyQ0otblJFZ1NjZzVKYmt2MzJUNmlmMWMyWkJMZ1F3Q1VjTnhBajg0M0J4YjJ3dmNIYkFNZkdmanlUTUxGVFJOQzJsRUdoazl2bWFsRmkzWjZROTR4X0hqVjZYUkpHVks2aks1dGlpWWtjOTdsbUlQeUNhdE12OA?oc=5",
-   "time": "2026-11-13T16:41:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "DZRH",
-   "title": "Five Point Consensus on Myanmar, ASEAN Maritime Center, transboundary haze among top agenda in 49th ASEAN Summit in Manila – DFA",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVEYtUy1PR082QnJoSGhYQjNiT1k5MTRfT2lFd21EOUtrYWc5OW9GNEJwTDVaSzUxd1VBWG5OSlI0RUdnN0pMLTIxem01VkZYc3pfaEhNNUhybm9HWV9jQjhpRUE4bG5EWHoxd3lmcDRlcWk3di1KU3V4ejIydTJ0bTM4QXQ1VHJDUzdPNXpkNWZqSkkxOTAzMDE5SC1yX1ZtNk90UXI4aEVqQXBqMnUxVG9GWG4xMlJyaDFXNkpaMVUyNTFCR05IUWcwRGZnMGtXVEtQb3F6WG1PRF9SOGpn?oc=5",
-   "time": "2026-11-13T15:13:57+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Newswav",
-   "title": "Transboundary haze, energy, food security high on ASEAN Meeting agenda",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbDlvZ1Q4am5RT0JnWUJYaWFhdUxodXFTNXdTb3BkNnRoM1l3VHJlMmVLTEhzeW14QWRiU3I4TFllY2w4bEw0aW41cVQ0N2FwM1dNdzl2dUwtVmhGOTY1QlVLREh2SWVTTlhPZWRaWm8zLVZ3R2xrM1hDb0MwT0VaMDhMN09uMHpURHdtZnBzSVBETjBDREJzbGxhQVp3QUM1YTNIUTFsRUFMZW1JRVE?oc=5",
-   "time": "2026-11-13T15:03:52+08:00",
    "summary": ""
   }
  ]
