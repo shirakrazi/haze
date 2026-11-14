@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-14T22:00:00+08:00",
+ "updated": "2026-11-14T23:00:00+08:00",
  "psi": {
-  "west": 68,
+  "west": 67,
   "east": 52,
-  "central": 59,
-  "south": 53,
+  "central": 58,
+  "south": 52,
   "north": 55
  },
  "pm25": {
-  "west": 14,
-  "east": 7,
-  "central": 14,
-  "south": 7,
-  "north": 14
+  "west": 19,
+  "east": 10,
+  "central": 12,
+  "south": 12,
+  "north": 12
  },
  "hist": [
-  {
-   "t": "2026-11-12T22:00:00+08:00",
-   "psi": {
-    "west": 62,
-    "east": 57,
-    "central": 63,
-    "south": 60,
-    "north": 61
-   }
-  },
   {
    "t": "2026-11-12T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 53,
     "north": 55
    }
+  },
+  {
+   "t": "2026-11-14T23:00:00+08:00",
+   "psi": {
+    "west": 67,
+    "east": 52,
+    "central": 58,
+    "south": 52,
+    "north": 55
+   }
   }
  ],
- "newsUpdated": "2026-11-14T22:07:31+08:00",
+ "newsUpdated": "2026-11-14T23:07:15+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Jakarta Globe",
+   "title": "Indonesia Says Malaysia, Singapore ‘Welcome’ Eased Haze",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMjN1dGRLcHNQWlRqZlowNHlaQVJzNUFlVU9fVlU0MmdjUExBZlVjYWlhbWplOW9QQjBvWDhRMlI0d1Y2cF81WUg5cjRWTzhZWFdCc3I3NGxiWnVyZlNJUUg2c09XRWhfczR3TkRvMHRtamQ1RHdyNkxFTFpoQ3duemFmV21zaUNT?oc=5",
+   "time": "2026-11-14T21:09:00+08:00",
+   "summary": ""
   },
   {
    "source": "IQAir",
@@ -588,13 +595,6 @@
    "title": "Prabowo to attend ASEAN talks amid haze pressures",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZVNMMGRURFVYcExMUDY4OENJc1NmU25hZzYzN09TdkQ2YWpyOUVGMGlwb2I0NTdZQUh6R3ctSXdGS3NvRnhQZjFzS3RwTkhnNHNWRXAwR0ZlVkFoUXdabzBVcWRMeFU5aDExbDNrb3JZVEY1bkF1alBOV3hYZDd2WXlVTTA3eWxhRExLMjF4RGdncVBiY1AwTXZFNG9Vck1fMkZhQ3dsRkhpMzU2a3ZLdnFIRVpnSG5HLTRtTzZQMzcxcXB0MjJzQ2p5cXcxZkIxMFpsNE9FVQ?oc=5",
    "time": "2026-11-13T20:11:44+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Companies expected to cooperate with haze investigation: Shanmugam",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
-   "time": "2026-11-13T19:48:31+08:00",
    "summary": ""
   }
  ]
