@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-14T15:00:00+08:00",
+ "updated": "2026-11-14T16:00:00+08:00",
  "psi": {
-  "west": 77,
+  "west": 75,
   "east": 54,
   "central": 61,
   "south": 56,
   "north": 58
  },
  "pm25": {
-  "west": 7,
-  "east": 6,
-  "central": 5,
-  "south": 8,
-  "north": 3
+  "west": 8,
+  "east": 3,
+  "central": 6,
+  "south": 12,
+  "north": 4
  },
  "hist": [
-  {
-   "t": "2026-11-12T15:00:00+08:00",
-   "psi": {
-    "west": 61,
-    "east": 57,
-    "central": 60,
-    "south": 57,
-    "north": 58
-   }
-  },
   {
    "t": "2026-11-12T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 56,
     "north": 58
    }
+  },
+  {
+   "t": "2026-11-14T16:00:00+08:00",
+   "psi": {
+    "west": 75,
+    "east": 54,
+    "central": 61,
+    "south": 56,
+    "north": 58
+   }
   }
  ],
- "newsUpdated": "2026-11-14T15:07:14+08:00",
+ "newsUpdated": "2026-11-14T16:07:15+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Edge Malaysia",
+   "title": "Malaysia seeks stronger Asean haze response, sustainable funding, says Tok Mat",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54dWY3ZmJPLTZReU5IbzJVTllTdXNRSHhyUnduM0VoUUd3UVFOMG1wd005Qm1FVGo4NXN5NmhNUjcwcDVEdDZDYmRyb09nOU9B?oc=5",
+   "time": "2026-11-14T15:49:19+08:00",
+   "summary": ""
   },
   {
    "source": "Magzter",
@@ -588,13 +595,6 @@
    "title": "Haze-linked First Resources, Bumitama post higher profits for Q3",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSkNidDFnSXdlRTV3Z0V2ZXliTWZTMDdhajhGTzIzYWtpYzFfeDgtY2JfVy14c1JaSWhGTkNXaXgxd250NHAwQzQ2Y0MzQXBxZVo2bEdReHNFbWxNR201SDJjM3E5TF9CemJ1VWp4azVTRlM2cjNSNWpGc1JzR0RTcnM1b05rSUlmc3Y3SEVVaVgyUWJ1RmdoQWFHeHk0bEFCLTBB?oc=5",
    "time": "2026-11-13T12:50:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Rainforest Action Network",
-   "title": "Connecting the Banks and Investors linked to Indonesia’s fires and haze crisis",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEt1OGo2YzViV3ZqNE05UUg4d2ZZWGRNX3FORE1Yckg5Z3EyZTRjOWhtQnpzeGtoek45NUo4Q3R4YWNveDhGb3FZd3cxamRZakVHWGQ1NldHNmVWcWtMNDkyT1F5aG00WE12TWxyRG12ODM5UXJxQ09FakxrbHltUWpQWENvODdWWWNXQnd0SWFKZnNQNXIzd0RNTkFhSTRFRzdJUXpmRVV4c09aQzRYMkkxNDlOc2M?oc=5",
-   "time": "2026-11-13T12:39:24+08:00",
    "summary": ""
   }
  ]
