@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-14T17:00:00+08:00",
+ "updated": "2026-11-14T18:00:00+08:00",
  "psi": {
-  "west": 74,
-  "east": 54,
-  "central": 61,
+  "west": 72,
+  "east": 53,
+  "central": 60,
   "south": 55,
-  "north": 58
+  "north": 57
  },
  "pm25": {
-  "west": 6,
-  "east": 4,
-  "central": 11,
-  "south": 9,
-  "north": 5
+  "west": 3,
+  "east": 6,
+  "central": 9,
+  "south": 8,
+  "north": 4
  },
  "hist": [
-  {
-   "t": "2026-11-12T17:00:00+08:00",
-   "psi": {
-    "west": 62,
-    "east": 57,
-    "central": 60,
-    "south": 58,
-    "north": 59
-   }
-  },
   {
    "t": "2026-11-12T18:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 55,
     "north": 58
    }
+  },
+  {
+   "t": "2026-11-14T18:00:00+08:00",
+   "psi": {
+    "west": 72,
+    "east": 53,
+    "central": 60,
+    "south": 55,
+    "north": 57
+   }
   }
  ],
- "newsUpdated": "2026-11-14T17:07:26+08:00",
+ "newsUpdated": "2026-11-14T18:07:07+08:00",
  "news": [
   {
    "source": "CNA",
@@ -511,6 +511,13 @@
    "title": "Malaysia pushes for stronger scientific cooperation to tackle Asean haze",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR21DLXFENmlNNHNWdkhFbnFSTHAzNEhDQWFnNm9xX1B0Zlc0ckEwSWdFalZNMWJlQS1xTElzSGl4SnZOTUtHSTJ4dmZCRzJ5RGR6Q0xDSjBqNUhBZ25PTHUxWDhLTF9heHpEdWpxMU1CaXl0bHQ1dG5NeVY4VFllWEZWcXQ0b0VZZW42MWhOVVM0ZzVvSGZUSlRCYzBxWmJXWm94Q3dYUmJBQi1WVVZoOEszUWN4bFRJeEFHeFhkTQ?oc=5",
    "time": "2026-11-14T16:27:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Malaysia proposes Sustainable Haze Fund, science diplomacy for transboundary haze fight at Asean meeting, says Tok Mat",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQOUJEZDQyVTBuUTZfSXhPdlZMTGk0czVNUDAzTUszU0RJZ3VobmlMYkswd3lpLWJOcHpDMEdXa0dPR2RMT01mYmQ5eFhIR2ZBeExYcjRncW9MVDJxOWpRU1RrcGwteTNEcEs5dF9qZEFzeWVtNDJmc0U0bEkzYW1pbkxJQ3AxYmZqaFBEU0djelpiTmdPSDQ3X1NLVlBrWnpGc2dDSk0ycFlxTkdWVEhFdklBN1Z4dVJNcjh4dVczOVpDSW9Fa0pQZGd6V3VnM0E2OU1FZF9mQXBDVnNiSURQOFRZRFZPMkJHR19HNWhoY3YtWGpOcWN1elJBcGJaWDNkd25WTXJtaV9jZ9IBigJBVV95cUxQOUJEZDQyVTBuUTZfSXhPdlZMTGk0czVNUDAzTUszU0RJZ3VobmlMYkswd3lpLWJOcHpDMEdXa0dPR2RMT01mYmQ5eFhIR2ZBeExYcjRncW9MVDJxOWpRU1RrcGwteTNEcEs5dF9qZEFzeWVtNDJmc0U0bEkzYW1pbkxJQ3AxYmZqaFBEU0djelpiTmdPSDQ3X1NLVlBrWnpGc2dDSk0ycFlxTkdWVEhFdklBN1Z4dVJNcjh4dVczOVpDSW9Fa0pQZGd6V3VnM0E2OU1FZF9mQXBDVnNiSURQOFRZRFZPMkJHR19HNWhoY3YtWGpOcWN1elJBcGJaWDNkd25WTXJtaV9jZw?oc=5",
+   "time": "2026-11-14T16:05:20+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "ASEAN summit to prioritize transboundary haze, energy and food security – DFA",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLWJITTFIejFuVXJXN2JXOWlYajB6VXhjb01icFJOU0hrX2lZNFZaSGgwTTZ5ekNURGFueWpfNHdwaFpZYVNBblA3Smk3VlNXRnZvQ1MyVFJvMWhKY1R0LS1SMTdFbTZvalpzbmJuM3phRHFfc3N0OXVUeVFOd25sR2pOM1V3MHZjNkJTeGF1bGlwS3JxcEpBTmVhTG8zemtpUzZIanNR?oc=5",
    "time": "2026-11-13T13:34:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Facebook",
-   "title": "Transboundary haze, energy, food security high on ASEAN meet agenda – DFA MANILA – The Philippines, serving as chair of the Association of Southeast Asian Nations (ASEAN) 2026, is looking to adopt various outcome documents by the end of the ASEAN",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcFg1Z0RSelZWYndnVGVrMnpPM05LNmhzQmdxbUVXdThWb3NYS1BnU01IVTExODZSQVlUSmtMTnItRHBZdWt3OWc1dVJoTnpIdWFxM3BZdUp2X3lKYjhwZ2xSdldrVDVueGQybXJKUmM0XzBPR2VoWTdPa3hZbGtxeWRWZXBaSl9yZTdrRWtSWXdqUU45MkN6NjdXaTJUZnVfS21waXN0Zi10Yk1VcmV3bm0tZDk0T0NocWVNNDJCT3hHOTNMYjlmNkVoSkdnMWJwTGp1bQ?oc=5",
-   "time": "2026-11-13T13:20:09+08:00",
    "summary": ""
   }
  ]
