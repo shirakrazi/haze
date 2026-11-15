@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-15T07:00:00+08:00",
+ "updated": "2026-11-15T08:00:00+08:00",
  "psi": {
-  "west": 52,
-  "east": 35,
-  "central": 44,
-  "south": 36,
-  "north": 41
+  "west": 49,
+  "east": 32,
+  "central": 40,
+  "south": 35,
+  "north": 39
  },
  "pm25": {
-  "west": 8,
-  "east": 11,
-  "central": 5,
-  "south": 11,
-  "north": 10
+  "west": 6,
+  "east": 12,
+  "central": 9,
+  "south": 12,
+  "north": 9
  },
  "hist": [
-  {
-   "t": "2026-11-13T07:00:00+08:00",
-   "psi": {
-    "west": 65,
-    "east": 56,
-    "central": 65,
-    "south": 60,
-    "north": 64
-   }
-  },
   {
    "t": "2026-11-13T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 36,
     "north": 41
    }
+  },
+  {
+   "t": "2026-11-15T08:00:00+08:00",
+   "psi": {
+    "west": 49,
+    "east": 32,
+    "central": 40,
+    "south": 35,
+    "north": 39
+   }
   }
  ],
- "newsUpdated": "2026-11-15T07:07:06+08:00",
+ "newsUpdated": "2026-11-15T08:07:02+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,24 @@
    "pinned": true
   },
   {
-   "source": "Philippine News Agency",
+   "source": "The Star",
+   "title": "M’sia seeks stronger Asean cooperation to combat haze",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXhjNFVSVTdtMDdmUDhPcEdMZ0xfV211d3RXUHVEaEdhbENBYWtrYnZONTBuN2ZzUmNkYm1tQmtoTW5oalpFeE9tcmRwVjNZN1hLSUlmVVF5MlZzNTRMbDZUYXJYRTE1eHVwaEg2b0dXcHJKRUpxRUdSRTFuUnVxaVBJeFhmNjczSkJRc2pMOWFxajVLamNybVMzZ3RDaFIydkRBNw?oc=5",
+   "time": "2026-11-15T08:00:42+08:00",
+   "summary": ""
+  },
+  {
+   "source": "ABS-CBN",
+   "title": "ASEAN addressing transboundary haze pollution — DFA",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVTdDclNFS2wzYUV0OWNYYjlwRW8tRXhOMElQc19JVEVpOGllRXJ6V1hqQWljSjhzTmpJbDg0Vnk2WG9va3kyNEtuZ0xwSmNtUnZGOW1hdDNsOU80Vm40MHRjS0lZa3o1SGxwd3lWb3YzLXFJYnF3NWVXWnVycE5rZlpycERpYy1wZFYxZGJEbDdlQnZsMjhUSTAxRE1TV1VGRWNZ?oc=5",
+   "time": "2026-11-15T07:58:40+08:00",
+   "summary": ""
+  },
+  {
+   "source": "thechronicle.com.ph",
    "title": "ASEAN FMs bat to operationalize transboundary haze control hub",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWld4Z3FMRGJ3QWlJWE02ZDd2SlctMF83YTdzS3M3WjJQRVY2eC1DNnVGeWNZZlZLbzdCS0oxd1o4dXpQRGFZRUc1V3R5SWt1Nm9Sd2lxQURzaDQ1TUNISzNvWHVrSDRjaWFVazRNMzN1YXJVMnJDMXlUZ0tJREFaLWV3enRDMXNJdmVuQmxBYWlucm9pdE5RSg?oc=5",
-   "time": "2026-11-15T06:56:00+08:00",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmpLNktXcjE2bFl0YmJIOXdrZ2hnOWZoeDVnUXd3V0Y4X1JxeGpSUWdKVGd4Zk5LYnppNFBabEJESkpJV0FEYnpqVU5MSDZrRzdnSWo0cTNRWkswN0ZvVlBjSVlDbW1fakRoUEw4anF1ZWpvMnNrX001MTZjam1mOGhPMWhzejRGSWpzV3l5X0ZkV3diN2c?oc=5",
+   "time": "2026-11-15T07:27:05+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Air quality and haze in Callaguip",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15UEpZeGVFckZJdzBFcEUzN1VNUTNEbk15SDFtTV9OUF92NGs2MENZSThmZjd4c1J0TVRMVVY1Rl9DR09FRG84SnZUZ0tfLU5rcV84dV9zLWx4R2FmRDJNRFBpTHRYSnA2MlpuNGNmUFdtWTVvR2hF?oc=5",
    "time": "2026-11-14T09:08:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Moomoo",
-   "title": "Bumitama Agri: Cooperating With Indonesian, Singapore Authorities On Fires, Haze >P8Z.SG",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdXZLN21Gc3FtLVA4bmJlVXBSYkR3TjYwc0hqLUNrTHlTd0RrTlo3QzhpcU5hbjE4dTdDNjBZdldRVF9lRHRkTmM2Y1gtZzllb0NSWmw2dVBPUlJOODZjUHFIMm92TldUeEs1R3VKY2pWaHd2Rm9JQ0xwWmVSQkxhcF9NblV5NnNZUC15cmtrS1dhMnhMNi0zeEkzR05tc191b1hZWDVrX3p5ZWpFU2l2T1lNYzNOUHRuVWVXZ0tB?oc=5",
-   "time": "2026-11-14T03:49:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "IQAir",
-   "title": "Air quality and haze in Teluk Pinang",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBncVN5aDBFQXZHdW5ZVzlNa1N1bjE1c3k0TXlxT2tQcUFLdWlWLUdRSktpSHlScUxBSHVOaS1CTjYtdkJvMVZ4c251NkdfckJEUnFTZFZxbVcxWVV4TWRqZW1xQlVfbnlFbDFoR3ZvdEtMQQ?oc=5",
-   "time": "2026-11-13T22:37:46+08:00",
    "summary": ""
   }
  ]
