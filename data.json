@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-16T03:00:00+08:00",
+ "updated": "2026-11-16T04:00:00+08:00",
  "psi": {
-  "west": 51,
-  "east": 42,
-  "central": 45,
-  "south": 47,
+  "west": 52,
+  "east": 41,
+  "central": 46,
+  "south": 49,
   "north": 38
  },
  "pm25": {
   "west": 17,
   "east": 5,
-  "central": 10,
-  "south": 18,
-  "north": 5
+  "central": 13,
+  "south": 14,
+  "north": 6
  },
  "hist": [
-  {
-   "t": "2026-11-14T04:00:00+08:00",
-   "psi": {
-    "west": 75,
-    "east": 53,
-    "central": 59,
-    "south": 58,
-    "north": 60
-   }
-  },
   {
    "t": "2026-11-14T05:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 47,
     "north": 38
    }
+  },
+  {
+   "t": "2026-11-16T04:00:00+08:00",
+   "psi": {
+    "west": 52,
+    "east": 41,
+    "central": 46,
+    "south": 49,
+    "north": 38
+   }
   }
  ],
- "newsUpdated": "2026-11-16T03:07:11+08:00",
+ "newsUpdated": "2026-11-16T04:06:56+08:00",
  "news": [
   {
    "source": "CNA",
@@ -511,6 +511,13 @@
    "title": "The President of Indonesia apologized to Singapore and Malaysia for the haze",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQlk1UFB1VGJaZUxwZnZvaTFTZE50MGJzNzRJMW1vcFFEWGFyUy1zRFpZNDBMMVhiUzJFbjdVRTk2MklhUmF0UzJBTzBScGdoNVcxWXBOTFB1S2pTbnVXcTFOcXBudU9DZGw2eTNWZFAza3FheTNRMEZYOHVyQVBzQ1o2UEthNVRHc0hNZGVkYVJEb2dnMDRHVTdRQVVXcjBM0gGfAUFVX3lxTE5VQi1NY2g5Y09BM0xMSDB6WU9NUXRueURFYWlicW52T0UxcktYLTY4RDBpd0pRRTk2bnhTRWJzc0lNZE5NMEQ1bGlCS1hKZUdHVXVBQmFIeHdyT1RJb1hoeUgxdlRiWmFha3htSVF1YzVHb1F6WnlKd0FYNk11OV95VE5vbjFadWttd3JTajhqdEI0dG9MR0dpSkItelF1QQ?oc=5",
    "time": "2026-11-16T02:59:04+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The News International",
+   "title": "Indonesia's Prabowo apologises to neighbours over severe forest fire haze",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZldBV05EcjcteUtuVmJOM3NQMmp4MDdFTEFCd285RzdKOEdyalZjWkx1OUtFNHZqT0gwYUxWTGhtR29vWEVRd2wyemM3eWlrd1BPY2lFd3UtOWtVdmc1bFJYT3ZMdWJ4VGhqWHRIV2hjY0gzU2M3aXpBMFhiT1BOQkxvTDF4ekV6Qll3eEJ1a3hyR1FLMkN6QXNaUDliNV9mejBGeGdwRnh0djhkMDkwWWUwMXbSAbABQVVfeXFMTTJGR00wb0NvZHJMM3RvazVrZ0hFU0dzWGs3NUVVU05TLUxWdlE0SXFlc3FtUHlJUVJMZGNHcnZONnRIUHFxdWxhRFdCNXZRQlFmcEdiYlFWTUdNTG9RMlgyd1Vtc215TTd0M0NzRE1FRXdZdEpOYXFlaC1Pd0VWMXJpbUhKdmxfZHNlcXRoNXJoaURUOXFUbUg3RUItVUE5ZUhLM3AzeDhQTDdFbWVvZVk?oc=5",
+   "time": "2026-11-16T02:02:00+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Science diplomacy, sustainable funding vital to stronger Asean haze response",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWVPSndzaFlndGo4bWN3a0VGbVZqY0JuNjFPdUJuSllmaWFHTktuSFNoOHJXV20wQWl2c3ZIbmRqYkN2TGc1cVFabW1RZFNlQzRXRk9oWHNEVjFmR19pZG5XNkVPVGlnLTVTemRrdV9VNUp0THJHSXEyTVBKbVZZNi1Ralo4SFZQNjh6bGxhaDhRLUR1YVhSa25XTngxTlVzYXgwdTExUnVaSXlvWUpiaG0zNmXSAboBQVVfeXFMT1VWWWhiaWdLS3haN1RVdGZ3ZGJ1bVNKZDZpdmNicVp5b2NpVUo5Q3k5X3lYZmFKVWhWX1dmWFJ4ck9RdGpxX0RIREJRc0paT245U1ZhOFdEUVhRa2ZEdHBSWkY5YnJjc2c4RmtRQjRXekJ4emFZalVTaUFBNmpsUGhkQ3BqQkw0Z1ZuNXk5c01BbTR3bXNlZ2RpUHBVaWlIYlpXWXE0czVxZVludlU4ckZvTG95Tzl3RDdR?oc=5",
    "time": "2026-11-15T15:48:43+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Business Times",
-   "title": "PM Wong pitches deeper Asean ties on digital payments, energy and haze",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2gzcmRqeWVSYmpSV3BINUZUeTBZQkZneEl5UVVITXh2Sk9zZTlCQ0FLcWhmMVRJSXliNEZVTk1QaGpFYm80TzlSMGRPSzZJNlp4Y2ZJRnBMSzZ0SzlwQ0g3Tk85WkJKNVJIQ0lvREJjTXBIUlZJY29MMkhUdzF0aXM0T2wyNHVVOFF3MUY2akhHZ0ZqdlBwN1RXdWdZNDk1T3lFTGtDTC1RR3FDQkpqS3FZQURyWm5YMWRJ?oc=5",
-   "time": "2026-11-15T15:36:00+08:00",
    "summary": ""
   }
  ]
