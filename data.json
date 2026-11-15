@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-15T09:00:00+08:00",
+ "updated": "2026-11-15T10:00:00+08:00",
  "psi": {
-  "west": 45,
+  "west": 39,
   "east": 32,
-  "central": 37,
-  "south": 33,
-  "north": 36
+  "central": 36,
+  "south": 32,
+  "north": 34
  },
  "pm25": {
-  "west": 4,
-  "east": 10,
-  "central": 8,
-  "south": 10,
-  "north": 4
+  "west": 5,
+  "east": 14,
+  "central": 4,
+  "south": 8,
+  "north": 9
  },
  "hist": [
-  {
-   "t": "2026-11-13T09:00:00+08:00",
-   "psi": {
-    "west": 67,
-    "east": 56,
-    "central": 65,
-    "south": 60,
-    "north": 64
-   }
-  },
   {
    "t": "2026-11-13T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 33,
     "north": 36
    }
+  },
+  {
+   "t": "2026-11-15T10:00:00+08:00",
+   "psi": {
+    "west": 39,
+    "east": 32,
+    "central": 36,
+    "south": 32,
+    "north": 34
+   }
   }
  ],
- "newsUpdated": "2026-11-15T09:02:15+08:00",
+ "newsUpdated": "2026-11-15T10:06:49+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,17 @@
    "pinned": true
   },
   {
+   "source": "NST Online",
+   "title": "Asean pushes for faster operationalisation of haze control hub",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVHNONFRTUE1WNl9vVmhtQlRNR242NEdoUUs3SURzc2FQbUp6cGJOTGFid19XeWRZVGhKbFZVSUNza3dwNHVKandlSTJLR2tKLUdmR0x6XzE2TmRRazNsckt6cWU5M3RPNFZvSzF3UzBkTVZsQVl3UjVoVUYxRHJ4Zm9sb2phS19ScGU0dVhjOTJoVFNnbzhISEFIaTM4RHREYlVYS2hVRDNPWTTSAbABQVVfeXFMTXFjNFJFay12ZGkyMFpPVnpEQ0NoY2cxbkFmT2VwdkJqbWlYRHkzQmIxZ2p5SUd4cHNVRFBTMFEtVHFYYzNYT1FoTWZZUFZFUWxVRm43MTB6VVk5YksxUmRaMVdJOEtsaFB6eWhXZzlTUkgwYWwtSGpXVEJpc3l5Q09Rb3NXUlJWcGxBTFZZT2NicjRZQnc2S01fUm1JUFpZc0xTYmV5ZVdjVk9BWXdVNXA?oc=5",
+   "time": "2026-11-15T09:31:06+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Star",
    "title": "M’sia seeks stronger Asean cooperation to combat haze",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXhjNFVSVTdtMDdmUDhPcEdMZ0xfV211d3RXUHVEaEdhbENBYWtrYnZONTBuN2ZzUmNkYm1tQmtoTW5oalpFeE9tcmRwVjNZN1hLSUlmVVF5MlZzNTRMbDZUYXJYRTE1eHVwaEg2b0dXcHJKRUpxRUdSRTFuUnVxaVBJeFhmNjczSkJRc2pMOWFxajVLamNybVMzZ3RDaFIydkRBNw?oc=5",
-   "time": "2026-11-15T08:00:42+08:00",
+   "time": "2026-11-15T08:04:41+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Heat from climate change, El Nino's drought worsened Indonesia haze: Study | The Straits Times - newspaper",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1lfZ0NrMWI2dF9kaThQMEJuQXdVaEJ3d1hwUmJweEQteHJleHFpS3JTOXlzUDFqNnk4R1RFbHVNTFNsX3hGTUNHZFhndWNVcGk0MUNzQVQwbXFDLTRZREVSMGhGUVFUN29HckFjWThvdVVLcFU0MzF6M1FwNndKeWNRYWtGUGtVSFpYakROZlhuOUctVlR6bHhtVDRQajRRREdlQS10RXNvSkUtY0llal9HYm10Z2o3VDRkTnF2bHdVUFFQT3FBUUNGbw?oc=5",
    "time": "2026-11-14T12:39:16+08:00",
-   "summary": ""
-  },
-  {
-   "source": "IQAir",
-   "title": "Air quality and haze in Callaguip",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15UEpZeGVFckZJdzBFcEUzN1VNUTNEbk15SDFtTV9OUF92NGs2MENZSThmZjd4c1J0TVRMVVY1Rl9DR09FRG84SnZUZ0tfLU5rcV84dV9zLWx4R2FmRDJNRFBpTHRYSnA2MlpuNGNmUFdtWTVvR2hF?oc=5",
-   "time": "2026-11-14T09:08:37+08:00",
    "summary": ""
   }
  ]
