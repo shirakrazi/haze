@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-15T14:00:00+08:00",
+ "updated": "2026-11-15T15:00:00+08:00",
  "psi": {
   "west": 33,
-  "east": 32,
-  "central": 33,
-  "south": 33,
+  "east": 33,
+  "central": 34,
+  "south": 34,
   "north": 32
  },
  "pm25": {
-  "west": 3,
-  "east": 3,
-  "central": 5,
-  "south": 7,
-  "north": 6
+  "west": 6,
+  "east": 11,
+  "central": 10,
+  "south": 10,
+  "north": 4
  },
  "hist": [
-  {
-   "t": "2026-11-13T14:00:00+08:00",
-   "psi": {
-    "west": 69,
-    "east": 55,
-    "central": 63,
-    "south": 59,
-    "north": 63
-   }
-  },
   {
    "t": "2026-11-13T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 33,
     "north": 32
    }
+  },
+  {
+   "t": "2026-11-15T15:00:00+08:00",
+   "psi": {
+    "west": 33,
+    "east": 33,
+    "central": 34,
+    "south": 34,
+    "north": 32
+   }
   }
  ],
- "newsUpdated": "2026-11-15T14:07:06+08:00",
+ "newsUpdated": "2026-11-15T15:06:50+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "WeirdKaya",
+   "title": "M’sia May Face Haze Risk Until May 2027 As Super El Niño Intensifies",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUE1TaThBZENkelJENlg5QmJsM1V1dEVXNzNmRF9mZlBTbHVaLVJTbzEweGVxamJrQlZsZ2dFckZCcXJ0Q2R2eDd1eV9TMklPekhpdGR1RUtEdHlHbFZfSTJmd2JhMDNIQ0MwLS1ZcWZZaVZJalRUNkNqcEJ2UGZOWW1pdzN0VUxwLWRlcFZlZEF3czBv?oc=5",
+   "time": "2026-11-15T15:03:05+08:00",
+   "summary": ""
   },
   {
    "source": "Citizens Journal",
@@ -531,7 +538,7 @@
    "source": "Malay Mail",
    "title": "Malaysia and Asean neighbours press for quicker haze response mechanism",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPXzRVZTBBOHlDcTN2U1hfc0c2eGRzTXN3ZE1ncEFpWTZ3Rk00U21mMFZMemJGVHJkX090QS1XdE92R3lINXpYd2ZOenp0YmJkbzU1NHRmVTZndWFKUjVOYVVRUUl5OTFfckJSRVFNcV9LRy1vRnhFZGhMS2E3LUxISG03M1BfNk9tb25QWmJZenZVcFNBZk9OVjhQU2xfcUR4MnNoaUNaYVI3OGtxTmpod1BUN180emNHWGREQ2dVUDBLcjRiSjRSMtIBzgFBVV95cUxQdklTTzFkTjJPQjBzaExQSzhIQlEyN195LUpmUFp3dkVocF93VGRZYVhpVXBYWi1PX1dsWUpnX0RfOXVLMDFDWmhjdEQxU2cyTEJxSmotTzlkbFFBZ0hya3Nhd1NMc2drRm5RM0ZIODdyV0NOZUlxQzU2TVVMc3FVb3RJQUNGMXNSYWVuOFd1aHl5eE85SEtxVlJZbDhJUjVDQWp0SHhFQ1VQNGRPcC1GeUJ5NS1hOFdBNHZIb0MwTmhVb1pjS0QxX3YtZ3pBQQ?oc=5",
-   "time": "2026-11-15T11:22:08+08:00",
+   "time": "2026-11-15T11:29:07+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "ASEAN fast-tracks regional haze control center amid transboundary pollution",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkhFR0g0VUh4VW1OZVNfWGNIdnJvQlIySjFOOTVJRmNtTWU2QnJRc1BQbUJIcGNlekZDMjN1VDJRaTRkamxvTFZpTmtDWlJ3T1ZaNF9PZVV0TmR3d2tFVXBlNC0yX0RSV3Z3SjhIaWJVV0R6WFJXb1NMaDA2dGxtSFNEMlJaTklzRnpOUzllQzEzdWRuZW5xdTFPRXVXVlVReDNINEtBdw?oc=5",
    "time": "2026-11-14T20:53:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "https://streamlinefeed.co.ke/",
-   "title": "Malaysia proposes sustainable haze fund at Asean meeting",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRmgyOVFaa3RqTVFEM2lieHhCelRiX1ViOXFlQkp0N05QSGFWYkVKblVCZWhmYjNFQjVSRktyUDBnc3F0OUFvYXo1aVJSVTNFb01UNkFjcHhBRlhDZ1NQOVZ2Y0haSktKSGdRdkZ6M1ljUUcxS3VFV25VMnFtZGFwck55VlJYMGZHcWhYVUxtcFpUZWkw?oc=5",
-   "time": "2026-11-14T18:47:23+08:00",
    "summary": ""
   }
  ]
