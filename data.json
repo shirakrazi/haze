@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-16T02:00:00+08:00",
+ "updated": "2026-11-16T03:00:00+08:00",
  "psi": {
-  "west": 49,
+  "west": 51,
   "east": 42,
   "central": 45,
-  "south": 45,
-  "north": 39
+  "south": 47,
+  "north": 38
  },
  "pm25": {
-  "west": 16,
-  "east": 7,
-  "central": 13,
-  "south": 14,
-  "north": 11
+  "west": 17,
+  "east": 5,
+  "central": 10,
+  "south": 18,
+  "north": 5
  },
  "hist": [
-  {
-   "t": "2026-11-14T03:00:00+08:00",
-   "psi": {
-    "west": 74,
-    "east": 53,
-    "central": 59,
-    "south": 58,
-    "north": 60
-   }
-  },
   {
    "t": "2026-11-14T04:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 45,
     "north": 39
    }
+  },
+  {
+   "t": "2026-11-16T03:00:00+08:00",
+   "psi": {
+    "west": 51,
+    "east": 42,
+    "central": 45,
+    "south": 47,
+    "north": 38
+   }
   }
  ],
- "newsUpdated": "2026-11-16T02:06:56+08:00",
+ "newsUpdated": "2026-11-16T03:07:11+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Українські Національні Новини (УНН)",
+   "title": "The President of Indonesia apologized to Singapore and Malaysia for the haze",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQlk1UFB1VGJaZUxwZnZvaTFTZE50MGJzNzRJMW1vcFFEWGFyUy1zRFpZNDBMMVhiUzJFbjdVRTk2MklhUmF0UzJBTzBScGdoNVcxWXBOTFB1S2pTbnVXcTFOcXBudU9DZGw2eTNWZFAza3FheTNRMEZYOHVyQVBzQ1o2UEthNVRHc0hNZGVkYVJEb2dnMDRHVTdRQVVXcjBM0gGfAUFVX3lxTE5VQi1NY2g5Y09BM0xMSDB6WU9NUXRueURFYWlicW52T0UxcktYLTY4RDBpd0pRRTk2bnhTRWJzc0lNZE5NMEQ1bGlCS1hKZUdHVXVBQmFIeHdyT1RJb1hoeUgxdlRiWmFha3htSVF1YzVHb1F6WnlKd0FYNk11OV95VE5vbjFadWttd3JTajhqdEI0dG9MR0dpSkItelF1QQ?oc=5",
+   "time": "2026-11-16T02:59:04+08:00",
+   "summary": ""
   },
   {
    "source": "Reuters",
@@ -588,13 +595,6 @@
    "title": "PM Wong pitches deeper Asean ties on digital payments, energy and haze",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2gzcmRqeWVSYmpSV3BINUZUeTBZQkZneEl5UVVITXh2Sk9zZTlCQ0FLcWhmMVRJSXliNEZVTk1QaGpFYm80TzlSMGRPSzZJNlp4Y2ZJRnBMSzZ0SzlwQ0g3Tk85WkJKNVJIQ0lvREJjTXBIUlZJY29MMkhUdzF0aXM0T2wyNHVVOFF3MUY2akhHZ0ZqdlBwN1RXdWdZNDk1T3lFTGtDTC1RR3FDQkpqS3FZQURyWm5YMWRJ?oc=5",
    "time": "2026-11-15T15:36:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "WeirdKaya",
-   "title": "M’sia May Face Haze Risk Until May 2027 As Super El Niño Intensifies",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUE1TaThBZENkelJENlg5QmJsM1V1dEVXNzNmRF9mZlBTbHVaLVJTbzEweGVxamJrQlZsZ2dFckZCcXJ0Q2R2eDd1eV9TMklPekhpdGR1RUtEdHlHbFZfSTJmd2JhMDNIQ0MwLS1ZcWZZaVZJalRUNkNqcEJ2UGZOWW1pdzN0VUxwLWRlcFZlZEF3czBv?oc=5",
-   "time": "2026-11-15T15:03:05+08:00",
    "summary": ""
   }
  ]
