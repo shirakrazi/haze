@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-15T16:00:00+08:00",
+ "updated": "2026-11-15T17:00:00+08:00",
  "psi": {
-  "west": 34,
-  "east": 35,
+  "west": 35,
+  "east": 36,
   "central": 35,
-  "south": 34,
-  "north": 33
+  "south": 35,
+  "north": 34
  },
  "pm25": {
-  "west": 12,
-  "east": 16,
-  "central": 13,
+  "west": 16,
+  "east": 12,
+  "central": 11,
   "south": 15,
-  "north": 7
+  "north": 13
  },
  "hist": [
-  {
-   "t": "2026-11-13T16:00:00+08:00",
-   "psi": {
-    "west": 69,
-    "east": 54,
-    "central": 62,
-    "south": 60,
-    "north": 61
-   }
-  },
   {
    "t": "2026-11-13T17:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 34,
     "north": 33
    }
+  },
+  {
+   "t": "2026-11-15T17:00:00+08:00",
+   "psi": {
+    "west": 35,
+    "east": 36,
+    "central": 35,
+    "south": 35,
+    "north": 34
+   }
   }
  ],
- "newsUpdated": "2026-11-15T16:07:07+08:00",
+ "newsUpdated": "2026-11-15T17:06:56+08:00",
  "news": [
   {
    "source": "CNA",
@@ -525,6 +525,13 @@
    "title": "M’sia May Face Haze Risk Until May 2027 As Super El Niño Intensifies | WeirdKaya",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeHhZd0tDLXB0c1loLTFfRUVsdzNDZGNBVHByVDB4dVlZaFdiZUhfSmpuT3FqTDUyMUk0T3ZiTG43WFNtdzdNeWZkaC01VGdfbEZGWHBxT2VTUTI0Q0dpLU54VmVUN3hXRnlvbnlzNE5RZ1ZBZ2d0SlMxVmRMZ05sMkgzMGhFRlExVXpiWHJYREkxN3A2VS14WmlzWV96eFB3dXprajFsWjE0dy1OaWt1bGdaZ0JaQ2lGQk9lWVVn?oc=5",
    "time": "2026-11-15T15:03:05+08:00",
+   "summary": ""
+  },
+  {
+   "source": "ABS-CBN",
+   "title": "ASEAN addressing transboundary haze pollution — DFA",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVTdDclNFS2wzYUV0OWNYYjlwRW8tRXhOMElQc19JVEVpOGllRXJ6V1hqQWljSjhzTmpJbDg0Vnk2WG9va3kyNEtuZ0xwSmNtUnZGOW1hdDNsOU80Vm40MHRjS0lZa3o1SGxwd3lWb3YzLXFJYnF3NWVXWnVycE5rZlpycERpYy1wZFYxZGJEbDdlQnZsMjhUSTAxRE1TV1VGRWNZ?oc=5",
+   "time": "2026-11-15T12:12:19+08:00",
    "summary": ""
   },
   {
@@ -567,13 +574,6 @@
    "title": "Asean pushes for faster operationalisation of haze control hub",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVHNONFRTUE1WNl9vVmhtQlRNR242NEdoUUs3SURzc2FQbUp6cGJOTGFid19XeWRZVGhKbFZVSUNza3dwNHVKandlSTJLR2tKLUdmR0x6XzE2TmRRazNsckt6cWU5M3RPNFZvSzF3UzBkTVZsQVl3UjVoVUYxRHJ4Zm9sb2phS19ScGU0dVhjOTJoVFNnbzhISEFIaTM4RHREYlVYS2hVRDNPWTTSAbABQVVfeXFMTXFjNFJFay12ZGkyMFpPVnpEQ0NoY2cxbkFmT2VwdkJqbWlYRHkzQmIxZ2p5SUd4cHNVRFBTMFEtVHFYYzNYT1FoTWZZUFZFUWxVRm43MTB6VVk5YksxUmRaMVdJOEtsaFB6eWhXZzlTUkgwYWwtSGpXVEJpc3l5Q09Rb3NXUlJWcGxBTFZZT2NicjRZQnc2S01fUm1JUFpZc0xTYmV5ZVdjVk9BWXdVNXA?oc=5",
    "time": "2026-11-15T09:31:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ABS-CBN",
-   "title": "ASEAN addressing transboundary haze pollution — DFA",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVTdDclNFS2wzYUV0OWNYYjlwRW8tRXhOMElQc19JVEVpOGllRXJ6V1hqQWljSjhzTmpJbDg0Vnk2WG9va3kyNEtuZ0xwSmNtUnZGOW1hdDNsOU80Vm40MHRjS0lZa3o1SGxwd3lWb3YzLXFJYnF3NWVXWnVycE5rZlpycERpYy1wZFYxZGJEbDdlQnZsMjhUSTAxRE1TV1VGRWNZ?oc=5",
-   "time": "2026-11-15T09:22:19+08:00",
    "summary": ""
   },
   {
