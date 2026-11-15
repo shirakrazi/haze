@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-15T15:00:00+08:00",
+ "updated": "2026-11-15T16:00:00+08:00",
  "psi": {
-  "west": 33,
-  "east": 33,
-  "central": 34,
+  "west": 34,
+  "east": 35,
+  "central": 35,
   "south": 34,
-  "north": 32
+  "north": 33
  },
  "pm25": {
-  "west": 6,
-  "east": 11,
-  "central": 10,
-  "south": 10,
-  "north": 4
+  "west": 12,
+  "east": 16,
+  "central": 13,
+  "south": 15,
+  "north": 7
  },
  "hist": [
-  {
-   "t": "2026-11-13T15:00:00+08:00",
-   "psi": {
-    "west": 69,
-    "east": 54,
-    "central": 63,
-    "south": 60,
-    "north": 62
-   }
-  },
   {
    "t": "2026-11-13T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 34,
     "north": 32
    }
+  },
+  {
+   "t": "2026-11-15T16:00:00+08:00",
+   "psi": {
+    "west": 34,
+    "east": 35,
+    "central": 35,
+    "south": 34,
+    "north": 33
+   }
   }
  ],
- "newsUpdated": "2026-11-15T15:43:40+08:00",
+ "newsUpdated": "2026-11-15T16:07:07+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "NST Online",
+   "title": "Science diplomacy, sustainable funding vital to stronger Asean haze response",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWVPSndzaFlndGo4bWN3a0VGbVZqY0JuNjFPdUJuSllmaWFHTktuSFNoOHJXV20wQWl2c3ZIbmRqYkN2TGc1cVFabW1RZFNlQzRXRk9oWHNEVjFmR19pZG5XNkVPVGlnLTVTemRrdV9VNUp0THJHSXEyTVBKbVZZNi1Ralo4SFZQNjh6bGxhaDhRLUR1YVhSa25XTngxTlVzYXgwdTExUnVaSXlvWUpiaG0zNmXSAboBQVVfeXFMT1VWWWhiaWdLS3haN1RVdGZ3ZGJ1bVNKZDZpdmNicVp5b2NpVUo5Q3k5X3lYZmFKVWhWX1dmWFJ4ck9RdGpxX0RIREJRc0paT245U1ZhOFdEUVhRa2ZEdHBSWkY5YnJjc2c4RmtRQjRXekJ4emFZalVTaUFBNmpsUGhkQ3BqQkw0Z1ZuNXk5c01BbTR3bXNlZ2RpUHBVaWlIYlpXWXE0czVxZVludlU4ckZvTG95Tzl3RDdR?oc=5",
+   "time": "2026-11-15T15:48:43+08:00",
+   "summary": ""
   },
   {
    "source": "WeirdKaya",
@@ -588,13 +595,6 @@
    "title": "Indonesia Says Malaysia, Singapore ‘Welcome’ Eased Haze",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMjN1dGRLcHNQWlRqZlowNHlaQVJzNUFlVU9fVlU0MmdjUExBZlVjYWlhbWplOW9QQjBvWDhRMlI0d1Y2cF81WUg5cjRWTzhZWFdCc3I3NGxiWnVyZlNJUUg2c09XRWhfczR3TkRvMHRtamQ1RHdyNkxFTFpoQ3duemFmV21zaUNT?oc=5",
    "time": "2026-11-14T21:09:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "IQAir",
-   "title": "Air quality and haze in Taiping",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FRFROa25pcktkVUU5SV9LV3pmNGtYaXl1WEFXVjNGdkZHWUhoNFNzcUQ2eXpDVGNnOWdvYkJBWlY5RzU1ZVFCWUdKVHlmRGM3clRmZTZETjZmSGJHLVZiQWx0T25POThBek1Z?oc=5",
-   "time": "2026-11-14T21:00:22+08:00",
    "summary": ""
   }
  ]
