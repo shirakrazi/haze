@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-15T20:00:00+08:00",
+ "updated": "2026-11-15T21:00:00+08:00",
  "psi": {
-  "west": 41,
-  "east": 40,
-  "central": 39,
-  "south": 38,
+  "west": 42,
+  "east": 41,
+  "central": 40,
+  "south": 40,
   "north": 38
  },
  "pm25": {
-  "west": 24,
-  "east": 11,
-  "central": 16,
+  "west": 28,
+  "east": 16,
+  "central": 18,
   "south": 14,
-  "north": 12
+  "north": 10
  },
  "hist": [
-  {
-   "t": "2026-11-13T20:00:00+08:00",
-   "psi": {
-    "west": 71,
-    "east": 53,
-    "central": 60,
-    "south": 58,
-    "north": 59
-   }
-  },
   {
    "t": "2026-11-13T22:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 38,
     "north": 38
    }
+  },
+  {
+   "t": "2026-11-15T21:00:00+08:00",
+   "psi": {
+    "west": 42,
+    "east": 41,
+    "central": 40,
+    "south": 40,
+    "north": 38
+   }
   }
  ],
- "newsUpdated": "2026-11-15T20:07:07+08:00",
+ "newsUpdated": "2026-11-15T21:07:41+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,6 +507,13 @@
    "pinned": true
   },
   {
+   "source": "JournalArta",
+   "title": "Lawrence Wong Wants Haze Task Force Expanded to All of ASEAN",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEZLSEgzaDVaQi0tUUhMNE1uVjBNeHc1dzB3QVU3Y016aEs3ZjM2WUV6eTVlMzFjLUZmTFpQN3c0NG84WE5PRmZRMGxJYmhKNmFwNEhLaGlMc0ZlWUI2YnVYV3dtRVF1X1B0UnEta0pHY2JSY2RoT2tadGpJUG55SzlrdHFnazl2VnRIVmtTX2VLMlllTUJpdDJ3TEU?oc=5",
+   "time": "2026-11-15T20:51:42+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "Regional platform to tackle haze among ways for ASEAN to manage differences amicably: PM Wong",
    "url": "https://www.straitstimes.com/singapore/politics/regional-platform-to-tackle-haze-among-ways-for-asean-to-manage-differences-amicably-pm-wong",
@@ -514,17 +521,17 @@
    "summary": ""
   },
   {
+   "source": "CNA",
+   "title": "Singapore-Indonesia haze task force should become ASEAN-wide platform: PM Wong",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkJvVmc0ZXZJS0dWZUIwdXlKNXQ0c1BTRnF3Ulh1ejZKaFVIM1ZGVWMwN1pwYTZSSkdISmhaYzdMV2hXa1dQXzYyNjE2b0FwODJ2ZTlBcm5zTXV5UGp1M3Y2QzdkYnBVTGxZbk0tZmFmaDR4Z1l4YnRTcDl6a3BCNGtjY0oyV0IycktTRDRGODY0TExmRFRpc3lJSnU1V00?oc=5",
+   "time": "2026-11-15T19:49:20+08:00",
+   "summary": ""
+  },
+  {
    "source": "Philstar.com",
    "title": "ASEAN Summit Day 1: South China Sea, Indonesia haze, Myanmar review",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVjdDVjBzVGE4eWpTT3Y4R1lrZ19KSEYyRFViRld5QWd2WGYtZnlaLXUwd0FTZl8wQlhUaDFrN04yQlZTZXVjWlB5cVJkSFM3S2JJcW9DM0JORFFUQkh0c2R0MGU1ZDhiVTVqeGNRWTdmZ2VLejA2VEJhZS1XRUxIYlh1QkwzNU1VeFZjTDRBSVI3SE1lSzB5MGVfRVpfOUsxbzFQSDNYWEkxZ2lmcTFUcU5MMmUteVJKc1HSAcABQVVfeXFMUEJINXdfR2JqSFJSMzZYWGhoQ05TN2c3bXIxLVBUOUpsQmxaUlRoaV8yY0pMVUUwcVNfcXhMcVF2ZHBQMnRSRF9STnRjYUk1VXZpaVZldGVFNnZaTEVTWUV3dEZuMDk4SDREeEF1MTJVVkltLXI2amdENTh6RmZWdXZuY1lGbTUtZ0hBX0U3cHJNUGlKM0hBNjdHcElKYkUwbkZOaU9jcEZYWVdGcTJ1SFNibFRzYkh1RngzMkpWcHBp?oc=5",
    "time": "2026-11-15T19:19:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "Singapore-Indonesia haze task force should become ASEAN-wide platform: PM Wong",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkJvVmc0ZXZJS0dWZUIwdXlKNXQ0c1BTRnF3Ulh1ejZKaFVIM1ZGVWMwN1pwYTZSSkdISmhaYzdMV2hXa1dQXzYyNjE2b0FwODJ2ZTlBcm5zTXV5UGp1M3Y2QzdkYnBVTGxZbk0tZmFmaDR4Z1l4YnRTcDl6a3BCNGtjY0oyV0IycktTRDRGODY0TExmRFRpc3lJSnU1V00?oc=5",
-   "time": "2026-11-15T18:44:22+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Malaysia and Asean neighbours press for quicker haze response mechanism",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPXzRVZTBBOHlDcTN2U1hfc0c2eGRzTXN3ZE1ncEFpWTZ3Rk00U21mMFZMemJGVHJkX090QS1XdE92R3lINXpYd2ZOenp0YmJkbzU1NHRmVTZndWFKUjVOYVVRUUl5OTFfckJSRVFNcV9LRy1vRnhFZGhMS2E3LUxISG03M1BfNk9tb25QWmJZenZVcFNBZk9OVjhQU2xfcUR4MnNoaUNaYVI3OGtxTmpod1BUN180emNHWGREQ2dVUDBLcjRiSjRSMtIBzgFBVV95cUxQdklTTzFkTjJPQjBzaExQSzhIQlEyN195LUpmUFp3dkVocF93VGRZYVhpVXBYWi1PX1dsWUpnX0RfOXVLMDFDWmhjdEQxU2cyTEJxSmotTzlkbFFBZ0hya3Nhd1NMc2drRm5RM0ZIODdyV0NOZUlxQzU2TVVMc3FVb3RJQUNGMXNSYWVuOFd1aHl5eE85SEtxVlJZbDhJUjVDQWp0SHhFQ1VQNGRPcC1GeUJ5NS1hOFdBNHZIb0MwTmhVb1pjS0QxX3YtZ3pBQQ?oc=5",
    "time": "2026-11-15T11:29:07+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Nikkei Asia",
-   "title": "ASEAN leaders kick off Manila summits as friction persists on Myanmar, haze",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTnFuWHoxVkdBOVNBbmdPZWc5TmkzT29wc2FDT0VHS0RXZ0dNcVRUeWZ0MmNwZG94bENobldjdFE1RXV1TXJpaFBmWXNNelNNM1Iybnd4OTl1V0tVS3ZxOTNsNHA5ZEk2alVEWUtvWFFDLWdxZHBxV2VHY0NHd1NVZGRTbVFvRmVxVDMyVldKWV9RNm1JdVJhdnNsWkhaRi1zOUNaODlDMzBiX3dEejc4WGxieENoblpPNzFneWR6ZnBDTUlYa3I4TXdROA?oc=5",
-   "time": "2026-11-15T10:51:00+08:00",
    "summary": ""
   }
  ]
