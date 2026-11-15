@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-15T10:00:00+08:00",
+ "updated": "2026-11-15T11:00:00+08:00",
  "psi": {
-  "west": 39,
-  "east": 32,
-  "central": 36,
-  "south": 32,
-  "north": 34
+  "west": 36,
+  "east": 33,
+  "central": 35,
+  "south": 33,
+  "north": 33
  },
  "pm25": {
-  "west": 5,
-  "east": 14,
+  "west": 4,
+  "east": 12,
   "central": 4,
-  "south": 8,
-  "north": 9
+  "south": 5,
+  "north": 8
  },
  "hist": [
-  {
-   "t": "2026-11-13T10:00:00+08:00",
-   "psi": {
-    "west": 67,
-    "east": 56,
-    "central": 65,
-    "south": 60,
-    "north": 64
-   }
-  },
   {
    "t": "2026-11-13T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 32,
     "north": 34
    }
+  },
+  {
+   "t": "2026-11-15T11:00:00+08:00",
+   "psi": {
+    "west": 36,
+    "east": 33,
+    "central": 35,
+    "south": 33,
+    "north": 33
+   }
   }
  ],
- "newsUpdated": "2026-11-15T10:06:49+08:00",
+ "newsUpdated": "2026-11-15T11:06:55+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,6 +507,13 @@
    "pinned": true
   },
   {
+   "source": "Nikkei Asia",
+   "title": "ASEAN leaders kick off Manila summits as friction persists on Myanmar, haze",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTnFuWHoxVkdBOVNBbmdPZWc5TmkzT29wc2FDT0VHS0RXZ0dNcVRUeWZ0MmNwZG94bENobldjdFE1RXV1TXJpaFBmWXNNelNNM1Iybnd4OTl1V0tVS3ZxOTNsNHA5ZEk2alVEWUtvWFFDLWdxZHBxV2VHY0NHd1NVZGRTbVFvRmVxVDMyVldKWV9RNm1JdVJhdnNsWkhaRi1zOUNaODlDMzBiX3dEejc4WGxieENoblpPNzFneWR6ZnBDTUlYa3I4TXdROA?oc=5",
+   "time": "2026-11-15T10:51:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "NST Online",
    "title": "Asean pushes for faster operationalisation of haze control hub",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVHNONFRTUE1WNl9vVmhtQlRNR242NEdoUUs3SURzc2FQbUp6cGJOTGFid19XeWRZVGhKbFZVSUNza3dwNHVKandlSTJLR2tKLUdmR0x6XzE2TmRRazNsckt6cWU5M3RPNFZvSzF3UzBkTVZsQVl3UjVoVUYxRHJ4Zm9sb2phS19ScGU0dVhjOTJoVFNnbzhISEFIaTM4RHREYlVYS2hVRDNPWTTSAbABQVVfeXFMTXFjNFJFay12ZGkyMFpPVnpEQ0NoY2cxbkFmT2VwdkJqbWlYRHkzQmIxZ2p5SUd4cHNVRFBTMFEtVHFYYzNYT1FoTWZZUFZFUWxVRm43MTB6VVk5YksxUmRaMVdJOEtsaFB6eWhXZzlTUkgwYWwtSGpXVEJpc3l5Q09Rb3NXUlJWcGxBTFZZT2NicjRZQnc2S01fUm1JUFpZc0xTYmV5ZVdjVk9BWXdVNXA?oc=5",
@@ -514,17 +521,17 @@
    "summary": ""
   },
   {
+   "source": "ABS-CBN",
+   "title": "ASEAN addressing transboundary haze pollution — DFA",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVTdDclNFS2wzYUV0OWNYYjlwRW8tRXhOMElQc19JVEVpOGllRXJ6V1hqQWljSjhzTmpJbDg0Vnk2WG9va3kyNEtuZ0xwSmNtUnZGOW1hdDNsOU80Vm40MHRjS0lZa3o1SGxwd3lWb3YzLXFJYnF3NWVXWnVycE5rZlpycERpYy1wZFYxZGJEbDdlQnZsMjhUSTAxRE1TV1VGRWNZ?oc=5",
+   "time": "2026-11-15T09:22:19+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Star",
    "title": "M’sia seeks stronger Asean cooperation to combat haze",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXhjNFVSVTdtMDdmUDhPcEdMZ0xfV211d3RXUHVEaEdhbENBYWtrYnZONTBuN2ZzUmNkYm1tQmtoTW5oalpFeE9tcmRwVjNZN1hLSUlmVVF5MlZzNTRMbDZUYXJYRTE1eHVwaEg2b0dXcHJKRUpxRUdSRTFuUnVxaVBJeFhmNjczSkJRc2pMOWFxajVLamNybVMzZ3RDaFIydkRBNw?oc=5",
    "time": "2026-11-15T08:04:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ABS-CBN",
-   "title": "ASEAN addressing transboundary haze pollution — DFA",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVTdDclNFS2wzYUV0OWNYYjlwRW8tRXhOMElQc19JVEVpOGllRXJ6V1hqQWljSjhzTmpJbDg0Vnk2WG9va3kyNEtuZ0xwSmNtUnZGOW1hdDNsOU80Vm40MHRjS0lZa3o1SGxwd3lWb3YzLXFJYnF3NWVXWnVycE5rZlpycERpYy1wZFYxZGJEbDdlQnZsMjhUSTAxRE1TV1VGRWNZ?oc=5",
-   "time": "2026-11-15T07:58:40+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Malaysia seeks stronger Asean haze response, sustainable funding, says Tok Mat",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0RVWGY3WnhQRGxhQ2FzU1c4LVo4TDV6akJoYlFSaWJQalB0UzBSMHNfRnlwZ21uTlFoUGVYaUpvUW1LYWlUamtfWmZHb25GTFRmRkp2ckFyQS0xUmdjRjJjNVVBclhvV2xUNnRDZHFkcnJSMWpUTVFVb0VnNGlVU3Z3QVFWc0pheThVTDYzQTMwMUFFemk1VjJlTDBvRWFZUGdHazRYWjh1QUxYZHpHVElWVFhjWGVvQmVHUUdkYkkwT0pH?oc=5",
    "time": "2026-11-14T15:50:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Magzter",
-   "title": "Heat from climate change, El Nino's drought worsened Indonesia haze: Study | The Straits Times - newspaper",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1lfZ0NrMWI2dF9kaThQMEJuQXdVaEJ3d1hwUmJweEQteHJleHFpS3JTOXlzUDFqNnk4R1RFbHVNTFNsX3hGTUNHZFhndWNVcGk0MUNzQVQwbXFDLTRZREVSMGhGUVFUN29HckFjWThvdVVLcFU0MzF6M1FwNndKeWNRYWtGUGtVSFpYakROZlhuOUctVlR6bHhtVDRQajRRREdlQS10RXNvSkUtY0llal9HYm10Z2o3VDRkTnF2bHdVUFFQT3FBUUNGbw?oc=5",
-   "time": "2026-11-14T12:39:16+08:00",
    "summary": ""
   }
  ]
