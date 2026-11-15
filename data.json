@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-16T00:00:00+08:00",
+ "updated": "2026-11-16T01:00:00+08:00",
  "psi": {
-  "west": 46,
-  "east": 43,
+  "west": 47,
+  "east": 42,
   "central": 44,
-  "south": 43,
+  "south": 45,
   "north": 39
  },
  "pm25": {
-  "west": 21,
-  "east": 10,
-  "central": 14,
-  "south": 17,
-  "north": 15
+  "west": 15,
+  "east": 7,
+  "central": 15,
+  "south": 16,
+  "north": 13
  },
  "hist": [
-  {
-   "t": "2026-11-14T01:00:00+08:00",
-   "psi": {
-    "west": 72,
-    "east": 52,
-    "central": 58,
-    "south": 58,
-    "north": 59
-   }
-  },
   {
    "t": "2026-11-14T02:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 43,
     "north": 39
    }
+  },
+  {
+   "t": "2026-11-16T01:00:00+08:00",
+   "psi": {
+    "west": 47,
+    "east": 42,
+    "central": 44,
+    "south": 45,
+    "north": 39
+   }
   }
  ],
- "newsUpdated": "2026-11-16T00:07:08+08:00",
+ "newsUpdated": "2026-11-16T01:06:59+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,31 @@
    "pinned": true
   },
   {
+   "source": "Reuters",
+   "title": "Indonesia president conveys apology to Singapore, Malaysia over wildfire haze",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHo5U295dTNfU3R0MVRNU1FYbkVCc3FtbXgxV2hwOHF0dnptUExXdjFqU0NQR3lldzh3UTlubXpORUNvU3NSdml5T0t2a0M3LUs2ZXBWcGtWM2RRNUNNYVV0c1hScjU0STVyZkg4ZnJ4Skg3ZWhiWF9XWjNQUTZ6SnlPcDg5UmpBdHBuYnEzWjBNV1Q0cm1HaGRSaEpuRXVhZTdFcFNoX0ItcU9MSGdwNmxKU3J6TUUzTnJCbUVVMVNRcEc4czRDTV93?oc=5",
+   "time": "2026-11-16T00:25:41+08:00",
+   "summary": ""
+  },
+  {
+   "source": "UA.NEWS",
+   "title": "President Prabowo apologizes to Singapore and Malaysia for haze — Channel NewsAsia",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXRWZVg0Z1FRMU81TkJsakdkeDZValJIeDdMVEozVnBmbzR2czcyVWNxcklMU3NXNEo2RVM1ZVRSM1ZYSUxXU2dXNjFSQjZhUFdHYUVpX21oeEcyczNQMDlYaHFQaEk1aGdvNmZDNXVqOUw1V19USVNFVmtoU2FQNGduR0otbS1SVXp3cVZFUVpaOThpNnJWZjExNVB4MS1aQkFRbWtJZlEtMHM?oc=5",
+   "time": "2026-11-16T00:13:39+08:00",
+   "summary": ""
+  },
+  {
    "source": "South China Morning Post",
    "title": "Indonesia’s Prabowo apologises to Singapore, Malaysia over transboundary haze",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTEYyekN4N0hlZlhSSGEtOGk1UzJ2dlpPSjJvVG5RSFV1TlhFZnVzZjVUX0R1RmVrZms0S04tcEpYZlVCdU5PNW5XUWMyNGlJQkNranpPZ3lSSVUzS183WE5Uc1BxNV9kTXc2c2kxMnVMRjBFNHpUQm52SGZGUHBQRTNPeG5BSEhLZEUyTmtibjhkdE5FMTZ4SkZUMFhhNGt1WXVDMHJwREFVdzExSHVjR1E0Sm5SVEZQdkVnckd3Q0NKWk0xdXprQ0xTYlhDVERvcE44aFM2MmlIWThvNmVVTVlfVl84cGR1b3l3R09LbEZXZTNyalFSeXJSVmo?oc=5",
    "time": "2026-11-15T23:52:18+08:00",
+   "summary": ""
+  },
+  {
+   "source": "CNA",
+   "title": "Indonesia President Prabowo apologises to Singapore, Malaysia over transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGFzMmx4aHEzR2JEelBSQ242RHg4NDV6bnBYYzRDSzJkcWxLSzB4cWd4ZFI5Qlo5b3lWbERWeFdHWVBZcFF6SGdIcXJiSnFZVFRVdkRJNXNSSGpwd2lXSUhpZXpmeHFsUHN6TjhxdGZVUEZOSl8zT1dkWkI1QzRrNw?oc=5",
+   "time": "2026-11-15T23:32:03+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "M’sia May Face Haze Risk Until May 2027 As Super El Niño Intensifies",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUE1TaThBZENkelJENlg5QmJsM1V1dEVXNzNmRF9mZlBTbHVaLVJTbzEweGVxamJrQlZsZ2dFckZCcXJ0Q2R2eDd1eV9TMklPekhpdGR1RUtEdHlHbFZfSTJmd2JhMDNIQ0MwLS1ZcWZZaVZJalRUNkNqcEJ2UGZOWW1pdzN0VUxwLWRlcFZlZEF3czBv?oc=5",
    "time": "2026-11-15T15:03:05+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Newswav",
-   "title": "M’sia May Face Haze Risk Until May 2027 As Super El Niño Intensifies | WeirdKaya",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeHhZd0tDLXB0c1loLTFfRUVsdzNDZGNBVHByVDB4dVlZaFdiZUhfSmpuT3FqTDUyMUk0T3ZiTG43WFNtdzdNeWZkaC01VGdfbEZGWHBxT2VTUTI0Q0dpLU54VmVUN3hXRnlvbnlzNE5RZ1ZBZ2d0SlMxVmRMZ05sMkgzMGhFRlExVXpiWHJYREkxN3A2VS14WmlzWV96eFB3dXprajFsWjE0dy1OaWt1bGdaZ0JaQ2lGQk9lWVVn?oc=5",
-   "time": "2026-11-15T15:03:05+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Citizens Journal",
-   "title": "Haze in Malaysia has eased, Indonesia says after Manila talks",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZl9hVjZMTDBfbEJtOXZzdmVPT1owVHRQMkx4SnNHR3hDN2R1Mmd0TkNGRmVlVmVfMzZZVHl5T2JTWDZKQzZyZUhSejFoTWNpeUljWkRIVUZpVmRyY1pWUFVGcnVPYlVGb3B3NHEzWWVoRWhIS0poSVY5dV85UlRWaG1RajR1Vm1FM3c?oc=5",
-   "time": "2026-11-15T12:23:21+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ABS-CBN",
-   "title": "ASEAN addressing transboundary haze pollution — DFA",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVTdDclNFS2wzYUV0OWNYYjlwRW8tRXhOMElQc19JVEVpOGllRXJ6V1hqQWljSjhzTmpJbDg0Vnk2WG9va3kyNEtuZ0xwSmNtUnZGOW1hdDNsOU80Vm40MHRjS0lZa3o1SGxwd3lWb3YzLXFJYnF3NWVXWnVycE5rZlpycERpYy1wZFYxZGJEbDdlQnZsMjhUSTAxRE1TV1VGRWNZ?oc=5",
-   "time": "2026-11-15T12:12:19+08:00",
    "summary": ""
   }
  ]
