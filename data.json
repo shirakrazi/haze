@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-15T19:00:00+08:00",
+ "updated": "2026-11-15T20:00:00+08:00",
  "psi": {
-  "west": 39,
-  "east": 39,
-  "central": 38,
-  "south": 37,
-  "north": 37
+  "west": 41,
+  "east": 40,
+  "central": 39,
+  "south": 38,
+  "north": 38
  },
  "pm25": {
-  "west": 14,
-  "east": 12,
+  "west": 24,
+  "east": 11,
   "central": 16,
-  "south": 11,
-  "north": 13
+  "south": 14,
+  "north": 12
  },
  "hist": [
-  {
-   "t": "2026-11-13T19:00:00+08:00",
-   "psi": {
-    "west": 71,
-    "east": 53,
-    "central": 60,
-    "south": 59,
-    "north": 59
-   }
-  },
   {
    "t": "2026-11-13T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 37,
     "north": 37
    }
+  },
+  {
+   "t": "2026-11-15T20:00:00+08:00",
+   "psi": {
+    "west": 41,
+    "east": 40,
+    "central": 39,
+    "south": 38,
+    "north": 38
+   }
   }
  ],
- "newsUpdated": "2026-11-15T19:07:14+08:00",
+ "newsUpdated": "2026-11-15T20:07:07+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Regional platform to tackle haze among ways for ASEAN to manage differences amicably: PM Wong",
+   "url": "https://www.straitstimes.com/singapore/politics/regional-platform-to-tackle-haze-among-ways-for-asean-to-manage-differences-amicably-pm-wong",
+   "time": "2026-11-15T19:59:27+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Philstar.com",
+   "title": "ASEAN Summit Day 1: South China Sea, Indonesia haze, Myanmar review",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVjdDVjBzVGE4eWpTT3Y4R1lrZ19KSEYyRFViRld5QWd2WGYtZnlaLXUwd0FTZl8wQlhUaDFrN04yQlZTZXVjWlB5cVJkSFM3S2JJcW9DM0JORFFUQkh0c2R0MGU1ZDhiVTVqeGNRWTdmZ2VLejA2VEJhZS1XRUxIYlh1QkwzNU1VeFZjTDRBSVI3SE1lSzB5MGVfRVpfOUsxbzFQSDNYWEkxZ2lmcTFUcU5MMmUteVJKc1HSAcABQVVfeXFMUEJINXdfR2JqSFJSMzZYWGhoQ05TN2c3bXIxLVBUOUpsQmxaUlRoaV8yY0pMVUUwcVNfcXhMcVF2ZHBQMnRSRF9STnRjYUk1VXZpaVZldGVFNnZaTEVTWUV3dEZuMDk4SDREeEF1MTJVVkltLXI2amdENTh6RmZWdXZuY1lGbTUtZ0hBX0U3cHJNUGlKM0hBNjdHcElKYkUwbkZOaU9jcEZYWVdGcTJ1SFNibFRzYkh1RngzMkpWcHBp?oc=5",
+   "time": "2026-11-15T19:19:00+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -518,6 +532,13 @@
    "title": "Science diplomacy, sustainable funding vital to stronger Asean haze response",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWVPSndzaFlndGo4bWN3a0VGbVZqY0JuNjFPdUJuSllmaWFHTktuSFNoOHJXV20wQWl2c3ZIbmRqYkN2TGc1cVFabW1RZFNlQzRXRk9oWHNEVjFmR19pZG5XNkVPVGlnLTVTemRrdV9VNUp0THJHSXEyTVBKbVZZNi1Ralo4SFZQNjh6bGxhaDhRLUR1YVhSa25XTngxTlVzYXgwdTExUnVaSXlvWUpiaG0zNmXSAboBQVVfeXFMT1VWWWhiaWdLS3haN1RVdGZ3ZGJ1bVNKZDZpdmNicVp5b2NpVUo5Q3k5X3lYZmFKVWhWX1dmWFJ4ck9RdGpxX0RIREJRc0paT245U1ZhOFdEUVhRa2ZEdHBSWkY5YnJjc2c4RmtRQjRXekJ4emFZalVTaUFBNmpsUGhkQ3BqQkw0Z1ZuNXk5c01BbTR3bXNlZ2RpUHBVaWlIYlpXWXE0czVxZVludlU4ckZvTG95Tzl3RDdR?oc=5",
    "time": "2026-11-15T15:48:43+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Business Times",
+   "title": "PM Wong pitches deeper Asean ties on digital payments, energy and haze",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2gzcmRqeWVSYmpSV3BINUZUeTBZQkZneEl5UVVITXh2Sk9zZTlCQ0FLcWhmMVRJSXliNEZVTk1QaGpFYm80TzlSMGRPSzZJNlp4Y2ZJRnBMSzZ0SzlwQ0g3Tk85WkJKNVJIQ0lvREJjTXBIUlZJY29MMkhUdzF0aXM0T2wyNHVVOFF3MUY2akhHZ0ZqdlBwN1RXdWdZNDk1T3lFTGtDTC1RR3FDQkpqS3FZQURyWm5YMWRJ?oc=5",
+   "time": "2026-11-15T15:36:00+08:00",
    "summary": ""
   },
   {
@@ -574,27 +595,6 @@
    "title": "ASEAN leaders kick off Manila summits as friction persists on Myanmar, haze",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTnFuWHoxVkdBOVNBbmdPZWc5TmkzT29wc2FDT0VHS0RXZ0dNcVRUeWZ0MmNwZG94bENobldjdFE1RXV1TXJpaFBmWXNNelNNM1Iybnd4OTl1V0tVS3ZxOTNsNHA5ZEk2alVEWUtvWFFDLWdxZHBxV2VHY0NHd1NVZGRTbVFvRmVxVDMyVldKWV9RNm1JdVJhdnNsWkhaRi1zOUNaODlDMzBiX3dEejc4WGxieENoblpPNzFneWR6ZnBDTUlYa3I4TXdROA?oc=5",
    "time": "2026-11-15T10:51:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Asean pushes for faster operationalisation of haze control hub",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVHNONFRTUE1WNl9vVmhtQlRNR242NEdoUUs3SURzc2FQbUp6cGJOTGFid19XeWRZVGhKbFZVSUNza3dwNHVKandlSTJLR2tKLUdmR0x6XzE2TmRRazNsckt6cWU5M3RPNFZvSzF3UzBkTVZsQVl3UjVoVUYxRHJ4Zm9sb2phS19ScGU0dVhjOTJoVFNnbzhISEFIaTM4RHREYlVYS2hVRDNPWTTSAbABQVVfeXFMTXFjNFJFay12ZGkyMFpPVnpEQ0NoY2cxbkFmT2VwdkJqbWlYRHkzQmIxZ2p5SUd4cHNVRFBTMFEtVHFYYzNYT1FoTWZZUFZFUWxVRm43MTB6VVk5YksxUmRaMVdJOEtsaFB6eWhXZzlTUkgwYWwtSGpXVEJpc3l5Q09Rb3NXUlJWcGxBTFZZT2NicjRZQnc2S01fUm1JUFpZc0xTYmV5ZVdjVk9BWXdVNXA?oc=5",
-   "time": "2026-11-15T09:31:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "M’sia seeks stronger Asean cooperation to combat haze",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXhjNFVSVTdtMDdmUDhPcEdMZ0xfV211d3RXUHVEaEdhbENBYWtrYnZONTBuN2ZzUmNkYm1tQmtoTW5oalpFeE9tcmRwVjNZN1hLSUlmVVF5MlZzNTRMbDZUYXJYRTE1eHVwaEg2b0dXcHJKRUpxRUdSRTFuUnVxaVBJeFhmNjczSkJRc2pMOWFxajVLamNybVMzZ3RDaFIydkRBNw?oc=5",
-   "time": "2026-11-15T08:04:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "thechronicle.com.ph",
-   "title": "ASEAN FMs bat to operationalize transboundary haze control hub",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmpLNktXcjE2bFl0YmJIOXdrZ2hnOWZoeDVnUXd3V0Y4X1JxeGpSUWdKVGd4Zk5LYnppNFBabEJESkpJV0FEYnpqVU5MSDZrRzdnSWo0cTNRWkswN0ZvVlBjSVlDbW1fakRoUEw4anF1ZWpvMnNrX001MTZjam1mOGhPMWhzejRGSWpzV3l5X0ZkV3diN2c?oc=5",
-   "time": "2026-11-15T07:27:05+08:00",
    "summary": ""
   }
  ]
