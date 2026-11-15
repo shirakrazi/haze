@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-16T06:00:00+08:00",
+ "updated": "2026-11-16T07:00:00+08:00",
  "psi": {
   "west": 53,
-  "east": 42,
+  "east": 41,
   "central": 51,
   "south": 51,
-  "north": 41
+  "north": 42
  },
  "pm25": {
   "west": 18,
-  "east": 6,
-  "central": 21,
-  "south": 15,
+  "east": 9,
+  "central": 13,
+  "south": 8,
   "north": 17
  },
  "hist": [
-  {
-   "t": "2026-11-14T07:00:00+08:00",
-   "psi": {
-    "west": 78,
-    "east": 54,
-    "central": 62,
-    "south": 59,
-    "north": 61
-   }
-  },
   {
    "t": "2026-11-14T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 51,
     "north": 41
    }
+  },
+  {
+   "t": "2026-11-16T07:00:00+08:00",
+   "psi": {
+    "west": 53,
+    "east": 41,
+    "central": 51,
+    "south": 51,
+    "north": 42
+   }
   }
  ],
- "newsUpdated": "2026-11-16T06:07:09+08:00",
+ "newsUpdated": "2026-11-16T07:06:51+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Gulf Daily News (Bahrain)",
+   "title": "Jakarta apologises over wildfire haze",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWNuR3RBNk5mVGg3OXNfUUktQjJVRmZPTzVIb1AtR1lSOGhlWE9Pdy05ZF8zalNCc0k5SlJaYVozOW0xMzlxVG43YV8wNWRaT2FwcjdGdkE3X2hOaXlFenBPYm5sNzFQRkZRUzBkNE5BZTAwS0NGV3VsY0JmNlRBZ3ZDY2owZw?oc=5",
+   "time": "2026-11-16T06:21:33+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Kompas.com",
+   "title": "Prabowo Addresses Haze Issue at ASEAN Summit: Smoke Reaching Singapore-Malaysia Is Not Our Fault",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMEtOZWo2cmZ5YnVoS3pEdnUtUDJPYXVaclJLMWJEY2ZjblRyM0dhYmtwQjlZbnZSTzJHRm9kWFVOaFAzaUFtMV9EV3lFTy1MaXZTa3NIOGJocjR3c0tIbFJaUk9hdTUzZFhPemhNbTdDZ0lZMF9DdmRWbmZ4VHhBanl3VlMzRTNqQlJqdnRETHlmSWFUa0FJN1ZNQ25zRy1aVVVNTERkc1ZpeERrUGJTdWZ3ZktNaEViT2d2MTJTRU9vRmRESFZxVw?oc=5",
+   "time": "2026-11-16T06:15:28+08:00",
+   "summary": ""
+  },
+  {
+   "source": "JournalArta",
+   "title": "Prabowo Apologizes to Singapore, Malaysia Over Haze at ASEAN Summit",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN1U3a3FfRnZoNGVmRnpNRUZSU2g3eGR4OGhGM1RIWUtkaG9OY0NIWVRobkhjcUtuTDc0ZHQyaWZzUHY3Yk9sLUVZbFhYTUs5SDF6TF84UF93ci1Kak5SYWNBakdxX1BOOEczOXQ5cGNXckNORjFuYUpidUtTel9OUHRFM19oT1pJZE9wX0lOTGh0N0RxNkVjOENWcDM?oc=5",
+   "time": "2026-11-16T06:13:32+08:00",
+   "summary": ""
   },
   {
    "source": "Jakarta Globe",
@@ -574,27 +595,6 @@
    "title": "Singapore-Indonesia haze task force should become ASEAN-wide platform: PM Wong",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbEF1V1JJN0tZZDI0VjlacEFDVFNzTU95Umlhc1dLcjRVZTh6QklPMDNjaDhhRUFQdl8teHVjcXAwOVJTWnhqS0tzbXJsVlNwRW9DUlIyb3VVT2x4RGlvYXoxRktmeFlaVE83MUhaNWpBWEJxRGMwdmJxbDUyS0d2ZGhYNVp1OUtEbGtybUNMMExycHQxZGg1X0V4MWRCS1hvYVl5S1B6WFc5eW1GdXRjQjJXY2lfaUgwSDVab1JwckE?oc=5",
    "time": "2026-11-15T22:50:29+08:00",
-   "summary": ""
-  },
-  {
-   "source": "JournalArta",
-   "title": "Lawrence Wong Wants Haze Task Force Expanded to All of ASEAN",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEZLSEgzaDVaQi0tUUhMNE1uVjBNeHc1dzB3QVU3Y016aEs3ZjM2WUV6eTVlMzFjLUZmTFpQN3c0NG84WE5PRmZRMGxJYmhKNmFwNEhLaGlMc0ZlWUI2YnVYV3dtRVF1X1B0UnEta0pHY2JSY2RoT2tadGpJUG55SzlrdHFnazl2VnRIVmtTX2VLMlllTUJpdDJ3TEU?oc=5",
-   "time": "2026-11-15T20:51:42+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Regional platform to tackle haze among ways for ASEAN to manage differences amicably: PM Wong",
-   "url": "https://www.straitstimes.com/singapore/politics/regional-platform-to-tackle-haze-among-ways-for-asean-to-manage-differences-amicably-pm-wong",
-   "time": "2026-11-15T19:59:27+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "PM Wong calls for setting up of regional platform to tackle haze issue",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOFhxWHVMYXJROE1fYjdQQXllaGx2X29uX213b2dPVmkwMDBSVFg2NVZwellwbTV6Tnp6cHBQcmg2VmZ4VFBmNGtPM1JGTGhqLVFGQ21uLUtQV1NZME12ZHlvdW5rNUUya2NSSzFadUlwa2FSc2psUHdmRThPNzF6d3lsVlR3SHlRNTFJWXY5YVVDc19CZVZjTDY3RTlsSGdoZnhmaDFtbWY3d3NNU0EzTm5wa3BPUjN4ZzljZHJaTkhzc3pQbTJyWDg5U2trOHNrdWJiM21FYw?oc=5",
-   "time": "2026-11-15T19:59:00+08:00",
    "summary": ""
   }
  ]
