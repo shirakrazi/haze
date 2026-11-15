@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-15T11:00:00+08:00",
+ "updated": "2026-11-15T12:00:00+08:00",
  "psi": {
-  "west": 36,
+  "west": 34,
   "east": 33,
-  "central": 35,
+  "central": 34,
   "south": 33,
-  "north": 33
+  "north": 32
  },
  "pm25": {
-  "west": 4,
-  "east": 12,
-  "central": 4,
-  "south": 5,
-  "north": 8
+  "west": 8,
+  "east": 9,
+  "central": 5,
+  "south": 7,
+  "north": 6
  },
  "hist": [
-  {
-   "t": "2026-11-13T11:00:00+08:00",
-   "psi": {
-    "west": 68,
-    "east": 55,
-    "central": 65,
-    "south": 60,
-    "north": 64
-   }
-  },
   {
    "t": "2026-11-13T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 33,
     "north": 33
    }
+  },
+  {
+   "t": "2026-11-15T12:00:00+08:00",
+   "psi": {
+    "west": 34,
+    "east": 33,
+    "central": 34,
+    "south": 33,
+    "north": 32
+   }
   }
  ],
- "newsUpdated": "2026-11-15T11:06:55+08:00",
+ "newsUpdated": "2026-11-15T12:07:07+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Citizens Journal",
+   "title": "Haze in Malaysia has eased, Indonesia says after Manila talks",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZl9hVjZMTDBfbEJtOXZzdmVPT1owVHRQMkx4SnNHR3hDN2R1Mmd0TkNGRmVlVmVfMzZZVHl5T2JTWDZKQzZyZUhSejFoTWNpeUljWkRIVUZpVmRyY1pWUFVGcnVPYlVGb3B3NHEzWWVoRWhIS0poSVY5dV85UlRWaG1RajR1Vm1FM3c?oc=5",
+   "time": "2026-11-15T11:59:11+08:00",
+   "summary": ""
+  },
+  {
+   "source": "BusinessToday Malaysia",
+   "title": "ASEAN Ministers Urged To Fast Track Centralised Transboundary Haze Monitoring System",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1ZKcVE1RGhMbmpZMG1ic1pVWDBUTTBlS0VUQnVkaGRJdmxlcGN6aHIzVDFrVy1jaGpwTk9pUFY5LVF5ajd0a2tRVkRSdkYzQ192VEtTWk1fX09VWVAzUTNXZkttXzVjTlgwRGF1cGJmZjU2ZHlXQzROZHEySTVVdWtjTkJKcnl1OVRabXNzRlhwcHpEWGlseURVYjlFNF9Ecmp5UFk5XzRiUWVhOFRzUDV0RGktdUtGY3Q0akNaQk5TY1pYeHUwdg?oc=5",
+   "time": "2026-11-15T11:50:27+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Newswav",
+   "title": "ASEAN FMs urge speedy operationalisation of transboundary haze control hub",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlJodlJud1FQdUdNWXJOVWZPcElsUjFpSFdLRXNtbHd6M19iMFhiekxmMWtsWkM5cTNvRm93UjdlR2pxRWREbEs5N2NybU13b3pzRS10UVZ5UTRadGNNbmJSQVNrT2RyMFVDUVVONFhSSmpIeGZUc09iZkhGbmtKcU1SbVN1WHM4U2wxYjhLTXdwVTlXa0dMYzBTanVxUl9aVUgxdWMyYW9HNWhtQ0VBWTN3Q1lQdw?oc=5",
+   "time": "2026-11-15T11:48:39+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Newswav",
+   "title": "Malaysia and Asean neighbours press for quicker haze response mechanism",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb1BuS3U3azlDeGpCU0xTbnpLSm9zTHV2M3JfNnNoczYzX0ZqUC1iWk5DekpHeWpqTVdkZjVRa25Na0hLRmxmVmdWck1fcW9VSGZaRTlWVDZpeVRzNzhqWXBMNEp2SmxJalF6YWhkN2Vvd1pkazU4V1kxZHJiSDZ0SDdPSEE1OWVPZm9JeXFQTDZMcEo2SkFjM3lrYURXUm9TTHFMWDMtWTlJWFZGamRLTi1n?oc=5",
+   "time": "2026-11-15T11:19:19+08:00",
+   "summary": ""
   },
   {
    "source": "Nikkei Asia",
@@ -567,34 +595,6 @@
    "title": "Malaysia proposes sustainable haze fund at Asean meeting",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRmgyOVFaa3RqTVFEM2lieHhCelRiX1ViOXFlQkp0N05QSGFWYkVKblVCZWhmYjNFQjVSRktyUDBnc3F0OUFvYXo1aVJSVTNFb01UNkFjcHhBRlhDZ1NQOVZ2Y0haSktKSGdRdkZ6M1ljUUcxS3VFV25VMnFtZGFwck55VlJYMGZHcWhYVUxtcFpUZWkw?oc=5",
    "time": "2026-11-14T18:47:23+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Greenpeace",
-   "title": "New Report on Transboundary Haze: ASEAN Govts Must Stop Dodging Responsibility",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN1FRSmNLM3ZfYTlmOWZMU0d6Q2Foc09sSzZqRnlmYnpCSnpzbWJIVjVmMFktNGhPVnA5UEZXQWN6QzZnSWJuVlB2Q3djcVZiVVlhVXBKUUY4VFhwRGhoeGNLWThpSFBXcWVmV0htY2c4VGxoSzNFWF9SelR1aWEtMW02R2RCSm50VmljTlpWNTlBd3V6Q0ZramE3YmFqeTRMNDB1TzdqbVVGTFZuS0llZFA1RUR2RkgxUm5WVlNKWkhweWd4V3RUZVlGWQ?oc=5",
-   "time": "2026-11-14T18:15:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Malaysia pushes for stronger scientific cooperation to tackle Asean haze",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR21DLXFENmlNNHNWdkhFbnFSTHAzNEhDQWFnNm9xX1B0Zlc0ckEwSWdFalZNMWJlQS1xTElzSGl4SnZOTUtHSTJ4dmZCRzJ5RGR6Q0xDSjBqNUhBZ25PTHUxWDhLTF9heHpEdWpxMU1CaXl0bHQ1dG5NeVY4VFllWEZWcXQ0b0VZZW42MWhOVVM0ZzVvSGZUSlRCYzBxWmJXWm94Q3dYUmJBQi1WVVZoOEszUWN4bFRJeEFHeFhkTQ?oc=5",
-   "time": "2026-11-14T16:27:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Malaysia proposes Sustainable Haze Fund, science diplomacy for transboundary haze fight at Asean meeting, says Tok Mat",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQOUJEZDQyVTBuUTZfSXhPdlZMTGk0czVNUDAzTUszU0RJZ3VobmlMYkswd3lpLWJOcHpDMEdXa0dPR2RMT01mYmQ5eFhIR2ZBeExYcjRncW9MVDJxOWpRU1RrcGwteTNEcEs5dF9qZEFzeWVtNDJmc0U0bEkzYW1pbkxJQ3AxYmZqaFBEU0djelpiTmdPSDQ3X1NLVlBrWnpGc2dDSk0ycFlxTkdWVEhFdklBN1Z4dVJNcjh4dVczOVpDSW9Fa0pQZGd6V3VnM0E2OU1FZF9mQXBDVnNiSURQOFRZRFZPMkJHR19HNWhoY3YtWGpOcWN1elJBcGJaWDNkd25WTXJtaV9jZ9IBigJBVV95cUxQOUJEZDQyVTBuUTZfSXhPdlZMTGk0czVNUDAzTUszU0RJZ3VobmlMYkswd3lpLWJOcHpDMEdXa0dPR2RMT01mYmQ5eFhIR2ZBeExYcjRncW9MVDJxOWpRU1RrcGwteTNEcEs5dF9qZEFzeWVtNDJmc0U0bEkzYW1pbkxJQ3AxYmZqaFBEU0djelpiTmdPSDQ3X1NLVlBrWnpGc2dDSk0ycFlxTkdWVEhFdklBN1Z4dVJNcjh4dVczOVpDSW9Fa0pQZGd6V3VnM0E2OU1FZF9mQXBDVnNiSURQOFRZRFZPMkJHR19HNWhoY3YtWGpOcWN1elJBcGJaWDNkd25WTXJtaV9jZw?oc=5",
-   "time": "2026-11-14T16:05:20+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Malaysia seeks stronger Asean haze response, sustainable funding, says Tok Mat",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0RVWGY3WnhQRGxhQ2FzU1c4LVo4TDV6akJoYlFSaWJQalB0UzBSMHNfRnlwZ21uTlFoUGVYaUpvUW1LYWlUamtfWmZHb25GTFRmRkp2ckFyQS0xUmdjRjJjNVVBclhvV2xUNnRDZHFkcnJSMWpUTVFVb0VnNGlVU3Z3QVFWc0pheThVTDYzQTMwMUFFemk1VjJlTDBvRWFZUGdHazRYWjh1QUxYZHpHVElWVFhjWGVvQmVHUUdkYkkwT0pH?oc=5",
-   "time": "2026-11-14T15:50:00+08:00",
    "summary": ""
   }
  ]
