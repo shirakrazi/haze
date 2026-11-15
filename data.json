@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-16T05:00:00+08:00",
+ "updated": "2026-11-16T06:00:00+08:00",
  "psi": {
-  "west": 52,
-  "east": 41,
-  "central": 49,
-  "south": 50,
-  "north": 39
+  "west": 53,
+  "east": 42,
+  "central": 51,
+  "south": 51,
+  "north": 41
  },
  "pm25": {
-  "west": 20,
-  "east": 4,
-  "central": 19,
-  "south": 11,
-  "north": 11
+  "west": 18,
+  "east": 6,
+  "central": 21,
+  "south": 15,
+  "north": 17
  },
  "hist": [
-  {
-   "t": "2026-11-14T06:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 54,
-    "central": 61,
-    "south": 59,
-    "north": 61
-   }
-  },
   {
    "t": "2026-11-14T07:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 50,
     "north": 39
    }
+  },
+  {
+   "t": "2026-11-16T06:00:00+08:00",
+   "psi": {
+    "west": 53,
+    "east": 42,
+    "central": 51,
+    "south": 51,
+    "north": 41
+   }
   }
  ],
- "newsUpdated": "2026-11-16T05:07:16+08:00",
+ "newsUpdated": "2026-11-16T06:07:09+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Jakarta Globe",
+   "title": "Prabowo Apologizes to Singapore, Malaysia Over Transboundary Haze",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTUxYUUF4a1ZNckhMaUFSNExOZ3BhQnhFekF3UFVhd2k5and0WEtIYnJWYldHQkJBYXFiR2l1dGJWemE5LWlxN2xUV1NULUFuNHdyWXhITE1xVV83T1VQMlRTNnJIRG5xQWlQYUQtUFJjckpKRC1ON2VWV3lMUm4tWDk5dGVCWHRnRGVSSms4V2RWeGJVNTYwRA?oc=5",
+   "time": "2026-11-16T05:25:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Goody Feed",
+   "title": "Indonesia’s Prabowo Apologises to Singapore and Malaysia Over Haze",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNndseTN6R2hzNmRIN3lVTGhTck5KRlZESXdEZ2FZUTlhdnd4eTAtckcwRzBsRmFtZzN2ZnlNRG5DVkpsMnJqSTl2MDkzR3dnMlVWTWRpenpZTElOMzdkQ2xjYXpneWlMcHRiNUhLdDYzOWdSRXJ6blBBVm9JU3I5Q2JTR28wTFk0RHVSVkxQMktHZw?oc=5",
+   "time": "2026-11-16T05:15:18+08:00",
+   "summary": ""
   },
   {
    "source": "Українські Національні Новини (УНН)",
@@ -581,20 +595,6 @@
    "title": "PM Wong calls for setting up of regional platform to tackle haze issue",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOFhxWHVMYXJROE1fYjdQQXllaGx2X29uX213b2dPVmkwMDBSVFg2NVZwellwbTV6Tnp6cHBQcmg2VmZ4VFBmNGtPM1JGTGhqLVFGQ21uLUtQV1NZME12ZHlvdW5rNUUya2NSSzFadUlwa2FSc2psUHdmRThPNzF6d3lsVlR3SHlRNTFJWXY5YVVDc19CZVZjTDY3RTlsSGdoZnhmaDFtbWY3d3NNU0EzTm5wa3BPUjN4ZzljZHJaTkhzc3pQbTJyWDg5U2trOHNrdWJiM21FYw?oc=5",
    "time": "2026-11-15T19:59:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Philstar.com",
-   "title": "ASEAN Summit Day 1: South China Sea, Indonesia haze, Myanmar review",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVjdDVjBzVGE4eWpTT3Y4R1lrZ19KSEYyRFViRld5QWd2WGYtZnlaLXUwd0FTZl8wQlhUaDFrN04yQlZTZXVjWlB5cVJkSFM3S2JJcW9DM0JORFFUQkh0c2R0MGU1ZDhiVTVqeGNRWTdmZ2VLejA2VEJhZS1XRUxIYlh1QkwzNU1VeFZjTDRBSVI3SE1lSzB5MGVfRVpfOUsxbzFQSDNYWEkxZ2lmcTFUcU5MMmUteVJKc1HSAcABQVVfeXFMUEJINXdfR2JqSFJSMzZYWGhoQ05TN2c3bXIxLVBUOUpsQmxaUlRoaV8yY0pMVUUwcVNfcXhMcVF2ZHBQMnRSRF9STnRjYUk1VXZpaVZldGVFNnZaTEVTWUV3dEZuMDk4SDREeEF1MTJVVkltLXI2amdENTh6RmZWdXZuY1lGbTUtZ0hBX0U3cHJNUGlKM0hBNjdHcElKYkUwbkZOaU9jcEZYWVdGcTJ1SFNibFRzYkh1RngzMkpWcHBp?oc=5",
-   "time": "2026-11-15T19:19:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Science diplomacy, sustainable funding vital to stronger Asean haze response",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWVPSndzaFlndGo4bWN3a0VGbVZqY0JuNjFPdUJuSllmaWFHTktuSFNoOHJXV20wQWl2c3ZIbmRqYkN2TGc1cVFabW1RZFNlQzRXRk9oWHNEVjFmR19pZG5XNkVPVGlnLTVTemRrdV9VNUp0THJHSXEyTVBKbVZZNi1Ralo4SFZQNjh6bGxhaDhRLUR1YVhSa25XTngxTlVzYXgwdTExUnVaSXlvWUpiaG0zNmXSAboBQVVfeXFMT1VWWWhiaWdLS3haN1RVdGZ3ZGJ1bVNKZDZpdmNicVp5b2NpVUo5Q3k5X3lYZmFKVWhWX1dmWFJ4ck9RdGpxX0RIREJRc0paT245U1ZhOFdEUVhRa2ZEdHBSWkY5YnJjc2c4RmtRQjRXekJ4emFZalVTaUFBNmpsUGhkQ3BqQkw0Z1ZuNXk5c01BbTR3bXNlZ2RpUHBVaWlIYlpXWXE0czVxZVludlU4ckZvTG95Tzl3RDdR?oc=5",
-   "time": "2026-11-15T15:48:43+08:00",
    "summary": ""
   }
  ]
