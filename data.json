@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-17T05:00:00+08:00",
+ "updated": "2026-11-17T06:00:00+08:00",
  "psi": {
   "west": 37,
-  "east": 36,
-  "central": 46,
-  "south": 33,
+  "east": 37,
+  "central": 44,
+  "south": 32,
   "north": 47
  },
  "pm25": {
-  "west": 12,
-  "east": 6,
-  "central": 14,
-  "south": 5,
-  "north": 11
+  "west": 16,
+  "east": 11,
+  "central": 12,
+  "south": 11,
+  "north": 17
  },
  "hist": [
-  {
-   "t": "2026-11-15T06:00:00+08:00",
-   "psi": {
-    "west": 54,
-    "east": 38,
-    "central": 50,
-    "south": 38,
-    "north": 45
-   }
-  },
   {
    "t": "2026-11-15T07:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 33,
     "north": 47
    }
+  },
+  {
+   "t": "2026-11-17T06:00:00+08:00",
+   "psi": {
+    "west": 37,
+    "east": 37,
+    "central": 44,
+    "south": 32,
+    "north": 47
+   }
   }
  ],
- "newsUpdated": "2026-11-17T05:07:26+08:00",
+ "newsUpdated": "2026-11-17T06:07:07+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "JournalArta",
+   "title": "Prabowo Apologizes to ASEAN Leaders for Haze Over Singapore, Malaysia",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY05XX3hDSHZUY3QzQjExVmIwWEJPUEEwamcxU05SdjhpY3NfREF2M01xWEpPVXpvZ0twbHBhQmRYUVBNYXRfT1RkaWRScktraVB5dHhkZUNBMUpUWXJEMnhJMkJfUDV3SWlBV2JRcDQyOUpoNTJ2MVJqc1hIS1FEd09mRlBGSXJHXzhQdnBOVlZRLUdfSFk4?oc=5",
+   "time": "2026-11-17T04:12:26+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NHKニュース",
+   "title": "ASEAN vows to tackle transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fODFYZ3Z3WFgzM3I4cWhRYWpTbktCRlhUMG5sekZxQV9lckxUMFBZNDdpR3dFZ2ZwX1FkcUFMVExJaEoyOGhKV0pKQXVDYUk1QmdUTWlkby0wc3JmRWJIbWNNcw?oc=5",
+   "time": "2026-11-17T03:13:22+08:00",
+   "summary": ""
   },
   {
    "source": "www.planb.sg",
@@ -581,20 +595,6 @@
    "title": "Singapore PM pushes for Asean-wide crackdown on firms behind forest fires causing haze",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNmNNa1haNjV1Tk9HNTE5RmlReFpHT2wzakstQm9CYmkzSEhPdzdGSzhzLUFvQVhlMWt4ZEVySkszeWN1RFViUlcyX0JYdXZkOVg5bTRfSF9DYW5hMXdoSUJzWkUzN1daVUpzRldTNkJ2Y2ltRkptVGJaS0loaVpOcFF0aWtjQ1ZSM2lhTFZGcmtXOTk1SGNQN0VCMEttQnQ0ZVhNTkFMTWw2bjB4b21YM25OdV9ITGxfZlU4eTJIel9JUXBCcW5IRi1nNUU1MTdVbThsR1pnblRGQQ?oc=5",
    "time": "2026-11-16T18:14:54+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Australian",
-   "title": "Clearing the air: Indonesia says sorry for toxic haze from bushfires",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTmV2d1VKM0hVRF9WenZfdDgyQUpZNW1wNjBVLWhNVjdaV3NjS1dZcU9xcGFmZ3FZc2l5X1ZVRFdOTVpDajVTLS1ESTdKWWNIV3NrTXFoXzlxX2ZfcEtfSEdVbmtXNzRCWlhlSHB0N0hGdE1uR21XTWFnWng5ajVULTZTVzhEb0htQkdkRmsyOFZtdEZXUmRqRWh6d2YyM1dOM1FvYTQ0QzhhYUpHNTBaRmZVYzJIX09DNGR0N1hYN2pmTFg3S2FWYjhUWW9PSGxjZE9ULVJvMEl3a21SQzlyUzNXclBOemVpYWdhdmF3?oc=5",
-   "time": "2026-11-16T17:57:51+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Must Share News",
-   "title": "Indonesian President Prabowo Subianto apologises to S’pore & M’sia over transboundary haz ...",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tTERxd2cxSUgxcW04bVg2dk9zY0tvblhqZmsxS0UweTRBcWNPSDhtSDJ2X29MbGpPUGFfVnFFdTdOWml3cUdkdTNnUm9CQVNPZ1g5eGt1LUZOS2R1STAw0gFkQVVfeXFMT1l1ZUYyMWtmbE5aWmFlMDhHWXNCcF9CUVF3TnFSQlVLMUtJTjQ3VW02OGdlZW5OSjFIRlNnbGQyQmVmSWJtTk12dEV3dGZZZ1dwb18xVmljc2VRNkpEN0U3WVEyOQ?oc=5",
-   "time": "2026-11-16T17:33:45+08:00",
    "summary": ""
   }
  ]
