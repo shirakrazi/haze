@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-16T17:00:00+08:00",
+ "updated": "2026-11-16T18:00:00+08:00",
  "psi": {
   "west": 54,
   "east": 42,
   "central": 53,
-  "south": 48,
+  "south": 47,
   "north": 48
  },
  "pm25": {
-  "west": 18,
-  "east": 19,
-  "central": 15,
-  "south": 12,
-  "north": 9
+  "west": 6,
+  "east": 12,
+  "central": 21,
+  "south": 7,
+  "north": 11
  },
  "hist": [
-  {
-   "t": "2026-11-14T18:00:00+08:00",
-   "psi": {
-    "west": 72,
-    "east": 53,
-    "central": 60,
-    "south": 55,
-    "north": 57
-   }
-  },
   {
    "t": "2026-11-14T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 48,
     "north": 48
    }
+  },
+  {
+   "t": "2026-11-16T18:00:00+08:00",
+   "psi": {
+    "west": 54,
+    "east": 42,
+    "central": 53,
+    "south": 47,
+    "north": 48
+   }
   }
  ],
- "newsUpdated": "2026-11-16T17:07:29+08:00",
+ "newsUpdated": "2026-11-16T18:07:00+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,27 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Must Share News",
+   "title": "Indonesian President Prabowo Subianto apologises to S’pore & M’sia over transboundary haz ...",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tTERxd2cxSUgxcW04bVg2dk9zY0tvblhqZmsxS0UweTRBcWNPSDhtSDJ2X29MbGpPUGFfVnFFdTdOWml3cUdkdTNnUm9CQVNPZ1g5eGt1LUZOS2R1STAw0gFkQVVfeXFMT1l1ZUYyMWtmbE5aWmFlMDhHWXNCcF9CUVF3TnFSQlVLMUtJTjQ3VW02OGdlZW5OSjFIRlNnbGQyQmVmSWJtTk12dEV3dGZZZ1dwb18xVmljc2VRNkpEN0U3WVEyOQ?oc=5",
+   "time": "2026-11-16T17:33:45+08:00",
+   "summary": ""
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Does Prabowo’s haze apology mark an Asean reset for Indonesia?",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdUlLZF9kQ1FCQU9kVXduTzhhMmlwaHFEX3V1ekg5dnhiN2ZsYkx2MmNvX3lkNG5VUWFKbGFMWEgxVno0S1JMaklHWHdaWmtBSU5GSGpwM0JsZkE0eklVRUIxd0tnMEx1QmYtOVpiT1BjVW1aQ1JhRWNZT0FFS1RUTWNlRmdwWXJ0bE95NmJnVFEwYTFjYjhmNmFjSHNfeWdhc3ZSZm1uYW1GSUp6NkhXYW03LVJkOEh2cFJ5VjFNTkFwUdIBwgFBVV95cUxQcjdIdEtlcU1EVEswMm16Z0tKUnBERF9KdEZEM1QwSFo2TW9adFhGWld5ZXUxa0JBWUxkOWlBZksxU2NGS1h4R01MYlJJR1Y0NTJhcXVac0pjbGJWZGhpWUI4RXpvYUFrZ2Z0ZnJZSlRWZXF4RmgzQjFJOEwtdmMxZUNuVHdpYlVIN21pUUg2MENRVlV6RFFkaHhNRVp1ZENlTThDTDUwbjBIVzNJaDZwTkFqQVoxZnA1SUYwMkotWkJuQQ?oc=5",
+   "time": "2026-11-16T17:30:07+08:00",
+   "summary": ""
+  },
+  {
+   "source": "www.planb.sg",
+   "title": "Netizens Question Prabowo's Haze Apology After He Says \"It Is Not Our Fault\"",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTjREZjFDMm9FX0dDNjVZdjB6dV9rcExRcU1ZQW8zb3YtdWs5ZklaSGFfOU9McGViMXpMazVjWXNjUmgtN3V6b2lFWWxkUEVvT3NlSXIwWXlFMTA2NzQwWUQwdS16aTVkVWpxaVVKT0hwczZnZzctazRLdll2Y1F6WFA4SUxUQ2ZCaFZzc05IYXBQaFJxU1h2Q2RsSnVhV3A4VWc?oc=5",
+   "time": "2026-11-16T17:10:47+08:00",
+   "summary": ""
   },
   {
    "source": "CNA",
@@ -574,27 +595,6 @@
    "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
    "time": "2026-11-16T12:45:03+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Financial Times",
-   "title": "Indonesia apologises to neighbours for toxic haze",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSkEwVXVxTEZDam4zZmhsZ0NqQzVzMU1SR3I1aEtja0ViMWxpcGFERUZmclkwLWQzUXJmUnY4MHd5X09vM0pZZDRJQWtfQ3ozRTJ6MDBIMzJEZGkwalA0M2JDMF9CejBPMmZxVHRKRlhHLWNkUkR3UGt3TjFta3VqSHl2QjY?oc=5",
-   "time": "2026-11-16T12:13:05+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Sarawak Tribune",
-   "title": "Prabowo Apologises To Malaysia, Singapore Over Transboundary Haze",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzRNcV9DN3dSMlZxbmJPVGx2NDZ3cW1jV1BLTlg4eTlHLTNGak1tb2hjNVJFLTVYMkFPdTZ1RXB2WkVKUmZMWEhOZlhVWk1zZVdFYjRRUkMxX2dzZEx2bnd1U2xyUnBrcTJfLVFUUHE5QjZleENuRWhBcFFmNXJqdDJicVJtbkJBamFhNlZNUUxKclFSakFLQnI3YlI?oc=5",
-   "time": "2026-11-16T12:09:28+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ABS-CBN",
-   "title": "Indonesia apologizes to Malaysia, Singapore over wildfire haze",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUI3ZnBTRVpBWEd2UkU5TTZfT0JhZFpJdDhLM21xVUF4cmQxM2V2QmlnbllCV1lscjdDaE9LVjRPYlhmTE8tYS1GRFo1bjhtTmpkeVpYTDJQMHhRN04tUGFoNFhfbkZGU1c0VkwyaDcwVVAtT0VHbm1fNE5FMk9hUnRTVHliSW1PUmdkY1g1bmc0NEhzSU9LNXBpcUZ1WG11Q2FkZHNVNDVCckM4S0hVNlR3?oc=5",
-   "time": "2026-11-16T12:06:45+08:00",
    "summary": ""
   }
  ]
