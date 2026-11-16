@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-16T19:00:00+08:00",
+ "updated": "2026-11-16T20:00:00+08:00",
  "psi": {
-  "west": 54,
-  "east": 41,
+  "west": 53,
+  "east": 40,
   "central": 53,
-  "south": 46,
-  "north": 47
+  "south": 45,
+  "north": 46
  },
  "pm25": {
   "west": 5,
-  "east": 8,
-  "central": 11,
-  "south": 5,
-  "north": 7
+  "east": 5,
+  "central": 5,
+  "south": 7,
+  "north": 8
  },
  "hist": [
-  {
-   "t": "2026-11-14T20:00:00+08:00",
-   "psi": {
-    "west": 69,
-    "east": 53,
-    "central": 59,
-    "south": 54,
-    "north": 57
-   }
-  },
   {
    "t": "2026-11-14T21:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 46,
     "north": 47
    }
+  },
+  {
+   "t": "2026-11-16T20:00:00+08:00",
+   "psi": {
+    "west": 53,
+    "east": 40,
+    "central": 53,
+    "south": 45,
+    "north": 46
+   }
   }
  ],
- "newsUpdated": "2026-11-16T19:07:59+08:00",
+ "newsUpdated": "2026-11-16T20:09:19+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,24 @@
    "pinned": true
   },
   {
+   "source": "ABS-CBN",
+   "title": "Indonesia apologizes to Malaysia, Singapore over wildfire haze",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUI3ZnBTRVpBWEd2UkU5TTZfT0JhZFpJdDhLM21xVUF4cmQxM2V2QmlnbllCV1lscjdDaE9LVjRPYlhmTE8tYS1GRFo1bjhtTmpkeVpYTDJQMHhRN04tUGFoNFhfbkZGU1c0VkwyaDcwVVAtT0VHbm1fNE5FMk9hUnRTVHliSW1PUmdkY1g1bmc0NEhzSU9LNXBpcUZ1WG11Q2FkZHNVNDVCckM4S0hVNlR3?oc=5",
+   "time": "2026-11-16T19:26:46+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Independent",
    "title": "Indonesia’s president apologises to Singapore and Malaysia for wildfire haze but says ‘not our fault’",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVUwwd2w1V1V1OGhWbnJRNnB1Tk9aTHhLdjlyTTJkVVdLMENvbDJvR0syUU9TbDhjMm5KMXFwNndmZDR6Q0RGYjdDejRQS1BWLVctRFdoUDU3R0ZnQk9kRXZPVWI3enRtcTNhUHFpNTI2UXJBbGRGd1ptRFNaUmdHUUVGMWVXeHpHbFRPZW9yUlR3Z1B4Z2RuWlpGa3RHOWpHb1U0c2xTUktCNXc2VFVtbkgyeF9LcEZraXhhbmhB?oc=5",
    "time": "2026-11-16T18:49:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Green Central Banking",
+   "title": "Southeast Asia’s banks face scrutiny over financing of haze-linked companies",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ1pyZ2FYbDNjU3U4VnpaYzl5dUNOd3lrdGZyWXdncXJjRGtyd3B4VXhtd0sxeDE3UkVBUXBGOEJQaUpBSDZZc1daWG5Xb210OGdPUXVreFFBdFpLbjJMWVJvM3dYeGdXRThzY0dEVW1IMWVpWElKZDNOTUhRN1FEUExXVko5UWczc0FySm1panM0bXhMa1l2Vm1JRElVaGoyX25zeHNkUDhVTzh6NGtHeXM0cnZfR01PRFZn?oc=5",
+   "time": "2026-11-16T18:29:39+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Clearing the air: Indonesia says sorry for toxic haze from bushfires",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTmV2d1VKM0hVRF9WenZfdDgyQUpZNW1wNjBVLWhNVjdaV3NjS1dZcU9xcGFmZ3FZc2l5X1ZVRFdOTVpDajVTLS1ESTdKWWNIV3NrTXFoXzlxX2ZfcEtfSEdVbmtXNzRCWlhlSHB0N0hGdE1uR21XTWFnWng5ajVULTZTVzhEb0htQkdkRmsyOFZtdEZXUmRqRWh6d2YyM1dOM1FvYTQ0QzhhYUpHNTBaRmZVYzJIX09DNGR0N1hYN2pmTFg3S2FWYjhUWW9PSGxjZE9ULVJvMEl3a21SQzlyUzNXclBOemVpYWdhdmF3?oc=5",
    "time": "2026-11-16T15:10:12+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Green Central Banking",
-   "title": "Southeast Asia’s banks face scrutiny over financing of haze-linked companies",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ1pyZ2FYbDNjU3U4VnpaYzl5dUNOd3lrdGZyWXdncXJjRGtyd3B4VXhtd0sxeDE3UkVBUXBGOEJQaUpBSDZZc1daWG5Xb210OGdPUXVreFFBdFpLbjJMWVJvM3dYeGdXRThzY0dEVW1IMWVpWElKZDNOTUhRN1FEUExXVko5UWczc0FySm1panM0bXhMa1l2Vm1JRElVaGoyX25zeHNkUDhVTzh6NGtHeXM0cnZfR01PRFZn?oc=5",
-   "time": "2026-11-16T14:05:22+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Cambodianess",
-   "title": "Indonesia Apologises To Malaysia, Singapore Over Wildfire Haze",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFNPUm40YUY5QjFoTVE3M3J0RGE0eVp0b0dLQ0RQMkM1cndoY1ZXR3ZSWVRkbGMzUzVLOVl2TEd2R3otSUQ0RVpYdlM3bDBPeS03Uk9BVmtIU1JjX0FxRFJFa0hkSkRnR0EyVnJORjZweUNUYmtqQVRTTExOVjVyYmxpeWdiODhxWko1OV9HU0NVbkEyakpZb21n?oc=5",
-   "time": "2026-11-16T12:54:05+08:00",
    "summary": ""
   }
  ]
