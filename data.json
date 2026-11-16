@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-16T08:00:00+08:00",
+ "updated": "2026-11-16T09:00:00+08:00",
  "psi": {
   "west": 54,
   "east": 42,
   "central": 52,
   "south": 49,
-  "north": 43
+  "north": 45
  },
  "pm25": {
-  "west": 18,
-  "east": 16,
-  "central": 14,
-  "south": 5,
-  "north": 15
+  "west": 7,
+  "east": 11,
+  "central": 16,
+  "south": 7,
+  "north": 16
  },
  "hist": [
-  {
-   "t": "2026-11-14T09:00:00+08:00",
-   "psi": {
-    "west": 79,
-    "east": 55,
-    "central": 63,
-    "south": 59,
-    "north": 61
-   }
-  },
   {
    "t": "2026-11-14T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 49,
     "north": 43
    }
+  },
+  {
+   "t": "2026-11-16T09:00:00+08:00",
+   "psi": {
+    "west": 54,
+    "east": 42,
+    "central": 52,
+    "south": 49,
+    "north": 45
+   }
   }
  ],
- "newsUpdated": "2026-11-16T08:07:28+08:00",
+ "newsUpdated": "2026-11-16T09:07:03+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "AsiaOne.com",
+   "title": "Indonesia president conveys apology to Singapore, Malaysia over wildfire haze, Asia News",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1RzZZMkJjalgzamZfeDk1cDE5dzVCSHZ2RUxSZDYzNEZVNkRFRXhoVC1RZFVRd3AxeVFSVHhFbVNPNWwteGYwWmRYMXpfSmJMRlRTNGRFLS02LTNWSTktV3pObmxVV1NpTTBnTmV0LXc4dFZCMkRXNEh3?oc=5",
+   "time": "2026-11-16T08:55:30+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Prabowo apologises to Malaysia and Singapore over transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUtPdzZhZkZQUUNGU1BkTnFubzl5eEVfc2tjM0owOWxFTm9wTjhzTkJ4SzJudklvaVRmbGtlRXBlc09oM2RSNnpjZHkyd3ZfanN0Rk9ILUJIX0k3d2F0clpTYTFxR2phYkI1N2tKRUJ6QXdsZGtsZGo3enpYYUQyVzdablNScktxTTFBbFRITGhhQ085Q2tnWnZBWjlhelc4NnJwM1dKdUx6YUlnbjV4dmVMRVFGSVBnRVE?oc=5",
+   "time": "2026-11-16T08:18:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Newswav",
+   "title": "Indonesia investigates 104 companies over fires behind months-long haze in Malaysia, Singapore",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNy12OG5NZEtZRURKVG9BZFlVM0ZnLV9aTDZsZkpuMnVOdWZUa3VQeVd1WDdZcDlKQmxScl9JMkIzTzZmNHhwUmhtWFo0Q19yRXlfTlN4ZG81ZE42R1JZak5MU25zODdKOUJlUkg5ZkNDaHIzSTBYV3c5YnNNVHRVcmZ2UmJCNTk3eWNvVTJYb3k5UUU5SDJNRzJsa1ljbVVKMUV6SlVTMFd2S2FpdzdkWk5zLS1lZw?oc=5",
+   "time": "2026-11-16T08:13:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Prabowo apologises for haze which affected Malaysia, Singapore",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWHU3d1RLTDVlcl9hVnlGalNiU09nTHZydjVyX1gxN0VsMGdodmoyRklGSmZGS1RoeFZ6bmdaeWE3VmdQMTVxQThYRnllM3Q4dWswN01tcTdyOGpJMjhmd0VpZ1BPanFLdFZxRnhoNDdtQXhUVjl4dFRqLW5SMXp4dzYwLXNxUGJKQWMzei1Vemh6QWs4SEIxSUR6cGE5RFA2QW5vdzNrQ25jTHZMRFHSAbMBQVVfeXFMTkZGY0RWUU4yeTdyajNXR3oteUpDY01zZnRSei1zbF9FUkktY3c2a3Z3QXJJS2ZoTEgteG1pWm1pamVmU3pMRzZGVC1HMG5oVi1WMmFyUV9iYTJTR21PU3lIelBMbXItMjF1NEFlRGlYRU40MFhjYjBXQ25zU1hPOUE4SHNPYkwteEY5aDFWTHpfM2RzNTFuQTFmMzBaSHdfQ0IzdTR5c0NXbTZJeWsyZGlqQlU?oc=5",
+   "time": "2026-11-16T08:09:50+08:00",
+   "summary": ""
   },
   {
    "source": "联合早报",
@@ -567,34 +595,6 @@
    "title": "The President of Indonesia apologized to Singapore and Malaysia for the haze",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQlk1UFB1VGJaZUxwZnZvaTFTZE50MGJzNzRJMW1vcFFEWGFyUy1zRFpZNDBMMVhiUzJFbjdVRTk2MklhUmF0UzJBTzBScGdoNVcxWXBOTFB1S2pTbnVXcTFOcXBudU9DZGw2eTNWZFAza3FheTNRMEZYOHVyQVBzQ1o2UEthNVRHc0hNZGVkYVJEb2dnMDRHVTdRQVVXcjBM0gGfAUFVX3lxTE5VQi1NY2g5Y09BM0xMSDB6WU9NUXRueURFYWlicW52T0UxcktYLTY4RDBpd0pRRTk2bnhTRWJzc0lNZE5NMEQ1bGlCS1hKZUdHVXVBQmFIeHdyT1RJb1hoeUgxdlRiWmFha3htSVF1YzVHb1F6WnlKd0FYNk11OV95VE5vbjFadWttd3JTajhqdEI0dG9MR0dpSkItelF1QQ?oc=5",
    "time": "2026-11-16T02:59:04+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The News International",
-   "title": "Indonesia's Prabowo apologises to neighbours over severe forest fire haze",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZldBV05EcjcteUtuVmJOM3NQMmp4MDdFTEFCd285RzdKOEdyalZjWkx1OUtFNHZqT0gwYUxWTGhtR29vWEVRd2wyemM3eWlrd1BPY2lFd3UtOWtVdmc1bFJYT3ZMdWJ4VGhqWHRIV2hjY0gzU2M3aXpBMFhiT1BOQkxvTDF4ekV6Qll3eEJ1a3hyR1FLMkN6QXNaUDliNV9mejBGeGdwRnh0djhkMDkwWWUwMXbSAbABQVVfeXFMTTJGR00wb0NvZHJMM3RvazVrZ0hFU0dzWGs3NUVVU05TLUxWdlE0SXFlc3FtUHlJUVJMZGNHcnZONnRIUHFxdWxhRFdCNXZRQlFmcEdiYlFWTUdNTG9RMlgyd1Vtc215TTd0M0NzRE1FRXdZdEpOYXFlaC1Pd0VWMXJpbUhKdmxfZHNlcXRoNXJoaURUOXFUbUg3RUItVUE5ZUhLM3AzeDhQTDdFbWVvZVk?oc=5",
-   "time": "2026-11-16T02:02:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Reuters",
-   "title": "Indonesia president conveys apology to Singapore, Malaysia over wildfire haze",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHo5U295dTNfU3R0MVRNU1FYbkVCc3FtbXgxV2hwOHF0dnptUExXdjFqU0NQR3lldzh3UTlubXpORUNvU3NSdml5T0t2a0M3LUs2ZXBWcGtWM2RRNUNNYVV0c1hScjU0STVyZkg4ZnJ4Skg3ZWhiWF9XWjNQUTZ6SnlPcDg5UmpBdHBuYnEzWjBNV1Q0cm1HaGRSaEpuRXVhZTdFcFNoX0ItcU9MSGdwNmxKU3J6TUUzTnJCbUVVMVNRcEc4czRDTV93?oc=5",
-   "time": "2026-11-16T00:25:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "UA.NEWS",
-   "title": "President Prabowo apologizes to Singapore and Malaysia for haze — Channel NewsAsia",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXRWZVg0Z1FRMU81TkJsakdkeDZValJIeDdMVEozVnBmbzR2czcyVWNxcklMU3NXNEo2RVM1ZVRSM1ZYSUxXU2dXNjFSQjZhUFdHYUVpX21oeEcyczNQMDlYaHFQaEk1aGdvNmZDNXVqOUw1V19USVNFVmtoU2FQNGduR0otbS1SVXp3cVZFUVpaOThpNnJWZjExNVB4MS1aQkFRbWtJZlEtMHM?oc=5",
-   "time": "2026-11-16T00:13:39+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Indonesia’s Prabowo apologises to Singapore, Malaysia over transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTEYyekN4N0hlZlhSSGEtOGk1UzJ2dlpPSjJvVG5RSFV1TlhFZnVzZjVUX0R1RmVrZms0S04tcEpYZlVCdU5PNW5XUWMyNGlJQkNranpPZ3lSSVUzS183WE5Uc1BxNV9kTXc2c2kxMnVMRjBFNHpUQm52SGZGUHBQRTNPeG5BSEhLZEUyTmtibjhkdE5FMTZ4SkZUMFhhNGt1WXVDMHJwREFVdzExSHVjR1E0Sm5SVEZQdkVnckd3Q0NKWk0xdXprQ0xTYlhDVERvcE44aFM2MmlIWThvNmVVTVlfVl84cGR1b3l3R09LbEZXZTNyalFSeXJSVmo?oc=5",
-   "time": "2026-11-15T23:52:18+08:00",
    "summary": ""
   }
  ]
