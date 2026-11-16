@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-16T13:00:00+08:00",
+ "updated": "2026-11-16T14:00:00+08:00",
  "psi": {
   "west": 55,
-  "east": 42,
+  "east": 43,
   "central": 53,
   "south": 50,
   "north": 49
@@ -11,20 +11,10 @@
   "west": 5,
   "east": 7,
   "central": 6,
-  "south": 10,
-  "north": 5
+  "south": 9,
+  "north": 7
  },
  "hist": [
-  {
-   "t": "2026-11-14T14:00:00+08:00",
-   "psi": {
-    "west": 77,
-    "east": 55,
-    "central": 61,
-    "south": 57,
-    "north": 59
-   }
-  },
   {
    "t": "2026-11-14T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 50,
     "north": 49
    }
+  },
+  {
+   "t": "2026-11-16T14:00:00+08:00",
+   "psi": {
+    "west": 55,
+    "east": 43,
+    "central": 53,
+    "south": 50,
+    "north": 49
+   }
   }
  ],
- "newsUpdated": "2026-11-16T13:07:24+08:00",
+ "newsUpdated": "2026-11-16T14:08:00+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Green Central Banking",
+   "title": "Southeast Asia’s banks face scrutiny over financing of haze-linked companies",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ1pyZ2FYbDNjU3U4VnpaYzl5dUNOd3lrdGZyWXdncXJjRGtyd3B4VXhtd0sxeDE3UkVBUXBGOEJQaUpBSDZZc1daWG5Xb210OGdPUXVreFFBdFpLbjJMWVJvM3dYeGdXRThzY0dEVW1IMWVpWElKZDNOTUhRN1FEUExXVko5UWczc0FySm1panM0bXhMa1l2Vm1JRElVaGoyX25zeHNkUDhVTzh6NGtHeXM0cnZfR01PRFZn?oc=5",
+   "time": "2026-11-16T14:05:22+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Newswav",
+   "title": "Singapore PM pushes for Asean-wide crackdown on firms behind forest fires causing haze",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDNmSUhzQVRKTWszOXNhRmJaZjk0cnlkcWg5elZOYzJ5QXpGTGxWWkRDYWxpZmM0dk92QnVybXBLN2MtOWxpMFJGd2l4LXJrRUdPMXNCcUFMaW8waF9WQjQ2ZDc5TjBVV1c1MDVxNGVSODBoXzQ1OEZIV3RuVmtibVdhSzVXM1gyWGlLS1Fva3ZDSXZkNVRZd3E0dWFjR1N4VlhUZUVxaTJKcnlMR3dVVEgxc1J2M2M?oc=5",
+   "time": "2026-11-16T13:41:30+08:00",
+   "summary": ""
   },
   {
    "source": "Borneo Bulletin",
@@ -542,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "ABS-CBN",
+   "title": "Indonesia apologizes to Malaysia, Singapore over wildfire haze",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUI3ZnBTRVpBWEd2UkU5TTZfT0JhZFpJdDhLM21xVUF4cmQxM2V2QmlnbllCV1lscjdDaE9LVjRPYlhmTE8tYS1GRFo1bjhtTmpkeVpYTDJQMHhRN04tUGFoNFhfbkZGU1c0VkwyaDcwVVAtT0VHbm1fNE5FMk9hUnRTVHliSW1PUmdkY1g1bmc0NEhzSU9LNXBpcUZ1WG11Q2FkZHNVNDVCckM4S0hVNlR3?oc=5",
+   "time": "2026-11-16T12:06:45+08:00",
+   "summary": ""
+  },
+  {
    "source": "TRP | The Rakyat Post",
    "title": "Prabowo: “I’m Sorry Malaysia And Singapore For The Haze”",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUhZZnAxUGhFVHJtdm03cGV2b2VuMjUwZl9KeW1ZMXF2dlFqSW5CeTFFTXNOek9WUVZ6aUFpVEg4RFZhSEpoQU9xTFh2OVNRNmJwMUpNb0tnN3NmVG0xdnU5Vjdjd09PRGVKekRibS1Cd2ZYLWJJZzZ3QWpLZXZxVE5jRElzeEtia21wYWtPdVBSVVRmNDNHWG1SLWdZdWxS?oc=5",
@@ -553,13 +574,6 @@
    "title": "Indonesia apologises to Malaysia, Singapore but Prabowo says wildfire haze not the country's fault",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQzZaWEdJRF95VnVnME8tMkp5c2M4WDNOajBYV2RlYjl2OXJUOVlDR0o3Qkt1MTdVVkRLbjVscVlzcWJzRTJudjhUUXljdHlCLWdkRmtCN2dHUXFrM3FoY2VuY2M3ek56M2ZhUGZ3VFcxbXo2eXp1NTUyNlJSelE2UkNHSG8wa1Izc0RNdDdENDZRS0NUNVRyOTJ6M0J3YWN1bVdNSThZeElTVUpIblZDckktaENTWm1vZG1adGVGNWUtUGtDRHNkWl9teWw3UncwQXllRQ?oc=5",
    "time": "2026-11-16T11:56:23+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ABS-CBN",
-   "title": "Indonesia apologizes to Malaysia, Singapore over wildfire haze",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXZ5SEVzaEgzSWVtTjFzWTh6TFFWNFdnRUtGWUxyMFJrR3dfemlzUUV1OXN6aFNrRkFQQXpaVmtoSnJ6czgxbUg2QTlCNXZJZ2dxRkVXeFNmalhEWUpLTzBkSWpnSVBrM1F4SGo1VFdfTUJrMVZrT01ka2lFOGhVVFdQZDBBd1hMQm5DeVJpN2xpbVA4cEZVUnpDSV9XUlV1anJCaG4wNUtFMzN2eHhyeG56MA?oc=5",
-   "time": "2026-11-16T11:56:00+08:00",
    "summary": ""
   },
   {
@@ -581,20 +595,6 @@
    "title": "Indonesian president Prabowo apologises to S’pore & M’sia over haze",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNWcxdmVRc2o2MDlUZUZhcFRzZXhzS25LNTdUdEM1QV92T20yTWg2NGVCRThNU05ERWNFVTdBdmF4dTdpdTdULWs2b00zSU9CcnZWSEZXZ2ZZQ2Z6LXlXaGdpX0pjcFJxaEtzRi04SDZhN1p0QWtHMFBkcXI5QzRQZnBNSEt4ekJUSXpfWjAtVQ?oc=5",
    "time": "2026-11-16T11:03:41+08:00",
-   "summary": ""
-  },
-  {
-   "source": "SAYS",
-   "title": "“Not Our Fault, But We Apologise” — Prabowo Says Sorry To Malaysia & Singapore Over Haze",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGc0MndPUHpYM09Gamdmc1puTnZOamF6c0lrZjRNcTNlZTJvTTQ1X2RpWE53QkNaa1AtLUp2Y3piUmx2VHlDZktwM1JMRExwVVpUVUF0WjZ1cXhvYlZzcU5VUUwwUm5RTTN3ZWt6LUM4M1BCOE5rVFpXMzZaOVllUXlaMHRERG5CSkRPUlc0X0h6TVk?oc=5",
-   "time": "2026-11-16T10:52:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "InvestorTrust",
-   "title": "Prabowo Apologizes to Singapore and Malaysia Over Transboundary Haze, Vows Tough Corporate Crackdown",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSEo4cV9CY0Q2bG5yRlo2ejRzei16ZnhGZWthc1FfS210cDlyekJZYmZhbXNnVTFOMExNNjN6SlhXVEU3a1l2NUlXN3pGWmpqTmRJWlppdzdQRm5hNmVNeGxEWTFNSkYxQzlHZTFFSkhzS1FJZFVVWlZuMlVfYVMzOUVBN1l1cVpvd0s2Z29CellXV0tLQ0tQaVY2ZjEyamZaYmxqdWsxbEVrU204SEpkcnNET3E0REJDbXA0MFVZR3RwRlZZM3Z0RVI2cVpWRUJRZm9pVFR2c29vWm9Jb19ib1lsSkJOblgxeUxmNzhxSEo?oc=5",
-   "time": "2026-11-16T10:38:00+08:00",
    "summary": ""
   }
  ]
