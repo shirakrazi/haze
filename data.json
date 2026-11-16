@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-16T20:00:00+08:00",
+ "updated": "2026-11-16T21:00:00+08:00",
  "psi": {
-  "west": 53,
-  "east": 40,
-  "central": 53,
-  "south": 45,
-  "north": 46
+  "west": 52,
+  "east": 38,
+  "central": 52,
+  "south": 43,
+  "north": 45
  },
  "pm25": {
-  "west": 5,
+  "west": 10,
   "east": 5,
-  "central": 5,
-  "south": 7,
-  "north": 8
+  "central": 4,
+  "south": 6,
+  "north": 4
  },
  "hist": [
-  {
-   "t": "2026-11-14T21:00:00+08:00",
-   "psi": {
-    "west": 69,
-    "east": 52,
-    "central": 59,
-    "south": 53,
-    "north": 56
-   }
-  },
   {
    "t": "2026-11-14T22:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 45,
     "north": 46
    }
+  },
+  {
+   "t": "2026-11-16T21:00:00+08:00",
+   "psi": {
+    "west": 52,
+    "east": 38,
+    "central": 52,
+    "south": 43,
+    "north": 45
+   }
   }
  ],
- "newsUpdated": "2026-11-16T20:09:19+08:00",
+ "newsUpdated": "2026-11-16T21:11:11+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Citizens Journal",
+   "title": "Prabowo apologises to Malaysia and Singapore for haze",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmc5bjBtZkdqQ2F1bnVRUWxIU2FyVTNWb0pGZ3ViZXBpYTJSdHF4UktjLTlEaUs2ai16bWRSMmVCcS1fcTVEdG1NbmllTGJzMDhLUnZTd2JXTTFrb0xVc0x3UnBhQ3FHSFZpLUJZZGg4ZFpiZEE0YW9CUlJVSE05cg?oc=5",
+   "time": "2026-11-16T21:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Haze ‘protocol’ the way forward to tackle regional problem",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLVZkUmVaMC03QVlQVXM1aVpUQlJMNEdUTmt3SmhjVjRTTUZDWHhzN09FdHRNbFZnRDJtNUxEN2xoNHJNV3FxNWsyUWtaNHc1N3NIaVhVS2x1dUNFNmgwSEFFM1g1YXZjeXgtcHR4TXFqZDZZYV9RSkZreHBRTm0zcmpRckVncmxhVzVqd1JTVEhObG1BMW1xaHJoSTFYWTcwejFZQU5FRS1mRzlseHl3?oc=5",
+   "time": "2026-11-16T20:46:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Anwar welcomes Indonesia's commitment to tackling transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN05zSXcwNkp6TEJCZjBhY2V5cHc2Wk1PR2ZiaXl3MUNLMGZQZlNDRU1sMXJ1bkx5b2xUcEVHRlpMTWZSV2YyNzAxS245MTJKM09RSDJSOEJ5YmhsY1VNaUp4ZlRpcnhMN3UyaUp5SEcxT1ptYWdHTzdCNTEtVUlZaC01TG0teXZjdVowR0dmOW1FR3ZwWk1aOXFSU1RDNE9HVm5rZzZwUjJhWUtENHV1Ukh0VXRrd9IBuwFBVV95cUxPMzdpcVkzUHZQNFFxTWZ4ajVHVEQ1Q0JaQlRvTUE0X0dMTXpMVThSZTV6SUViQk1MMkV0SEVPRlVfU0dsUGQ0YUR6Z0o0bi1lXzR4ek5IbTk0Mm1VcmxsY2h2YVNhT3pxU0FPNWtZZ0VmdWxub0YxRWk0NlBNSmlPRmpXZDBVdjFzUzkwS0FuT0RjM0NHRWZwNTVQV2RUd0pKMUFKMjZYaGhpbDBpY3BDMFNua0ZUNk9VZDI4?oc=5",
+   "time": "2026-11-16T20:25:36+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
+   "time": "2026-11-16T19:51:06+08:00",
+   "summary": ""
   },
   {
    "source": "ABS-CBN",
@@ -549,10 +577,10 @@
    "summary": ""
   },
   {
-   "source": "www.planb.sg",
+   "source": "planb.sg",
    "title": "Netizens Question Prabowo's Haze Apology After He Says \"It Is Not Our Fault\"",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTjREZjFDMm9FX0dDNjVZdjB6dV9rcExRcU1ZQW8zb3YtdWs5ZklaSGFfOU9McGViMXpMazVjWXNjUmgtN3V6b2lFWWxkUEVvT3NlSXIwWXlFMTA2NzQwWUQwdS16aTVkVWpxaVVKT0hwczZnZzctazRLdll2Y1F6WFA4SUxUQ2ZCaFZzc05IYXBQaFJxU1h2Q2RsSnVhV3A4VWc?oc=5",
-   "time": "2026-11-16T17:10:47+08:00",
+   "time": "2026-11-16T17:14:53+08:00",
    "summary": ""
   },
   {
@@ -567,34 +595,6 @@
    "title": "Indonesia apologizes to Malaysia, Singapore over forest fire haze",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX3JhMlJUeGRqQ1N3T29sQU00eU1vQVpYaFdjMjRRcVlRNGFBNXRIU0FKeUNGaW9kdmxkZVQwTXVwNlAxOFZWT094V1EyOHp1TzB6MWtaZy1oWXhkWUtNeGs3dS1wSmlucXNEblNVZUkwdEN4ZnB1aURyUFBaYU1zM2dLdC1GcGVDRDRDYnJ1ajluZDFtY0xjNw?oc=5",
    "time": "2026-11-16T16:25:13+08:00",
-   "summary": ""
-  },
-  {
-   "source": "MYC! Malaysian Youth Community",
-   "title": "Indonesia’s Prabowo Apologises To Malaysia And Singapore Over Transboundary Haze, Vows Tougher Action Against Companies",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTThlY3Q3SjkwSGp3SDFVbFRxX29GUG9tNlJLYlkyVFR2b0FFWmg5TlJkVmRPQ3JyOGpra3BxSTQzMTRyVDJBeTM3R3Z6NmpWNFZueFozOHE2TWloaFNSZ3hsbzdORFB4b3lzSEVub3lsbElBTlNHVE4xR1hCeUJoSUlaNW9LRzZ6UHBVYW5sOEUxUHRPSW9rVGY4d2tHV3hZdml4S0F5MXpDUlRSSUIxU2VGWW1Fc1JWMlA2b0hwZVQyV0hLR0xMaUtXbFJUUTFOZWtfSDNaMVkzNjgxWWg0?oc=5",
-   "time": "2026-11-16T16:11:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkJWYlp6ZFBNS1l0Tl9IYlRpVkVVWFVzcGp4UnRNMEFjSG5IMkFtX0xNUDM1YWxwaFJFT09hWjh6QUpYMHZpVW90aDBnOGxjcURYOEtEd25pN002ZjJIaFhtWjN0clc0MzFKal9IRWw1ZHlzeDg5OXY0bjFCR25vYVhyOHBKM2haZ3NmYmh3V0wwNVlLRVRmNEVLU0dKWm9nY2Jvak9GLUpVT2dyYnpyQkdiSdIBuAFBVV95cUxNSUhfV1k2N0FfRHZWOFRHTjhLQ0I4dFlLY19KR1d3bzZLODNCYmN6N2g1aUFqanFxdEdVZ01pa0RtS3lSWlQ2ZDJsSG0xZ1BIakM5SzVtV1dVTHZaMVJDUTdnWjlKNVBxSnAzT3hDamtQV1B4VzZQZ3pmQ0xmRHRQeE5sY1ZHSm11d0RpeUJZTFVEQUdybEN4UGFBZnFteFlEZk1zdkpFanVqX0htalM5VzliYTVwZlQ1?oc=5",
-   "time": "2026-11-16T15:34:37+08:00",
-   "summary": ""
-  },
-  {
-   "source": "TV5 Kapatid Network",
-   "title": "Indonesia president conveys apology to Singapore, Malaysia over wildfire haze",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVZKNGItaHlGWUs0dGdqNUJvRGlEMGJvR2kzMW9maUJxRWloTnRsbFl0VTI3eF9TbGMwYlVOTlF0ejdxWGZvWWpIWUpFT29XZVhOZE9ndGFXTFFjQXNXSV9kTnJwTUpaN211WXhSSjJBRUlNdU9pY1Q4b3ZPX0NIQnB2QzNyWUhKb2RhUUM3WmRGaVFxdWRBeXB6YXhkRW5uUm5mRlZFV1daY2hBMzZnX0VfMFE?oc=5",
-   "time": "2026-11-16T15:20:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Australian",
-   "title": "Clearing the air: Indonesia says sorry for toxic haze from bushfires",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTmV2d1VKM0hVRF9WenZfdDgyQUpZNW1wNjBVLWhNVjdaV3NjS1dZcU9xcGFmZ3FZc2l5X1ZVRFdOTVpDajVTLS1ESTdKWWNIV3NrTXFoXzlxX2ZfcEtfSEdVbmtXNzRCWlhlSHB0N0hGdE1uR21XTWFnWng5ajVULTZTVzhEb0htQkdkRmsyOFZtdEZXUmRqRWh6d2YyM1dOM1FvYTQ0QzhhYUpHNTBaRmZVYzJIX09DNGR0N1hYN2pmTFg3S2FWYjhUWW9PSGxjZE9ULVJvMEl3a21SQzlyUzNXclBOemVpYWdhdmF3?oc=5",
-   "time": "2026-11-16T15:10:12+08:00",
    "summary": ""
   }
  ]
