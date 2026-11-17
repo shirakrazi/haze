@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-17T08:00:00+08:00",
+ "updated": "2026-11-17T09:00:00+08:00",
  "psi": {
   "west": 36,
-  "east": 37,
+  "east": 39,
   "central": 44,
-  "south": 33,
-  "north": 46
+  "south": 34,
+  "north": 48
  },
  "pm25": {
-  "west": 13,
-  "east": 14,
-  "central": 17,
-  "south": 11,
-  "north": 16
+  "west": 9,
+  "east": 19,
+  "central": 14,
+  "south": 13,
+  "north": 25
  },
  "hist": [
-  {
-   "t": "2026-11-15T09:00:00+08:00",
-   "psi": {
-    "west": 45,
-    "east": 32,
-    "central": 37,
-    "south": 33,
-    "north": 36
-   }
-  },
   {
    "t": "2026-11-15T10:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 33,
     "north": 46
    }
+  },
+  {
+   "t": "2026-11-17T09:00:00+08:00",
+   "psi": {
+    "west": 36,
+    "east": 39,
+    "central": 44,
+    "south": 34,
+    "north": 48
+   }
   }
  ],
- "newsUpdated": "2026-11-17T08:07:02+08:00",
+ "newsUpdated": "2026-11-17T09:07:12+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Star",
+   "title": "Indonesia sorry over wildfire haze",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcXRsUTIxREw0VnNOOElteXB2T3RkbHpvMjdpMVlhcVVJVFdtTGJrdkh0Y3hFU3VwVjVaRkdpQTFiQXlCWUJfYmJCb0dqREVGcGpQOTlZS2Jta3g5bXJSd0hjYldKUkE3T0dxMXhLN0lpNmlKbE5Nd2l4RDZPMlFTMk5NazhvWTVnNjk5UTAtM1lfOHhPNGlvdmR6THNuZw?oc=5",
+   "time": "2026-11-17T08:28:48+08:00",
+   "summary": ""
   },
   {
    "source": "NHKニュース",
@@ -545,7 +552,7 @@
    "source": "Citizens Journal",
    "title": "Prabowo apologises to Malaysia and Singapore for haze",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmc5bjBtZkdqQ2F1bnVRUWxIU2FyVTNWb0pGZ3ViZXBpYTJSdHF4UktjLTlEaUs2ai16bWRSMmVCcS1fcTVEdG1NbmllTGJzMDhLUnZTd2JXTTFrb0xVc0x3UnBhQ3FHSFZpLUJZZGg4ZFpiZEE0YW9CUlJVSE05cg?oc=5",
-   "time": "2026-11-16T21:00:07+08:00",
+   "time": "2026-11-16T21:07:34+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Southeast Asia’s banks face scrutiny over financing of haze-linked companies",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ1pyZ2FYbDNjU3U4VnpaYzl5dUNOd3lrdGZyWXdncXJjRGtyd3B4VXhtd0sxeDE3UkVBUXBGOEJQaUpBSDZZc1daWG5Xb210OGdPUXVreFFBdFpLbjJMWVJvM3dYeGdXRThzY0dEVW1IMWVpWElKZDNOTUhRN1FEUExXVko5UWczc0FySm1panM0bXhMa1l2Vm1JRElVaGoyX25zeHNkUDhVTzh6NGtHeXM0cnZfR01PRFZn?oc=5",
    "time": "2026-11-16T18:29:39+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Singapore PM pushes for Asean-wide crackdown on firms behind forest fires causing haze",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNmNNa1haNjV1Tk9HNTE5RmlReFpHT2wzakstQm9CYmkzSEhPdzdGSzhzLUFvQVhlMWt4ZEVySkszeWN1RFViUlcyX0JYdXZkOVg5bTRfSF9DYW5hMXdoSUJzWkUzN1daVUpzRldTNkJ2Y2ltRkptVGJaS0loaVpOcFF0aWtjQ1ZSM2lhTFZGcmtXOTk1SGNQN0VCMEttQnQ0ZVhNTkFMTWw2bjB4b21YM25OdV9ITGxfZlU4eTJIel9JUXBCcW5IRi1nNUU1MTdVbThsR1pnblRGQQ?oc=5",
-   "time": "2026-11-16T18:14:54+08:00",
    "summary": ""
   }
  ]
