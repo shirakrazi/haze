@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-17T09:00:00+08:00",
+ "updated": "2026-11-17T10:00:00+08:00",
  "psi": {
-  "west": 36,
-  "east": 39,
-  "central": 44,
+  "west": 37,
+  "east": 38,
+  "central": 43,
   "south": 34,
   "north": 48
  },
  "pm25": {
-  "west": 9,
-  "east": 19,
-  "central": 14,
-  "south": 13,
-  "north": 25
+  "west": 16,
+  "east": 9,
+  "central": 10,
+  "south": 8,
+  "north": 21
  },
  "hist": [
-  {
-   "t": "2026-11-15T10:00:00+08:00",
-   "psi": {
-    "west": 39,
-    "east": 32,
-    "central": 36,
-    "south": 32,
-    "north": 34
-   }
-  },
   {
    "t": "2026-11-15T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 34,
     "north": 48
    }
+  },
+  {
+   "t": "2026-11-17T10:00:00+08:00",
+   "psi": {
+    "west": 37,
+    "east": 38,
+    "central": 43,
+    "south": 34,
+    "north": 48
+   }
   }
  ],
- "newsUpdated": "2026-11-17T09:07:12+08:00",
+ "newsUpdated": "2026-11-17T10:07:06+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Batam News Asia",
+   "title": "Indonesia Haze Crisis: Prabowo Apologizes to Singapore and Malaysia Over Wildfire Smoke",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWEdCWllZc0lBcnVCZ2FJdDdoLWk5VTd4NUxmaTE5M0tVdng0UlVqLW1iakNDSmtMMFI2Vm8zTXRPRUFuMDM1RFJOT1BTNHFtSVhfMkRGSlduSkZ6cjZjZzU0ZnRaUlUxX2JmbWNoQW9oRnVrTUViOG9HWkZybFBrQUNRdndQYzljT2tiN3Y1M3lnd0xXa1VidVk1b3YySFVpME1HemlUYl9OdmtRc2dmazVHYUplc0JhaXZaSzJaUnVwUQ?oc=5",
+   "time": "2026-11-17T10:00:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Move beyond pledges to end recurring haze crisis, Lee Lam Thye tells Asean leaders",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeTN3c05EcFZZNENFd0hwZDNVbC03Y3ozeGg3TUVOQXhZcGhnMm9KR3VWQmdWeUxZWC1ycG1vNXhWaW5XOVFfT3hVLV9ISktyTGVETGppVzg3UGhNdU1Sc2NwQW9BQVFBVVdTTU5rZFdmOWkwUGZCSDhtVGZ5N2VLVzhWbGo0aHc1YjhldXZ3N0YtNXBCWmFibGhMQ1pVVmRYYTkxc21EX3FxUnVNeHFwM1ROaTB4VXBtLVUtSWhrRkRVbmJucmdxT0tsYw?oc=5",
+   "time": "2026-11-17T09:57:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "www.nationpathindia.com",
+   "title": "Indonesia Apologises to Malaysia and Singapore Over Wildfire Haze at ASEAN Summit",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaFFIdHhBXzE2bnBjRnVYZkRZYlpQT3FGMHVjUmhCWHRvR3B2N1Itb2RDZS1KLUR4NnNVM2xOTTlWd0ZObnVlMlo0OFlrcXJrVW43UUJqaFFLX01mdDBDLTZ6RWtrUzQxVXZrT3NrZmxrdm00QUdqb2lFaUtNNXk0NTF6bmdRaF83U0RFblUxS2FVeVFURE5jUUtsVVlQQk1vcnV3Z1RZREJ1U3Rha3dNMmVjems5bDFJ?oc=5",
+   "time": "2026-11-17T09:27:49+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Newswav",
+   "title": "Malaysia proposes new funding sources for Asean haze mitigation efforts",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeWtPOTB5djEzYm00WElRQXczbHQ3U1BGVkJIQ2hyR0NSTmFsTWV2c1luUVFpQUlGQ0xGM3B5dE43NjBQMUN0ampSNWlRTmtYOHpUQXYxN3hvMFRnZEVsOUFpTHJRbnJRTzFMS0NFaWdua2g2YmpZRkVKZ0VNQjJtZ0FNNVZrcFdiMGRyTjBXazA3bGt1LUp1dFVVRGZ0MkJnZDNwRnJuYlV5cWZiQ1pQTnZ3?oc=5",
+   "time": "2026-11-17T09:19:41+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "Malaysia proposes broadening Asean Haze Fund contributors instead of creating new fund",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUjRUY0hYRlZKeWFlRmQ5cW5sNXdDdHVkNmEyUldSbTJtUlJEVzVqZjhZaXhKOTlRb2xFc0V4NlhoYnBUNkhraDNRMmQyQUZ0c0JTSElQNnlfSGFUN2RNaVR3YTFLcDdGam9MSWRPbUFZeFprcHhibmJUZTY2UVMxS1dBZ1lMNTd6RGROa1llM1N2cmpoZkN0ZUZ1bER5NnlBcjZQOTFmQWZGVE1UcUNqX1k0SWtFZlZ3QV8wd1FuNVZLOWZnenhtSWhEZnQxZWRzSnc?oc=5",
+   "time": "2026-11-17T09:17:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Star",
@@ -556,45 +591,10 @@
    "summary": ""
   },
   {
-   "source": "The Star",
-   "title": "Haze ‘protocol’ the way forward to tackle regional problem",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLVZkUmVaMC03QVlQVXM1aVpUQlJMNEdUTmt3SmhjVjRTTUZDWHhzN09FdHRNbFZnRDJtNUxEN2xoNHJNV3FxNWsyUWtaNHc1N3NIaVhVS2x1dUNFNmgwSEFFM1g1YXZjeXgtcHR4TXFqZDZZYV9RSkZreHBRTm0zcmpRckVncmxhVzVqd1JTVEhObG1BMW1xaHJoSTFYWTcwejFZQU5FRS1mRzlseHl3?oc=5",
-   "time": "2026-11-16T20:46:00+08:00",
-   "summary": ""
-  },
-  {
    "source": "NST Online",
    "title": "Anwar welcomes Indonesia's commitment to tackling transboundary haze",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN05zSXcwNkp6TEJCZjBhY2V5cHc2Wk1PR2ZiaXl3MUNLMGZQZlNDRU1sMXJ1bkx5b2xUcEVHRlpMTWZSV2YyNzAxS245MTJKM09RSDJSOEJ5YmhsY1VNaUp4ZlRpcnhMN3UyaUp5SEcxT1ptYWdHTzdCNTEtVUlZaC01TG0teXZjdVowR0dmOW1FR3ZwWk1aOXFSU1RDNE9HVm5rZzZwUjJhWUtENHV1Ukh0VXRrd9IBuwFBVV95cUxPMzdpcVkzUHZQNFFxTWZ4ajVHVEQ1Q0JaQlRvTUE0X0dMTXpMVThSZTV6SUViQk1MMkV0SEVPRlVfU0dsUGQ0YUR6Z0o0bi1lXzR4ek5IbTk0Mm1VcmxsY2h2YVNhT3pxU0FPNWtZZ0VmdWxub0YxRWk0NlBNSmlPRmpXZDBVdjFzUzkwS0FuT0RjM0NHRWZwNTVQV2RUd0pKMUFKMjZYaGhpbDBpY3BDMFNua0ZUNk9VZDI4?oc=5",
    "time": "2026-11-16T20:25:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
-   "time": "2026-11-16T19:51:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "ABS-CBN",
-   "title": "Indonesia apologizes to Malaysia, Singapore over wildfire haze",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUI3ZnBTRVpBWEd2UkU5TTZfT0JhZFpJdDhLM21xVUF4cmQxM2V2QmlnbllCV1lscjdDaE9LVjRPYlhmTE8tYS1GRFo1bjhtTmpkeVpYTDJQMHhRN04tUGFoNFhfbkZGU1c0VkwyaDcwVVAtT0VHbm1fNE5FMk9hUnRTVHliSW1PUmdkY1g1bmc0NEhzSU9LNXBpcUZ1WG11Q2FkZHNVNDVCckM4S0hVNlR3?oc=5",
-   "time": "2026-11-16T19:26:46+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Independent",
-   "title": "Indonesia’s president apologises to Singapore and Malaysia for wildfire haze but says ‘not our fault’",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVUwwd2w1V1V1OGhWbnJRNnB1Tk9aTHhLdjlyTTJkVVdLMENvbDJvR0syUU9TbDhjMm5KMXFwNndmZDR6Q0RGYjdDejRQS1BWLVctRFdoUDU3R0ZnQk9kRXZPVWI3enRtcTNhUHFpNTI2UXJBbGRGd1ptRFNaUmdHUUVGMWVXeHpHbFRPZW9yUlR3Z1B4Z2RuWlpGa3RHOWpHb1U0c2xTUktCNXc2VFVtbkgyeF9LcEZraXhhbmhB?oc=5",
-   "time": "2026-11-16T18:49:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Green Central Banking",
-   "title": "Southeast Asia’s banks face scrutiny over financing of haze-linked companies",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ1pyZ2FYbDNjU3U4VnpaYzl5dUNOd3lrdGZyWXdncXJjRGtyd3B4VXhtd0sxeDE3UkVBUXBGOEJQaUpBSDZZc1daWG5Xb210OGdPUXVreFFBdFpLbjJMWVJvM3dYeGdXRThzY0dEVW1IMWVpWElKZDNOTUhRN1FEUExXVko5UWczc0FySm1panM0bXhMa1l2Vm1JRElVaGoyX25zeHNkUDhVTzh6NGtHeXM0cnZfR01PRFZn?oc=5",
-   "time": "2026-11-16T18:29:39+08:00",
    "summary": ""
   }
  ]
