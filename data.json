@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-17T19:00:00+08:00",
+ "updated": "2026-11-17T20:00:00+08:00",
  "psi": {
-  "west": 35,
-  "east": 38,
-  "central": 39,
-  "south": 38,
-  "north": 50
+  "west": 36,
+  "east": 39,
+  "central": 40,
+  "south": 37,
+  "north": 51
  },
  "pm25": {
-  "west": 6,
+  "west": 11,
   "east": 10,
   "central": 9,
-  "south": 7,
-  "north": 12
+  "south": 4,
+  "north": 11
  },
  "hist": [
-  {
-   "t": "2026-11-15T20:00:00+08:00",
-   "psi": {
-    "west": 41,
-    "east": 40,
-    "central": 39,
-    "south": 38,
-    "north": 38
-   }
-  },
   {
    "t": "2026-11-15T21:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 38,
     "north": 50
    }
+  },
+  {
+   "t": "2026-11-17T20:00:00+08:00",
+   "psi": {
+    "west": 36,
+    "east": 39,
+    "central": 40,
+    "south": 37,
+    "north": 51
+   }
   }
  ],
- "newsUpdated": "2026-11-17T19:07:23+08:00",
+ "newsUpdated": "2026-11-17T20:08:22+08:00",
  "news": [
   {
    "source": "CNA",
@@ -510,7 +510,14 @@
    "source": "CNA",
    "title": "Here's how Singapore’s haze law has been made tougher",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQamlXNEdzZ2dNVGV1YnVodFdjUzVkbHd6V01ua1NheU9MdVdhWHlDR1RxOVg0cVYwVmc3SjhmUWNUZDhQMDN2VzNqN1BkR0xoX0NjbEk5N3EzT2JqSkVSdmhwM3RwSFVDUHRzUXRqWFozOGZMUzdWdnBvYzFVY1RTZ0dFeE9pc2UwYmhxOWhLVldLLUJfS0paVVprSGt3SzA?oc=5",
-   "time": "2026-11-17T18:27:38+08:00",
+   "time": "2026-11-17T19:57:38+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Facebook",
+   "title": "ASEAN LEADERS ON TRANSBOUNDARY HAZE. President Ferdinand R. Marcos Jr. on Tuesday (Nov. 17, 2026) says the ASEAN leaders in their meeting over the weekend acknowledged Indonesia’s efforts in tackling haze pollution stemming from the recen",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeHZlRTh1TTVscTJkdWhMaUhPTl9vWHpldldSWTlhc09yc3c1MUVJYktDdmlsY3dOenVGSi1jNlJfS1V5OGVrMkhtXzRDelQ4MTRKVFlzU1VHOFN4ZGtiZF9uRHlyNTRUVlJ0OXlXdzlXZWpBQWVmWnc4RVU3N0h5NXhWSjh2OE5tYnJKXzUwbjVPTzJOUDRWSHBWLXVKQVdBVmQ0aGN6eEJzbmszc2lCUU1jQmx2aGNxdWZmNHNScHJoUldIa2Nwd0g3c3lKdy1XZ2FYUw?oc=5",
+   "time": "2026-11-17T19:18:00+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "ASEAN vows to tackle transboundary haze",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fODFYZ3Z3WFgzM3I4cWhRYWpTbktCRlhUMG5sekZxQV9lckxUMFBZNDdpR3dFZ2ZwX1FkcUFMVExJaEoyOGhKV0pKQXVDYUk1QmdUTWlkby0wc3JmRWJIbWNNcw?oc=5",
    "time": "2026-11-17T06:13:36+08:00",
-   "summary": ""
-  },
-  {
-   "source": "JournalArta",
-   "title": "Prabowo Apologizes to ASEAN Leaders for Haze Over Singapore, Malaysia",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY05XX3hDSHZUY3QzQjExVmIwWEJPUEEwamcxU05SdjhpY3NfREF2M01xWEpPVXpvZ0twbHBhQmRYUVBNYXRfT1RkaWRScktraVB5dHhkZUNBMUpUWXJEMnhJMkJfUDV3SWlBV2JRcDQyOUpoNTJ2MVJqc1hIS1FEd09mRlBGSXJHXzhQdnBOVlZRLUdfSFk4?oc=5",
-   "time": "2026-11-17T04:12:26+08:00",
    "summary": ""
   }
  ]
