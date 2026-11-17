@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-17T10:00:00+08:00",
+ "updated": "2026-11-17T11:00:00+08:00",
  "psi": {
-  "west": 37,
-  "east": 38,
+  "west": 36,
+  "east": 37,
   "central": 43,
-  "south": 34,
+  "south": 35,
   "north": 48
  },
  "pm25": {
-  "west": 16,
-  "east": 9,
-  "central": 10,
-  "south": 8,
-  "north": 21
+  "west": 8,
+  "east": 4,
+  "central": 7,
+  "south": 14,
+  "north": 12
  },
  "hist": [
-  {
-   "t": "2026-11-15T11:00:00+08:00",
-   "psi": {
-    "west": 36,
-    "east": 33,
-    "central": 35,
-    "south": 33,
-    "north": 33
-   }
-  },
   {
    "t": "2026-11-15T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 34,
     "north": 48
    }
+  },
+  {
+   "t": "2026-11-17T11:00:00+08:00",
+   "psi": {
+    "west": 36,
+    "east": 37,
+    "central": 43,
+    "south": 35,
+    "north": 48
+   }
   }
  ],
- "newsUpdated": "2026-11-17T10:07:06+08:00",
+ "newsUpdated": "2026-11-17T11:07:00+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Malay Mail",
+   "title": "Lim Guan Eng: Indonesia must pay for haze losses or permit regional firefighting force",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR2JVaUhpNElvRVFwYjZnYWVsaHZRdzAtUVp2MGp3clVQU1h4dkktc0hMYkI0U0ZnU0kzUjliaXF3alZ4MG01V3lWT2pTdFJlWTR2cnpia0xJdlJxaEU1MnluTFNsMWdOS04wekpHZG93dmFqX3ZGY25vV2JBZVVEYVJlb1J6dEZqdVp1aENkcU5iUEFfSDl6RkZYam1BOFBnM0xFdks2MmE3dEdDRmdIZzZJamFmOFdvMHMyNXdZT3laQnA5a1l5X0N6MTRYUG41TFpNY0tucGM0d0XSAeABQVVfeXFMTm1pTlp2amZlcGN5R3dfM1YycFR3Q2NYRE5pdnpwUGJ5TzNiYjA2VDNiZXdGc2JPSTdOQ0F6RzRpLU5PNkdERlFBRy12TThQVDJIallkV3FQREczNUZRR2RjOERFZW1yYTRhZ2xVM1JDeHJWSzlveGdxTUpPRFp5cU5VODZzRWVIR2FMWDluQkQ0VTNmN3VqQWtiTlFiZmxQLUJoQU5ZZmNoTl9WUXVnZWhPUVJtSU5LMzBMeEFEeUhFR0tjTFdMY0NjTVpaOWZJM3VKTmRnUjI2c0J5Z1dZTTk?oc=5",
+   "time": "2026-11-17T10:18:55+08:00",
+   "summary": ""
   },
   {
    "source": "Batam News Asia",
@@ -552,7 +559,7 @@
    "source": "NHKニュース",
    "title": "ASEAN vows to tackle transboundary haze",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fODFYZ3Z3WFgzM3I4cWhRYWpTbktCRlhUMG5sekZxQV9lckxUMFBZNDdpR3dFZ2ZwX1FkcUFMVExJaEoyOGhKV0pKQXVDYUk1QmdUTWlkby0wc3JmRWJIbWNNcw?oc=5",
-   "time": "2026-11-17T05:21:29+08:00",
+   "time": "2026-11-17T06:13:36+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Prabowo apologises to Malaysia and Singapore for haze",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmc5bjBtZkdqQ2F1bnVRUWxIU2FyVTNWb0pGZ3ViZXBpYTJSdHF4UktjLTlEaUs2ai16bWRSMmVCcS1fcTVEdG1NbmllTGJzMDhLUnZTd2JXTTFrb0xVc0x3UnBhQ3FHSFZpLUJZZGg4ZFpiZEE0YW9CUlJVSE05cg?oc=5",
    "time": "2026-11-16T21:07:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Anwar welcomes Indonesia's commitment to tackling transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN05zSXcwNkp6TEJCZjBhY2V5cHc2Wk1PR2ZiaXl3MUNLMGZQZlNDRU1sMXJ1bkx5b2xUcEVHRlpMTWZSV2YyNzAxS245MTJKM09RSDJSOEJ5YmhsY1VNaUp4ZlRpcnhMN3UyaUp5SEcxT1ptYWdHTzdCNTEtVUlZaC01TG0teXZjdVowR0dmOW1FR3ZwWk1aOXFSU1RDNE9HVm5rZzZwUjJhWUtENHV1Ukh0VXRrd9IBuwFBVV95cUxPMzdpcVkzUHZQNFFxTWZ4ajVHVEQ1Q0JaQlRvTUE0X0dMTXpMVThSZTV6SUViQk1MMkV0SEVPRlVfU0dsUGQ0YUR6Z0o0bi1lXzR4ek5IbTk0Mm1VcmxsY2h2YVNhT3pxU0FPNWtZZ0VmdWxub0YxRWk0NlBNSmlPRmpXZDBVdjFzUzkwS0FuT0RjM0NHRWZwNTVQV2RUd0pKMUFKMjZYaGhpbDBpY3BDMFNua0ZUNk9VZDI4?oc=5",
-   "time": "2026-11-16T20:25:36+08:00",
    "summary": ""
   }
  ]
