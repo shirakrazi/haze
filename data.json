@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-18T07:00:00+08:00",
+ "updated": "2026-11-18T08:00:00+08:00",
  "psi": {
   "west": 42,
   "east": 41,
-  "central": 45,
+  "central": 44,
   "south": 42,
   "north": 51
  },
  "pm25": {
-  "west": 12,
+  "west": 13,
   "east": 12,
-  "central": 14,
-  "south": 11,
-  "north": 14
+  "central": 8,
+  "south": 15,
+  "north": 13
  },
  "hist": [
-  {
-   "t": "2026-11-16T08:00:00+08:00",
-   "psi": {
-    "west": 54,
-    "east": 42,
-    "central": 52,
-    "south": 49,
-    "north": 43
-   }
-  },
   {
    "t": "2026-11-16T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 42,
     "north": 51
    }
+  },
+  {
+   "t": "2026-11-18T08:00:00+08:00",
+   "psi": {
+    "west": 42,
+    "east": 41,
+    "central": 44,
+    "south": 42,
+    "north": 51
+   }
   }
  ],
- "newsUpdated": "2026-11-18T07:07:25+08:00",
+ "newsUpdated": "2026-11-18T08:07:20+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Star",
+   "title": "M’sia seeks to expand Asean Haze Fund sources",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNXFheF9yRENJektLdldxeG5yazV4bmx2RXVWMU15SGtyY09CV2Z3NHk0SzhVVndrT2NQQ01wcC1ocmtsM1EzVTVNSUVxdUxhSmxxeW1pWWpBZDA4bGxpN1E2NWJyRkZxQTBZdl9xa0RWcnUzSVotajBrNlRGRmxQRjl2MnV4YXE5OTZpM2RjR0tXa1BGWUF4SDNR?oc=5",
+   "time": "2026-11-18T07:59:03+08:00",
+   "summary": ""
   },
   {
    "source": "JournalArta",
@@ -556,6 +563,13 @@
    "summary": ""
   },
   {
+   "source": "Mindanao Times",
+   "title": "Davao Region haze eases as Indonesian fires subside",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ19QUVctT0gzUlhVTlpWNjU4RjFBZmxYNmtUdExmTnZyVnVwdjlzd1ZOUlphcUstdVFzcnpqSEFMM3lIay02cVVNNnVFOWtwVWgzdmNFZmw5ZHJuQ2E4ZmpSdy16SEJtQmt2eGhCUDhJZF94MDBsZHhwa1RUcTZ6djNhcnhkcGlhT3NNcXVR?oc=5",
+   "time": "2026-11-17T12:01:13+08:00",
+   "summary": ""
+  },
+  {
    "source": "Gempak",
    "title": "Indonesian President Prabowo Says Sorry To Singapore & Malaysia Over Prolonged Haze",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMmNlUlAxaXhLX0gwSkNyZzRfZTJOUWlaa1NSaktURXFkMkM3dGdGOTdDeGlKd0h6cVlvOEdoTWxqU2VmYXhnZHQ0bWlYYkFxcEFKUzdqcUNFV3c1c3JMclpYRXk3ZHZGdUtDVGotNFZtTWxsUG1WUW5CcEV1X0ExVEVVUzNPd3BPal9hMFVwem1lZE9jT1FLWXpiaGZ1bXpYM3phZnRjeG9aSFF0enV2NzJEVQ?oc=5",
@@ -581,20 +595,6 @@
    "title": "Indonesia Apologises to Malaysia and Singapore Over Wildfire Haze at ASEAN Summit",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaFFIdHhBXzE2bnBjRnVYZkRZYlpQT3FGMHVjUmhCWHRvR3B2N1Itb2RDZS1KLUR4NnNVM2xOTTlWd0ZObnVlMlo0OFlrcXJrVW43UUJqaFFLX01mdDBDLTZ6RWtrUzQxVXZrT3NrZmxrdm00QUdqb2lFaUtNNXk0NTF6bmdRaF83U0RFblUxS2FVeVFURE5jUUtsVVlQQk1vcnV3Z1RZREJ1U3Rha3dNMmVjems5bDFJ?oc=5",
    "time": "2026-11-17T09:27:49+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Malay Mail",
-   "title": "Malaysia proposes new funding sources for Asean haze mitigation efforts",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUl6WHM2dENGeWNMM0xWV2ZLYWdjdHkwMzNiZE9Oc1NBZDZYSDBSTERPQTNULVNqZEExTkJ0UmpZQkJ0MGJRdllYVEdRZnZTU3ZnRXdRVXdvaWtOZ1FJakRkN0dvQUlVa2RFdXoxeGg1ZjM0OXdzQU1sMnNvc1BPY05lRkpBMjFmMFEzbXE4QmpEZGhSVEtkMFRfMGgtRlByZ1BESWJvRGdqV0hxTFR0bWdqVF9CaFVkeWFZQVdFYW1wTWlYYVB1T9IBzgFBVV95cUxNOU1xTXhmOHhlcXE5LUg4LWRneGNaUnpSU21LNjNaNE1QLTVXTGNmckt5RmVacE8yRW5hcU4xOWU0MmZJU09WZ2FrazcwbWNHUlVUYTBXZ0Z2eDlWcXFaYmowREVNSmlYS0hMcDlVZ0xEVGdGaUFwb1FQYjZkT205a0dWUUlvTlFWVl9ZVmhfWXEzN2g1NWNPQ1pNZWNvWG5ZSGJELUI4X1BjejJrNktiQlY4ams0RWpxOFZjbTctU3lNRVVJN0VfdDNMeFJrQQ?oc=5",
-   "time": "2026-11-17T09:21:51+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Malaysia proposes broadening Asean Haze Fund contributors instead of creating new fund",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUjRUY0hYRlZKeWFlRmQ5cW5sNXdDdHVkNmEyUldSbTJtUlJEVzVqZjhZaXhKOTlRb2xFc0V4NlhoYnBUNkhraDNRMmQyQUZ0c0JTSElQNnlfSGFUN2RNaVR3YTFLcDdGam9MSWRPbUFZeFprcHhibmJUZTY2UVMxS1dBZ1lMNTd6RGROa1llM1N2cmpoZkN0ZUZ1bER5NnlBcjZQOTFmQWZGVE1UcUNqX1k0SWtFZlZ3QV8wd1FuNVZLOWZnenhtSWhEZnQxZWRzSnc?oc=5",
-   "time": "2026-11-17T09:17:00+08:00",
    "summary": ""
   }
  ]
