@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-18T22:00:00+08:00",
+ "updated": "2026-11-18T23:00:00+08:00",
  "psi": {
-  "west": 52,
+  "west": 53,
   "east": 52,
   "central": 56,
-  "south": 46,
+  "south": 48,
   "north": 55
  },
  "pm25": {
-  "west": 23,
-  "east": 21,
+  "west": 24,
+  "east": 17,
   "central": 22,
-  "south": 5,
-  "north": 28
+  "south": 19,
+  "north": 17
  },
  "hist": [
-  {
-   "t": "2026-11-16T23:00:00+08:00",
-   "psi": {
-    "west": 46,
-    "east": 35,
-    "central": 49,
-    "south": 41,
-    "north": 45
-   }
-  },
   {
    "t": "2026-11-17T00:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 46,
     "north": 55
    }
+  },
+  {
+   "t": "2026-11-18T23:00:00+08:00",
+   "psi": {
+    "west": 53,
+    "east": 52,
+    "central": 56,
+    "south": 48,
+    "north": 55
+   }
   }
  ],
- "newsUpdated": "2026-11-18T22:09:08+08:00",
+ "newsUpdated": "2026-11-18T23:07:57+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Forest Insights Indonesia",
+   "title": "Indonesia Calls for Stronger Peatland Governance and Regional Cooperation to Tackle Transboundary Haze at COP31",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcDVjTEtxVUd3akt1NEZJRzNtQV9sRmcxZ2FIdDVwX2FTaDgwSndTM1NpTzk4ZW42Z0NBNk03N1ducXdFOUtzWlAyalVLSExkTDFnVFRfR1hRS2NKYXltaV9OSjI4YmYzWDdHUWd4czFBel9aNzN0eUlmMWdJSERMZV9STDdNYzhJS0NmWFZVNFRZM0Y0YlM0Rk9HMWxMZG1oNEMtdDBlVTU5OEE1VWlMZlE3d2dmVUY0cTdySHQ4UFgtQTl5NmhNQ2tEVFp2eDFZRW1jVg?oc=5",
+   "time": "2026-11-18T22:51:43+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Jakarta Globe",
+   "title": "‘Right Move, But Too Late’: Ex-Vice FM on Indonesian Haze Apology",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEl4d3NnZ2hkVVB0VWRla1RFSC05SjdWM2I5dzNrM1lIeHhJRE54bnpJal9VSjJKY09QdDJwUktNQlhTRjFmTUNmVVJDdHpHclY1cXQ1MGF5bUFzTHF4RERwZkFxUHpBZXhzd1BoXzQ4eWdQYkJITHF5eDN3M2xZdDNsaG41LXNrZTktZGJwSTAzR28?oc=5",
+   "time": "2026-11-18T22:18:00+08:00",
+   "summary": ""
   },
   {
    "source": "South China Morning Post",
@@ -581,20 +595,6 @@
    "title": "Here's how Singapore’s haze law has been made tougher",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQamlXNEdzZ2dNVGV1YnVodFdjUzVkbHd6V01ua1NheU9MdVdhWHlDR1RxOVg0cVYwVmc3SjhmUWNUZDhQMDN2VzNqN1BkR0xoX0NjbEk5N3EzT2JqSkVSdmhwM3RwSFVDUHRzUXRqWFozOGZMUzdWdnBvYzFVY1RTZ0dFeE9pc2UwYmhxOWhLVldLLUJfS0paVVprSGt3SzA?oc=5",
    "time": "2026-11-17T22:57:38+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Free Malaysia Today",
-   "title": "Govt must hold firms accountable for haze as S’pore did, says think tank",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY3ZFUUNvcGlUZTMtd1BXY0ZESU84R0FNd3BVQW1rRlM1YzU1RnFTWklfa2M4aGZyZkduajhUSE9taGpNblpweHp1NzBuWFZiTDV1amczYlFaSTZyakVaMnllN2NIQWlCaE9wU0hueXpKQWlXRFFJZlZ6WkZBREw3VXQ5c0tJcUZnZ1luQ3k5VXBMVHhNV2RPRGxDTmE1SzE0X0lqMUc0VWEzOGxNdTFIMEVBai0wSjBwMTU2Y1ItMVVaczhUbTgwX2VHZVI?oc=5",
-   "time": "2026-11-17T21:59:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Philippine News Agency",
-   "title": "Indonesia doubling down on effort vs transboundary haze – Marcos",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZHRoVGx3UzVOZE5lRzV3ZXhCUlE1bmNYTVRiSHozMmdUS1E2Z2NvRGZ4N3VReEExcWt4eUY5MUpUUFFNdlFlcktFLVlwYS1IUFFDSEdwTWc4WjM0ZW5zZXRIMTVXaXpscGNNV044YUdHbzdBcGpWSU5zUko5M1pCeE1yN0dpQmM1bGRMeDNRZmM2UFlWOU5yLQ?oc=5",
-   "time": "2026-11-17T20:58:15+08:00",
    "summary": ""
   }
  ]
