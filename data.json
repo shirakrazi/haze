@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-18T18:00:00+08:00",
+ "updated": "2026-11-18T19:00:00+08:00",
  "psi": {
-  "west": 49,
-  "east": 45,
+  "west": 51,
+  "east": 46,
   "central": 54,
-  "south": 44,
+  "south": 45,
   "north": 53
  },
  "pm25": {
-  "west": 20,
-  "east": 14,
-  "central": 23,
-  "south": 17,
-  "north": 24
+  "west": 17,
+  "east": 18,
+  "central": 15,
+  "south": 11,
+  "north": 17
  },
  "hist": [
-  {
-   "t": "2026-11-16T19:00:00+08:00",
-   "psi": {
-    "west": 54,
-    "east": 41,
-    "central": 53,
-    "south": 46,
-    "north": 47
-   }
-  },
   {
    "t": "2026-11-16T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 44,
     "north": 53
    }
+  },
+  {
+   "t": "2026-11-18T19:00:00+08:00",
+   "psi": {
+    "west": 51,
+    "east": 46,
+    "central": 54,
+    "south": 45,
+    "north": 53
+   }
   }
  ],
- "newsUpdated": "2026-11-18T18:07:21+08:00",
+ "newsUpdated": "2026-11-18T19:09:03+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "South China Morning Post",
+   "title": "Former Malaysian minister calls on Indonesia to pay US$3 billion for haze losses",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdWJoaUtxWkFab1BPR1BHMG9YZndSckVKblYwNWg4a3l6bkpKa29rQ05ac1NzUFBXZzBmak9FbDZoWnBmai0zaGxOX3BqOTJvbUhPY2xyVi1tNXlHMlY2Y09JaEdsdFVLNmxZZ29IajhUcklTejFCMi15M0NadVYxSkhLbk9nbmo2S0NqdDZxZlJ3LUNNRUxWb3pLa3F0SEhvLW9Ra3NZZ25KUXQyU055aFNhNmZ1T2szZGloQzM4aTFlX1J2bXJiS08yNDV4bzl30gHQAUFVX3lxTE1CajN1azBkTVpHWkdaLVMxVjVxN3BTdl9RZnEydlZYTGkzbkRGSEF3ZW5paXhGeHctNWwyMzI0RlJtUnRPV0YyQnlELTlJTDhwZkFLa1c2U19VOUZ2VVowZC1DazRPbG1lRnhoTnJLZlNKMy1wUWRDSW9KSnJIbGhSTzliOEdPNEw5a2QwUkl6b0czVXVQSU1RQXpTZ1VJMWp2cXpucndPakhfenRocTh4US1oaFVNZDUtZ2pUY3c0dzBZRFJPZTBzMEh1TE5ZOXQ?oc=5",
+   "time": "2026-11-18T18:39:07+08:00",
+   "summary": ""
+  },
+  {
+   "source": "streamlinefeed.co.ke",
+   "title": "ASEAN Haze Centre Stalls Halfway to Activation in Jakarta",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEpSSHlVNVZoeTB3NjBDY2RBdXZyc19JWXc0UVhSb21sMWRkMExJcVFudWVrSWxHOTBIU29uNGhfOXg1QnR5MGJpSnZFMGUzc19IaEpZb04xcmp1UDVUOER3V3pvR2M0WkJMRHl3UEprRmV6RC1reXdPTHRBS0pRdk0wYklVSFBzdkJCbnNSOUNEend5NVE?oc=5",
+   "time": "2026-11-18T18:33:00+08:00",
+   "summary": ""
   },
   {
    "source": "thechronicle.com.ph",
@@ -581,20 +595,6 @@
    "title": "Indonesia doubling down on effort vs transboundary haze – Marcos",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZHRoVGx3UzVOZE5lRzV3ZXhCUlE1bmNYTVRiSHozMmdUS1E2Z2NvRGZ4N3VReEExcWt4eUY5MUpUUFFNdlFlcktFLVlwYS1IUFFDSEdwTWc4WjM0ZW5zZXRIMTVXaXpscGNNV044YUdHbzdBcGpWSU5zUko5M1pCeE1yN0dpQmM1bGRMeDNRZmM2UFlWOU5yLQ?oc=5",
    "time": "2026-11-17T20:58:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Facebook",
-   "title": "ASEAN LEADERS ON TRANSBOUNDARY HAZE. President Ferdinand R. Marcos Jr. on Tuesday (Nov. 17, 2026) says the ASEAN leaders in their meeting over the weekend acknowledged Indonesia’s efforts in tackling haze pollution stemming from the recen",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeHZlRTh1TTVscTJkdWhMaUhPTl9vWHpldldSWTlhc09yc3c1MUVJYktDdmlsY3dOenVGSi1jNlJfS1V5OGVrMkhtXzRDelQ4MTRKVFlzU1VHOFN4ZGtiZF9uRHlyNTRUVlJ0OXlXdzlXZWpBQWVmWnc4RVU3N0h5NXhWSjh2OE5tYnJKXzUwbjVPTzJOUDRWSHBWLXVKQVdBVmQ0aGN6eEJzbmszc2lCUU1jQmx2aGNxdWZmNHNScHJoUldIa2Nwd0g3c3lKdy1XZ2FYUw?oc=5",
-   "time": "2026-11-17T19:18:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "AsiaOne.com",
-   "title": "Lim Guan Eng: Indonesia must pay for haze losses or permit regional firefighting force, Malaysia News",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOckdHQXdldFViV0pGQjVPc2JpX2NSYTlVMUtTdDFsdHB5VVFMUFBFNU5TaDJEeUJGXzZNMnNXbXhYRnNjUlVIZ3FrTDdyUTJNX1pZbHNsUWZOdU01dm5ZMzFxR2Fab1VOQUdicGhPME1nMXVteE5vMGlJSjZwWkl6blNvMTN4cjQ1bUdrU0FnVFpVcDdodnlVcXVIMDQyMFprX2xRUnJlNm5FTEIxczdnSUoyQlk?oc=5",
-   "time": "2026-11-17T17:17:18+08:00",
    "summary": ""
   }
  ]
