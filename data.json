@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-18T09:00:00+08:00",
+ "updated": "2026-11-18T10:00:00+08:00",
  "psi": {
   "west": 41,
-  "east": 40,
-  "central": 45,
-  "south": 42,
-  "north": 51
+  "east": 41,
+  "central": 47,
+  "south": 43,
+  "north": 50
  },
  "pm25": {
-  "west": 7,
-  "east": 14,
-  "central": 22,
-  "south": 13,
-  "north": 20
+  "west": 14,
+  "east": 13,
+  "central": 19,
+  "south": 11,
+  "north": 15
  },
  "hist": [
-  {
-   "t": "2026-11-16T10:00:00+08:00",
-   "psi": {
-    "west": 54,
-    "east": 42,
-    "central": 53,
-    "south": 49,
-    "north": 47
-   }
-  },
   {
    "t": "2026-11-16T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 42,
     "north": 51
    }
+  },
+  {
+   "t": "2026-11-18T10:00:00+08:00",
+   "psi": {
+    "west": 41,
+    "east": 41,
+    "central": 47,
+    "south": 43,
+    "north": 50
+   }
   }
  ],
- "newsUpdated": "2026-11-18T09:07:17+08:00",
+ "newsUpdated": "2026-11-18T10:06:48+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Vibes",
+   "title": "Indonesia should compensate Malaysians for the prolonged haze – Guan Eng",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjBZaTBRcXBSWEVocjREUVdqVWwzU0dEenhRMDhSUlhGSmloZm5VM3lIekMza1lRMDJ5UlE1cERLNklqbW5OSUxZdk1oNVlmZ1FzdHBxVzhqNjN5NV9LaFVwU2ozQWZ2ZHV2bkxqLThXR1pBdHppUTZ4U3F0SzE2SFJTSDd1ZXlHWWFnWmF0d3UtRGZvTFFzT2oxVmhlVGpONTZvVW43Mi0wTlZYbXh6UUhBeEF0OFE?oc=5",
+   "time": "2026-11-18T09:59:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Asia News Network",
+   "title": "Malaysia proposes broadening ASEAN Haze Fund contributors",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPalh3NGhadDRMazE0V2RQaG1BajdVcVdkc3pVT0pCZTRYd196LVhGWi1PZC1hX3FTY1B6MVpQTXp2ckFvNnNROTBtTUtIUS1QSEhCcFVxT0RtR3Z1ZVd1OWVoZmJiUzRid2tKbjRtdHdtd3g2OXJZWG9oam5NVWhHSjNUdmp5WHh2cjBV?oc=5",
+   "time": "2026-11-18T09:47:46+08:00",
+   "summary": ""
   },
   {
    "source": "The Star",
@@ -581,20 +595,6 @@
    "title": "Indonesia Haze Crisis: Prabowo Apologizes to Singapore and Malaysia Over Wildfire Smoke",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWEdCWllZc0lBcnVCZ2FJdDdoLWk5VTd4NUxmaTE5M0tVdng0UlVqLW1iakNDSmtMMFI2Vm8zTXRPRUFuMDM1RFJOT1BTNHFtSVhfMkRGSlduSkZ6cjZjZzU0ZnRaUlUxX2JmbWNoQW9oRnVrTUViOG9HWkZybFBrQUNRdndQYzljT2tiN3Y1M3lnd0xXa1VidVk1b3YySFVpME1HemlUYl9OdmtRc2dmazVHYUplc0JhaXZaSzJaUnVwUQ?oc=5",
    "time": "2026-11-17T10:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "Move beyond pledges to end recurring haze crisis, Lee Lam Thye tells Asean leaders",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeTN3c05EcFZZNENFd0hwZDNVbC03Y3ozeGg3TUVOQXhZcGhnMm9KR3VWQmdWeUxZWC1ycG1vNXhWaW5XOVFfT3hVLV9ISktyTGVETGppVzg3UGhNdU1Sc2NwQW9BQVFBVVdTTU5rZFdmOWkwUGZCSDhtVGZ5N2VLVzhWbGo0aHc1YjhldXZ3N0YtNXBCWmFibGhMQ1pVVmRYYTkxc21EX3FxUnVNeHFwM1ROaTB4VXBtLVUtSWhrRkRVbmJucmdxT0tsYw?oc=5",
-   "time": "2026-11-17T09:57:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "www.nationpathindia.com",
-   "title": "Indonesia Apologises to Malaysia and Singapore Over Wildfire Haze at ASEAN Summit",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaFFIdHhBXzE2bnBjRnVYZkRZYlpQT3FGMHVjUmhCWHRvR3B2N1Itb2RDZS1KLUR4NnNVM2xOTTlWd0ZObnVlMlo0OFlrcXJrVW43UUJqaFFLX01mdDBDLTZ6RWtrUzQxVXZrT3NrZmxrdm00QUdqb2lFaUtNNXk0NTF6bmdRaF83U0RFblUxS2FVeVFURE5jUUtsVVlQQk1vcnV3Z1RZREJ1U3Rha3dNMmVjems5bDFJ?oc=5",
-   "time": "2026-11-17T09:27:49+08:00",
    "summary": ""
   }
  ]
