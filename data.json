@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-18T10:00:00+08:00",
+ "updated": "2026-11-18T11:00:00+08:00",
  "psi": {
-  "west": 41,
+  "west": 42,
   "east": 41,
-  "central": 47,
-  "south": 43,
-  "north": 50
+  "central": 48,
+  "south": 42,
+  "north": 49
  },
  "pm25": {
-  "west": 14,
-  "east": 13,
-  "central": 19,
-  "south": 11,
-  "north": 15
+  "west": 15,
+  "east": 7,
+  "central": 14,
+  "south": 8,
+  "north": 9
  },
  "hist": [
-  {
-   "t": "2026-11-16T11:00:00+08:00",
-   "psi": {
-    "west": 55,
-    "east": 42,
-    "central": 53,
-    "south": 49,
-    "north": 47
-   }
-  },
   {
    "t": "2026-11-16T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 43,
     "north": 50
    }
+  },
+  {
+   "t": "2026-11-18T11:00:00+08:00",
+   "psi": {
+    "west": 42,
+    "east": 41,
+    "central": 48,
+    "south": 42,
+    "north": 49
+   }
   }
  ],
- "newsUpdated": "2026-11-18T10:06:48+08:00",
+ "newsUpdated": "2026-11-18T11:07:03+08:00",
  "news": [
   {
    "source": "CNA",
@@ -563,6 +563,13 @@
    "summary": ""
   },
   {
+   "source": "CNA",
+   "title": "ASEAN chief highlights unusually extensive haze talks, hurdles in South China Sea code negotiations",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV281UWEwNHZWWXJUWmlBdWVNZlVxVkFtdnE3TXJDTlY5Q2UxRF9IaVpjV3ZXWU01Q2oyM2F1WHlTUlpZQjIyUmFvOERYdnB4enF0SkItX0NsVDV4QWthWXpCMTlKQlZmWmlNM2hFU1BNTDFUakMwS3ZHYWdIeVBiaHhqeUxaYWtUaW9GZmFveTBsZkhUVVpLSA?oc=5",
+   "time": "2026-11-17T14:38:00+08:00",
+   "summary": ""
+  },
+  {
    "source": "Free Malaysia Today",
    "title": "Govt must hold firms accountable for haze as S’pore did, says think tank",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY3ZFUUNvcGlUZTMtd1BXY0ZESU84R0FNd3BVQW1rRlM1YzU1RnFTWklfa2M4aGZyZkduajhUSE9taGpNblpweHp1NzBuWFZiTDV1amczYlFaSTZyakVaMnllN2NIQWlCaE9wU0hueXpKQWlXRFFJZlZ6WkZBREw3VXQ5c0tJcUZnZ1luQ3k5VXBMVHhNV2RPRGxDTmE1SzE0X0lqMUc0VWEzOGxNdTFIMEVBai0wSjBwMTU2Y1ItMVVaczhUbTgwX2VHZVI?oc=5",
@@ -588,13 +595,6 @@
    "title": "Indonesian President Prabowo Says Sorry To Singapore & Malaysia Over Prolonged Haze",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMmNlUlAxaXhLX0gwSkNyZzRfZTJOUWlaa1NSaktURXFkMkM3dGdGOTdDeGlKd0h6cVlvOEdoTWxqU2VmYXhnZHQ0bWlYYkFxcEFKUzdqcUNFV3c1c3JMclpYRXk3ZHZGdUtDVGotNFZtTWxsUG1WUW5CcEV1X0ExVEVVUzNPd3BPal9hMFVwem1lZE9jT1FLWXpiaGZ1bXpYM3phZnRjeG9aSFF0enV2NzJEVQ?oc=5",
    "time": "2026-11-17T11:15:57+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Batam News Asia",
-   "title": "Indonesia Haze Crisis: Prabowo Apologizes to Singapore and Malaysia Over Wildfire Smoke",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWEdCWllZc0lBcnVCZ2FJdDdoLWk5VTd4NUxmaTE5M0tVdng0UlVqLW1iakNDSmtMMFI2Vm8zTXRPRUFuMDM1RFJOT1BTNHFtSVhfMkRGSlduSkZ6cjZjZzU0ZnRaUlUxX2JmbWNoQW9oRnVrTUViOG9HWkZybFBrQUNRdndQYzljT2tiN3Y1M3lnd0xXa1VidVk1b3YySFVpME1HemlUYl9OdmtRc2dmazVHYUplc0JhaXZaSzJaUnVwUQ?oc=5",
-   "time": "2026-11-17T10:00:00+08:00",
    "summary": ""
   }
  ]
