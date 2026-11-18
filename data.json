@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-18T14:00:00+08:00",
+ "updated": "2026-11-18T15:00:00+08:00",
  "psi": {
-  "west": 43,
-  "east": 42,
+  "west": 44,
+  "east": 43,
   "central": 52,
-  "south": 42,
-  "north": 51
+  "south": 44,
+  "north": 52
  },
  "pm25": {
-  "west": 6,
-  "east": 9,
-  "central": 18,
-  "south": 14,
-  "north": 15
+  "west": 9,
+  "east": 20,
+  "central": 21,
+  "south": 22,
+  "north": 13
  },
  "hist": [
-  {
-   "t": "2026-11-16T15:00:00+08:00",
-   "psi": {
-    "west": 55,
-    "east": 42,
-    "central": 53,
-    "south": 50,
-    "north": 49
-   }
-  },
   {
    "t": "2026-11-16T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 42,
     "north": 51
    }
+  },
+  {
+   "t": "2026-11-18T15:00:00+08:00",
+   "psi": {
+    "west": 44,
+    "east": 43,
+    "central": 52,
+    "south": 44,
+    "north": 52
+   }
   }
  ],
- "newsUpdated": "2026-11-18T14:07:36+08:00",
+ "newsUpdated": "2026-11-18T15:07:52+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "thechronicle.com.ph",
+   "title": "ASEAN leaders tackle transboundary haze pollution, push stronger action against forest fires",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU256Y0NXWEJNeTR4LXJ4X0Z2bHlNQV9pWC1JaHlPZGFIRnBUT1ktNDRLOExNUHREWjhCLW8xTkFuQXJYQWduWENjN1Q1bFQzVVRmRFV0WXZCZTFuY2xkUDdfMW9PZVUzZkx2eHowSk55N2R3cFRGTEdZU1ZMcWRZek94dU93dFNDckFGY2dwWUFGa3ZQYWZmcXZSZWxnamZDenhpYlhMNXdvZTVaNk50YURYTTAtRWxyRzNIYg?oc=5",
+   "time": "2026-11-18T14:07:45+08:00",
+   "summary": ""
   },
   {
    "source": "Philippine Information Agency",
@@ -588,13 +595,6 @@
    "title": "Lim Guan Eng: Indonesia must pay for haze losses or permit regional firefighting force, Malaysia News",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOckdHQXdldFViV0pGQjVPc2JpX2NSYTlVMUtTdDFsdHB5VVFMUFBFNU5TaDJEeUJGXzZNMnNXbXhYRnNjUlVIZ3FrTDdyUTJNX1pZbHNsUWZOdU01dm5ZMzFxR2Fab1VOQUdicGhPME1nMXVteE5vMGlJSjZwWkl6blNvMTN4cjQ1bUdrU0FnVFpVcDdodnlVcXVIMDQyMFprX2xRUnJlNm5FTEIxczdnSUoyQlk?oc=5",
    "time": "2026-11-17T17:17:18+08:00",
-   "summary": ""
-  },
-  {
-   "source": "CNA",
-   "title": "ASEAN chief highlights unusually extensive haze talks, hurdles in South China Sea code negotiations",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV281UWEwNHZWWXJUWmlBdWVNZlVxVkFtdnE3TXJDTlY5Q2UxRF9IaVpjV3ZXWU01Q2oyM2F1WHlTUlpZQjIyUmFvOERYdnB4enF0SkItX0NsVDV4QWthWXpCMTlKQlZmWmlNM2hFU1BNTDFUakMwS3ZHYWdIeVBiaHhqeUxaYWtUaW9GZmFveTBsZkhUVVpLSA?oc=5",
-   "time": "2026-11-17T14:38:00+08:00",
    "summary": ""
   }
  ]
