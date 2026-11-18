@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-19T02:00:00+08:00",
+ "updated": "2026-11-19T03:00:00+08:00",
  "psi": {
   "west": 55,
-  "east": 53,
+  "east": 52,
   "central": 56,
-  "south": 45,
-  "north": 55
+  "south": 44,
+  "north": 54
  },
  "pm25": {
-  "west": 18,
-  "east": 5,
-  "central": 9,
-  "south": 4,
-  "north": 8
+  "west": 9,
+  "east": 3,
+  "central": 6,
+  "south": 5,
+  "north": 5
  },
  "hist": [
-  {
-   "t": "2026-11-17T03:00:00+08:00",
-   "psi": {
-    "west": 40,
-    "east": 36,
-    "central": 47,
-    "south": 35,
-    "north": 47
-   }
-  },
   {
    "t": "2026-11-17T04:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 45,
     "north": 55
    }
+  },
+  {
+   "t": "2026-11-19T03:00:00+08:00",
+   "psi": {
+    "west": 55,
+    "east": 52,
+    "central": 56,
+    "south": 44,
+    "north": 54
+   }
   }
  ],
- "newsUpdated": "2026-11-19T02:07:13+08:00",
+ "newsUpdated": "2026-11-19T03:07:16+08:00",
  "news": [
   {
    "source": "CNA",
@@ -525,6 +525,13 @@
    "title": "‘Right Move, But Too Late’: Ex-Vice FM on Indonesian Haze Apology",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEl4d3NnZ2hkVVB0VWRla1RFSC05SjdWM2I5dzNrM1lIeHhJRE54bnpJal9VSjJKY09QdDJwUktNQlhTRjFmTUNmVVJDdHpHclY1cXQ1MGF5bUFzTHF4RERwZkFxUHpBZXhzd1BoXzQ4eWdQYkJITHF5eDN3M2xZdDNsaG41LXNrZTktZGJwSTAzR28?oc=5",
    "time": "2026-11-18T22:18:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Turkmenportal.com",
+   "title": "Indonesia has apologized to its neighbors for the haze from forest fires",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkZldEVJY2xVVk5pTW1Oc3k0QVVUdlo1NjAtWWJJT1hKN25EVU1STWpfUkhMT21UQmZEVkI2SlNQSl90VXFscDZYMXhnUnEyZnhScmZHSzdROEZmZV9DZE1yc0lGbmc0ekV4c085UDdRQjJFakdyS0J5VTcxTksxV1FaT2FabzBaMFd6cDFhQzhxdHV5WWVxS1pCTjBubFZneGNIbkFSeDVCZmpEV2VTMEpzRQ?oc=5",
+   "time": "2026-11-18T18:52:42+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "M’sia seeks to expand Asean Haze Fund sources",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNXFheF9yRENJektLdldxeG5yazV4bmx2RXVWMU15SGtyY09CV2Z3NHk0SzhVVndrT2NQQ01wcC1ocmtsM1EzVTVNSUVxdUxhSmxxeW1pWWpBZDA4bGxpN1E2NWJyRkZxQTBZdl9xa0RWcnUzSVotajBrNlRGRmxQRjl2MnV4YXE5OTZpM2RjR0tXa1BGWUF4SDNR?oc=5",
    "time": "2026-11-18T07:59:03+08:00",
-   "summary": ""
-  },
-  {
-   "source": "JournalArta",
-   "title": "ASEAN Chief Says Haze Talks Went Further, Sea Code Still Has Hurdles",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHBnQ2l4YXFrcU9rbWtJUHE0aUFhMzZoeTRKT2pER0RybVNLZHpkdmRhLWxINXB6cWhfelRNY1FldEdvQlZpNTFaMmZtUTQ5NElrTUlacGotWXJXM240dGJHODY0b0M2N1Z5dlFsTjBrdjh0NVhwZ1g5MnNqTUF1eEtfbDhBU3V3djlVMg?oc=5",
-   "time": "2026-11-17T23:49:40+08:00",
    "summary": ""
   }
  ]
