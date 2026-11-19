@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-19T13:00:00+08:00",
+ "updated": "2026-11-19T14:00:00+08:00",
  "psi": {
-  "west": 54,
-  "east": 51,
-  "central": 53,
-  "south": 39,
-  "north": 54
+  "west": 53,
+  "east": 50,
+  "central": 52,
+  "south": 37,
+  "north": 53
  },
  "pm25": {
-  "west": 5,
-  "east": 6,
-  "central": 4,
-  "south": 4,
-  "north": 9
+  "west": 4,
+  "east": 3,
+  "central": 2,
+  "south": 2,
+  "north": 7
  },
  "hist": [
-  {
-   "t": "2026-11-17T14:00:00+08:00",
-   "psi": {
-    "west": 36,
-    "east": 38,
-    "central": 42,
-    "south": 35,
-    "north": 47
-   }
-  },
   {
    "t": "2026-11-17T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 39,
     "north": 54
    }
+  },
+  {
+   "t": "2026-11-19T14:00:00+08:00",
+   "psi": {
+    "west": 53,
+    "east": 50,
+    "central": 52,
+    "south": 37,
+    "north": 53
+   }
   }
  ],
- "newsUpdated": "2026-11-19T13:07:00+08:00",
+ "newsUpdated": "2026-11-19T14:07:28+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Kompas.com",
+   "title": "Dasco Asserts No Party Withdrawn from Coalition, Despite PSI Lacking Cabinet Seats",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVXlhQzFUdmI5cGNSSlBvY0oyQXkyNzAxRFA4dVJ2eTJ2bTJQb2ROeS1wMFdQV2htR21qS3Vhc1ZSSld6QnVnTVNGSEpGWlg1VTEwUVo3Z3hEUzRNZk5CQnlZQTlpTm1HV1VPbW41dkppbTZaVTNFam1aTkt0dFNTV2F3QWZfSFRjMXFPR2kxTHZjdmVrek04R01FN0w1NWc0NG1oNnAxT3JrSUFhdm5uUE4wcnhaNXZCbGNac3E0bGFFa3hzeFA4bw?oc=5",
+   "time": "2026-11-19T13:15:05+08:00",
+   "summary": ""
   },
   {
    "source": "联合早报",
@@ -588,13 +595,6 @@
    "title": "Malaysia proposes broadening ASEAN Haze Fund contributors",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPalh3NGhadDRMazE0V2RQaG1BajdVcVdkc3pVT0pCZTRYd196LVhGWi1PZC1hX3FTY1B6MVpQTXp2ckFvNnNROTBtTUtIUS1QSEhCcFVxT0RtR3Z1ZVd1OWVoZmJiUzRid2tKbjRtdHdtd3g2OXJZWG9oam5NVWhHSjNUdmp5WHh2cjBV?oc=5",
    "time": "2026-11-18T09:49:09+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Star",
-   "title": "M’sia seeks to expand Asean Haze Fund sources",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNXFheF9yRENJektLdldxeG5yazV4bmx2RXVWMU15SGtyY09CV2Z3NHk0SzhVVndrT2NQQ01wcC1ocmtsM1EzVTVNSUVxdUxhSmxxeW1pWWpBZDA4bGxpN1E2NWJyRkZxQTBZdl9xa0RWcnUzSVotajBrNlRGRmxQRjl2MnV4YXE5OTZpM2RjR0tXa1BGWUF4SDNR?oc=5",
-   "time": "2026-11-18T07:59:03+08:00",
    "summary": ""
   }
  ]
