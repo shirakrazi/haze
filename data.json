@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-19T14:00:00+08:00",
+ "updated": "2026-11-19T15:00:00+08:00",
  "psi": {
   "west": 53,
-  "east": 50,
-  "central": 52,
-  "south": 37,
+  "east": 47,
+  "central": 51,
+  "south": 34,
   "north": 53
  },
  "pm25": {
   "west": 4,
-  "east": 3,
-  "central": 2,
-  "south": 2,
-  "north": 7
+  "east": 7,
+  "central": 4,
+  "south": 4,
+  "north": 4
  },
  "hist": [
-  {
-   "t": "2026-11-17T15:00:00+08:00",
-   "psi": {
-    "west": 37,
-    "east": 39,
-    "central": 42,
-    "south": 36,
-    "north": 48
-   }
-  },
   {
    "t": "2026-11-17T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 37,
     "north": 53
    }
+  },
+  {
+   "t": "2026-11-19T15:00:00+08:00",
+   "psi": {
+    "west": 53,
+    "east": 47,
+    "central": 51,
+    "south": 34,
+    "north": 53
+   }
   }
  ],
- "newsUpdated": "2026-11-19T14:07:28+08:00",
+ "newsUpdated": "2026-11-19T15:07:36+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Traders Union",
+   "title": "Indonesia reports only 3.1% of planted oil palm area affected by forest fires as Singapore's haze investigation intensifies",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2RqOERId2tsMFgxSzhXdHlKeWVfSXMtQ3c5bnA0eGZmRkNjQjkwaTZBU0dWaF9LM216TmlZeEY5RWpRaW55SFpsOTlEZkRvRF9LUmxjS21SdXJyQThTVTBtWWpkcTh4OWpmR0tQVUJxbGZQRDM2djA0c0RYMVlqb3pzTWV6U3NoQUR0RTlENnhudG5ncWtj?oc=5",
+   "time": "2026-11-19T14:10:31+08:00",
+   "summary": ""
   },
   {
    "source": "Kompas.com",
@@ -588,13 +595,6 @@
    "title": "Indonesia should compensate Malaysians for the prolonged haze – Guan Eng",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjBZaTBRcXBSWEVocjREUVdqVWwzU0dEenhRMDhSUlhGSmloZm5VM3lIekMza1lRMDJ5UlE1cERLNklqbW5OSUxZdk1oNVlmZ1FzdHBxVzhqNjN5NV9LaFVwU2ozQWZ2ZHV2bkxqLThXR1pBdHppUTZ4U3F0SzE2SFJTSDd1ZXlHWWFnWmF0d3UtRGZvTFFzT2oxVmhlVGpONTZvVW43Mi0wTlZYbXh6UUhBeEF0OFE?oc=5",
    "time": "2026-11-18T09:59:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Asia News Network",
-   "title": "Malaysia proposes broadening ASEAN Haze Fund contributors",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPalh3NGhadDRMazE0V2RQaG1BajdVcVdkc3pVT0pCZTRYd196LVhGWi1PZC1hX3FTY1B6MVpQTXp2ckFvNnNROTBtTUtIUS1QSEhCcFVxT0RtR3Z1ZVd1OWVoZmJiUzRid2tKbjRtdHdtd3g2OXJZWG9oam5NVWhHSjNUdmp5WHh2cjBV?oc=5",
-   "time": "2026-11-18T09:49:09+08:00",
    "summary": ""
   }
  ]
