@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-19T21:00:00+08:00",
+ "updated": "2026-11-19T22:00:00+08:00",
  "psi": {
-  "west": 47,
-  "east": 35,
-  "central": 38,
-  "south": 28,
-  "north": 44
+  "west": 45,
+  "east": 34,
+  "central": 36,
+  "south": 29,
+  "north": 42
  },
  "pm25": {
-  "west": 13,
-  "east": 6,
-  "central": 6,
-  "south": 9,
-  "north": 12
+  "west": 10,
+  "east": 11,
+  "central": 11,
+  "south": 12,
+  "north": 16
  },
  "hist": [
-  {
-   "t": "2026-11-17T22:00:00+08:00",
-   "psi": {
-    "west": 39,
-    "east": 39,
-    "central": 42,
-    "south": 37,
-    "north": 52
-   }
-  },
   {
    "t": "2026-11-17T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 28,
     "north": 44
    }
+  },
+  {
+   "t": "2026-11-19T22:00:00+08:00",
+   "psi": {
+    "west": 45,
+    "east": 34,
+    "central": 36,
+    "south": 29,
+    "north": 42
+   }
   }
  ],
- "newsUpdated": "2026-11-19T21:09:24+08:00",
+ "newsUpdated": "2026-11-19T22:08:53+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Jakarta Post",
+   "title": "Former Malaysian minister demands $3b compensation over haze",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPei1idVZKY1dSQ2dlZlJHWDZjMDJsX3BuZGNOdXJjRlllQ1BVXzlZZzV3elhXWXFvSmZmSXR1dnJKSFQxUnRCMG1hMjZNLU1fRWZtT3QweDJ2TVNIcHZKeVlhVTlycGZabVo1VWlPYVJ6VlJ0T1NNODlZaEl1dllicXd4TTR3SDU2ajlKc1kxdVZEU0pFQWRpTVA3dnlkTFFndzZlYkU4dFBxOHM?oc=5",
+   "time": "2026-11-19T15:16:57+08:00",
+   "summary": ""
   },
   {
    "source": "Traders Union",
@@ -588,13 +595,6 @@
    "title": "Indonesia should pay Malaysia for haze-related losses – Guan Eng",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdzVyTnJwM1VaMGxOaEVYRVFOc3J1ZG5NdHpfSmlRcTVxX1dwU00tUW1aTndVR3h3UWoxMU5pMGJoY0xjQ0Y5YTl1c1BxQ29EVGNnQlUxRmItUHJzdjNHOVdkTG9iMHhIam1oMF9PbGJ3RHg5b0t0T3JuZmlyS2FvdnRXWVhpV1NLdUpCeGJlRQ?oc=5",
    "time": "2026-11-18T10:12:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Vibes",
-   "title": "Indonesia should compensate Malaysians for the prolonged haze – Guan Eng",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjBZaTBRcXBSWEVocjREUVdqVWwzU0dEenhRMDhSUlhGSmloZm5VM3lIekMza1lRMDJ5UlE1cERLNklqbW5OSUxZdk1oNVlmZ1FzdHBxVzhqNjN5NV9LaFVwU2ozQWZ2ZHV2bkxqLThXR1pBdHppUTZ4U3F0SzE2SFJTSDd1ZXlHWWFnWmF0d3UtRGZvTFFzT2oxVmhlVGpONTZvVW43Mi0wTlZYbXh6UUhBeEF0OFE?oc=5",
-   "time": "2026-11-18T09:59:00+08:00",
    "summary": ""
   }
  ]
