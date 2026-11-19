@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-20T05:00:00+08:00",
+ "updated": "2026-11-20T06:00:00+08:00",
  "psi": {
-  "west": 42,
-  "east": 44,
-  "central": 38,
+  "west": 43,
+  "east": 45,
+  "central": 39,
   "south": 34,
-  "north": 49
+  "north": 50
  },
  "pm25": {
-  "west": 10,
-  "east": 17,
-  "central": 15,
-  "south": 8,
-  "north": 13
+  "west": 12,
+  "east": 14,
+  "central": 10,
+  "south": 10,
+  "north": 16
  },
  "hist": [
-  {
-   "t": "2026-11-18T06:00:00+08:00",
-   "psi": {
-    "west": 42,
-    "east": 41,
-    "central": 45,
-    "south": 41,
-    "north": 51
-   }
-  },
   {
    "t": "2026-11-18T07:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 34,
     "north": 49
    }
+  },
+  {
+   "t": "2026-11-20T06:00:00+08:00",
+   "psi": {
+    "west": 43,
+    "east": 45,
+    "central": 39,
+    "south": 34,
+    "north": 50
+   }
   }
  ],
- "newsUpdated": "2026-11-20T05:07:24+08:00",
+ "newsUpdated": "2026-11-20T06:07:46+08:00",
  "news": [
   {
    "source": "CNA",
@@ -518,6 +518,13 @@
    "title": "Indonesia reports only 3.1% of planted oil palm area affected by forest fires as Singapore's haze investigation intensifies",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2RqOERId2tsMFgxSzhXdHlKeWVfSXMtQ3c5bnA0eGZmRkNjQjkwaTZBU0dWaF9LM216TmlZeEY5RWpRaW55SFpsOTlEZkRvRF9LUmxjS21SdXJyQThTVTBtWWpkcTh4OWpmR0tQVUJxbGZQRDM2djA0c0RYMVlqb3pzTWV6U3NoQUR0RTlENnhudG5ncWtj?oc=5",
    "time": "2026-11-19T14:10:31+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Kompas.com",
+   "title": "PSI Reaffirms Support for Prabowo, Analyst: Token Support",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQclFrTUhWak9lS0F3V003dmVVcG05M3MtcmRtTWpWU0RieHRSdlp1TUU3eDMtUFlnZkZOT0t1OUwzOEJfbWVOWnBrMXp0UGZ1YUdTS1JhYUR4b2RmdmQyUFV4LTFyQTFOMkxramE2X1FCQU9aMVVWdFFIVDV1MXdUejBZM1RWSjZkT2Q4eWgyUWN4NlZOd0M0VUwxVThib0t5OUxPdF93?oc=5",
+   "time": "2026-11-19T13:43:48+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "PM Wong holds one-to-one talks with Prabowo as haze draws concern",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWdGUUstSXg1OVVsUFpDbi1tUDdNR2xxWmg1UmlocWkyMmRfMWxadTFuZWxPQmhycHJULWlQTEUtdFdPaUhMand2TURqZ1RWRTE2NTAtaTdVT0VPWDBUUUhtaFNOam1ZZWlCcy14ZzY5V2RzczNJQlFVczdPTG9tNkZMcjFId3RudHUtZTdiMUNWWS1oZmlQZnlLUnBqZ2M?oc=5",
    "time": "2026-11-18T12:12:35+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Sun Malaysia",
-   "title": "Indonesia should pay Malaysia for haze-related losses – Guan Eng",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdzVyTnJwM1VaMGxOaEVYRVFOc3J1ZG5NdHpfSmlRcTVxX1dwU00tUW1aTndVR3h3UWoxMU5pMGJoY0xjQ0Y5YTl1c1BxQ29EVGNnQlUxRmItUHJzdjNHOVdkTG9iMHhIam1oMF9PbGJ3RHg5b0t0T3JuZmlyS2FvdnRXWVhpV1NLdUpCeGJlRQ?oc=5",
-   "time": "2026-11-18T10:12:11+08:00",
    "summary": ""
   }
  ]
