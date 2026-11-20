@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-20T10:00:00+08:00",
+ "updated": "2026-11-20T11:00:00+08:00",
  "psi": {
-  "west": 48,
+  "west": 51,
   "east": 46,
-  "central": 46,
-  "south": 39,
-  "north": 48
+  "central": 47,
+  "south": 41,
+  "north": 47
  },
  "pm25": {
-  "west": 27,
-  "east": 15,
-  "central": 17,
-  "south": 10,
-  "north": 11
+  "west": 30,
+  "east": 14,
+  "central": 14,
+  "south": 18,
+  "north": 8
  },
  "hist": [
-  {
-   "t": "2026-11-18T11:00:00+08:00",
-   "psi": {
-    "west": 42,
-    "east": 41,
-    "central": 48,
-    "south": 42,
-    "north": 49
-   }
-  },
   {
    "t": "2026-11-18T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 39,
     "north": 48
    }
+  },
+  {
+   "t": "2026-11-20T11:00:00+08:00",
+   "psi": {
+    "west": 51,
+    "east": 46,
+    "central": 47,
+    "south": 41,
+    "north": 47
+   }
   }
  ],
- "newsUpdated": "2026-11-20T10:06:50+08:00",
+ "newsUpdated": "2026-11-20T11:07:05+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Tempo.co English",
+   "title": "Jakarta Records Unhealthy Air Quality on Friday",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0w5c3dKQVd2dkhXRDBkTXdDWTQ3U3lZSlBjOFNyU1NKUEh3a293ZnR4V0l3cmF4eVpObG1ianJveFByd0VXckxJZUx6b1JmaVZzNzliQk0yNVBjdXVZNENTMGhjN0puSVV4c0NtWjNZN25HZE5XazJPckgyOVJOdklOZ2dreEU?oc=5",
+   "time": "2026-11-20T09:54:50+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Jakarta Globe",
+   "title": "ASEAN Digital Economy Advances, But Oil and Haze Hurdles Remain",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSDBTdjFhUnRzXzUwSmxTS2VrclBGOEZlbUFGZXE2N2o1aXg2a3V3YURHSDRSLS0tODNGSGhqemtXNUZDMWIzRGg1T1VBaXREZEdBTGNHMW5ZWllxQnJ6ODRMZGZtZUJHTFF0c0xqLWt2eUdOQ2ZQcTRnOXFvcDU2MnJFV1NPWkRfMGNyaVY5X3hoUFpSSnc?oc=5",
+   "time": "2026-11-20T09:30:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Jakarta Post",
@@ -581,20 +595,6 @@
    "title": "ASEAN leaders tackle transboundary haze pollution, push stronger action against forest fires",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU256Y0NXWEJNeTR4LXJ4X0Z2bHlNQV9pWC1JaHlPZGFIRnBUT1ktNDRLOExNUHREWjhCLW8xTkFuQXJYQWduWENjN1Q1bFQzVVRmRFV0WXZCZTFuY2xkUDdfMW9PZVUzZkx2eHowSk55N2R3cFRGTEdZU1ZMcWRZek94dU93dFNDckFGY2dwWUFGa3ZQYWZmcXZSZWxnamZDenhpYlhMNXdvZTVaNk50YURYTTAtRWxyRzNIYg?oc=5",
    "time": "2026-11-18T14:07:45+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Philippine Information Agency",
-   "title": "Transnational haze discussed at ASEAN Summit",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVUjZJTDNNU1dDbzFKOWlybFliLWh1ZDlMUUdNOXpzWE5CX2hRY1BvVVJiY04yeVNXVGpIbzBacm9MWTNicGtpNFV0TXRoWDRnV3JmWU1qclhyVHU0UVRoT1hnUG92OVdwakQ4VnVxVTNfNjlGMElJbQ?oc=5",
-   "time": "2026-11-18T12:53:47+08:00",
-   "summary": ""
-  },
-  {
-   "source": "联合早报",
-   "title": "PM Wong holds one-to-one talks with Prabowo as haze draws concern",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWdGUUstSXg1OVVsUFpDbi1tUDdNR2xxWmg1UmlocWkyMmRfMWxadTFuZWxPQmhycHJULWlQTEUtdFdPaUhMand2TURqZ1RWRTE2NTAtaTdVT0VPWDBUUUhtaFNOam1ZZWlCcy14ZzY5V2RzczNJQlFVczdPTG9tNkZMcjFId3RudHUtZTdiMUNWWS1oZmlQZnlLUnBqZ2M?oc=5",
-   "time": "2026-11-18T12:12:35+08:00",
    "summary": ""
   }
  ]
