@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-20T23:00:00+08:00",
+ "updated": "2026-11-21T00:00:00+08:00",
  "psi": {
   "west": 58,
-  "east": 49,
+  "east": 47,
   "central": 53,
-  "south": 52,
-  "north": 51
+  "south": 51,
+  "north": 49
  },
  "pm25": {
-  "west": 11,
+  "west": 8,
   "east": 6,
-  "central": 8,
-  "south": 7,
-  "north": 4
+  "central": 5,
+  "south": 6,
+  "north": 7
  },
  "hist": [
-  {
-   "t": "2026-11-19T00:00:00+08:00",
-   "psi": {
-    "west": 53,
-    "east": 53,
-    "central": 56,
-    "south": 48,
-    "north": 55
-   }
-  },
   {
    "t": "2026-11-19T01:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 52,
     "north": 51
    }
+  },
+  {
+   "t": "2026-11-21T00:00:00+08:00",
+   "psi": {
+    "west": 58,
+    "east": 47,
+    "central": 53,
+    "south": 51,
+    "north": 49
+   }
   }
  ],
- "newsUpdated": "2026-11-20T23:08:32+08:00",
+ "newsUpdated": "2026-11-21T00:08:06+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Jakarta Post",
+   "title": "PSI’s place in ruling coalition questioned",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTktjLXFURHRZOHZXRmdQRFhkQVdPQS1GamFDQ3B0TzFyVllEUXBGVGxQU19xWDI2R0VublFNelBnY1pwMGt4ZjJJVTU5QWM5WVZEM2lwOXdMOThZSFB4RWlSbnFaQmllbDNRTzVjVUc0OVROcmdHWTREWVFSR2M0ZmZUSkNJWnhNZ2dCbnhkR1BnRDhUU24tTQ?oc=5",
+   "time": "2026-11-20T19:27:49+08:00",
+   "summary": ""
   },
   {
    "source": "Facebook",
@@ -588,13 +595,6 @@
    "title": "PSI Reaffirms Support for Prabowo, Analyst: Token Support",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQclFrTUhWak9lS0F3V003dmVVcG05M3MtcmRtTWpWU0RieHRSdlp1TUU3eDMtUFlnZkZOT0t1OUwzOEJfbWVOWnBrMXp0UGZ1YUdTS1JhYUR4b2RmdmQyUFV4LTFyQTFOMkxramE2X1FCQU9aMVVWdFFIVDV1MXdUejBZM1RWSjZkT2Q4eWgyUWN4NlZOd0M0VUwxVThib0t5OUxPdF93?oc=5",
    "time": "2026-11-19T13:43:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kompas.com",
-   "title": "Dasco Asserts No Party Withdrawn from Coalition, Despite PSI Lacking Cabinet Seats",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVXlhQzFUdmI5cGNSSlBvY0oyQXkyNzAxRFA4dVJ2eTJ2bTJQb2ROeS1wMFdQV2htR21qS3Vhc1ZSSld6QnVnTVNGSEpGWlg1VTEwUVo3Z3hEUzRNZk5CQnlZQTlpTm1HV1VPbW41dkppbTZaVTNFam1aTkt0dFNTV2F3QWZfSFRjMXFPR2kxTHZjdmVrek04R01FN0w1NWc0NG1oNnAxT3JrSUFhdm5uUE4wcnhaNXZCbGNac3E0bGFFa3hzeFA4bw?oc=5",
-   "time": "2026-11-19T13:15:05+08:00",
    "summary": ""
   }
  ]
