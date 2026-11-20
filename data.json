@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-20T22:00:00+08:00",
+ "updated": "2026-11-20T23:00:00+08:00",
  "psi": {
   "west": 58,
-  "east": 51,
+  "east": 49,
   "central": 53,
   "south": 52,
   "north": 51
  },
  "pm25": {
-  "west": 15,
+  "west": 11,
   "east": 6,
-  "central": 7,
-  "south": 6,
-  "north": 3
+  "central": 8,
+  "south": 7,
+  "north": 4
  },
  "hist": [
-  {
-   "t": "2026-11-18T23:00:00+08:00",
-   "psi": {
-    "west": 53,
-    "east": 52,
-    "central": 56,
-    "south": 48,
-    "north": 55
-   }
-  },
   {
    "t": "2026-11-19T00:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 52,
     "north": 51
    }
+  },
+  {
+   "t": "2026-11-20T23:00:00+08:00",
+   "psi": {
+    "west": 58,
+    "east": 49,
+    "central": 53,
+    "south": 52,
+    "north": 51
+   }
   }
  ],
- "newsUpdated": "2026-11-20T22:08:43+08:00",
+ "newsUpdated": "2026-11-20T23:08:32+08:00",
  "news": [
   {
    "source": "CNA",
@@ -514,6 +514,34 @@
    "summary": ""
   },
   {
+   "source": "The Straits Times",
+   "title": "Singapore to strengthen regional framework on haze when it’s ASEAN chair in 2027",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPWVBXSVY3emdXYmlWWG82UDVpdEpEMi1TWGJtdlE4aWZDeDFLM1h3anJ0NGd4NXpsWXE2TEdrc3NEVl8tSW1ObHdfX093d3BxTGZRbE1LOWRQX3BvNWc?oc=5",
+   "time": "2026-11-20T17:33:20+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Sun Malaysia",
+   "title": "Prabowo apologises to Malaysia, Singapore over transboundary haze",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMWtBQVA5TXFlZjdMVE5HaklmRkhiQWRvdC13YmJhMGNJR0hUT0lHemlFZFZxWWJCV0pzN0tnTlFUUUFYSFhwaXAyX2VnWVBGLUNMV0hVOTdLbG10dTYtOGQ0UVlmVzAwWFRxMmc4bXJfVHpwMU15eFFEbEFVM0NmcVhaQ1VoMUJvbzVvUDdzNWp0LU9KX1RkdFlqUmw3MHJBQzdrTQ?oc=5",
+   "time": "2026-11-20T16:34:13+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
+   "time": "2026-11-20T14:14:26+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Haze situation in Singapore worsens as east and west regions reach unhealthy PSI levels",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52WHZEZWtPSU5lWV9LcjRWekhmcVN6Zmd3WXZBRnllT2tSdkpiOV9ZaTF1RnBvUGJXWV8tQnVZRmF6bjFEVDdFS2Z6UEkxcXNNMFA1MVkyRG9Qa2dsdnc?oc=5",
+   "time": "2026-11-20T10:19:54+08:00",
+   "summary": ""
+  },
+  {
    "source": "Tempo.co English",
    "title": "Jakarta Records Unhealthy Air Quality on Friday",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0w5c3dKQVd2dkhXRDBkTXdDWTQ3U3lZSlBjOFNyU1NKUEh3a293ZnR4V0l3cmF4eVpObG1ianJveFByd0VXckxJZUx6b1JmaVZzNzliQk0yNVBjdXVZNENTMGhjN0puSVV4c0NtWjNZN25HZE5XazJPckgyOVJOdklOZ2dreEU?oc=5",
@@ -525,6 +553,20 @@
    "title": "ASEAN Digital Economy Advances, But Oil and Haze Hurdles Remain",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSDBTdjFhUnRzXzUwSmxTS2VrclBGOEZlbUFGZXE2N2o1aXg2a3V3YURHSDRSLS0tODNGSGhqemtXNUZDMWIzRGg1T1VBaXREZEdBTGNHMW5ZWllxQnJ6ODRMZGZtZUJHTFF0c0xqLWt2eUdOQ2ZQcTRnOXFvcDU2MnJFV1NPWkRfMGNyaVY5X3hoUFpSSnc?oc=5",
    "time": "2026-11-20T09:30:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Yeni Safak English",
+   "title": "Indonesia environment team threatened with death investigating haze",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdDhULW5teFFILUdvMVV5cW4xTDJxUURlT0hNeTdfNzZTZFFNYlFoc3JfdjE4aFhTSUJueXBHUVZZNG9wb0tvdkRfZWRfQnhtdGdET1VRZzZENnFfa2lZQUNxRjBOYnprTzQzT3hHdFRPX1g1X1QwaUREdXdReTlEUFROWGhGaWhfay1DS3R5YUhOdDh2RkpHVjAzMS1xVVRYVXFYZ2JsdG9hUQ?oc=5",
+   "time": "2026-11-20T08:21:48+08:00",
+   "summary": ""
+  },
+  {
+   "source": "JurnalPost",
+   "title": "Breaking the Annual Haze Ritual",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03RVBHT0sweDNwczRkNzVwbzBHOXViNjNrNFphWGN2VUl0YkNXbTNObjZYVWVMck9XcnRNR3JUdnVSdE5UQkdBbWV3RDBrZkhmZGlsMW56c2hJbU9ZMUUxTVJiWk1ILWtSUXZ0dHQwYWpvUQ?oc=5",
+   "time": "2026-11-19T21:47:49+08:00",
    "summary": ""
   },
   {
@@ -553,27 +595,6 @@
    "title": "Dasco Asserts No Party Withdrawn from Coalition, Despite PSI Lacking Cabinet Seats",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVXlhQzFUdmI5cGNSSlBvY0oyQXkyNzAxRFA4dVJ2eTJ2bTJQb2ROeS1wMFdQV2htR21qS3Vhc1ZSSld6QnVnTVNGSEpGWlg1VTEwUVo3Z3hEUzRNZk5CQnlZQTlpTm1HV1VPbW41dkppbTZaVTNFam1aTkt0dFNTV2F3QWZfSFRjMXFPR2kxTHZjdmVrek04R01FN0w1NWc0NG1oNnAxT3JrSUFhdm5uUE4wcnhaNXZCbGNac3E0bGFFa3hzeFA4bw?oc=5",
    "time": "2026-11-19T13:15:05+08:00",
-   "summary": ""
-  },
-  {
-   "source": "联合早报",
-   "title": "Bumitama Agri says NEA has appointed expert panel members to assess firm’s links to haze",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWmI3S2dfc0YyTk14UWtWcy1mRmpvTlNfNmhza0ZqSEFyT0g4dUNlWEloUlh5U203TEVaX0dMT0ZpaTNpY1dzUWRna2gybVNLN2VqRGhUdHgtRHVHSjE2MmpQU2l0MEk5MVhhazB2TlUtaWk5ZkkyYlpJZWxZb2EwYXJsbjlLUTJKcnFtSk8zbk1ERUNqRVlsTHd6dnJRNDVUZWZqQndlZm1OdnFSYjdYd3h3eHlWZkRPaS01Rkd2bkZXQk5hZW5J?oc=5",
-   "time": "2026-11-18T23:19:15+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Forest Insights Indonesia",
-   "title": "Indonesia Calls for Stronger Peatland Governance and Regional Cooperation to Tackle Transboundary Haze at COP31",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcDVjTEtxVUd3akt1NEZJRzNtQV9sRmcxZ2FIdDVwX2FTaDgwSndTM1NpTzk4ZW42Z0NBNk03N1ducXdFOUtzWlAyalVLSExkTDFnVFRfR1hRS2NKYXltaV9OSjI4YmYzWDdHUWd4czFBel9aNzN0eUlmMWdJSERMZV9STDdNYzhJS0NmWFZVNFRZM0Y0YlM0Rk9HMWxMZG1oNEMtdDBlVTU5OEE1VWlMZlE3d2dmVUY0cTdySHQ4UFgtQTl5NmhNQ2tEVFp2eDFZRW1jVg?oc=5",
-   "time": "2026-11-18T22:51:43+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Jakarta Globe",
-   "title": "‘Right Move, But Too Late’: Ex-Vice FM on Indonesian Haze Apology",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEl4d3NnZ2hkVVB0VWRla1RFSC05SjdWM2I5dzNrM1lIeHhJRE54bnpJal9VSjJKY09QdDJwUktNQlhTRjFmTUNmVVJDdHpHclY1cXQ1MGF5bUFzTHF4RERwZkFxUHpBZXhzd1BoXzQ4eWdQYkJITHF5eDN3M2xZdDNsaG41LXNrZTktZGJwSTAzR28?oc=5",
-   "time": "2026-11-18T22:18:00+08:00",
    "summary": ""
   }
  ]
