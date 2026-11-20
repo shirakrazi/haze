@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-20T18:00:00+08:00",
+ "updated": "2026-11-20T19:00:00+08:00",
  "psi": {
-  "west": 57,
+  "west": 58,
   "east": 51,
-  "central": 54,
+  "central": 53,
   "south": 53,
   "north": 53
  },
  "pm25": {
-  "west": 25,
-  "east": 10,
-  "central": 4,
-  "south": 9,
-  "north": 10
+  "west": 19,
+  "east": 6,
+  "central": 8,
+  "south": 11,
+  "north": 7
  },
  "hist": [
-  {
-   "t": "2026-11-18T19:00:00+08:00",
-   "psi": {
-    "west": 51,
-    "east": 46,
-    "central": 54,
-    "south": 45,
-    "north": 53
-   }
-  },
   {
    "t": "2026-11-18T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 53,
     "north": 53
    }
+  },
+  {
+   "t": "2026-11-20T19:00:00+08:00",
+   "psi": {
+    "west": 58,
+    "east": 51,
+    "central": 53,
+    "south": 53,
+    "north": 53
+   }
   }
  ],
- "newsUpdated": "2026-11-20T18:07:16+08:00",
+ "newsUpdated": "2026-11-20T19:08:21+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Facebook",
+   "title": "View of the skyline in Ma-a-Langub, Davao City on Friday (Nov. 20, 2026) as air quality in the Davao Region returns to generally good levels following the easing of transboundary haze from Indonesia, according to the Environmental Management Bureau-Reg",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX2dEWUtwRkhLOEJpWW9OR0tqZkk0WjUySmtUOFo3a2xUaFltbnZfaE5SbWVpX1U1a0t0N1FVNE1DXzd3dmdhdmVOQktNc011dk55MUV4V3RqOFRtdjN4RVBoa0JLNHFyYy10YjJ4RkdhSjNjSW05NWxHekg4Qndlclo4RXcyb0RuRjEtcF9BYjZ2SmNPVE1NZ0dNZ3FxLTZ6NjkyajU5OFNxRk8wOUxGY0NtdGs2a1dwbkF2ZzE4Z3ItRFJGVW9nczZCdmtQT0lwc3lBNg?oc=5",
+   "time": "2026-11-20T18:06:46+08:00",
+   "summary": ""
   },
   {
    "source": "Tempo.co English",
@@ -567,27 +574,6 @@
    "title": "‘Right Move, But Too Late’: Ex-Vice FM on Indonesian Haze Apology",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEl4d3NnZ2hkVVB0VWRla1RFSC05SjdWM2I5dzNrM1lIeHhJRE54bnpJal9VSjJKY09QdDJwUktNQlhTRjFmTUNmVVJDdHpHclY1cXQ1MGF5bUFzTHF4RERwZkFxUHpBZXhzd1BoXzQ4eWdQYkJITHF5eDN3M2xZdDNsaG41LXNrZTktZGJwSTAzR28?oc=5",
    "time": "2026-11-18T22:18:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Turkmenportal.com",
-   "title": "Indonesia has apologized to its neighbors for the haze from forest fires",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkZldEVJY2xVVk5pTW1Oc3k0QVVUdlo1NjAtWWJJT1hKN25EVU1STWpfUkhMT21UQmZEVkI2SlNQSl90VXFscDZYMXhnUnEyZnhScmZHSzdROEZmZV9DZE1yc0lGbmc0ekV4c085UDdRQjJFakdyS0J5VTcxTksxV1FaT2FabzBaMFd6cDFhQzhxdHV5WWVxS1pCTjBubFZneGNIbkFSeDVCZmpEV2VTMEpzRQ?oc=5",
-   "time": "2026-11-18T18:52:42+08:00",
-   "summary": ""
-  },
-  {
-   "source": "South China Morning Post",
-   "title": "Former Malaysian minister calls on Indonesia to pay US$3 billion for haze losses",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdWJoaUtxWkFab1BPR1BHMG9YZndSckVKblYwNWg4a3l6bkpKa29rQ05ac1NzUFBXZzBmak9FbDZoWnBmai0zaGxOX3BqOTJvbUhPY2xyVi1tNXlHMlY2Y09JaEdsdFVLNmxZZ29IajhUcklTejFCMi15M0NadVYxSkhLbk9nbmo2S0NqdDZxZlJ3LUNNRUxWb3pLa3F0SEhvLW9Ra3NZZ25KUXQyU055aFNhNmZ1T2szZGloQzM4aTFlX1J2bXJiS08yNDV4bzl30gHQAUFVX3lxTE1CajN1azBkTVpHWkdaLVMxVjVxN3BTdl9RZnEydlZYTGkzbkRGSEF3ZW5paXhGeHctNWwyMzI0RlJtUnRPV0YyQnlELTlJTDhwZkFLa1c2U19VOUZ2VVowZC1DazRPbG1lRnhoTnJLZlNKMy1wUWRDSW9KSnJIbGhSTzliOEdPNEw5a2QwUkl6b0czVXVQSU1RQXpTZ1VJMWp2cXpucndPakhfenRocTh4US1oaFVNZDUtZ2pUY3c0dzBZRFJPZTBzMEh1TE5ZOXQ?oc=5",
-   "time": "2026-11-18T18:39:07+08:00",
-   "summary": ""
-  },
-  {
-   "source": "streamlinefeed.co.ke",
-   "title": "ASEAN Haze Centre Stalls Halfway to Activation in Jakarta",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEpSSHlVNVZoeTB3NjBDY2RBdXZyc19JWXc0UVhSb21sMWRkMExJcVFudWVrSWxHOTBIU29uNGhfOXg1QnR5MGJpSnZFMGUzc19IaEpZb04xcmp1UDVUOER3V3pvR2M0WkJMRHl3UEprRmV6RC1reXdPTHRBS0pRdk0wYklVSFBzdkJCbnNSOUNEend5NVE?oc=5",
-   "time": "2026-11-18T18:33:00+08:00",
    "summary": ""
   }
  ]
