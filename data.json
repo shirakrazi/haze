@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-21T02:00:00+08:00",
+ "updated": "2026-11-21T03:00:00+08:00",
  "psi": {
   "west": 56,
-  "east": 47,
-  "central": 52,
-  "south": 50,
-  "north": 44
+  "east": 45,
+  "central": 51,
+  "south": 49,
+  "north": 42
  },
  "pm25": {
-  "west": 8,
-  "east": 16,
+  "west": 4,
+  "east": 10,
   "central": 5,
   "south": 5,
-  "north": 5
+  "north": 6
  },
  "hist": [
-  {
-   "t": "2026-11-19T03:00:00+08:00",
-   "psi": {
-    "west": 55,
-    "east": 52,
-    "central": 56,
-    "south": 44,
-    "north": 54
-   }
-  },
   {
    "t": "2026-11-19T04:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 50,
     "north": 44
    }
+  },
+  {
+   "t": "2026-11-21T03:00:00+08:00",
+   "psi": {
+    "west": 56,
+    "east": 45,
+    "central": 51,
+    "south": 49,
+    "north": 42
+   }
   }
  ],
- "newsUpdated": "2026-11-21T02:07:24+08:00",
+ "newsUpdated": "2026-11-21T03:07:23+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "The Singapore connections to the Indonesian companies causing the haze",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12LTZsQnVNSE9BeElxVzd1STh4U3VXMm1xbjRUaGtBUXkyTE56WDZZS0N4Mnd6SGZXZG5vamRrREYzOGpTYjRmelMyNnlBRkozMnVkb0xzS2x1bU82RXc?oc=5",
+   "time": "2026-11-20T22:29:17+08:00",
+   "summary": ""
   },
   {
    "source": "The Jakarta Post",
@@ -539,13 +546,6 @@
    "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
    "time": "2026-11-20T14:14:26+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Haze situation in Singapore worsens as east and west regions reach unhealthy PSI levels",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52WHZEZWtPSU5lWV9LcjRWekhmcVN6Zmd3WXZBRnllT2tSdkpiOV9ZaTF1RnBvUGJXWV8tQnVZRmF6bjFEVDdFS2Z6UEkxcXNNMFA1MVkyRG9Qa2dsdnc?oc=5",
-   "time": "2026-11-20T10:19:54+08:00",
    "summary": ""
   },
   {
