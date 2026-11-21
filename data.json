@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-21T16:00:00+08:00",
+ "updated": "2026-11-21T17:00:00+08:00",
  "psi": {
-  "west": 45,
-  "east": 32,
-  "central": 32,
-  "south": 34,
-  "north": 27
+  "west": 42,
+  "east": 31,
+  "central": 31,
+  "south": 33,
+  "north": 25
  },
  "pm25": {
-  "west": 6,
-  "east": 7,
+  "west": 7,
+  "east": 5,
   "central": 5,
-  "south": 9,
-  "north": 3
+  "south": 10,
+  "north": 4
  },
  "hist": [
-  {
-   "t": "2026-11-19T17:00:00+08:00",
-   "psi": {
-    "west": 52,
-    "east": 44,
-    "central": 45,
-    "south": 31,
-    "north": 51
-   }
-  },
   {
    "t": "2026-11-19T18:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 34,
     "north": 27
    }
+  },
+  {
+   "t": "2026-11-21T17:00:00+08:00",
+   "psi": {
+    "west": 42,
+    "east": 31,
+    "central": 31,
+    "south": 33,
+    "north": 25
+   }
   }
  ],
- "newsUpdated": "2026-11-21T16:07:02+08:00",
+ "newsUpdated": "2026-11-21T17:06:47+08:00",
  "news": [
   {
    "source": "CNA",
@@ -511,6 +511,13 @@
    "title": "Proposed changes to haze law includes new ways of establishing liability for haze-causing fires",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WRkRjbjNhWVBoR2R2LTNUOUx0a0ZOYUVNbkRuNU5fTUx5WXNRWXJQLTlyMzdwZTFJQTBNQ0xvVklJdUJCaEVDM1FTeVRRdXZTNVBlbTVXWTVmYTVOTWc?oc=5",
    "time": "2026-11-21T10:17:16+08:00",
+   "summary": ""
+  },
+  {
+   "source": "DW.com",
+   "title": "Indonesia forest fires spew smoggy haze over Malaysia, Singapore",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHZxRE83OENLbVlCM093SFF3Q1ZMRjNfNzNjc0NTOXVieWhZQ3NKX2lsd1ZBOUNPRzlOVjlyeXM4bURiYXdKOEIybzRpbkRnNVdzcW5GYWpIcjBST1Axc3lYUC02OTJLSlFPN3h2Ujc5VUJKd0dfTGFEaXRndU5qc1ZjaXFFaDJlWHBmN3ZVYy1oMVl2emE4SDRoZmo?oc=5",
+   "time": "2026-11-21T07:56:17+08:00",
    "summary": ""
   },
   {
