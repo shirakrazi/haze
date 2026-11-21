@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-21T14:00:00+08:00",
+ "updated": "2026-11-21T15:00:00+08:00",
  "psi": {
-  "west": 51,
-  "east": 33,
-  "central": 34,
-  "south": 37,
-  "north": 33
+  "west": 48,
+  "east": 31,
+  "central": 33,
+  "south": 35,
+  "north": 30
  },
  "pm25": {
-  "west": 6,
+  "west": 5,
   "east": 4,
-  "central": 4,
-  "south": 14,
-  "north": 4
+  "central": 6,
+  "south": 6,
+  "north": 3
  },
  "hist": [
-  {
-   "t": "2026-11-19T15:00:00+08:00",
-   "psi": {
-    "west": 53,
-    "east": 47,
-    "central": 51,
-    "south": 34,
-    "north": 53
-   }
-  },
   {
    "t": "2026-11-19T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 37,
     "north": 33
    }
+  },
+  {
+   "t": "2026-11-21T15:00:00+08:00",
+   "psi": {
+    "west": 48,
+    "east": 31,
+    "central": 33,
+    "south": 35,
+    "north": 30
+   }
   }
  ],
- "newsUpdated": "2026-11-21T14:07:03+08:00",
+ "newsUpdated": "2026-11-21T15:06:49+08:00",
  "news": [
   {
    "source": "CNA",
@@ -581,13 +581,6 @@
    "title": "Former Malaysian minister demands $3b compensation over haze",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPei1idVZKY1dSQ2dlZlJHWDZjMDJsX3BuZGNOdXJjRlllQ1BVXzlZZzV3elhXWXFvSmZmSXR1dnJKSFQxUnRCMG1hMjZNLU1fRWZtT3QweDJ2TVNIcHZKeVlhVTlycGZabVo1VWlPYVJ6VlJ0T1NNODlZaEl1dllicXd4TTR3SDU2ajlKc1kxdVZEU0pFQWRpTVA3dnlkTFFndzZlYkU4dFBxOHM?oc=5",
    "time": "2026-11-19T15:16:57+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Traders Union",
-   "title": "Indonesia reports only 3.1% of planted oil palm area affected by forest fires as Singapore's haze investigation intensifies",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2RqOERId2tsMFgxSzhXdHlKeWVfSXMtQ3c5bnA0eGZmRkNjQjkwaTZBU0dWaF9LM216TmlZeEY5RWpRaW55SFpsOTlEZkRvRF9LUmxjS21SdXJyQThTVTBtWWpkcTh4OWpmR0tQVUJxbGZQRDM2djA0c0RYMVlqb3pzTWV6U3NoQUR0RTlENnhudG5ncWtj?oc=5",
-   "time": "2026-11-19T14:10:31+08:00",
    "summary": ""
   }
  ]
