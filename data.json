@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-21T21:00:00+08:00",
+ "updated": "2026-11-21T22:00:00+08:00",
  "psi": {
-  "west": 36,
+  "west": 35,
   "east": 31,
   "central": 30,
-  "south": 31,
-  "north": 27
+  "south": 32,
+  "north": 28
  },
  "pm25": {
-  "west": 12,
-  "east": 8,
-  "central": 8,
-  "south": 8,
-  "north": 14
+  "west": 14,
+  "east": 9,
+  "central": 9,
+  "south": 11,
+  "north": 10
  },
  "hist": [
-  {
-   "t": "2026-11-19T22:00:00+08:00",
-   "psi": {
-    "west": 45,
-    "east": 34,
-    "central": 36,
-    "south": 29,
-    "north": 42
-   }
-  },
   {
    "t": "2026-11-19T23:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 31,
     "north": 27
    }
+  },
+  {
+   "t": "2026-11-21T22:00:00+08:00",
+   "psi": {
+    "west": 35,
+    "east": 31,
+    "central": 30,
+    "south": 32,
+    "north": 28
+   }
   }
  ],
- "newsUpdated": "2026-11-21T21:07:30+08:00",
+ "newsUpdated": "2026-11-21T22:06:59+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "联合早报",
+   "title": "Wetter, windier year-end weather may bring days of rain; transboundary haze risk reduced but not eliminated",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNajJBUURVVW9rS2ZmaVhUNGgyWVFnV0NRQjV1T2lkSkw5b21qN0p4RWRCMTRaekJRdXU5MEFFWHRtN0c0ZHlwdENTZDl1MUg3TUdiUi04d1R6YXVZZFZ1MTJhYVNyVkZvM0Vyc1d6emV0dzNLNGlYaHAzWUh3M1NLaEFWZXo2bTZmTTZ0YUJOMVdoXzZyclpVNF9fWTNKVC1URlhDUnc3MjV4U3dmcjhIcUhTNVZSak0zUzhBNmRpZlA5ZnZrT1ZHU3o3NkJDd2tfNXVUV2V4MGo5QQ?oc=5",
+   "time": "2026-11-21T21:17:59+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -581,13 +588,6 @@
    "title": "Indonesia environment team threatened with death investigating haze",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdDhULW5teFFILUdvMVV5cW4xTDJxUURlT0hNeTdfNzZTZFFNYlFoc3JfdjE4aFhTSUJueXBHUVZZNG9wb0tvdkRfZWRfQnhtdGdET1VRZzZENnFfa2lZQUNxRjBOYnprTzQzT3hHdFRPX1g1X1QwaUREdXdReTlEUFROWGhGaWhfay1DS3R5YUhOdDh2RkpHVjAzMS1xVVRYVXFYZ2JsdG9hUQ?oc=5",
    "time": "2026-11-20T08:21:48+08:00",
-   "summary": ""
-  },
-  {
-   "source": "JurnalPost",
-   "title": "Breaking the Annual Haze Ritual",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03RVBHT0sweDNwczRkNzVwbzBHOXViNjNrNFphWGN2VUl0YkNXbTNObjZYVWVMck9XcnRNR3JUdnVSdE5UQkdBbWV3RDBrZkhmZGlsMW56c2hJbU9ZMUUxTVJiWk1ILWtSUXZ0dHQwYWpvUQ?oc=5",
-   "time": "2026-11-19T21:47:49+08:00",
    "summary": ""
   }
  ]
