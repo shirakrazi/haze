@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-21T13:00:00+08:00",
+ "updated": "2026-11-21T14:00:00+08:00",
  "psi": {
-  "west": 52,
+  "west": 51,
   "east": 33,
-  "central": 38,
-  "south": 38,
-  "north": 36
+  "central": 34,
+  "south": 37,
+  "north": 33
  },
  "pm25": {
-  "west": 13,
-  "east": 6,
-  "central": 9,
-  "south": 21,
+  "west": 6,
+  "east": 4,
+  "central": 4,
+  "south": 14,
   "north": 4
  },
  "hist": [
-  {
-   "t": "2026-11-19T14:00:00+08:00",
-   "psi": {
-    "west": 53,
-    "east": 50,
-    "central": 52,
-    "south": 37,
-    "north": 53
-   }
-  },
   {
    "t": "2026-11-19T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 38,
     "north": 36
    }
+  },
+  {
+   "t": "2026-11-21T14:00:00+08:00",
+   "psi": {
+    "west": 51,
+    "east": 33,
+    "central": 34,
+    "south": 37,
+    "north": 33
+   }
   }
  ],
- "newsUpdated": "2026-11-21T13:07:07+08:00",
+ "newsUpdated": "2026-11-21T14:07:03+08:00",
  "news": [
   {
    "source": "CNA",
@@ -588,13 +588,6 @@
    "title": "Indonesia reports only 3.1% of planted oil palm area affected by forest fires as Singapore's haze investigation intensifies",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2RqOERId2tsMFgxSzhXdHlKeWVfSXMtQ3c5bnA0eGZmRkNjQjkwaTZBU0dWaF9LM216TmlZeEY5RWpRaW55SFpsOTlEZkRvRF9LUmxjS21SdXJyQThTVTBtWWpkcTh4OWpmR0tQVUJxbGZQRDM2djA0c0RYMVlqb3pzTWV6U3NoQUR0RTlENnhudG5ncWtj?oc=5",
    "time": "2026-11-19T14:10:31+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kompas.com",
-   "title": "PSI Reaffirms Support for Prabowo, Analyst: Token Support",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQclFrTUhWak9lS0F3V003dmVVcG05M3MtcmRtTWpWU0RieHRSdlp1TUU3eDMtUFlnZkZOT0t1OUwzOEJfbWVOWnBrMXp0UGZ1YUdTS1JhYUR4b2RmdmQyUFV4LTFyQTFOMkxramE2X1FCQU9aMVVWdFFIVDV1MXdUejBZM1RWSjZkT2Q4eWgyUWN4NlZOd0M0VUwxVThib0t5OUxPdF93?oc=5",
-   "time": "2026-11-19T13:43:48+08:00",
    "summary": ""
   }
  ]
