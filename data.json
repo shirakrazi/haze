@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-22T17:00:00+08:00",
+ "updated": "2026-11-22T18:00:00+08:00",
  "psi": {
-  "west": 51,
+  "west": 52,
   "east": 39,
-  "central": 39,
+  "central": 40,
   "south": 41,
   "north": 41
  },
  "pm25": {
-  "west": 16,
-  "east": 4,
-  "central": 9,
-  "south": 8,
-  "north": 5
+  "west": 18,
+  "east": 5,
+  "central": 17,
+  "south": 4,
+  "north": 6
  },
  "hist": [
-  {
-   "t": "2026-11-20T14:00:00+08:00",
-   "psi": {
-    "west": 53,
-    "east": 49,
-    "central": 52,
-    "south": 49,
-    "north": 50
-   }
-  },
   {
    "t": "2026-11-20T15:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 41,
     "north": 41
    }
+  },
+  {
+   "t": "2026-11-22T18:00:00+08:00",
+   "psi": {
+    "west": 52,
+    "east": 39,
+    "central": 40,
+    "south": 41,
+    "north": 41
+   }
   }
  ],
- "newsUpdated": "2026-11-22T17:06:43+08:00",
+ "newsUpdated": "2026-11-22T18:06:46+08:00",
  "news": [
   {
    "source": "CNA",
@@ -510,7 +510,7 @@
    "source": "The Straits Times",
    "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
-   "time": "2026-11-22T14:11:36+08:00",
+   "time": "2026-11-22T16:59:31+08:00",
    "summary": ""
   },
   {
@@ -553,13 +553,6 @@
    "title": "PSI’s place in ruling coalition questioned",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTktjLXFURHRZOHZXRmdQRFhkQVdPQS1GamFDQ3B0TzFyVllEUXBGVGxQU19xWDI2R0VublFNelBnY1pwMGt4ZjJJVTU5QWM5WVZEM2lwOXdMOThZSFB4RWlSbnFaQmllbDNRTzVjVUc0OVROcmdHWTREWVFSR2M0ZmZUSkNJWnhNZ2dCbnhkR1BnRDhUU24tTQ?oc=5",
    "time": "2026-11-20T19:27:49+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Facebook",
-   "title": "View of the skyline in Ma-a-Langub, Davao City on Friday (Nov. 20, 2026) as air quality in the Davao Region returns to generally good levels following the easing of transboundary haze from Indonesia, according to the Environmental Management Bureau-Reg",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX2dEWUtwRkhLOEJpWW9OR0tqZkk0WjUySmtUOFo3a2xUaFltbnZfaE5SbWVpX1U1a0t0N1FVNE1DXzd3dmdhdmVOQktNc011dk55MUV4V3RqOFRtdjN4RVBoa0JLNHFyYy10YjJ4RkdhSjNjSW05NWxHekg4Qndlclo4RXcyb0RuRjEtcF9BYjZ2SmNPVE1NZ0dNZ3FxLTZ6NjkyajU5OFNxRk8wOUxGY0NtdGs2a1dwbkF2ZzE4Z3ItRFJGVW9nczZCdmtQT0lwc3lBNg?oc=5",
-   "time": "2026-11-20T18:06:46+08:00",
    "summary": ""
   }
  ]
