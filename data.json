@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-22T11:00:00+08:00",
+ "updated": "2026-11-22T12:00:00+08:00",
  "psi": {
-  "west": 52,
+  "west": 51,
   "east": 39,
   "central": 39,
-  "south": 44,
+  "south": 43,
   "north": 39
  },
  "pm25": {
-  "west": 15,
-  "east": 10,
-  "central": 12,
-  "south": 6,
-  "north": 17
+  "west": 7,
+  "east": 7,
+  "central": 6,
+  "south": 13,
+  "north": 11
  },
  "hist": [
-  {
-   "t": "2026-11-20T08:00:00+08:00",
-   "psi": {
-    "west": 45,
-    "east": 46,
-    "central": 42,
-    "south": 36,
-    "north": 51
-   }
-  },
   {
    "t": "2026-11-20T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 44,
     "north": 39
    }
+  },
+  {
+   "t": "2026-11-22T12:00:00+08:00",
+   "psi": {
+    "west": 51,
+    "east": 39,
+    "central": 39,
+    "south": 43,
+    "north": 39
+   }
   }
  ],
- "newsUpdated": "2026-11-22T11:07:18+08:00",
+ "newsUpdated": "2026-11-22T12:07:03+08:00",
  "news": [
   {
    "source": "CNA",
