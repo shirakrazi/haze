@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-22T08:00:00+08:00",
+ "updated": "2026-11-22T09:00:00+08:00",
  "psi": {
-  "west": 47,
-  "east": 36,
+  "west": 49,
+  "east": 38,
   "central": 39,
-  "south": 42,
-  "north": 33
+  "south": 44,
+  "north": 35
  },
  "pm25": {
   "west": 19,
-  "east": 14,
-  "central": 11,
+  "east": 15,
+  "central": 9,
   "south": 17,
-  "north": 10
+  "north": 22
  },
  "hist": [
-  {
-   "t": "2026-11-20T05:00:00+08:00",
-   "psi": {
-    "west": 42,
-    "east": 44,
-    "central": 38,
-    "south": 34,
-    "north": 49
-   }
-  },
   {
    "t": "2026-11-20T06:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 42,
     "north": 33
    }
+  },
+  {
+   "t": "2026-11-22T09:00:00+08:00",
+   "psi": {
+    "west": 49,
+    "east": 38,
+    "central": 39,
+    "south": 44,
+    "north": 35
+   }
   }
  ],
- "newsUpdated": "2026-11-22T08:06:56+08:00",
+ "newsUpdated": "2026-11-22T09:06:49+08:00",
  "news": [
   {
    "source": "CNA",
@@ -581,13 +581,6 @@
    "title": "ASEAN Digital Economy Advances, But Oil and Haze Hurdles Remain",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSDBTdjFhUnRzXzUwSmxTS2VrclBGOEZlbUFGZXE2N2o1aXg2a3V3YURHSDRSLS0tODNGSGhqemtXNUZDMWIzRGg1T1VBaXREZEdBTGNHMW5ZWllxQnJ6ODRMZGZtZUJHTFF0c0xqLWt2eUdOQ2ZQcTRnOXFvcDU2MnJFV1NPWkRfMGNyaVY5X3hoUFpSSnc?oc=5",
    "time": "2026-11-20T09:30:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Yeni Safak English",
-   "title": "Indonesia environment team threatened with death investigating haze",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdDhULW5teFFILUdvMVV5cW4xTDJxUURlT0hNeTdfNzZTZFFNYlFoc3JfdjE4aFhTSUJueXBHUVZZNG9wb0tvdkRfZWRfQnhtdGdET1VRZzZENnFfa2lZQUNxRjBOYnprTzQzT3hHdFRPX1g1X1QwaUREdXdReTlEUFROWGhGaWhfay1DS3R5YUhOdDh2RkpHVjAzMS1xVVRYVXFYZ2JsdG9hUQ?oc=5",
-   "time": "2026-11-20T08:21:48+08:00",
    "summary": ""
   }
  ]
