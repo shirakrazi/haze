@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-22T09:00:00+08:00",
+ "updated": "2026-11-22T10:00:00+08:00",
  "psi": {
-  "west": 49,
-  "east": 38,
+  "west": 51,
+  "east": 39,
   "central": 39,
-  "south": 44,
-  "north": 35
+  "south": 45,
+  "north": 38
  },
  "pm25": {
-  "west": 19,
+  "west": 24,
   "east": 15,
-  "central": 9,
-  "south": 17,
+  "central": 12,
+  "south": 15,
   "north": 22
  },
  "hist": [
-  {
-   "t": "2026-11-20T06:00:00+08:00",
-   "psi": {
-    "west": 43,
-    "east": 45,
-    "central": 39,
-    "south": 34,
-    "north": 50
-   }
-  },
   {
    "t": "2026-11-20T07:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 44,
     "north": 35
    }
+  },
+  {
+   "t": "2026-11-22T10:00:00+08:00",
+   "psi": {
+    "west": 51,
+    "east": 39,
+    "central": 39,
+    "south": 45,
+    "north": 38
+   }
   }
  ],
- "newsUpdated": "2026-11-22T09:06:49+08:00",
+ "newsUpdated": "2026-11-22T10:06:51+08:00",
  "news": [
   {
    "source": "CNA",
@@ -567,20 +567,6 @@
    "title": "Prabowo apologises to Malaysia, Singapore over transboundary haze",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMWtBQVA5TXFlZjdMVE5HaklmRkhiQWRvdC13YmJhMGNJR0hUT0lHemlFZFZxWWJCV0pzN0tnTlFUUUFYSFhwaXAyX2VnWVBGLUNMV0hVOTdLbG10dTYtOGQ0UVlmVzAwWFRxMmc4bXJfVHpwMU15eFFEbEFVM0NmcVhaQ1VoMUJvbzVvUDdzNWp0LU9KX1RkdFlqUmw3MHJBQzdrTQ?oc=5",
    "time": "2026-11-20T16:34:13+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Tempo.co English",
-   "title": "Jakarta Records Unhealthy Air Quality on Friday",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0w5c3dKQVd2dkhXRDBkTXdDWTQ3U3lZSlBjOFNyU1NKUEh3a293ZnR4V0l3cmF4eVpObG1ianJveFByd0VXckxJZUx6b1JmaVZzNzliQk0yNVBjdXVZNENTMGhjN0puSVV4c0NtWjNZN25HZE5XazJPckgyOVJOdklOZ2dreEU?oc=5",
-   "time": "2026-11-20T09:54:50+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Jakarta Globe",
-   "title": "ASEAN Digital Economy Advances, But Oil and Haze Hurdles Remain",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSDBTdjFhUnRzXzUwSmxTS2VrclBGOEZlbUFGZXE2N2o1aXg2a3V3YURHSDRSLS0tODNGSGhqemtXNUZDMWIzRGg1T1VBaXREZEdBTGNHMW5ZWllxQnJ6ODRMZGZtZUJHTFF0c0xqLWt2eUdOQ2ZQcTRnOXFvcDU2MnJFV1NPWkRfMGNyaVY5X3hoUFpSSnc?oc=5",
-   "time": "2026-11-20T09:30:00+08:00",
    "summary": ""
   }
  ]
