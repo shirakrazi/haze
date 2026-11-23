@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-23T20:00:00+08:00",
+ "updated": "2026-11-23T21:00:00+08:00",
  "psi": {
   "west": 29,
-  "east": 24,
-  "central": 24,
+  "east": 25,
+  "central": 25,
   "south": 26,
-  "north": 30
+  "north": 31
  },
  "pm25": {
   "west": 9,
-  "east": 7,
-  "central": 8,
-  "south": 6,
-  "north": 12
+  "east": 15,
+  "central": 15,
+  "south": 10,
+  "north": 13
  },
  "hist": [
-  {
-   "t": "2026-11-21T17:00:00+08:00",
-   "psi": {
-    "west": 42,
-    "east": 31,
-    "central": 31,
-    "south": 33,
-    "north": 25
-   }
-  },
   {
    "t": "2026-11-21T18:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 26,
     "north": 30
    }
+  },
+  {
+   "t": "2026-11-23T21:00:00+08:00",
+   "psi": {
+    "west": 29,
+    "east": 25,
+    "central": 25,
+    "south": 26,
+    "north": 31
+   }
   }
  ],
- "newsUpdated": "2026-11-23T20:08:30+08:00",
+ "newsUpdated": "2026-11-23T21:10:39+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "JournalArta",
+   "title": "Indonesia Wildfire Haze Sickens 401,586 People Across 7 Provinces",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaXNVb3ZCU1NZb0xPMGM5aGNfRWxvUmxoWkJMdFdJdS1wbGVzSWtCZ1RhNUF0ZE96R1ZlY1hwWVBsLU1fNEJXdVo1b1ZpRUlCSWhtcjZ2dlFTSG1nNFYyMHptb1pLZnA0OHZNUGp5MlN0czI2WGsxZHNSOWNrN1RtbXB6eVpmcXZLR2NxUjJ5dHdKOU9JUl9yWVowR09iYTZFZVNHNFR3?oc=5",
+   "time": "2026-11-23T20:50:29+08:00",
+   "summary": ""
   },
   {
    "source": "KLSE Screener",
@@ -588,13 +595,6 @@
    "title": "Indonesia forest fires spew smoggy haze over Malaysia, Singapore",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHZxRE83OENLbVlCM093SFF3Q1ZMRjNfNzNjc0NTOXVieWhZQ3NKX2lsd1ZBOUNPRzlOVjlyeXM4bURiYXdKOEIybzRpbkRnNVdzcW5GYWpIcjBST1Axc3lYUC02OTJLSlFPN3h2Ujc5VUJKd0dfTGFEaXRndU5qc1ZjaXFFaDJlWHBmN3ZVYy1oMVl2emE4SDRoZmo?oc=5",
    "time": "2026-11-22T10:26:20+08:00",
-   "summary": ""
-  },
-  {
-   "source": "联合早报",
-   "title": "Wetter, windier year-end weather may bring days of rain; transboundary haze risk reduced but not eliminated",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNajJBUURVVW9rS2ZmaVhUNGgyWVFnV0NRQjV1T2lkSkw5b21qN0p4RWRCMTRaekJRdXU5MEFFWHRtN0c0ZHlwdENTZDl1MUg3TUdiUi04d1R6YXVZZFZ1MTJhYVNyVkZvM0Vyc1d6emV0dzNLNGlYaHAzWUh3M1NLaEFWZXo2bTZmTTZ0YUJOMVdoXzZyclpVNF9fWTNKVC1URlhDUnc3MjV4U3dmcjhIcUhTNVZSak0zUzhBNmRpZlA5ZnZrT1ZHU3o3NkJDd2tfNXVUV2V4MGo5QQ?oc=5",
-   "time": "2026-11-21T21:17:59+08:00",
    "summary": ""
   }
  ]
