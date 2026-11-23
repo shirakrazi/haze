@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-23T10:00:00+08:00",
+ "updated": "2026-11-23T11:00:00+08:00",
  "psi": {
-  "west": 33,
-  "east": 23,
-  "central": 26,
+  "west": 32,
+  "east": 22,
+  "central": 25,
   "south": 27,
-  "north": 26
+  "north": 25
  },
  "pm25": {
-  "west": 9,
-  "east": 5,
-  "central": 5,
-  "south": 7,
-  "north": 9
+  "west": 8,
+  "east": 4,
+  "central": 4,
+  "south": 6,
+  "north": 16
  },
  "hist": [
-  {
-   "t": "2026-11-21T07:00:00+08:00",
-   "psi": {
-    "west": 55,
-    "east": 39,
-    "central": 46,
-    "south": 45,
-    "north": 39
-   }
-  },
   {
    "t": "2026-11-21T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 27,
     "north": 26
    }
+  },
+  {
+   "t": "2026-11-23T11:00:00+08:00",
+   "psi": {
+    "west": 32,
+    "east": 22,
+    "central": 25,
+    "south": 27,
+    "north": 25
+   }
   }
  ],
- "newsUpdated": "2026-11-23T10:07:01+08:00",
+ "newsUpdated": "2026-11-23T11:07:11+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Kompas.com",
+   "title": "Speculating on PSI's Continued Support for Prabowo, Amidst a More Attractive Opposition Position",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbGhsVVJwZlA0dkdZa09INDFrenI5Vk1jYWM3UGJVX0g0Yll5M0t0WFpZaGg0UlJBdlltUVJ1d0NtdFVIc3h5bFQzT19MOFMwYmdmdzJFYk5oRXhxWmhqRmJwYTQzRnRJbXVFYklwWWl1THFWYk9qZEhUc1FpcndYTmExWG9vZWVJazNmWVNVOE9kTDQyQ1RhU3JBdW5JQy10UGhySkt1Y2NjNDluRHZZOGZOWF9xWVIxSUlYclJxMA?oc=5",
+   "time": "2026-11-23T10:35:27+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
