@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-23T14:00:00+08:00",
+ "updated": "2026-11-23T15:00:00+08:00",
  "psi": {
   "west": 32,
   "east": 22,
   "central": 25,
-  "south": 23,
-  "north": 25
+  "south": 24,
+  "north": 26
  },
  "pm25": {
-  "west": 8,
+  "west": 4,
   "east": 6,
   "central": 6,
-  "south": 7,
-  "north": 6
+  "south": 10,
+  "north": 8
  },
  "hist": [
-  {
-   "t": "2026-11-21T11:00:00+08:00",
-   "psi": {
-    "west": 52,
-    "east": 36,
-    "central": 42,
-    "south": 40,
-    "north": 38
-   }
-  },
   {
    "t": "2026-11-21T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 23,
     "north": 25
    }
+  },
+  {
+   "t": "2026-11-23T15:00:00+08:00",
+   "psi": {
+    "west": 32,
+    "east": 22,
+    "central": 25,
+    "south": 24,
+    "north": 26
+   }
   }
  ],
- "newsUpdated": "2026-11-23T14:07:30+08:00",
+ "newsUpdated": "2026-11-23T15:09:05+08:00",
  "news": [
   {
    "source": "CNA",
@@ -507,10 +507,17 @@
    "pinned": true
   },
   {
+   "source": "The Sun Malaysia",
+   "title": "18,451 haze-related illnesses recorded in Selangor – Exco",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFliLVlGaXZVRXBUbXRoQnFmeU5paS1UeWtyQVFmMGZMdndZQnFhVl85OE1yTy1NQXUtNW1COUg0dFNMVVFKNTVkMF8xWUxGTVFoQ21RUWZ4X3hXd3dGWkx2RTVYUzRLS3luRGx0czZYTDdEd0lXdk9ocE41VDlJTjJwQlBFMzg4eFp4d3Vuc0RsS1FuMEN4OEZ4VDNLTEc5YjNXMTZONWotUQ?oc=5",
+   "time": "2026-11-23T14:24:35+08:00",
+   "summary": ""
+  },
+  {
    "source": "The Straits Times",
    "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
-   "time": "2026-11-23T11:22:10+08:00",
+   "time": "2026-11-23T14:14:58+08:00",
    "summary": ""
   },
   {
