@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-23T18:00:00+08:00",
+ "updated": "2026-11-23T19:00:00+08:00",
  "psi": {
   "west": 29,
-  "east": 23,
-  "central": 24,
+  "east": 24,
+  "central": 23,
   "south": 26,
-  "north": 27
+  "north": 28
  },
  "pm25": {
   "west": 9,
-  "east": 10,
-  "central": 4,
-  "south": 15,
-  "north": 6
+  "east": 9,
+  "central": 5,
+  "south": 4,
+  "north": 11
  },
  "hist": [
-  {
-   "t": "2026-11-21T15:00:00+08:00",
-   "psi": {
-    "west": 48,
-    "east": 31,
-    "central": 33,
-    "south": 35,
-    "north": 30
-   }
-  },
   {
    "t": "2026-11-21T16:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 26,
     "north": 27
    }
+  },
+  {
+   "t": "2026-11-23T19:00:00+08:00",
+   "psi": {
+    "west": 29,
+    "east": 24,
+    "central": 23,
+    "south": 26,
+    "north": 28
+   }
   }
  ],
- "newsUpdated": "2026-11-23T18:07:26+08:00",
+ "newsUpdated": "2026-11-23T19:07:36+08:00",
  "news": [
   {
    "source": "CNA",
@@ -556,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "The Straits Times",
+   "title": "Indonesia’s public also suffers during haze outbreaks: Shanmugam",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ObmV6TzhTeFNiWWYxbXhia1BYNHM1N01OM2huT09WYklwMHpmNG9Gc1Y0RjIwazJxR0d6ZU8wek9lTWlMc2F5VzZvOFhlME15UHlWN0h2NmkyT0VHcnc?oc=5",
+   "time": "2026-11-23T13:19:31+08:00",
+   "summary": ""
+  },
+  {
    "source": "Kompas.com",
    "title": "Speculating on PSI's Continued Support for Prabowo, Amidst a More Attractive Opposition Position",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLXJCZkpCWGJCNkpNOERpZlBodTZaQUdFUFRUNnBhNVdCOFZKSjY2UWNVbDRtX1g0cDJFSHdMTGRmQWwyc1NmeFdPTmpZXzdNMzFDZTd0RGxhSnl5eHczc3l1eXZ2VXN0QlA1Q0lta1ZPUHE2ZElDNFBuMTNkbDJMXzAtWWY5SUhFclJVelhxX1ZMQTR0N2FINGZGY1czdVRfY3ZPck0yS2VaenhrbnppaTA1XzZzOUgxWmw5RnZB?oc=5",
@@ -570,10 +577,10 @@
    "summary": ""
   },
   {
-   "source": "The Straits Times",
-   "title": "NEA to investigate companies responsible for transboundary haze in S’pore: Grace Fu",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9heGFKUTdma0ZKQmQtMWpsMjMtWVEta0dSOUlYQ2M4N1NyOHQ0Vnd6NUlLTTlvanJyZUJqc1lBcnV1RmlCNkt5a01IXzFQR3Bta1lKVXc4d1FrTmdVZ0E?oc=5",
-   "time": "2026-11-22T10:32:48+08:00",
+   "source": "Digg",
+   "title": "Wildfire haze disrupts Indonesian flights and Malaysia’s tourism bookings",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wUExnckc5VUJlaDFzVVpuRTh4QTdfVnJVOE5BUnJ6WUNzazZ2azlFQnRkNDZDd2g0VGhvVzhkRGVHVThYRUF3UUJ1MTh2UkI0OHc?oc=5",
+   "time": "2026-11-23T08:26:58+08:00",
    "summary": ""
   },
   {
@@ -588,13 +595,6 @@
    "title": "Wetter, windier year-end weather may bring days of rain; transboundary haze risk reduced but not eliminated",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNajJBUURVVW9rS2ZmaVhUNGgyWVFnV0NRQjV1T2lkSkw5b21qN0p4RWRCMTRaekJRdXU5MEFFWHRtN0c0ZHlwdENTZDl1MUg3TUdiUi04d1R6YXVZZFZ1MTJhYVNyVkZvM0Vyc1d6emV0dzNLNGlYaHAzWUh3M1NLaEFWZXo2bTZmTTZ0YUJOMVdoXzZyclpVNF9fWTNKVC1URlhDUnc3MjV4U3dmcjhIcUhTNVZSak0zUzhBNmRpZlA5ZnZrT1ZHU3o3NkJDd2tfNXVUV2V4MGo5QQ?oc=5",
    "time": "2026-11-21T21:17:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "IQAir",
-   "title": "Air quality and haze in Kalumpang",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95UDNQZEdHVFlHRXU5Q3FHOGlaNVNHQkFvS2NSNEgyaGIzVFprTmh4cTJadzdrTldzTkd5RmtiUmo3dlVya25CSXg3U05DTmNsdkNhUTFJQzhJQjRZRmx1endpNnJrQmg3WTRPUW93UkZlSGxFalhNNnd3?oc=5",
-   "time": "2026-11-21T18:15:33+08:00",
    "summary": ""
   }
  ]
