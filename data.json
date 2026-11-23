@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-24T04:00:00+08:00",
+ "updated": "2026-11-24T05:00:00+08:00",
  "psi": {
   "west": 31,
-  "east": 34,
-  "central": 37,
+  "east": 35,
+  "central": 38,
   "south": 31,
   "north": 38
  },
  "pm25": {
-  "west": 6,
-  "east": 9,
-  "central": 12,
+  "west": 4,
+  "east": 10,
+  "central": 8,
   "south": 8,
-  "north": 5
+  "north": 4
  },
  "hist": [
-  {
-   "t": "2026-11-22T05:00:00+08:00",
-   "psi": {
-    "west": 41,
-    "east": 33,
-    "central": 40,
-    "south": 36,
-    "north": 32
-   }
-  },
   {
    "t": "2026-11-22T06:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 31,
     "north": 38
    }
+  },
+  {
+   "t": "2026-11-24T05:00:00+08:00",
+   "psi": {
+    "west": 31,
+    "east": 35,
+    "central": 38,
+    "south": 31,
+    "north": 38
+   }
   }
  ],
- "newsUpdated": "2026-11-24T04:07:20+08:00",
+ "newsUpdated": "2026-11-24T05:07:16+08:00",
  "news": [
   {
    "source": "CNA",
@@ -556,6 +556,13 @@
    "summary": ""
   },
   {
+   "source": "The Straits Times",
+   "title": "Why this year’s haze in Singapore could be as bad as 2015",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsX2l1MDV6LU5lbWJYbW96WXdkV3o3eUczNldUZ3BFeHJXWmR4dUJtbG9Yc3NWTmUtWVJhSklSQTBKVlZGdGlPYjVoU04zaXNPaGI1UHpTZWRiT2pYQlE?oc=5",
+   "time": "2026-11-23T16:42:10+08:00",
+   "summary": ""
+  },
+  {
    "source": "Awani International",
    "title": "What Malaysia can do before the next haze",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYi12S0pzelF1ZFlwdkdiMXZZY0c4ZFJRMmtjV082OVpOa0lQWGRsdkhsTlN3TGpxcWpRMmwtWVM4LWZFSlowa2JRVV93TjBqYm85TW40QWpWanNKMDJna292MEYwWEtDQU5mVEZ5MnRub0NXUE5Ud0hRWkVmUUdoZktVMUM2cU1x?oc=5",
@@ -581,13 +588,6 @@
    "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
    "time": "2026-11-23T14:14:58+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Indonesia’s public also suffers during haze outbreaks: Shanmugam",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ObmV6TzhTeFNiWWYxbXhia1BYNHM1N01OM2huT09WYklwMHpmNG9Gc1Y0RjIwazJxR0d6ZU8wek9lTWlMc2F5VzZvOFhlME15UHlWN0h2NmkyT0VHcnc?oc=5",
-   "time": "2026-11-23T13:19:31+08:00",
    "summary": ""
   },
   {
