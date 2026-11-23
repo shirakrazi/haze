@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-23T08:00:00+08:00",
+ "updated": "2026-11-23T09:00:00+08:00",
  "psi": {
-  "west": 38,
-  "east": 26,
-  "central": 28,
-  "south": 31,
-  "north": 30
+  "west": 35,
+  "east": 25,
+  "central": 27,
+  "south": 29,
+  "north": 28
  },
  "pm25": {
-  "west": 4,
-  "east": 6,
-  "central": 4,
-  "south": 7,
-  "north": 3
+  "west": 5,
+  "east": 9,
+  "central": 7,
+  "south": 5,
+  "north": 7
  },
  "hist": [
-  {
-   "t": "2026-11-21T05:00:00+08:00",
-   "psi": {
-    "west": 56,
-    "east": 41,
-    "central": 48,
-    "south": 48,
-    "north": 40
-   }
-  },
   {
    "t": "2026-11-21T06:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 31,
     "north": 30
    }
+  },
+  {
+   "t": "2026-11-23T09:00:00+08:00",
+   "psi": {
+    "west": 35,
+    "east": 25,
+    "central": 27,
+    "south": 29,
+    "north": 28
+   }
   }
  ],
- "newsUpdated": "2026-11-23T08:07:03+08:00",
+ "newsUpdated": "2026-11-23T09:06:58+08:00",
  "news": [
   {
    "source": "CNA",
@@ -510,7 +510,7 @@
    "source": "The Straits Times",
    "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
-   "time": "2026-11-22T22:50:28+08:00",
+   "time": "2026-11-23T08:46:37+08:00",
    "summary": ""
   },
   {
