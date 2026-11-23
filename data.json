@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-24T06:00:00+08:00",
+ "updated": "2026-11-24T07:00:00+08:00",
  "psi": {
   "west": 31,
   "east": 36,
   "central": 38,
-  "south": 32,
-  "north": 38
+  "south": 33,
+  "north": 39
  },
  "pm25": {
-  "west": 5,
+  "west": 6,
   "east": 9,
-  "central": 9,
-  "south": 10,
-  "north": 5
+  "central": 5,
+  "south": 6,
+  "north": 7
  },
  "hist": [
-  {
-   "t": "2026-11-22T07:00:00+08:00",
-   "psi": {
-    "west": 45,
-    "east": 35,
-    "central": 39,
-    "south": 40,
-    "north": 32
-   }
-  },
   {
    "t": "2026-11-22T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 32,
     "north": 38
    }
+  },
+  {
+   "t": "2026-11-24T07:00:00+08:00",
+   "psi": {
+    "west": 31,
+    "east": 36,
+    "central": 38,
+    "south": 33,
+    "north": 39
+   }
   }
  ],
- "newsUpdated": "2026-11-24T06:07:22+08:00",
+ "newsUpdated": "2026-11-24T07:07:42+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "Daily Sabah",
+   "title": "Breathing poison: Haze will outlast promises unless ASEAN acts | Daily Sabah",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWlldzNValJyT0R0aUtsaGhTSkhPUnowTldwRGNTVm1yeFltc1RIMVFabk42Z3JvMUZJODVTZXdaV2ItamZUMFJjNzgyNVZHckZUa0FjYjVWcjdob2hHMkdobVkzbEJTOXBYVmpWSUhjQ2RSaVdTU3VHQ3NBaTRfV2tUYW5wZXhNakZseEU4LUwtcmpXbTB4UnI1bVd1N1FwdWZ0ZWVMZnVfZ9IBqgFBVV95cUxOcWlldzNValJyT0R0aUtsaGhTSkhPUnowTldwRGNTVm1yeFltc1RIMVFabk42Z3JvMUZJODVTZXdaV2ItamZUMFJjNzgyNVZHckZUa0FjYjVWcjdob2hHMkdobVkzbEJTOXBYVmpWSUhjQ2RSaVdTU3VHQ3NBaTRfV2tUYW5wZXhNakZseEU4LUwtcmpXbTB4UnI1bVd1N1FwdWZ0ZWVMZnVfZw?oc=5",
+   "time": "2026-11-24T05:05:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Southeast Asia Desk",
@@ -588,13 +595,6 @@
    "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
    "time": "2026-11-23T14:14:58+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Kompas.com",
-   "title": "Speculating on PSI's Continued Support for Prabowo, Amidst a More Attractive Opposition Position",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLXJCZkpCWGJCNkpNOERpZlBodTZaQUdFUFRUNnBhNVdCOFZKSjY2UWNVbDRtX1g0cDJFSHdMTGRmQWwyc1NmeFdPTmpZXzdNMzFDZTd0RGxhSnl5eHczc3l1eXZ2VXN0QlA1Q0lta1ZPUHE2ZElDNFBuMTNkbDJMXzAtWWY5SUhFclJVelhxX1ZMQTR0N2FINGZGY1czdVRfY3ZPck0yS2VaenhrbnppaTA1XzZzOUgxWmw5RnZB?oc=5",
-   "time": "2026-11-23T10:36:54+08:00",
    "summary": ""
   }
  ]
