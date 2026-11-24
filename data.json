@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-24T07:00:00+08:00",
+ "updated": "2026-11-24T08:00:00+08:00",
  "psi": {
-  "west": 31,
+  "west": 32,
   "east": 36,
-  "central": 38,
-  "south": 33,
-  "north": 39
+  "central": 40,
+  "south": 32,
+  "north": 40
  },
  "pm25": {
-  "west": 6,
-  "east": 9,
-  "central": 5,
-  "south": 6,
-  "north": 7
+  "west": 8,
+  "east": 6,
+  "central": 13,
+  "south": 5,
+  "north": 9
  },
  "hist": [
-  {
-   "t": "2026-11-22T08:00:00+08:00",
-   "psi": {
-    "west": 47,
-    "east": 36,
-    "central": 39,
-    "south": 42,
-    "north": 33
-   }
-  },
   {
    "t": "2026-11-22T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 33,
     "north": 39
    }
+  },
+  {
+   "t": "2026-11-24T08:00:00+08:00",
+   "psi": {
+    "west": 32,
+    "east": 36,
+    "central": 40,
+    "south": 32,
+    "north": 40
+   }
   }
  ],
- "newsUpdated": "2026-11-24T07:07:42+08:00",
+ "newsUpdated": "2026-11-24T08:07:16+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Singapore to strengthen regional framework on haze when it’s ASEAN chair in 2027",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPWVBXSVY3emdXYmlWWG82UDVpdEpEMi1TWGJtdlE4aWZDeDFLM1h3anJ0NGd4NXpsWXE2TEdrc3NEVl8tSW1ObHdfX093d3BxTGZRbE1LOWRQX3BvNWc?oc=5",
+   "time": "2026-11-24T05:34:19+08:00",
+   "summary": ""
   },
   {
    "source": "Daily Sabah",
@@ -588,13 +595,6 @@
    "title": "18,451 haze-related illnesses recorded in Selangor – Exco",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFliLVlGaXZVRXBUbXRoQnFmeU5paS1UeWtyQVFmMGZMdndZQnFhVl85OE1yTy1NQXUtNW1COUg0dFNMVVFKNTVkMF8xWUxGTVFoQ21RUWZ4X3hXd3dGWkx2RTVYUzRLS3luRGx0czZYTDdEd0lXdk9ocE41VDlJTjJwQlBFMzg4eFp4d3Vuc0RsS1FuMEN4OEZ4VDNLTEc5YjNXMTZONWotUQ?oc=5",
    "time": "2026-11-23T14:24:35+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
-   "time": "2026-11-23T14:14:58+08:00",
    "summary": ""
   }
  ]
