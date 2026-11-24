@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-24T17:00:00+08:00",
+ "updated": "2026-11-24T18:00:00+08:00",
  "psi": {
-  "west": 34,
+  "west": 36,
   "east": 43,
-  "central": 46,
-  "south": 42,
+  "central": 49,
+  "south": 41,
   "north": 38
  },
  "pm25": {
-  "west": 10,
-  "east": 8,
-  "central": 8,
-  "south": 18,
-  "north": 5
+  "west": 20,
+  "east": 7,
+  "central": 18,
+  "south": 9,
+  "north": 7
  },
  "hist": [
-  {
-   "t": "2026-11-22T18:00:00+08:00",
-   "psi": {
-    "west": 52,
-    "east": 39,
-    "central": 40,
-    "south": 41,
-    "north": 41
-   }
-  },
   {
    "t": "2026-11-22T19:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 42,
     "north": 38
    }
+  },
+  {
+   "t": "2026-11-24T18:00:00+08:00",
+   "psi": {
+    "west": 36,
+    "east": 43,
+    "central": 49,
+    "south": 41,
+    "north": 38
+   }
   }
  ],
- "newsUpdated": "2026-11-24T17:07:06+08:00",
+ "newsUpdated": "2026-11-24T18:07:01+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Why ASEAN has struggled to tackle haze, and what a new task force could change",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3RsdldGOU0yVmZHT2swM3hKY2l1MGpsVXgyYTZaX25GRzliTUtVUGJXcWR5TUoxRUVfQVNMOE02dndxbDNQQ2VuRmNUd2RTQldPNGZodmdQQlBIUVRzUC1uRmdEN2JWQ0FoNVgzeDFvSU5nbE5FU3AtcEYwZDZZeFJ3a2JkREVZT3kwYzRFRXN3WFFUa2EzeG1sNXBsVkhLcGIxWUFPU2FCd1FmSGxYaGJUOVBVMVN0SDVj?oc=5",
+   "time": "2026-11-24T17:35:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -518,13 +525,6 @@
    "title": "Proposed changes to haze law includes new ways of establishing liability for haze-causing fires",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WRkRjbjNhWVBoR2R2LTNUOUx0a0ZOYUVNbkRuNU5fTUx5WXNRWXJQLTlyMzdwZTFJQTBNQ0xvVklJdUJCaEVDM1FTeVRRdXZTNVBlbTVXWTVmYTVOTWc?oc=5",
    "time": "2026-11-24T11:00:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Companies expected to cooperate with haze investigation: Shanmugam",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
-   "time": "2026-11-24T10:43:59+08:00",
    "summary": ""
   },
   {
