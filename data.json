@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-25T19:00:00+08:00",
+ "updated": "2026-11-25T20:00:00+08:00",
  "psi": {
-  "west": 31,
+  "west": 30,
   "east": 38,
-  "central": 45,
+  "central": 43,
   "south": 34,
   "north": 52
  },
  "pm25": {
-  "west": 7,
-  "east": 12,
-  "central": 7,
-  "south": 7,
-  "north": 9
+  "west": 6,
+  "east": 14,
+  "central": 6,
+  "south": 8,
+  "north": 6
  },
  "hist": [
-  {
-   "t": "2026-11-23T19:00:00+08:00",
-   "psi": {
-    "west": 29,
-    "east": 24,
-    "central": 23,
-    "south": 26,
-    "north": 28
-   }
-  },
   {
    "t": "2026-11-23T20:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 34,
     "north": 52
    }
+  },
+  {
+   "t": "2026-11-25T20:00:00+08:00",
+   "psi": {
+    "west": 30,
+    "east": 38,
+    "central": 43,
+    "south": 34,
+    "north": 52
+   }
   }
  ],
- "newsUpdated": "2026-11-25T19:07:39+08:00",
+ "newsUpdated": "2026-11-25T20:07:50+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
+   "time": "2026-11-25T17:47:54+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -521,13 +528,6 @@
    "summary": ""
   },
   {
-   "source": "The Straits Times",
-   "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
-   "time": "2026-11-25T13:52:32+08:00",
-   "summary": ""
-  },
-  {
    "source": "| Asian Legal Business",
    "title": "EXPLAINER: Does Singapore’s haze law have teeth?",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWdlc3p2cENlZHpPX3JTVE9lSy1Rd2VtT2tBcGM4YVdmZi1aY2xxNUtlYXMxTWxYVGxjc0dZZWcxNHp3ZHF3LWllOVZUdXNNemgxQVV6MWtPQmwtWGt4QmQzWVJFLUJKcWxxV055RjFtNUF2VzJWQkEyR25Pci1CUHBQb3p1Q0tfWHVqdkVfVGRHQ1hnaUw3aWtxZFgwRmpw?oc=5",
@@ -537,8 +537,8 @@
   {
    "source": "IQAir",
    "title": "Air quality and haze in Piru",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PdUtlYkNRR0c1cV96X2dfMF9IcV9SN1l2ckUta1FiclVZNXAzQlU5c1NxVk5zdUx3WHFUVnRwbHlab2N4OHFFZTlvM2hiVkt6aC1Cb2pSdkk5YktoRlJvM3liY3NHbHE5Vmc?oc=5",
-   "time": "2026-11-24T18:50:50+08:00",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zXzFtX0Z4NE9XaWFXNkhTM0hrWHY1WER5dElveDlCMWlORlc5WGRKbEJXNndNSHA4bzFPQmxTdWg0OXVpaVVYNWVYck9IZEJlWDhIcDc3NDQ5Ujdlb0JJc0pEbWxEZXluc29R?oc=5",
+   "time": "2026-11-24T18:52:25+08:00",
    "summary": ""
   },
   {
