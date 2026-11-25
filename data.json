@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-25T21:00:00+08:00",
+ "updated": "2026-11-25T22:00:00+08:00",
  "psi": {
-  "west": 28,
+  "west": 26,
   "east": 39,
-  "central": 42,
-  "south": 32,
-  "north": 51
+  "central": 41,
+  "south": 30,
+  "north": 49
  },
  "pm25": {
-  "west": 6,
-  "east": 10,
-  "central": 9,
-  "south": 5,
-  "north": 6
+  "west": 7,
+  "east": 11,
+  "central": 6,
+  "south": 6,
+  "north": 8
  },
  "hist": [
-  {
-   "t": "2026-11-23T21:00:00+08:00",
-   "psi": {
-    "west": 29,
-    "east": 25,
-    "central": 25,
-    "south": 26,
-    "north": 31
-   }
-  },
   {
    "t": "2026-11-23T22:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 32,
     "north": 51
    }
+  },
+  {
+   "t": "2026-11-25T22:00:00+08:00",
+   "psi": {
+    "west": 26,
+    "east": 39,
+    "central": 41,
+    "south": 30,
+    "north": 49
+   }
   }
  ],
- "newsUpdated": "2026-11-25T21:09:13+08:00",
+ "newsUpdated": "2026-11-25T22:08:09+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "NEA issues notices to 3 more companies in Indonesia over fires contributing to haze",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QRTlXdFpnNjFCWFpNaFJ6WEdwMXJ3SEdTY05mdF9HS0d2SEdhcXdZYXkycTBaQ1JGQm56a05KVlRRaXZTR1BGYmZ2cHdGOFZZYmZlOFhxNURUNC1rNWc?oc=5",
+   "time": "2026-11-25T19:34:15+08:00",
+   "summary": ""
+  },
+  {
+   "source": "IQAir",
+   "title": "Air quality and haze in Masamba",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwRV9jN0R0MVhOYjZPUXRpX2VWdlpTTVEyQzlfNTRvN19JX1RIMFQ4NVpOcjZySWdXQUV4X3RzU1FzT0QtTDJzSDBKZWwzZ3E4Ry1nZTJfbVg1Mzh0MWNHWWJvWG01NVBMS2JEOHVkTDd3R3dmSXhMdzZn?oc=5",
+   "time": "2026-11-25T18:58:02+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -518,13 +532,6 @@
    "title": "Why this year’s haze in Singapore could be as bad as 2015",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsX2l1MDV6LU5lbWJYbW96WXdkV3o3eUczNldUZ3BFeHJXWmR4dUJtbG9Yc3NWTmUtWVJhSklSQTBKVlZGdGlPYjVoU04zaXNPaGI1UHpTZWRiT2pYQlE?oc=5",
    "time": "2026-11-25T15:25:06+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Singapore to strengthen transboundary haze law",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11d0JxNlR0Z1RIM19BOGpEUWZ3RU12WkF2b3JLUGJ6YzNuTHJqWjI1OGVWOVFsTFV5NktmRjNHNWVGcjBWM25aNVNWbk1ycVJvYllESTFROENIWW5qblE?oc=5",
-   "time": "2026-11-25T15:16:24+08:00",
    "summary": ""
   },
   {
@@ -546,20 +553,6 @@
    "title": "Breathing poison: Haze will outlast promises unless ASEAN acts | Daily Sabah",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWlldzNValJyT0R0aUtsaGhTSkhPUnowTldwRGNTVm1yeFltc1RIMVFabk42Z3JvMUZJODVTZXdaV2ItamZUMFJjNzgyNVZHckZUa0FjYjVWcjdob2hHMkdobVkzbEJTOXBYVmpWSUhjQ2RSaVdTU3VHQ3NBaTRfV2tUYW5wZXhNakZseEU4LUwtcmpXbTB4UnI1bVd1N1FwdWZ0ZWVMZnVfZ9IBqgFBVV95cUxOcWlldzNValJyT0R0aUtsaGhTSkhPUnowTldwRGNTVm1yeFltc1RIMVFabk42Z3JvMUZJODVTZXdaV2ItamZUMFJjNzgyNVZHckZUa0FjYjVWcjdob2hHMkdobVkzbEJTOXBYVmpWSUhjQ2RSaVdTU3VHQ3NBaTRfV2tUYW5wZXhNakZseEU4LUwtcmpXbTB4UnI1bVd1N1FwdWZ0ZWVMZnVfZw?oc=5",
    "time": "2026-11-24T05:05:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Southeast Asia Desk",
-   "title": "49th ASEAN Summit Outcomes: DEFA, Haze & Rare Earths",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGNoUkJLYTVKdTl6NEZXcHdXdF9id0JJNmhvVEdXX0pTZkU3RVVJQmhoc1BuTDZFM1J6dDNBRHloLVBESXZBaFE4R3BIT3U1TG13QnBvYURNa29qOXZLdXRuSi1QTlVDQ0pFd1RlV2Vudnk3dmdiX1lESDkyMDdDLXFWU1o1Xy1zMDZKeTFXaUtvS2hx?oc=5",
-   "time": "2026-11-23T22:04:23+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Eco-Business",
-   "title": "Southeast Asia’s haze: Corporate accountability begins before the fire",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVp0SDVzZzEwS0x4UkNUd294N0pZWUNyRVd4X0kwZUFXeDhyOGlNelQzblk3el9Nay1UWGhkZ3dZOGJlTDVhS0VyZU52bVpzZDAxaU1waGNGLTZTbldNMXN1bGV6RGM3MFpmZ3pNRUxGa1VEVGR1d2g2UjNTTEY3cExFa0VLRzFYMVBGNWtONW1NWXZDRVR5NTl2bUlxcE9JZWFHQkw4TDduZw?oc=5",
-   "time": "2026-11-23T21:55:00+08:00",
    "summary": ""
   }
  ]
