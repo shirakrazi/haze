@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-25T16:00:00+08:00",
+ "updated": "2026-11-25T17:00:00+08:00",
  "psi": {
-  "west": 37,
-  "east": 35,
-  "central": 49,
-  "south": 36,
+  "west": 36,
+  "east": 37,
+  "central": 50,
+  "south": 35,
   "north": 52
  },
  "pm25": {
-  "west": 14,
-  "east": 10,
-  "central": 12,
+  "west": 5,
+  "east": 16,
+  "central": 11,
   "south": 8,
   "north": 9
  },
  "hist": [
-  {
-   "t": "2026-11-23T16:00:00+08:00",
-   "psi": {
-    "west": 32,
-    "east": 22,
-    "central": 26,
-    "south": 24,
-    "north": 27
-   }
-  },
   {
    "t": "2026-11-23T17:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 36,
     "north": 52
    }
+  },
+  {
+   "t": "2026-11-25T17:00:00+08:00",
+   "psi": {
+    "west": 36,
+    "east": 37,
+    "central": 50,
+    "south": 35,
+    "north": 52
+   }
   }
  ],
- "newsUpdated": "2026-11-25T16:07:32+08:00",
+ "newsUpdated": "2026-11-25T17:07:27+08:00",
  "news": [
   {
    "source": "CNA",
@@ -508,23 +508,23 @@
   },
   {
    "source": "The Straits Times",
+   "title": "Why this year’s haze in Singapore could be as bad as 2015",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsX2l1MDV6LU5lbWJYbW96WXdkV3o3eUczNldUZ3BFeHJXWmR4dUJtbG9Yc3NWTmUtWVJhSklSQTBKVlZGdGlPYjVoU04zaXNPaGI1UHpTZWRiT2pYQlE?oc=5",
+   "time": "2026-11-25T15:25:06+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Singapore to strengthen transboundary haze law",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11d0JxNlR0Z1RIM19BOGpEUWZ3RU12WkF2b3JLUGJ6YzNuTHJqWjI1OGVWOVFsTFV5NktmRjNHNWVGcjBWM25aNVNWbk1ycVJvYllESTFROENIWW5qblE?oc=5",
+   "time": "2026-11-25T15:16:24+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
    "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
    "time": "2026-11-25T13:52:32+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "12 days over 101 PSI: Singapore’s longest stretch of unhealthy air quality since 2015 haze",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1V0w5RG5xbjMxMEYzam5sR1FaZ3cwaGNQamNqQTlBTnR1U1puSHR5blpKVUQzSFE2SWR5bkwyWFh3ZW9YZ3FuT2pIUGFET0ZGNWdQTHk0RDVpdlNnWFE?oc=5",
-   "time": "2026-11-25T08:29:59+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Companies expected to cooperate with haze investigation: Shanmugam",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
-   "time": "2026-11-25T06:42:36+08:00",
    "summary": ""
   },
   {
@@ -574,27 +574,6 @@
    "title": "Haze, El Niño threaten RM1.5bil monthly losses",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR3NOUEU2RzAtSk14MzNZaTl3MmpEWm9Id3JyTGVLdGZqb01GRlpxSFdJWVhUdko4WS1LYnEwX0xaeklpYlBxSE96WEFiakpja0JCVzRKb1FBSXF6Y1YyYW5JQ2NDbjAzbnpBd3BqcWc1b1JZSWxVaTI4LUJLaHJRazFwWXQ0RmZxdmlaSTZxQzVIVjdFVS1vNHhDcw?oc=5",
    "time": "2026-11-23T17:29:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "JournalArta",
-   "title": "Singapore-Indonesia Ties Seen Surviving Haze and Gas Row",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWF9Pc1NJWi1OYnZrTTM5MHljWlZSbTRCejByZzdwUXVLVThRQnVHX2tSbExCQnkwVWRMNHREUEEzbEVHRE1HaFVBM0kxUm0xMnJvSUFRYjVrMTMwUHBRZi1ualJkcnhHWEg5REllUElERGdvdnZtaVBiTjA1RzAzYWxn?oc=5",
-   "time": "2026-11-23T17:03:44+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Vibes",
-   "title": "Selangor records 18,451 haze-related illnesses, with Petaling clinics hardest hit",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcXJ2dEtVOWY1VTU2M3hVWWZFM0VQZGp6MHRJdENmbDhQb1R5NndpZVN2TG5LTFg3Mmk5MDJpVnFsVkltSlUwMkM5X0VBQnFsRUpqSHotZWdDaExnQWgwMG4wbDEwU01YemNBdnFqM1cyV2FfYTdMaFBmaURFbjlzTmFydzlZanVLa3hyWDJ2Qk5qUUsxbzdBNVFfV2xBalVDWGkyanRqZ1E1cDdBcVlXYkw5QnhhNUN2VFJsQVJQU05tMTZoeUxNNVR5WQ?oc=5",
-   "time": "2026-11-23T16:59:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Awani International",
-   "title": "What Malaysia can do before the next haze",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYi12S0pzelF1ZFlwdkdiMXZZY0c4ZFJRMmtjV082OVpOa0lQWGRsdkhsTlN3TGpxcWpRMmwtWVM4LWZFSlowa2JRVV93TjBqYm85TW40QWpWanNKMDJna292MEYwWEtDQU5mVEZ5MnRub0NXUE5Ud0hRWkVmUUdoZktVMUM2cU1x?oc=5",
-   "time": "2026-11-23T16:38:38+08:00",
    "summary": ""
   }
  ]
