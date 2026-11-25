@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-25T20:00:00+08:00",
+ "updated": "2026-11-25T21:00:00+08:00",
  "psi": {
-  "west": 30,
-  "east": 38,
-  "central": 43,
-  "south": 34,
-  "north": 52
+  "west": 28,
+  "east": 39,
+  "central": 42,
+  "south": 32,
+  "north": 51
  },
  "pm25": {
   "west": 6,
-  "east": 14,
-  "central": 6,
-  "south": 8,
+  "east": 10,
+  "central": 9,
+  "south": 5,
   "north": 6
  },
  "hist": [
-  {
-   "t": "2026-11-23T20:00:00+08:00",
-   "psi": {
-    "west": 29,
-    "east": 24,
-    "central": 24,
-    "south": 26,
-    "north": 30
-   }
-  },
   {
    "t": "2026-11-23T21:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 34,
     "north": 52
    }
+  },
+  {
+   "t": "2026-11-25T21:00:00+08:00",
+   "psi": {
+    "west": 28,
+    "east": 39,
+    "central": 42,
+    "south": 32,
+    "north": 51
+   }
   }
  ],
- "newsUpdated": "2026-11-25T20:07:50+08:00",
+ "newsUpdated": "2026-11-25T21:09:13+08:00",
  "news": [
   {
    "source": "CNA",
@@ -560,13 +560,6 @@
    "title": "Southeast Asia’s haze: Corporate accountability begins before the fire",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVp0SDVzZzEwS0x4UkNUd294N0pZWUNyRVd4X0kwZUFXeDhyOGlNelQzblk3el9Nay1UWGhkZ3dZOGJlTDVhS0VyZU52bVpzZDAxaU1waGNGLTZTbldNMXN1bGV6RGM3MFpmZ3pNRUxGa1VEVGR1d2g2UjNTTEY3cExFa0VLRzFYMVBGNWtONW1NWXZDRVR5NTl2bUlxcE9JZWFHQkw4TDduZw?oc=5",
    "time": "2026-11-23T21:55:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "JournalArta",
-   "title": "Indonesia Wildfire Haze Sickens 401,586 People Across 7 Provinces",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaXNVb3ZCU1NZb0xPMGM5aGNfRWxvUmxoWkJMdFdJdS1wbGVzSWtCZ1RhNUF0ZE96R1ZlY1hwWVBsLU1fNEJXdVo1b1ZpRUlCSWhtcjZ2dlFTSG1nNFYyMHptb1pLZnA0OHZNUGp5MlN0czI2WGsxZHNSOWNrN1RtbXB6eVpmcXZLR2NxUjJ5dHdKOU9JUl9yWVowR09iYTZFZVNHNFR3?oc=5",
-   "time": "2026-11-23T20:50:29+08:00",
    "summary": ""
   }
  ]
