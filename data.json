@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-26T18:00:00+08:00",
+ "updated": "2026-11-27T03:00:00+08:00",
  "psi": {
-  "west": 24,
-  "east": 33,
-  "central": 25,
-  "south": 26,
-  "north": 33
+  "west": 26,
+  "east": 32,
+  "central": 33,
+  "south": 33,
+  "north": 27
  },
  "pm25": {
   "west": 5,
-  "east": 5,
-  "central": 9,
-  "south": 6,
-  "north": 8
+  "east": 7,
+  "central": 10,
+  "south": 4,
+  "north": 4
  },
  "hist": [
-  {
-   "t": "2026-11-24T08:00:00+08:00",
-   "psi": {
-    "west": 32,
-    "east": 36,
-    "central": 40,
-    "south": 32,
-    "north": 40
-   }
-  },
   {
    "t": "2026-11-24T09:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 26,
     "north": 33
    }
+  },
+  {
+   "t": "2026-11-27T03:00:00+08:00",
+   "psi": {
+    "west": 26,
+    "east": 32,
+    "central": 33,
+    "south": 33,
+    "north": 27
+   }
   }
  ],
- "newsUpdated": "2026-11-26T18:03:05+08:00",
+ "newsUpdated": "2026-11-27T03:29:44+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,20 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "World Meteorological Organization director proposes ASEAN firefighting force to combat haze",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YUFFMX2JBdUt0Z3BwNUE4WkRjTmNkYkdTLU5GOHFHSkJQWXp4SmpYX1RvREpZVXg0S3E1OUhHTlZrLUZ3Rjc0MzIzekI2ZVN1QXQyb2txQVdDaUtrWEE?oc=5",
+   "time": "2026-11-26T20:16:34+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
+   "time": "2026-11-26T19:54:19+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -556,13 +570,6 @@
    "summary": ""
   },
   {
-   "source": "The Straits Times",
-   "title": "NEA issues notices to 3 more companies in Indonesia over fires contributing to haze",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QRTlXdFpnNjFCWFpNaFJ6WEdwMXJ3SEdTY05mdF9HS0d2SEdhcXdZYXkycTBaQ1JGQm56a05KVlRRaXZTR1BGYmZ2cHdGOFZZYmZlOFhxNURUNC1rNWc?oc=5",
-   "time": "2026-11-25T19:34:15+08:00",
-   "summary": ""
-  },
-  {
    "source": "IQAir",
    "title": "Air quality and haze in Masamba",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwRV9jN0R0MVhOYjZPUXRpX2VWdlpTTVEyQzlfNTRvN19JX1RIMFQ4NVpOcjZySWdXQUV4X3RzU1FzT0QtTDJzSDBKZWwzZ3E4Ry1nZTJfbVg1Mzh0MWNHWWJvWG01NVBMS2JEOHVkTDd3R3dmSXhMdzZn?oc=5",
@@ -570,24 +577,10 @@
    "summary": ""
   },
   {
-   "source": "The Straits Times",
-   "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
-   "time": "2026-11-25T17:47:54+08:00",
-   "summary": ""
-  },
-  {
-   "source": "| Asian Legal Business",
-   "title": "EXPLAINER: Does Singapore’s haze law have teeth?",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWdlc3p2cENlZHpPX3JTVE9lSy1Rd2VtT2tBcGM4YVdmZi1aY2xxNUtlYXMxTWxYVGxjc0dZZWcxNHp3ZHF3LWllOVZUdXNNemgxQVV6MWtPQmwtWGt4QmQzWVJFLUJKcWxxV055RjFtNUF2VzJWQkEyR25Pci1CUHBQb3p1Q0tfWHVqdkVfVGRHQ1hnaUw3aWtxZFgwRmpw?oc=5",
-   "time": "2026-11-24T20:00:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "IQAir",
-   "title": "Air quality and haze in Piru",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zXzFtX0Z4NE9XaWFXNkhTM0hrWHY1WER5dElveDlCMWlORlc5WGRKbEJXNndNSHA4bzFPQmxTdWg0OXVpaVVYNWVYck9IZEJlWDhIcDc3NDQ5Ujdlb0JJc0pEbWxEZXluc29R?oc=5",
-   "time": "2026-11-24T18:52:25+08:00",
+   "source": "Magzter",
+   "title": "S'pore's haze response could offer lessons for future climate crises | The Straits Times - newspaper",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNXZ1Q3hxZFpCRWk2aFZtb2hSUEd2YzhKcC11Rlo3WU5kd2xSdS0ydnE4azI4UzBQQmR0QzAtYW1GeVp0Z2ZDaHVKNUE2ZWM5ZjdxaTZBazA5OUxoeExPVjZ3Q213TjhzazAwVlJvVElJb3YweVZfTEhINkJhaEtfX2ZYeTNTd0tYLWJGOVc2WXZyWnM3NTM5aE9kM3l4a3FMVGlSa3lHdWVoWGVqUTNqamlQdFptTi02ZHJOd2dpSk5XRzh5?oc=5",
+   "time": "2026-11-25T12:18:45+08:00",
    "summary": ""
   }
  ]
