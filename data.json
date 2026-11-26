@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-26T09:00:00+08:00",
+ "updated": "2026-11-26T18:00:00+08:00",
  "psi": {
-  "west": 27,
-  "east": 39,
-  "central": 33,
+  "west": 24,
+  "east": 33,
+  "central": 25,
   "south": 26,
-  "north": 43
+  "north": 33
  },
  "pm25": {
-  "west": 4,
-  "east": 4,
-  "central": 4,
-  "south": 3,
-  "north": 4
+  "west": 5,
+  "east": 5,
+  "central": 9,
+  "south": 6,
+  "north": 8
  },
  "hist": [
-  {
-   "t": "2026-11-24T07:00:00+08:00",
-   "psi": {
-    "west": 31,
-    "east": 36,
-    "central": 38,
-    "south": 33,
-    "north": 39
-   }
-  },
   {
    "t": "2026-11-24T08:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 26,
     "north": 43
    }
+  },
+  {
+   "t": "2026-11-26T18:00:00+08:00",
+   "psi": {
+    "west": 24,
+    "east": 33,
+    "central": 25,
+    "south": 26,
+    "north": 33
+   }
   }
  ],
- "newsUpdated": "2026-11-26T09:35:50+08:00",
+ "newsUpdated": "2026-11-26T18:03:05+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,41 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Singapore to strengthen regional framework on haze when it’s ASEAN chair in 2027",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPWVBXSVY3emdXYmlWWG82UDVpdEpEMi1TWGJtdlE4aWZDeDFLM1h3anJ0NGd4NXpsWXE2TEdrc3NEVl8tSW1ObHdfX093d3BxTGZRbE1LOWRQX3BvNWc?oc=5",
+   "time": "2026-11-26T13:16:41+08:00",
+   "summary": ""
+  },
+  {
+   "source": "Newswav",
+   "title": "Malaysia sets up special committee ahead of 2027 regional haze meetings",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHN5Z3pDSmZiZ2M1UDdEVFc3WEJHa29aczRXQXQ1NHlFcC1abFUyTzdnc2tUU0lYT3dNRGV5bThicmp4ZC1kUTRpcjJTaHhGTlk0cXBVTUlHWlpfQmVLQ0JFVV9ONnlQd0ZEWW10bVhWUVpFZXcwUXg2YlpSRG9YcVpyVDdLMzFrUnlGeTdpa2pnX3A4aC1oZm5tZWdfUk1KSzFZVnpjeDlrRk9PVVAySzJ3?oc=5",
+   "time": "2026-11-26T12:28:11+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NST Online",
+   "title": "Malaysia faces hurdles in enforcing transboundary haze laws",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHlRckg3eC1RS0UteEd3MnJGU1hhcnRWbnBscjV2MVpIU19PMlFkdnZCOEZnMEFwVGFiOTQ2bE54TWU5QU9Yc3ZFeWZRalVjS0ViOEVYOGt3OV83NlhFZkNnRnNOenVMVS1uVzNkc25RQksweGl3SnVpeVEyWXhRY19RZUFVT2hFdFBSdXZBQ3czSWNRazF3Vk03dVEwNXNrT2RhQUJKWGJvdHPSAbABQVVfeXFMTjBCdEEtRlA2dTc2eHVYVVM5ZjVZelhDWFZ3d3NGSVRJRjM1a0NVSUotWkNQamZ5UXdnQjR5REJkTEE5OTdWMm0ySTlwUzhjOUUwQ0ZTZnItdzg1LUYtSWI4RGFTVHYzcjlZRjY2Mjcwa0RrVjI1TFRMamhzbFhKOEhwdnRLOGFxZHFaYml3N3ZVV2ZwUENtN0lVeGNSUWplNkJOZ0dTVklfTGQ1RGlQN3E?oc=5",
+   "time": "2026-11-26T12:11:14+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Star",
+   "title": "M'sia to set up special panel ahead of regional haze chairmanship",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWN6c3p3a1B4Q3h3UXNvbFBicmE1UG1CTDFuWF80R3kzdENIenRObFJsSWVyNmxuYnZnVWlKNGFxZ2ktQTdJRXk2a2Q2RHkwUkhKV2pPdjF2Z2RNN3JZZWNuekw4NnBOMURSRmZ2cWtEVnpKR2VBNzNuQzdtc3hyZ3dZLTlDTkFlMDI3T09qd25HMDI2bExfTEI3SDF1UFhKX0lCNkRHNTR5OGtheE9jeGRMR19qY3ha?oc=5",
+   "time": "2026-11-26T10:23:00+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Vibes",
+   "title": "Govt faces uphill task holding firms accountable for overseas haze pollution",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQXRVSS1NaERIcmhWblktS1BoTnU4bWtfQlBfcjRvR21ITko3T1RVeUtvT2xMNUhqLVJBc21TWUdhLTdfS0RQc0tPRm01bHVFTWhFOEFSaVlFamx6Z2RGLXB6d0J4MTFCaE1vaXQzeFZnZTdmVzFqUnlRTUlrTlcteXFrbXNtQkNOVDV5MkMtcFJQdTJWWkpaeGVDellKd2RoY3lKSHJ4dXNGQTlEb25hQlJiTjQ4eGJUdTVKZkFZYjN0WFprZVFUMDFyb0w?oc=5",
+   "time": "2026-11-26T10:21:00+08:00",
+   "summary": ""
   },
   {
    "source": "The Sun Malaysia",
@@ -539,13 +574,6 @@
    "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
    "time": "2026-11-25T17:47:54+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Why this year’s haze in Singapore could be as bad as 2015",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsX2l1MDV6LU5lbWJYbW96WXdkV3o3eUczNldUZ3BFeHJXWmR4dUJtbG9Yc3NWTmUtWVJhSklSQTBKVlZGdGlPYjVoU04zaXNPaGI1UHpTZWRiT2pYQlE?oc=5",
-   "time": "2026-11-25T15:25:06+08:00",
    "summary": ""
   },
   {
