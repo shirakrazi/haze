@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-27T19:00:00+08:00",
+ "updated": "2026-11-28T03:00:00+08:00",
  "psi": {
-  "west": 36,
-  "east": 42,
-  "central": 44,
-  "south": 46,
-  "north": 30
+  "west": 40,
+  "east": 48,
+  "central": 41,
+  "south": 45,
+  "north": 35
  },
  "pm25": {
-  "west": 14,
-  "east": 19,
-  "central": 13,
-  "south": 24,
-  "north": 10
+  "west": 7,
+  "east": 15,
+  "central": 10,
+  "south": 8,
+  "north": 7
  },
  "hist": [
-  {
-   "t": "2026-11-24T11:00:00+08:00",
-   "psi": {
-    "west": 33,
-    "east": 37,
-    "central": 43,
-    "south": 34,
-    "north": 39
-   }
-  },
   {
    "t": "2026-11-24T12:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 46,
     "north": 30
    }
+  },
+  {
+   "t": "2026-11-28T03:00:00+08:00",
+   "psi": {
+    "west": 40,
+    "east": 48,
+    "central": 41,
+    "south": 45,
+    "north": 35
+   }
   }
  ],
- "newsUpdated": "2026-11-27T19:11:43+08:00",
+ "newsUpdated": "2026-11-28T03:56:29+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "NEA issues notices to 3 more companies in Indonesia over fires contributing to haze",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QRTlXdFpnNjFCWFpNaFJ6WEdwMXJ3SEdTY05mdF9HS0d2SEdhcXdZYXkycTBaQ1JGQm56a05KVlRRaXZTR1BGYmZ2cHdGOFZZYmZlOFhxNURUNC1rNWc?oc=5",
+   "time": "2026-11-27T18:22:12+08:00",
+   "summary": ""
   },
   {
    "source": "LSE Blogs",
@@ -542,13 +549,6 @@
    "summary": ""
   },
   {
-   "source": "The Straits Times",
-   "title": "Companies expected to cooperate with haze investigation: Shanmugam",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
-   "time": "2026-11-27T06:18:28+08:00",
-   "summary": ""
-  },
-  {
    "source": "Newswav",
    "title": "Malaysia sets up special committee ahead of 2027 regional haze meetings",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHN5Z3pDSmZiZ2M1UDdEVFc3WEJHa29aczRXQXQ1NHlFcC1abFUyTzdnc2tUU0lYT3dNRGV5bThicmp4ZC1kUTRpcjJTaHhGTlk0cXBVTUlHWlpfQmVLQ0JFVV9ONnlQd0ZEWW10bVhWUVpFZXcwUXg2YlpSRG9YcVpyVDdLMzFrUnlGeTdpa2pnX3A4aC1oZm5tZWdfUk1KSzFZVnpjeDlrRk9PVVAySzJ3?oc=5",
@@ -574,20 +574,6 @@
    "title": "Govt faces uphill task holding firms accountable for overseas haze pollution",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQXRVSS1NaERIcmhWblktS1BoTnU4bWtfQlBfcjRvR21ITko3T1RVeUtvT2xMNUhqLVJBc21TWUdhLTdfS0RQc0tPRm01bHVFTWhFOEFSaVlFamx6Z2RGLXB6d0J4MTFCaE1vaXQzeFZnZTdmVzFqUnlRTUlrTlcteXFrbXNtQkNOVDV5MkMtcFJQdTJWWkpaeGVDellKd2RoY3lKSHJ4dXNGQTlEb25hQlJiTjQ4eGJUdTVKZkFZYjN0WFprZVFUMDFyb0w?oc=5",
    "time": "2026-11-26T10:21:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Sun Malaysia",
-   "title": "Prabowo apologises to Malaysia, Singapore over transboundary haze",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMWtBQVA5TXFlZjdMVE5HaklmRkhiQWRvdC13YmJhMGNJR0hUT0lHemlFZFZxWWJCV0pzN0tnTlFUUUFYSFhwaXAyX2VnWVBGLUNMV0hVOTdLbG10dTYtOGQ0UVlmVzAwWFRxMmc4bXJfVHpwMU15eFFEbEFVM0NmcVhaQ1VoMUJvbzVvUDdzNWp0LU9KX1RkdFlqUmw3MHJBQzdrTQ?oc=5",
-   "time": "2026-11-26T01:47:46+08:00",
-   "summary": ""
-  },
-  {
-   "source": "IQAir",
-   "title": "Air quality and haze in Tekung",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91alBncllvTG5fRzBtN1ZxWkVUSC10dW1ESnhra19JRVZUbVZ6RVlzQmVLVHd6SHZfZ2pEUHk3QkF0UDVlcm16LW4wUzBBTVRLbEtiTjRTbUJzeFlhRHlEUkpqeFRoUk9KcW9pX2FKb3A?oc=5",
-   "time": "2026-11-25T22:41:49+08:00",
    "summary": ""
   }
  ]
