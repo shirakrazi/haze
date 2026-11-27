@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-27T10:00:00+08:00",
+ "updated": "2026-11-27T19:00:00+08:00",
  "psi": {
-  "west": 29,
-  "east": 34,
-  "central": 36,
-  "south": 37,
-  "north": 27
+  "west": 36,
+  "east": 42,
+  "central": 44,
+  "south": 46,
+  "north": 30
  },
  "pm25": {
-  "west": 9,
-  "east": 11,
-  "central": 11,
-  "south": 13,
-  "north": 6
+  "west": 14,
+  "east": 19,
+  "central": 13,
+  "south": 24,
+  "north": 10
  },
  "hist": [
-  {
-   "t": "2026-11-24T10:00:00+08:00",
-   "psi": {
-    "west": 32,
-    "east": 37,
-    "central": 42,
-    "south": 34,
-    "north": 41
-   }
-  },
   {
    "t": "2026-11-24T11:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 37,
     "north": 27
    }
+  },
+  {
+   "t": "2026-11-27T19:00:00+08:00",
+   "psi": {
+    "west": 36,
+    "east": 42,
+    "central": 44,
+    "south": 46,
+    "north": 30
+   }
   }
  ],
- "newsUpdated": "2026-11-27T10:21:19+08:00",
+ "newsUpdated": "2026-11-27T19:11:43+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,34 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "LSE Blogs",
+   "title": "Follow the Smoke, Follow the Money: Singapore’s Real Leverage Over Indonesia’s Haze.",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWFsR2dwUzF1ejFaUU9MeDFpdWZKeW1xZTN3cjdpbXNXNGU4VXc4VmdZbVVBVWRfSTdMb2JkTlMteXdDbXhqZHVIRl9sa3lYaDczLXFGa2c5WWlpRGVsY3VKU2ZucFNRNjZmT0RyR1NsRC1HdDJrRU9FWWdUenhuYXdnM2RadGZydldiQlJxa0ZvQ0NJanJyRF9iVGNGd1EyWWZ2bGV5OHlFY0E3dFowbWptaE1udHFaWVN1SzBRQQ?oc=5",
+   "time": "2026-11-27T17:25:40+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
+   "time": "2026-11-27T17:16:30+08:00",
+   "summary": ""
+  },
+  {
+   "source": "S. Rajaratnam School of International Studies (RSIS)",
+   "title": "IP26128 | Transboundary Haze, International Law and the Duty to Cooperate",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGVMN2pYUWFzalEzdENlbmRYZkpkWU9OQWNTcDM5VUhpUTBOd0J1TS1NN1hGUTJPXzR3T2cxMWVpZERKbnFwbVdtSElxZWlxLWRNN1Q5OUtSRmhNMDhSZTRfbVZXTGd2VDNiWHNuUkhtSmY1Zm1TV1FKQTlCaG9kRjkyOU5LNk04LWRLbnlvVnl3SGlWUXBkX1lLMUd2MGVwQUU0X1d6NXFFWE4wZ3ExYTYxbw?oc=5",
+   "time": "2026-11-27T11:47:01+08:00",
+   "summary": ""
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Why this year’s haze in Singapore could be as bad as 2015",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsX2l1MDV6LU5lbWJYbW96WXdkV3o3eUczNldUZ3BFeHJXWmR4dUJtbG9Yc3NWTmUtWVJhSklSQTBKVlZGdGlPYjVoU04zaXNPaGI1UHpTZWRiT2pYQlE?oc=5",
+   "time": "2026-11-27T11:30:30+08:00",
+   "summary": ""
   },
   {
    "source": "ad-hoc-news.de",
@@ -518,20 +546,6 @@
    "title": "Companies expected to cooperate with haze investigation: Shanmugam",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
    "time": "2026-11-27T06:18:28+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "World Meteorological Organization director proposes ASEAN firefighting force to combat haze",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YUFFMX2JBdUt0Z3BwNUE4WkRjTmNkYkdTLU5GOHFHSkJQWXp4SmpYX1RvREpZVXg0S3E1OUhHTlZrLUZ3Rjc0MzIzekI2ZVN1QXQyb2txQVdDaUtrWEE?oc=5",
-   "time": "2026-11-26T20:16:34+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Straits Times",
-   "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
-   "time": "2026-11-26T19:54:19+08:00",
    "summary": ""
   },
   {
@@ -574,20 +588,6 @@
    "title": "Air quality and haze in Tekung",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91alBncllvTG5fRzBtN1ZxWkVUSC10dW1ESnhra19JRVZUbVZ6RVlzQmVLVHd6SHZfZ2pEUHk3QkF0UDVlcm16LW4wUzBBTVRLbEtiTjRTbUJzeFlhRHlEUkpqeFRoUk9KcW9pX2FKb3A?oc=5",
    "time": "2026-11-25T22:41:49+08:00",
-   "summary": ""
-  },
-  {
-   "source": "IQAir",
-   "title": "Air quality and haze in Masamba",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwRV9jN0R0MVhOYjZPUXRpX2VWdlpTTVEyQzlfNTRvN19JX1RIMFQ4NVpOcjZySWdXQUV4X3RzU1FzT0QtTDJzSDBKZWwzZ3E4Ry1nZTJfbVg1Mzh0MWNHWWJvWG01NVBMS2JEOHVkTDd3R3dmSXhMdzZn?oc=5",
-   "time": "2026-11-25T18:58:02+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Magzter",
-   "title": "S'pore's haze response could offer lessons for future climate crises | The Straits Times - newspaper",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNXZ1Q3hxZFpCRWk2aFZtb2hSUEd2YzhKcC11Rlo3WU5kd2xSdS0ydnE4azI4UzBQQmR0QzAtYW1GeVp0Z2ZDaHVKNUE2ZWM5ZjdxaTZBazA5OUxoeExPVjZ3Q213TjhzazAwVlJvVElJb3YweVZfTEhINkJhaEtfX2ZYeTNTd0tYLWJGOVc2WXZyWnM3NTM5aE9kM3l4a3FMVGlSa3lHdWVoWGVqUTNqamlQdFptTi02ZHJOd2dpSk5XRzh5?oc=5",
-   "time": "2026-11-25T12:18:45+08:00",
    "summary": ""
   }
  ]
