@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-28T10:00:00+08:00",
+ "updated": "2026-11-28T18:00:00+08:00",
  "psi": {
-  "west": 39,
-  "east": 46,
-  "central": 38,
-  "south": 41,
-  "north": 36
+  "west": 32,
+  "east": 43,
+  "central": 33,
+  "south": 36,
+  "north": 30
  },
  "pm25": {
-  "west": 4,
-  "east": 4,
-  "central": 3,
-  "south": 3,
-  "north": 3
+  "west": 8,
+  "east": 8,
+  "central": 13,
+  "south": 10,
+  "north": 7
  },
  "hist": [
-  {
-   "t": "2026-11-24T13:00:00+08:00",
-   "psi": {
-    "west": 33,
-    "east": 39,
-    "central": 44,
-    "south": 36,
-    "north": 38
-   }
-  },
   {
    "t": "2026-11-24T14:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 41,
     "north": 36
    }
+  },
+  {
+   "t": "2026-11-28T18:00:00+08:00",
+   "psi": {
+    "west": 32,
+    "east": 43,
+    "central": 33,
+    "south": 36,
+    "north": 30
+   }
   }
  ],
- "newsUpdated": "2026-11-28T10:28:56+08:00",
+ "newsUpdated": "2026-11-28T18:43:54+08:00",
  "news": [
   {
    "source": "CNA",
@@ -505,6 +505,13 @@
    "time": "",
    "summary": "Added by the page owner. Open the article for CNA's full report.",
    "pinned": true
+  },
+  {
+   "source": "The Straits Times",
+   "title": "Why this year’s haze in Singapore could be as bad as 2015",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsX2l1MDV6LU5lbWJYbW96WXdkV3o3eUczNldUZ3BFeHJXWmR4dUJtbG9Yc3NWTmUtWVJhSklSQTBKVlZGdGlPYjVoU04zaXNPaGI1UHpTZWRiT2pYQlE?oc=5",
+   "time": "2026-11-28T12:41:09+08:00",
+   "summary": ""
   },
   {
    "source": "The Straits Times",
@@ -542,38 +549,10 @@
    "summary": ""
   },
   {
-   "source": "The Straits Times",
-   "title": "Why this year’s haze in Singapore could be as bad as 2015",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsX2l1MDV6LU5lbWJYbW96WXdkV3o3eUczNldUZ3BFeHJXWmR4dUJtbG9Yc3NWTmUtWVJhSklSQTBKVlZGdGlPYjVoU04zaXNPaGI1UHpTZWRiT2pYQlE?oc=5",
-   "time": "2026-11-27T11:30:30+08:00",
-   "summary": ""
-  },
-  {
    "source": "ad-hoc-news.de",
    "title": "Bumitama Agri stock faces NEA haze assessment after Nov. 17 letter",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPemtMOFFqU3BQeFM5dm12ZUZnSmU5TTZQWE0yTzcxUHJ3S3F5eTR4UVhIOWd1RzBSVjR3Ukstd0ZSM2pQdkR0dlNZTVZ4eDNJZUNqbE8zU1J4cDN5YWdQT0V0NE1IcGxRZmRoMnIzTGJoLXcxUHdIcTlvQWItOXJPOHcxQWFWM1hZWTRhSUgzS0E1U1lHRXo2OHRSYllTaXg3UU51STZSMEgxVDRMMDJOMThjTjNWclEtRUxqQ3d2YnVBZw?oc=5",
    "time": "2026-11-27T09:14:12+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Newswav",
-   "title": "Malaysia sets up special committee ahead of 2027 regional haze meetings",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHN5Z3pDSmZiZ2M1UDdEVFc3WEJHa29aczRXQXQ1NHlFcC1abFUyTzdnc2tUU0lYT3dNRGV5bThicmp4ZC1kUTRpcjJTaHhGTlk0cXBVTUlHWlpfQmVLQ0JFVV9ONnlQd0ZEWW10bVhWUVpFZXcwUXg2YlpSRG9YcVpyVDdLMzFrUnlGeTdpa2pnX3A4aC1oZm5tZWdfUk1KSzFZVnpjeDlrRk9PVVAySzJ3?oc=5",
-   "time": "2026-11-26T12:28:11+08:00",
-   "summary": ""
-  },
-  {
-   "source": "NST Online",
-   "title": "Malaysia faces hurdles in enforcing transboundary haze laws",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHlRckg3eC1RS0UteEd3MnJGU1hhcnRWbnBscjV2MVpIU19PMlFkdnZCOEZnMEFwVGFiOTQ2bE54TWU5QU9Yc3ZFeWZRalVjS0ViOEVYOGt3OV83NlhFZkNnRnNOenVMVS1uVzNkc25RQksweGl3SnVpeVEyWXhRY19RZUFVT2hFdFBSdXZBQ3czSWNRazF3Vk03dVEwNXNrT2RhQUJKWGJvdHPSAbABQVVfeXFMTjBCdEEtRlA2dTc2eHVYVVM5ZjVZelhDWFZ3d3NGSVRJRjM1a0NVSUotWkNQamZ5UXdnQjR5REJkTEE5OTdWMm0ySTlwUzhjOUUwQ0ZTZnItdzg1LUYtSWI4RGFTVHYzcjlZRjY2Mjcwa0RrVjI1TFRMamhzbFhKOEhwdnRLOGFxZHFaYml3N3ZVV2ZwUENtN0lVeGNSUWplNkJOZ0dTVklfTGQ1RGlQN3E?oc=5",
-   "time": "2026-11-26T12:11:14+08:00",
-   "summary": ""
-  },
-  {
-   "source": "Asia News Network",
-   "title": "Malaysia to set up special panel ahead of regional haze chairmanship",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaVh2TUdhanRYcG9HN3JFS2RKN0NLdG5nQTJfcU5hNzJHRHlqYzFFX1hkcTJDb1Vic0hZTERFVU9pejFqeDFoRzVnRUJ4NmM0ZWFIZVE1Yl9fM0pmb2hPSklueFl0dHdxWGRZOVM2WC1vNzlMSkFEaFpoUXc1Z1Rwb0hCc1Y3Ny11R1EyQmotZTlzVlIwUmMwLVNB?oc=5",
-   "time": "2026-11-26T12:08:27+08:00",
    "summary": ""
   }
  ]
