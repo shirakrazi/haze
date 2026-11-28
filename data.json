@@ -1,30 +1,20 @@
 {
- "updated": "2026-11-28T03:00:00+08:00",
+ "updated": "2026-11-28T10:00:00+08:00",
  "psi": {
-  "west": 40,
-  "east": 48,
-  "central": 41,
-  "south": 45,
-  "north": 35
+  "west": 39,
+  "east": 46,
+  "central": 38,
+  "south": 41,
+  "north": 36
  },
  "pm25": {
-  "west": 7,
-  "east": 15,
-  "central": 10,
-  "south": 8,
-  "north": 7
+  "west": 4,
+  "east": 4,
+  "central": 3,
+  "south": 3,
+  "north": 3
  },
  "hist": [
-  {
-   "t": "2026-11-24T12:00:00+08:00",
-   "psi": {
-    "west": 33,
-    "east": 38,
-    "central": 43,
-    "south": 34,
-    "north": 38
-   }
-  },
   {
    "t": "2026-11-24T13:00:00+08:00",
    "psi": {
@@ -494,9 +484,19 @@
     "south": 45,
     "north": 35
    }
+  },
+  {
+   "t": "2026-11-28T10:00:00+08:00",
+   "psi": {
+    "west": 39,
+    "east": 46,
+    "central": 38,
+    "south": 41,
+    "north": 36
+   }
   }
  ],
- "newsUpdated": "2026-11-28T03:56:29+08:00",
+ "newsUpdated": "2026-11-28T10:28:56+08:00",
  "news": [
   {
    "source": "CNA",
@@ -511,6 +511,13 @@
    "title": "NEA issues notices to 3 more companies in Indonesia over fires contributing to haze",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QRTlXdFpnNjFCWFpNaFJ6WEdwMXJ3SEdTY05mdF9HS0d2SEdhcXdZYXkycTBaQ1JGQm56a05KVlRRaXZTR1BGYmZ2cHdGOFZZYmZlOFhxNURUNC1rNWc?oc=5",
    "time": "2026-11-27T18:22:12+08:00",
+   "summary": ""
+  },
+  {
+   "source": "NewsDiaryOnline",
+   "title": "NiMet ​‌⁠‌​‍‍⁠⁠‍‌‍‌​​⁠‌​‌​predicts 3-day thunderstorms, dust haze",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSU1IaFFpd25nNnB5bC1QOXVRTlp5eHhRYVVLWENrWDd4ZnNSUUg1UkRvdmFPeHdWcnp2ZkVDaHJYMXpFYkxmUjFfc3VZX1FYdklzajN4NjVkbTJldlFocUFuc0FIb25KVnZyNHJHQ0kydFpmTnlNNGdfUXM1azUxSDNR?oc=5",
+   "time": "2026-11-27T17:44:31+08:00",
    "summary": ""
   },
   {
@@ -563,17 +570,10 @@
    "summary": ""
   },
   {
-   "source": "The Star",
-   "title": "M'sia to set up special panel ahead of regional haze chairmanship",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWN6c3p3a1B4Q3h3UXNvbFBicmE1UG1CTDFuWF80R3kzdENIenRObFJsSWVyNmxuYnZnVWlKNGFxZ2ktQTdJRXk2a2Q2RHkwUkhKV2pPdjF2Z2RNN3JZZWNuekw4NnBOMURSRmZ2cWtEVnpKR2VBNzNuQzdtc3hyZ3dZLTlDTkFlMDI3T09qd25HMDI2bExfTEI3SDF1UFhKX0lCNkRHNTR5OGtheE9jeGRMR19qY3ha?oc=5",
-   "time": "2026-11-26T10:23:00+08:00",
-   "summary": ""
-  },
-  {
-   "source": "The Vibes",
-   "title": "Govt faces uphill task holding firms accountable for overseas haze pollution",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQXRVSS1NaERIcmhWblktS1BoTnU4bWtfQlBfcjRvR21ITko3T1RVeUtvT2xMNUhqLVJBc21TWUdhLTdfS0RQc0tPRm01bHVFTWhFOEFSaVlFamx6Z2RGLXB6d0J4MTFCaE1vaXQzeFZnZTdmVzFqUnlRTUlrTlcteXFrbXNtQkNOVDV5MkMtcFJQdTJWWkpaeGVDellKd2RoY3lKSHJ4dXNGQTlEb25hQlJiTjQ4eGJUdTVKZkFZYjN0WFprZVFUMDFyb0w?oc=5",
-   "time": "2026-11-26T10:21:00+08:00",
+   "source": "Asia News Network",
+   "title": "Malaysia to set up special panel ahead of regional haze chairmanship",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaVh2TUdhanRYcG9HN3JFS2RKN0NLdG5nQTJfcU5hNzJHRHlqYzFFX1hkcTJDb1Vic0hZTERFVU9pejFqeDFoRzVnRUJ4NmM0ZWFIZVE1Yl9fM0pmb2hPSklueFl0dHdxWGRZOVM2WC1vNzlMSkFEaFpoUXc1Z1Rwb0hCc1Y3Ny11R1EyQmotZTlzVlIwUmMwLVNB?oc=5",
+   "time": "2026-11-26T12:08:27+08:00",
    "summary": ""
   }
  ]
